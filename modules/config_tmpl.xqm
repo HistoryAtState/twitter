@@ -6,7 +6,7 @@ module namespace config = "http://history.state.gov/ns/xquery/twitter/config";
     https://dev.twitter.com/apps/.
  :)
 
-declare variable $config:consumer-key := '';
-declare variable $config:consumer-secret := '';
-declare variable $config:access-token := '';
-declare variable $config:access-token-secret := '';
+declare function config:consumer-key() {''};
+declare function config:consumer-secret() {''};
+declare function config:access-token() {''};
+declare function config:access-token-secret() {''};

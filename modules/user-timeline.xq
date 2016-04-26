@@ -19,10 +19,10 @@ let $contributor-details := false()
 let $include-rts := false()
 let $request-response := 
     twitter:user-timeline(
-        $config:consumer-key, 
-        $config:consumer-secret, 
-        $config:access-token, 
-        $config:access-token-secret, 
+        config:consumer-key(),
+        config:consumer-secret(),
+        config:access-token(),
+        config:access-token-secret(),
         $user-id, 
         $screen-name, 
         $since-id, 

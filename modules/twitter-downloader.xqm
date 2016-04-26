@@ -13,12 +13,9 @@ declare variable $twitter-dl:logs-collection := '/db/apps/twitter/import-logs';
 
 
 declare function twitter-dl:crawl-user-timeline($count as xs:integer, $max-id as xs:unsignedLong?) {
-    let $consumer-key := ''
-    let $consumer-secret :=''
-    let $access-token := ''
-    let $access-token-secret := ''
-    
-    let $response := twitter:user-timeline($consumer-key, $consumer-secret, $access-token, $access-token-secret, (), (), (), $count, $max-id, true(), true(), false(), false())
+    let $response := twitter:user-timeline(
+        config:consumer-key(), config:consumer-secret(), config:access-token(), config:access-token-secret(),
+        (), (), (), $count, $max-id, true(), true(), false(), false())
 
     let $result := twitter-dl:process-response($response)
     return 

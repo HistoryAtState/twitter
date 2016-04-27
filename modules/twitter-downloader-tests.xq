@@ -5,6 +5,5 @@ import module namespace twitter="http://history.state.gov/ns/xquery/twitter" at 
 import module namespace twitter-dl="http://history.state.gov/ns/xquery/twitter-downloader" at "twitter-downloader.xqm";
 import module namespace pt = "http://history.state.gov/ns/xquery/twitter/process-tweets" at "process-tweets.xqm";
 
-let $count := 10
-return
-twitter-dl:crawl-user-timeline($count, ())
+twitter-dl:download-last-posts(10, ())
+(:twitter-dl:download-last-posts(30, 720271125960204289):)

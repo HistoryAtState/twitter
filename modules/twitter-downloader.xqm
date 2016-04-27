@@ -11,7 +11,6 @@ import module namespace pt = "http://history.state.gov/ns/xquery/twitter/process
 
 declare variable $twitter-dl:data-collection := '/db/apps/twitter/data';
 declare variable $twitter-dl:import-collection := '/db/apps/twitter/import';
-declare variable $twitter-dl:logs-collection := '/db/apps/twitter/import-logs';
 
 (: Downloads to the local store a portion of tweets from the configured user timeline.
  : $count - the number of tweets to obtain; if not given, it is read from config

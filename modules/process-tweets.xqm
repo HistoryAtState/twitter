@@ -190,19 +190,35 @@ declare function pt:tweet-json-to-xml($tweet as map(*), $default-screen-name as 
 
 (: Store the transformed tweet into the database :)
 declare function pt:store-tweet-xml($tweet-xml) {
+    let $destination-col := pt:collection-for-tweet($tweet-xml) 
+    let $filename := pt:file-name-for-tweet($tweet-xml)
+    let $prepare-collection := 
+        if (xmldb:collection-available('/db/apps/twitter/data' || '/' || $destination-col)) then 
+            () 
+        else 
+            pt:mkcol('/db/apps/twitter/data', $destination-col)
+    return
+        xmldb:store('/db/apps/twitter/data' || '/' || $destination-col, $filename, $tweet-xml)
+};
+
+(: Returns the path to the collection appropriate for the given tweet. The returned path is relative wrt the app data path. :)
+declare function pt:collection-for-tweet($tweet-xml) {
     let $screen-name := $tweet-xml/screen-name
     let $created-datetime := xs:dateTime($tweet-xml/date)
     let $year := year-from-date($created-datetime)
     let $month := functx:pad-integer-to-length(month-from-date($created-datetime), 2)
     let $day := functx:pad-integer-to-length(day-from-date($created-datetime), 2)
-    let $destination-col := string-join(('/db/apps/twitter/data', $screen-name, $year, $month, $day), '/')
-    let $id := $tweet-xml/id
-    let $filename := concat($id, '.xml')
-    let $prepare-collection := 
-        if (xmldb:collection-available($destination-col)) then 
-            () 
-        else 
-            pt:mkcol('/db/apps/twitter/data', string-join(($screen-name, $year, $month, $day), '/'))
-    return
-        xmldb:store($destination-col, $filename, $tweet-xml)
+    return string-join(($screen-name, $year, $month, $day), '/')
 };
+
+(: Returns the appropriate xml file name for the given tweet. :)
+declare function pt:file-name-for-tweet($tweet-xml) {
+    let $id := $tweet-xml/id
+    return concat($id, '.xml')
+};
+
+(: Returns the full path to the XML file for the given tweet. :)
+declare function pt:full-path-for-tweet($tweet-xml) {
+    string-join(('/db/apps/twitter/data', pt:collection-for-tweet($tweet-xml), pt:file-name-for-tweet($tweet-xml)), '/')
+};
+

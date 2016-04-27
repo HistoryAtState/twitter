@@ -16,7 +16,7 @@ declare variable $twitter-dl:logs-collection := '/db/apps/twitter/import-logs';
 (: Downloads to the local store a portion of tweets from the configured user timeline.
  : $count - the number of tweets to obtain; if not given, it is read from config
  : $max-id - recent tweets before this one (including this one if such exists) will be downloaded; if not given, most recent tweets will be downloaded.
- : Returs an XML summary of downloaded tweets, including all downloaded tweets ids (from the earliest to the oldest).
+ : Returns an XML summary of downloaded tweets, including all downloaded tweet ids (from the earliest to the oldest).
  : report/stored describes a tweet which has been stored to the database, and report/existed a tweet which already existed and has been skipped.
  :)
 declare function twitter-dl:download-last-posts($count as xs:integer?, $max-id as xs:unsignedLong?) {
@@ -46,6 +46,7 @@ declare function twitter-dl:download-last-posts($count as xs:integer?, $max-id a
 
 (: Recursive function to download tweets until we match an already downloaded one (or no more tweets on the server).
  :)
+(: TODO? Support XRate headers and stop when limit reached. :)
 declare function twitter-dl:download-last-posts-rec($max-id as xs:unsignedLong?, $report-accumulator as node()) {
     let $this-time-report := twitter-dl:download-last-posts((), $max-id)
     let $acc := <report> {
@@ -66,5 +67,4 @@ declare function twitter-dl:download-last-posts-rec($max-id as xs:unsignedLong?,
 declare function twitter-dl:download-all-last-posts() {
     twitter-dl:download-last-posts-rec((), <report/>) 
 };
-
 

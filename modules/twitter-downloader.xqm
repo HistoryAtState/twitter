@@ -43,3 +43,28 @@ declare function twitter-dl:download-last-posts($count as xs:integer?, $max-id a
                 return <stored tweet-id="{$tweet-xml/id}" tweet-date="{$tweet-xml/date}" />
     } </report>
 };
+
+(: Recursive function to download tweets until we match an already downloaded one (or no more tweets on the server).
+ :)
+declare function twitter-dl:download-last-posts-rec($max-id as xs:unsignedLong?, $report-accumulator as node()) {
+    let $this-time-report := twitter-dl:download-last-posts((), $max-id)
+    let $acc := <report> {
+        $report-accumulator/*,
+        $this-time-report/*
+    }</report>
+    return
+    if(count($this-time-report/stored) = 0 or $this-time-report/existed)
+    then $acc
+    else
+        let $id-to-check := min($this-time-report/stored/@tweet-id ! xs:unsignedLong(.)) - 1
+        return twitter-dl:download-last-posts-rec($id-to-check, $acc)
+};
+
+(: Downloads to the local store all recent tweets from the configured user timeline.
+ : Returs an XML summary of downloaded tweets, a concatenation of twitter-dl:download-last-posts reports.
+ :)
+declare function twitter-dl:download-all-last-posts() {
+    twitter-dl:download-last-posts-rec((), <report/>) 
+};
+
+

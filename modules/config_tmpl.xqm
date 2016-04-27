@@ -10,3 +10,5 @@ declare function config:consumer-key() {''};
 declare function config:consumer-secret() {''};
 declare function config:access-token() {''};
 declare function config:access-token-secret() {''};
+
+declare variable $config:download-chunk-size := 10;

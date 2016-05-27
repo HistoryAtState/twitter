@@ -8,6 +8,7 @@ module namespace twitter-dl="http://history.state.gov/ns/xquery/twitter-download
 import module namespace config = "http://history.state.gov/ns/xquery/twitter/config" at "config.xqm";
 import module namespace twitter = "http://history.state.gov/ns/xquery/twitter" at "twitter.xqm";
 import module namespace pt = "http://history.state.gov/ns/xquery/twitter/process-tweets" at "process-tweets.xqm";
+declare namespace hc = "http://expath.org/ns/http-client";
 
 declare variable $twitter-dl:data-collection := '/db/apps/twitter/data';
 declare variable $twitter-dl:import-collection := '/db/apps/twitter/import';
@@ -36,7 +37,10 @@ declare function twitter-dl:download-last-posts($count as xs:integer?, $max-id a
     let $response-head := $request-response[2]
     let $response-body := $request-response[3]
     let $json := parse-json(util:binary-to-string($response-body))
-    return <report requested-count="{$count}"> {
+    return <report requested-count="{$count}"
+            x-rate-limit-limit="{$response-head//hc:header[@name='x-rate-limit-limit']/text()}"
+            x-rate-limit-remaining="{$response-head//hc:header[@name='x-rate-limit-remaining']/text()}"
+            x-rate-limit-datetime="{$response-head//hc:header[@name='x-rate-limit-datetime']/text()}" > {
         if($max-id)
             then attribute requested-max-id {$max-id}
             else (),
@@ -56,23 +60,51 @@ declare function twitter-dl:download-last-posts($count as xs:integer?, $max-id a
 (: TODO? Support XRate headers and stop when limit reached. :)
 declare function twitter-dl:download-last-posts-rec($max-id as xs:unsignedLong?, $report-accumulator as node()) {
     let $this-time-report := twitter-dl:download-last-posts((), $max-id)
+    let $next-id-to-check := min($this-time-report/stored/@tweet-id ! xs:unsignedLong(.)) - 1
+    let $suspend :=
+        if ($this-time-report/@x-rate-limit-remaining > 1)
+        then ()
+        else attribute suspended {$next-id-to-check}
     let $acc := <report> {
+        $suspend,
         $report-accumulator/*,
         $this-time-report/*
     }</report>
     return
-    if(count($this-time-report/stored) = 0 or $this-time-report/existed)
+    if(count($this-time-report/stored) = 0 or $this-time-report/existed or $suspend)
     then $acc
     else
-        let $id-to-check := min($this-time-report/stored/@tweet-id ! xs:unsignedLong(.)) - 1
-        return twitter-dl:download-last-posts-rec($id-to-check, $acc)
+        twitter-dl:download-last-posts-rec($next-id-to-check, $acc)
 };
 
 (: Downloads to the local store all recent tweets from the configured user timeline.
  : Returs an XML summary of downloaded tweets, a concatenation of twitter-dl:download-last-posts reports.
  :)
 declare function twitter-dl:download-all-last-posts() {
-    twitter-dl:download-last-posts-rec((), <report/>) 
+    let $twitter-state-file := '/db/apps/twitter/data/twitter-state.xml'
+    let $twitter-state :=
+        if(doc-available($twitter-state-file))
+        then
+            doc($twitter-state-file)/twitter-state
+        else
+            <twitter-state>
+            </twitter-state>
+    let $starting-max-id := $twitter-state/xml/suspended/text()
+    let $report := twitter-dl:download-last-posts-rec($starting-max-id, <report/>)
+    let $final-twitter-state :=
+        <twitter-state>
+            <xml>
+                <max-known-id>{max(($twitter-state/xml/max-known-id, $report/stored/@tweet-id, $report/existed/@tweet-id) ! xs:unsignedLong(.))}</max-known-id>
+                {
+                if($report/@suspended)
+                then <suspended>{string($report/@suspended)}</suspended>
+                else ()
+                }
+            </xml>
+        </twitter-state>
+    let $store-state := xmldb:store('/db/apps/twitter/data', 'twitter-state.xml', $final-twitter-state)
+    return $report
+
 };
 
 

@@ -12,6 +12,14 @@ import module namespace pt = "http://history.state.gov/ns/xquery/twitter/process
 declare variable $twitter-dl:data-collection := '/db/apps/twitter/data';
 declare variable $twitter-dl:import-collection := '/db/apps/twitter/import';
 
+(: An inefficient way to check if a file is present in a collection.
+ :)
+declare function twitter-dl:is-file-present($collection as xs:string, $file as xs:string) as xs:boolean {
+        let $all-files := xmldb:get-child-resources($collection)
+        return $file = $all-files
+};
+
+
 (: Downloads to the local store a portion of tweets from the configured user timeline.
  : $count - the number of tweets to obtain; if not given, it is read from config
  : $max-id - recent tweets before this one (including this one if such exists) will be downloaded; if not given, most recent tweets will be downloaded.
@@ -67,3 +75,52 @@ declare function twitter-dl:download-all-last-posts() {
     twitter-dl:download-last-posts-rec((), <report/>) 
 };
 
+
+(: Downloads raw JSON data of a recent tweet to the import directory.
+ : $max-id - recent tweets before this one (including this one if such exists) will be downloaded; if not given, most recent tweets will be downloaded.
+ : Returns an XML summary of downloaded tweets, including all downloaded tweet ids (from the earliest to the oldest).
+ : report/stored describes a tweet which has been stored to the database, and report/existed a tweet which already existed and has been skipped.
+ :)
+declare function twitter-dl:download-last-json($max-id as xs:unsignedLong?) {
+    let $request-response := twitter:user-timeline(
+        config:consumer-key(), config:consumer-secret(), config:access-token(), config:access-token-secret(),
+        (), (), (), 1, $max-id, true(), true(), false(), false())
+
+    let $request := $request-response[1]
+    let $response-head := $request-response[2]
+    let $response-body := $request-response[3]
+    let $response-body-text := util:binary-to-string($response-body)
+    let $json := parse-json($response-body-text)
+    let $tweet := ($json?*)[1]
+    let $tweet-id := xs:unsignedLong($tweet?id_str)
+    let $file-name :=  $tweet-id || '.json'
+    return
+        <report> {
+        if (twitter-dl:is-file-present($twitter-dl:import-collection, $file-name))
+        then <existed tweet-id="{$tweet-id}" created_at="{$tweet?created_at}" />
+        else
+            let $store := xmldb:store-as-binary($twitter-dl:import-collection, $file-name, $response-body-text)
+            return <stored tweet-id="{$tweet-id}" created_at="{$tweet?created_at}" />
+        } </report>
+};
+
+declare function twitter-dl:download-last-json-rec($max-id as xs:unsignedLong?, $report-accumulator as node()) {
+    let $this-time-report := twitter-dl:download-last-json($max-id)
+    let $acc := <report> {
+        $report-accumulator/*,
+        $this-time-report/*
+    }</report>
+    return
+    if(count($this-time-report/stored) = 0 or $this-time-report/existed)
+    then $acc
+    else
+        let $id-to-check := min($this-time-report/stored/@tweet-id ! xs:unsignedLong(.)) - 1
+        return twitter-dl:download-last-json-rec($id-to-check, $acc)
+};
+
+(: Downloads to the local store JSON version of all recent tweets from the configured user timeline.
+ : Returs an XML summary of downloaded tweets, a concatenation of twitter-dl:download-last-json reports.
+ :)
+declare function twitter-dl:download-all-last-json() {
+    twitter-dl:download-last-json-rec((), <report/>)
+};

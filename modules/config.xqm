@@ -15,3 +15,4 @@ declare variable $config:import-collection := $config:app-path || '/import';
 
 declare variable $config:download-chunk-size := 10;
 declare variable $config:twitter-state-file-name := 'twitter-state.xml';
+declare variable $config:twitter-dl-log := 'twitter-dl-log.xml';

@@ -15,11 +15,11 @@ let $report :=
 
 let $end-time := util:system-time()
 let $runtimems := (($end-time - $start-time) div xs:dayTimeDuration('PT1S'))  * 1000
-let $log-end := util:log-system-out(concat('Finished Twitter check at :', current-dateTime()))
-let $log-size := util:log-system-out(concat('Stored ', count($report/stored), ' new posts from Twitter.'))
-let $log-runtime := util:log-system-out(concat('Twitter check in milliseconds: ', $runtimems))
+let $log-size := util:log-system-out(concat('Stored ', count($report/stored), ' new posts from Twitter at :', current-dateTime(), ' (in ', $runtimems, 'ms)' ))
+let $_ := util:log-app('info', 'hsg-twitter', concat('Stored ', count($report/stored), ' new posts from Twitter (in ', $runtimems, 'ms)' ))
 
 return
+    
 <results>
    <message>Completed operation in {$runtimems} ms</message>
    {$report}

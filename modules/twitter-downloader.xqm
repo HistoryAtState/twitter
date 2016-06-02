@@ -34,7 +34,7 @@ declare function twitter-dl:is-file-present($collection as xs:string, $file as x
  :)
 declare function twitter-dl:download-last-posts($count as xs:integer?, $max-id as xs:unsignedLong?) {
     let $count := if($count > 0) then $count else $config:download-chunk-size
-    let $_ := util:log('info', 'Sending Twitter request, count=' || $count || ', maxid=' || $max-id)
+    let $_ := util:log-app('info', 'hsg-twitter', 'Sending Twitter request, count=' || $count || ', maxid=' || $max-id)
     let $request-response := twitter:user-timeline(
         config:consumer-key(), config:consumer-secret(), config:access-token(), config:access-token-secret(),
         (), (), (), $count, $max-id, true(), true(), false(), false())
@@ -43,7 +43,7 @@ declare function twitter-dl:download-last-posts($count as xs:integer?, $max-id a
     let $response-head := $request-response[2]
     let $response-body := $request-response[3]
     let $json := parse-json(util:binary-to-string($response-body))
-    let $_ := util:log('info', 'Twitter response, count=' || count($json?*)
+    let $_ := util:log-app('info', 'hsg-twitter', 'Twitter response, count=' || count($json?*)
                 || ', x-rate-limit-remaining=' || $response-head//hc:header[@name='x-rate-limit-remaining']/@value)
     return <report requested-count="{$count}"> {
         twitter-dl:copy-header-to-attribute($response-head, 'x-rate-limit-limit'),
@@ -57,10 +57,10 @@ declare function twitter-dl:download-last-posts($count as xs:integer?, $max-id a
             let $path-to-store := pt:full-path-for-tweet($tweet-xml)
             return if (doc-available($path-to-store))
             then
-                let $_ := util:log('debug', 'Twitter post (XML) already found, id=' || $tweet-xml/id)
+                let $_ := util:log-app('debug', 'hsg-twitter', 'Twitter post (XML) already found, id=' || $tweet-xml/id)
                 return <existed tweet-id="{$tweet-xml/id}" tweet-date="{$tweet-xml/date}" />
             else
-                let $_ := util:log('info', 'Storing Twitter post (XML), id=' || $tweet-xml/id)
+                let $_ := util:log-app('info', 'hsg-twitter', 'Storing Twitter post (XML), id=' || $tweet-xml/id)
                 let $store := pt:store-tweet-xml($tweet-xml)
                 return <stored tweet-id="{$tweet-xml/id}" tweet-date="{$tweet-xml/date}" />
     } </report>
@@ -83,14 +83,14 @@ declare function twitter-dl:download-last-posts-rec($max-id as xs:unsignedLong?,
     return
     if($suspend)
     then
-        let $_ := util:log('info', 'Twitter download SUSPENDING due to x-rate limit reached, id=' || $next-id-to-check || ', downloaded so far: ' || count($acc/*))
+        let $_ := util:log-app('info', 'hsg-twitter', 'Twitter download SUSPENDING due to x-rate limit reached, id=' || $next-id-to-check || ', downloaded so far: ' || count($acc/*))
         return $acc
     else if(count($this-time-report/stored) = 0 or $this-time-report/existed)
     then
-        let $_ := util:log('info', 'Twitter download loop FINISHES at id=' || $next-id-to-check || ', downloaded: ' || count($acc/*))
+        let $_ := util:log-app('info', 'hsg-twitter', 'Twitter download loop FINISHES at id=' || $next-id-to-check || ', downloaded: ' || count($acc/*))
         return $acc
     else
-        let $_ := util:log('info', 'Twitter download loop CONTINUES at id=' || $next-id-to-check || ', downloaded so far: ' || count($acc/*))
+        let $_ := util:log-app('info', 'hsg-twitter', 'Twitter download loop CONTINUES at id=' || $next-id-to-check || ', downloaded so far: ' || count($acc/*))
         return twitter-dl:download-last-posts-rec($next-id-to-check, $acc)
 };
 
@@ -131,7 +131,7 @@ declare function twitter-dl:download-all-last-posts() {
  : report/stored describes a tweet which has been stored to the database, and report/existed a tweet which already existed and has been skipped.
  :)
 declare function twitter-dl:download-last-json($max-id as xs:unsignedLong?) {
-    let $_ := util:log('info', 'Sending Twitter request1 , maxid=' || $max-id)
+    let $_ := util:log-app('info', 'hsg-twitter', 'Sending Twitter request1 , maxid=' || $max-id)
     let $request-response := twitter:user-timeline(
         config:consumer-key(), config:consumer-secret(), config:access-token(), config:access-token-secret(),
         (), (), (), 1, $max-id, true(), true(), false(), false())
@@ -148,10 +148,10 @@ declare function twitter-dl:download-last-json($max-id as xs:unsignedLong?) {
         <report> {
         if (twitter-dl:is-file-present($config:import-collection, $file-name))
         then
-            let $_ := util:log('debug', 'Twitter post (JSON) already found, id=' || $tweet-id)
+            let $_ := util:log-app('debug', 'hsg-twitter', 'Twitter post (JSON) already found, id=' || $tweet-id)
             return <existed tweet-id="{$tweet-id}" created_at="{$tweet?created_at}" />
         else
-            let $_ := util:log('info', 'Storing Twitter post (JSON), id=' || $tweet-id)
+            let $_ := util:log-app('info', 'hsg-twitter', 'Storing Twitter post (JSON), id=' || $tweet-id)
             let $store := xmldb:store-as-binary($config:import-collection, $file-name, $response-body-text)
             return <stored tweet-id="{$tweet-id}" created_at="{$tweet?created_at}" />
         } </report>

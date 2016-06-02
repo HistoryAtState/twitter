@@ -1,5 +1,6 @@
 xquery version "3.1";
 
+import module namespace config = "http://history.state.gov/ns/xquery/twitter/config" at "config.xqm";
 import module namespace ju = "http://joewiz.org/ns/xquery/json-util" at "/db/apps/twitter/json-util.xqm";
 import module namespace dates = "http://xqdev.com/dateparser" at "/db/apps/twitter/date-parser.xqm";
 import module namespace console="http://exist-db.org/xquery/console";
@@ -146,16 +147,16 @@ declare function local:store-tweet-xml($tweet-xml) {
     let $year := year-from-date($created-datetime)
     let $month := functx:pad-integer-to-length(month-from-date($created-datetime), 2)
     let $day := functx:pad-integer-to-length(day-from-date($created-datetime), 2)
-    let $destination-col := string-join(('/db/apps/twitter/data', $year, $month, $day), '/')
+    let $destination-col := string-join(($config:data-collection, $year, $month, $day), '/')
     let $filename := concat($id, '.xml')
     return
         (
-            if (xmldb:collection-available($destination-col)) then () else local:mkcol-recursive('/db/apps/twitter/data', ($year, $month, $day)),
+            if (xmldb:collection-available($destination-col)) then () else local:mkcol-recursive($config:data-collection, ($year, $month, $day)),
             xmldb:store($destination-col, $filename, $tweet)
         )
 };
 
-let $import-col := '/db/apps/twitter/import'
+let $import-col := $config:data-collection
 let $files := xmldb:get-child-resources($import-col)
 let $paths := $files ! concat($import-col, '/', .)
 for $path in $paths

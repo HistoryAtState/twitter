@@ -1,5 +1,7 @@
 xquery version "3.1";
 
+(: Can be configured as a job, or started manually. :)
+
 import module namespace twitter-dl="http://history.state.gov/ns/xquery/twitter-downloader" at "../modules/twitter-downloader.xqm";
 
 

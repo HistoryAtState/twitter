@@ -1,8 +1,8 @@
 xquery version "3.1";
 
-(: Run the Twitter Update function.  Should be run every 5 minutes.
+(: Run the Twitter Update function.  Can be run e.g. every 10 minutes.
    $EXIST_HOME/conf.xml may contain a relevant Job Scheduler Entry like this:
-   <job xquery="/db/apps/twitter/jobs/download-recent-twitter-posts.xq"  period="300000"/>
+   <job xquery="/db/apps/twitter/jobs/download-recent-twitter-posts.xq"  period="600000"/>
 :)
 
 import module namespace twitter-dl="http://history.state.gov/ns/xquery/twitter-downloader" at "../modules/twitter-downloader.xqm";

@@ -72,7 +72,7 @@ declare function twitter-dl:download-last-posts-rec($max-id as xs:unsignedLong?,
     let $this-time-report := twitter-dl:download-last-posts((), $max-id)
     let $next-id-to-check := min($this-time-report/stored/@tweet-id ! xs:unsignedLong(.)) - 1
     let $suspend :=
-        if ($this-time-report/@x-rate-limit-remaining <= 0)
+        if ($this-time-report/@x-rate-limit-remaining <= 4)
         then attribute suspended {$next-id-to-check}
         else ()
     let $acc := <report> {

@@ -9,4 +9,9 @@ declare function config:consumer-secret() {secrets:read-secret('consumer-secret'
 declare function config:access-token() {secrets:read-secret('access-token')};
 declare function config:access-token-secret() {secrets:read-secret('access-token-secret')};
 
+declare variable $config:app-path := '/db/apps/twitter';
+declare variable $config:data-collection := $config:app-path || '/data';
+declare variable $config:import-collection := $config:app-path || '/import';
+
 declare variable $config:download-chunk-size := 10;
+declare variable $config:twitter-state-file-name := 'twitter-state.xml';

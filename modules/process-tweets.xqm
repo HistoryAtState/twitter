@@ -2,6 +2,7 @@ xquery version "3.1";
 
 module namespace pt="http://history.state.gov/ns/xquery/twitter/process-tweets";
 
+import module namespace config = "http://history.state.gov/ns/xquery/twitter/config" at "config.xqm";
 import module namespace ju = "http://joewiz.org/ns/xquery/json-util" at "json-util.xqm";
 import module namespace dates = "http://xqdev.com/dateparser" at "date-parser.xqm";
 import module namespace console="http://exist-db.org/xquery/console";
@@ -193,12 +194,12 @@ declare function pt:store-tweet-xml($tweet-xml) {
     let $destination-col := pt:collection-for-tweet($tweet-xml) 
     let $filename := pt:file-name-for-tweet($tweet-xml)
     let $prepare-collection := 
-        if (xmldb:collection-available('/db/apps/twitter/data' || '/' || $destination-col)) then 
-            () 
-        else 
-            pt:mkcol('/db/apps/twitter/data', $destination-col)
+        if (xmldb:collection-available($config:data-collection || '/' || $destination-col)) then 
+            ()
+        else
+            pt:mkcol($config:data-collection, $destination-col)
     return
-        xmldb:store('/db/apps/twitter/data' || '/' || $destination-col, $filename, $tweet-xml)
+        xmldb:store($config:data-collection || '/' || $destination-col, $filename, $tweet-xml)
 };
 
 (: Returns the path to the collection appropriate for the given tweet. The returned path is relative wrt the app data path. :)
@@ -219,6 +220,6 @@ declare function pt:file-name-for-tweet($tweet-xml) {
 
 (: Returns the full path to the XML file for the given tweet. :)
 declare function pt:full-path-for-tweet($tweet-xml) {
-    string-join(('/db/apps/twitter/data', pt:collection-for-tweet($tweet-xml), pt:file-name-for-tweet($tweet-xml)), '/')
+    string-join(($config:data-collection, pt:collection-for-tweet($tweet-xml), pt:file-name-for-tweet($tweet-xml)), '/')
 };
 

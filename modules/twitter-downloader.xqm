@@ -10,9 +10,6 @@ import module namespace twitter = "http://history.state.gov/ns/xquery/twitter" a
 import module namespace pt = "http://history.state.gov/ns/xquery/twitter/process-tweets" at "process-tweets.xqm";
 declare namespace hc = "http://expath.org/ns/http-client";
 
-declare variable $twitter-dl:data-collection := '/db/apps/twitter/data';
-declare variable $twitter-dl:import-collection := '/db/apps/twitter/import';
-
 (: An inefficient way to check if a file is present in a collection.
  :)
 declare function twitter-dl:is-file-present($collection as xs:string, $file as xs:string) as xs:boolean {
@@ -81,7 +78,7 @@ declare function twitter-dl:download-last-posts-rec($max-id as xs:unsignedLong?,
  : Returs an XML summary of downloaded tweets, a concatenation of twitter-dl:download-last-posts reports.
  :)
 declare function twitter-dl:download-all-last-posts() {
-    let $twitter-state-file := '/db/apps/twitter/data/twitter-state.xml'
+    let $twitter-state-file := $config:data-collection || '/' || $config:twitter-state-file-name
     let $twitter-state :=
         if(doc-available($twitter-state-file))
         then
@@ -102,7 +99,7 @@ declare function twitter-dl:download-all-last-posts() {
                 }
             </xml>
         </twitter-state>
-    let $store-state := xmldb:store('/db/apps/twitter/data', 'twitter-state.xml', $final-twitter-state)
+    let $store-state := xmldb:store($config:data-collection, $config:twitter-state-file-name, $final-twitter-state)
     return $report
 
 };
@@ -128,10 +125,10 @@ declare function twitter-dl:download-last-json($max-id as xs:unsignedLong?) {
     let $file-name :=  $tweet-id || '.json'
     return
         <report> {
-        if (twitter-dl:is-file-present($twitter-dl:import-collection, $file-name))
+        if (twitter-dl:is-file-present($config:import-collection, $file-name))
         then <existed tweet-id="{$tweet-id}" created_at="{$tweet?created_at}" />
         else
-            let $store := xmldb:store-as-binary($twitter-dl:import-collection, $file-name, $response-body-text)
+            let $store := xmldb:store-as-binary($config:import-collection, $file-name, $response-body-text)
             return <stored tweet-id="{$tweet-id}" created_at="{$tweet?created_at}" />
         } </report>
 };

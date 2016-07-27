@@ -4,7 +4,10 @@
     <property name="project.version" value="${package(version)}"/>
     <property name="project.app" value="${package(abbrev)}"/>
     <property name="build.dir" value="build"/>
-    <target name="xar">
+    <target name="prepare">
+        <copy file="modules/twitter-secrets.xqm.tmpl" tofile="modules/twitter-secrets.xqm" overwrite="true"/>
+    </target>
+    <target name="xar" depends="prepare">
         <mkdir dir="${build.dir}"/>
         <zip basedir="." destfile="${build.dir}/${project.app}-${project.version}.xar" excludes="${build.dir}/*"/>
     </target>

@@ -6,7 +6,7 @@
     <property name="build.dir" value="build"/>
     <target name="prepare">
         <copy file="modules/twitter-secrets.xqm.tmpl" tofile="modules/twitter-secrets.xqm"
-            overwrite="true"/>
+            overwrite="false"/>
     </target>
     <target name="xar" depends="prepare">
         <mkdir dir="${build.dir}"/>

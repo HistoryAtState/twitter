@@ -71,7 +71,7 @@ declare function oauth:send-request(
         let $final-parameter-string := oauth:params-to-oauth-string($final-params, ', ')
         let $authorization-header-value := concat('OAuth ', $final-parameter-string)
         let $request := 
-            <http:request href="{$url}" method="{$method}">
+            <http:request href="{$url}" method="{$method}" http-version="1.1">
                 <http:header name="Authorization" value="{$authorization-header-value}"/>
             </http:request>
         let $response := http:send-request($request)

@@ -6,7 +6,7 @@ xquery version "3.1";
 :)
 
 import module namespace twitter-dl="http://history.state.gov/ns/xquery/twitter-downloader" at "../modules/twitter-downloader.xqm";
-
+import module namespace secrets="http://history.state.gov/ns/xquery/twitter/secrets" at "/db/apps/twitter/modules/twitter-secrets.xqm";
 
 declare function local:download-tweets() {
     let $log-start := util:log-system-out(concat('Starting Twitter check at ', current-dateTime()))

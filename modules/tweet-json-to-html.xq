@@ -86,15 +86,15 @@ declare function local:process-entities($tweet as map(*)) {
                     case 'urls' return
                         for $e in $entity?*
                         return
-                            map:new(( map {'type': 'url'}, $e ))
+                            map:merge(( map {'type': 'url'}, $e ))
                     case 'hashtags' return
                         for $e in $entity?*
                         return
-                            map:new(( map {'type': 'hashtag'}, $e ))
+                            map:merge(( map {'type': 'hashtag'}, $e ))
                     case 'user_mentions' return
                         for $e in $entity?*
                         return
-                            map:new(( map {'type': 'user-mention'}, $e ))
+                            map:merge(( map {'type': 'user-mention'}, $e ))
                     default return 
                         (: drop all other entities; we won't process these others.
                          : note that any included entites need an "indices" array :)

@@ -35,7 +35,7 @@ declare function ju:json-to-xml($json) {
                             $array-member
                     }
             else if ($data-type = 'map') then
-                map:for-each-entry(
+                map:for-each(
                     $json, 
                     function($object-name, $object-value) {
                         let $object-value-data-type := ju:json-data-type($object-value)
@@ -63,7 +63,7 @@ declare function ju:xml-to-json($nodes) {
                 if ($node/@key) then
                     map { $node/@key := ju:xml-to-json($node/node()) }
                 else
-                    map:new( ju:xml-to-json($node/node()) )
+                    map:merge( ju:xml-to-json($node/node()) )
             case element(json:array) return
                 if ($node/@key) then
                     map { $node/@key := array { ju:xml-to-json($node/node()) } }

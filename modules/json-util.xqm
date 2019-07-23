@@ -61,32 +61,32 @@ declare function ju:xml-to-json($nodes) {
         typeswitch ($node)
             case element(json:map) return
                 if ($node/@key) then
-                    map { $node/@key := ju:xml-to-json($node/node()) }
+                    map { $node/@key : ju:xml-to-json($node/node()) }
                 else
                     map:merge( ju:xml-to-json($node/node()) )
             case element(json:array) return
                 if ($node/@key) then
-                    map { $node/@key := array { ju:xml-to-json($node/node()) } }
+                    map { $node/@key : array { ju:xml-to-json($node/node()) } }
                 else
                     array { ju:xml-to-json($node/node()) }
             case element(json:string) return
                 if ($node/@key) then 
-                    map { $node/@key := $node/string() }
+                    map { $node/@key : $node/string() }
                 else 
                     $node/string()
             case element(json:number) return
                 if ($node/@key) then
-                    map { $node/@key := $node cast as xs:double }
+                    map { $node/@key : $node cast as xs:double }
                 else 
                     $node cast as xs:double
             case element(json:boolean) return
                 if ($node/@key) then 
-                    map { $node/@key := $node cast as xs:boolean }
+                    map { $node/@key : $node cast as xs:boolean }
                 else
                     $node cast as xs:boolean
             case element(json:null) return
                 if ($node/@key) then 
-                    map { $node/@key := () }
+                    map { $node/@key : () }
                 else
                     ()
             case text() return 

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://exist-db.org/collection-config/1.0">
+    <index xmlns:xs="http://www.w3.org/2001/XMLSchema">
+        <range>
+            <create qname="tweet">
+                <field name="tweet-id" type="xs:string" match="id"/>
+                <field name="tweet-date" type="xs:dateTime" match="date"/>
+            </create>
+        </range>
+    </index>
+
+    <!-- Replication -->
+    <triggers>
+        <trigger class="org.exist.jms.replication.publish.ReplicationTrigger">
+            <parameter name="java.naming.factory.initial" value="org.apache.activemq.jndi.ActiveMQInitialContextFactory"/>
+
+            <parameter name="java.naming.provider.url" value="@provider-url@"/>
+
+            <parameter name="connection-factory" value="ConnectionFactory"/>
+
+            <parameter name="destination" value="@destination@"/>
+        </trigger>
+    </triggers>
+</collection>

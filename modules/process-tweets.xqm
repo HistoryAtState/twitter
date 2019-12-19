@@ -62,7 +62,7 @@ declare function pt:photo($text as xs:string, $photo-map as map(*)) {
     let $text := $photo-map?display_url
     let $url := $photo-map?expanded_url
     return
-        ($chunks[1], <a href="{$url}">{$text}</a>, $chunks[3])
+        ($chunks[1], <a href="{$url}"><img src="{$photo-map?media_url_https}"/></a>, $chunks[3])
 };
 
 (: apply entities, from last to first; entities must already be in last-to-first order :)

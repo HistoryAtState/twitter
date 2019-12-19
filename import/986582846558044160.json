@@ -1,0 +1,377 @@
+[
+    {
+        "created_at": "Wed Apr 18 12:30:55 +0000 2018",
+        "id": 986582846558044160,
+        "id_str": "986582846558044160",
+        "full_text": "RT @StateDept: \"Barbara Bush represented the best of our country to the world, from our embassy in China to @WhiteHouse as First Lady. We'r\u2026",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            140
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "StateDept",
+                    "name": "Department of State",
+                    "id": 9624742,
+                    "id_str": "9624742",
+                    "indices": [
+                        3,
+                        13
+                    ]
+                },
+                {
+                    "screen_name": "WhiteHouse",
+                    "name": "The White House",
+                    "id": 822215673812119553,
+                    "id_str": "822215673812119553",
+                    "indices": [
+                        108,
+                        119
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client<\/a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 586570880,
+            "id_str": "586570880"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Wed Apr 18 02:43:45 +0000 2018",
+            "id": 986435084025819136,
+            "id_str": "986435084025819136",
+            "full_text": "\"Barbara Bush represented the best of our country to the world, from our embassy in China to @WhiteHouse as First Lady. We're grateful for her legacy of public service, volunteerism &amp; family. We offer deepest condolences &amp; thoughts &amp; prayers to her loved ones.\" -- @StateDeptSpox https://t.co/VcgJ2oVwhb",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                291
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "WhiteHouse",
+                        "name": "The White House",
+                        "id": 822215673812119553,
+                        "id_str": "822215673812119553",
+                        "indices": [
+                            93,
+                            104
+                        ]
+                    },
+                    {
+                        "screen_name": "statedeptspox",
+                        "name": "Morgan Ortagus",
+                        "id": 1967216306,
+                        "id_str": "1967216306",
+                        "indices": [
+                            277,
+                            291
+                        ]
+                    }
+                ],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 986434805821620224,
+                        "id_str": "986434805821620224",
+                        "indices": [
+                            292,
+                            315
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DbCFOsMUQAA4nbk.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DbCFOsMUQAA4nbk.jpg",
+                        "url": "https://t.co/VcgJ2oVwhb",
+                        "display_url": "pic.twitter.com/VcgJ2oVwhb",
+                        "expanded_url": "https://twitter.com/StateDept/status/986435084025819136/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1200,
+                                "h": 675,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 675,
+                                "resize": "fit"
+                            }
+                        },
+                        "features": {
+                            "large": {
+                                "faces": [
+                                    {
+                                        "x": 278,
+                                        "y": 133,
+                                        "h": 56,
+                                        "w": 56
+                                    },
+                                    {
+                                        "x": 130,
+                                        "y": 365,
+                                        "h": 84,
+                                        "w": 84
+                                    },
+                                    {
+                                        "x": 1019,
+                                        "y": 475,
+                                        "h": 128,
+                                        "w": 128
+                                    }
+                                ]
+                            },
+                            "orig": {
+                                "faces": [
+                                    {
+                                        "x": 278,
+                                        "y": 133,
+                                        "h": 56,
+                                        "w": 56
+                                    },
+                                    {
+                                        "x": 130,
+                                        "y": 365,
+                                        "h": 84,
+                                        "w": 84
+                                    },
+                                    {
+                                        "x": 1019,
+                                        "y": 475,
+                                        "h": 128,
+                                        "w": 128
+                                    }
+                                ]
+                            },
+                            "small": {
+                                "faces": [
+                                    {
+                                        "x": 157,
+                                        "y": 75,
+                                        "h": 31,
+                                        "w": 31
+                                    },
+                                    {
+                                        "x": 73,
+                                        "y": 206,
+                                        "h": 47,
+                                        "w": 47
+                                    },
+                                    {
+                                        "x": 577,
+                                        "y": 269,
+                                        "h": 72,
+                                        "w": 72
+                                    }
+                                ]
+                            },
+                            "medium": {
+                                "faces": [
+                                    {
+                                        "x": 278,
+                                        "y": 133,
+                                        "h": 56,
+                                        "w": 56
+                                    },
+                                    {
+                                        "x": 130,
+                                        "y": 365,
+                                        "h": 84,
+                                        "w": 84
+                                    },
+                                    {
+                                        "x": 1019,
+                                        "y": 475,
+                                        "h": 128,
+                                        "w": 128
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 986434805821620224,
+                        "id_str": "986434805821620224",
+                        "indices": [
+                            292,
+                            315
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DbCFOsMUQAA4nbk.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DbCFOsMUQAA4nbk.jpg",
+                        "url": "https://t.co/VcgJ2oVwhb",
+                        "display_url": "pic.twitter.com/VcgJ2oVwhb",
+                        "expanded_url": "https://twitter.com/StateDept/status/986435084025819136/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1200,
+                                "h": 675,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 675,
+                                "resize": "fit"
+                            }
+                        },
+                        "features": {
+                            "large": {
+                                "faces": [
+                                    {
+                                        "x": 278,
+                                        "y": 133,
+                                        "h": 56,
+                                        "w": 56
+                                    },
+                                    {
+                                        "x": 130,
+                                        "y": 365,
+                                        "h": 84,
+                                        "w": 84
+                                    },
+                                    {
+                                        "x": 1019,
+                                        "y": 475,
+                                        "h": 128,
+                                        "w": 128
+                                    }
+                                ]
+                            },
+                            "orig": {
+                                "faces": [
+                                    {
+                                        "x": 278,
+                                        "y": 133,
+                                        "h": 56,
+                                        "w": 56
+                                    },
+                                    {
+                                        "x": 130,
+                                        "y": 365,
+                                        "h": 84,
+                                        "w": 84
+                                    },
+                                    {
+                                        "x": 1019,
+                                        "y": 475,
+                                        "h": 128,
+                                        "w": 128
+                                    }
+                                ]
+                            },
+                            "small": {
+                                "faces": [
+                                    {
+                                        "x": 157,
+                                        "y": 75,
+                                        "h": 31,
+                                        "w": 31
+                                    },
+                                    {
+                                        "x": 73,
+                                        "y": 206,
+                                        "h": 47,
+                                        "w": 47
+                                    },
+                                    {
+                                        "x": 577,
+                                        "y": 269,
+                                        "h": 72,
+                                        "w": 72
+                                    }
+                                ]
+                            },
+                            "medium": {
+                                "faces": [
+                                    {
+                                        "x": 278,
+                                        "y": 133,
+                                        "h": 56,
+                                        "w": 56
+                                    },
+                                    {
+                                        "x": 130,
+                                        "y": 365,
+                                        "h": 84,
+                                        "w": 84
+                                    },
+                                    {
+                                        "x": 1019,
+                                        "y": 475,
+                                        "h": 128,
+                                        "w": 128
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client<\/a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 9624742,
+                "id_str": "9624742"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 341,
+            "favorite_count": 970,
+            "favorited": false,
+            "retweeted": true,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 341,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": true,
+        "lang": "en"
+    }
+]

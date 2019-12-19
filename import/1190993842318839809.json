@@ -1,0 +1,241 @@
+[
+    {
+        "created_at": "Sun Nov 03 14:07:14 +0000 2019",
+        "id": 1190993842318839809,
+        "id_str": "1190993842318839809",
+        "full_text": "#twitterstorians https://t.co/Vr0yvSUodo",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            16
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "twitterstorians",
+                    "indices": [
+                        0,
+                        16
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/Vr0yvSUodo",
+                    "expanded_url": "https://twitter.com/FSIatState/status/1190003745133871109",
+                    "display_url": "twitter.com/FSIatState/sta\u2026",
+                    "indices": [
+                        17,
+                        40
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App<\/a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 586570880,
+            "id_str": "586570880"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1190003745133871109,
+        "quoted_status_id_str": "1190003745133871109",
+        "quoted_status_permalink": {
+            "url": "https://t.co/Vr0yvSUodo",
+            "expanded": "https://twitter.com/FSIatState/status/1190003745133871109",
+            "display": "twitter.com/FSIatState/sta\u2026"
+        },
+        "quoted_status": {
+            "created_at": "Thu Oct 31 20:32:56 +0000 2019",
+            "id": 1190003745133871109,
+            "id_str": "1190003745133871109",
+            "full_text": "The #HeroesofUSDiplomacy from World War I were not only the leaders of U.S. embassies and consulates, but also the \u201crank and file of the diplomatic consular corps.\u201d Thanks @HistoryAtState for telling their stories. https://t.co/4D5leJ3WJC https://t.co/WCcw7NobqO",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                238
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "HeroesofUSDiplomacy",
+                        "indices": [
+                            4,
+                            24
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "HistoryAtState",
+                        "name": "HistoryAtState",
+                        "id": 586570880,
+                        "id_str": "586570880",
+                        "indices": [
+                            172,
+                            187
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/4D5leJ3WJC",
+                        "expanded_url": "http://go.usa.gov/xp3FN",
+                        "display_url": "go.usa.gov/xp3FN",
+                        "indices": [
+                            215,
+                            238
+                        ]
+                    }
+                ],
+                "media": [
+                    {
+                        "id": 1190003629081735169,
+                        "id_str": "1190003629081735169",
+                        "indices": [
+                            239,
+                            262
+                        ],
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1190003629081735169/pu/img/xGHK2DRow4GOFYuk.jpg",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1190003629081735169/pu/img/xGHK2DRow4GOFYuk.jpg",
+                        "url": "https://t.co/WCcw7NobqO",
+                        "display_url": "pic.twitter.com/WCcw7NobqO",
+                        "expanded_url": "https://twitter.com/FSIatState/status/1190003745133871109/video/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 675,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1280,
+                                "h": 720,
+                                "resize": "fit"
+                            }
+                        },
+                        "features": {}
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1190003629081735169,
+                        "id_str": "1190003629081735169",
+                        "indices": [
+                            239,
+                            262
+                        ],
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1190003629081735169/pu/img/xGHK2DRow4GOFYuk.jpg",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1190003629081735169/pu/img/xGHK2DRow4GOFYuk.jpg",
+                        "url": "https://t.co/WCcw7NobqO",
+                        "display_url": "pic.twitter.com/WCcw7NobqO",
+                        "expanded_url": "https://twitter.com/FSIatState/status/1190003745133871109/video/1",
+                        "type": "video",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 675,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1280,
+                                "h": 720,
+                                "resize": "fit"
+                            }
+                        },
+                        "video_info": {
+                            "aspect_ratio": [
+                                16,
+                                9
+                            ],
+                            "duration_millis": 8275,
+                            "variants": [
+                                {
+                                    "bitrate": 256000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1190003629081735169/pu/vid/480x270/tEIAeDuKQ2BNfuL9.mp4?tag=10"
+                                },
+                                {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/ext_tw_video/1190003629081735169/pu/pl/iDWTjv0yx8YcORGj.m3u8?tag=10"
+                                },
+                                {
+                                    "bitrate": 832000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1190003629081735169/pu/vid/640x360/4JsAaCsErD6EeuCk.mp4?tag=10"
+                                },
+                                {
+                                    "bitrate": 2176000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1190003629081735169/pu/vid/1280x720/dXtXjcUJD7xxCqk_.mp4?tag=10"
+                                }
+                            ]
+                        },
+                        "features": {},
+                        "additional_media_info": {"monetizable": false}
+                    }
+                ]
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App<\/a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 958044239576948736,
+                "id_str": "958044239576948736"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 2,
+            "favorite_count": 4,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "retweet_count": 1,
+        "favorite_count": 5,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "und"
+    }
+]

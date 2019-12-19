@@ -1,0 +1,625 @@
+[
+    {
+        "created_at": "Wed Mar 29 10:12:29 +0000 2017",
+        "id": 847028680425639936,
+        "id_str": "847028680425639936",
+        "full_text": "RT @USEmbassyFrance: Historiens, journalistes, étudiants, connaissez-vous les archives en ligne du @HistoryAtState ? RDV sur https://t.co/S\u2026",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            140
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "USEmbassyFrance",
+                    "name": "U.S. Embassy France",
+                    "id": 72814599,
+                    "id_str": "72814599",
+                    "indices": [
+                        3,
+                        19
+                    ]
+                },
+                {
+                    "screen_name": "HistoryAtState",
+                    "name": "HistoryAtState",
+                    "id": 586570880,
+                    "id_str": "586570880",
+                    "indices": [
+                        99,
+                        114
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad<\/a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 586570880,
+            "id_str": "586570880"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Wed Mar 29 09:45:15 +0000 2017",
+            "id": 847021827276845056,
+            "id_str": "847021827276845056",
+            "full_text": "Historiens, journalistes, étudiants, connaissez-vous les archives en ligne du @HistoryAtState ? RDV sur https://t.co/SsXAj4KP9F #FindFRUS https://t.co/gb7IvJxrFN",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                137
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "FindFRUS",
+                        "indices": [
+                            128,
+                            137
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "HistoryAtState",
+                        "name": "HistoryAtState",
+                        "id": 586570880,
+                        "id_str": "586570880",
+                        "indices": [
+                            78,
+                            93
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/SsXAj4KP9F",
+                        "expanded_url": "http://www.history.state.gov",
+                        "display_url": "history.state.gov",
+                        "indices": [
+                            104,
+                            127
+                        ]
+                    }
+                ],
+                "media": [
+                    {
+                        "id": 847021779520557057,
+                        "id_str": "847021779520557057",
+                        "indices": [
+                            138,
+                            161
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/C8E50h1XkAEBgup.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/C8E50h1XkAEBgup.jpg",
+                        "url": "https://t.co/gb7IvJxrFN",
+                        "display_url": "pic.twitter.com/gb7IvJxrFN",
+                        "expanded_url": "https://twitter.com/USEmbassyFrance/status/847021827276845056/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 1000,
+                                "h": 778,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1000,
+                                "h": 778,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 529,
+                                "resize": "fit"
+                            }
+                        },
+                        "features": {
+                            "medium": {
+                                "faces": [
+                                    {
+                                        "x": 83,
+                                        "y": 206,
+                                        "h": 48,
+                                        "w": 48
+                                    },
+                                    {
+                                        "x": 153,
+                                        "y": 181,
+                                        "h": 49,
+                                        "w": 49
+                                    },
+                                    {
+                                        "x": 838,
+                                        "y": 189,
+                                        "h": 45,
+                                        "w": 45
+                                    },
+                                    {
+                                        "x": 320,
+                                        "y": 87,
+                                        "h": 74,
+                                        "w": 74
+                                    },
+                                    {
+                                        "x": 559,
+                                        "y": 120,
+                                        "h": 59,
+                                        "w": 59
+                                    },
+                                    {
+                                        "x": 282,
+                                        "y": 285,
+                                        "h": 53,
+                                        "w": 53
+                                    },
+                                    {
+                                        "x": 246,
+                                        "y": 435,
+                                        "h": 52,
+                                        "w": 52
+                                    },
+                                    {
+                                        "x": 328,
+                                        "y": 584,
+                                        "h": 62,
+                                        "w": 62
+                                    }
+                                ]
+                            },
+                            "orig": {
+                                "faces": [
+                                    {
+                                        "x": 83,
+                                        "y": 206,
+                                        "h": 48,
+                                        "w": 48
+                                    },
+                                    {
+                                        "x": 153,
+                                        "y": 181,
+                                        "h": 49,
+                                        "w": 49
+                                    },
+                                    {
+                                        "x": 838,
+                                        "y": 189,
+                                        "h": 45,
+                                        "w": 45
+                                    },
+                                    {
+                                        "x": 320,
+                                        "y": 87,
+                                        "h": 74,
+                                        "w": 74
+                                    },
+                                    {
+                                        "x": 559,
+                                        "y": 120,
+                                        "h": 59,
+                                        "w": 59
+                                    },
+                                    {
+                                        "x": 282,
+                                        "y": 285,
+                                        "h": 53,
+                                        "w": 53
+                                    },
+                                    {
+                                        "x": 246,
+                                        "y": 435,
+                                        "h": 52,
+                                        "w": 52
+                                    },
+                                    {
+                                        "x": 328,
+                                        "y": 584,
+                                        "h": 62,
+                                        "w": 62
+                                    }
+                                ]
+                            },
+                            "large": {
+                                "faces": [
+                                    {
+                                        "x": 83,
+                                        "y": 206,
+                                        "h": 48,
+                                        "w": 48
+                                    },
+                                    {
+                                        "x": 153,
+                                        "y": 181,
+                                        "h": 49,
+                                        "w": 49
+                                    },
+                                    {
+                                        "x": 838,
+                                        "y": 189,
+                                        "h": 45,
+                                        "w": 45
+                                    },
+                                    {
+                                        "x": 320,
+                                        "y": 87,
+                                        "h": 74,
+                                        "w": 74
+                                    },
+                                    {
+                                        "x": 559,
+                                        "y": 120,
+                                        "h": 59,
+                                        "w": 59
+                                    },
+                                    {
+                                        "x": 282,
+                                        "y": 285,
+                                        "h": 53,
+                                        "w": 53
+                                    },
+                                    {
+                                        "x": 246,
+                                        "y": 435,
+                                        "h": 52,
+                                        "w": 52
+                                    },
+                                    {
+                                        "x": 328,
+                                        "y": 584,
+                                        "h": 62,
+                                        "w": 62
+                                    }
+                                ]
+                            },
+                            "small": {
+                                "faces": [
+                                    {
+                                        "x": 56,
+                                        "y": 140,
+                                        "h": 32,
+                                        "w": 32
+                                    },
+                                    {
+                                        "x": 104,
+                                        "y": 123,
+                                        "h": 33,
+                                        "w": 33
+                                    },
+                                    {
+                                        "x": 569,
+                                        "y": 128,
+                                        "h": 30,
+                                        "w": 30
+                                    },
+                                    {
+                                        "x": 217,
+                                        "y": 59,
+                                        "h": 50,
+                                        "w": 50
+                                    },
+                                    {
+                                        "x": 380,
+                                        "y": 81,
+                                        "h": 40,
+                                        "w": 40
+                                    },
+                                    {
+                                        "x": 191,
+                                        "y": 193,
+                                        "h": 36,
+                                        "w": 36
+                                    },
+                                    {
+                                        "x": 167,
+                                        "y": 295,
+                                        "h": 35,
+                                        "w": 35
+                                    },
+                                    {
+                                        "x": 223,
+                                        "y": 397,
+                                        "h": 42,
+                                        "w": 42
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 847021779520557057,
+                        "id_str": "847021779520557057",
+                        "indices": [
+                            138,
+                            161
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/C8E50h1XkAEBgup.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/C8E50h1XkAEBgup.jpg",
+                        "url": "https://t.co/gb7IvJxrFN",
+                        "display_url": "pic.twitter.com/gb7IvJxrFN",
+                        "expanded_url": "https://twitter.com/USEmbassyFrance/status/847021827276845056/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 1000,
+                                "h": 778,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1000,
+                                "h": 778,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 529,
+                                "resize": "fit"
+                            }
+                        },
+                        "features": {
+                            "medium": {
+                                "faces": [
+                                    {
+                                        "x": 83,
+                                        "y": 206,
+                                        "h": 48,
+                                        "w": 48
+                                    },
+                                    {
+                                        "x": 153,
+                                        "y": 181,
+                                        "h": 49,
+                                        "w": 49
+                                    },
+                                    {
+                                        "x": 838,
+                                        "y": 189,
+                                        "h": 45,
+                                        "w": 45
+                                    },
+                                    {
+                                        "x": 320,
+                                        "y": 87,
+                                        "h": 74,
+                                        "w": 74
+                                    },
+                                    {
+                                        "x": 559,
+                                        "y": 120,
+                                        "h": 59,
+                                        "w": 59
+                                    },
+                                    {
+                                        "x": 282,
+                                        "y": 285,
+                                        "h": 53,
+                                        "w": 53
+                                    },
+                                    {
+                                        "x": 246,
+                                        "y": 435,
+                                        "h": 52,
+                                        "w": 52
+                                    },
+                                    {
+                                        "x": 328,
+                                        "y": 584,
+                                        "h": 62,
+                                        "w": 62
+                                    }
+                                ]
+                            },
+                            "orig": {
+                                "faces": [
+                                    {
+                                        "x": 83,
+                                        "y": 206,
+                                        "h": 48,
+                                        "w": 48
+                                    },
+                                    {
+                                        "x": 153,
+                                        "y": 181,
+                                        "h": 49,
+                                        "w": 49
+                                    },
+                                    {
+                                        "x": 838,
+                                        "y": 189,
+                                        "h": 45,
+                                        "w": 45
+                                    },
+                                    {
+                                        "x": 320,
+                                        "y": 87,
+                                        "h": 74,
+                                        "w": 74
+                                    },
+                                    {
+                                        "x": 559,
+                                        "y": 120,
+                                        "h": 59,
+                                        "w": 59
+                                    },
+                                    {
+                                        "x": 282,
+                                        "y": 285,
+                                        "h": 53,
+                                        "w": 53
+                                    },
+                                    {
+                                        "x": 246,
+                                        "y": 435,
+                                        "h": 52,
+                                        "w": 52
+                                    },
+                                    {
+                                        "x": 328,
+                                        "y": 584,
+                                        "h": 62,
+                                        "w": 62
+                                    }
+                                ]
+                            },
+                            "large": {
+                                "faces": [
+                                    {
+                                        "x": 83,
+                                        "y": 206,
+                                        "h": 48,
+                                        "w": 48
+                                    },
+                                    {
+                                        "x": 153,
+                                        "y": 181,
+                                        "h": 49,
+                                        "w": 49
+                                    },
+                                    {
+                                        "x": 838,
+                                        "y": 189,
+                                        "h": 45,
+                                        "w": 45
+                                    },
+                                    {
+                                        "x": 320,
+                                        "y": 87,
+                                        "h": 74,
+                                        "w": 74
+                                    },
+                                    {
+                                        "x": 559,
+                                        "y": 120,
+                                        "h": 59,
+                                        "w": 59
+                                    },
+                                    {
+                                        "x": 282,
+                                        "y": 285,
+                                        "h": 53,
+                                        "w": 53
+                                    },
+                                    {
+                                        "x": 246,
+                                        "y": 435,
+                                        "h": 52,
+                                        "w": 52
+                                    },
+                                    {
+                                        "x": 328,
+                                        "y": 584,
+                                        "h": 62,
+                                        "w": 62
+                                    }
+                                ]
+                            },
+                            "small": {
+                                "faces": [
+                                    {
+                                        "x": 56,
+                                        "y": 140,
+                                        "h": 32,
+                                        "w": 32
+                                    },
+                                    {
+                                        "x": 104,
+                                        "y": 123,
+                                        "h": 33,
+                                        "w": 33
+                                    },
+                                    {
+                                        "x": 569,
+                                        "y": 128,
+                                        "h": 30,
+                                        "w": 30
+                                    },
+                                    {
+                                        "x": 217,
+                                        "y": 59,
+                                        "h": 50,
+                                        "w": 50
+                                    },
+                                    {
+                                        "x": 380,
+                                        "y": 81,
+                                        "h": 40,
+                                        "w": 40
+                                    },
+                                    {
+                                        "x": 191,
+                                        "y": 193,
+                                        "h": 36,
+                                        "w": 36
+                                    },
+                                    {
+                                        "x": 167,
+                                        "y": 295,
+                                        "h": 35,
+                                        "w": 35
+                                    },
+                                    {
+                                        "x": 223,
+                                        "y": 397,
+                                        "h": 42,
+                                        "w": 42
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client<\/a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 72814599,
+                "id_str": "72814599"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 11,
+            "favorite_count": 18,
+            "favorited": false,
+            "retweeted": true,
+            "possibly_sensitive": false,
+            "lang": "fr"
+        },
+        "is_quote_status": false,
+        "retweet_count": 11,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": true,
+        "lang": "fr"
+    }
+]

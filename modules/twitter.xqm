@@ -37,6 +37,7 @@ declare function twitter:user-timeline(
     let $query-string := 
         string-join(
             (
+            "tweet_mode=extended",
             if ($user-id) then concat('user_id=', $user-id) else (),
             if ($screen-name) then concat('screen_name=', $screen-name) else (),
             if ($since-id) then concat('since_id=', $since-id) else (),
@@ -85,6 +86,7 @@ declare function twitter:show(
         string-join(
             (
             concat('id=', $id),
+            "tweet_mode=extended",
             if ($trim-user) then concat('trim_user=', $trim-user) else (),
             if ($include-my-retweet) then concat('include_my_retweet=', $include-my-retweet) else (),
             if ($include-entities) then concat('include_entities=', $include-entities) else ()
@@ -117,7 +119,7 @@ declare function twitter:echo-response($request-response as item()+) {
         (
         $request, 
         $response-head, 
-        ju:serialize-json($json),
+        serialize($json, map { "method": "json", "indent": true() } ),
         $xml
         )
 };

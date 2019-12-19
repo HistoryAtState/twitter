@@ -98,7 +98,7 @@ declare function pt:apply-entities($text as xs:string, $entities as map(*)*, $se
  : tweet entities are grouped by type, and they do not come in any order with relation to the text,
  : so we need to sort them first before applying them :)
 declare function pt:process-entities($tweet as map(*)) {
-    let $text := $tweet?text
+    let $text := $tweet?full_text
     let $entities-map := map:get($tweet, 'entities')
     let $entities-to-process :=
         for $entity-key in map:keys($entities-map)
@@ -161,15 +161,15 @@ declare function pt:tweet-json-to-xml($tweet as map(*), $default-screen-name as 
     let $id := $tweet?id_str
     let $screen-name := ($tweet?screen_name, $default-screen-name)[1]
     let $url := concat('https://twitter.com/', $screen-name, '/status/', $id)
-    let $text := pt:clean-text($tweet?text)
+    let $text := pt:clean-text($tweet?full_text)
     let $created-at := $tweet?created_at
     let $created-datetime := adjust-dateTime-to-timezone(xs:dateTime(dates:parseDateTime(replace($created-at, '\+0000 (\d{4})', '$1 0000'))), ())
     let $html := 
         (: "Retweeted tweets are a special kind of tweet", see https://twittercommunity.com/t/long-retweets-are-truncated/9647 :)
-        if ($tweet?retweeted) then
+        if (map:contains($tweet, "retweeted_status")) then
             (
                 'RT ',
-                let $retweeted-user := replace($tweet?text, '^RT @([^:]*?):.*$', '$1')
+                let $retweeted-user := replace($tweet?full_text, '^RT @([^:]*?):.*$', '$1')
                 let $url := concat('https://twitter.com/', $retweeted-user)
                 return
                     <a href="{$url}">@{$retweeted-user}</a>,

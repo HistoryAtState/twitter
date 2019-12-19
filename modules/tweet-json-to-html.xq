@@ -74,7 +74,7 @@ declare function local:apply-entities($text as xs:string, $entities as map(*)*, 
  : tweet entities are grouped by type, and they do not come in any order with relation to the text,
  : so we need to sort them first before applying them :)
 declare function local:process-entities($tweet as map(*)) {
-    let $text := $tweet?text
+    let $text := $tweet?full_text
     let $entities-map := map:get($tweet, 'entities')
     let $entities-to-process :=
         for $entity-key in map:keys($entities-map)
@@ -129,7 +129,7 @@ declare function local:mkcol($collection, $path) {
 declare function local:tweet-json-to-xml($tweet) {
     let $id := xs:decimal($tweet?id)
     let $url := concat('https://twitter.com/HistoryAtState/statuses/', $id)
-    let $text := $tweet?text
+    let $text := $tweet?full_text
     let $created-at := $tweet?created_at
     let $created-datetime := adjust-dateTime-to-timezone(xs:dateTime(dates:parseDateTime(replace($created-at, '\+0000 (\d{4})', '$1 0000'))), ())
     return

@@ -90,7 +90,7 @@ declare function dates:parseDate(
 
             let $shortCut := dates:_convertShortcutsToTPlusMinus($date)
             let $shortCut := if(exists($shortCut)) then dates:_convertTPlusMinusToDate($shortCut) else ()
-            let $today := format-dateTime(current-dateTime(), "yyyy-MM-dd")
+            let $today := format-date(current-date(), "[Y0001]-[M01]-[D01]")
             let $date :=
                 if(exists($shortCut))
                 then <date resolution="day">
@@ -420,7 +420,7 @@ declare %private function dates:_convertTPlusMinusToDate(
     where $date != "t" and $date != "t+"
     return
         if($date = ("t0y", "t+0y"))
-        then format-dateTime(current-dateTime(), "yyyy-MM-dd")
+        then format-date(current-date(), "[Y0001]-[M01]-[D01]")
         else if(not($isTPlusMinus) or $junk != "")
         then ()
         else
@@ -474,7 +474,7 @@ declare %private function dates:_convertTPlusMinusToDate(
                 else if(empty($adjPlus) or "" = $adjPlus)
                 then $date - $dayDuration
                 else $date + $dayDuration
-            return format-dateTime($date, "yyyy-MM-dd")
+            return format-date($date, "[Y0001]-[M01]-[D01]")
 };
 
 (:

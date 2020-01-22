@@ -23,8 +23,8 @@ declare function local:get-results() {
 
     let $state :=
         if ($state-raw eq "NORMAL")
-        then "valid (" || $state-raw || ")"
-        else "invalid (" || $state-raw || ")"
+        then "valid"
+        else "invalid"
 
     let $previous :=
         let $duration := (xs:dateTime($current-date-raw)) - (xs:dateTime($previous-raw))

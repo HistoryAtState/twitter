@@ -1,0 +1,4137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    In prepartion for the sunsetting of go.usa.gov on September 18, 2022, we prepared
+    a list of all URLs in @HistoryAtState tweets that used go.usa.gov, 1.usa.gov, or any other
+    URL shortening service (e.g., bit.ly, ow.ly). URLs from the 1.usa.gov domain were
+    rewritten to bit.ly.
+    
+    We also captured the HTTP redirects returned by the URL shortening services, and whether
+    the final redirect returned a "200 OK", "404 Not Found", or other error.
+    
+    @see https://blog.usa.gov/sunsetting-go.usa.gov-frequently-asked-questions
+    @see https://go.usa.gov/node/15
+-->
+<shortened-urls>
+    <shortened-url>
+        <original>http://1.usa.gov/10Px8vp</original>
+        <override>http://bit.ly/10Px8vp</override>
+        <redirect status="301"
+            >http://history.state.gov/departmenthistory/short-history/rogers</redirect>
+        <redirect status="302"
+            >https://history.state.gov/departmenthistory/short-history/rogers</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://1.usa.gov/1Ozqfp0</original>
+        <override>http://bit.ly/1Ozqfp0</override>
+        <redirect status="301"
+            >http://www.stripes.com/wwi-memorial-needs-funding-to-become-reality-1.359208</redirect>
+        <redirect status="301"
+            >https://www.stripes.com:443/wwi-memorial-needs-funding-to-become-reality-1.359208</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://1.usa.gov/1ab3li0</original>
+        <override>http://bit.ly/1ab3li0</override>
+        <redirect status="301"
+            >http://www.data.gov/blog/datagov-launches-new-catalog-and-apis</redirect>
+        <redirect status="301"
+            >https://www.data.gov/blog/datagov-launches-new-catalog-and-apis</redirect>
+        <redirect status="301"
+            >https://data.gov/blog/datagov-launches-new-catalog-and-apis</redirect>
+        <redirect status="301">/blog/datagov-launches-new-catalog-and-apis/</redirect>
+        <override>https://data.gov/blog/datagov-launches-new-catalog-and-apis/</override>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://1.usa.gov/1bhtU4B</original>
+        <override>http://bit.ly/1bhtU4B</override>
+        <redirect status="301"
+            >http://history.state.gov/departmenthistory/people/albright-madeleine-korbel</redirect>
+        <redirect status="302"
+            >https://history.state.gov/departmenthistory/people/albright-madeleine-korbel</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://1.usa.gov/o11AKb</original>
+        <override>http://bit.ly/o11AKb</override>
+        <redirect status="301"
+            >http://history.state.gov/departmenthistory/people/jefferson-thomas</redirect>
+        <redirect status="302"
+            >https://history.state.gov/departmenthistory/people/jefferson-thomas</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://bit.ly/11vZFUd</original>
+        <redirect status="301"
+            >http://digicoll.library.wisc.edu/cgi-bin/FRUS/FRUS-idx?type=turn&amp;entity=FRUS.FRUS1863p1.p0392&amp;id=FRUS.FRUS1863p1&amp;isize=M&amp;q1=446</redirect>
+        <redirect status="301"
+            >https://digicoll.library.wisc.edu/cgi-bin/FRUS/FRUS-idx?type=turn&amp;entity=FRUS.FRUS1863p1.p0392&amp;id=FRUS.FRUS1863p1&amp;isize=M&amp;q1=446</redirect>
+        <redirect status="302">https://digital.library.wisc.edu/1711.dl/FRUS</redirect>
+        <redirect status="303">https://search.library.wisc.edu/digital/AFRUS</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://bit.ly/14gLFQf</original>
+        <redirect status="301"
+            >http://digicoll.library.wisc.edu/cgi-bin/FRUS/FRUS-idx?type=turn&amp;entity=FRUS.FRUS1863p1.p0397&amp;id=FRUS.FRUS1863p1&amp;isize=M&amp;q1=651</redirect>
+        <redirect status="301"
+            >https://digicoll.library.wisc.edu/cgi-bin/FRUS/FRUS-idx?type=turn&amp;entity=FRUS.FRUS1863p1.p0397&amp;id=FRUS.FRUS1863p1&amp;isize=M&amp;q1=651</redirect>
+        <redirect status="302">https://digital.library.wisc.edu/1711.dl/FRUS</redirect>
+        <redirect status="303">https://search.library.wisc.edu/digital/AFRUS</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://bit.ly/18SQKX3</original>
+        <redirect status="301"
+            >http://historyatstate.tumblr.com/post/114405077103/on-official-business-travels-of-the-u-s</redirect>
+        <redirect status="302"
+            >https://historyatstate.tumblr.com/post/114405077103/on-official-business-travels-of-the-u-s</redirect>
+        <redirect status="301"
+            >https://historyatstate.tumblr.com/post/114405077103/on-official-business-travels-of-the-us</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://bit.ly/1EFOpY3</original>
+        <redirect status="301"
+            >http://historyatstate.tumblr.com/post/114579249463/the-travels-of-secretary-john-foster-dulles</redirect>
+        <redirect status="302"
+            >https://historyatstate.tumblr.com/post/114579249463/the-travels-of-secretary-john-foster-dulles</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://bit.ly/1H504Fq</original>
+        <redirect status="301"
+            >http://historyatstate.tumblr.com/post/120704608453/opening-a-digital-window-onto-the-early-cold</redirect>
+        <redirect status="302"
+            >https://historyatstate.tumblr.com/post/120704608453/opening-a-digital-window-onto-the-early-cold</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://bit.ly/1Hkc7ye</original>
+        <redirect status="301">http://shfg.wildapricot.org/event-1725861</redirect>
+        <status>403</status>
+    </shortened-url>
+    <shortened-url>
+        <original>http://bit.ly/1Ncyx7n</original>
+        <redirect status="301"
+            >http://historyatstate.tumblr.com/post/126581234533/this-hateful-thingthe-berlin-wall-crisis</redirect>
+        <redirect status="302"
+            >https://historyatstate.tumblr.com/post/126581234533/this-hateful-thingthe-berlin-wall-crisis</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://bit.ly/1UabkX6</original>
+        <redirect status="301"
+            >http://digicoll.library.wisc.edu/cgi-bin/FRUS/FRUS-idx?type=header&amp;id=FRUS.FRUS1928v01</redirect>
+        <redirect status="301"
+            >https://digicoll.library.wisc.edu/cgi-bin/FRUS/FRUS-idx?type=header&amp;id=FRUS.FRUS1928v01</redirect>
+        <redirect status="302">https://digital.library.wisc.edu/1711.dl/FRUS</redirect>
+        <redirect status="303">https://search.library.wisc.edu/digital/AFRUS</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://bit.ly/1WGHbBe</original>
+        <redirect status="301"
+            >http://www.afsa.org/diplomatic-history-lessons-model-government-transparency</redirect>
+        <redirect status="301"
+            >https://afsa.org/diplomatic-history-lessons-model-government-transparency</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://bit.ly/1YgnLm6</original>
+        <redirect status="301"
+            >http://www.afsa.org/foreign-policy-and-complexities-corruption-case-south-vietnam</redirect>
+        <redirect status="301"
+            >https://afsa.org/foreign-policy-and-complexities-corruption-case-south-vietnam</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://bit.ly/1apBLk0</original>
+        <redirect status="301"
+            >http://digicoll.library.wisc.edu/cgi-bin/FRUS/FRUS-idx?type=turn&amp;entity=FRUS.FRUS1863p1.p0409&amp;id=FRUS.FRUS1863p1&amp;isize=M&amp;q1=456</redirect>
+        <redirect status="301"
+            >https://digicoll.library.wisc.edu/cgi-bin/FRUS/FRUS-idx?type=turn&amp;entity=FRUS.FRUS1863p1.p0409&amp;id=FRUS.FRUS1863p1&amp;isize=M&amp;q1=456</redirect>
+        <redirect status="302">https://digital.library.wisc.edu/1711.dl/FRUS</redirect>
+        <redirect status="303">https://search.library.wisc.edu/digital/AFRUS</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://bit.ly/1khbSpX</original>
+        <redirect status="301">http://shfg.org/shfg/events/annual-meeting/</redirect>
+        <status>404</status>
+    </shortened-url>
+    <shortened-url>
+        <original>http://bit.ly/24x1xw3</original>
+        <redirect status="301"
+            >http://www.afsa.org/diplomatic-history-lessons-model-government-transparency</redirect>
+        <redirect status="301"
+            >https://afsa.org/diplomatic-history-lessons-model-government-transparency</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://bit.ly/2IZuF13</original>
+        <redirect status="301">https://history.state.gov/</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://bit.ly/2biPIEP</original>
+        <redirect status="301"
+            >https://www.cia.gov/library/publications/intelligence-history/presidents-daily-brief-nixon-ford/index.html</redirect>
+        <status>404</status>
+    </shortened-url>
+    <shortened-url>
+        <original>http://bit.ly/2cGu3cE</original>
+        <redirect status="301"
+            >http://blog.historians.org/2016/09/what-i-do-aaron-marrs-us-department-of-state/</redirect>
+        <redirect status="301"
+            >https://www.historians.org/2016/09/what-i-do-aaron-marrs-us-department-of-state/</redirect>
+        <redirect status="301"
+            >https://www.historians.org/publications-and-directories/perspectives-on-history/september-2016/what-i-do-aaron-marrs-us-department-of-state</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://bit.ly/2fGaosO</original>
+        <redirect status="301"
+            >https://www.historians.org/publications-and-directories/perspectives-on-history/november-2016/office-of-the-historian-releases-new-frus-volumes-historical-advisory-committee-cautiously-optimistic</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://bit.ly/2h92aQ3</original>
+        <redirect status="301">https://www.cia.gov/about-cia/history-of-the-cia</redirect>
+        <status>404</status>
+    </shortened-url>
+    <shortened-url>
+        <original>http://bit.ly/2oEvOfz</original>
+        <redirect status="301"
+            >https://text-message.blogs.archives.gov/2017/04/04/world-war-i-foreign-policy-records-part-i-the-department-of-state/</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://bit.ly/362cYV3</original>
+        <redirect status="301"
+            >https://amdipstories.org/index.php/2019/10/24/heroes-of-us-diplomacy-lizzie-slater/</redirect>
+        <redirect status="301"
+            >https://amdipstories.org/2019/10/24/heroes-of-us-diplomacy-lizzie-slater/</redirect>
+        <status>404</status>
+    </shortened-url>
+    <shortened-url>
+        <original>https://bit.ly/3A7w7nJ</original>
+        <redirect status="301">https://history.state.gov/about</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://bit.ly/3bDn1DF</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1977-80v16</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://bit.ly/3baYQfP</original>
+        <redirect status="301"
+            >https://diplomacy.state.gov/u-s-diplomacy-stories/african-american-history-month/</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://bit.ly/3jtGGJZ</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1981-88v05</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://bit.ly/3newJBP</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1981-88v11</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://bit.ly/OH-PMF</original>
+        <redirect status="301">https://www.pmf.gov/become-a-pmf/2022-application/</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://bit.ly/The-Big-One-Hundred</original>
+        <redirect status="301"
+            >http://contentviewer.adobe.com/s/State_Magazine/b2113109-8f85-548a-a631-1655db4b0600/June_2016/The-Big-One-Hundred.html</redirect>
+        <error>contentviewer.adobe.com: nodename nor servname provided, or not known</error>
+    </shortened-url>
+    <shortened-url>
+        <original>http://bit.ly/URLiqy</original>
+        <redirect status="301">http://aha.confex.com/aha/2013/webprogram/Session8803.html</redirect>
+        <redirect status="301"
+            >https://aha.confex.com/aha/2013/webprogram/Session8803.html</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://bit.ly/WpB6Xv</original>
+        <redirect status="301">http://aha.confex.com/aha/2013/webprogram/Session9283.html</redirect>
+        <redirect status="301"
+            >https://aha.confex.com/aha/2013/webprogram/Session9283.html</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://bitly.com/2I76mMX</original>
+        <redirect status="301">https://history.state.gov/departmenthistory/timeline</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://buff.ly/2D1RWX7</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1898?utm_content=buffer80e7a&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://buff.ly/2FZeJWE</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1897?utm_content=bufferebde9&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://buff.ly/2GbbYlg</original>
+        <redirect status="301">https://go.usa.gov/xnHNC</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1969-76ve14p1/d165</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://buff.ly/2IVg7Kl</original>
+        <redirect status="301">https://go.usa.gov/xQBnd</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1981-88v06/d154</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://buff.ly/2IY1Lcv</original>
+        <redirect status="301">https://go.usa.gov/xQBUp</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1981-88v06/d155</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://buff.ly/2Ik6xon</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1977-80v13/d224</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://buff.ly/2oTlKQt</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1899?utm_content=buffer66b66&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://buff.ly/2p2mVNA</original>
+        <redirect status="301">https://go.usa.gov/xnHNT</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1969-76ve14p1/d166</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://buff.ly/2rJGzzj</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1969-76ve15p2/d211</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/2zHC</original>
+        <redirect status="301">https://go.usa.gov:443/2zHC</redirect>
+        <redirect status="301"
+            >http://history.state.gov/departmenthistory/travels/secretary/lansing-robert</redirect>
+        <redirect status="302"
+            >https://history.state.gov/departmenthistory/travels/secretary/lansing-robert</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/2zsG</original>
+        <redirect status="301">https://go.usa.gov:443/2zsG</redirect>
+        <redirect status="301">http://history.state.gov/countries/france</redirect>
+        <redirect status="302">https://history.state.gov/countries/france</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/2zv5</original>
+        <redirect status="301">https://go.usa.gov:443/2zv5</redirect>
+        <redirect status="301">http://www.nps.gov/cherry/cherry-blossom-history.htm</redirect>
+        <redirect status="301">https://www.nps.gov/cherry/cherry-blossom-history.htm</redirect>
+        <redirect status="302">https://www.nps.gov/subjects/cherryblossom/index.htm</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/36353</original>
+        <redirect status="301">https://go.usa.gov:443/36353</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1945Berlinv01</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/36385</original>
+        <redirect status="301">https://go.usa.gov:443/36385</redirect>
+        <redirect status="301">https://history.state.gov/historicaldocuments/frus1947v01</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/3638H</original>
+        <redirect status="301">https://go.usa.gov:443/3638H</redirect>
+        <redirect status="301">https://history.state.gov/historicaldocuments/frus1946v11</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/3638j</original>
+        <redirect status="301">https://go.usa.gov:443/3638j</redirect>
+        <redirect status="301">https://history.state.gov/historicaldocuments/frus1947v02</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/36394</original>
+        <redirect status="301">https://go.usa.gov:443/36394</redirect>
+        <redirect status="301">https://history.state.gov/historicaldocuments/frus1946v10</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/363KA</original>
+        <redirect status="301">https://go.usa.gov:443/363KA</redirect>
+        <redirect status="301">https://history.state.gov/historicaldocuments/frus1947v06</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/363KT</original>
+        <redirect status="301">https://go.usa.gov:443/363KT</redirect>
+        <redirect status="301">https://history.state.gov/historicaldocuments/frus1947v08</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/363Km</original>
+        <redirect status="301">https://go.usa.gov:443/363Km</redirect>
+        <redirect status="301">https://history.state.gov/historicaldocuments/frus1947v07</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/363NY</original>
+        <redirect status="301">https://go.usa.gov:443/363NY</redirect>
+        <redirect status="301">https://history.state.gov/historicaldocuments/frus1916Supp</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/363RH</original>
+        <redirect status="301">https://go.usa.gov:443/363RH</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1914-20v02</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/363Rj</original>
+        <redirect status="301">https://go.usa.gov:443/363Rj</redirect>
+        <redirect status="301">https://history.state.gov/historicaldocuments/frus1915Supp</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/363kQ</original>
+        <redirect status="301">https://go.usa.gov:443/363kQ</redirect>
+        <redirect status="301">https://history.state.gov/historicaldocuments/frus1947v05</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/363ke</original>
+        <redirect status="301">https://go.usa.gov:443/363ke</redirect>
+        <redirect status="301">https://history.state.gov/historicaldocuments/frus1947v03</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/363kw</original>
+        <redirect status="301">https://go.usa.gov:443/363kw</redirect>
+        <redirect status="301">https://history.state.gov/historicaldocuments/frus1947v04</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/363n4</original>
+        <redirect status="301">https://go.usa.gov:443/363n4</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1914-20v01</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/397nQ</original>
+        <redirect status="301">https://go.usa.gov:443/397nQ</redirect>
+        <redirect status="301"
+            >http://history.state.gov/historicaldocuments/frus1969-76ve11p1</redirect>
+        <redirect status="302"
+            >https://history.state.gov/historicaldocuments/frus1969-76ve11p1</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/3CpfG</original>
+        <redirect status="301">https://go.usa.gov:443/3CpfG</redirect>
+        <redirect status="301"
+            >http://history.state.gov/historicaldocuments/pre-1861/serial-set</redirect>
+        <redirect status="302"
+            >https://history.state.gov/historicaldocuments/pre-1861/serial-set</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/3DRQ3</original>
+        <redirect status="301">https://go.usa.gov:443/3DRQ3</redirect>
+        <redirect status="301">http://history.state.gov/historicaldocuments/frus1865p4</redirect>
+        <redirect status="302">https://history.state.gov/historicaldocuments/frus1865p4</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/3FSSC</original>
+        <redirect status="301">https://go.usa.gov:443/3FSSC</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1915Supp/d11</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/3FShJ</original>
+        <redirect status="301">https://go.usa.gov:443/3FShJ</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1915Supp/d27</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/3FSuh</original>
+        <redirect status="301">https://go.usa.gov:443/3FSuh</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1915Supp/d7</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/3FSzQ</original>
+        <redirect status="301">https://go.usa.gov:443/3FSzQ</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1915Supp/d1</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/3Fh3h</original>
+        <redirect status="301">https://go.usa.gov:443/3Fh3h</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1915Supp/d71</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/3Fh3j</original>
+        <redirect status="301">https://go.usa.gov:443/3Fh3j</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1915Supp/d42</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/3Fh7Y</original>
+        <redirect status="301">https://go.usa.gov:443/3Fh7Y</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1916Supp/d1087</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/3Fh7e</original>
+        <redirect status="301">https://go.usa.gov:443/3Fh7e</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1916Supp/subch41</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/3FhUF</original>
+        <redirect status="301">https://go.usa.gov:443/3FhUF</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1916Supp/d18</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/3Fha9</original>
+        <redirect status="301">https://go.usa.gov:443/3Fha9</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1915Supp/d99</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/3FheP</original>
+        <redirect status="301">https://go.usa.gov:443/3FheP</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1916Supp/d1234</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/3Fhnj</original>
+        <redirect status="301">https://go.usa.gov:443/3Fhnj</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1916Supp/d7</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/3FhpJ</original>
+        <redirect status="301">https://go.usa.gov:443/3FhpJ</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1916Supp/d921</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/3Fhqw</original>
+        <redirect status="301">https://go.usa.gov:443/3Fhqw</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1915Supp/d28</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/3Fhyz</original>
+        <redirect status="301">https://go.usa.gov:443/3Fhyz</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1916Supp/d233</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/3GJvk</original>
+        <redirect status="301">https://go.usa.gov:443/3GJvk</redirect>
+        <redirect status="301"
+            >http://history.state.gov/historicaldocuments/frus1977-80v18</redirect>
+        <redirect status="302"
+            >https://history.state.gov/historicaldocuments/frus1977-80v18</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/3HZmH</original>
+        <redirect status="301">https://go.usa.gov:443/3HZmH</redirect>
+        <redirect status="301"
+            >http://history.state.gov/historicaldocuments/frus1969-76v23</redirect>
+        <redirect status="302"
+            >https://history.state.gov/historicaldocuments/frus1969-76v23</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/3HjBw</original>
+        <redirect status="301">https://go.usa.gov:443/3HjBw</redirect>
+        <redirect status="301">http://www.state.gov/r/pa/prs/ps/2015/08/246027.htm</redirect>
+        <redirect status="301">https://www.state.gov/r/pa/prs/ps/2015/08/246027.htm</redirect>
+        <redirect status="301">/press-releases/</redirect>
+        <override>https://www.state.gov/press-releases/</override>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/3Kh7F</original>
+        <redirect status="301">https://go.usa.gov:443/3Kh7F</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1951v07p1</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/3Kh7R</original>
+        <redirect status="301">https://go.usa.gov:443/3Kh7R</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1951v04p1</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/3Kh7W</original>
+        <redirect status="301">https://go.usa.gov:443/3Kh7W</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1951v03p2</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/3Kh7d</original>
+        <redirect status="301">https://go.usa.gov:443/3Kh7d</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1951v04p2</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/3KhAT</original>
+        <redirect status="301">https://go.usa.gov:443/3KhAT</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1951v07p2</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/3KhGG</original>
+        <redirect status="301">https://go.usa.gov:443/3KhGG</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1951v03p1</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/3KhVx</original>
+        <redirect status="301">https://go.usa.gov:443/3KhVx</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1945Malta</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/3Khf5</original>
+        <redirect status="301">https://go.usa.gov:443/3Khf5</redirect>
+        <redirect status="301">https://history.state.gov/historicaldocuments/frus1950v06</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/3KhfH</original>
+        <redirect status="301">https://go.usa.gov:443/3KhfH</redirect>
+        <redirect status="301">https://history.state.gov/historicaldocuments/frus1950v07</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/3Khfh</original>
+        <redirect status="301">https://go.usa.gov:443/3Khfh</redirect>
+        <redirect status="301">https://history.state.gov/historicaldocuments/frus1951v02</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/3Khfx</original>
+        <redirect status="301">https://go.usa.gov:443/3Khfx</redirect>
+        <redirect status="301">https://history.state.gov/historicaldocuments/frus1950v05</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/3KhpG</original>
+        <redirect status="301">https://go.usa.gov:443/3KhpG</redirect>
+        <redirect status="301">https://history.state.gov/historicaldocuments/frus1948v04</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/3Khvm</original>
+        <redirect status="301">https://go.usa.gov:443/3Khvm</redirect>
+        <redirect status="301">https://history.state.gov/historicaldocuments/frus1948v06</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/3KhwB</original>
+        <redirect status="301">https://go.usa.gov:443/3KhwB</redirect>
+        <redirect status="301">https://history.state.gov/historicaldocuments/frus1949v09</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/3KhwY</original>
+        <redirect status="301">https://go.usa.gov:443/3KhwY</redirect>
+        <redirect status="301">https://history.state.gov/historicaldocuments/frus1948v09</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/3Khww</original>
+        <redirect status="301">https://go.usa.gov:443/3Khww</redirect>
+        <redirect status="301">https://history.state.gov/historicaldocuments/frus1950v04</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/3MC8T</original>
+        <redirect status="301">https://go.usa.gov:443/3MC8T</redirect>
+        <redirect status="301"
+            >http://history.state.gov/historicaldocuments/frus1914-20v01/ch6</redirect>
+        <redirect status="302"
+            >https://history.state.gov/historicaldocuments/frus1914-20v01/ch6</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/3MCB5</original>
+        <redirect status="301">https://go.usa.gov:443/3MCB5</redirect>
+        <redirect status="301"
+            >http://history.state.gov/historicaldocuments/frus1914-20v01/ch5</redirect>
+        <redirect status="302"
+            >https://history.state.gov/historicaldocuments/frus1914-20v01/ch5</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/3MCBh</original>
+        <redirect status="301">https://go.usa.gov:443/3MCBh</redirect>
+        <redirect status="301"
+            >http://history.state.gov/historicaldocuments/frus1914-20v01/d31</redirect>
+        <redirect status="302"
+            >https://history.state.gov/historicaldocuments/frus1914-20v01/d31</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/3Mq2T</original>
+        <redirect status="301">https://go.usa.gov:443/3Mq2T</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1916Supp/d768</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/3Mq9w</original>
+        <redirect status="301">https://go.usa.gov:443/3Mq9w</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1914-20v02/d19</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/3MqCm</original>
+        <redirect status="301">https://go.usa.gov:443/3MqCm</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1916Supp/d97</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/3MqKP</original>
+        <redirect status="301">https://go.usa.gov:443/3MqKP</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1914-20v02/d9</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/3MqQx</original>
+        <redirect status="301">https://go.usa.gov:443/3MqQx</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1914-20v02/d28</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/3MqaR</original>
+        <redirect status="301">https://go.usa.gov:443/3MqaR</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1916Supp/d320</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/3eUJd</original>
+        <redirect status="301">https://go.usa.gov:443/3eUJd</redirect>
+        <redirect status="301"
+            >https://www.cia.gov/news-information/press-releases-statements/2015-press-releases-statements/cia-to-release-declassified-pdb-articles.html</redirect>
+        <status>404</status>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/3eUWz</original>
+        <redirect status="301">https://go.usa.gov:443/3eUWz</redirect>
+        <redirect status="301">http://history.state.gov/departmenthistory/visits/holy-see</redirect>
+        <redirect status="302"
+            >https://history.state.gov/departmenthistory/visits/holy-see</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/3fJG3</original>
+        <redirect status="301">https://go.usa.gov:443/3fJG3</redirect>
+        <redirect status="301"
+            >http://history.state.gov/historicaldocuments/frus1955-57v09/d106</redirect>
+        <redirect status="302"
+            >https://history.state.gov/historicaldocuments/frus1955-57v09/d106</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/3fJMH</original>
+        <redirect status="301">https://go.usa.gov:443/3fJMH</redirect>
+        <redirect status="301"
+            >http://history.state.gov/historicaldocuments/frus1961-63v09/d85</redirect>
+        <redirect status="302"
+            >https://history.state.gov/historicaldocuments/frus1961-63v09/d85</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/3fJMx</original>
+        <redirect status="301">https://go.usa.gov:443/3fJMx</redirect>
+        <redirect status="301"
+            >http://history.state.gov/historicaldocuments/frus1958-60v04/d66</redirect>
+        <redirect status="302"
+            >https://history.state.gov/historicaldocuments/frus1958-60v04/d66</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/3fJPm</original>
+        <redirect status="301">https://go.usa.gov:443/3fJPm</redirect>
+        <redirect status="301">http://www.state.gov/p/eur/ci/it/milanexpo2015/c67068.htm</redirect>
+        <redirect status="301">https://www.state.gov/p/eur/ci/it/milanexpo2015/c67068.htm</redirect>
+        <redirect status="301">https://www.state.gov/404</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/3fJeP</original>
+        <redirect status="301">https://go.usa.gov:443/3fJeP</redirect>
+        <redirect status="301"
+            >http://history.state.gov/historicaldocuments/frus1961-63v09/d151</redirect>
+        <redirect status="302"
+            >https://history.state.gov/historicaldocuments/frus1961-63v09/d151</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/3fJez</original>
+        <redirect status="301">https://go.usa.gov:443/3fJez</redirect>
+        <redirect status="301"
+            >http://history.state.gov/historicaldocuments/frus1964-68v09/d122</redirect>
+        <redirect status="302"
+            >https://history.state.gov/historicaldocuments/frus1964-68v09/d122</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/3fJtC</original>
+        <redirect status="301">https://go.usa.gov:443/3fJtC</redirect>
+        <redirect status="301"
+            >http://history.state.gov/historicaldocuments/frus1969-76v31/d256</redirect>
+        <redirect status="302"
+            >https://history.state.gov/historicaldocuments/frus1969-76v31/d256</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/3fJtR</original>
+        <redirect status="301">https://go.usa.gov:443/3fJtR</redirect>
+        <redirect status="301"
+            >http://history.state.gov/historicaldocuments/frus1969-76v31/d263</redirect>
+        <redirect status="302"
+            >https://history.state.gov/historicaldocuments/frus1969-76v31/d263</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/3fJtd</original>
+        <redirect status="301">https://go.usa.gov:443/3fJtd</redirect>
+        <redirect status="301"
+            >http://history.state.gov/historicaldocuments/frus1969-76v31/d266</redirect>
+        <redirect status="302"
+            >https://history.state.gov/historicaldocuments/frus1969-76v31/d266</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/3fJw4</original>
+        <redirect status="301">https://go.usa.gov:443/3fJw4</redirect>
+        <redirect status="301"
+            >http://history.state.gov/historicaldocuments/frus1952-54v01p1/d67</redirect>
+        <redirect status="302"
+            >https://history.state.gov/historicaldocuments/frus1952-54v01p1/d67</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/3fJz3</original>
+        <redirect status="301">https://go.usa.gov:443/3fJz3</redirect>
+        <redirect status="301"
+            >http://history.state.gov/historicaldocuments/frus1969-76ve14p1/d141</redirect>
+        <redirect status="302"
+            >https://history.state.gov/historicaldocuments/frus1969-76ve14p1/d141</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/3fJzA</original>
+        <redirect status="301">https://go.usa.gov:443/3fJzA</redirect>
+        <redirect status="301"
+            >http://history.state.gov/historicaldocuments/frus1977-80v02/d253</redirect>
+        <redirect status="302"
+            >https://history.state.gov/historicaldocuments/frus1977-80v02/d253</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/3fJzT</original>
+        <redirect status="301">https://go.usa.gov:443/3fJzT</redirect>
+        <redirect status="301"
+            >http://history.state.gov/historicaldocuments/frus1977-80v02/d247</redirect>
+        <redirect status="302"
+            >https://history.state.gov/historicaldocuments/frus1977-80v02/d247</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/3hJRQ</original>
+        <redirect status="301">https://go.usa.gov:443/3hJRQ</redirect>
+        <redirect status="301"
+            >http://blogs.state.gov/stories/2015/10/23/reflections-70th-anniversary-birth-united-nations</redirect>
+        <redirect status="301">https://www.state.gov/blogs/</redirect>
+        <redirect status="301">https://www.state.gov/blogs</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/3qk6C</original>
+        <redirect status="301">https://go.usa.gov:443/3qk6C</redirect>
+        <redirect status="301">http://history.state.gov/historicaldocuments/frus1950v02</redirect>
+        <redirect status="302">https://history.state.gov/historicaldocuments/frus1950v02</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/3qk6W</original>
+        <redirect status="301">https://go.usa.gov:443/3qk6W</redirect>
+        <redirect status="301">http://history.state.gov/historicaldocuments/frus1950v03</redirect>
+        <redirect status="302">https://history.state.gov/historicaldocuments/frus1950v03</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/3qk6d</original>
+        <redirect status="301">https://go.usa.gov:443/3qk6d</redirect>
+        <redirect status="301">http://history.state.gov/historicaldocuments/frus1951v01</redirect>
+        <redirect status="302">https://history.state.gov/historicaldocuments/frus1951v01</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/3qkHG</original>
+        <redirect status="301">https://go.usa.gov:443/3qkHG</redirect>
+        <redirect status="301">http://history.state.gov/historicaldocuments/frus1949v08</redirect>
+        <redirect status="302">https://history.state.gov/historicaldocuments/frus1949v08</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/3qkHz</original>
+        <redirect status="301">https://go.usa.gov:443/3qkHz</redirect>
+        <redirect status="301">http://history.state.gov/historicaldocuments/frus1950v01</redirect>
+        <redirect status="302">https://history.state.gov/historicaldocuments/frus1950v01</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/3u9EP</original>
+        <redirect status="301">https://go.usa.gov:443/3u9EP</redirect>
+        <redirect status="301"
+            >http://history.state.gov/historicaldocuments/frus1969-76ve14p2</redirect>
+        <redirect status="302"
+            >https://history.state.gov/historicaldocuments/frus1969-76ve14p2</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/4aSx</original>
+        <redirect status="301">https://go.usa.gov:443/4aSx</redirect>
+        <redirect status="301">http://www.state.gov/r/pa/prs/ps/2013/01/202725.htm</redirect>
+        <redirect status="301">https://www.state.gov/r/pa/prs/ps/2013/01/202725.htm</redirect>
+        <redirect status="301">/press-releases/</redirect>
+        <override>https://www.state.gov/press-releases/</override>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/73p</original>
+        <redirect status="301">https://go.usa.gov:443/73p</redirect>
+        <redirect status="301"
+            >http://history.state.gov/historicaldocuments/frus1969-76v26</redirect>
+        <redirect status="302"
+            >https://history.state.gov/historicaldocuments/frus1969-76v26</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/KFC4</original>
+        <redirect status="301">https://go.usa.gov:443/KFC4</redirect>
+        <redirect status="301"
+            >http://history.state.gov/historicaldocuments/frus1969-76v35</redirect>
+        <redirect status="302"
+            >https://history.state.gov/historicaldocuments/frus1969-76v35</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/KJRx</original>
+        <redirect status="301">https://go.usa.gov:443/KJRx</redirect>
+        <redirect status="301"
+            >http://history.state.gov/historicaldocuments/frus1977-80v21</redirect>
+        <redirect status="302"
+            >https://history.state.gov/historicaldocuments/frus1977-80v21</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/KQ2Y</original>
+        <redirect status="301">https://go.usa.gov:443/KQ2Y</redirect>
+        <redirect status="301"
+            >http://history.state.gov/historicaldocuments/frus1964-68v34/d159</redirect>
+        <redirect status="302"
+            >https://history.state.gov/historicaldocuments/frus1964-68v34/d159</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/TXGk</original>
+        <redirect status="301">https://go.usa.gov:443/TXGk</redirect>
+        <redirect status="301"
+            >http://history.state.gov/historicaldocuments/frus1977-80v13</redirect>
+        <redirect status="302"
+            >https://history.state.gov/historicaldocuments/frus1977-80v13</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/TqG9</original>
+        <redirect status="301">https://go.usa.gov:443/TqG9</redirect>
+        <redirect status="301"
+            >http://history.state.gov/departmenthistory/people/chiefsofmission/by-country</redirect>
+        <redirect status="302"
+            >https://history.state.gov/departmenthistory/people/chiefsofmission/by-country</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/Wtx3</original>
+        <redirect status="301">https://go.usa.gov:443/Wtx3</redirect>
+        <redirect status="301">http://history.state.gov/historicaldocuments/about-frus</redirect>
+        <redirect status="302">https://history.state.gov/historicaldocuments/about-frus</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/YBQH</original>
+        <redirect status="301">https://go.usa.gov:443/YBQH</redirect>
+        <redirect status="301"
+            >http://history.state.gov/historicaldocuments/frus1969-76v37</redirect>
+        <redirect status="302"
+            >https://history.state.gov/historicaldocuments/frus1969-76v37</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/YJpm</original>
+        <redirect status="301">https://go.usa.gov:443/YJpm</redirect>
+        <redirect status="301"
+            >http://history.state.gov/historicaldocuments/frus1969-76v41</redirect>
+        <redirect status="302"
+            >https://history.state.gov/historicaldocuments/frus1969-76v41</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/bBDW</original>
+        <redirect status="301">https://go.usa.gov:443/bBDW</redirect>
+        <redirect status="301"
+            >http://history.state.gov/departmenthistory/people/washburne-elihu-benjamin</redirect>
+        <redirect status="302"
+            >https://history.state.gov/departmenthistory/people/washburne-elihu-benjamin</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/bY6R</original>
+        <redirect status="301">https://go.usa.gov:443/bY6R</redirect>
+        <redirect status="301"
+            >http://blogs.state.gov/2013/05/article/state-departments-developer-community-builds-upon-digital-government-strategy</redirect>
+        <redirect status="301">https://www.state.gov/blogs/</redirect>
+        <redirect status="301">https://www.state.gov/blogs</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/bc83</original>
+        <redirect status="301">https://go.usa.gov:443/bc83</redirect>
+        <redirect status="301"
+            >http://history.state.gov/departmenthistory/short-history/worldpower</redirect>
+        <redirect status="302"
+            >https://history.state.gov/departmenthistory/short-history/worldpower</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/bc89</original>
+        <redirect status="301">https://go.usa.gov:443/bc89</redirect>
+        <redirect status="301"
+            >http://history.state.gov/departmenthistory/short-history/containmentandcoldwar</redirect>
+        <redirect status="302"
+            >https://history.state.gov/departmenthistory/short-history/containmentandcoldwar</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/bc8A</original>
+        <redirect status="301">https://go.usa.gov:443/bc8A</redirect>
+        <redirect status="301"
+            >http://history.state.gov/departmenthistory/short-history/endofcoldwar</redirect>
+        <redirect status="302"
+            >https://history.state.gov/departmenthistory/short-history/endofcoldwar</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/bc8T</original>
+        <redirect status="301">https://go.usa.gov:443/bc8T</redirect>
+        <redirect status="301"
+            >http://history.state.gov/departmenthistory/short-history/globalconflict</redirect>
+        <redirect status="302"
+            >https://history.state.gov/departmenthistory/short-history/globalconflict</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/bc8m</original>
+        <redirect status="301">https://go.usa.gov:443/bc8m</redirect>
+        <redirect status="301"
+            >http://history.state.gov/departmenthistory/short-history/superpowers</redirect>
+        <redirect status="302"
+            >https://history.state.gov/departmenthistory/short-history/superpowers</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/bcET</original>
+        <redirect status="301">https://go.usa.gov:443/bcET</redirect>
+        <redirect status="301"
+            >http://history.state.gov/about/faq/diplomatic-and-consular-posts</redirect>
+        <redirect status="302"
+            >https://history.state.gov/about/faq/diplomatic-and-consular-posts</redirect>
+        <status>404</status>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/bcKP</original>
+        <redirect status="301">https://go.usa.gov:443/bcKP</redirect>
+        <redirect status="301"
+            >http://history.state.gov/departmenthistory/short-history/diplomacy</redirect>
+        <redirect status="302"
+            >https://history.state.gov/departmenthistory/short-history/diplomacy</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/bcVz</original>
+        <redirect status="301">https://go.usa.gov:443/bcVz</redirect>
+        <redirect status="301"
+            >http://history.state.gov/departmenthistory/short-history/Departmental-reorg</redirect>
+        <redirect status="302"
+            >https://history.state.gov/departmenthistory/short-history/Departmental-reorg</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/bcd3</original>
+        <redirect status="301">https://go.usa.gov:443/bcd3</redirect>
+        <redirect status="301"
+            >http://history.state.gov/departmenthistory/short-history/incremental</redirect>
+        <redirect status="302"
+            >https://history.state.gov/departmenthistory/short-history/incremental</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/bcfG</original>
+        <redirect status="301">https://go.usa.gov:443/bcfG</redirect>
+        <redirect status="301"
+            >http://history.state.gov/departmenthistory/people/harris-patricia-roberts</redirect>
+        <redirect status="302"
+            >https://history.state.gov/departmenthistory/people/harris-patricia-roberts</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/bckR</original>
+        <redirect status="301">https://go.usa.gov:443/bckR</redirect>
+        <redirect status="301"
+            >http://history.state.gov/departmenthistory/short-history/framework</redirect>
+        <redirect status="302"
+            >https://history.state.gov/departmenthistory/short-history/framework</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/bckd</original>
+        <redirect status="301">https://go.usa.gov:443/bckd</redirect>
+        <redirect status="301"
+            >http://history.state.gov/departmenthistory/short-history/expansion</redirect>
+        <redirect status="302"
+            >https://history.state.gov/departmenthistory/short-history/expansion</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/bcve</original>
+        <redirect status="301">https://go.usa.gov:443/bcve</redirect>
+        <redirect status="301"
+            >http://history.state.gov/departmenthistory/short-history/security</redirect>
+        <redirect status="302"
+            >https://history.state.gov/departmenthistory/short-history/security</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/bcwV</original>
+        <redirect status="301">https://go.usa.gov:443/bcwV</redirect>
+        <redirect status="301"
+            >http://history.state.gov/departmenthistory/short-history/mccarthy</redirect>
+        <redirect status="302"
+            >https://history.state.gov/departmenthistory/short-history/mccarthy</redirect>
+        <status>404</status>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/bcyh</original>
+        <redirect status="301">https://go.usa.gov:443/bcyh</redirect>
+        <redirect status="301"
+            >http://history.state.gov/departmenthistory/short-history/professionalism</redirect>
+        <redirect status="302"
+            >https://history.state.gov/departmenthistory/short-history/professionalism</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/bhVj</original>
+        <redirect status="301">https://go.usa.gov:443/bhVj</redirect>
+        <redirect status="301"
+            >http://history.state.gov/frus150/research/1863-union-diplomacy-timeline</redirect>
+        <redirect status="302"
+            >https://history.state.gov/frus150/research/1863-union-diplomacy-timeline</redirect>
+        <status>404</status>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/bpUw</original>
+        <redirect status="301">https://go.usa.gov:443/bpUw</redirect>
+        <redirect status="301"
+            >http://history.state.gov/frus150/research/brilliant-and-important-victories</redirect>
+        <redirect status="302"
+            >https://history.state.gov/frus150/research/brilliant-and-important-victories</redirect>
+        <status>404</status>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/bvDJ</original>
+        <redirect status="301">https://go.usa.gov:443/bvDJ</redirect>
+        <redirect status="301">http://news.science360.gov/archives/20130619</redirect>
+        <error>news.science360.gov: nodename nor servname provided, or not known</error>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/bvDT</original>
+        <redirect status="301">https://go.usa.gov:443/bvDT</redirect>
+        <redirect status="301">http://www.state.gov/vsfs/</redirect>
+        <redirect status="301">https://www.state.gov/vsfs/</redirect>
+        <redirect status="301">/virtual-student-federal-service/</redirect>
+        <override>https://www.state.gov/virtual-student-federal-service/</override>
+        <redirect status="301">https://vsfs.state.gov/</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/bxcB</original>
+        <redirect status="301">https://go.usa.gov:443/bxcB</redirect>
+        <redirect status="301"
+            >http://history.state.gov/frus150/research/international-reaction-to-lincoln</redirect>
+        <redirect status="302"
+            >https://history.state.gov/frus150/research/international-reaction-to-lincoln</redirect>
+        <status>404</status>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/bxcY</original>
+        <redirect status="301">https://go.usa.gov:443/bxcY</redirect>
+        <redirect status="301"
+            >http://history.state.gov/frus150/research/marrs-on-the-first-volume</redirect>
+        <redirect status="302"
+            >https://history.state.gov/frus150/research/marrs-on-the-first-volume</redirect>
+        <status>404</status>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/cC86x</original>
+        <redirect status="301">https://go.usa.gov:443/cC86x</redirect>
+        <redirect status="301"
+            >http://history.state.gov/historicaldocuments/frus1969-76ve16</redirect>
+        <redirect status="302"
+            >https://history.state.gov/historicaldocuments/frus1969-76ve16</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/cGQCJ</original>
+        <redirect status="301">https://go.usa.gov:443/cGQCJ</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1981-88v03</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/cJqxD</original>
+        <redirect status="301">https://go.usa.gov:443/cJqxD</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1977-80v28</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/cKMCS</original>
+        <redirect status="301">https://go.usa.gov:443/cKMCS</redirect>
+        <redirect status="301"
+            >http://history.state.gov/historicaldocuments/frus1969-76ve11p2</redirect>
+        <redirect status="302"
+            >https://history.state.gov/historicaldocuments/frus1969-76ve11p2</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/cS9ZJ</original>
+        <redirect status="301">https://go.usa.gov:443/cS9ZJ</redirect>
+        <redirect status="301">http://www.state.gov/r/pa/prs/ps/2016/06/257864.htm</redirect>
+        <redirect status="301">https://www.state.gov/r/pa/prs/ps/2016/06/257864.htm</redirect>
+        <redirect status="301">/press-releases/</redirect>
+        <override>https://www.state.gov/press-releases/</override>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/cSn2F</original>
+        <redirect status="301">https://go.usa.gov:443/cSn2F</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1977-80v02/d319</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/cSnT3</original>
+        <redirect status="301">https://go.usa.gov:443/cSnT3</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1977-80v02/d330</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/caK64</original>
+        <redirect status="301">https://go.usa.gov:443/caK64</redirect>
+        <redirect status="301"
+            >http://history.state.gov/historicaldocuments/frus1977-80v26</redirect>
+        <redirect status="302"
+            >https://history.state.gov/historicaldocuments/frus1977-80v26</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/cbJm9</original>
+        <redirect status="301">https://go.usa.gov:443/cbJm9</redirect>
+        <redirect status="301"
+            >http://history.state.gov/historicaldocuments/frus1981-88v13</redirect>
+        <redirect status="302"
+            >https://history.state.gov/historicaldocuments/frus1981-88v13</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/cutAY</original>
+        <redirect status="301">https://go.usa.gov:443/cutAY</redirect>
+        <redirect status="301"
+            >https://govbooktalk.gpo.gov/2016/05/11/history-squared-a-history-of-foreign-relations-history/</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/cutNW</original>
+        <redirect status="301">https://go.usa.gov:443/cutNW</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1977-80v30</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/dLn</original>
+        <redirect status="301">https://go.usa.gov:443/dLn</redirect>
+        <redirect status="301"
+            >http://history.state.gov/historicaldocuments/frus1969-76v02?utm_source=HO&amp;utm_medium=twitter&amp;utm_campaign=batch3</redirect>
+        <redirect status="302"
+            >https://history.state.gov/historicaldocuments/frus1969-76v02?utm_source=HO&amp;utm_medium=twitter&amp;utm_campaign=batch3</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/dMM</original>
+        <redirect status="301">https://go.usa.gov:443/dMM</redirect>
+        <redirect status="301"
+            >http://history.state.gov/historicaldocuments/frus1969-76v04/d398</redirect>
+        <redirect status="302"
+            >https://history.state.gov/historicaldocuments/frus1969-76v04/d398</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/dhV</original>
+        <redirect status="301">https://go.usa.gov:443/dhV</redirect>
+        <redirect status="301"
+            >http://history.state.gov/conferences/2011-foreign-economic-policy</redirect>
+        <redirect status="302"
+            >https://history.state.gov/conferences/2011-foreign-economic-policy</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/duw</original>
+        <redirect status="301">https://go.usa.gov:443/duw</redirect>
+        <redirect status="301"
+            >http://history.state.gov/historicaldocuments/frus1969-76v05?utm_source=HO&amp;utm_medium=twitter&amp;utm_campaign=batch3</redirect>
+        <redirect status="302"
+            >https://history.state.gov/historicaldocuments/frus1969-76v05?utm_source=HO&amp;utm_medium=twitter&amp;utm_campaign=batch3</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/gG5H</original>
+        <redirect status="301">https://go.usa.gov:443/gG5H</redirect>
+        <redirect status="301">http://history.state.gov/historicaldocuments/ebooks</redirect>
+        <redirect status="302">https://history.state.gov/historicaldocuments/ebooks</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/gPBw</original>
+        <redirect status="301">https://go.usa.gov:443/gPBw</redirect>
+        <redirect status="301"
+            >http://history.state.gov/historicaldocuments/frus1969-76v27</redirect>
+        <redirect status="302"
+            >https://history.state.gov/historicaldocuments/frus1969-76v27</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/pv1</original>
+        <redirect status="301">https://go.usa.gov:443/pv1</redirect>
+        <redirect status="301">http://blogs.state.gov/index.php/site/entry/frus_ebook</redirect>
+        <redirect status="301">https://www.state.gov/blogs/</redirect>
+        <redirect status="301">https://www.state.gov/blogs</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/rJBh</original>
+        <redirect status="301">https://go.usa.gov:443/rJBh</redirect>
+        <redirect status="301"
+            >http://blogs.state.gov/index.php/site/entry/modern_slavery_150_years_emancipation_proclamation</redirect>
+        <redirect status="301">https://www.state.gov/blogs/</redirect>
+        <redirect status="301">https://www.state.gov/blogs</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/rN8x</original>
+        <redirect status="301">https://go.usa.gov:443/rN8x</redirect>
+        <redirect status="301"
+            >http://history.state.gov/historicaldocuments/frus1969-76v38p1</redirect>
+        <redirect status="302"
+            >https://history.state.gov/historicaldocuments/frus1969-76v38p1</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/rnB5</original>
+        <redirect status="301">https://go.usa.gov:443/rnB5</redirect>
+        <redirect status="301">http://www.state.gov/r/pa/prs/ps/2012/08/196990.htm</redirect>
+        <redirect status="301">https://www.state.gov/r/pa/prs/ps/2012/08/196990.htm</redirect>
+        <redirect status="301">/press-releases/</redirect>
+        <override>https://www.state.gov/press-releases/</override>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/rzsd</original>
+        <redirect status="301">https://go.usa.gov:443/rzsd</redirect>
+        <redirect status="301">http://history.state.gov/frus150/research/emancipation</redirect>
+        <redirect status="302">https://history.state.gov/frus150/research/emancipation</redirect>
+        <status>404</status>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/v3w</original>
+        <redirect status="301">https://go.usa.gov:443/v3w</redirect>
+        <redirect status="301"
+            >http://history.state.gov/historicaldocuments/frus1969-76v03</redirect>
+        <redirect status="302"
+            >https://history.state.gov/historicaldocuments/frus1969-76v03</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/vCN</original>
+        <redirect status="301">https://go.usa.gov:443/vCN</redirect>
+        <redirect status="301"
+            >http://history.state.gov/historicaldocuments/frus1969-76v31/d121</redirect>
+        <redirect status="302"
+            >https://history.state.gov/historicaldocuments/frus1969-76v31/d121</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/vO1</original>
+        <redirect status="301">https://go.usa.gov:443/vO1</redirect>
+        <redirect status="301"
+            >http://history.state.gov/historicaldocuments/frus1969-76v31/d122</redirect>
+        <redirect status="302"
+            >https://history.state.gov/historicaldocuments/frus1969-76v31/d122</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/vrM</original>
+        <redirect status="301">https://go.usa.gov:443/vrM</redirect>
+        <redirect status="301"
+            >http://history.state.gov/historicaldocuments/frus1969-76v04?utm_source=HO&amp;utm_medium=twitter&amp;utm_campaign=batch3</redirect>
+        <redirect status="302"
+            >https://history.state.gov/historicaldocuments/frus1969-76v04?utm_source=HO&amp;utm_medium=twitter&amp;utm_campaign=batch3</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/vx0</original>
+        <redirect status="301">https://go.usa.gov:443/vx0</redirect>
+        <redirect status="301"
+            >http://history.state.gov/conferences/2011-foreign-economic-policy</redirect>
+        <redirect status="302"
+            >https://history.state.gov/conferences/2011-foreign-economic-policy</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/vzV</original>
+        <redirect status="301">https://go.usa.gov:443/vzV</redirect>
+        <redirect status="301">http://www.state.gov/vsfs/index.htm</redirect>
+        <redirect status="301">https://www.state.gov/vsfs/index.htm</redirect>
+        <redirect status="301">/virtual-student-federal-service/</redirect>
+        <override>https://www.state.gov/virtual-student-federal-service/</override>
+        <redirect status="301">https://vsfs.state.gov/</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/vzp</original>
+        <redirect status="301">https://go.usa.gov:443/vzp</redirect>
+        <redirect status="301">http://www.state.gov/vsfs/c51738.htm</redirect>
+        <redirect status="301">https://www.state.gov/vsfs/c51738.htm</redirect>
+        <redirect status="301">https://www.state.gov/404</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/x56c2</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1977-80v15</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/x5XqR</original>
+        <redirect status="301"
+            >https://blogs.state.gov/stories/2017/04/27/en/declassified-documents-about-human-rights-abuses-during-military-dictatorship</redirect>
+        <redirect status="301">https://www.state.gov/blogs/</redirect>
+        <redirect status="301">https://www.state.gov/blogs</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/x7pN3</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1977-80v11p1/d40</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/x896r</original>
+        <redirect status="301">https://go.usa.gov:443/x896r</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1961-63v06/d119</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/x89Am</original>
+        <redirect status="301">https://go.usa.gov:443/x89Am</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1961-63v05/d379</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/x89Hp</original>
+        <redirect status="301">https://go.usa.gov:443/x89Hp</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1961-63v11/d382</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/x8NDJ</original>
+        <redirect status="301">https://go.usa.gov:443/x8NDJ</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1958-60v06/d253</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/x8NDg</original>
+        <redirect status="301">https://go.usa.gov:443/x8NDg</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1969-76ve10/d244</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/x8NWX</original>
+        <redirect status="301">https://go.usa.gov:443/x8NWX</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1958-60v06/d285</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/x8NjA</original>
+        <redirect status="301">https://go.usa.gov:443/x8NjA</redirect>
+        <redirect status="301"
+            >https://www.archives.gov/publications/prologue/2004/spring/childrens-letters.html</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/x8Njf</original>
+        <redirect status="301">https://go.usa.gov:443/x8Njf</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1958-60v06/d262</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/x8Nnq</original>
+        <redirect status="301">https://go.usa.gov:443/x8Nnq</redirect>
+        <redirect status="301">https://history.state.gov/historicaldocuments/frus-history</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/x8RYg</original>
+        <redirect status="301">https://go.usa.gov:443/x8RYg</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1961-63v09/d107</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/x8Rgk</original>
+        <redirect status="301">https://go.usa.gov:443/x8Rgk</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1961-63v25/d31</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/x8Rr5</original>
+        <redirect status="301">https://go.usa.gov:443/x8Rr5</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1952-54v08/d80</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/x8W68</original>
+        <redirect status="301">https://go.usa.gov:443/x8W68</redirect>
+        <redirect status="301">https://history.state.gov/search?within=documents</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/x8WG6</original>
+        <redirect status="301">https://go.usa.gov:443/x8WG6</redirect>
+        <redirect status="301"
+            >https://history.state.gov/departmenthistory/people/clay-henry</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/x8WGN</original>
+        <redirect status="301">https://go.usa.gov:443/x8WGN</redirect>
+        <redirect status="301"
+            >https://history.state.gov/departmenthistory/people/monroe-james</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/x8WGT</original>
+        <redirect status="301">https://go.usa.gov:443/x8WGT</redirect>
+        <redirect status="301"
+            >https://history.state.gov/departmenthistory/people/marshall-john</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/x8WGU</original>
+        <redirect status="301">https://go.usa.gov:443/x8WGU</redirect>
+        <redirect status="301"
+            >https://history.state.gov/departmenthistory/people/adams-john-quincy</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/x8WGZ</original>
+        <redirect status="301">https://go.usa.gov:443/x8WGZ</redirect>
+        <redirect status="301"
+            >https://history.state.gov/departmenthistory/people/madison-james</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/x8WGv</original>
+        <redirect status="301">https://go.usa.gov:443/x8WGv</redirect>
+        <redirect status="301"
+            >https://history.state.gov/departmenthistory/people/adams-john-quincy</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/x8WGx</original>
+        <redirect status="301">https://go.usa.gov:443/x8WGx</redirect>
+        <redirect status="301"
+            >https://history.state.gov/departmenthistory/people/pickering-timothy</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/x8Wec</original>
+        <redirect status="301">https://go.usa.gov:443/x8Wec</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1949v08/d365</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/x8WfM</original>
+        <redirect status="301">https://go.usa.gov:443/x8WfM</redirect>
+        <redirect status="301"
+            >https://history.state.gov/departmenthistory/people/randolph-edmund-jennings</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/x8WfS</original>
+        <redirect status="301">https://go.usa.gov:443/x8WfS</redirect>
+        <redirect status="301"
+            >https://history.state.gov/departmenthistory/people/randolph-edmund-jennings</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/x8WfV</original>
+        <redirect status="301">https://go.usa.gov:443/x8WfV</redirect>
+        <redirect status="301"
+            >https://history.state.gov/departmenthistory/people/van-buren-martin</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/x8WsN</original>
+        <redirect status="301">https://go.usa.gov:443/x8WsN</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1937v02/d137</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/x8Wt9</original>
+        <redirect status="301">https://go.usa.gov:443/x8Wt9</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1969-76ve11p1/d49</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/x8m4P</original>
+        <redirect status="301">https://go.usa.gov:443/x8m4P</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1946v08/d351</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/x8m4s</original>
+        <redirect status="301">https://go.usa.gov:443/x8m4s</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1941v04/d11</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/x8mTT</original>
+        <redirect status="301">https://go.usa.gov:443/x8mTT</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1941v04/d562</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/x8pB6</original>
+        <redirect status="301">https://go.usa.gov:443/x8pB6</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1961-63v06/d35</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/x8pK3</original>
+        <redirect status="301">https://go.usa.gov:443/x8pK3</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1961-63v25/d389</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/x8pKn</original>
+        <redirect status="301">https://go.usa.gov:443/x8pKn</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1964-68v34/d34</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/x928K</original>
+        <redirect status="301">https://go.usa.gov:443/x928K</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1964-68v31</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/x92W5</original>
+        <redirect status="301">https://go.usa.gov:443/x92W5</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1943v04/d797</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/x92Wt</original>
+        <redirect status="301">https://go.usa.gov:443/x92Wt</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1945v05/d994</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/x92YQ</original>
+        <redirect status="301">https://go.usa.gov:443/x92YQ</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1977-80v01/d40</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/x92Z2</original>
+        <redirect status="301">https://go.usa.gov:443/x92Z2</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1943v01/d502</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/x92Z7</original>
+        <redirect status="301">https://go.usa.gov:443/x92Z7</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1964-68v31/d367</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/x92ZJ</original>
+        <redirect status="301">https://go.usa.gov:443/x92ZJ</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1969-76v22</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/x92ZS</original>
+        <redirect status="301">https://go.usa.gov:443/x92ZS</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1977-80v29</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/x92g8</original>
+        <redirect status="301">https://go.usa.gov:443/x92g8</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1964-68v29p1/d189</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/x92rU</original>
+        <redirect status="301">https://go.usa.gov:443/x92rU</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1977-80v01/d103</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/x9Jhb</original>
+        <redirect status="301">https://go.usa.gov:443/x9Jhb</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1945v05/d894</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/x9MGV</original>
+        <redirect status="301">https://go.usa.gov:443/x9MGV</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1941-43/d347</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/x9Mp6</original>
+        <redirect status="301">https://go.usa.gov:443/x9Mp6</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1977-80v13/d266</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/x9MwY</original>
+        <redirect status="301">https://go.usa.gov:443/x9MwY</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1949v05/ch17</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/x9Mwp</original>
+        <redirect status="301">https://go.usa.gov:443/x9Mwp</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1964-68v09/d277</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/x9Sqk</original>
+        <redirect status="301">https://go.usa.gov:443/x9Sqk</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1944v07/d1409</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/x9SxC</original>
+        <redirect status="301">https://go.usa.gov:443/x9SxC</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1945v05/ch38</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/x9YMG</original>
+        <redirect status="301">https://go.usa.gov:443/x9YMG</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1969-76v29/d209</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/x9YMY</original>
+        <redirect status="301">https://go.usa.gov:443/x9YMY</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1964-68v32/d208</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/x9YXP</original>
+        <redirect status="301">https://go.usa.gov:443/x9YXP</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1981-88v06</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/x9er4</original>
+        <redirect status="301">https://go.usa.gov:443/x9er4</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1977-80v01/d111</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/x9tGc</original>
+        <redirect status="301">https://go.usa.gov:443/x9tGc</redirect>
+        <redirect status="301"
+            >https://history.state.gov/departmenthistory/people/powell-colin-luther</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/x9tRU</original>
+        <redirect status="301">https://go.usa.gov:443/x9tRU</redirect>
+        <redirect status="301"
+            >https://history.state.gov/about/faq/african-americans-in-the-foreign-service</redirect>
+        <status>404</status>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/x9tYV</original>
+        <redirect status="301">https://go.usa.gov:443/x9tYV</redirect>
+        <redirect status="301"
+            >https://history.state.gov/departmenthistory/people/rice-condoleezza</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/x9tYs</original>
+        <redirect status="301">https://go.usa.gov:443/x9tYs</redirect>
+        <redirect status="301"
+            >https://history.state.gov/departmenthistory/people/rice-condoleezza</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xDe2F</original>
+        <redirect status="301">https://go.usa.gov:443/xDe2F</redirect>
+        <redirect status="301">https://history.state.gov/historicaldocuments/frus1939v01</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xDe2R</original>
+        <redirect status="301">https://go.usa.gov:443/xDe2R</redirect>
+        <redirect status="301">https://history.state.gov/historicaldocuments/frus1938v04</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xDe2W</original>
+        <redirect status="301">https://go.usa.gov:443/xDe2W</redirect>
+        <redirect status="301">https://history.state.gov/historicaldocuments/frus1938v03</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xDe2d</original>
+        <redirect status="301">https://go.usa.gov:443/xDe2d</redirect>
+        <redirect status="301">https://history.state.gov/historicaldocuments/frus1938v05</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xDe4P</original>
+        <redirect status="301">https://go.usa.gov:443/xDe4P</redirect>
+        <redirect status="301">https://history.state.gov/historicaldocuments/frus1938v01</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xDe4k</original>
+        <redirect status="301">https://go.usa.gov:443/xDe4k</redirect>
+        <redirect status="301">https://history.state.gov/historicaldocuments/frus1937v05</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xDe4z</original>
+        <redirect status="301">https://go.usa.gov:443/xDe4z</redirect>
+        <redirect status="301">https://history.state.gov/historicaldocuments/frus1938v02</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xDeCF</original>
+        <redirect status="301">https://go.usa.gov:443/xDeCF</redirect>
+        <redirect status="301">https://history.state.gov/historicaldocuments/frus1936v02</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xDeCW</original>
+        <redirect status="301">https://go.usa.gov:443/xDeCW</redirect>
+        <redirect status="301">https://history.state.gov/historicaldocuments/frus1936v01</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xDeT3</original>
+        <redirect status="301">https://go.usa.gov:443/xDeT3</redirect>
+        <redirect status="301">https://history.state.gov/historicaldocuments/frus1939v02</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xDeTA</original>
+        <redirect status="301">https://go.usa.gov:443/xDeTA</redirect>
+        <redirect status="301">https://history.state.gov/historicaldocuments/frus1939v05</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xDeTT</original>
+        <redirect status="301">https://go.usa.gov:443/xDeTT</redirect>
+        <redirect status="301">https://history.state.gov/historicaldocuments/frus1939v03</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xDeTm</original>
+        <redirect status="301">https://go.usa.gov:443/xDeTm</redirect>
+        <redirect status="301">https://history.state.gov/historicaldocuments/frus1939v04</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xDeYQ</original>
+        <redirect status="301">https://go.usa.gov:443/xDeYQ</redirect>
+        <redirect status="301">https://history.state.gov/historicaldocuments/frus1936v04</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xDeYe</original>
+        <redirect status="301">https://go.usa.gov:443/xDeYe</redirect>
+        <redirect status="301">https://history.state.gov/historicaldocuments/frus1937v01</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xDeYw</original>
+        <redirect status="301">https://go.usa.gov:443/xDeYw</redirect>
+        <redirect status="301">https://history.state.gov/historicaldocuments/frus1936v05</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xDeg5</original>
+        <redirect status="301">https://go.usa.gov:443/xDeg5</redirect>
+        <redirect status="301">https://history.state.gov/historicaldocuments/frus1937v03</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xDegh</original>
+        <redirect status="301">https://go.usa.gov:443/xDegh</redirect>
+        <redirect status="301">https://history.state.gov/historicaldocuments/frus1937v04</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xDegx</original>
+        <redirect status="301">https://go.usa.gov:443/xDegx</redirect>
+        <redirect status="301">https://history.state.gov/historicaldocuments/frus1937v02</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xDerJ</original>
+        <redirect status="301">https://go.usa.gov:443/xDerJ</redirect>
+        <redirect status="301">https://history.state.gov/historicaldocuments/frus1936v03</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xN6DF</original>
+        <redirect status="301">https://go.usa.gov:443/xN6DF</redirect>
+        <redirect status="301">https://www.usajobs.gov/GetJob/ViewDetails/471416100</redirect>
+        <redirect status="301">/job/471416100</redirect>
+        <override>https://www.usajobs.gov/job/471416100</override>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xN993</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1938v01/d516</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xN99g</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1981-88v06/d158</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xN9nQ</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1916/d1317</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xNVc3</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1981-88v06/d54</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xNmZ9</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1977-80v20/d15</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xNmZD</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1977-80v02/d3</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xNmZW</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1977-80v01/d62</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xPEuX</original>
+        <redirect status="301"
+            >https://history.state.gov/departmenthistory/diplomatic-couriers</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xPmG3</original>
+        <redirect status="301"
+            >https://history.state.gov/departmenthistory/diplomatic-couriers/behind-the-iron-curtain</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xPy4w</original>
+        <redirect status="301"
+            >https://history.state.gov/departmenthistory/diplomatic-couriers/through-the-khyber-pass</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xPyBg</original>
+        <redirect status="301"
+            >https://history.state.gov/departmenthistory/diplomatic-couriers/before-the-jet-age</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xQBPF</original>
+        <redirect status="301">https://www.reaganlibrary.gov/research/speeches/060188a</redirect>
+        <redirect status="301"
+            >https://www.reaganlibrary.gov/archives/speech/remarks-exchange-documents-ratifying-intermediate-range-nuclear-forces-treaty</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xQBPa</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1981-88v06/d158</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xQBPy</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1981-88v06/d160</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xQBQM</original>
+        <redirect status="301">https://www.reaganlibrary.gov/research/speeches/053188b</redirect>
+        <redirect status="301"
+            >https://www.reaganlibrary.gov/archives/speech/remarks-and-question-and-answer-session-students-and-faculty-moscow-state</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xQBQn</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1981-88v06/d156</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xQBnu</original>
+        <redirect status="301">https://www.reaganlibrary.gov/research/speeches/052988a</redirect>
+        <redirect status="301"
+            >https://www.reaganlibrary.gov/archives/speech/remarks-opening-ceremony-soviet-united-states-summit-meeting-moscow</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xQC6A</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1933v03/d768</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xQC6n</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1964-68v03/d7</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xQCHb</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1961-63v05/d237</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xQCHz</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1969-76ve07/d38</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xQN6A</original>
+        <redirect status="301"
+            >https://history.state.gov/departmenthistory/timeline/1930-1939</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xQN6F</original>
+        <redirect status="301"
+            >https://history.state.gov/departmenthistory/timeline/2000-2009</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xQNH8</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1865p4/d163</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xQaMH</original>
+        <redirect status="301"
+            >https://history.state.gov/search?q=%22Frederick+Douglass%22&amp;volume-id=frus1889&amp;volume-id=frus1890&amp;volume-id=frus1891&amp;volume-id=frus1894&amp;volume-id=frus1906p1&amp;within=documents&amp;sort-by=date-asc</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xQeca</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1969-76v19p2</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xR68X</original>
+        <redirect status="301">https://www.state.gov/r/pa/prs/ps/2017/09/273832.htm</redirect>
+        <redirect status="301">/press-releases/</redirect>
+        <override>https://www.state.gov/press-releases/</override>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xRJxz</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1964-68v04</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xRMjJ</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/quarterly-releases/2017-q3</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xRPfP</original>
+        <redirect status="301">https://history.state.gov/search?q=baseball</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xRPfy</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1969-76v17</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xRSVz</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1977-80v17p3</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xRSsj</original>
+        <redirect status="301"
+            >https://history.state.gov/departmenthistory/people/jefferson-thomas</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xRh6D</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1977-80v22</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xRhhc</original>
+        <redirect status="301">https://www.state.gov/r/pa/prs/ps/2017/09/274485.htm</redirect>
+        <redirect status="301">/press-releases/</redirect>
+        <override>https://www.state.gov/press-releases/</override>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xRmcA</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1964-68v33/d381</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xRmcv</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1865p4/d519</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xRmcw</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1865p4/d561</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xRufQ</original>
+        <redirect status="301"
+            >http://www.history.state.gov/historicaldocuments/guide-to-sources-on-vietnam-1969-1975</redirect>
+        <redirect status="302"
+            >https://history.state.gov/historicaldocuments/guide-to-sources-on-vietnam-1969-1975</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xW53m</original>
+        <redirect status="301">https://go.usa.gov:443/xW53m</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1977-80v16</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xX34Z</original>
+        <redirect status="301"
+            >https://history.state.gov/departmenthistory/people/clinton-hillary-rodham</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xX34Z</original>
+        <redirect status="301">https://go.usa.gov:443/xX34Z</redirect>
+        <redirect status="301"
+            >https://history.state.gov/departmenthistory/people/clinton-hillary-rodham</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xX34g</original>
+        <redirect status="301"
+            >https://history.state.gov/departmenthistory/people/rice-condoleezza</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xX34g</original>
+        <redirect status="301">https://go.usa.gov:443/xX34g</redirect>
+        <redirect status="301"
+            >https://history.state.gov/departmenthistory/people/rice-condoleezza</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xX3a3</original>
+        <redirect status="301"
+            >https://history.state.gov/departmenthistory/people/albright-madeleine-korbel</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xX3a3</original>
+        <redirect status="301">https://go.usa.gov:443/xX3a3</redirect>
+        <redirect status="301"
+            >https://history.state.gov/departmenthistory/people/albright-madeleine-korbel</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xX756</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1865p4/d701</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xX75A</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1865p4/d696</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xX75B</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1865p4/d850</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xX75U</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1865p4/d222</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xX75e</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1865p4/d788</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xX75j</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1865p4/d105</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xX75u</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1865p4/d809</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xX75w</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1865p4/d686</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xX789</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1865p4/d58</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xX78K</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1865p4/d12</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xX78R</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1865p4/d59</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xX7WG</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1912/d672</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xX7WK</original>
+        <redirect status="301">https://history.state.gov/historicaldocuments/frus1917/d23</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xX7gJ</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1912/pg_494</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xXBDF</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1936v02/d580</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xXBDV</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1969-76v41/d166</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xXBWA</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1944v03/d171</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xXR6S</original>
+        <redirect status="301">https://history.state.gov/historicaldocuments/frus1914</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xXR6e</original>
+        <redirect status="301">https://history.state.gov/historicaldocuments/frus1912</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xXR6z</original>
+        <redirect status="301">https://history.state.gov/historicaldocuments/frus1913</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xXRF5</original>
+        <redirect status="301">https://history.state.gov/historicaldocuments/frus1916</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xXRFJ</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1917Supp02v01</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xXRFK</original>
+        <redirect status="301">https://history.state.gov/historicaldocuments/frus1915</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xXRFn</original>
+        <redirect status="301">https://history.state.gov/historicaldocuments/frus1917</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xXRM3</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1917Supp02v02</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xXRMT</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1918Russiav02</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xXRMW</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1918Russiav03</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xXRMc</original>
+        <redirect status="301">https://history.state.gov/historicaldocuments/frus1918</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xXRMd</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1918Supp01v01</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xXRMr</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1918Russiav01</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xXRMt</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1918Supp02</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xXRuE</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1918Supp01v02</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xXSVF</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1969-76ve01/ch5</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xXSpf</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1969-76ve01/d298</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xXSyj</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1977-80v02/d102</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xXaG8</original>
+        <redirect status="301">https://history.state.gov/historicaldocuments</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xXaVE</original>
+        <redirect status="301"
+            >https://prologue.blogs.archives.gov/2016/12/09/human-rights-for-all/</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xXaVv</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1955-57v27/d122</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xXad8</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1969-76ve14p1/d182</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xXayF</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1917-72PubDip/d17</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xXnYe</original>
+        <redirect status="301">https://history.state.gov/departmenthistory/wwi</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xXnv6</original>
+        <redirect status="301"
+            >https://history.state.gov/departmenthistory/people/habib-philip-charles</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xXrEc</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1865p4/d814</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xXrPJ</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1865p4/d674</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xXrQJ</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1977-80v01/d121</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xXrQn</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1969-76ve10/d366</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xXrUZ</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1964-68v34/d142</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xXrUk</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1961-63v10/d366</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xXxnd</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1964-68v34/ch5</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xcj2Y</original>
+        <redirect status="301">https://go.usa.gov:443/xcj2Y</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1977-80v26</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xcj2e</original>
+        <redirect status="301">https://go.usa.gov:443/xcj2e</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1977-80v26/ch7</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xcj2w</original>
+        <redirect status="301">https://go.usa.gov:443/xcj2w</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1977-80v26/ch6</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xcj4m</original>
+        <redirect status="301">https://go.usa.gov:443/xcj4m</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1969-76ve14p2</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xcjYG</original>
+        <redirect status="301">https://go.usa.gov:443/xcjYG</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1969-76ve02</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xcjYk</original>
+        <redirect status="301">https://go.usa.gov:443/xcjYk</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1969-76v33</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xcjgF</original>
+        <redirect status="301">https://go.usa.gov:443/xcjgF</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1969-76ve02/ch5</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xcjrh</original>
+        <redirect status="301">https://go.usa.gov:443/xcjrh</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1969-76v32</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xdB3n</original>
+        <redirect status="301">https://go.usa.gov:443/xdB3n</redirect>
+        <redirect status="301">https://www.state.gov/heroes-from-our-past</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xdmGv</original>
+        <redirect status="301"
+            >https://www.state.gov/honoring-dr-ralph-j-bunche-as-a-hero-of-u-s-diplomacy/</redirect>
+        <redirect status="301">https://www.state.gov/404</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xdvtp</original>
+        <redirect status="301">https://go.usa.gov:443/xdvtp</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1917-72PubDipv06/d20</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xe3dk</original>
+        <redirect status="301"
+            >https://www.state.gov/celebrating-100-years-foreign-policy-history</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xfa2T</original>
+        <redirect status="301">https://go.usa.gov:443/xfa2T</redirect>
+        <redirect status="301">https://www.state.gov/heroes-from-our-past#morton</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xfrHj</original>
+        <redirect status="301">https://go.usa.gov:443/xfrHj</redirect>
+        <redirect status="301">https://vsfs.state.gov/projects/view/2717</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xkADF</original>
+        <redirect status="301">https://go.usa.gov:443/xkADF</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1943v03/d255</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xkADH</original>
+        <redirect status="301">https://go.usa.gov:443/xkADH</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1938v04/d802</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xkADM</original>
+        <redirect status="301">https://go.usa.gov:443/xkADM</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1944v07/d404</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xkAW9</original>
+        <redirect status="301">https://go.usa.gov:443/xkAW9</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1964-68v05/d132</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xkAYP</original>
+        <redirect status="301">https://go.usa.gov:443/xkAYP</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1952-54v16/d471</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xkAYR</original>
+        <redirect status="301">https://go.usa.gov:443/xkAYR</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1948v03/d161</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xkAZ4</original>
+        <redirect status="301">https://go.usa.gov:443/xkAZ4</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1969-76ve15p2/d9</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xkAjF</original>
+        <redirect status="301">https://go.usa.gov:443/xkAjF</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1952-54v01p2/d229</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xkArM</original>
+        <redirect status="301">https://go.usa.gov:443/xkArM</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1969-76v35/d61</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xkJTR</original>
+        <redirect status="301">https://go.usa.gov:443/xkJTR</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1961-63v08/d113</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xkJTp</original>
+        <redirect status="301">https://go.usa.gov:443/xkJTp</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1964-68v32/d186</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xkJbK</original>
+        <redirect status="301">https://go.usa.gov:443/xkJbK</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1964-68v08/d154</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xkJba</original>
+        <redirect status="301">https://go.usa.gov:443/xkJba</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1964-68v19/d537</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xkQPQ</original>
+        <redirect status="301">https://go.usa.gov:443/xkQPQ</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1977-80v29</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xkVrP</original>
+        <redirect status="301">https://go.usa.gov:443/xkVrP</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1958-60v15/d551</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xke9C</original>
+        <redirect status="301">https://go.usa.gov:443/xke9C</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1977-80v17p1</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xkhe8</original>
+        <redirect status="301">https://go.usa.gov:443/xkhe8</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1969-76ve05p1/d291</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xkhev</original>
+        <redirect status="301">https://go.usa.gov:443/xkhev</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1961-63v24/d484</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xkp9T</original>
+        <redirect status="301">https://go.usa.gov:443/xkp9T</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1937v01/d687</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xks8G</original>
+        <redirect status="301">https://go.usa.gov:443/xks8G</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1977-80v29</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xksEE</original>
+        <redirect status="301">https://go.usa.gov:443/xksEE</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1964-68v05/d252</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xksEr</original>
+        <redirect status="301">https://go.usa.gov:443/xksEr</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1981-88v03/d1</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xkt7A</original>
+        <redirect status="301">https://go.usa.gov:443/xkt7A</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1977-80v03/d147</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xktAN</original>
+        <redirect status="301">https://go.usa.gov:443/xktAN</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1955-57v16/d292</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xktH5</original>
+        <redirect status="301">https://go.usa.gov:443/xktH5</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1943v05/d316</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xkukj</original>
+        <redirect status="301">https://go.usa.gov:443/xkukj</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1914-20v02/d126</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xkydN</original>
+        <redirect status="301">https://go.usa.gov:443/xkydN</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1969-76v26/d16</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xkyvB</original>
+        <redirect status="301">https://go.usa.gov:443/xkyvB</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1969-76v25/d228</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xkyvG</original>
+        <redirect status="301">https://go.usa.gov:443/xkyvG</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1969-76v25/d410</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xkyvW</original>
+        <redirect status="301">https://go.usa.gov:443/xkyvW</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1969-76v25/d98</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xkyvu</original>
+        <redirect status="301">https://go.usa.gov:443/xkyvu</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1969-76v26/d23</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xkyvv</original>
+        <redirect status="301">https://go.usa.gov:443/xkyvv</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1969-76v25/d334</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xn2r6</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1918Russiav01/d200</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xn2rA#FRUS</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1918Russiav01/d198</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xn2rG</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1918Russiav01</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xn2rH</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1918Russiav01/d199</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xn5xe</original>
+        <redirect status="301">https://www.state.gov/r/pa/prs/ps/2017/12/276259.htm</redirect>
+        <redirect status="301">/press-releases/</redirect>
+        <override>https://www.state.gov/press-releases/</override>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xn68s</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1981-88v03/d209</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xn697</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1951v06p1/d645</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xn69x</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1969-76ve13/d55</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xn7xa</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1955-57v11/d360</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xn92X</original>
+        <redirect status="301">https://www.state.gov/r/pa/prs/ps/2017/11/276099.htm</redirect>
+        <redirect status="301">/press-releases/</redirect>
+        <override>https://www.state.gov/press-releases/</override>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xnFMj</original>
+        <redirect status="301"
+            >https://history.state.gov/departmenthistory/people/davis-ruth-a</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xnFt5</original>
+        <redirect status="301"
+            >https://history.state.gov/departmenthistory/people/perkins-edward-joseph</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xnGEa</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1981-88v41/ch1</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xnH3z</original>
+        <redirect status="301"
+            >https://history.state.gov/departmenthistory/people/frazer-jendayi-elizabeth</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xnHRH</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1977-80v02/d322</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xnHRS</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1977-80v02/d336</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xnM3a</original>
+        <redirect status="301"
+            >https://history.state.gov/departmenthistory/people/aggrey-orison-rudolph</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xnMwm</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1944v07/d1409</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xnMws</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1945v05/d894</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xnT4d</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1918Russiav01/d195</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xnWQE</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1964-68v18/d110</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xnWRz</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1981-88v06/d175</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xnWnD</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1943CairoTehran/d246</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xnWzr</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1981-88v41</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xnXzq</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1917-72PubDipv06/d142</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xnXzx</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1917-72PubDipv06/d146</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xna2r</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1945v09/d918</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xndTK</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1969-76v42</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xndTX</original>
+        <redirect status="301"
+            >https://history.state.gov/search?q=eagleburger&amp;volume-id=frus1969-76v42&amp;within=documents&amp;sort-by=relevance</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xneJ6</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1977-80v28/d193</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xneJH</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1977-80v28/ch9</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xneVw</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1977-80v30/d209</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xnfrr</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1969-76v10/d1</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xngDt</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1977-80v24</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xngZh</original>
+        <redirect status="301">https://www.state.gov/r/pa/prs/ps/2017/10/275087.htm</redirect>
+        <redirect status="301">/press-releases/</redirect>
+        <override>https://www.state.gov/press-releases/</override>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xnsuB</original>
+        <redirect status="301"
+            >https://history.state.gov/departmenthistory/people/brazeal-aurelia-erskine</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xnvJ7</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1917-72PubDipv06/appendix-2</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xnvSP</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1942v01/pg_703</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xnvuX</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1969-76v09/d341</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xnvud</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1969-76v09/d339</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xnwuQ</original>
+        <redirect status="301"
+            >https://history.state.gov/search?q=%22carlos+the+jackal%22&amp;within=documents&amp;sort-by=relevance</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xnxxy</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1955-57v16/d292</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xnzaZ</original>
+        <redirect status="301">https://www.state.gov/r/pa/prs/ps/2018/03/278975.htm</redirect>
+        <redirect status="301">/press-releases/</redirect>
+        <override>https://www.state.gov/press-releases/</override>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xp3FN</original>
+        <redirect status="301">https://go.usa.gov:443/xp3FN</redirect>
+        <redirect status="301">https://www.state.gov/heroes-from-our-past</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xpx9c</original>
+        <redirect status="301">https://history.state.gov/search?q=baseball</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xsamz</original>
+        <redirect status="301"
+            >https://history.state.gov/search?start=1&amp;q=%22Shultz%22&amp;within=documents&amp;volume-id=frus1981-88v03&amp;volume-id=frus1981-88v05&amp;volume-id=frus1981-88v06&amp;volume-id=frus1981-88v13&amp;volume-id=frus1981-88v41&amp;start-date=1982-07-16&amp;end-date=1989-01-20&amp;sort-by=date-asc</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xvK7E</original>
+        <redirect status="301">https://go.usa.gov:443/xvK7E</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1904/d549</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xvKAR</original>
+        <redirect status="301">https://go.usa.gov:443/xvKAR</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1905/d719</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xvKAX</original>
+        <redirect status="301">https://go.usa.gov:443/xvKAX</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1905/d718</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xvKHM</original>
+        <redirect status="301">https://go.usa.gov:443/xvKHM</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1865p3/d284</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xvKs9</original>
+        <redirect status="301">https://go.usa.gov:443/xvKs9</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1865p3/d302</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xvKzN</original>
+        <redirect status="301">https://go.usa.gov:443/xvKzN</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1867p1/d475</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://go.usa.gov/xvk37</original>
+        <redirect status="301">https://go.usa.gov:443/xvk37</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1865p3/d306</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xyFfE</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1977-80v19/ch5</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xyFfQ</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1977-80v19</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xyFfV</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1977-80v19/ch3</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xyFfd</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1977-80v19/d382</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://go.usa.gov/xyFfv</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1977-80v19/d24</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://goo.gl/ENZDjy</original>
+        <redirect status="302">https://history.state.gov/countries/estonia</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://goo.gl/J7nfZR</original>
+        <redirect status="301">https://goo.gl/J7nfZR</redirect>
+        <redirect status="302"
+            >https://plus.google.com/u/0/b/102630068213960289352/events/c21f50veqeaee07un3sq47sav80</redirect>
+        <redirect status="302">https://plus.google.com/events/c21f50veqeaee07un3sq47sav80</redirect>
+        <redirect status="301">https://plus.google.com/</redirect>
+        <redirect status="302"
+            >https://accounts.google.com/ServiceLogin?passive=1209600&amp;osid=1&amp;continue=https://plus.google.com/&amp;followup=https://plus.google.com/</redirect>
+        <redirect status="302"
+            >https://accounts.google.com/v3/signin/identifier?dsh=S755728933%3A1654185611934783&amp;continue=https%3A%2F%2Fplus.google.com%2F&amp;followup=https%3A%2F%2Fplus.google.com%2F&amp;osid=1&amp;passive=1209600&amp;flowName=WebLiteSignIn&amp;flowEntry=ServiceLogin&amp;ifkv=AU9NCczw4OG47ExW417lIfv5pgefhKvlB4VCPI3vwcR9flKrfWNhSgDne627UHzi8hu5GPnwYOhBnA</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://goo.gl/JMk4mr</original>
+        <redirect status="302">https://soundcloud.com/statedept/history-of-us-ambassadors</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://goo.gl/JzqJFp</original>
+        <redirect status="302">https://www.state.gov/r/pa/prs/ps/2017/09/273832.htm</redirect>
+        <redirect status="301">/press-releases/</redirect>
+        <override>https://www.state.gov/press-releases/</override>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://goo.gl/Nk3Ne3</original>
+        <redirect status="301">https://goo.gl/Nk3Ne3</redirect>
+        <redirect status="302"
+            >https://plus.google.com/u/0/b/102630068213960289352/events/cbbdf85hj2etf72s5ckf36f8bkk</redirect>
+        <redirect status="302">https://plus.google.com/events/cbbdf85hj2etf72s5ckf36f8bkk</redirect>
+        <redirect status="301">https://plus.google.com/</redirect>
+        <redirect status="302"
+            >https://accounts.google.com/ServiceLogin?passive=1209600&amp;osid=1&amp;continue=https://plus.google.com/&amp;followup=https://plus.google.com/</redirect>
+        <redirect status="302"
+            >https://accounts.google.com/v3/signin/identifier?dsh=S-284706365%3A1654185614857138&amp;continue=https%3A%2F%2Fplus.google.com%2F&amp;followup=https%3A%2F%2Fplus.google.com%2F&amp;osid=1&amp;passive=1209600&amp;flowName=WebLiteSignIn&amp;flowEntry=ServiceLogin&amp;ifkv=AU9NCcw6L5gSrDw_94oxoRB66UF0Aqp2sYOcBIKUUr1n-EQYdoPFYupWOxUzaKN8gk-TZ4-1Ugw-LQ</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://goo.gl/QfPzX</original>
+        <redirect status="301">https://goo.gl/QfPzX</redirect>
+        <redirect status="302"
+            >http://www.youtube.com/watch?v=qZ60EtFGnoA&amp;feature=youtu.be</redirect>
+        <redirect status="301"
+            >https://www.youtube.com/watch?v=qZ60EtFGnoA&amp;feature=youtu.be</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://goo.gl/SxuPvp</original>
+        <redirect status="301">https://goo.gl/SxuPvp</redirect>
+        <redirect status="302">http://www.state.gov/r/pa/prs/ps/2015/08/246027.htm</redirect>
+        <redirect status="301">https://www.state.gov/r/pa/prs/ps/2015/08/246027.htm</redirect>
+        <redirect status="301">/press-releases/</redirect>
+        <override>https://www.state.gov/press-releases/</override>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://goo.gl/U8Eb9r</original>
+        <redirect status="302"
+            >http://adst.org/the-bunche-legacy-project/american-ambassadors-of-african-descent-oral-histories/</redirect>
+        <redirect status="301"
+            >https://adst.org/the-bunche-legacy-project/american-ambassadors-of-african-descent-oral-histories/</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://goo.gl/gHj7qz</original>
+        <redirect status="302"
+            >https://ee.usembassy.gov/our-relationship/policy-history/io/</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://goo.gl/p9xFkz</original>
+        <redirect status="302"
+            >https://docs.google.com/forms/d/e/1FAIpQLSeu7Vcb6LRygjAIXEe4fatxWeXNVzHOOq4Lfi8RTOxN9l9yBw/viewform</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://goo.gl/pkT74x</original>
+        <redirect status="302">https://www.usajobs.gov/GetJob/ViewDetails/442907500/</redirect>
+        <redirect status="301">/job/442907500</redirect>
+        <override>https://www.usajobs.gov/job/442907500</override>
+        <status>404</status>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/2k2530egp54</original>
+        <redirect status="301">http://www.state.gov/m/ds/rls/273244.htm</redirect>
+        <redirect status="301">https://www.state.gov/m/ds/rls/273244.htm</redirect>
+        <redirect status="301">https://www.state.gov/404</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/2lPK50IwEH8</original>
+        <redirect status="301"
+            >https://go.usa.gov/xzFmY?utm_source=hootsuite&amp;utm_medium=&amp;utm_term=&amp;utm_content=&amp;utm_campaign=albright-in-memoriam</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1977-80v28/d14</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/4tve50JfPng</original>
+        <redirect status="301"
+            >https://go.usa.gov/xuu6K?utm_source=hootsuite&amp;utm_medium=&amp;utm_term=&amp;utm_content=&amp;utm_campaign=job-postings</redirect>
+        <redirect status="301">https://www.usajobs.gov/job/654889000</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/4yxe50GtS66</original>
+        <redirect status="301"
+            >https://go.usa.gov/xMFnQ?utm_source=hootsuite&amp;utm_medium=&amp;utm_term=&amp;utm_content=&amp;utm_campaign=oh-anniversary</redirect>
+        <redirect status="301">https://history.state.gov/historicaldocuments/frus1865p4</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/5cip50IwE5Q</original>
+        <redirect status="301"
+            >https://go.usa.gov/xzFmn?utm_source=hootsuite&amp;utm_medium=&amp;utm_term=&amp;utm_content=&amp;utm_campaign=albright-in-memoriam</redirect>
+        <redirect status="301">https://1997-2001.state.gov/statements/971216.html</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/6psC30eeajL</original>
+        <redirect status="301">http://www.state.gov/m/ds/rls/273049.htm</redirect>
+        <redirect status="301">https://www.state.gov/m/ds/rls/273049.htm</redirect>
+        <redirect status="301">https://www.state.gov/404</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/84sp50IwEEE</original>
+        <redirect status="301"
+            >http://www.worldcat.org/oclc/370975336?utm_source=hootsuite&amp;utm_medium=&amp;utm_term=&amp;utm_content=&amp;utm_campaign=albright-in-memoriam</redirect>
+        <redirect status="301"
+            >https://www.worldcat.org/oclc/370975336?utm_source=hootsuite&amp;utm_medium=&amp;utm_term=&amp;utm_content=&amp;utm_campaign=albright-in-memoriam</redirect>
+        <redirect status="303"
+            >https://www.worldcat.org/title/zdenek-fierlingers-role-in-the-communization-of-czechoslovakia-the-profile-of-a-fellow-traveler/oclc/370975336?utm_term=&amp;utm_campaign=albright-in-memoriam&amp;utm_medium=&amp;utm_content=&amp;utm_source=hootsuite</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/8iUn50GtQL6</original>
+        <redirect status="301"
+            >https://go.usa.gov/xMFRN?utm_source=hootsuite&amp;utm_medium=&amp;utm_term=&amp;utm_content=&amp;utm_campaign=oh-anniversary</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1977-80v23/d304</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/AjpB50IwEAE</original>
+        <redirect status="301"
+            >https://go.usa.gov/xzFE7?utm_source=hootsuite&amp;utm_medium=&amp;utm_term=&amp;utm_content=&amp;utm_campaign=albright-in-memoriam</redirect>
+        <redirect status="301"
+            >https://history.state.gov/departmenthistory/people/albright-madeleine-korbel</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/C8ZF50IwEUy</original>
+        <redirect status="301"
+            >https://go.usa.gov/xze9E?utm_source=hootsuite&amp;utm_medium=&amp;utm_term=&amp;utm_content=&amp;utm_campaign=albright-in-memoriam</redirect>
+        <redirect status="301">https://readmypins.state.gov</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/Csnz30antqj</original>
+        <redirect status="301"
+            >https://www.archives.gov/calendar/event/alaska-sesquicentennial-seward-s-day?platform=hootsuite</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/E9RK50IwEJB</original>
+        <redirect status="301"
+            >https://go.usa.gov/xzFmT?utm_source=hootsuite&amp;utm_medium=&amp;utm_term=&amp;utm_content=&amp;utm_campaign=albright-in-memoriam</redirect>
+        <redirect status="301"
+            >https://clintonwhitehouse6.archives.gov/1997/01/1997-01-23-remarks-of-president-and-albright-at-swearing-in.html</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/EueL30antAU</original>
+        <redirect status="301"
+            >https://www.loc.gov/rr/program/bib/ourdocs/Alaska.html?platform=hootsuite</redirect>
+        <redirect status="301"
+            >https://www.loc.gov/rr/program/bib/ourdocs/?platform=hootsuite</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/FmPH50JfPk9</original>
+        <redirect status="301"
+            >http://go.usa.gov/xuu6z?utm_source=hootsuite&amp;utm_medium=&amp;utm_term=&amp;utm_content=&amp;utm_campaign=job-postings</redirect>
+        <redirect status="301"
+            >https://go.usa.gov:443/xuu6z?utm_source=hootsuite&amp;utm_medium=&amp;utm_term=&amp;utm_content=&amp;utm_campaign=job-postings</redirect>
+        <redirect status="301">https://www.usajobs.gov/job/655096100</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/Ht6730e8OIc</original>
+        <redirect status="301">http://www.state.gov/m/ds/rls/273004.htm</redirect>
+        <redirect status="301">https://www.state.gov/m/ds/rls/273004.htm</redirect>
+        <redirect status="301">https://www.state.gov/404</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/Hzjo50JfPmY</original>
+        <redirect status="301"
+            >http://go.usa.gov/xuu6z?utm_source=hootsuite&amp;utm_medium=&amp;utm_term=&amp;utm_content=&amp;utm_campaign=job-postings</redirect>
+        <redirect status="301"
+            >https://go.usa.gov:443/xuu6z?utm_source=hootsuite&amp;utm_medium=&amp;utm_term=&amp;utm_content=&amp;utm_campaign=job-postings</redirect>
+        <redirect status="301">https://www.usajobs.gov/job/655096100</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/IWWN50GBcUs</original>
+        <redirect status="301">https://go.usa.gov/xeanT</redirect>
+        <redirect status="301"
+            >https://2001-2009.state.gov/secretary/former/powell/remarks/2003/17300.htm</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/IehM50IwECC</original>
+        <redirect status="301"
+            >https://go.usa.gov/xzFEH?utm_source=hootsuite&amp;utm_medium=&amp;utm_term=&amp;utm_content=&amp;utm_campaign=albright-in-memoriam</redirect>
+        <redirect status="301">https://1997-2001.state.gov/statements/970209.html</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/IvVX50JfPrQ</original>
+        <redirect status="301"
+            >http://go.usa.gov/xuu6z?utm_source=hootsuite&amp;utm_medium=&amp;utm_term=&amp;utm_content=&amp;utm_campaign=job-postings</redirect>
+        <redirect status="301"
+            >https://go.usa.gov:443/xuu6z?utm_source=hootsuite&amp;utm_medium=&amp;utm_term=&amp;utm_content=&amp;utm_campaign=job-postings</redirect>
+        <redirect status="301">https://www.usajobs.gov/job/655096100</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/Ix5j50H1pGJ</original>
+        <redirect status="301">https://go.usa.gov/xeVTg</redirect>
+        <redirect status="301"
+            >https://history.state.gov/search?q=panda&amp;within=documents&amp;sort-by=date-asc</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/KzyE30anxWY</original>
+        <redirect status="301"
+            >http://digicoll.library.wisc.edu/cgi-bin/FRUS/FRUS-idx?type=goto&amp;id=FRUS.FRUS186869v01&amp;isize=M&amp;submit=Go%20to%20page&amp;page=475</redirect>
+        <redirect status="301"
+            >https://digicoll.library.wisc.edu/cgi-bin/FRUS/FRUS-idx?type=goto&amp;id=FRUS.FRUS186869v01&amp;isize=M&amp;submit=Go%20to%20page&amp;page=475</redirect>
+        <redirect status="302">https://digital.library.wisc.edu/1711.dl/FRUS</redirect>
+        <redirect status="303">https://search.library.wisc.edu/digital/AFRUS</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/L5CG2</original>
+        <redirect status="301"
+            >http://www.huffingtonpost.com/lindsay-sarah-krasnoff-phd/the-marvelous-millie-b_b_6976208.html</redirect>
+        <redirect status="301"
+            >https://www.huffingtonpost.com/lindsay-sarah-krasnoff-phd/the-marvelous-millie-b_b_6976208.html</redirect>
+        <redirect status="301"
+            >https://www.huffpost.com/entry/the-marvelous-millie-b_b_6976208</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/MDKt5</original>
+        <redirect status="301"
+            >http://historyatstate.tumblr.com/post/118343204759/survivor-stories-of-the-lusitania</redirect>
+        <redirect status="302"
+            >https://historyatstate.tumblr.com/post/118343204759/survivor-stories-of-the-lusitania</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/MGCLK</original>
+        <redirect status="301"
+            >http://historyatstate.tumblr.com/post/118422588187/after-may-8-1945</redirect>
+        <redirect status="302"
+            >https://historyatstate.tumblr.com/post/118422588187/after-may-8-1945</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/MV2Py</original>
+        <redirect status="301"
+            >http://historyatstate.tumblr.com/post/118889388398/the-london-exposition-of-1851</redirect>
+        <redirect status="302"
+            >https://historyatstate.tumblr.com/post/118889388398/the-london-exposition-of-1851</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/MtsFW</original>
+        <redirect status="301"
+            >http://historyatstate.tumblr.com/post/118095186541/the-united-states-at-the-world-expos</redirect>
+        <redirect status="302"
+            >https://historyatstate.tumblr.com/post/118095186541/the-united-states-at-the-world-expos</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/MuAC50H1hm1</original>
+        <redirect status="301"
+            >https://statemag.state.gov/2021/12/1221feat03/?utm_source=hootsuite&amp;utm_medium=&amp;utm_term=&amp;utm_content=&amp;utm_campaign=OH-anniversary</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/MyqVA</original>
+        <redirect status="301"
+            >http://digicoll.library.wisc.edu/cgi-bin/FRUS/FRUS-idx?type=goto&amp;id=FRUS.FRUS1915Supp&amp;isize=M&amp;submit=Go+to+page&amp;page=384</redirect>
+        <redirect status="301"
+            >https://digicoll.library.wisc.edu/cgi-bin/FRUS/FRUS-idx?type=goto&amp;id=FRUS.FRUS1915Supp&amp;isize=M&amp;submit=Go+to+page&amp;page=384</redirect>
+        <redirect status="302">https://digital.library.wisc.edu/1711.dl/FRUS</redirect>
+        <redirect status="303">https://search.library.wisc.edu/digital/AFRUS</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/N69Pm</original>
+        <redirect status="301"
+            >http://historyatstate.tumblr.com/post/119286524858/the-cafe-restaurant-expo-debut-paris-1867</redirect>
+        <redirect status="302"
+            >https://historyatstate.tumblr.com/post/119286524858/the-cafe-restaurant-expo-debut-paris-1867</redirect>
+        <redirect status="301"
+            >https://historyatstate.tumblr.com/post/119286524858/the-caf%C3%A9-restaurant-expo-d%C3%A9but-paris-1867</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/N6oKm</original>
+        <redirect status="301"
+            >http://historyatstate.tumblr.com/post/119292623618/celebrating-the-centenary-philadelphia-expo-1876</redirect>
+        <redirect status="302"
+            >https://historyatstate.tumblr.com/post/119292623618/celebrating-the-centenary-philadelphia-expo-1876</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/NIgs5</original>
+        <redirect status="301"
+            >http://historyatstate.tumblr.com/post/120429196344/meet-me-at-the-fair-st-louis-1904</redirect>
+        <redirect status="302"
+            >https://historyatstate.tumblr.com/post/120429196344/meet-me-at-the-fair-st-louis-1904</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/NsDYx</original>
+        <redirect status="301"
+            >http://historyatstate.tumblr.com/post/119961158273/revolutionary-revels-paris-1889</redirect>
+        <redirect status="302"
+            >https://historyatstate.tumblr.com/post/119961158273/revolutionary-revels-paris-1889</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/NzaXS</original>
+        <redirect status="301"
+            >http://historyatstate.tumblr.com/post/120126199708/presidential-luncheon-the-columbian-exposition</redirect>
+        <redirect status="302"
+            >https://historyatstate.tumblr.com/post/120126199708/presidential-luncheon-the-columbian-exposition</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/O2H0f</original>
+        <redirect status="301"
+            >http://historyatstate.tumblr.com/post/121047914363/the-jason-and-the-world-expo-from-christmas-gifts</redirect>
+        <redirect status="302"
+            >https://historyatstate.tumblr.com/post/121047914363/the-jason-and-the-world-expo-from-christmas-gifts</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/O84x0</original>
+        <redirect status="301"
+            >http://historyatstate.tumblr.com/post/121177286643/a-worlds-fair-on-the-brink-of-war-new-york</redirect>
+        <redirect status="302"
+            >https://historyatstate.tumblr.com/post/121177286643/a-worlds-fair-on-the-brink-of-war-new-york</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/OFVM50GBcGH</original>
+        <redirect status="301">https://go.usa.gov/xeaR7</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1981-88v11/d239</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/OleMe</original>
+        <redirect status="301"
+            >http://historyatstate.tumblr.com/post/121577884406/haiti-1949</redirect>
+        <redirect status="302"
+            >https://historyatstate.tumblr.com/post/121577884406/haiti-1949</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/OlgWw</original>
+        <redirect status="301">https://www.whitehouse.gov/1600/first-ladies/juliagrant</redirect>
+        <redirect status="301"
+            >https://www.whitehouse.gov/about-the-white-house/first-families/julia-dent-grant/</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/OmgGT</original>
+        <redirect status="301"
+            >http://historyatstate.tumblr.com/post/121616558876/from-soup-to-ice-cream-nuts-brussels-expo-1958</redirect>
+        <redirect status="302"
+            >https://historyatstate.tumblr.com/post/121616558876/from-soup-to-ice-cream-nuts-brussels-expo-1958</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/PluU50GBc9e</original>
+        <redirect status="301">https://go.usa.gov/xeaRR</redirect>
+        <redirect status="301"
+            >https://history.state.gov/departmenthistory/people/powell-colin-luther</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/PzfO50JfNvJ</original>
+        <redirect status="301"
+            >https://go.usa.gov/xuu6K?utm_source=hootsuite&amp;utm_medium=&amp;utm_term=&amp;utm_content=&amp;utm_campaign=job-special-projects</redirect>
+        <redirect status="301">https://www.usajobs.gov/job/654889000</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/Q0Alm</original>
+        <redirect status="301"
+            >http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=0Aro0E4o5NdoydExZRXduMzgzR1VkRWZ6cmFlTG81d1E&amp;font=Bevan-PotanoSans&amp;maptype=toner&amp;lang=en-24hr&amp;height=650</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/RVD9q</original>
+        <redirect status="301">http://historyatstate.tumblr.com/tagged/WW1WhosWho</redirect>
+        <redirect status="302">https://historyatstate.tumblr.com/tagged/WW1WhosWho</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/RVEqp</original>
+        <redirect status="301"
+            >http://historyatstate.tumblr.com/post/118343204759/survivor-stories-of-the-lusitania</redirect>
+        <redirect status="302"
+            >https://historyatstate.tumblr.com/post/118343204759/survivor-stories-of-the-lusitania</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/RuAc50HwZtM</original>
+        <redirect status="301"
+            >http://ow.ly/7NYi50HwZf4?utm_source=hootsuite&amp;utm_medium=&amp;utm_term=&amp;utm_content=&amp;utm_campaign=in-memoriam</redirect>
+        <redirect status="301">https://go.usa.gov/xtBqy</redirect>
+        <redirect status="301"
+            >https://history.state.gov/search?start=1&amp;q=%22David%20Humphrey%22%20OR%20%22David%20C.%20Humphrey%22&amp;sort-by=date-asc</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/SSF550GBcOe</original>
+        <redirect status="301">https://bit.ly/3EqCy6G</redirect>
+        <redirect status="301">https://bush41library.tamu.edu/archives/public-papers/5202</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/TJI330dTNd4</original>
+        <redirect status="301"
+            >https://www.facebook.com/StateDeptDSS/videos/10154869786332457/</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/UBNC50GBcUr</original>
+        <redirect status="301">https://go.usa.gov/xeanZ</redirect>
+        <redirect status="301">https://2001-2009.state.gov/p/nea/disarm/index.htm</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/VEFx30anxYo</original>
+        <redirect status="301"
+            >http://digicoll.library.wisc.edu/cgi-bin/FRUS/FRUS-idx?type=turn&amp;entity=FRUS.FRUS186768v01.p0472&amp;id=FRUS.FRUS186768v01&amp;isize=M</redirect>
+        <redirect status="301"
+            >https://digicoll.library.wisc.edu/cgi-bin/FRUS/FRUS-idx?type=turn&amp;entity=FRUS.FRUS186768v01.p0472&amp;id=FRUS.FRUS186768v01&amp;isize=M</redirect>
+        <redirect status="302">https://digital.library.wisc.edu/1711.dl/FRUS</redirect>
+        <redirect status="303">https://search.library.wisc.edu/digital/AFRUS</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/VTtE309pJ10</original>
+        <redirect status="301"
+            >https://diplomacy.state.gov/discoverdiplomacy/explorer/peoplehistorical/170240.htm</redirect>
+        <status>404</status>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/Vz0e50Gtmpp</original>
+        <redirect status="301">https://go.usa.gov/xMFnj</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1969-76ve15p2/d91</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/XKqp309rX7F</original>
+        <redirect status="301"
+            >http://blogs.loc.gov/law/2016/12/edith-sampson-pic-of-the-week/</redirect>
+        <redirect status="301"
+            >https://blogs.loc.gov/law/2016/12/edith-sampson-pic-of-the-week/</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/XeTE50GtS1S</original>
+        <redirect status="301"
+            >https://go.usa.gov/xMFn3?utm_source=hootsuite&amp;utm_medium=&amp;utm_term=&amp;utm_content=&amp;utm_campaign=oh-anniversary</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1964-68v17/d80</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/Yh1i50IwE7r</original>
+        <redirect status="301"
+            >https://go.usa.gov/xzFmZ?utm_source=hootsuite&amp;utm_medium=&amp;utm_term=&amp;utm_content=&amp;utm_campaign=albright-in-memoriam</redirect>
+        <redirect status="301">https://1997-2001.state.gov/statements/1998/981027.html</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/aCsl50IwEo5</original>
+        <redirect status="301"
+            >https://go.usa.gov/xzFm7?utm_source=hootsuite&amp;utm_medium=&amp;utm_term=&amp;utm_content=&amp;utm_campaign=albright-in-memoriam</redirect>
+        <redirect status="301">https://hdl.loc.gov/loc.mss/eadmss.ms018034</redirect>
+        <redirect status="302"
+            >https://findingaids.loc.gov/db/search/xq/searchMfer02.xq?_id=loc.mss.eadmss.ms018034&amp;_faSection=overview&amp;_faSubsection=did&amp;_dmdid=</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/aMeV50JfPnR</original>
+        <redirect status="301"
+            >http://go.usa.gov/xuu6z?utm_source=hootsuite&amp;utm_medium=&amp;utm_term=&amp;utm_content=&amp;utm_campaign=job-postings</redirect>
+        <redirect status="301"
+            >https://go.usa.gov:443/xuu6z?utm_source=hootsuite&amp;utm_medium=&amp;utm_term=&amp;utm_content=&amp;utm_campaign=job-postings</redirect>
+        <redirect status="301">https://www.usajobs.gov/job/655096100</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/apuP50GBcY7</original>
+        <redirect status="301">https://go.usa.gov/xeanK</redirect>
+        <redirect status="301"
+            >https://statemag.state.gov/wp-content/uploads/2021/02/January_2005.pdf</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/ecc62</original>
+        <redirect status="301"
+            >http://www.undispatch.com/un-history-project-opens-at-harvard-university</redirect>
+        <redirect status="301"
+            >https://www.undispatch.com/un-history-project-opens-at-harvard-university</redirect>
+        <redirect status="301"
+            >https://www.undispatch.com/un-history-project-opens-at-harvard-university/</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/f44WB</original>
+        <redirect status="301"
+            >http://www.nypl.org/events/programs/2012/11/07/workshop-using-historical-diplomatic-documentation-21st-century-office-hi</redirect>
+        <redirect status="301"
+            >https://www.nypl.org/events/programs/2012/11/07/workshop-using-historical-diplomatic-documentation-21st-century-office-hi</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/foiy50d8nuR</original>
+        <redirect status="301"
+            >https://www.youtube.com/watch?v=6pUwqAN4KtM&amp;utm_source=hootsuite&amp;utm_medium=&amp;utm_campaign=</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/getC30cMimf</original>
+        <redirect status="301">https://history.state.gov/historicaldocuments/reagan</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/gm5550GtRYl</original>
+        <redirect status="301"
+            >https://go.usa.gov/xMFRE?utm_source=hootsuite&amp;utm_medium=&amp;utm_term=&amp;utm_content=&amp;utm_campaign=oh-anniversary</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1977-80v06/d122</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/h0Fn30cMhGJ</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/quarterly-releases/2017-q2</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/hToN50JfPsy</original>
+        <redirect status="301"
+            >https://go.usa.gov/xuu6K?utm_source=hootsuite&amp;utm_medium=&amp;utm_term=&amp;utm_content=&amp;utm_campaign=job-postings</redirect>
+        <redirect status="301">https://www.usajobs.gov/job/654889000</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/hrOf0</original>
+        <redirect status="301">http://bit.ly/RA8g96</redirect>
+        <redirect status="301">http://socialmediaweek.org/washingtondc/schedule/</redirect>
+        <redirect status="301">https://socialmediaweek.org/washingtondc/schedule/</redirect>
+        <redirect status="301"
+            >https://socialmediaweek.org/blog/2015/02/schedule-important-work/</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/i/2sTaC</original>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/iZs450GBcrp</original>
+        <redirect status="301">https://go.usa.gov/xeaRE</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1981-88v06/d121</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/kgEq50GtQIm</original>
+        <redirect status="301"
+            >https://go.usa.gov/xMF5N?utm_source=hootsuite&amp;utm_medium=&amp;utm_term=&amp;utm_content=&amp;utm_campaign=oh-anniversary</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1952-54Guat/d89</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/mkVhm</original>
+        <redirect status="301"
+            >http://www.senate.gov/artandhistory/history/minute/First_Official_Parliamentarian.htm</redirect>
+        <redirect status="301"
+            >https://www.senate.gov/artandhistory/history/minute/First_Official_Parliamentarian.htm</redirect>
+        <redirect status="302"
+            >https://www.senate.gov/pagelayout/general/one_item_and_teasers/file_not_found.htm</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/mxO450GtRX0</original>
+        <redirect status="301"
+            >https://go.usa.gov/xMFRn?utm_source=hootsuite&amp;utm_medium=&amp;utm_term=&amp;utm_content=&amp;utm_campaign=oh-anniversary</redirect>
+        <redirect status="301"
+            >https://history.state.gov/search?q=%22technical+penetration%22&amp;volume-id=frus1977-80v06&amp;within=documents&amp;sort-by=date-asc</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/nE9h50JfPoT</original>
+        <redirect status="301"
+            >https://go.usa.gov/xuu6K?utm_source=hootsuite&amp;utm_medium=&amp;utm_term=&amp;utm_content=&amp;utm_campaign=job-postings</redirect>
+        <redirect status="301">https://www.usajobs.gov/job/654889000</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/oGwa50GtQDS</original>
+        <redirect status="301"
+            >https://go.usa.gov/xMFX7?utm_source=hootsuite&amp;utm_medium=&amp;utm_term=&amp;utm_content=&amp;utm_campaign=oh-anniversary</redirect>
+        <redirect status="301">https://history.state.gov/historicaldocuments</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/oakA50IwEjA</original>
+        <redirect status="301"
+            >https://www.youtube.com/watch?v=nwEZp-PhT-8&amp;utm_source=hootsuite&amp;utm_medium=&amp;utm_term=&amp;utm_content=&amp;utm_campaign=albright-in-memoriam</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/qWUae</original>
+        <redirect status="301"
+            >http://c-spanvideo.org/program/Randolp?utm_source=hootsuite&amp;utm_campaign=hootsuite</redirect>
+        <status>403</status>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/qYvts</original>
+        <redirect status="301"
+            >http://c-spanvideo.org/program/Randolp?utm_source=hootsuite&amp;utm_campaign=hootsuite</redirect>
+        <status>403</status>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/qthC50GBcBQ</original>
+        <redirect status="301">https://go.usa.gov/xeaRm</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1981-88v06/d104</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/qttX50IwEFg</original>
+        <redirect status="301"
+            >http://www.worldcat.org/oclc/25446637?utm_source=hootsuite&amp;utm_medium=&amp;utm_term=&amp;utm_content=&amp;utm_campaign=albright-in-memoriam</redirect>
+        <redirect status="301"
+            >https://www.worldcat.org/oclc/25446637?utm_source=hootsuite&amp;utm_medium=&amp;utm_term=&amp;utm_content=&amp;utm_campaign=albright-in-memoriam</redirect>
+        <redirect status="303"
+            >https://www.worldcat.org/title/role-of-the-press-in-political-change-czechoslovakia-in-1968/oclc/25446637?utm_term=&amp;utm_campaign=albright-in-memoriam&amp;utm_medium=&amp;utm_content=&amp;utm_source=hootsuite</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/rSVI50JfPt3</original>
+        <redirect status="301"
+            >http://go.usa.gov/xuu6z?utm_source=hootsuite&amp;utm_medium=&amp;utm_term=&amp;utm_content=&amp;utm_campaign=job-postings</redirect>
+        <redirect status="301"
+            >https://go.usa.gov:443/xuu6z?utm_source=hootsuite&amp;utm_medium=&amp;utm_term=&amp;utm_content=&amp;utm_campaign=job-postings</redirect>
+        <redirect status="301">https://www.usajobs.gov/job/655096100</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/srRa50GVZnP</original>
+        <redirect status="301"
+            >http://ow.ly/UqB650GVYMM?utm_source=hootsuite&amp;utm_medium=&amp;utm_term=&amp;utm_content=&amp;utm_campaign=hac-2021-12</redirect>
+        <redirect status="301">https://go.usa.gov/xeR6Y</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1977-80v24/ch2</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/tbht50JfPlK</original>
+        <redirect status="301"
+            >https://go.usa.gov/xuu6K?utm_source=hootsuite&amp;utm_medium=&amp;utm_term=&amp;utm_content=&amp;utm_campaign=job-postings</redirect>
+        <redirect status="301">https://www.usajobs.gov/job/654889000</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/tiv850GtS3J</original>
+        <redirect status="301"
+            >https://go.usa.gov/xMFnC?utm_source=hootsuite&amp;utm_medium=&amp;utm_term=&amp;utm_content=&amp;utm_campaign=oh-anniversary</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1917-72PubDipv06/d109</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/uExw50GVZmK</original>
+        <redirect status="301"
+            >http://ow.ly/mc4G50GVYRi?utm_source=hootsuite&amp;utm_medium=&amp;utm_term=&amp;utm_content=&amp;utm_campaign=hac-2021-12</redirect>
+        <redirect status="301">https://go.usa.gov/xeRF3</redirect>
+        <redirect status="301"
+            >https://www.intelligence.gov/argentina-declassification-project</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/uZXVK</original>
+        <redirect status="301"
+            >http://careerplan.commons.gc.cuny.edu/events/career-conversations-working-federal-government/</redirect>
+        <redirect status="301"
+            >https://careerplan.commons.gc.cuny.edu/events/career-conversations-working-federal-government/</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/uZYih</original>
+        <redirect status="301"
+            >https://ww2.eventrebels.com/er/Registration/StepRegInfo.jsp?ActivityID=9984&amp;StepNumber=1</redirect>
+        <redirect status="301"
+            >https://www.edgereg.net/er/Registration/StepRegInfo.jsp?ActivityID=9984&amp;StepNumber=1</redirect>
+        <redirect status="302"
+            >./StepRegInfo.jsp?ActivityID=9984&amp;StepNumber=1&amp;v=MjBjMWQ3ZWQtY2IzZC00OTc5LWIyNjMtNGE5NTRlN2RiNWQx</redirect>
+        <override>https://www.edgereg.net//StepRegInfo.jsp?ActivityID=9984&amp;StepNumber=1&amp;v=MjBjMWQ3ZWQtY2IzZC00OTc5LWIyNjMtNGE5NTRlN2RiNWQx</override>
+        <status>404</status>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/uk8y50GBcJA</original>
+        <redirect status="301">https://go.usa.gov/xeaR6</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1981-88v11/d313</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/v4Dd9</original>
+        <redirect status="301"
+            >http://careerplan.commons.gc.cuny.edu/events/career-conversations-working-federal-government/</redirect>
+        <redirect status="301"
+            >https://careerplan.commons.gc.cuny.edu/events/career-conversations-working-federal-government/</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/v4r1H</original>
+        <redirect status="301"
+            >https://imgsvr.eventrebels.com/ERImg/00/99/84/SMH-draft-program-as-of-140210.pdf</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/v4rgM</original>
+        <redirect status="301"
+            >https://imgsvr.eventrebels.com/ERImg/00/99/84/SMH-draft-program-as-of-140210.pdf</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/vuV450GtS5k</original>
+        <redirect status="301"
+            >https://go.usa.gov/xMFnK?utm_source=hootsuite&amp;utm_medium=&amp;utm_term=&amp;utm_content=&amp;utm_campaign=oh-anniversary</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1981-88v05/d16</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/wKfo50GtSjU</original>
+        <redirect status="301"
+            >https://go.usa.gov/xMFnP?utm_source=hootsuite&amp;utm_medium=&amp;utm_term=&amp;utm_content=&amp;utm_campaign=oh-anniversary</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1865p4/d53</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/xauo50GtS4s</original>
+        <redirect status="301"
+            >https://go.usa.gov/xMtDz?utm_source=hootsuite&amp;utm_medium=&amp;utm_term=&amp;utm_content=&amp;utm_campaign=oh-anniversary</redirect>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1977-80v01/d123</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/xmKM50GtRZu</original>
+        <redirect status="301"
+            >https://history.state.gov/historicaldocuments/frus1977-80v06/d116?utm_source=hootsuite&amp;utm_medium=&amp;utm_term=&amp;utm_content=&amp;utm_campaign=oh-anniversary</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://ow.ly/zamk3024gqr</original>
+        <redirect status="301">http://vsfs.state.gov/projects/view/107?platform=hootsuite</redirect>
+        <redirect status="301"
+            >https://vsfs.state.gov/projects/view/107?platform=hootsuite</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://youtu.be/1HSIbttjWgg</original>
+        <redirect status="301">https://youtu.be/1HSIbttjWgg</redirect>
+        <redirect status="303"
+            >https://www.youtube.com/watch?v=1HSIbttjWgg&amp;feature=youtu.be</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://youtu.be/5eVilDacrtA</original>
+        <redirect status="303"
+            >https://www.youtube.com/watch?v=5eVilDacrtA&amp;feature=youtu.be</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://youtu.be/BE8lu_2Lmrg</original>
+        <redirect status="303"
+            >https://www.youtube.com/watch?v=BE8lu_2Lmrg&amp;feature=youtu.be</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://youtu.be/Di9E4da5G4k</original>
+        <redirect status="301">https://youtu.be/Di9E4da5G4k</redirect>
+        <redirect status="303"
+            >https://www.youtube.com/watch?v=Di9E4da5G4k&amp;feature=youtu.be</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://youtu.be/VTHBEuFJBts?t=3201</original>
+        <redirect status="303"
+            >https://www.youtube.com/watch?t=3201&amp;v=VTHBEuFJBts&amp;feature=youtu.be</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>https://youtu.be/trF73poIog0</original>
+        <redirect status="303"
+            >https://www.youtube.com/watch?v=trF73poIog0&amp;feature=youtu.be</redirect>
+        <ok/>
+    </shortened-url>
+    <shortened-url>
+        <original>http://youtu.be/y7Ume9PcYZc</original>
+        <redirect status="301">https://youtu.be/y7Ume9PcYZc</redirect>
+        <redirect status="303"
+            >https://www.youtube.com/watch?v=y7Ume9PcYZc&amp;feature=youtu.be</redirect>
+        <ok/>
+    </shortened-url>
+</shortened-urls>

@@ -3,9 +3,6 @@ xquery version "3.1";
 module namespace pt="http://history.state.gov/ns/xquery/twitter/process-tweets";
 
 import module namespace config = "http://history.state.gov/ns/xquery/twitter/config" at "config.xqm";
-import module namespace ju = "http://joewiz.org/ns/xquery/json-util" at "json-util.xqm";
-import module namespace dates = "http://xqdev.com/dateparser" at "date-parser.xqm";
-import module namespace console="http://exist-db.org/xquery/console";
 import module namespace functx="http://www.functx.com";
 
 (: for info about each entity type see https://dev.twitter.com/overview/api/entities-in-twitter-objects :)
@@ -24,8 +21,7 @@ declare function pt:chop($text as xs:string, $indices as array(*)) {
     let $entity := substring($text, $index-start + 1, $index-end - $index-start)
     return
         (
-(:        console:log('chopped text into: before: "' || $before || '" entity: "' || $entity || '" after: "' || $after || '"'), :)
-        $before, $entity, pt:clean-text($after)
+            $before, $entity, pt:clean-text($after)
         )
 };
 
@@ -82,11 +78,8 @@ declare function pt:apply-entities($text as xs:string, $entities as map(*)*, $se
             else if ($type = 'photo') then
                 pt:photo($text, $entity)
             else 
-                (
-                    (: unhandled entity type - no special processing :)
-                    pt:chop($text, $entity?indices),
-                    console:log('process-tweets error: unknown entity type: ' || $type)
-                )
+                (: unhandled entity type - no special processing :)
+                pt:chop($text, $entity?indices)
         let $remaining-text := subsequence($results, 1, 1)
         let $remaining-entities := tail($entities)
         let $completed-segments := (subsequence($results, 2), $segments)
@@ -163,13 +156,21 @@ declare function pt:tweet-json-to-xml($tweet as map(*), $default-screen-name as 
     let $url := concat('https://twitter.com/', $screen-name, '/status/', $id)
     let $text := pt:clean-text($tweet?full_text)
     let $created-at := $tweet?created_at
-    let $created-datetime := adjust-dateTime-to-timezone(xs:dateTime(dates:parseDateTime(replace($created-at, '\+0000 (\d{4})', '$1 0000'))), ())
+    let $created-datetime := 
+        $created-at
+        (: e.g., "Thu Mar 10 12:24:26 +0000 2016" :)
+        => replace(
+            "(\w{3}) (\w{3}) (\d{1,2}) (\d{2}:\d{2}:\d{2}) ([+-]\d{4}) (\d{4})",
+            "$1, $3 $2 $6 $4 $5"
+        )
+        => parse-ietf-date()
+        => adjust-dateTime-to-timezone(())
     let $html := 
         (: "Retweeted tweets are a special kind of tweet", see https://twittercommunity.com/t/long-retweets-are-truncated/9647 :)
         if (map:contains($tweet, "retweeted_status")) then
             (
                 'RT ',
-                let $retweeted-user := replace($tweet?full_text, '^RT @([^:]*?):.*$', '$1')
+                let $retweeted-user := analyze-string($tweet?full_text, '^RT @([^:]+)')/fn:match/fn:group[@nr eq "1"]/string()
                 let $url := concat('https://twitter.com/', $retweeted-user)
                 return
                     <a href="{$url}">@{$retweeted-user}</a>,

@@ -1,10 +1,6 @@
 xquery version "3.1";
 
 import module namespace config = "http://history.state.gov/ns/xquery/twitter/config" at "config.xqm";
-import module namespace ju = "http://joewiz.org/ns/xquery/json-util" at "/db/apps/twitter/json-util.xqm";
-import module namespace dates = "http://xqdev.com/dateparser" at "/db/apps/twitter/date-parser.xqm";
-import module namespace console="http://exist-db.org/xquery/console";
-import module namespace functx="http://www.functx.com";
 
 (: for info about each entity type see https://dev.twitter.com/overview/api/entities-in-twitter-objects :)
 
@@ -17,7 +13,6 @@ declare function local:chop($text as xs:string, $indices as array(*)) {
     let $entity := substring($text, $index-start + 1, $index-end - $index-start)
     return
         (
-(:        console:log('chopped text into: before: "' || $before || '" entity: "' || $entity || '" after: "' || $after || '"'), :)
         $before, $entity, $after
         )
 };
@@ -131,7 +126,16 @@ declare function local:tweet-json-to-xml($tweet) {
     let $url := concat('https://twitter.com/HistoryAtState/statuses/', $id)
     let $text := $tweet?full_text
     let $created-at := $tweet?created_at
-    let $created-datetime := adjust-dateTime-to-timezone(xs:dateTime(dates:parseDateTime(replace($created-at, '\+0000 (\d{4})', '$1 0000'))), ())
+    let $created-datetime := 
+        $created-at
+        (: e.g., "Thu Mar 10 12:24:26 +0000 2016" :)
+        => replace(
+            "(\w{3}) (\w{3}) (\d{1,2}) (\d{2}:\d{2}:\d{2}) ([+-]\d{4}) (\d{4})",
+            "$1, $3 $2 $6 $4 $5"
+        )
+        => parse-ietf-date()
+        => adjust-dateTime-to-timezone(())
+    let $alt-text := $tweet?
     return
         <tweet>
             <date>{$created-datetime}</date>
@@ -145,8 +149,8 @@ declare function local:tweet-json-to-xml($tweet) {
 declare function local:store-tweet-xml($tweet-xml) {
     let $created-datetime := xs:dateTime($tweet/created-datetime)
     let $year := year-from-date($created-datetime)
-    let $month := functx:pad-integer-to-length(month-from-date($created-datetime), 2)
-    let $day := functx:pad-integer-to-length(day-from-date($created-datetime), 2)
+    let $month := format-integer(month-from-date($created-datetime), "00")
+    let $day := format-integer(day-from-date($created-datetime), "00")
     let $destination-col := string-join(($config:data-collection, $year, $month, $day), '/')
     let $filename := concat($id, '.xml')
     return

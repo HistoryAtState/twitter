@@ -8,7 +8,6 @@ module namespace twitter="http://history.state.gov/ns/xquery/twitter";
  :)
 
 import module namespace oauth="http://history.state.gov/ns/xquery/oauth" at "oauth.xqm";
-import module namespace ju = "http://joewiz.org/ns/xquery/json-util" at "json-util.xqm";
 import module namespace util="http://exist-db.org/xquery/util";
 
 declare variable $twitter:api-base-uri := 'https://api.twitter.com/1.1';
@@ -114,12 +113,10 @@ declare function twitter:echo-response($request-response as item()+) {
     let $response-head := $request-response[2]
     let $response-body := $request-response[3]
     let $json := parse-json(util:binary-to-string($response-body))
-    let $xml := ju:json-to-xml($json)
     return 
         (
-        $request, 
-        $response-head, 
-        serialize($json, map { "method": "json", "indent": true() } ),
-        $xml
+            $request, 
+            $response-head, 
+            serialize($json, map { "method": "json", "indent": true() } )
         )
 };

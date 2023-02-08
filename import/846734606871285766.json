@@ -51,9 +51,9 @@
             "user_mentions": [
                 {
                     "screen_name": "POTUS",
-                    "name": "President Trump",
-                    "id": 822215679726100480,
-                    "id_str": "822215679726100480",
+                    "name": "President Biden",
+                    "id": 1349149096909668363,
+                    "id_str": "1349149096909668363",
                     "indices": [
                         83,
                         89
@@ -96,48 +96,6 @@
                             "h": 583,
                             "resize": "fit"
                         }
-                    },
-                    "features": {
-                        "large": {
-                            "faces": [
-                                {
-                                    "x": 187,
-                                    "y": 250,
-                                    "h": 35,
-                                    "w": 35
-                                }
-                            ]
-                        },
-                        "orig": {
-                            "faces": [
-                                {
-                                    "x": 187,
-                                    "y": 250,
-                                    "h": 35,
-                                    "w": 35
-                                }
-                            ]
-                        },
-                        "small": {
-                            "faces": [
-                                {
-                                    "x": 127,
-                                    "y": 170,
-                                    "h": 23,
-                                    "w": 23
-                                }
-                            ]
-                        },
-                        "medium": {
-                            "faces": [
-                                {
-                                    "x": 187,
-                                    "y": 250,
-                                    "h": 35,
-                                    "w": 35
-                                }
-                            ]
-                        }
                     }
                 }
             ]
@@ -179,52 +137,11 @@
                             "resize": "fit"
                         }
                     },
-                    "features": {
-                        "large": {
-                            "faces": [
-                                {
-                                    "x": 187,
-                                    "y": 250,
-                                    "h": 35,
-                                    "w": 35
-                                }
-                            ]
-                        },
-                        "orig": {
-                            "faces": [
-                                {
-                                    "x": 187,
-                                    "y": 250,
-                                    "h": 35,
-                                    "w": 35
-                                }
-                            ]
-                        },
-                        "small": {
-                            "faces": [
-                                {
-                                    "x": 127,
-                                    "y": 170,
-                                    "h": 23,
-                                    "w": 23
-                                }
-                            ]
-                        },
-                        "medium": {
-                            "faces": [
-                                {
-                                    "x": 187,
-                                    "y": 250,
-                                    "h": 35,
-                                    "w": 35
-                                }
-                            ]
-                        }
-                    }
+                    "ext_alt_text": null
                 }
             ]
         },
-        "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
@@ -240,7 +157,7 @@
         "contributors": null,
         "is_quote_status": false,
         "retweet_count": 2,
-        "favorite_count": 7,
+        "favorite_count": 6,
         "favorited": false,
         "retweeted": false,
         "possibly_sensitive": false,

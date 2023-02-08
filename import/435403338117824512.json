@@ -1,0 +1,76 @@
+[
+    {
+        "created_at": "Mon Feb 17 13:20:19 +0000 2014",
+        "id": 435403338117824512,
+        "id_str": "435403338117824512",
+        "full_text": "Six @StateDept #SecState served as #POTUS: Jefferson, Madison, Monroe, JQA, Van Buren, Buchanan. Learn more http://t.co/hMfSY2hazZ",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            130
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SecState",
+                    "indices": [
+                        15,
+                        24
+                    ]
+                },
+                {
+                    "text": "POTUS",
+                    "indices": [
+                        35,
+                        41
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "StateDept",
+                    "name": "Department of State",
+                    "id": 9624742,
+                    "id_str": "9624742",
+                    "indices": [
+                        4,
+                        14
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "http://t.co/hMfSY2hazZ",
+                    "expanded_url": "http://go.usa.gov/ByJY",
+                    "display_url": "go.usa.gov/ByJY",
+                    "indices": [
+                        108,
+                        130
+                    ]
+                }
+            ]
+        },
+        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 586570880,
+            "id_str": "586570880"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 28,
+        "favorite_count": 8,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    }
+]

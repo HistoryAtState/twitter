@@ -109,48 +109,6 @@
                             "h": 75,
                             "resize": "crop"
                         }
-                    },
-                    "features": {
-                        "small": {
-                            "faces": [
-                                {
-                                    "x": 17,
-                                    "y": 13,
-                                    "h": 35,
-                                    "w": 35
-                                }
-                            ]
-                        },
-                        "medium": {
-                            "faces": [
-                                {
-                                    "x": 17,
-                                    "y": 13,
-                                    "h": 35,
-                                    "w": 35
-                                }
-                            ]
-                        },
-                        "large": {
-                            "faces": [
-                                {
-                                    "x": 17,
-                                    "y": 13,
-                                    "h": 35,
-                                    "w": 35
-                                }
-                            ]
-                        },
-                        "orig": {
-                            "faces": [
-                                {
-                                    "x": 17,
-                                    "y": 13,
-                                    "h": 35,
-                                    "w": 35
-                                }
-                            ]
-                        }
                     }
                 }
             ]
@@ -192,52 +150,11 @@
                             "resize": "crop"
                         }
                     },
-                    "features": {
-                        "small": {
-                            "faces": [
-                                {
-                                    "x": 17,
-                                    "y": 13,
-                                    "h": 35,
-                                    "w": 35
-                                }
-                            ]
-                        },
-                        "medium": {
-                            "faces": [
-                                {
-                                    "x": 17,
-                                    "y": 13,
-                                    "h": 35,
-                                    "w": 35
-                                }
-                            ]
-                        },
-                        "large": {
-                            "faces": [
-                                {
-                                    "x": 17,
-                                    "y": 13,
-                                    "h": 35,
-                                    "w": 35
-                                }
-                            ]
-                        },
-                        "orig": {
-                            "faces": [
-                                {
-                                    "x": 17,
-                                    "y": 13,
-                                    "h": 35,
-                                    "w": 35
-                                }
-                            ]
-                        }
-                    }
+                    "ext_alt_text": null
                 }
             ]
         },
-        "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
@@ -252,8 +169,8 @@
         "place": null,
         "contributors": null,
         "is_quote_status": false,
-        "retweet_count": 15,
-        "favorite_count": 14,
+        "retweet_count": 14,
+        "favorite_count": 13,
         "favorited": false,
         "retweeted": false,
         "possibly_sensitive": false,

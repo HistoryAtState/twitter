@@ -67,20 +67,6 @@
                             "h": 1200,
                             "resize": "fit"
                         }
-                    },
-                    "features": {
-                        "small": {
-                            "faces": []
-                        },
-                        "orig": {
-                            "faces": []
-                        },
-                        "large": {
-                            "faces": []
-                        },
-                        "medium": {
-                            "faces": []
-                        }
                     }
                 }
             ]
@@ -122,24 +108,11 @@
                             "resize": "fit"
                         }
                     },
-                    "features": {
-                        "small": {
-                            "faces": []
-                        },
-                        "orig": {
-                            "faces": []
-                        },
-                        "large": {
-                            "faces": []
-                        },
-                        "medium": {
-                            "faces": []
-                        }
-                    }
+                    "ext_alt_text": null
                 }
             ]
         },
-        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
@@ -155,7 +128,7 @@
         "contributors": null,
         "is_quote_status": false,
         "retweet_count": 3,
-        "favorite_count": 4,
+        "favorite_count": 3,
         "favorited": false,
         "retweeted": false,
         "possibly_sensitive": false,

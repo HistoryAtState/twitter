@@ -37,7 +37,7 @@
             "user_mentions": [
                 {
                     "screen_name": "CarterLibrary",
-                    "name": "Jimmy Carter Library",
+                    "name": "Jimmy Carter Presidential Library",
                     "id": 19660388,
                     "id_str": "19660388",
                     "indices": [
@@ -92,48 +92,6 @@
                             "h": 256,
                             "resize": "fit"
                         }
-                    },
-                    "features": {
-                        "large": {
-                            "faces": [
-                                {
-                                    "x": 60,
-                                    "y": 40,
-                                    "h": 79,
-                                    "w": 79
-                                }
-                            ]
-                        },
-                        "orig": {
-                            "faces": [
-                                {
-                                    "x": 60,
-                                    "y": 40,
-                                    "h": 79,
-                                    "w": 79
-                                }
-                            ]
-                        },
-                        "medium": {
-                            "faces": [
-                                {
-                                    "x": 60,
-                                    "y": 40,
-                                    "h": 79,
-                                    "w": 79
-                                }
-                            ]
-                        },
-                        "small": {
-                            "faces": [
-                                {
-                                    "x": 60,
-                                    "y": 40,
-                                    "h": 79,
-                                    "w": 79
-                                }
-                            ]
-                        }
                     }
                 }
             ]
@@ -175,52 +133,11 @@
                             "resize": "fit"
                         }
                     },
-                    "features": {
-                        "large": {
-                            "faces": [
-                                {
-                                    "x": 60,
-                                    "y": 40,
-                                    "h": 79,
-                                    "w": 79
-                                }
-                            ]
-                        },
-                        "orig": {
-                            "faces": [
-                                {
-                                    "x": 60,
-                                    "y": 40,
-                                    "h": 79,
-                                    "w": 79
-                                }
-                            ]
-                        },
-                        "medium": {
-                            "faces": [
-                                {
-                                    "x": 60,
-                                    "y": 40,
-                                    "h": 79,
-                                    "w": 79
-                                }
-                            ]
-                        },
-                        "small": {
-                            "faces": [
-                                {
-                                    "x": 60,
-                                    "y": 40,
-                                    "h": 79,
-                                    "w": 79
-                                }
-                            ]
-                        }
-                    }
+                    "ext_alt_text": "Jimmy Carter portrait"
                 }
             ]
         },
-        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
@@ -236,7 +153,7 @@
         "contributors": null,
         "is_quote_status": false,
         "retweet_count": 11,
-        "favorite_count": 33,
+        "favorite_count": 31,
         "favorited": false,
         "retweeted": false,
         "possibly_sensitive": false,

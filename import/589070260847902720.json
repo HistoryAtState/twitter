@@ -1,0 +1,103 @@
+[
+    {
+        "created_at": "Fri Apr 17 14:17:49 +0000 2015",
+        "id": 589070260847902720,
+        "id_str": "589070260847902720",
+        "full_text": "RT @icedd_org: Tweets this morning will cover yesterday's events as well as today's. Please tweet with #icedd2015 so we can retweet!",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            132
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "icedd2015",
+                    "indices": [
+                        103,
+                        113
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "icedd_org",
+                    "name": "ICEDD",
+                    "id": 3131310616,
+                    "id_str": "3131310616",
+                    "indices": [
+                        3,
+                        13
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "\u003ca href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c/a\u003e",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 586570880,
+            "id_str": "586570880"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Fri Apr 17 13:41:04 +0000 2015",
+            "id": 589061013095501824,
+            "id_str": "589061013095501824",
+            "full_text": "Tweets this morning will cover yesterday's events as well as today's. Please tweet with #icedd2015 so we can retweet!",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                117
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "icedd2015",
+                        "indices": [
+                            88,
+                            98
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 3131310616,
+                "id_str": "3131310616"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": true,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": true,
+        "lang": "en"
+    }
+]

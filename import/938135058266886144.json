@@ -36,7 +36,7 @@
             ],
             "urls": []
         },
-        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
@@ -129,30 +129,6 @@
                                 "h": 600,
                                 "resize": "fit"
                             }
-                        },
-                        "features": {
-                            "all": {
-                                "tags": [
-                                    {
-                                        "type": "user",
-                                        "user_id": "586570880",
-                                        "screen_name": "HistoryAtState",
-                                        "name": "HistoryAtState"
-                                    }
-                                ]
-                            },
-                            "large": {
-                                "faces": []
-                            },
-                            "medium": {
-                                "faces": []
-                            },
-                            "orig": {
-                                "faces": []
-                            },
-                            "small": {
-                                "faces": []
-                            }
                         }
                     }
                 ]
@@ -194,34 +170,11 @@
                                 "resize": "fit"
                             }
                         },
-                        "features": {
-                            "all": {
-                                "tags": [
-                                    {
-                                        "type": "user",
-                                        "user_id": "586570880",
-                                        "screen_name": "HistoryAtState",
-                                        "name": "HistoryAtState"
-                                    }
-                                ]
-                            },
-                            "large": {
-                                "faces": []
-                            },
-                            "medium": {
-                                "faces": []
-                            },
-                            "orig": {
-                                "faces": []
-                            },
-                            "small": {
-                                "faces": []
-                            }
-                        }
+                        "ext_alt_text": null
                     }
                 ]
             },
-            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
             "in_reply_to_status_id": null,
             "in_reply_to_status_id_str": null,
             "in_reply_to_user_id": null,
@@ -236,15 +189,15 @@
             "place": null,
             "contributors": null,
             "is_quote_status": false,
-            "retweet_count": 63,
-            "favorite_count": 91,
+            "retweet_count": 54,
+            "favorite_count": 80,
             "favorited": false,
             "retweeted": true,
             "possibly_sensitive": false,
             "lang": "en"
         },
         "is_quote_status": false,
-        "retweet_count": 63,
+        "retweet_count": 54,
         "favorite_count": 0,
         "favorited": false,
         "retweeted": true,

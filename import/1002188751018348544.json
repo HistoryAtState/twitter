@@ -3,7 +3,7 @@
         "created_at": "Thu May 31 14:03:12 +0000 2018",
         "id": 1002188751018348544,
         "id_str": "1002188751018348544",
-        "full_text": "May 31: President Reagan spoke to students &amp; faculty at Moscow State University, quoting a passage from Pasternak\u2019s \u201cDoctor Zhivago\u201d on human freedom. https://t.co/0aCtPYZibC #FRUS  📷 @Reagan_Library https://t.co/OydC24IYM5",
+        "full_text": "May 31: President Reagan spoke to students &amp; faculty at Moscow State University, quoting a passage from Pasternak\u2019s \u201cDoctor Zhivago\u201d on human freedom. https://t.co/0aCtPYZibC #FRUS  \ud83d\udcf7 @Reagan_Library https://t.co/OydC24IYM5",
         "truncated": false,
         "display_text_range": [
             0,
@@ -78,20 +78,6 @@
                             "h": 149,
                             "resize": "crop"
                         }
-                    },
-                    "features": {
-                        "medium": {
-                            "faces": []
-                        },
-                        "large": {
-                            "faces": []
-                        },
-                        "orig": {
-                            "faces": []
-                        },
-                        "small": {
-                            "faces": []
-                        }
                     }
                 }
             ]
@@ -133,20 +119,7 @@
                             "resize": "crop"
                         }
                     },
-                    "features": {
-                        "medium": {
-                            "faces": []
-                        },
-                        "large": {
-                            "faces": []
-                        },
-                        "orig": {
-                            "faces": []
-                        },
-                        "small": {
-                            "faces": []
-                        }
-                    }
+                    "ext_alt_text": "Screenshot of quote from Doctor Zhivago in Reagan’s speech online at the Reagan Library"
                 },
                 {
                     "id": 1002182329689833472,
@@ -183,100 +156,11 @@
                             "resize": "fit"
                         }
                     },
-                    "features": {
-                        "large": {
-                            "faces": [
-                                {
-                                    "x": 204,
-                                    "y": 458,
-                                    "h": 65,
-                                    "w": 65
-                                },
-                                {
-                                    "x": 152,
-                                    "y": 52,
-                                    "h": 141,
-                                    "w": 141
-                                },
-                                {
-                                    "x": 186,
-                                    "y": 584,
-                                    "h": 134,
-                                    "w": 134
-                                }
-                            ]
-                        },
-                        "medium": {
-                            "faces": [
-                                {
-                                    "x": 204,
-                                    "y": 458,
-                                    "h": 65,
-                                    "w": 65
-                                },
-                                {
-                                    "x": 152,
-                                    "y": 52,
-                                    "h": 141,
-                                    "w": 141
-                                },
-                                {
-                                    "x": 186,
-                                    "y": 584,
-                                    "h": 134,
-                                    "w": 134
-                                }
-                            ]
-                        },
-                        "small": {
-                            "faces": [
-                                {
-                                    "x": 184,
-                                    "y": 414,
-                                    "h": 58,
-                                    "w": 58
-                                },
-                                {
-                                    "x": 137,
-                                    "y": 47,
-                                    "h": 127,
-                                    "w": 127
-                                },
-                                {
-                                    "x": 168,
-                                    "y": 528,
-                                    "h": 121,
-                                    "w": 121
-                                }
-                            ]
-                        },
-                        "orig": {
-                            "faces": [
-                                {
-                                    "x": 204,
-                                    "y": 458,
-                                    "h": 65,
-                                    "w": 65
-                                },
-                                {
-                                    "x": 152,
-                                    "y": 52,
-                                    "h": 141,
-                                    "w": 141
-                                },
-                                {
-                                    "x": 186,
-                                    "y": 584,
-                                    "h": 134,
-                                    "w": 134
-                                }
-                            ]
-                        }
-                    }
+                    "ext_alt_text": "Reagan at Moscow State University"
                 }
             ]
         },
-        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
@@ -291,8 +175,8 @@
         "place": null,
         "contributors": null,
         "is_quote_status": false,
-        "retweet_count": 2,
-        "favorite_count": 2,
+        "retweet_count": 1,
+        "favorite_count": 1,
         "favorited": false,
         "retweeted": false,
         "possibly_sensitive": false,

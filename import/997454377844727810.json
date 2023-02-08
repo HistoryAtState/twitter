@@ -88,48 +88,6 @@
                             "h": 680,
                             "resize": "fit"
                         }
-                    },
-                    "features": {
-                        "orig": {
-                            "faces": [
-                                {
-                                    "x": 175,
-                                    "y": 139,
-                                    "h": 303,
-                                    "w": 303
-                                }
-                            ]
-                        },
-                        "medium": {
-                            "faces": [
-                                {
-                                    "x": 175,
-                                    "y": 139,
-                                    "h": 303,
-                                    "w": 303
-                                }
-                            ]
-                        },
-                        "large": {
-                            "faces": [
-                                {
-                                    "x": 175,
-                                    "y": 139,
-                                    "h": 303,
-                                    "w": 303
-                                }
-                            ]
-                        },
-                        "small": {
-                            "faces": [
-                                {
-                                    "x": 133,
-                                    "y": 106,
-                                    "h": 231,
-                                    "w": 231
-                                }
-                            ]
-                        }
                     }
                 }
             ]
@@ -171,48 +129,7 @@
                             "resize": "fit"
                         }
                     },
-                    "features": {
-                        "orig": {
-                            "faces": [
-                                {
-                                    "x": 175,
-                                    "y": 139,
-                                    "h": 303,
-                                    "w": 303
-                                }
-                            ]
-                        },
-                        "medium": {
-                            "faces": [
-                                {
-                                    "x": 175,
-                                    "y": 139,
-                                    "h": 303,
-                                    "w": 303
-                                }
-                            ]
-                        },
-                        "large": {
-                            "faces": [
-                                {
-                                    "x": 175,
-                                    "y": 139,
-                                    "h": 303,
-                                    "w": 303
-                                }
-                            ]
-                        },
-                        "small": {
-                            "faces": [
-                                {
-                                    "x": 133,
-                                    "y": 106,
-                                    "h": 231,
-                                    "w": 231
-                                }
-                            ]
-                        }
-                    }
+                    "ext_alt_text": "Black and white photo of José de Areilza"
                 },
                 {
                     "id": 997454374971428864,
@@ -249,24 +166,11 @@
                             "resize": "fit"
                         }
                     },
-                    "features": {
-                        "large": {
-                            "faces": []
-                        },
-                        "small": {
-                            "faces": []
-                        },
-                        "orig": {
-                            "faces": []
-                        },
-                        "medium": {
-                            "faces": []
-                        }
-                    }
+                    "ext_alt_text": null
                 }
             ]
         },
-        "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+        "source": "\u003ca href=\"https://buffer.com\" rel=\"nofollow\"\u003eBuffer\u003c/a\u003e",
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
@@ -282,7 +186,7 @@
         "contributors": null,
         "is_quote_status": false,
         "retweet_count": 1,
-        "favorite_count": 4,
+        "favorite_count": 3,
         "favorited": false,
         "retweeted": false,
         "possibly_sensitive": false,

@@ -74,20 +74,6 @@
                             "h": 315,
                             "resize": "fit"
                         }
-                    },
-                    "features": {
-                        "large": {
-                            "faces": []
-                        },
-                        "medium": {
-                            "faces": []
-                        },
-                        "orig": {
-                            "faces": []
-                        },
-                        "small": {
-                            "faces": []
-                        }
                     }
                 }
             ]
@@ -129,24 +115,11 @@
                             "resize": "fit"
                         }
                     },
-                    "features": {
-                        "large": {
-                            "faces": []
-                        },
-                        "medium": {
-                            "faces": []
-                        },
-                        "orig": {
-                            "faces": []
-                        },
-                        "small": {
-                            "faces": []
-                        }
-                    }
+                    "ext_alt_text": null
                 }
             ]
         },
-        "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
@@ -162,7 +135,7 @@
         "contributors": null,
         "is_quote_status": false,
         "retweet_count": 11,
-        "favorite_count": 12,
+        "favorite_count": 11,
         "favorited": false,
         "retweeted": false,
         "possibly_sensitive": false,

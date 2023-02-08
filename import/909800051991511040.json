@@ -82,21 +82,7 @@
                     "source_status_id": 909756757521653760,
                     "source_status_id_str": "909756757521653760",
                     "source_user_id": 2359926157,
-                    "source_user_id_str": "2359926157",
-                    "features": {
-                        "orig": {
-                            "faces": []
-                        },
-                        "medium": {
-                            "faces": []
-                        },
-                        "small": {
-                            "faces": []
-                        },
-                        "large": {
-                            "faces": []
-                        }
-                    }
+                    "source_user_id_str": "2359926157"
                 }
             ]
         },
@@ -141,24 +127,11 @@
                     "source_status_id_str": "909756757521653760",
                     "source_user_id": 2359926157,
                     "source_user_id_str": "2359926157",
-                    "features": {
-                        "orig": {
-                            "faces": []
-                        },
-                        "medium": {
-                            "faces": []
-                        },
-                        "small": {
-                            "faces": []
-                        },
-                        "large": {
-                            "faces": []
-                        }
-                    }
+                    "ext_alt_text": null
                 }
             ]
         },
-        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "source": "\u003ca href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c/a\u003e",
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
@@ -240,20 +213,6 @@
                                 "h": 150,
                                 "resize": "crop"
                             }
-                        },
-                        "features": {
-                            "orig": {
-                                "faces": []
-                            },
-                            "medium": {
-                                "faces": []
-                            },
-                            "small": {
-                                "faces": []
-                            },
-                            "large": {
-                                "faces": []
-                            }
                         }
                     }
                 ]
@@ -295,24 +254,11 @@
                                 "resize": "crop"
                             }
                         },
-                        "features": {
-                            "orig": {
-                                "faces": []
-                            },
-                            "medium": {
-                                "faces": []
-                            },
-                            "small": {
-                                "faces": []
-                            },
-                            "large": {
-                                "faces": []
-                            }
-                        }
+                        "ext_alt_text": null
                     }
                 ]
             },
-            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
             "in_reply_to_status_id": null,
             "in_reply_to_status_id_str": null,
             "in_reply_to_user_id": null,
@@ -327,15 +273,15 @@
             "place": null,
             "contributors": null,
             "is_quote_status": false,
-            "retweet_count": 2703,
-            "favorite_count": 10737,
+            "retweet_count": 2212,
+            "favorite_count": 8748,
             "favorited": false,
             "retweeted": true,
             "possibly_sensitive": false,
             "lang": "en"
         },
         "is_quote_status": false,
-        "retweet_count": 2703,
+        "retweet_count": 2212,
         "favorite_count": 0,
         "favorited": false,
         "retweeted": true,

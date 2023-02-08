@@ -30,7 +30,7 @@
             "user_mentions": [
                 {
                     "screen_name": "NotreDame",
-                    "name": "Notre Dame",
+                    "name": "University of Notre Dame",
                     "id": 6507762,
                     "id_str": "6507762",
                     "indices": [
@@ -95,20 +95,6 @@
                             "h": 1200,
                             "resize": "fit"
                         }
-                    },
-                    "features": {
-                        "small": {
-                            "faces": []
-                        },
-                        "orig": {
-                            "faces": []
-                        },
-                        "large": {
-                            "faces": []
-                        },
-                        "medium": {
-                            "faces": []
-                        }
                     }
                 }
             ]
@@ -150,24 +136,11 @@
                             "resize": "fit"
                         }
                     },
-                    "features": {
-                        "small": {
-                            "faces": []
-                        },
-                        "orig": {
-                            "faces": []
-                        },
-                        "large": {
-                            "faces": []
-                        },
-                        "medium": {
-                            "faces": []
-                        }
-                    }
+                    "ext_alt_text": null
                 }
             ]
         },
-        "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
@@ -182,8 +155,8 @@
         "place": null,
         "contributors": null,
         "is_quote_status": false,
-        "retweet_count": 28,
-        "favorite_count": 36,
+        "retweet_count": 27,
+        "favorite_count": 30,
         "favorited": false,
         "retweeted": false,
         "possibly_sensitive": false,

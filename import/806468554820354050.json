@@ -109,72 +109,6 @@
                             "h": 453,
                             "resize": "fit"
                         }
-                    },
-                    "features": {
-                        "medium": {
-                            "faces": [
-                                {
-                                    "x": 210,
-                                    "y": 367,
-                                    "h": 54,
-                                    "w": 54
-                                },
-                                {
-                                    "x": 655,
-                                    "y": 286,
-                                    "h": 103,
-                                    "w": 103
-                                }
-                            ]
-                        },
-                        "orig": {
-                            "faces": [
-                                {
-                                    "x": 210,
-                                    "y": 367,
-                                    "h": 54,
-                                    "w": 54
-                                },
-                                {
-                                    "x": 655,
-                                    "y": 286,
-                                    "h": 103,
-                                    "w": 103
-                                }
-                            ]
-                        },
-                        "large": {
-                            "faces": [
-                                {
-                                    "x": 210,
-                                    "y": 367,
-                                    "h": 54,
-                                    "w": 54
-                                },
-                                {
-                                    "x": 655,
-                                    "y": 286,
-                                    "h": 103,
-                                    "w": 103
-                                }
-                            ]
-                        },
-                        "small": {
-                            "faces": [
-                                {
-                                    "x": 185,
-                                    "y": 324,
-                                    "h": 47,
-                                    "w": 47
-                                },
-                                {
-                                    "x": 579,
-                                    "y": 252,
-                                    "h": 91,
-                                    "w": 91
-                                }
-                            ]
-                        }
                     }
                 }
             ]
@@ -216,76 +150,11 @@
                             "resize": "fit"
                         }
                     },
-                    "features": {
-                        "medium": {
-                            "faces": [
-                                {
-                                    "x": 210,
-                                    "y": 367,
-                                    "h": 54,
-                                    "w": 54
-                                },
-                                {
-                                    "x": 655,
-                                    "y": 286,
-                                    "h": 103,
-                                    "w": 103
-                                }
-                            ]
-                        },
-                        "orig": {
-                            "faces": [
-                                {
-                                    "x": 210,
-                                    "y": 367,
-                                    "h": 54,
-                                    "w": 54
-                                },
-                                {
-                                    "x": 655,
-                                    "y": 286,
-                                    "h": 103,
-                                    "w": 103
-                                }
-                            ]
-                        },
-                        "large": {
-                            "faces": [
-                                {
-                                    "x": 210,
-                                    "y": 367,
-                                    "h": 54,
-                                    "w": 54
-                                },
-                                {
-                                    "x": 655,
-                                    "y": 286,
-                                    "h": 103,
-                                    "w": 103
-                                }
-                            ]
-                        },
-                        "small": {
-                            "faces": [
-                                {
-                                    "x": 185,
-                                    "y": 324,
-                                    "h": 47,
-                                    "w": 47
-                                },
-                                {
-                                    "x": 579,
-                                    "y": 252,
-                                    "h": 91,
-                                    "w": 91
-                                }
-                            ]
-                        }
-                    }
+                    "ext_alt_text": null
                 }
             ]
         },
-        "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
@@ -300,7 +169,7 @@
         "place": null,
         "contributors": null,
         "is_quote_status": false,
-        "retweet_count": 13,
+        "retweet_count": 6,
         "favorite_count": 4,
         "favorited": false,
         "retweeted": false,

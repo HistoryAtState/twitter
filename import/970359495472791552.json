@@ -74,72 +74,6 @@
                             "h": 268,
                             "resize": "fit"
                         }
-                    },
-                    "features": {
-                        "orig": {
-                            "faces": [
-                                {
-                                    "x": 133,
-                                    "y": 63,
-                                    "h": 48,
-                                    "w": 48
-                                },
-                                {
-                                    "x": 44,
-                                    "y": 23,
-                                    "h": 99,
-                                    "w": 99
-                                }
-                            ]
-                        },
-                        "medium": {
-                            "faces": [
-                                {
-                                    "x": 133,
-                                    "y": 63,
-                                    "h": 48,
-                                    "w": 48
-                                },
-                                {
-                                    "x": 44,
-                                    "y": 23,
-                                    "h": 99,
-                                    "w": 99
-                                }
-                            ]
-                        },
-                        "small": {
-                            "faces": [
-                                {
-                                    "x": 133,
-                                    "y": 63,
-                                    "h": 48,
-                                    "w": 48
-                                },
-                                {
-                                    "x": 44,
-                                    "y": 23,
-                                    "h": 99,
-                                    "w": 99
-                                }
-                            ]
-                        },
-                        "large": {
-                            "faces": [
-                                {
-                                    "x": 133,
-                                    "y": 63,
-                                    "h": 48,
-                                    "w": 48
-                                },
-                                {
-                                    "x": 44,
-                                    "y": 23,
-                                    "h": 99,
-                                    "w": 99
-                                }
-                            ]
-                        }
                     }
                 }
             ]
@@ -181,76 +115,11 @@
                             "resize": "fit"
                         }
                     },
-                    "features": {
-                        "orig": {
-                            "faces": [
-                                {
-                                    "x": 133,
-                                    "y": 63,
-                                    "h": 48,
-                                    "w": 48
-                                },
-                                {
-                                    "x": 44,
-                                    "y": 23,
-                                    "h": 99,
-                                    "w": 99
-                                }
-                            ]
-                        },
-                        "medium": {
-                            "faces": [
-                                {
-                                    "x": 133,
-                                    "y": 63,
-                                    "h": 48,
-                                    "w": 48
-                                },
-                                {
-                                    "x": 44,
-                                    "y": 23,
-                                    "h": 99,
-                                    "w": 99
-                                }
-                            ]
-                        },
-                        "small": {
-                            "faces": [
-                                {
-                                    "x": 133,
-                                    "y": 63,
-                                    "h": 48,
-                                    "w": 48
-                                },
-                                {
-                                    "x": 44,
-                                    "y": 23,
-                                    "h": 99,
-                                    "w": 99
-                                }
-                            ]
-                        },
-                        "large": {
-                            "faces": [
-                                {
-                                    "x": 133,
-                                    "y": 63,
-                                    "h": 48,
-                                    "w": 48
-                                },
-                                {
-                                    "x": 44,
-                                    "y": 23,
-                                    "h": 99,
-                                    "w": 99
-                                }
-                            ]
-                        }
-                    }
+                    "ext_alt_text": null
                 }
             ]
         },
-        "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
@@ -266,7 +135,7 @@
         "contributors": null,
         "is_quote_status": false,
         "retweet_count": 7,
-        "favorite_count": 8,
+        "favorite_count": 7,
         "favorited": false,
         "retweeted": false,
         "possibly_sensitive": false,

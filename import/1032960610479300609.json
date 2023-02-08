@@ -74,20 +74,6 @@
                             "h": 600,
                             "resize": "fit"
                         }
-                    },
-                    "features": {
-                        "orig": {
-                            "faces": []
-                        },
-                        "small": {
-                            "faces": []
-                        },
-                        "large": {
-                            "faces": []
-                        },
-                        "medium": {
-                            "faces": []
-                        }
                     }
                 }
             ]
@@ -129,24 +115,11 @@
                             "resize": "fit"
                         }
                     },
-                    "features": {
-                        "orig": {
-                            "faces": []
-                        },
-                        "small": {
-                            "faces": []
-                        },
-                        "large": {
-                            "faces": []
-                        },
-                        "medium": {
-                            "faces": []
-                        }
-                    }
+                    "ext_alt_text": "Word cloud image of documents included in release"
                 }
             ]
         },
-        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
@@ -161,7 +134,7 @@
         "place": null,
         "contributors": null,
         "is_quote_status": false,
-        "retweet_count": 9,
+        "retweet_count": 8,
         "favorite_count": 7,
         "favorited": false,
         "retweeted": false,

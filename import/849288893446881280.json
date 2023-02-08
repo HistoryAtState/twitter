@@ -61,7 +61,7 @@
                 }
             ]
         },
-        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "source": "\u003ca href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c/a\u003e",
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
@@ -126,7 +126,7 @@
                     },
                     {
                         "screen_name": "WW1CC",
-                        "name": "WW1 Centennial",
+                        "name": "WW1 Centennial - Doughboy Foundation",
                         "id": 1732881642,
                         "id_str": "1732881642",
                         "indices": [
@@ -181,20 +181,6 @@
                                 "h": 810,
                                 "resize": "fit"
                             }
-                        },
-                        "features": {
-                            "large": {
-                                "faces": []
-                            },
-                            "small": {
-                                "faces": []
-                            },
-                            "medium": {
-                                "faces": []
-                            },
-                            "orig": {
-                                "faces": []
-                            }
                         }
                     }
                 ]
@@ -236,24 +222,11 @@
                                 "resize": "fit"
                             }
                         },
-                        "features": {
-                            "large": {
-                                "faces": []
-                            },
-                            "small": {
-                                "faces": []
-                            },
-                            "medium": {
-                                "faces": []
-                            },
-                            "orig": {
-                                "faces": []
-                            }
-                        }
+                        "ext_alt_text": null
                     }
                 ]
             },
-            "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+            "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
             "in_reply_to_status_id": null,
             "in_reply_to_status_id_str": null,
             "in_reply_to_user_id": null,
@@ -268,15 +241,15 @@
             "place": null,
             "contributors": null,
             "is_quote_status": false,
-            "retweet_count": 25,
-            "favorite_count": 34,
+            "retweet_count": 24,
+            "favorite_count": 31,
             "favorited": false,
             "retweeted": true,
             "possibly_sensitive": false,
             "lang": "en"
         },
         "is_quote_status": false,
-        "retweet_count": 25,
+        "retweet_count": 24,
         "favorite_count": 0,
         "favorited": false,
         "retweeted": true,

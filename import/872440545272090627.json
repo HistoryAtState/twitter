@@ -30,7 +30,7 @@
             "user_mentions": [
                 {
                     "screen_name": "CarterLibrary",
-                    "name": "Jimmy Carter Library",
+                    "name": "Jimmy Carter Presidential Library",
                     "id": 19660388,
                     "id_str": "19660388",
                     "indices": [
@@ -85,20 +85,6 @@
                             "h": 600,
                             "resize": "fit"
                         }
-                    },
-                    "features": {
-                        "large": {
-                            "faces": []
-                        },
-                        "small": {
-                            "faces": []
-                        },
-                        "medium": {
-                            "faces": []
-                        },
-                        "orig": {
-                            "faces": []
-                        }
                     }
                 }
             ]
@@ -140,20 +126,7 @@
                             "resize": "fit"
                         }
                     },
-                    "features": {
-                        "large": {
-                            "faces": []
-                        },
-                        "small": {
-                            "faces": []
-                        },
-                        "medium": {
-                            "faces": []
-                        },
-                        "orig": {
-                            "faces": []
-                        }
-                    }
+                    "ext_alt_text": null
                 },
                 {
                     "id": 872440542134624256,
@@ -190,52 +163,11 @@
                             "resize": "fit"
                         }
                     },
-                    "features": {
-                        "medium": {
-                            "faces": [
-                                {
-                                    "x": 374,
-                                    "y": 253,
-                                    "h": 197,
-                                    "w": 197
-                                }
-                            ]
-                        },
-                        "orig": {
-                            "faces": [
-                                {
-                                    "x": 376,
-                                    "y": 254,
-                                    "h": 198,
-                                    "w": 198
-                                }
-                            ]
-                        },
-                        "small": {
-                            "faces": [
-                                {
-                                    "x": 212,
-                                    "y": 143,
-                                    "h": 111,
-                                    "w": 111
-                                }
-                            ]
-                        },
-                        "large": {
-                            "faces": [
-                                {
-                                    "x": 376,
-                                    "y": 254,
-                                    "h": 198,
-                                    "w": 198
-                                }
-                            ]
-                        }
-                    }
+                    "ext_alt_text": null
                 }
             ]
         },
-        "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,

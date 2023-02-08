@@ -15,7 +15,7 @@
             "user_mentions": [
                 {
                     "screen_name": "StateMag",
-                    "name": "State Magazine",
+                    "name": "statemag",
                     "id": 106807416,
                     "id_str": "106807416",
                     "indices": [
@@ -36,7 +36,7 @@
                 }
             ]
         },
-        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "source": "\u003ca href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c/a\u003e",
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
@@ -110,36 +110,6 @@
                                 "h": 509,
                                 "resize": "fit"
                             }
-                        },
-                        "features": {
-                            "all": {
-                                "tags": [
-                                    {
-                                        "type": "user",
-                                        "user_id": "9624742",
-                                        "screen_name": "StateDept",
-                                        "name": "Department of State"
-                                    },
-                                    {
-                                        "type": "user",
-                                        "user_id": "586570880",
-                                        "screen_name": "HistoryAtState",
-                                        "name": "HistoryAtState"
-                                    }
-                                ]
-                            },
-                            "large": {
-                                "faces": []
-                            },
-                            "medium": {
-                                "faces": []
-                            },
-                            "small": {
-                                "faces": []
-                            },
-                            "orig": {
-                                "faces": []
-                            }
                         }
                     }
                 ]
@@ -181,40 +151,11 @@
                                 "resize": "fit"
                             }
                         },
-                        "features": {
-                            "all": {
-                                "tags": [
-                                    {
-                                        "type": "user",
-                                        "user_id": "9624742",
-                                        "screen_name": "StateDept",
-                                        "name": "Department of State"
-                                    },
-                                    {
-                                        "type": "user",
-                                        "user_id": "586570880",
-                                        "screen_name": "HistoryAtState",
-                                        "name": "HistoryAtState"
-                                    }
-                                ]
-                            },
-                            "large": {
-                                "faces": []
-                            },
-                            "medium": {
-                                "faces": []
-                            },
-                            "small": {
-                                "faces": []
-                            },
-                            "orig": {
-                                "faces": []
-                            }
-                        }
+                        "ext_alt_text": null
                     }
                 ]
             },
-            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
             "in_reply_to_status_id": null,
             "in_reply_to_status_id_str": null,
             "in_reply_to_user_id": null,

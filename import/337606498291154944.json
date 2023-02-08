@@ -1,0 +1,157 @@
+[
+    {
+        "created_at": "Thu May 23 16:30:36 +0000 2013",
+        "id": 337606498291154944,
+        "id_str": "337606498291154944",
+        "full_text": "RT @usdatagov: Opensourcing #opengov with a new http://t.co/FFhOQRgZZT catalog and APIs http://t.co/SAIdVLNk3N #opendata",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            120
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "opengov",
+                    "indices": [
+                        28,
+                        36
+                    ]
+                },
+                {
+                    "text": "opendata",
+                    "indices": [
+                        111,
+                        120
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "usdatagov",
+                    "name": "Data.gov",
+                    "id": 94642927,
+                    "id_str": "94642927",
+                    "indices": [
+                        3,
+                        13
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "http://t.co/FFhOQRgZZT",
+                    "expanded_url": "http://Data.gov",
+                    "display_url": "Data.gov",
+                    "indices": [
+                        48,
+                        70
+                    ]
+                },
+                {
+                    "url": "http://t.co/SAIdVLNk3N",
+                    "expanded_url": "http://1.usa.gov/1ab3li0",
+                    "display_url": "1.usa.gov/1ab3li0",
+                    "indices": [
+                        88,
+                        110
+                    ]
+                }
+            ]
+        },
+        "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 586570880,
+            "id_str": "586570880"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Thu May 23 12:16:55 +0000 2013",
+            "id": 337542658933272576,
+            "id_str": "337542658933272576",
+            "full_text": "Opensourcing #opengov with a new http://t.co/FFhOQRgZZT catalog and APIs http://t.co/SAIdVLNk3N #opendata",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                105
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "opengov",
+                        "indices": [
+                            13,
+                            21
+                        ]
+                    },
+                    {
+                        "text": "opendata",
+                        "indices": [
+                            96,
+                            105
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "http://t.co/FFhOQRgZZT",
+                        "expanded_url": "http://Data.gov",
+                        "display_url": "Data.gov",
+                        "indices": [
+                            33,
+                            55
+                        ]
+                    },
+                    {
+                        "url": "http://t.co/SAIdVLNk3N",
+                        "expanded_url": "http://1.usa.gov/1ab3li0",
+                        "display_url": "1.usa.gov/1ab3li0",
+                        "indices": [
+                            73,
+                            95
+                        ]
+                    }
+                ]
+            },
+            "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 94642927,
+                "id_str": "94642927"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 10,
+            "favorite_count": 2,
+            "favorited": false,
+            "retweeted": true,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 10,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": true,
+        "possibly_sensitive": false,
+        "lang": "en"
+    }
+]

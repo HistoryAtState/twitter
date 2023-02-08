@@ -68,7 +68,18 @@
                     }
                 ],
                 "symbols": [],
-                "user_mentions": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "nlm_news",
+                        "name": "nlm_news",
+                        "id": 1390720698755153922,
+                        "id_str": "1390720698755153922",
+                        "indices": [
+                            253,
+                            262
+                        ]
+                    }
+                ],
                 "urls": [],
                 "media": [
                     {
@@ -145,7 +156,8 @@
                                 "h": 1024,
                                 "resize": "fit"
                             }
-                        }
+                        },
+                        "ext_alt_text": null
                     }
                 ]
             },

@@ -30,7 +30,7 @@
             "user_mentions": [
                 {
                     "screen_name": "WW1CC",
-                    "name": "WW1 Centennial",
+                    "name": "WW1 Centennial - Doughboy Foundation",
                     "id": 1732881642,
                     "id_str": "1732881642",
                     "indices": [
@@ -95,20 +95,6 @@
                             "h": 600,
                             "resize": "fit"
                         }
-                    },
-                    "features": {
-                        "large": {
-                            "faces": []
-                        },
-                        "small": {
-                            "faces": []
-                        },
-                        "medium": {
-                            "faces": []
-                        },
-                        "orig": {
-                            "faces": []
-                        }
                     }
                 }
             ]
@@ -150,24 +136,11 @@
                             "resize": "fit"
                         }
                     },
-                    "features": {
-                        "large": {
-                            "faces": []
-                        },
-                        "small": {
-                            "faces": []
-                        },
-                        "medium": {
-                            "faces": []
-                        },
-                        "orig": {
-                            "faces": []
-                        }
-                    }
+                    "ext_alt_text": null
                 }
             ]
         },
-        "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
@@ -182,8 +155,8 @@
         "place": null,
         "contributors": null,
         "is_quote_status": false,
-        "retweet_count": 16,
-        "favorite_count": 7,
+        "retweet_count": 14,
+        "favorite_count": 6,
         "favorited": false,
         "retweeted": false,
         "possibly_sensitive": false,

@@ -15,7 +15,7 @@
             "user_mentions": [
                 {
                     "screen_name": "StateDeptDSS",
-                    "name": "DSS",
+                    "name": "statedeptdss",
                     "id": 834799740546056194,
                     "id_str": "834799740546056194",
                     "indices": [
@@ -56,7 +56,7 @@
                 }
             ]
         },
-        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "source": "\u003ca href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c/a\u003e",
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
@@ -159,48 +159,6 @@
                                 "h": 630,
                                 "resize": "fit"
                             }
-                        },
-                        "features": {
-                            "orig": {
-                                "faces": [
-                                    {
-                                        "x": 103,
-                                        "y": 298,
-                                        "h": 107,
-                                        "w": 107
-                                    }
-                                ]
-                            },
-                            "small": {
-                                "faces": [
-                                    {
-                                        "x": 58,
-                                        "y": 168,
-                                        "h": 60,
-                                        "w": 60
-                                    }
-                                ]
-                            },
-                            "large": {
-                                "faces": [
-                                    {
-                                        "x": 103,
-                                        "y": 298,
-                                        "h": 107,
-                                        "w": 107
-                                    }
-                                ]
-                            },
-                            "medium": {
-                                "faces": [
-                                    {
-                                        "x": 103,
-                                        "y": 298,
-                                        "h": 107,
-                                        "w": 107
-                                    }
-                                ]
-                            }
                         }
                     }
                 ]
@@ -242,52 +200,11 @@
                                 "resize": "fit"
                             }
                         },
-                        "features": {
-                            "orig": {
-                                "faces": [
-                                    {
-                                        "x": 103,
-                                        "y": 298,
-                                        "h": 107,
-                                        "w": 107
-                                    }
-                                ]
-                            },
-                            "small": {
-                                "faces": [
-                                    {
-                                        "x": 58,
-                                        "y": 168,
-                                        "h": 60,
-                                        "w": 60
-                                    }
-                                ]
-                            },
-                            "large": {
-                                "faces": [
-                                    {
-                                        "x": 103,
-                                        "y": 298,
-                                        "h": 107,
-                                        "w": 107
-                                    }
-                                ]
-                            },
-                            "medium": {
-                                "faces": [
-                                    {
-                                        "x": 103,
-                                        "y": 298,
-                                        "h": 107,
-                                        "w": 107
-                                    }
-                                ]
-                            }
-                        }
+                        "ext_alt_text": null
                     }
                 ]
             },
-            "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+            "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
             "in_reply_to_status_id": null,
             "in_reply_to_status_id_str": null,
             "in_reply_to_user_id": null,
@@ -303,7 +220,7 @@
             "contributors": null,
             "is_quote_status": false,
             "retweet_count": 13,
-            "favorite_count": 16,
+            "favorite_count": 15,
             "favorited": false,
             "retweeted": true,
             "possibly_sensitive": false,

@@ -74,48 +74,6 @@
                             "h": 150,
                             "resize": "crop"
                         }
-                    },
-                    "features": {
-                        "small": {
-                            "faces": [
-                                {
-                                    "x": 380,
-                                    "y": 68,
-                                    "h": 21,
-                                    "w": 21
-                                }
-                            ]
-                        },
-                        "large": {
-                            "faces": [
-                                {
-                                    "x": 834,
-                                    "y": 151,
-                                    "h": 48,
-                                    "w": 48
-                                }
-                            ]
-                        },
-                        "orig": {
-                            "faces": [
-                                {
-                                    "x": 834,
-                                    "y": 151,
-                                    "h": 48,
-                                    "w": 48
-                                }
-                            ]
-                        },
-                        "medium": {
-                            "faces": [
-                                {
-                                    "x": 671,
-                                    "y": 121,
-                                    "h": 38,
-                                    "w": 38
-                                }
-                            ]
-                        }
                     }
                 }
             ]
@@ -157,52 +115,11 @@
                             "resize": "crop"
                         }
                     },
-                    "features": {
-                        "small": {
-                            "faces": [
-                                {
-                                    "x": 380,
-                                    "y": 68,
-                                    "h": 21,
-                                    "w": 21
-                                }
-                            ]
-                        },
-                        "large": {
-                            "faces": [
-                                {
-                                    "x": 834,
-                                    "y": 151,
-                                    "h": 48,
-                                    "w": 48
-                                }
-                            ]
-                        },
-                        "orig": {
-                            "faces": [
-                                {
-                                    "x": 834,
-                                    "y": 151,
-                                    "h": 48,
-                                    "w": 48
-                                }
-                            ]
-                        },
-                        "medium": {
-                            "faces": [
-                                {
-                                    "x": 671,
-                                    "y": 121,
-                                    "h": 38,
-                                    "w": 38
-                                }
-                            ]
-                        }
-                    }
+                    "ext_alt_text": null
                 }
             ]
         },
-        "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,

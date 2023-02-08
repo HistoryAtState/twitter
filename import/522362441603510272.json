@@ -1,0 +1,83 @@
+[
+    {
+        "created_at": "Wed Oct 15 12:24:45 +0000 2014",
+        "id": 522362441603510272,
+        "id_str": "522362441603510272",
+        "full_text": "We have been creating visualizations of #FRUS documents using @HDStanford Palladio. Hear about it at #TEIConf2014 http://t.co/7amYRPh1aZ #dh",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            140
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "FRUS",
+                    "indices": [
+                        40,
+                        45
+                    ]
+                },
+                {
+                    "text": "TEIConf2014",
+                    "indices": [
+                        101,
+                        113
+                    ]
+                },
+                {
+                    "text": "dh",
+                    "indices": [
+                        137,
+                        140
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "HDStanford",
+                    "name": "Humanities + Design",
+                    "id": 2307268194,
+                    "id_str": "2307268194",
+                    "indices": [
+                        62,
+                        73
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "http://t.co/7amYRPh1aZ",
+                    "expanded_url": "http://tei.northwestern.edu/papers/",
+                    "display_url": "tei.northwestern.edu/papers/",
+                    "indices": [
+                        114,
+                        136
+                    ]
+                }
+            ]
+        },
+        "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 586570880,
+            "id_str": "586570880"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    }
+]

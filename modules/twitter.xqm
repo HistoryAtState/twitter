@@ -29,7 +29,8 @@ declare function twitter:user-timeline(
         $trim-user as xs:boolean?,
         $exclude-replies as xs:boolean?,
         $contributor-details as xs:boolean?,
-        $include-rts as xs:boolean? 
+        $include-rts as xs:boolean?,
+        $include-ext-alt-text as xs:boolean?
         ) {
     let $api-method := '/statuses/user_timeline.json'
     let $http-method := 'GET'
@@ -45,7 +46,8 @@ declare function twitter:user-timeline(
             if ($trim-user) then concat('trim_user=', $trim-user) else (),
             if ($exclude-replies) then concat('exclude_replies=', $exclude-replies) else (),
             if ($contributor-details) then concat('contributor_details=', $contributor-details) else (),
-            if ($include-rts) then concat('include_rts=', $include-rts) else ()
+            if ($include-rts) then concat('include_rts=', $include-rts) else (),
+            if ($include-ext-alt-text) then concat('include_ext_alt_text=', $include-ext-alt-text) else ()
             ),
             '&amp;'
         )

@@ -37,7 +37,7 @@ declare function twitter-dl:download-last-posts($count as xs:integer?, $max-id a
     let $_ := util:log-app('info', 'hsg-twitter', 'Sending Twitter request, count=' || $count || ', maxid=' || $max-id)
     let $request-response := twitter:user-timeline(
         config:consumer-key(), config:consumer-secret(), config:access-token(), config:access-token-secret(),
-        (), (), (), $count, $max-id, true(), true(), false(), false())
+        (), (), (), $count, $max-id, true(), true(), false(), false(), true())
 
     let $request := $request-response[1]
     let $response-head := $request-response[2]
@@ -134,7 +134,7 @@ declare function twitter-dl:download-last-json($max-id as xs:unsignedLong?) {
     let $_ := util:log-app('info', 'hsg-twitter', 'Sending Twitter request1 , maxid=' || $max-id)
     let $request-response := twitter:user-timeline(
         config:consumer-key(), config:consumer-secret(), config:access-token(), config:access-token-secret(),
-        (), (), (), 1, $max-id, true(), true(), false(), false())
+        (), (), (), 1, $max-id, true(), true(), false(), false(), true())
 
     let $request := $request-response[1]
     let $response-head := $request-response[2]

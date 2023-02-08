@@ -57,8 +57,16 @@ declare function pt:photo($text as xs:string, $photo-map as map(*)) {
     let $chunks := pt:chop($text, $photo-map?indices)
     let $text := $photo-map?display_url
     let $url := $photo-map?expanded_url
+    let $alt := 
+        if (map:contains($photo-map, "ext_alt_text")) then
+            if (exists($photo-map?ext_alt_text)) then
+                attribute alt { $photo-map?ext_alt_text }
+            else
+                ()
+        else
+            ()
     return
-        ($chunks[1], <a href="{$url}"><img src="{$photo-map?media_url_https}"/></a>, $chunks[3])
+        ($chunks[1], <a href="{$url}"><img src="{$photo-map?media_url_https}"/>{$alt}</a>, $chunks[3])
 };
 
 (: apply entities, from last to first; entities must already be in last-to-first order :)
@@ -92,7 +100,7 @@ declare function pt:apply-entities($text as xs:string, $entities as map(*)*, $se
  : so we need to sort them first before applying them :)
 declare function pt:process-entities($tweet as map(*)) {
     let $text := $tweet?full_text
-    let $entities-map := map:get($tweet, 'entities')
+    let $entities-map := map:merge((map:get($tweet, 'extended_entities'), map:get($tweet, 'entities')), map { "duplicates": "use-first" })
     let $entities-to-process :=
         for $entity-key in map:keys($entities-map)
         let $entity := map:get($entities-map, $entity-key)

@@ -17,6 +17,7 @@ let $trim-user := true()
 let $exclude-replies := false()
 let $contributor-details := false()
 let $include-rts := false()
+let $include-ext-alt-text := true()
 let $request-response := 
     twitter:user-timeline(
         config:consumer-key(),
@@ -31,7 +32,8 @@ let $request-response :=
         $trim-user, 
         $exclude-replies, 
         $contributor-details, 
-        $include-rts
+        $include-rts,
+        $include-ext-alt-text
     )
 return
     twitter:echo-response($request-response)

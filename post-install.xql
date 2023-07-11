@@ -58,6 +58,13 @@ let $resources :=
             <owner>twitter-agent:twitter-agents</owner>
             <mode>rwxrwsr-x</mode>
         </resource>
+        <resource>
+            <!-- We have removed guest access to this file, as it contains sensitive information  -->
+            <path>/db/apps/twitter/modules/twitter-secrets.xqm</path>
+            <type>file</type>
+            <owner>twitter-agent:twitter-agents</owner>
+            <mode>rwxrwx---</mode>
+        </resource>
     </resources>
 
 let $create-users := 

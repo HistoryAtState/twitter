@@ -45,8 +45,8 @@ jobs:
       - run: ant
 
       # Install
-      - name: add shared-resources
-        run: wget https://exist-db.org/exist/apps/public-repo/public/shared-resources-0.9.1.xar > 000.xar
+      - name: add functx
+        run: wget https://exist-db.org/exist/apps/public-repo/public/functx-1.0.1.xar -O 000.xar
         working-directory: build
 
       - name: Start exist-ci containers

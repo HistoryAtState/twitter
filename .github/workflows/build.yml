@@ -36,7 +36,7 @@ jobs:
           xmllint --noout \
             $(find . -type f -name '*.xml')
 
-      # Build 
+      # Build
       - name: Build Expath Package
         uses: actions/setup-java@v4
         with:
@@ -45,6 +45,10 @@ jobs:
       - run: ant
 
       # Install
+      - name: add functx
+        run: wget https://exist-db.org/exist/apps/public-repo/public/functx-1.0.1.xar -O 000.xar
+        working-directory: build
+
       - name: Start exist-ci containers
         run: |
           docker run -dit -p 8080:8080 -v ${{ github.workspace }}/build:/exist/autodeploy \

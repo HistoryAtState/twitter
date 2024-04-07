@@ -2,7 +2,16 @@
   "branches": ["master"],  
   "plugins": [
     "@semantic-release/commit-analyzer",
+    {
+      "preset": "conventionalcommits",
+      "releaseRules": [
+        { "type": "", "release": "patch" }
+      ]
+    },
     "@semantic-release/release-notes-generator",
+    {
+      "preset": "conventionalcommits"
+    },
     ["@semantic-release/exec", {
       "prepareCmd": "ant -Dapp.version=${nextRelease.version}"
     }],
@@ -13,9 +22,9 @@
     ["@semantic-release/github", {
       "assets": [
         {
-          "path": "build/twitter-*.xar", 
-          "name": "twitter-${nextRelease.version}.xar",
-          "label": "Expath package (twitter-${nextRelease.version}.xar)"
+          "path": "build/twitter.xar", 
+          "name": "twitter.xar",
+          "label": "Expath package (twitter.xar)"
         }
       ]
     }]

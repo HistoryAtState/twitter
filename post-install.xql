@@ -1,7 +1,7 @@
 xquery version "3.0";
 
-import module namespace xdb="http://exist-db.org/xquery/xmldb";
-import module namespace dbutil="http://exist-db.org/xquery/dbutil";
+import module namespace dbutil="http://exist-db.org/xquery/dbutil" at "modules/dbutil.xqm";
+import module namespace sm="http://exist-db.org/xquery/securitymanager";
 
 (: Specific to this app: :)
 import module namespace secrets="http://history.state.gov/ns/xquery/twitter/secrets" at 'modules/twitter-secrets.xqm';
@@ -85,6 +85,7 @@ let $create-users :=
             let $groups := $user/group
             let $full-name := $user/full-name
             let $user-description := $user/description
+            (: see #17 :)
             return
                 (
                 sm:create-account($username, $password, $groups, $full-name, $user-description)

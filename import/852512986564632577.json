@@ -1,72 +1,70 @@
-[
-    {
-        "created_at": "Thu Apr 13 13:25:09 +0000 2017",
-        "id": 852512986564632577,
-        "id_str": "852512986564632577",
-        "full_text": "Queen Victoria and Parliament sent sentiments of \"deep sorrow\" after #LincolnAssassination. https://t.co/bZmqZFO7Wn #FRUS #twitterstorians",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            138
+{
+    "created_at": "Thu Apr 13 13:25:09 +0000 2017",
+    "id": 852512986564632580,
+    "id_str": "852512986564632577",
+    "full_text": "Queen Victoria and Parliament sent sentiments of \"deep sorrow\" after #LincolnAssassination. https://t.co/bZmqZFO7Wn #FRUS #twitterstorians",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        138
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "LincolnAssassination",
+                "indices": [
+                    69,
+                    90
+                ]
+            },
+            {
+                "text": "FRUS",
+                "indices": [
+                    116,
+                    121
+                ]
+            },
+            {
+                "text": "twitterstorians",
+                "indices": [
+                    122,
+                    138
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "LincolnAssassination",
-                    "indices": [
-                        69,
-                        90
-                    ]
-                },
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        116,
-                        121
-                    ]
-                },
-                {
-                    "text": "twitterstorians",
-                    "indices": [
-                        122,
-                        138
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "https://t.co/bZmqZFO7Wn",
-                    "expanded_url": "https://go.usa.gov/xX75U",
-                    "display_url": "go.usa.gov/xX75U",
-                    "indices": [
-                        92,
-                        115
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 2,
-        "favorite_count": 2,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/bZmqZFO7Wn",
+                "expanded_url": "https://go.usa.gov/xX75U",
+                "display_url": "go.usa.gov/xX75U",
+                "indices": [
+                    92,
+                    115
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

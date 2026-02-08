@@ -1,137 +1,135 @@
-[
-    {
-        "created_at": "Thu Mar 10 12:24:26 +0000 2016",
-        "id": 707904948546109441,
-        "id_str": "707904948546109441",
-        "full_text": "First head of state to visit the U.S. from #Canada was Prime Minister R.B. Bennett in 1933: https://t.co/2NPrkEMp9N https://t.co/Tkn4165Vmw",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            139
+{
+    "created_at": "Thu Mar 10 12:24:26 +0000 2016",
+    "id": 707904948546109440,
+    "id_str": "707904948546109441",
+    "full_text": "First head of state to visit the U.S. from #Canada was Prime Minister R.B. Bennett in 1933: https://t.co/2NPrkEMp9N https://t.co/Tkn4165Vmw",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Canada",
+                "indices": [
+                    43,
+                    50
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "Canada",
-                    "indices": [
-                        43,
-                        50
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "https://t.co/2NPrkEMp9N",
-                    "expanded_url": "https://history.state.gov/departmenthistory/visits/canada",
-                    "display_url": "history.state.gov/departmenthist\u2026",
-                    "indices": [
-                        92,
-                        115
-                    ]
-                }
-            ],
-            "media": [
-                {
-                    "id": 707904947350712320,
-                    "id_str": "707904947350712320",
-                    "indices": [
-                        116,
-                        139
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/CdL7zImUsAAhSBB.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/CdL7zImUsAAhSBB.jpg",
-                    "url": "https://t.co/Tkn4165Vmw",
-                    "display_url": "pic.twitter.com/Tkn4165Vmw",
-                    "expanded_url": "https://twitter.com/HistoryAtState/status/707904948546109441/photo/1",
-                    "type": "photo",
-                    "sizes": {
-                        "small": {
-                            "w": 554,
-                            "h": 680,
-                            "resize": "fit"
-                        },
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
-                        },
-                        "large": {
-                            "w": 1667,
-                            "h": 2048,
-                            "resize": "fit"
-                        },
-                        "medium": {
-                            "w": 977,
-                            "h": 1200,
-                            "resize": "fit"
-                        }
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/2NPrkEMp9N",
+                "expanded_url": "https://history.state.gov/departmenthistory/visits/canada",
+                "display_url": "history.state.gov/departmenthist…",
+                "indices": [
+                    92,
+                    115
+                ]
+            }
+        ],
+        "media": [
+            {
+                "id": 707904947350712320,
+                "id_str": "707904947350712320",
+                "indices": [
+                    116,
+                    139
+                ],
+                "media_url": "http://pbs.twimg.com/media/CdL7zImUsAAhSBB.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CdL7zImUsAAhSBB.jpg",
+                "url": "https://t.co/Tkn4165Vmw",
+                "display_url": "pic.twitter.com/Tkn4165Vmw",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/707904948546109441/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 554,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1667,
+                        "h": 2048,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 977,
+                        "h": 1200,
+                        "resize": "fit"
                     }
                 }
-            ]
-        },
-        "extended_entities": {
-            "media": [
-                {
-                    "id": 707904947350712320,
-                    "id_str": "707904947350712320",
-                    "indices": [
-                        116,
-                        139
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/CdL7zImUsAAhSBB.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/CdL7zImUsAAhSBB.jpg",
-                    "url": "https://t.co/Tkn4165Vmw",
-                    "display_url": "pic.twitter.com/Tkn4165Vmw",
-                    "expanded_url": "https://twitter.com/HistoryAtState/status/707904948546109441/photo/1",
-                    "type": "photo",
-                    "sizes": {
-                        "small": {
-                            "w": 554,
-                            "h": 680,
-                            "resize": "fit"
-                        },
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
-                        },
-                        "large": {
-                            "w": 1667,
-                            "h": 2048,
-                            "resize": "fit"
-                        },
-                        "medium": {
-                            "w": 977,
-                            "h": 1200,
-                            "resize": "fit"
-                        }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 707904947350712320,
+                "id_str": "707904947350712320",
+                "indices": [
+                    116,
+                    139
+                ],
+                "media_url": "http://pbs.twimg.com/media/CdL7zImUsAAhSBB.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CdL7zImUsAAhSBB.jpg",
+                "url": "https://t.co/Tkn4165Vmw",
+                "display_url": "pic.twitter.com/Tkn4165Vmw",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/707904948546109441/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 554,
+                        "h": 680,
+                        "resize": "fit"
                     },
-                    "ext_alt_text": null
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 0,
-        "favorite_count": 1,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1667,
+                        "h": 2048,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 977,
+                        "h": 1200,
+                        "resize": "fit"
+                    }
+                },
+                "ext_alt_text": null
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

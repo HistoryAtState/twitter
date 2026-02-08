@@ -1,45 +1,169 @@
-[
-    {
-        "created_at": "Mon Jan 06 18:32:26 +0000 2020",
-        "id": 1214253408347181056,
-        "id_str": "1214253408347181056",
-        "full_text": "RT @FSIatState: Over the past year, we tweeted 280+ times. Here are our #Top9of2019. https://t.co/kJIwYa9NJI",
+{
+    "created_at": "Mon Jan 06 18:32:26 +0000 2020",
+    "id": 1214253408347181060,
+    "id_str": "1214253408347181056",
+    "full_text": "RT @FSIatState: Over the past year, we tweeted 280+ times. Here are our #Top9of2019. https://t.co/kJIwYa9NJI",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        108
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Top9of2019",
+                "indices": [
+                    72,
+                    83
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "FSIatState",
+                "name": "Foreign Service Institute",
+                "id": 958044239576948740,
+                "id_str": "958044239576948736",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1213187010053230590,
+                "id_str": "1213187010053230595",
+                "indices": [
+                    85,
+                    108
+                ],
+                "media_url": "http://pbs.twimg.com/media/ENYbKGxXUAMRDR4.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/ENYbKGxXUAMRDR4.jpg",
+                "url": "https://t.co/kJIwYa9NJI",
+                "display_url": "pic.twitter.com/kJIwYa9NJI",
+                "expanded_url": "https://twitter.com/FSIatState/status/1213187020652208130/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 1505,
+                        "h": 1030,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 465,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 821,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    }
+                },
+                "source_status_id": 1213187020652208130,
+                "source_status_id_str": "1213187020652208130",
+                "source_user_id": 958044239576948740,
+                "source_user_id_str": "958044239576948736"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1213187010053230590,
+                "id_str": "1213187010053230595",
+                "indices": [
+                    85,
+                    108
+                ],
+                "media_url": "http://pbs.twimg.com/media/ENYbKGxXUAMRDR4.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/ENYbKGxXUAMRDR4.jpg",
+                "url": "https://t.co/kJIwYa9NJI",
+                "display_url": "pic.twitter.com/kJIwYa9NJI",
+                "expanded_url": "https://twitter.com/FSIatState/status/1213187020652208130/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 1505,
+                        "h": 1030,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 465,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 821,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    }
+                },
+                "source_status_id": 1213187020652208130,
+                "source_status_id_str": "1213187020652208130",
+                "source_user_id": 958044239576948740,
+                "source_user_id_str": "958044239576948736",
+                "ext_alt_text": null
+            }
+        ]
+    },
+    "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jan 03 19:55:00 +0000 2020",
+        "id": 1213187020652208130,
+        "id_str": "1213187020652208130",
+        "full_text": "Over the past year, we tweeted 280+ times. Here are our #Top9of2019. https://t.co/kJIwYa9NJI",
         "truncated": false,
         "display_text_range": [
             0,
-            108
+            68
         ],
         "entities": {
             "hashtags": [
                 {
                     "text": "Top9of2019",
                     "indices": [
-                        72,
-                        83
+                        56,
+                        67
                     ]
                 }
             ],
             "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "FSIatState",
-                    "name": "Foreign Service Institute",
-                    "id": 958044239576948736,
-                    "id_str": "958044239576948736",
-                    "indices": [
-                        3,
-                        14
-                    ]
-                }
-            ],
+            "user_mentions": [],
             "urls": [],
             "media": [
                 {
-                    "id": 1213187010053230595,
+                    "id": 1213187010053230590,
                     "id_str": "1213187010053230595",
                     "indices": [
-                        85,
-                        108
+                        69,
+                        92
                     ],
                     "media_url": "http://pbs.twimg.com/media/ENYbKGxXUAMRDR4.jpg",
                     "media_url_https": "https://pbs.twimg.com/media/ENYbKGxXUAMRDR4.jpg",
@@ -68,22 +192,18 @@
                             "h": 150,
                             "resize": "crop"
                         }
-                    },
-                    "source_status_id": 1213187020652208130,
-                    "source_status_id_str": "1213187020652208130",
-                    "source_user_id": 958044239576948736,
-                    "source_user_id_str": "958044239576948736"
+                    }
                 }
             ]
         },
         "extended_entities": {
             "media": [
                 {
-                    "id": 1213187010053230595,
+                    "id": 1213187010053230590,
                     "id_str": "1213187010053230595",
                     "indices": [
-                        85,
-                        108
+                        69,
+                        92
                     ],
                     "media_url": "http://pbs.twimg.com/media/ENYbKGxXUAMRDR4.jpg",
                     "media_url_https": "https://pbs.twimg.com/media/ENYbKGxXUAMRDR4.jpg",
@@ -113,159 +233,37 @@
                             "resize": "crop"
                         }
                     },
-                    "source_status_id": 1213187020652208130,
-                    "source_status_id_str": "1213187020652208130",
-                    "source_user_id": 958044239576948736,
-                    "source_user_id_str": "958044239576948736",
                     "ext_alt_text": null
                 }
             ]
         },
-        "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+        "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
         "in_reply_to_screen_name": null,
         "user": {
-            "id": 586570880,
-            "id_str": "586570880"
+            "id": 958044239576948740,
+            "id_str": "958044239576948736"
         },
         "geo": null,
         "coordinates": null,
         "place": null,
         "contributors": null,
-        "retweeted_status": {
-            "created_at": "Fri Jan 03 19:55:00 +0000 2020",
-            "id": 1213187020652208130,
-            "id_str": "1213187020652208130",
-            "full_text": "Over the past year, we tweeted 280+ times. Here are our #Top9of2019. https://t.co/kJIwYa9NJI",
-            "truncated": false,
-            "display_text_range": [
-                0,
-                68
-            ],
-            "entities": {
-                "hashtags": [
-                    {
-                        "text": "Top9of2019",
-                        "indices": [
-                            56,
-                            67
-                        ]
-                    }
-                ],
-                "symbols": [],
-                "user_mentions": [],
-                "urls": [],
-                "media": [
-                    {
-                        "id": 1213187010053230595,
-                        "id_str": "1213187010053230595",
-                        "indices": [
-                            69,
-                            92
-                        ],
-                        "media_url": "http://pbs.twimg.com/media/ENYbKGxXUAMRDR4.jpg",
-                        "media_url_https": "https://pbs.twimg.com/media/ENYbKGxXUAMRDR4.jpg",
-                        "url": "https://t.co/kJIwYa9NJI",
-                        "display_url": "pic.twitter.com/kJIwYa9NJI",
-                        "expanded_url": "https://twitter.com/FSIatState/status/1213187020652208130/photo/1",
-                        "type": "photo",
-                        "sizes": {
-                            "large": {
-                                "w": 1505,
-                                "h": 1030,
-                                "resize": "fit"
-                            },
-                            "small": {
-                                "w": 680,
-                                "h": 465,
-                                "resize": "fit"
-                            },
-                            "medium": {
-                                "w": 1200,
-                                "h": 821,
-                                "resize": "fit"
-                            },
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            }
-                        }
-                    }
-                ]
-            },
-            "extended_entities": {
-                "media": [
-                    {
-                        "id": 1213187010053230595,
-                        "id_str": "1213187010053230595",
-                        "indices": [
-                            69,
-                            92
-                        ],
-                        "media_url": "http://pbs.twimg.com/media/ENYbKGxXUAMRDR4.jpg",
-                        "media_url_https": "https://pbs.twimg.com/media/ENYbKGxXUAMRDR4.jpg",
-                        "url": "https://t.co/kJIwYa9NJI",
-                        "display_url": "pic.twitter.com/kJIwYa9NJI",
-                        "expanded_url": "https://twitter.com/FSIatState/status/1213187020652208130/photo/1",
-                        "type": "photo",
-                        "sizes": {
-                            "large": {
-                                "w": 1505,
-                                "h": 1030,
-                                "resize": "fit"
-                            },
-                            "small": {
-                                "w": 680,
-                                "h": 465,
-                                "resize": "fit"
-                            },
-                            "medium": {
-                                "w": 1200,
-                                "h": 821,
-                                "resize": "fit"
-                            },
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            }
-                        },
-                        "ext_alt_text": null
-                    }
-                ]
-            },
-            "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
-            "user": {
-                "id": 958044239576948736,
-                "id_str": "958044239576948736"
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "is_quote_status": false,
-            "retweet_count": 2,
-            "favorite_count": 4,
-            "favorited": false,
-            "retweeted": true,
-            "possibly_sensitive": false,
-            "lang": "en"
-        },
         "is_quote_status": false,
         "retweet_count": 2,
-        "favorite_count": 0,
+        "favorite_count": 4,
         "favorited": false,
         "retweeted": true,
         "possibly_sensitive": false,
         "lang": "en"
-    }
-]
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

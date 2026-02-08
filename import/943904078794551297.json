@@ -1,93 +1,91 @@
-[
-    {
-        "created_at": "Thu Dec 21 18:00:43 +0000 2017",
-        "id": 943904078794551297,
-        "id_str": "943904078794551297",
-        "full_text": "You've seen the recent @PBS documentary, now you can read the actual conversations of Henry Kissinger and Le Duc Tho during their negotiations to end the #VietnamWar https://t.co/2p5GVhWO6R #FRUS #VietnamWarPBS @KenBurns",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            220
+{
+    "created_at": "Thu Dec 21 18:00:43 +0000 2017",
+    "id": 943904078794551300,
+    "id_str": "943904078794551297",
+    "full_text": "You've seen the recent @PBS documentary, now you can read the actual conversations of Henry Kissinger and Le Duc Tho during their negotiations to end the #VietnamWar https://t.co/2p5GVhWO6R #FRUS #VietnamWarPBS @KenBurns",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        220
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "VietnamWar",
+                "indices": [
+                    154,
+                    165
+                ]
+            },
+            {
+                "text": "FRUS",
+                "indices": [
+                    190,
+                    195
+                ]
+            },
+            {
+                "text": "VietnamWarPBS",
+                "indices": [
+                    196,
+                    210
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "VietnamWar",
-                    "indices": [
-                        154,
-                        165
-                    ]
-                },
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        190,
-                        195
-                    ]
-                },
-                {
-                    "text": "VietnamWarPBS",
-                    "indices": [
-                        196,
-                        210
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "PBS",
-                    "name": "PBS",
-                    "id": 12133382,
-                    "id_str": "12133382",
-                    "indices": [
-                        23,
-                        27
-                    ]
-                },
-                {
-                    "screen_name": "KenBurns",
-                    "name": "Ken Burns",
-                    "id": 397507908,
-                    "id_str": "397507908",
-                    "indices": [
-                        211,
-                        220
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "https://t.co/2p5GVhWO6R",
-                    "expanded_url": "https://history.state.gov/historicaldocuments/frus1969-76v42",
-                    "display_url": "history.state.gov/historicaldocu\u2026",
-                    "indices": [
-                        166,
-                        189
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 2,
-        "favorite_count": 2,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "PBS",
+                "name": "PBS",
+                "id": 12133382,
+                "id_str": "12133382",
+                "indices": [
+                    23,
+                    27
+                ]
+            },
+            {
+                "screen_name": "KenBurns",
+                "name": "Ken Burns",
+                "id": 397507908,
+                "id_str": "397507908",
+                "indices": [
+                    211,
+                    220
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/2p5GVhWO6R",
+                "expanded_url": "https://history.state.gov/historicaldocuments/frus1969-76v42",
+                "display_url": "history.state.gov/historicaldocu…",
+                "indices": [
+                    166,
+                    189
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

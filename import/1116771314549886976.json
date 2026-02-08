@@ -1,87 +1,85 @@
-[
-    {
-        "created_at": "Fri Apr 12 18:33:24 +0000 2019",
-        "id": 1116771314549886976,
-        "id_str": "1116771314549886976",
-        "full_text": "RT @inteldotgov: The delivery of the final tranche of records for the U.S. Declassification Project for Argentina took place on April 12, 2\u2026",
+{
+    "created_at": "Fri Apr 12 18:33:24 +0000 2019",
+    "id": 1116771314549886980,
+    "id_str": "1116771314549886976",
+    "full_text": "RT @inteldotgov: The delivery of the final tranche of records for the U.S. Declassification Project for Argentina took place on April 12, 2…",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "inteldotgov",
+                "name": "Intelligence.gov",
+                "id": 923985909586059260,
+                "id_str": "923985909586059265",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Apr 12 17:44:13 +0000 2019",
+        "id": 1116758936860803070,
+        "id_str": "1116758936860803072",
+        "full_text": "The delivery of the final tranche of records for the U.S. Declassification Project for Argentina took place on April 12, 2019, at a ceremony hosted by the National Archives.",
         "truncated": false,
         "display_text_range": [
             0,
-            140
+            173
         ],
         "entities": {
             "hashtags": [],
             "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "inteldotgov",
-                    "name": "Intelligence.gov",
-                    "id": 923985909586059265,
-                    "id_str": "923985909586059265",
-                    "indices": [
-                        3,
-                        15
-                    ]
-                }
-            ],
+            "user_mentions": [],
             "urls": []
         },
-        "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
+        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
         "in_reply_to_screen_name": null,
         "user": {
-            "id": 586570880,
-            "id_str": "586570880"
+            "id": 923985909586059260,
+            "id_str": "923985909586059265"
         },
         "geo": null,
         "coordinates": null,
         "place": null,
         "contributors": null,
-        "retweeted_status": {
-            "created_at": "Fri Apr 12 17:44:13 +0000 2019",
-            "id": 1116758936860803072,
-            "id_str": "1116758936860803072",
-            "full_text": "The delivery of the final tranche of records for the U.S. Declassification Project for Argentina took place on April 12, 2019, at a ceremony hosted by the National Archives.",
-            "truncated": false,
-            "display_text_range": [
-                0,
-                173
-            ],
-            "entities": {
-                "hashtags": [],
-                "symbols": [],
-                "user_mentions": [],
-                "urls": []
-            },
-            "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
-            "user": {
-                "id": 923985909586059265,
-                "id_str": "923985909586059265"
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "is_quote_status": false,
-            "retweet_count": 7,
-            "favorite_count": 10,
-            "favorited": false,
-            "retweeted": true,
-            "lang": "en"
-        },
         "is_quote_status": false,
         "retweet_count": 7,
-        "favorite_count": 0,
+        "favorite_count": 10,
         "favorited": false,
         "retweeted": true,
         "lang": "en"
-    }
-]
+    },
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "en"
+}

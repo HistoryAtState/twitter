@@ -1,65 +1,63 @@
-[
-    {
-        "created_at": "Tue Nov 04 17:54:47 +0000 2014",
-        "id": 529693253797695488,
-        "id_str": "529693253797695488",
-        "full_text": "Explore how Jimmy Carter\u2019s foreign policy team prepped  him for the 1976 presidential debate: http://t.co/xq0R19B7gA #FRUS #twitterstorians",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            139
+{
+    "created_at": "Tue Nov 04 17:54:47 +0000 2014",
+    "id": 529693253797695490,
+    "id_str": "529693253797695488",
+    "full_text": "Explore how Jimmy Carter’s foreign policy team prepped  him for the 1976 presidential debate: http://t.co/xq0R19B7gA #FRUS #twitterstorians",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FRUS",
+                "indices": [
+                    117,
+                    122
+                ]
+            },
+            {
+                "text": "twitterstorians",
+                "indices": [
+                    123,
+                    139
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        117,
-                        122
-                    ]
-                },
-                {
-                    "text": "twitterstorians",
-                    "indices": [
-                        123,
-                        139
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "http://t.co/xq0R19B7gA",
-                    "expanded_url": "http://go.usa.gov/7d3w",
-                    "display_url": "go.usa.gov/7d3w",
-                    "indices": [
-                        94,
-                        116
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 2,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "http://t.co/xq0R19B7gA",
+                "expanded_url": "http://go.usa.gov/7d3w",
+                "display_url": "go.usa.gov/7d3w",
+                "indices": [
+                    94,
+                    116
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

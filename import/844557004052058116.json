@@ -1,65 +1,63 @@
-[
-    {
-        "created_at": "Wed Mar 22 14:30:55 +0000 2017",
-        "id": 844557004052058116,
-        "id_str": "844557004052058116",
-        "full_text": "For more info on the Water for Peace program see #FRUS 1964-1968, Energy Diplomacy and Global Issues #WorldWaterDay https://t.co/WANpXUG6Ih",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            139
+{
+    "created_at": "Wed Mar 22 14:30:55 +0000 2017",
+    "id": 844557004052058110,
+    "id_str": "844557004052058116",
+    "full_text": "For more info on the Water for Peace program see #FRUS 1964-1968, Energy Diplomacy and Global Issues #WorldWaterDay https://t.co/WANpXUG6Ih",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FRUS",
+                "indices": [
+                    49,
+                    54
+                ]
+            },
+            {
+                "text": "WorldWaterDay",
+                "indices": [
+                    101,
+                    115
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        49,
-                        54
-                    ]
-                },
-                {
-                    "text": "WorldWaterDay",
-                    "indices": [
-                        101,
-                        115
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "https://t.co/WANpXUG6Ih",
-                    "expanded_url": "https://go.usa.gov/xXxnd",
-                    "display_url": "go.usa.gov/xXxnd",
-                    "indices": [
-                        116,
-                        139
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 0,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/WANpXUG6Ih",
+                "expanded_url": "https://go.usa.gov/xXxnd",
+                "display_url": "go.usa.gov/xXxnd",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

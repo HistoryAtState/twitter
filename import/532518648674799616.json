@@ -1,78 +1,76 @@
-[
-    {
-        "created_at": "Wed Nov 12 13:01:54 +0000 2014",
-        "id": 532518648674799616,
-        "id_str": "532518648674799616",
-        "full_text": "Good morning NYC! @bottsywattsy &amp; @lempika7 are geared up to discuss non-traditional uses of #FRUS today w/@intlworldhist",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            125
+{
+    "created_at": "Wed Nov 12 13:01:54 +0000 2014",
+    "id": 532518648674799620,
+    "id_str": "532518648674799616",
+    "full_text": "Good morning NYC! @bottsywattsy &amp;amp; @lempika7 are geared up to discuss non-traditional uses of #FRUS today w/@intlworldhist",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        125
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FRUS",
+                "indices": [
+                    97,
+                    102
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        97,
-                        102
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "bottsywattsy",
-                    "name": "Josh Botts",
-                    "id": 299329454,
-                    "id_str": "299329454",
-                    "indices": [
-                        18,
-                        31
-                    ]
-                },
-                {
-                    "screen_name": "lempika7",
-                    "name": "Dr Lindsay Sarah Krasnoff",
-                    "id": 285687016,
-                    "id_str": "285687016",
-                    "indices": [
-                        38,
-                        47
-                    ]
-                },
-                {
-                    "screen_name": "intlworldhist",
-                    "name": "Columbia-LSE MA/MSc",
-                    "id": 234906483,
-                    "id_str": "234906483",
-                    "indices": [
-                        111,
-                        125
-                    ]
-                }
-            ],
-            "urls": []
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 4,
-        "favorite_count": 3,
-        "favorited": false,
-        "retweeted": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "bottsywattsy",
+                "name": "Josh Botts",
+                "id": 299329454,
+                "id_str": "299329454",
+                "indices": [
+                    18,
+                    31
+                ]
+            },
+            {
+                "screen_name": "lempika7",
+                "name": "Dr Lindsay Sarah Krasnoff",
+                "id": 285687016,
+                "id_str": "285687016",
+                "indices": [
+                    38,
+                    47
+                ]
+            },
+            {
+                "screen_name": "intlworldhist",
+                "name": "Columbia-LSE MA/MSc",
+                "id": 234906483,
+                "id_str": "234906483",
+                "indices": [
+                    111,
+                    125
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

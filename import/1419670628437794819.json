@@ -1,220 +1,218 @@
-[
-    {
-        "created_at": "Mon Jul 26 14:47:08 +0000 2021",
-        "id": 1419670628437794819,
-        "id_str": "1419670628437794819",
-        "full_text": "To read this document and related content in #FRUS, visit https://t.co/93Utg1aDhb https://t.co/XVpYMuCfGh",
+{
+    "created_at": "Mon Jul 26 14:47:08 +0000 2021",
+    "id": 1419670628437794820,
+    "id_str": "1419670628437794819",
+    "full_text": "To read this document and related content in #FRUS, visit https://t.co/93Utg1aDhb https://t.co/XVpYMuCfGh",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        81
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FRUS",
+                "indices": [
+                    45,
+                    50
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/93Utg1aDhb",
+                "expanded_url": "https://history.state.gov/historicaldocuments/frus1940v01/d412",
+                "display_url": "history.state.gov/historicaldocu…",
+                "indices": [
+                    58,
+                    81
+                ]
+            },
+            {
+                "url": "https://t.co/XVpYMuCfGh",
+                "expanded_url": "https://twitter.com/USEmbassyRiga/status/1418453298374397952",
+                "display_url": "twitter.com/USEmbassyRiga/…",
+                "indices": [
+                    82,
+                    105
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1418453298374397950,
+    "quoted_status_id_str": "1418453298374397952",
+    "quoted_status_permalink": {
+        "url": "https://t.co/XVpYMuCfGh",
+        "expanded": "https://twitter.com/USEmbassyRiga/status/1418453298374397952",
+        "display": "twitter.com/USEmbassyRiga/…"
+    },
+    "quoted_status": {
+        "created_at": "Fri Jul 23 06:09:54 +0000 2021",
+        "id": 1418453298374397950,
+        "id_str": "1418453298374397952",
+        "full_text": "#OTD in 1940, the United States issued the #WellesDeclaration, setting a worldwide standard of non-recognition of the Soviet Union's occupation of the #Baltic nations. The🇺🇸declaration allowed 🇱🇻🇱🇹🇪🇪 diplomats to continue their work and advocate for  independence. #HistoryMatters https://t.co/J4Cxgd0E40",
         "truncated": false,
         "display_text_range": [
             0,
-            81
+            280
         ],
         "entities": {
             "hashtags": [
                 {
-                    "text": "FRUS",
+                    "text": "OTD",
                     "indices": [
-                        45,
-                        50
+                        0,
+                        4
+                    ]
+                },
+                {
+                    "text": "WellesDeclaration",
+                    "indices": [
+                        43,
+                        61
+                    ]
+                },
+                {
+                    "text": "Baltic",
+                    "indices": [
+                        151,
+                        158
+                    ]
+                },
+                {
+                    "text": "HistoryMatters",
+                    "indices": [
+                        265,
+                        280
                     ]
                 }
             ],
             "symbols": [],
             "user_mentions": [],
-            "urls": [
+            "urls": [],
+            "media": [
                 {
-                    "url": "https://t.co/93Utg1aDhb",
-                    "expanded_url": "https://history.state.gov/historicaldocuments/frus1940v01/d412",
-                    "display_url": "history.state.gov/historicaldocu\u2026",
+                    "id": 1418452620239327230,
+                    "id_str": "1418452620239327233",
                     "indices": [
-                        58,
-                        81
-                    ]
-                },
-                {
-                    "url": "https://t.co/XVpYMuCfGh",
-                    "expanded_url": "https://twitter.com/USEmbassyRiga/status/1418453298374397952",
-                    "display_url": "twitter.com/USEmbassyRiga/\u2026",
-                    "indices": [
-                        82,
-                        105
-                    ]
+                        281,
+                        304
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E69bJJAWUAEaJMH.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E69bJJAWUAEaJMH.jpg",
+                    "url": "https://t.co/J4Cxgd0E40",
+                    "display_url": "pic.twitter.com/J4Cxgd0E40",
+                    "expanded_url": "https://twitter.com/USEmbassyRiga/status/1418453298374397952/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 800,
+                            "h": 1105,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 492,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 800,
+                            "h": 1105,
+                            "resize": "fit"
+                        }
+                    }
                 }
             ]
         },
-        "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1418452620239327230,
+                    "id_str": "1418452620239327233",
+                    "indices": [
+                        281,
+                        304
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E69bJJAWUAEaJMH.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E69bJJAWUAEaJMH.jpg",
+                    "url": "https://t.co/J4Cxgd0E40",
+                    "display_url": "pic.twitter.com/J4Cxgd0E40",
+                    "expanded_url": "https://twitter.com/USEmbassyRiga/status/1418453298374397952/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 800,
+                            "h": 1105,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 492,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 800,
+                            "h": 1105,
+                            "resize": "fit"
+                        }
+                    },
+                    "ext_alt_text": null
+                }
+            ]
+        },
+        "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
         "in_reply_to_screen_name": null,
         "user": {
-            "id": 586570880,
-            "id_str": "586570880"
+            "id": 77951180,
+            "id_str": "77951180"
         },
         "geo": null,
         "coordinates": null,
         "place": null,
         "contributors": null,
-        "is_quote_status": true,
-        "quoted_status_id": 1418453298374397952,
-        "quoted_status_id_str": "1418453298374397952",
-        "quoted_status_permalink": {
-            "url": "https://t.co/XVpYMuCfGh",
-            "expanded": "https://twitter.com/USEmbassyRiga/status/1418453298374397952",
-            "display": "twitter.com/USEmbassyRiga/\u2026"
-        },
-        "quoted_status": {
-            "created_at": "Fri Jul 23 06:09:54 +0000 2021",
-            "id": 1418453298374397952,
-            "id_str": "1418453298374397952",
-            "full_text": "#OTD in 1940, the United States issued the #WellesDeclaration, setting a worldwide standard of non-recognition of the Soviet Union's occupation of the #Baltic nations. The\ud83c\uddfa\ud83c\uddf8declaration allowed \ud83c\uddf1\ud83c\uddfb\ud83c\uddf1\ud83c\uddf9\ud83c\uddea\ud83c\uddea diplomats to continue their work and advocate for  independence. #HistoryMatters https://t.co/J4Cxgd0E40",
-            "truncated": false,
-            "display_text_range": [
-                0,
-                280
-            ],
-            "entities": {
-                "hashtags": [
-                    {
-                        "text": "OTD",
-                        "indices": [
-                            0,
-                            4
-                        ]
-                    },
-                    {
-                        "text": "WellesDeclaration",
-                        "indices": [
-                            43,
-                            61
-                        ]
-                    },
-                    {
-                        "text": "Baltic",
-                        "indices": [
-                            151,
-                            158
-                        ]
-                    },
-                    {
-                        "text": "HistoryMatters",
-                        "indices": [
-                            265,
-                            280
-                        ]
-                    }
-                ],
-                "symbols": [],
-                "user_mentions": [],
-                "urls": [],
-                "media": [
-                    {
-                        "id": 1418452620239327233,
-                        "id_str": "1418452620239327233",
-                        "indices": [
-                            281,
-                            304
-                        ],
-                        "media_url": "http://pbs.twimg.com/media/E69bJJAWUAEaJMH.jpg",
-                        "media_url_https": "https://pbs.twimg.com/media/E69bJJAWUAEaJMH.jpg",
-                        "url": "https://t.co/J4Cxgd0E40",
-                        "display_url": "pic.twitter.com/J4Cxgd0E40",
-                        "expanded_url": "https://twitter.com/USEmbassyRiga/status/1418453298374397952/photo/1",
-                        "type": "photo",
-                        "sizes": {
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
-                            "large": {
-                                "w": 800,
-                                "h": 1105,
-                                "resize": "fit"
-                            },
-                            "small": {
-                                "w": 492,
-                                "h": 680,
-                                "resize": "fit"
-                            },
-                            "medium": {
-                                "w": 800,
-                                "h": 1105,
-                                "resize": "fit"
-                            }
-                        }
-                    }
-                ]
-            },
-            "extended_entities": {
-                "media": [
-                    {
-                        "id": 1418452620239327233,
-                        "id_str": "1418452620239327233",
-                        "indices": [
-                            281,
-                            304
-                        ],
-                        "media_url": "http://pbs.twimg.com/media/E69bJJAWUAEaJMH.jpg",
-                        "media_url_https": "https://pbs.twimg.com/media/E69bJJAWUAEaJMH.jpg",
-                        "url": "https://t.co/J4Cxgd0E40",
-                        "display_url": "pic.twitter.com/J4Cxgd0E40",
-                        "expanded_url": "https://twitter.com/USEmbassyRiga/status/1418453298374397952/photo/1",
-                        "type": "photo",
-                        "sizes": {
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
-                            "large": {
-                                "w": 800,
-                                "h": 1105,
-                                "resize": "fit"
-                            },
-                            "small": {
-                                "w": 492,
-                                "h": 680,
-                                "resize": "fit"
-                            },
-                            "medium": {
-                                "w": 800,
-                                "h": 1105,
-                                "resize": "fit"
-                            }
-                        },
-                        "ext_alt_text": null
-                    }
-                ]
-            },
-            "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
-            "user": {
-                "id": 77951180,
-                "id_str": "77951180"
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "is_quote_status": false,
-            "retweet_count": 24,
-            "favorite_count": 105,
-            "favorited": false,
-            "retweeted": false,
-            "possibly_sensitive": false,
-            "lang": "en"
-        },
-        "retweet_count": 2,
-        "favorite_count": 8,
+        "is_quote_status": false,
+        "retweet_count": 24,
+        "favorite_count": 105,
         "favorited": false,
         "retweeted": false,
         "possibly_sensitive": false,
         "lang": "en"
-    }
-]
+    },
+    "retweet_count": 2,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

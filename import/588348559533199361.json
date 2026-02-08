@@ -1,103 +1,101 @@
-[
-    {
-        "created_at": "Wed Apr 15 14:30:02 +0000 2015",
-        "id": 588348559533199361,
-        "id_str": "588348559533199361",
-        "full_text": "RT @icedd_org: Our first speaker, Assistant Secretary State Douglas Frantz, is presenting his keynote address #icedd2015",
+{
+    "created_at": "Wed Apr 15 14:30:02 +0000 2015",
+    "id": 588348559533199360,
+    "id_str": "588348559533199361",
+    "full_text": "RT @icedd_org: Our first speaker, Assistant Secretary State Douglas Frantz, is presenting his keynote address #icedd2015",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        120
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "icedd2015",
+                "indices": [
+                    110,
+                    120
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "icedd_org",
+                "name": "ICEDD",
+                "id": 3131310616,
+                "id_str": "3131310616",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "source": "&lt;a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"&gt;Twitter for iPad&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Apr 15 13:20:53 +0000 2015",
+        "id": 588331157491683330,
+        "id_str": "588331157491683328",
+        "full_text": "Our first speaker, Assistant Secretary State Douglas Frantz, is presenting his keynote address #icedd2015",
         "truncated": false,
         "display_text_range": [
             0,
-            120
+            105
         ],
         "entities": {
             "hashtags": [
                 {
                     "text": "icedd2015",
                     "indices": [
-                        110,
-                        120
+                        95,
+                        105
                     ]
                 }
             ],
             "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "icedd_org",
-                    "name": "ICEDD",
-                    "id": 3131310616,
-                    "id_str": "3131310616",
-                    "indices": [
-                        3,
-                        13
-                    ]
-                }
-            ],
+            "user_mentions": [],
             "urls": []
         },
-        "source": "\u003ca href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c/a\u003e",
+        "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
         "in_reply_to_screen_name": null,
         "user": {
-            "id": 586570880,
-            "id_str": "586570880"
+            "id": 3131310616,
+            "id_str": "3131310616"
         },
         "geo": null,
         "coordinates": null,
         "place": null,
         "contributors": null,
-        "retweeted_status": {
-            "created_at": "Wed Apr 15 13:20:53 +0000 2015",
-            "id": 588331157491683328,
-            "id_str": "588331157491683328",
-            "full_text": "Our first speaker, Assistant Secretary State Douglas Frantz, is presenting his keynote address #icedd2015",
-            "truncated": false,
-            "display_text_range": [
-                0,
-                105
-            ],
-            "entities": {
-                "hashtags": [
-                    {
-                        "text": "icedd2015",
-                        "indices": [
-                            95,
-                            105
-                        ]
-                    }
-                ],
-                "symbols": [],
-                "user_mentions": [],
-                "urls": []
-            },
-            "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
-            "user": {
-                "id": 3131310616,
-                "id_str": "3131310616"
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "is_quote_status": false,
-            "retweet_count": 3,
-            "favorite_count": 1,
-            "favorited": false,
-            "retweeted": true,
-            "lang": "en"
-        },
         "is_quote_status": false,
         "retweet_count": 3,
-        "favorite_count": 0,
+        "favorite_count": 1,
         "favorited": false,
         "retweeted": true,
         "lang": "en"
-    }
-]
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "en"
+}

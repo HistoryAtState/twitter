@@ -1,76 +1,74 @@
-[
-    {
-        "created_at": "Tue Jul 07 13:02:06 +0000 2015",
-        "id": 618404626371620864,
-        "id_str": "618404626371620864",
-        "full_text": "#LibSci student needed to apply a taxonomy to @HistoryAtState publications from 1861 to present: http://t.co/NLXF0Sf40w #twitterstorians",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            136
+{
+    "created_at": "Tue Jul 07 13:02:06 +0000 2015",
+    "id": 618404626371620860,
+    "id_str": "618404626371620864",
+    "full_text": "#LibSci student needed to apply a taxonomy to @HistoryAtState publications from 1861 to present: http://t.co/NLXF0Sf40w #twitterstorians",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        136
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "LibSci",
+                "indices": [
+                    0,
+                    7
+                ]
+            },
+            {
+                "text": "twitterstorians",
+                "indices": [
+                    120,
+                    136
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "LibSci",
-                    "indices": [
-                        0,
-                        7
-                    ]
-                },
-                {
-                    "text": "twitterstorians",
-                    "indices": [
-                        120,
-                        136
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "HistoryAtState",
-                    "name": "HistoryAtState",
-                    "id": 586570880,
-                    "id_str": "586570880",
-                    "indices": [
-                        46,
-                        61
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "http://t.co/NLXF0Sf40w",
-                    "expanded_url": "http://www.state.gov/vsfs/243849.htm",
-                    "display_url": "state.gov/vsfs/243849.htm",
-                    "indices": [
-                        97,
-                        119
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 1,
-        "favorite_count": 1,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "HistoryAtState",
+                "name": "HistoryAtState",
+                "id": 586570880,
+                "id_str": "586570880",
+                "indices": [
+                    46,
+                    61
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "http://t.co/NLXF0Sf40w",
+                "expanded_url": "http://www.state.gov/vsfs/243849.htm",
+                "display_url": "state.gov/vsfs/243849.htm",
+                "indices": [
+                    97,
+                    119
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

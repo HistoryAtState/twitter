@@ -1,65 +1,63 @@
-[
-    {
-        "created_at": "Fri Apr 04 12:05:44 +0000 2014",
-        "id": 452054406843076608,
-        "id_str": "452054406843076608",
-        "full_text": "#twitterstorians in Kansas City: attend our panel \u201cTransforming Legacies: Cooperation, Memory, &amp; #WWI\u201d tom 10:15am http://t.co/izL7tpaeD8",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            141
+{
+    "created_at": "Fri Apr 04 12:05:44 +0000 2014",
+    "id": 452054406843076610,
+    "id_str": "452054406843076608",
+    "full_text": "#twitterstorians in Kansas City: attend our panel “Transforming Legacies: Cooperation, Memory, &amp;amp; #WWI” tom 10:15am http://t.co/izL7tpaeD8",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        141
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "twitterstorians",
+                "indices": [
+                    0,
+                    16
+                ]
+            },
+            {
+                "text": "WWI",
+                "indices": [
+                    101,
+                    105
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "twitterstorians",
-                    "indices": [
-                        0,
-                        16
-                    ]
-                },
-                {
-                    "text": "WWI",
-                    "indices": [
-                        101,
-                        105
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "http://t.co/izL7tpaeD8",
-                    "expanded_url": "http://ow.ly/v4r1H",
-                    "display_url": "ow.ly/v4r1H",
-                    "indices": [
-                        119,
-                        141
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 0,
-        "favorite_count": 1,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "http://t.co/izL7tpaeD8",
+                "expanded_url": "http://ow.ly/v4r1H",
+                "display_url": "ow.ly/v4r1H",
+                "indices": [
+                    119,
+                    141
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

@@ -1,127 +1,125 @@
-[
-    {
-        "created_at": "Tue Oct 29 17:25:18 +0000 2013",
-        "id": 395239933746487296,
-        "id_str": "395239933746487296",
-        "full_text": "RT @cunyGClibrary: Today at 4pm: Join us for a research workshop on historical diplomatic documentation w/ @HistoryAtState http://t.co/iHRv\u2026",
+{
+    "created_at": "Tue Oct 29 17:25:18 +0000 2013",
+    "id": 395239933746487300,
+    "id_str": "395239933746487296",
+    "full_text": "RT @cunyGClibrary: Today at 4pm: Join us for a research workshop on historical diplomatic documentation w/ @HistoryAtState http://t.co/iHRv…",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "cunyGClibrary",
+                "name": "Mina Rees Library | The Graduate Center, CUNY",
+                "id": 46260308,
+                "id_str": "46260308",
+                "indices": [
+                    3,
+                    17
+                ]
+            },
+            {
+                "screen_name": "HistoryAtState",
+                "name": "HistoryAtState",
+                "id": 586570880,
+                "id_str": "586570880",
+                "indices": [
+                    107,
+                    122
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Oct 29 12:00:42 +0000 2013",
+        "id": 395158247939665920,
+        "id_str": "395158247939665920",
+        "full_text": "Today at 4pm: Join us for a research workshop on historical diplomatic documentation w/ @HistoryAtState http://t.co/iHRvSkV53m #CUNYEvents",
         "truncated": false,
         "display_text_range": [
             0,
-            140
+            138
         ],
         "entities": {
-            "hashtags": [],
+            "hashtags": [
+                {
+                    "text": "CUNYEvents",
+                    "indices": [
+                        127,
+                        138
+                    ]
+                }
+            ],
             "symbols": [],
             "user_mentions": [
-                {
-                    "screen_name": "cunyGClibrary",
-                    "name": "Mina Rees Library | The Graduate Center, CUNY",
-                    "id": 46260308,
-                    "id_str": "46260308",
-                    "indices": [
-                        3,
-                        17
-                    ]
-                },
                 {
                     "screen_name": "HistoryAtState",
                     "name": "HistoryAtState",
                     "id": 586570880,
                     "id_str": "586570880",
                     "indices": [
-                        107,
-                        122
+                        88,
+                        103
                     ]
                 }
             ],
-            "urls": []
+            "urls": [
+                {
+                    "url": "http://t.co/iHRvSkV53m",
+                    "expanded_url": "http://ow.ly/q4O2I",
+                    "display_url": "ow.ly/q4O2I",
+                    "indices": [
+                        104,
+                        126
+                    ]
+                }
+            ]
         },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+        "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
         "in_reply_to_screen_name": null,
         "user": {
-            "id": 586570880,
-            "id_str": "586570880"
+            "id": 46260308,
+            "id_str": "46260308"
         },
         "geo": null,
         "coordinates": null,
         "place": null,
         "contributors": null,
-        "retweeted_status": {
-            "created_at": "Tue Oct 29 12:00:42 +0000 2013",
-            "id": 395158247939665920,
-            "id_str": "395158247939665920",
-            "full_text": "Today at 4pm: Join us for a research workshop on historical diplomatic documentation w/ @HistoryAtState http://t.co/iHRvSkV53m #CUNYEvents",
-            "truncated": false,
-            "display_text_range": [
-                0,
-                138
-            ],
-            "entities": {
-                "hashtags": [
-                    {
-                        "text": "CUNYEvents",
-                        "indices": [
-                            127,
-                            138
-                        ]
-                    }
-                ],
-                "symbols": [],
-                "user_mentions": [
-                    {
-                        "screen_name": "HistoryAtState",
-                        "name": "HistoryAtState",
-                        "id": 586570880,
-                        "id_str": "586570880",
-                        "indices": [
-                            88,
-                            103
-                        ]
-                    }
-                ],
-                "urls": [
-                    {
-                        "url": "http://t.co/iHRvSkV53m",
-                        "expanded_url": "http://ow.ly/q4O2I",
-                        "display_url": "ow.ly/q4O2I",
-                        "indices": [
-                            104,
-                            126
-                        ]
-                    }
-                ]
-            },
-            "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
-            "user": {
-                "id": 46260308,
-                "id_str": "46260308"
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "is_quote_status": false,
-            "retweet_count": 2,
-            "favorite_count": 0,
-            "favorited": false,
-            "retweeted": true,
-            "possibly_sensitive": false,
-            "lang": "en"
-        },
         "is_quote_status": false,
         "retweet_count": 2,
         "favorite_count": 0,
         "favorited": false,
         "retweeted": true,
+        "possibly_sensitive": false,
         "lang": "en"
-    }
-]
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "en"
+}

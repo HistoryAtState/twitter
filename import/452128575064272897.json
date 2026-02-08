@@ -1,58 +1,56 @@
-[
-    {
-        "created_at": "Fri Apr 04 17:00:27 +0000 2014",
-        "id": 452128575064272897,
-        "id_str": "452128575064272897",
-        "full_text": "How did President Carter strengthen the southern tier of the NATO alliance? http://t.co/roX8tnT80Y #FRUS",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            104
+{
+    "created_at": "Fri Apr 04 17:00:27 +0000 2014",
+    "id": 452128575064272900,
+    "id_str": "452128575064272897",
+    "full_text": "How did President Carter strengthen the southern tier of the NATO alliance? http://t.co/roX8tnT80Y #FRUS",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        104
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FRUS",
+                "indices": [
+                    99,
+                    104
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        99,
-                        104
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "http://t.co/roX8tnT80Y",
-                    "expanded_url": "http://go.usa.gov/KJRx",
-                    "display_url": "go.usa.gov/KJRx",
-                    "indices": [
-                        76,
-                        98
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 1,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "http://t.co/roX8tnT80Y",
+                "expanded_url": "http://go.usa.gov/KJRx",
+                "display_url": "go.usa.gov/KJRx",
+                "indices": [
+                    76,
+                    98
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

@@ -1,65 +1,63 @@
-[
-    {
-        "created_at": "Thu Nov 15 19:30:37 +0000 2012",
-        "id": 269160496287084545,
-        "id_str": "269160496287084545",
-        "full_text": "Nixon and de Gaulle discuss ending the Vietnam War. Read Western Europe, 1969-1972. http://t.co/ySBnu9y5 #FRUS #twitterstorians",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            127
+{
+    "created_at": "Thu Nov 15 19:30:37 +0000 2012",
+    "id": 269160496287084544,
+    "id_str": "269160496287084545",
+    "full_text": "Nixon and de Gaulle discuss ending the Vietnam War. Read Western Europe, 1969-1972. http://t.co/ySBnu9y5 #FRUS #twitterstorians",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        127
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FRUS",
+                "indices": [
+                    105,
+                    110
+                ]
+            },
+            {
+                "text": "twitterstorians",
+                "indices": [
+                    111,
+                    127
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        105,
-                        110
-                    ]
-                },
-                {
-                    "text": "twitterstorians",
-                    "indices": [
-                        111,
-                        127
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "http://t.co/ySBnu9y5",
-                    "expanded_url": "http://go.usa.gov/YJpm",
-                    "display_url": "go.usa.gov/YJpm",
-                    "indices": [
-                        84,
-                        104
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 2,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "http://t.co/ySBnu9y5",
+                "expanded_url": "http://go.usa.gov/YJpm",
+                "display_url": "go.usa.gov/YJpm",
+                "indices": [
+                    84,
+                    104
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

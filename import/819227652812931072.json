@@ -1,76 +1,74 @@
-[
-    {
-        "created_at": "Wed Jan 11 17:01:07 +0000 2017",
-        "id": 819227652812931072,
-        "id_str": "819227652812931072",
-        "full_text": "#SecretatyofState Elihu Root worked to professionalize and improve the @StateDept from 1905-1909: https://t.co/1OONqruYSM #FRUS",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            127
+{
+    "created_at": "Wed Jan 11 17:01:07 +0000 2017",
+    "id": 819227652812931070,
+    "id_str": "819227652812931072",
+    "full_text": "#SecretatyofState Elihu Root worked to professionalize and improve the @StateDept from 1905-1909: https://t.co/1OONqruYSM #FRUS",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        127
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "SecretatyofState",
+                "indices": [
+                    0,
+                    17
+                ]
+            },
+            {
+                "text": "FRUS",
+                "indices": [
+                    122,
+                    127
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "SecretatyofState",
-                    "indices": [
-                        0,
-                        17
-                    ]
-                },
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        122,
-                        127
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "StateDept",
-                    "name": "Department of State",
-                    "id": 9624742,
-                    "id_str": "9624742",
-                    "indices": [
-                        71,
-                        81
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "https://t.co/1OONqruYSM",
-                    "expanded_url": "https://history.state.gov/departmenthistory/people/root-elihu",
-                    "display_url": "history.state.gov/departmenthist\u2026",
-                    "indices": [
-                        98,
-                        121
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 1,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "StateDept",
+                "name": "Department of State",
+                "id": 9624742,
+                "id_str": "9624742",
+                "indices": [
+                    71,
+                    81
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/1OONqruYSM",
+                "expanded_url": "https://history.state.gov/departmenthistory/people/root-elihu",
+                "display_url": "history.state.gov/departmenthist…",
+                "indices": [
+                    98,
+                    121
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

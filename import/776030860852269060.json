@@ -1,44 +1,102 @@
-[
-    {
-        "created_at": "Wed Sep 14 12:12:29 +0000 2016",
-        "id": 776030860852269060,
-        "id_str": "776030860852269060",
-        "full_text": "RT @AHAhistorians: \u201cResearch &amp; writing is at the heart of what I do every day\": @awmarrs historian @HistoryAtState #AHACareerDiversity http\u2026",
+{
+    "created_at": "Wed Sep 14 12:12:29 +0000 2016",
+    "id": 776030860852269060,
+    "id_str": "776030860852269060",
+    "full_text": "RT @AHAhistorians: “Research &amp;amp; writing is at the heart of what I do every day\": @awmarrs historian @HistoryAtState #AHACareerDiversity http…",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        144
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "AHACareerDiversity",
+                "indices": [
+                    119,
+                    138
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "AHAhistorians",
+                "name": "American Historical Association",
+                "id": 76944176,
+                "id_str": "76944176",
+                "indices": [
+                    3,
+                    17
+                ]
+            },
+            {
+                "screen_name": "awmarrs",
+                "name": "Aaron Marrs",
+                "id": 185890171,
+                "id_str": "185890171",
+                "indices": [
+                    84,
+                    92
+                ]
+            },
+            {
+                "screen_name": "HistoryAtState",
+                "name": "HistoryAtState",
+                "id": 586570880,
+                "id_str": "586570880",
+                "indices": [
+                    103,
+                    118
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Sep 13 19:20:01 +0000 2016",
+        "id": 775776062500253700,
+        "id_str": "775776062500253696",
+        "full_text": "“Research &amp;amp; writing is at the heart of what I do every day\": @awmarrs historian @HistoryAtState #AHACareerDiversity https://t.co/JFuwgkL4OU",
         "truncated": false,
         "display_text_range": [
             0,
-            144
+            143
         ],
         "entities": {
             "hashtags": [
                 {
                     "text": "AHACareerDiversity",
                     "indices": [
-                        119,
-                        138
+                        100,
+                        119
                     ]
                 }
             ],
             "symbols": [],
             "user_mentions": [
                 {
-                    "screen_name": "AHAhistorians",
-                    "name": "American Historical Association",
-                    "id": 76944176,
-                    "id_str": "76944176",
-                    "indices": [
-                        3,
-                        17
-                    ]
-                },
-                {
                     "screen_name": "awmarrs",
                     "name": "Aaron Marrs",
                     "id": 185890171,
                     "id_str": "185890171",
                     "indices": [
-                        84,
-                        92
+                        65,
+                        73
                     ]
                 },
                 {
@@ -47,109 +105,49 @@
                     "id": 586570880,
                     "id_str": "586570880",
                     "indices": [
-                        103,
-                        118
+                        84,
+                        99
                     ]
                 }
             ],
-            "urls": []
+            "urls": [
+                {
+                    "url": "https://t.co/JFuwgkL4OU",
+                    "expanded_url": "http://bit.ly/2cGu3cE",
+                    "display_url": "bit.ly/2cGu3cE",
+                    "indices": [
+                        120,
+                        143
+                    ]
+                }
+            ]
         },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+        "source": "&lt;a href=\"https://sproutsocial.com\" rel=\"nofollow\"&gt;Sprout Social&lt;/a&gt;",
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
         "in_reply_to_screen_name": null,
         "user": {
-            "id": 586570880,
-            "id_str": "586570880"
+            "id": 76944176,
+            "id_str": "76944176"
         },
         "geo": null,
         "coordinates": null,
         "place": null,
         "contributors": null,
-        "retweeted_status": {
-            "created_at": "Tue Sep 13 19:20:01 +0000 2016",
-            "id": 775776062500253696,
-            "id_str": "775776062500253696",
-            "full_text": "\u201cResearch &amp; writing is at the heart of what I do every day\": @awmarrs historian @HistoryAtState #AHACareerDiversity https://t.co/JFuwgkL4OU",
-            "truncated": false,
-            "display_text_range": [
-                0,
-                143
-            ],
-            "entities": {
-                "hashtags": [
-                    {
-                        "text": "AHACareerDiversity",
-                        "indices": [
-                            100,
-                            119
-                        ]
-                    }
-                ],
-                "symbols": [],
-                "user_mentions": [
-                    {
-                        "screen_name": "awmarrs",
-                        "name": "Aaron Marrs",
-                        "id": 185890171,
-                        "id_str": "185890171",
-                        "indices": [
-                            65,
-                            73
-                        ]
-                    },
-                    {
-                        "screen_name": "HistoryAtState",
-                        "name": "HistoryAtState",
-                        "id": 586570880,
-                        "id_str": "586570880",
-                        "indices": [
-                            84,
-                            99
-                        ]
-                    }
-                ],
-                "urls": [
-                    {
-                        "url": "https://t.co/JFuwgkL4OU",
-                        "expanded_url": "http://bit.ly/2cGu3cE",
-                        "display_url": "bit.ly/2cGu3cE",
-                        "indices": [
-                            120,
-                            143
-                        ]
-                    }
-                ]
-            },
-            "source": "\u003ca href=\"https://sproutsocial.com\" rel=\"nofollow\"\u003eSprout Social\u003c/a\u003e",
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
-            "user": {
-                "id": 76944176,
-                "id_str": "76944176"
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "is_quote_status": false,
-            "retweet_count": 10,
-            "favorite_count": 4,
-            "favorited": false,
-            "retweeted": true,
-            "possibly_sensitive": false,
-            "lang": "en"
-        },
         "is_quote_status": false,
         "retweet_count": 10,
-        "favorite_count": 0,
+        "favorite_count": 4,
         "favorited": false,
         "retweeted": true,
+        "possibly_sensitive": false,
         "lang": "en"
-    }
-]
+    },
+    "is_quote_status": false,
+    "retweet_count": 10,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "en"
+}

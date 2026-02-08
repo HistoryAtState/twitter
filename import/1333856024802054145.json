@@ -1,137 +1,135 @@
-[
-    {
-        "created_at": "Tue Dec 01 19:30:32 +0000 2020",
-        "id": 1333856024802054145,
-        "id_str": "1333856024802054145",
-        "full_text": "(3/3) Read a third paper in the #SovietUnion101 series by Jack Matlock: \u201cRussia\u2019s Place in the World: The View from Moscow.\u201d\nhttps://t.co/Adl1rYEwVh https://t.co/sE1EXsHPHM",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            148
+{
+    "created_at": "Tue Dec 01 19:30:32 +0000 2020",
+    "id": 1333856024802054140,
+    "id_str": "1333856024802054145",
+    "full_text": "(3/3) Read a third paper in the #SovietUnion101 series by Jack Matlock: “Russia’s Place in the World: The View from Moscow.”\nhttps://t.co/Adl1rYEwVh https://t.co/sE1EXsHPHM",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        148
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "SovietUnion101",
+                "indices": [
+                    32,
+                    47
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "SovietUnion101",
-                    "indices": [
-                        32,
-                        47
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "https://t.co/Adl1rYEwVh",
-                    "expanded_url": "https://history.state.gov/historicaldocuments/frus1981-88v05/d74",
-                    "display_url": "history.state.gov/historicaldocu\u2026",
-                    "indices": [
-                        125,
-                        148
-                    ]
-                }
-            ],
-            "media": [
-                {
-                    "id": 1333856023355019271,
-                    "id_str": "1333856023355019271",
-                    "indices": [
-                        149,
-                        172
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/EoLO_HWXUAcDE3E.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/EoLO_HWXUAcDE3E.jpg",
-                    "url": "https://t.co/sE1EXsHPHM",
-                    "display_url": "pic.twitter.com/sE1EXsHPHM",
-                    "expanded_url": "https://twitter.com/HistoryAtState/status/1333856024802054145/photo/1",
-                    "type": "photo",
-                    "sizes": {
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
-                        },
-                        "large": {
-                            "w": 1010,
-                            "h": 646,
-                            "resize": "fit"
-                        },
-                        "small": {
-                            "w": 680,
-                            "h": 435,
-                            "resize": "fit"
-                        },
-                        "medium": {
-                            "w": 1010,
-                            "h": 646,
-                            "resize": "fit"
-                        }
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/Adl1rYEwVh",
+                "expanded_url": "https://history.state.gov/historicaldocuments/frus1981-88v05/d74",
+                "display_url": "history.state.gov/historicaldocu…",
+                "indices": [
+                    125,
+                    148
+                ]
+            }
+        ],
+        "media": [
+            {
+                "id": 1333856023355019260,
+                "id_str": "1333856023355019271",
+                "indices": [
+                    149,
+                    172
+                ],
+                "media_url": "http://pbs.twimg.com/media/EoLO_HWXUAcDE3E.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EoLO_HWXUAcDE3E.jpg",
+                "url": "https://t.co/sE1EXsHPHM",
+                "display_url": "pic.twitter.com/sE1EXsHPHM",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1333856024802054145/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1010,
+                        "h": 646,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 435,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1010,
+                        "h": 646,
+                        "resize": "fit"
                     }
                 }
-            ]
-        },
-        "extended_entities": {
-            "media": [
-                {
-                    "id": 1333856023355019271,
-                    "id_str": "1333856023355019271",
-                    "indices": [
-                        149,
-                        172
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/EoLO_HWXUAcDE3E.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/EoLO_HWXUAcDE3E.jpg",
-                    "url": "https://t.co/sE1EXsHPHM",
-                    "display_url": "pic.twitter.com/sE1EXsHPHM",
-                    "expanded_url": "https://twitter.com/HistoryAtState/status/1333856024802054145/photo/1",
-                    "type": "photo",
-                    "sizes": {
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
-                        },
-                        "large": {
-                            "w": 1010,
-                            "h": 646,
-                            "resize": "fit"
-                        },
-                        "small": {
-                            "w": 680,
-                            "h": 435,
-                            "resize": "fit"
-                        },
-                        "medium": {
-                            "w": 1010,
-                            "h": 646,
-                            "resize": "fit"
-                        }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1333856023355019260,
+                "id_str": "1333856023355019271",
+                "indices": [
+                    149,
+                    172
+                ],
+                "media_url": "http://pbs.twimg.com/media/EoLO_HWXUAcDE3E.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EoLO_HWXUAcDE3E.jpg",
+                "url": "https://t.co/sE1EXsHPHM",
+                "display_url": "pic.twitter.com/sE1EXsHPHM",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1333856024802054145/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
                     },
-                    "ext_alt_text": "Screenshot of first page of the Memorandum from the President's Assistant for National Security Affairs (McFarlane) to President Reagan: This third paper in the series “deals with the Soviet and Russian view of their place in the world and follows on the two you have already seen on the nature of the Soviet Union and Soviet psychology.”"
-                }
-            ]
-        },
-        "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 1,
-        "favorite_count": 3,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+                    "large": {
+                        "w": 1010,
+                        "h": 646,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 435,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1010,
+                        "h": 646,
+                        "resize": "fit"
+                    }
+                },
+                "ext_alt_text": "Screenshot of first page of the Memorandum from the President's Assistant for National Security Affairs (McFarlane) to President Reagan: This third paper in the series “deals with the Soviet and Russian view of their place in the world and follows on the two you have already seen on the nature of the Soviet Union and Soviet psychology.”"
+            }
+        ]
+    },
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

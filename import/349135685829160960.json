@@ -1,50 +1,48 @@
-[
-    {
-        "created_at": "Mon Jun 24 12:03:28 +0000 2013",
-        "id": 349135685829160960,
-        "id_str": "349135685829160960",
-        "full_text": "At Kennedy Administration\u2019s urging, Congress established separate Agency for International Development (AID) in 1961 http://t.co/rlTAb3mYWy",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            139
-        ],
-        "entities": {
-            "hashtags": [],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "http://t.co/rlTAb3mYWy",
-                    "expanded_url": "http://go.usa.gov/bc8m",
-                    "display_url": "go.usa.gov/bc8m",
-                    "indices": [
-                        117,
-                        139
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 0,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+{
+    "created_at": "Mon Jun 24 12:03:28 +0000 2013",
+    "id": 349135685829160960,
+    "id_str": "349135685829160960",
+    "full_text": "At Kennedy Administration’s urging, Congress established separate Agency for International Development (AID) in 1961 http://t.co/rlTAb3mYWy",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "http://t.co/rlTAb3mYWy",
+                "expanded_url": "http://go.usa.gov/bc8m",
+                "display_url": "go.usa.gov/bc8m",
+                "indices": [
+                    117,
+                    139
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

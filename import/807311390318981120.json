@@ -1,144 +1,142 @@
-[
-    {
-        "created_at": "Fri Dec 09 19:50:09 +0000 2016",
-        "id": 807311390318981120,
-        "id_str": "807311390318981120",
-        "full_text": "1962, Khrushchev wrote Kennedy congratulating John Glenn on being 1st American to orbit Earth #RIPJohnGlenn #FRUS https://t.co/LowGO7NgP1 https://t.co/QPMUecNluY",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            137
+{
+    "created_at": "Fri Dec 09 19:50:09 +0000 2016",
+    "id": 807311390318981120,
+    "id_str": "807311390318981120",
+    "full_text": "1962, Khrushchev wrote Kennedy congratulating John Glenn on being 1st American to orbit Earth #RIPJohnGlenn #FRUS https://t.co/LowGO7NgP1 https://t.co/QPMUecNluY",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        137
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "RIPJohnGlenn",
+                "indices": [
+                    94,
+                    107
+                ]
+            },
+            {
+                "text": "FRUS",
+                "indices": [
+                    108,
+                    113
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "RIPJohnGlenn",
-                    "indices": [
-                        94,
-                        107
-                    ]
-                },
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        108,
-                        113
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "https://t.co/LowGO7NgP1",
-                    "expanded_url": "http://go.usa.gov/x8pB6",
-                    "display_url": "go.usa.gov/x8pB6",
-                    "indices": [
-                        114,
-                        137
-                    ]
-                }
-            ],
-            "media": [
-                {
-                    "id": 807311386376359936,
-                    "id_str": "807311386376359936",
-                    "indices": [
-                        138,
-                        161
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/CzQlbbgXUAAu0nX.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/CzQlbbgXUAAu0nX.jpg",
-                    "url": "https://t.co/QPMUecNluY",
-                    "display_url": "pic.twitter.com/QPMUecNluY",
-                    "expanded_url": "https://twitter.com/HistoryAtState/status/807311390318981120/photo/1",
-                    "type": "photo",
-                    "sizes": {
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
-                        },
-                        "small": {
-                            "w": 680,
-                            "h": 502,
-                            "resize": "fit"
-                        },
-                        "medium": {
-                            "w": 1200,
-                            "h": 885,
-                            "resize": "fit"
-                        },
-                        "large": {
-                            "w": 1528,
-                            "h": 1127,
-                            "resize": "fit"
-                        }
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/LowGO7NgP1",
+                "expanded_url": "http://go.usa.gov/x8pB6",
+                "display_url": "go.usa.gov/x8pB6",
+                "indices": [
+                    114,
+                    137
+                ]
+            }
+        ],
+        "media": [
+            {
+                "id": 807311386376359940,
+                "id_str": "807311386376359936",
+                "indices": [
+                    138,
+                    161
+                ],
+                "media_url": "http://pbs.twimg.com/media/CzQlbbgXUAAu0nX.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CzQlbbgXUAAu0nX.jpg",
+                "url": "https://t.co/QPMUecNluY",
+                "display_url": "pic.twitter.com/QPMUecNluY",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/807311390318981120/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 502,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 885,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1528,
+                        "h": 1127,
+                        "resize": "fit"
                     }
                 }
-            ]
-        },
-        "extended_entities": {
-            "media": [
-                {
-                    "id": 807311386376359936,
-                    "id_str": "807311386376359936",
-                    "indices": [
-                        138,
-                        161
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/CzQlbbgXUAAu0nX.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/CzQlbbgXUAAu0nX.jpg",
-                    "url": "https://t.co/QPMUecNluY",
-                    "display_url": "pic.twitter.com/QPMUecNluY",
-                    "expanded_url": "https://twitter.com/HistoryAtState/status/807311390318981120/photo/1",
-                    "type": "photo",
-                    "sizes": {
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
-                        },
-                        "small": {
-                            "w": 680,
-                            "h": 502,
-                            "resize": "fit"
-                        },
-                        "medium": {
-                            "w": 1200,
-                            "h": 885,
-                            "resize": "fit"
-                        },
-                        "large": {
-                            "w": 1528,
-                            "h": 1127,
-                            "resize": "fit"
-                        }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 807311386376359940,
+                "id_str": "807311386376359936",
+                "indices": [
+                    138,
+                    161
+                ],
+                "media_url": "http://pbs.twimg.com/media/CzQlbbgXUAAu0nX.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CzQlbbgXUAAu0nX.jpg",
+                "url": "https://t.co/QPMUecNluY",
+                "display_url": "pic.twitter.com/QPMUecNluY",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/807311390318981120/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
                     },
-                    "ext_alt_text": null
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 3,
-        "favorite_count": 12,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+                    "small": {
+                        "w": 680,
+                        "h": 502,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 885,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1528,
+                        "h": 1127,
+                        "resize": "fit"
+                    }
+                },
+                "ext_alt_text": null
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 12,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

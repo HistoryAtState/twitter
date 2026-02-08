@@ -1,9 +1,79 @@
-[
-    {
-        "created_at": "Thu Nov 13 21:24:13 +0000 2014",
-        "id": 533007450358951936,
-        "id_str": "533007450358951936",
-        "full_text": "RT @RonAJohnson: @HistoryAtState Stephhen Randolph stopped by @afsatweets Book Market to discuss @StateDept role in early US diplomacy http\u2026",
+{
+    "created_at": "Thu Nov 13 21:24:13 +0000 2014",
+    "id": 533007450358951940,
+    "id_str": "533007450358951936",
+    "full_text": "RT @RonAJohnson: @HistoryAtState Stephhen Randolph stopped by @afsatweets Book Market to discuss @StateDept role in early US diplomacy http…",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "RonAJohnson",
+                "name": "Ronald #WeAreAllEqual Johnson",
+                "id": 126667940,
+                "id_str": "126667940",
+                "indices": [
+                    3,
+                    15
+                ]
+            },
+            {
+                "screen_name": "HistoryAtState",
+                "name": "HistoryAtState",
+                "id": 586570880,
+                "id_str": "586570880",
+                "indices": [
+                    17,
+                    32
+                ]
+            },
+            {
+                "screen_name": "afsatweets",
+                "name": "AFSA",
+                "id": 134905400,
+                "id_str": "134905400",
+                "indices": [
+                    62,
+                    73
+                ]
+            },
+            {
+                "screen_name": "StateDept",
+                "name": "Department of State",
+                "id": 9624742,
+                "id_str": "9624742",
+                "indices": [
+                    97,
+                    107
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Nov 13 21:19:27 +0000 2014",
+        "id": 533006249835913220,
+        "id_str": "533006249835913216",
+        "full_text": "@HistoryAtState Stephhen Randolph stopped by @afsatweets Book Market to discuss @StateDept role in early US diplomacy http://t.co/36FoLZvk13",
         "truncated": false,
         "display_text_range": [
             0,
@@ -14,23 +84,13 @@
             "symbols": [],
             "user_mentions": [
                 {
-                    "screen_name": "RonAJohnson",
-                    "name": "Ronald #WeAreAllEqual Johnson",
-                    "id": 126667940,
-                    "id_str": "126667940",
-                    "indices": [
-                        3,
-                        15
-                    ]
-                },
-                {
                     "screen_name": "HistoryAtState",
                     "name": "HistoryAtState",
                     "id": 586570880,
                     "id_str": "586570880",
                     "indices": [
-                        17,
-                        32
+                        0,
+                        15
                     ]
                 },
                 {
@@ -39,8 +99,8 @@
                     "id": 134905400,
                     "id_str": "134905400",
                     "indices": [
-                        62,
-                        73
+                        45,
+                        56
                     ]
                 },
                 {
@@ -49,225 +109,163 @@
                     "id": 9624742,
                     "id_str": "9624742",
                     "indices": [
-                        97,
-                        107
+                        80,
+                        90
                     ]
                 }
             ],
-            "urls": []
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "retweeted_status": {
-            "created_at": "Thu Nov 13 21:19:27 +0000 2014",
-            "id": 533006249835913216,
-            "id_str": "533006249835913216",
-            "full_text": "@HistoryAtState Stephhen Randolph stopped by @afsatweets Book Market to discuss @StateDept role in early US diplomacy http://t.co/36FoLZvk13",
-            "truncated": false,
-            "display_text_range": [
-                0,
-                140
-            ],
-            "entities": {
-                "hashtags": [],
-                "symbols": [],
-                "user_mentions": [
-                    {
-                        "screen_name": "HistoryAtState",
-                        "name": "HistoryAtState",
-                        "id": 586570880,
-                        "id_str": "586570880",
-                        "indices": [
-                            0,
-                            15
-                        ]
-                    },
-                    {
-                        "screen_name": "afsatweets",
-                        "name": "AFSA",
-                        "id": 134905400,
-                        "id_str": "134905400",
-                        "indices": [
-                            45,
-                            56
-                        ]
-                    },
-                    {
-                        "screen_name": "StateDept",
-                        "name": "Department of State",
-                        "id": 9624742,
-                        "id_str": "9624742",
-                        "indices": [
-                            80,
-                            90
-                        ]
-                    }
-                ],
-                "urls": [],
-                "media": [
-                    {
-                        "id": 533006249567457282,
-                        "id_str": "533006249567457282",
-                        "indices": [
-                            118,
-                            140
-                        ],
-                        "media_url": "http://pbs.twimg.com/media/B2WeXCiIEAI2iaH.jpg",
-                        "media_url_https": "https://pbs.twimg.com/media/B2WeXCiIEAI2iaH.jpg",
-                        "url": "http://t.co/36FoLZvk13",
-                        "display_url": "pic.twitter.com/36FoLZvk13",
-                        "expanded_url": "https://twitter.com/RonAJohnson/status/533006249835913216/photo/1",
-                        "type": "photo",
-                        "sizes": {
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
-                            "large": {
-                                "w": 716,
-                                "h": 960,
-                                "resize": "fit"
-                            },
-                            "small": {
-                                "w": 507,
-                                "h": 680,
-                                "resize": "fit"
-                            },
-                            "medium": {
-                                "w": 716,
-                                "h": 960,
-                                "resize": "fit"
-                            }
+            "urls": [],
+            "media": [
+                {
+                    "id": 533006249567457280,
+                    "id_str": "533006249567457282",
+                    "indices": [
+                        118,
+                        140
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/B2WeXCiIEAI2iaH.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/B2WeXCiIEAI2iaH.jpg",
+                    "url": "http://t.co/36FoLZvk13",
+                    "display_url": "pic.twitter.com/36FoLZvk13",
+                    "expanded_url": "https://twitter.com/RonAJohnson/status/533006249835913216/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 716,
+                            "h": 960,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 507,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 716,
+                            "h": 960,
+                            "resize": "fit"
                         }
                     }
-                ]
-            },
-            "extended_entities": {
-                "media": [
-                    {
-                        "id": 533006249567457282,
-                        "id_str": "533006249567457282",
-                        "indices": [
-                            118,
-                            140
-                        ],
-                        "media_url": "http://pbs.twimg.com/media/B2WeXCiIEAI2iaH.jpg",
-                        "media_url_https": "https://pbs.twimg.com/media/B2WeXCiIEAI2iaH.jpg",
-                        "url": "http://t.co/36FoLZvk13",
-                        "display_url": "pic.twitter.com/36FoLZvk13",
-                        "expanded_url": "https://twitter.com/RonAJohnson/status/533006249835913216/photo/1",
-                        "type": "photo",
-                        "sizes": {
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
-                            "large": {
-                                "w": 716,
-                                "h": 960,
-                                "resize": "fit"
-                            },
-                            "small": {
-                                "w": 507,
-                                "h": 680,
-                                "resize": "fit"
-                            },
-                            "medium": {
-                                "w": 716,
-                                "h": 960,
-                                "resize": "fit"
-                            }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 533006249567457280,
+                    "id_str": "533006249567457282",
+                    "indices": [
+                        118,
+                        140
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/B2WeXCiIEAI2iaH.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/B2WeXCiIEAI2iaH.jpg",
+                    "url": "http://t.co/36FoLZvk13",
+                    "display_url": "pic.twitter.com/36FoLZvk13",
+                    "expanded_url": "https://twitter.com/RonAJohnson/status/533006249835913216/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
                         },
-                        "ext_alt_text": null
-                    }
-                ]
-            },
-            "source": "\u003ca href=\"http://www.apple.com\" rel=\"nofollow\"\u003eiOS\u003c/a\u003e",
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": 586570880,
-            "in_reply_to_user_id_str": "586570880",
-            "in_reply_to_screen_name": "HistoryAtState",
-            "user": {
-                "id": 126667940,
-                "id_str": "126667940"
-            },
-            "geo": {
-                "type": "Point",
+                        "large": {
+                            "w": 716,
+                            "h": 960,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 507,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 716,
+                            "h": 960,
+                            "resize": "fit"
+                        }
+                    },
+                    "ext_alt_text": null
+                }
+            ]
+        },
+        "source": "&lt;a href=\"http://www.apple.com\" rel=\"nofollow\"&gt;iOS&lt;/a&gt;",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 586570880,
+        "in_reply_to_user_id_str": "586570880",
+        "in_reply_to_screen_name": "HistoryAtState",
+        "user": {
+            "id": 126667940,
+            "id_str": "126667940"
+        },
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                38.892637,
+                -77.012369
+            ]
+        },
+        "coordinates": {
+            "type": "Point",
+            "coordinates": [
+                -77.012369,
+                38.892637
+            ]
+        },
+        "place": {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
                 "coordinates": [
-                    38.892637,
-                    -77.012369
-                ]
-            },
-            "coordinates": {
-                "type": "Point",
-                "coordinates": [
-                    -77.012369,
-                    38.892637
-                ]
-            },
-            "place": {
-                "id": "01fbe706f872cb32",
-                "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
-                "place_type": "city",
-                "name": "Washington",
-                "full_name": "Washington, DC",
-                "country_code": "US",
-                "country": "United States",
-                "contained_within": [],
-                "bounding_box": {
-                    "type": "Polygon",
-                    "coordinates": [
+                    [
                         [
-                            [
-                                -77.119401,
-                                38.801826
-                            ],
-                            [
-                                -76.909396,
-                                38.801826
-                            ],
-                            [
-                                -76.909396,
-                                38.9953797
-                            ],
-                            [
-                                -77.119401,
-                                38.9953797
-                            ]
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
                         ]
                     ]
-                },
-                "attributes": {}
+                ]
             },
-            "contributors": null,
-            "is_quote_status": false,
-            "retweet_count": 1,
-            "favorite_count": 1,
-            "favorited": false,
-            "retweeted": true,
-            "possibly_sensitive": false,
-            "lang": "en"
+            "attributes": {}
         },
+        "contributors": null,
         "is_quote_status": false,
         "retweet_count": 1,
-        "favorite_count": 0,
+        "favorite_count": 1,
         "favorited": false,
         "retweeted": true,
+        "possibly_sensitive": false,
         "lang": "en"
-    }
-]
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "en"
+}

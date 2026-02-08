@@ -1,65 +1,63 @@
-[
-    {
-        "created_at": "Wed Oct 01 11:35:38 +0000 2014",
-        "id": 517276649801650177,
-        "id_str": "517276649801650177",
-        "full_text": "Explore US-Moroccan relations in Foreign Relations, North Africa, 1973\u20131976: http://t.co/6S81V90BXp #FRUS #twitterstorians",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            122
+{
+    "created_at": "Wed Oct 01 11:35:38 +0000 2014",
+    "id": 517276649801650180,
+    "id_str": "517276649801650177",
+    "full_text": "Explore US-Moroccan relations in Foreign Relations, North Africa, 1973–1976: http://t.co/6S81V90BXp #FRUS #twitterstorians",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        122
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FRUS",
+                "indices": [
+                    100,
+                    105
+                ]
+            },
+            {
+                "text": "twitterstorians",
+                "indices": [
+                    106,
+                    122
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        100,
-                        105
-                    ]
-                },
-                {
-                    "text": "twitterstorians",
-                    "indices": [
-                        106,
-                        122
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "http://t.co/6S81V90BXp",
-                    "expanded_url": "http://go.usa.gov/dpAx",
-                    "display_url": "go.usa.gov/dpAx",
-                    "indices": [
-                        77,
-                        99
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 0,
-        "favorite_count": 1,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "http://t.co/6S81V90BXp",
+                "expanded_url": "http://go.usa.gov/dpAx",
+                "display_url": "go.usa.gov/dpAx",
+                "indices": [
+                    77,
+                    99
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

@@ -1,44 +1,102 @@
-[
-    {
-        "created_at": "Wed Oct 28 12:23:45 +0000 2015",
-        "id": 659344801222021121,
-        "id_str": "659344801222021121",
-        "full_text": "RT @DiplomacyCenter: Today at 1PM ET is our Google hangout w/@HistoryatState! Tweet questions w/ #USDCBerlinWall https://t.co/M9npYtK9ED ht\u2026",
+{
+    "created_at": "Wed Oct 28 12:23:45 +0000 2015",
+    "id": 659344801222021120,
+    "id_str": "659344801222021121",
+    "full_text": "RT @DiplomacyCenter: Today at 1PM ET is our Google hangout w/@HistoryatState! Tweet questions w/ #USDCBerlinWall https://t.co/M9npYtK9ED ht…",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "USDCBerlinWall",
+                "indices": [
+                    97,
+                    112
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "diplomacycenter",
+                "name": "NMAD Museum",
+                "id": 1180122509204701180,
+                "id_str": "1180122509204701186",
+                "indices": [
+                    3,
+                    19
+                ]
+            },
+            {
+                "screen_name": "HistoryAtState",
+                "name": "HistoryAtState",
+                "id": 586570880,
+                "id_str": "586570880",
+                "indices": [
+                    61,
+                    76
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/M9npYtK9ED",
+                "expanded_url": "http://goo.gl/Nk3Ne3",
+                "display_url": "goo.gl/Nk3Ne3",
+                "indices": [
+                    113,
+                    136
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Oct 28 12:17:06 +0000 2015",
+        "id": 659343127082332160,
+        "id_str": "659343127082332160",
+        "full_text": "Today at 1PM ET is our Google hangout w/@HistoryatState! Tweet questions w/ #USDCBerlinWall https://t.co/M9npYtK9ED https://t.co/CTBfB5Wuia",
         "truncated": false,
         "display_text_range": [
             0,
-            140
+            139
         ],
         "entities": {
             "hashtags": [
                 {
                     "text": "USDCBerlinWall",
                     "indices": [
-                        97,
-                        112
+                        76,
+                        91
                     ]
                 }
             ],
             "symbols": [],
             "user_mentions": [
                 {
-                    "screen_name": "diplomacycenter",
-                    "name": "NMAD Museum",
-                    "id": 1180122509204701186,
-                    "id_str": "1180122509204701186",
-                    "indices": [
-                        3,
-                        19
-                    ]
-                },
-                {
                     "screen_name": "HistoryAtState",
                     "name": "HistoryAtState",
                     "id": 586570880,
                     "id_str": "586570880",
                     "indices": [
-                        61,
-                        76
+                        40,
+                        55
                     ]
                 }
             ],
@@ -48,178 +106,118 @@
                     "expanded_url": "http://goo.gl/Nk3Ne3",
                     "display_url": "goo.gl/Nk3Ne3",
                     "indices": [
-                        113,
-                        136
+                        92,
+                        115
                     ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 659343126260113410,
+                    "id_str": "659343126260113408",
+                    "indices": [
+                        116,
+                        139
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CSZ1FHnUYAA58XQ.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CSZ1FHnUYAA58XQ.jpg",
+                    "url": "https://t.co/CTBfB5Wuia",
+                    "display_url": "pic.twitter.com/CTBfB5Wuia",
+                    "expanded_url": "https://twitter.com/DiplomacyCenter/status/659343127082332160/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 355,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1200,
+                            "h": 627,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 627,
+                            "resize": "fit"
+                        }
+                    }
                 }
             ]
         },
-        "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 659343126260113410,
+                    "id_str": "659343126260113408",
+                    "indices": [
+                        116,
+                        139
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CSZ1FHnUYAA58XQ.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CSZ1FHnUYAA58XQ.jpg",
+                    "url": "https://t.co/CTBfB5Wuia",
+                    "display_url": "pic.twitter.com/CTBfB5Wuia",
+                    "expanded_url": "https://twitter.com/DiplomacyCenter/status/659343127082332160/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 355,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1200,
+                            "h": 627,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 627,
+                            "resize": "fit"
+                        }
+                    },
+                    "ext_alt_text": null
+                }
+            ]
+        },
+        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
         "in_reply_to_screen_name": null,
         "user": {
-            "id": 586570880,
-            "id_str": "586570880"
+            "id": 2648849144,
+            "id_str": "2648849144"
         },
         "geo": null,
         "coordinates": null,
         "place": null,
         "contributors": null,
-        "retweeted_status": {
-            "created_at": "Wed Oct 28 12:17:06 +0000 2015",
-            "id": 659343127082332160,
-            "id_str": "659343127082332160",
-            "full_text": "Today at 1PM ET is our Google hangout w/@HistoryatState! Tweet questions w/ #USDCBerlinWall https://t.co/M9npYtK9ED https://t.co/CTBfB5Wuia",
-            "truncated": false,
-            "display_text_range": [
-                0,
-                139
-            ],
-            "entities": {
-                "hashtags": [
-                    {
-                        "text": "USDCBerlinWall",
-                        "indices": [
-                            76,
-                            91
-                        ]
-                    }
-                ],
-                "symbols": [],
-                "user_mentions": [
-                    {
-                        "screen_name": "HistoryAtState",
-                        "name": "HistoryAtState",
-                        "id": 586570880,
-                        "id_str": "586570880",
-                        "indices": [
-                            40,
-                            55
-                        ]
-                    }
-                ],
-                "urls": [
-                    {
-                        "url": "https://t.co/M9npYtK9ED",
-                        "expanded_url": "http://goo.gl/Nk3Ne3",
-                        "display_url": "goo.gl/Nk3Ne3",
-                        "indices": [
-                            92,
-                            115
-                        ]
-                    }
-                ],
-                "media": [
-                    {
-                        "id": 659343126260113408,
-                        "id_str": "659343126260113408",
-                        "indices": [
-                            116,
-                            139
-                        ],
-                        "media_url": "http://pbs.twimg.com/media/CSZ1FHnUYAA58XQ.jpg",
-                        "media_url_https": "https://pbs.twimg.com/media/CSZ1FHnUYAA58XQ.jpg",
-                        "url": "https://t.co/CTBfB5Wuia",
-                        "display_url": "pic.twitter.com/CTBfB5Wuia",
-                        "expanded_url": "https://twitter.com/DiplomacyCenter/status/659343127082332160/photo/1",
-                        "type": "photo",
-                        "sizes": {
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
-                            "small": {
-                                "w": 680,
-                                "h": 355,
-                                "resize": "fit"
-                            },
-                            "large": {
-                                "w": 1200,
-                                "h": 627,
-                                "resize": "fit"
-                            },
-                            "medium": {
-                                "w": 1200,
-                                "h": 627,
-                                "resize": "fit"
-                            }
-                        }
-                    }
-                ]
-            },
-            "extended_entities": {
-                "media": [
-                    {
-                        "id": 659343126260113408,
-                        "id_str": "659343126260113408",
-                        "indices": [
-                            116,
-                            139
-                        ],
-                        "media_url": "http://pbs.twimg.com/media/CSZ1FHnUYAA58XQ.jpg",
-                        "media_url_https": "https://pbs.twimg.com/media/CSZ1FHnUYAA58XQ.jpg",
-                        "url": "https://t.co/CTBfB5Wuia",
-                        "display_url": "pic.twitter.com/CTBfB5Wuia",
-                        "expanded_url": "https://twitter.com/DiplomacyCenter/status/659343127082332160/photo/1",
-                        "type": "photo",
-                        "sizes": {
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
-                            "small": {
-                                "w": 680,
-                                "h": 355,
-                                "resize": "fit"
-                            },
-                            "large": {
-                                "w": 1200,
-                                "h": 627,
-                                "resize": "fit"
-                            },
-                            "medium": {
-                                "w": 1200,
-                                "h": 627,
-                                "resize": "fit"
-                            }
-                        },
-                        "ext_alt_text": null
-                    }
-                ]
-            },
-            "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
-            "user": {
-                "id": 2648849144,
-                "id_str": "2648849144"
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "is_quote_status": false,
-            "retweet_count": 21,
-            "favorite_count": 13,
-            "favorited": false,
-            "retweeted": true,
-            "possibly_sensitive": false,
-            "lang": "en"
-        },
         "is_quote_status": false,
         "retweet_count": 21,
-        "favorite_count": 0,
+        "favorite_count": 13,
         "favorited": false,
         "retweeted": true,
         "possibly_sensitive": false,
         "lang": "en"
-    }
-]
+    },
+    "is_quote_status": false,
+    "retweet_count": 21,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

@@ -1,61 +1,59 @@
-[
-    {
-        "created_at": "Thu Jun 19 11:02:36 +0000 2014",
-        "id": 479579998974902272,
-        "id_str": "479579998974902272",
-        "full_text": "Amb. M.Herrick spoke little French in 1912 but prevented Amb. R.Bacon from sailing on The Titanic @USEmbassyFrance http://t.co/1RQLcpa5qQ",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            137
+{
+    "created_at": "Thu Jun 19 11:02:36 +0000 2014",
+    "id": 479579998974902270,
+    "id_str": "479579998974902272",
+    "full_text": "Amb. M.Herrick spoke little French in 1912 but prevented Amb. R.Bacon from sailing on The Titanic @USEmbassyFrance http://t.co/1RQLcpa5qQ",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        137
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "USEmbassyFrance",
+                "name": "U.S. Embassy France",
+                "id": 72814599,
+                "id_str": "72814599",
+                "indices": [
+                    98,
+                    114
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "USEmbassyFrance",
-                    "name": "U.S. Embassy France",
-                    "id": 72814599,
-                    "id_str": "72814599",
-                    "indices": [
-                        98,
-                        114
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "http://t.co/1RQLcpa5qQ",
-                    "expanded_url": "http://ow.ly/ydl9d",
-                    "display_url": "ow.ly/ydl9d",
-                    "indices": [
-                        115,
-                        137
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 5,
-        "favorite_count": 1,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "urls": [
+            {
+                "url": "http://t.co/1RQLcpa5qQ",
+                "expanded_url": "http://ow.ly/ydl9d",
+                "display_url": "ow.ly/ydl9d",
+                "indices": [
+                    115,
+                    137
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

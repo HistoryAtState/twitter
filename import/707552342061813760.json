@@ -1,65 +1,63 @@
-[
-    {
-        "created_at": "Wed Mar 09 13:03:18 +0000 2016",
-        "id": 707552342061813760,
-        "id_str": "707552342061813760",
-        "full_text": "Now available: #FRUS Diplomatic Papers, 1943, British Commonwealth, E. Europe, Far East, Vol. III: https://t.co/HzpqSG3v3q #twitterstorians",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            139
+{
+    "created_at": "Wed Mar 09 13:03:18 +0000 2016",
+    "id": 707552342061813760,
+    "id_str": "707552342061813760",
+    "full_text": "Now available: #FRUS Diplomatic Papers, 1943, British Commonwealth, E. Europe, Far East, Vol. III: https://t.co/HzpqSG3v3q #twitterstorians",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FRUS",
+                "indices": [
+                    15,
+                    20
+                ]
+            },
+            {
+                "text": "twitterstorians",
+                "indices": [
+                    123,
+                    139
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        15,
-                        20
-                    ]
-                },
-                {
-                    "text": "twitterstorians",
-                    "indices": [
-                        123,
-                        139
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "https://t.co/HzpqSG3v3q",
-                    "expanded_url": "https://history.state.gov/historicaldocuments/frus1943v03",
-                    "display_url": "history.state.gov/historicaldocu\u2026",
-                    "indices": [
-                        99,
-                        122
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 0,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/HzpqSG3v3q",
+                "expanded_url": "https://history.state.gov/historicaldocuments/frus1943v03",
+                "display_url": "history.state.gov/historicaldocu…",
+                "indices": [
+                    99,
+                    122
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

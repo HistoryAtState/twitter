@@ -1,175 +1,173 @@
-[
-    {
-        "created_at": "Fri Aug 04 12:28:22 +0000 2017",
-        "id": 893448526058983424,
-        "id_str": "893448526058983424",
-        "full_text": "RT @StateDeptDSS: A DSS agent helps evacuate Americans from Beirut to Cyprus, July 2006\u2014one of the largest overseas evacuations in recent h\u2026",
+{
+    "created_at": "Fri Aug 04 12:28:22 +0000 2017",
+    "id": 893448526058983420,
+    "id_str": "893448526058983424",
+    "full_text": "RT @StateDeptDSS: A DSS agent helps evacuate Americans from Beirut to Cyprus, July 2006—one of the largest overseas evacuations in recent h…",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "StateDeptDSS",
+                "name": "statedeptdss",
+                "id": 834799740546056190,
+                "id_str": "834799740546056194",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Aug 03 13:00:52 +0000 2017",
+        "id": 893094315139923970,
+        "id_str": "893094315139923969",
+        "full_text": "A DSS agent helps evacuate Americans from Beirut to Cyprus, July 2006—one of the largest overseas evacuations in recent history. #TBT https://t.co/YmcnLpiMC2",
         "truncated": false,
         "display_text_range": [
             0,
-            140
+            133
         ],
         "entities": {
-            "hashtags": [],
-            "symbols": [],
-            "user_mentions": [
+            "hashtags": [
                 {
-                    "screen_name": "StateDeptDSS",
-                    "name": "statedeptdss",
-                    "id": 834799740546056194,
-                    "id_str": "834799740546056194",
+                    "text": "TBT",
                     "indices": [
-                        3,
-                        16
+                        129,
+                        133
                     ]
                 }
             ],
-            "urls": []
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 893094312497397760,
+                    "id_str": "893094312497397761",
+                    "indices": [
+                        134,
+                        157
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DGToi59UQAE-9f7.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DGToi59UQAE-9f7.jpg",
+                    "url": "https://t.co/YmcnLpiMC2",
+                    "display_url": "pic.twitter.com/YmcnLpiMC2",
+                    "expanded_url": "https://twitter.com/StateDeptDSS/status/893094315139923969/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1199,
+                            "h": 839,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1199,
+                            "h": 839,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 476,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
         },
-        "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 893094312497397760,
+                    "id_str": "893094312497397761",
+                    "indices": [
+                        134,
+                        157
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DGToi59UQAE-9f7.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DGToi59UQAE-9f7.jpg",
+                    "url": "https://t.co/YmcnLpiMC2",
+                    "display_url": "pic.twitter.com/YmcnLpiMC2",
+                    "expanded_url": "https://twitter.com/StateDeptDSS/status/893094315139923969/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1199,
+                            "h": 839,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1199,
+                            "h": 839,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 476,
+                            "resize": "fit"
+                        }
+                    },
+                    "ext_alt_text": null
+                }
+            ]
+        },
+        "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
         "in_reply_to_screen_name": null,
         "user": {
-            "id": 586570880,
-            "id_str": "586570880"
+            "id": 834799740546056190,
+            "id_str": "834799740546056194"
         },
         "geo": null,
         "coordinates": null,
         "place": null,
         "contributors": null,
-        "retweeted_status": {
-            "created_at": "Thu Aug 03 13:00:52 +0000 2017",
-            "id": 893094315139923969,
-            "id_str": "893094315139923969",
-            "full_text": "A DSS agent helps evacuate Americans from Beirut to Cyprus, July 2006\u2014one of the largest overseas evacuations in recent history. #TBT https://t.co/YmcnLpiMC2",
-            "truncated": false,
-            "display_text_range": [
-                0,
-                133
-            ],
-            "entities": {
-                "hashtags": [
-                    {
-                        "text": "TBT",
-                        "indices": [
-                            129,
-                            133
-                        ]
-                    }
-                ],
-                "symbols": [],
-                "user_mentions": [],
-                "urls": [],
-                "media": [
-                    {
-                        "id": 893094312497397761,
-                        "id_str": "893094312497397761",
-                        "indices": [
-                            134,
-                            157
-                        ],
-                        "media_url": "http://pbs.twimg.com/media/DGToi59UQAE-9f7.jpg",
-                        "media_url_https": "https://pbs.twimg.com/media/DGToi59UQAE-9f7.jpg",
-                        "url": "https://t.co/YmcnLpiMC2",
-                        "display_url": "pic.twitter.com/YmcnLpiMC2",
-                        "expanded_url": "https://twitter.com/StateDeptDSS/status/893094315139923969/photo/1",
-                        "type": "photo",
-                        "sizes": {
-                            "large": {
-                                "w": 1199,
-                                "h": 839,
-                                "resize": "fit"
-                            },
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
-                            "medium": {
-                                "w": 1199,
-                                "h": 839,
-                                "resize": "fit"
-                            },
-                            "small": {
-                                "w": 680,
-                                "h": 476,
-                                "resize": "fit"
-                            }
-                        }
-                    }
-                ]
-            },
-            "extended_entities": {
-                "media": [
-                    {
-                        "id": 893094312497397761,
-                        "id_str": "893094312497397761",
-                        "indices": [
-                            134,
-                            157
-                        ],
-                        "media_url": "http://pbs.twimg.com/media/DGToi59UQAE-9f7.jpg",
-                        "media_url_https": "https://pbs.twimg.com/media/DGToi59UQAE-9f7.jpg",
-                        "url": "https://t.co/YmcnLpiMC2",
-                        "display_url": "pic.twitter.com/YmcnLpiMC2",
-                        "expanded_url": "https://twitter.com/StateDeptDSS/status/893094315139923969/photo/1",
-                        "type": "photo",
-                        "sizes": {
-                            "large": {
-                                "w": 1199,
-                                "h": 839,
-                                "resize": "fit"
-                            },
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
-                            "medium": {
-                                "w": 1199,
-                                "h": 839,
-                                "resize": "fit"
-                            },
-                            "small": {
-                                "w": 680,
-                                "h": 476,
-                                "resize": "fit"
-                            }
-                        },
-                        "ext_alt_text": null
-                    }
-                ]
-            },
-            "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
-            "user": {
-                "id": 834799740546056194,
-                "id_str": "834799740546056194"
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "is_quote_status": false,
-            "retweet_count": 8,
-            "favorite_count": 11,
-            "favorited": false,
-            "retweeted": true,
-            "possibly_sensitive": false,
-            "lang": "en"
-        },
         "is_quote_status": false,
         "retweet_count": 8,
-        "favorite_count": 0,
+        "favorite_count": 11,
         "favorited": false,
         "retweeted": true,
+        "possibly_sensitive": false,
         "lang": "en"
-    }
-]
+    },
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "en"
+}

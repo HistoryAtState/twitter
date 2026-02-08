@@ -1,132 +1,130 @@
-[
-    {
-        "created_at": "Tue Feb 25 18:41:52 +0000 2020",
-        "id": 1232375175821365250,
-        "id_str": "1232375175821365250",
-        "full_text": "RT @StateDept: On February 27, the Department of State will honor Dr. Ralph J. Bunche as one of its #HeroesofUSDiplomacy. During #BlackHist\u2026",
+{
+    "created_at": "Tue Feb 25 18:41:52 +0000 2020",
+    "id": 1232375175821365250,
+    "id_str": "1232375175821365250",
+    "full_text": "RT @StateDept: On February 27, the Department of State will honor Dr. Ralph J. Bunche as one of its #HeroesofUSDiplomacy. During #BlackHist…",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "HeroesofUSDiplomacy",
+                "indices": [
+                    100,
+                    120
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "StateDept",
+                "name": "Department of State",
+                "id": 9624742,
+                "id_str": "9624742",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Mon Feb 24 19:35:32 +0000 2020",
+        "id": 1232026290833821700,
+        "id_str": "1232026290833821700",
+        "full_text": "On February 27, the Department of State will honor Dr. Ralph J. Bunche as one of its #HeroesofUSDiplomacy. During #BlackHistoryMonth, Dr. Bunche is being recognized for his diplomatic contributions to the Department, the @UN &amp;amp; the international community. https://t.co/UmVVR3pZBn",
         "truncated": false,
         "display_text_range": [
             0,
-            140
+            283
         ],
         "entities": {
             "hashtags": [
                 {
                     "text": "HeroesofUSDiplomacy",
                     "indices": [
-                        100,
-                        120
+                        85,
+                        105
+                    ]
+                },
+                {
+                    "text": "BlackHistoryMonth",
+                    "indices": [
+                        114,
+                        132
                     ]
                 }
             ],
             "symbols": [],
             "user_mentions": [
                 {
-                    "screen_name": "StateDept",
-                    "name": "Department of State",
-                    "id": 9624742,
-                    "id_str": "9624742",
+                    "screen_name": "UN",
+                    "name": "United Nations",
+                    "id": 14159148,
+                    "id_str": "14159148",
                     "indices": [
-                        3,
-                        13
+                        221,
+                        224
                     ]
                 }
             ],
-            "urls": []
+            "urls": [
+                {
+                    "url": "https://t.co/UmVVR3pZBn",
+                    "expanded_url": "https://go.usa.gov/xdmGv",
+                    "display_url": "go.usa.gov/xdmGv",
+                    "indices": [
+                        260,
+                        283
+                    ]
+                }
+            ]
         },
-        "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+        "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
         "in_reply_to_screen_name": null,
         "user": {
-            "id": 586570880,
-            "id_str": "586570880"
+            "id": 9624742,
+            "id_str": "9624742"
         },
         "geo": null,
         "coordinates": null,
         "place": null,
         "contributors": null,
-        "retweeted_status": {
-            "created_at": "Mon Feb 24 19:35:32 +0000 2020",
-            "id": 1232026290833821700,
-            "id_str": "1232026290833821700",
-            "full_text": "On February 27, the Department of State will honor Dr. Ralph J. Bunche as one of its #HeroesofUSDiplomacy. During #BlackHistoryMonth, Dr. Bunche is being recognized for his diplomatic contributions to the Department, the @UN &amp; the international community. https://t.co/UmVVR3pZBn",
-            "truncated": false,
-            "display_text_range": [
-                0,
-                283
-            ],
-            "entities": {
-                "hashtags": [
-                    {
-                        "text": "HeroesofUSDiplomacy",
-                        "indices": [
-                            85,
-                            105
-                        ]
-                    },
-                    {
-                        "text": "BlackHistoryMonth",
-                        "indices": [
-                            114,
-                            132
-                        ]
-                    }
-                ],
-                "symbols": [],
-                "user_mentions": [
-                    {
-                        "screen_name": "UN",
-                        "name": "United Nations",
-                        "id": 14159148,
-                        "id_str": "14159148",
-                        "indices": [
-                            221,
-                            224
-                        ]
-                    }
-                ],
-                "urls": [
-                    {
-                        "url": "https://t.co/UmVVR3pZBn",
-                        "expanded_url": "https://go.usa.gov/xdmGv",
-                        "display_url": "go.usa.gov/xdmGv",
-                        "indices": [
-                            260,
-                            283
-                        ]
-                    }
-                ]
-            },
-            "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
-            "user": {
-                "id": 9624742,
-                "id_str": "9624742"
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "is_quote_status": false,
-            "retweet_count": 50,
-            "favorite_count": 184,
-            "favorited": true,
-            "retweeted": true,
-            "possibly_sensitive": false,
-            "lang": "en"
-        },
         "is_quote_status": false,
         "retweet_count": 50,
-        "favorite_count": 0,
+        "favorite_count": 184,
         "favorited": true,
         "retweeted": true,
+        "possibly_sensitive": false,
         "lang": "en"
-    }
-]
+    },
+    "is_quote_status": false,
+    "retweet_count": 50,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "lang": "en"
+}

@@ -1,309 +1,307 @@
-[
-    {
-        "created_at": "Thu Nov 19 20:13:30 +0000 2020",
-        "id": 1329518180184825865,
-        "id_str": "1329518180184825865",
-        "full_text": "RT @FSIatState: Congratulations @HistoryatState\u00a0and #FSI\u2019s Office of the Historian for the release of a new Foreign Relations of the U.S. v\u2026",
+{
+    "created_at": "Thu Nov 19 20:13:30 +0000 2020",
+    "id": 1329518180184825860,
+    "id_str": "1329518180184825865",
+    "full_text": "RT @FSIatState: Congratulations @HistoryatState and #FSI’s Office of the Historian for the release of a new Foreign Relations of the U.S. v…",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FSI",
+                "indices": [
+                    52,
+                    56
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "FSIatState",
+                "name": "Foreign Service Institute",
+                "id": 958044239576948740,
+                "id_str": "958044239576948736",
+                "indices": [
+                    3,
+                    14
+                ]
+            },
+            {
+                "screen_name": "HistoryAtState",
+                "name": "HistoryAtState",
+                "id": 586570880,
+                "id_str": "586570880",
+                "indices": [
+                    32,
+                    47
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Nov 19 17:24:51 +0000 2020",
+        "id": 1329475741063458820,
+        "id_str": "1329475741063458819",
+        "full_text": "Congratulations @HistoryatState and #FSI’s Office of the Historian for the release of a new Foreign Relations of the U.S. volume! This volume covers a really interesting period in our diplomatic history, including the Iran Hostage Crisis. https://t.co/r83qzHJ9Xw",
         "truncated": false,
         "display_text_range": [
             0,
-            140
+            238
         ],
         "entities": {
             "hashtags": [
                 {
                     "text": "FSI",
                     "indices": [
-                        52,
-                        56
+                        36,
+                        40
                     ]
                 }
             ],
             "symbols": [],
             "user_mentions": [
                 {
-                    "screen_name": "FSIatState",
-                    "name": "Foreign Service Institute",
-                    "id": 958044239576948736,
-                    "id_str": "958044239576948736",
-                    "indices": [
-                        3,
-                        14
-                    ]
-                },
-                {
                     "screen_name": "HistoryAtState",
                     "name": "HistoryAtState",
                     "id": 586570880,
                     "id_str": "586570880",
                     "indices": [
-                        32,
-                        47
+                        16,
+                        31
                     ]
                 }
             ],
-            "urls": []
+            "urls": [
+                {
+                    "url": "https://t.co/r83qzHJ9Xw",
+                    "expanded_url": "https://twitter.com/HistoryAtState/status/1328715217556135937",
+                    "display_url": "twitter.com/HistoryAtState…",
+                    "indices": [
+                        239,
+                        262
+                    ]
+                }
+            ]
         },
-        "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+        "source": "&lt;a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"&gt;Twitter for iPhone&lt;/a&gt;",
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
         "in_reply_to_screen_name": null,
         "user": {
-            "id": 586570880,
-            "id_str": "586570880"
+            "id": 958044239576948740,
+            "id_str": "958044239576948736"
         },
         "geo": null,
         "coordinates": null,
         "place": null,
         "contributors": null,
-        "retweeted_status": {
-            "created_at": "Thu Nov 19 17:24:51 +0000 2020",
-            "id": 1329475741063458819,
-            "id_str": "1329475741063458819",
-            "full_text": "Congratulations @HistoryatState\u00a0and #FSI\u2019s Office of the Historian for the release of a new Foreign Relations of the U.S. volume! This volume covers a really interesting period in our diplomatic history, including the Iran Hostage Crisis. https://t.co/r83qzHJ9Xw",
+        "is_quote_status": true,
+        "quoted_status_id": 1328715217556135940,
+        "quoted_status_id_str": "1328715217556135937",
+        "quoted_status_permalink": {
+            "url": "https://t.co/r83qzHJ9Xw",
+            "expanded": "https://twitter.com/HistoryAtState/status/1328715217556135937",
+            "display": "twitter.com/HistoryAtState…"
+        },
+        "quoted_status": {
+            "created_at": "Tue Nov 17 15:02:48 +0000 2020",
+            "id": 1328715217556135940,
+            "id_str": "1328715217556135937",
+            "full_text": "The Office of the Historian releases Foreign Relations, 1977–1980, Volume XI, Part 1, Iran: Hostage Crisis, November 1979–September 1980:\nhttps://t.co/fDVWjWAqPP\n#FRUS #FRUSRelease #twitterstorians @CarterLibrary https://t.co/WsfMzuRBrU",
             "truncated": false,
             "display_text_range": [
                 0,
-                238
+                212
             ],
             "entities": {
                 "hashtags": [
                     {
-                        "text": "FSI",
+                        "text": "FRUS",
                         "indices": [
-                            36,
-                            40
+                            162,
+                            167
+                        ]
+                    },
+                    {
+                        "text": "FRUSRelease",
+                        "indices": [
+                            168,
+                            180
+                        ]
+                    },
+                    {
+                        "text": "twitterstorians",
+                        "indices": [
+                            181,
+                            197
                         ]
                     }
                 ],
                 "symbols": [],
                 "user_mentions": [
                     {
-                        "screen_name": "HistoryAtState",
-                        "name": "HistoryAtState",
-                        "id": 586570880,
-                        "id_str": "586570880",
+                        "screen_name": "CarterLibrary",
+                        "name": "Jimmy Carter Presidential Library",
+                        "id": 19660388,
+                        "id_str": "19660388",
                         "indices": [
-                            16,
-                            31
+                            198,
+                            212
                         ]
                     }
                 ],
                 "urls": [
                     {
-                        "url": "https://t.co/r83qzHJ9Xw",
-                        "expanded_url": "https://twitter.com/HistoryAtState/status/1328715217556135937",
-                        "display_url": "twitter.com/HistoryAtState\u2026",
+                        "url": "https://t.co/fDVWjWAqPP",
+                        "expanded_url": "https://history.state.gov/historicaldocuments/frus1977-80v11p1",
+                        "display_url": "history.state.gov/historicaldocu…",
                         "indices": [
-                            239,
-                            262
+                            138,
+                            161
                         ]
+                    }
+                ],
+                "media": [
+                    {
+                        "id": 1328715216268488700,
+                        "id_str": "1328715216268488705",
+                        "indices": [
+                            213,
+                            236
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EnCLcwlW8AESXX4.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EnCLcwlW8AESXX4.jpg",
+                        "url": "https://t.co/WsfMzuRBrU",
+                        "display_url": "pic.twitter.com/WsfMzuRBrU",
+                        "expanded_url": "https://twitter.com/HistoryAtState/status/1328715217556135937/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 400,
+                                "h": 600,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 400,
+                                "h": 600,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 400,
+                                "h": 600,
+                                "resize": "fit"
+                            }
+                        }
                     }
                 ]
             },
-            "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1328715216268488700,
+                        "id_str": "1328715216268488705",
+                        "indices": [
+                            213,
+                            236
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EnCLcwlW8AESXX4.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EnCLcwlW8AESXX4.jpg",
+                        "url": "https://t.co/WsfMzuRBrU",
+                        "display_url": "pic.twitter.com/WsfMzuRBrU",
+                        "expanded_url": "https://twitter.com/HistoryAtState/status/1328715217556135937/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 400,
+                                "h": 600,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 400,
+                                "h": 600,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 400,
+                                "h": 600,
+                                "resize": "fit"
+                            }
+                        },
+                        "ext_alt_text": "Volume Cover of Foreign Relations, 1977–1980, Volume XI, Part 1, Iran: Hostage Crisis, November 1979–September 1980"
+                    }
+                ]
+            },
+            "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
             "in_reply_to_status_id": null,
             "in_reply_to_status_id_str": null,
             "in_reply_to_user_id": null,
             "in_reply_to_user_id_str": null,
             "in_reply_to_screen_name": null,
             "user": {
-                "id": 958044239576948736,
-                "id_str": "958044239576948736"
+                "id": 586570880,
+                "id_str": "586570880"
             },
             "geo": null,
             "coordinates": null,
             "place": null,
             "contributors": null,
-            "is_quote_status": true,
-            "quoted_status_id": 1328715217556135937,
-            "quoted_status_id_str": "1328715217556135937",
-            "quoted_status_permalink": {
-                "url": "https://t.co/r83qzHJ9Xw",
-                "expanded": "https://twitter.com/HistoryAtState/status/1328715217556135937",
-                "display": "twitter.com/HistoryAtState\u2026"
-            },
-            "quoted_status": {
-                "created_at": "Tue Nov 17 15:02:48 +0000 2020",
-                "id": 1328715217556135937,
-                "id_str": "1328715217556135937",
-                "full_text": "The Office of the Historian releases Foreign Relations, 1977\u20131980, Volume XI, Part 1, Iran: Hostage Crisis, November 1979\u2013September 1980:\nhttps://t.co/fDVWjWAqPP\n#FRUS #FRUSRelease\u202f#twitterstorians @CarterLibrary https://t.co/WsfMzuRBrU",
-                "truncated": false,
-                "display_text_range": [
-                    0,
-                    212
-                ],
-                "entities": {
-                    "hashtags": [
-                        {
-                            "text": "FRUS",
-                            "indices": [
-                                162,
-                                167
-                            ]
-                        },
-                        {
-                            "text": "FRUSRelease",
-                            "indices": [
-                                168,
-                                180
-                            ]
-                        },
-                        {
-                            "text": "twitterstorians",
-                            "indices": [
-                                181,
-                                197
-                            ]
-                        }
-                    ],
-                    "symbols": [],
-                    "user_mentions": [
-                        {
-                            "screen_name": "CarterLibrary",
-                            "name": "Jimmy Carter Presidential Library",
-                            "id": 19660388,
-                            "id_str": "19660388",
-                            "indices": [
-                                198,
-                                212
-                            ]
-                        }
-                    ],
-                    "urls": [
-                        {
-                            "url": "https://t.co/fDVWjWAqPP",
-                            "expanded_url": "https://history.state.gov/historicaldocuments/frus1977-80v11p1",
-                            "display_url": "history.state.gov/historicaldocu\u2026",
-                            "indices": [
-                                138,
-                                161
-                            ]
-                        }
-                    ],
-                    "media": [
-                        {
-                            "id": 1328715216268488705,
-                            "id_str": "1328715216268488705",
-                            "indices": [
-                                213,
-                                236
-                            ],
-                            "media_url": "http://pbs.twimg.com/media/EnCLcwlW8AESXX4.jpg",
-                            "media_url_https": "https://pbs.twimg.com/media/EnCLcwlW8AESXX4.jpg",
-                            "url": "https://t.co/WsfMzuRBrU",
-                            "display_url": "pic.twitter.com/WsfMzuRBrU",
-                            "expanded_url": "https://twitter.com/HistoryAtState/status/1328715217556135937/photo/1",
-                            "type": "photo",
-                            "sizes": {
-                                "thumb": {
-                                    "w": 150,
-                                    "h": 150,
-                                    "resize": "crop"
-                                },
-                                "medium": {
-                                    "w": 400,
-                                    "h": 600,
-                                    "resize": "fit"
-                                },
-                                "small": {
-                                    "w": 400,
-                                    "h": 600,
-                                    "resize": "fit"
-                                },
-                                "large": {
-                                    "w": 400,
-                                    "h": 600,
-                                    "resize": "fit"
-                                }
-                            }
-                        }
-                    ]
-                },
-                "extended_entities": {
-                    "media": [
-                        {
-                            "id": 1328715216268488705,
-                            "id_str": "1328715216268488705",
-                            "indices": [
-                                213,
-                                236
-                            ],
-                            "media_url": "http://pbs.twimg.com/media/EnCLcwlW8AESXX4.jpg",
-                            "media_url_https": "https://pbs.twimg.com/media/EnCLcwlW8AESXX4.jpg",
-                            "url": "https://t.co/WsfMzuRBrU",
-                            "display_url": "pic.twitter.com/WsfMzuRBrU",
-                            "expanded_url": "https://twitter.com/HistoryAtState/status/1328715217556135937/photo/1",
-                            "type": "photo",
-                            "sizes": {
-                                "thumb": {
-                                    "w": 150,
-                                    "h": 150,
-                                    "resize": "crop"
-                                },
-                                "medium": {
-                                    "w": 400,
-                                    "h": 600,
-                                    "resize": "fit"
-                                },
-                                "small": {
-                                    "w": 400,
-                                    "h": 600,
-                                    "resize": "fit"
-                                },
-                                "large": {
-                                    "w": 400,
-                                    "h": 600,
-                                    "resize": "fit"
-                                }
-                            },
-                            "ext_alt_text": "Volume Cover of Foreign Relations, 1977–1980, Volume XI, Part 1, Iran: Hostage Crisis, November 1979–September 1980"
-                        }
-                    ]
-                },
-                "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
-                "in_reply_to_status_id": null,
-                "in_reply_to_status_id_str": null,
-                "in_reply_to_user_id": null,
-                "in_reply_to_user_id_str": null,
-                "in_reply_to_screen_name": null,
-                "user": {
-                    "id": 586570880,
-                    "id_str": "586570880"
-                },
-                "geo": null,
-                "coordinates": null,
-                "place": null,
-                "contributors": null,
-                "is_quote_status": false,
-                "retweet_count": 57,
-                "favorite_count": 87,
-                "favorited": false,
-                "retweeted": false,
-                "possibly_sensitive": false,
-                "lang": "en"
-            },
-            "retweet_count": 3,
-            "favorite_count": 6,
-            "favorited": true,
-            "retweeted": true,
+            "is_quote_status": false,
+            "retweet_count": 57,
+            "favorite_count": 87,
+            "favorited": false,
+            "retweeted": false,
             "possibly_sensitive": false,
             "lang": "en"
         },
-        "is_quote_status": true,
-        "quoted_status_id": 1328715217556135937,
-        "quoted_status_id_str": "1328715217556135937",
-        "quoted_status_permalink": {
-            "url": "https://t.co/r83qzHJ9Xw",
-            "expanded": "https://twitter.com/HistoryAtState/status/1328715217556135937",
-            "display": "twitter.com/HistoryAtState\u2026"
-        },
         "retweet_count": 3,
-        "favorite_count": 0,
+        "favorite_count": 6,
         "favorited": true,
         "retweeted": true,
+        "possibly_sensitive": false,
         "lang": "en"
-    }
-]
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1328715217556135940,
+    "quoted_status_id_str": "1328715217556135937",
+    "quoted_status_permalink": {
+        "url": "https://t.co/r83qzHJ9Xw",
+        "expanded": "https://twitter.com/HistoryAtState/status/1328715217556135937",
+        "display": "twitter.com/HistoryAtState…"
+    },
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "lang": "en"
+}

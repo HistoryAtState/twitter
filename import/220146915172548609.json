@@ -1,58 +1,56 @@
-[
-    {
-        "created_at": "Tue Jul 03 13:28:09 +0000 2012",
-        "id": 220146915172548609,
-        "id_str": "220146915172548609",
-        "full_text": "Historians &amp; faculty: tell your students about DoS Virtual Student Foreign Service (VSFS) program http://t.co/Tbjw1GFC  #twitterstorians",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            140
+{
+    "created_at": "Tue Jul 03 13:28:09 +0000 2012",
+    "id": 220146915172548608,
+    "id_str": "220146915172548609",
+    "full_text": "Historians &amp;amp; faculty: tell your students about DoS Virtual Student Foreign Service (VSFS) program http://t.co/Tbjw1GFC  #twitterstorians",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "twitterstorians",
+                "indices": [
+                    124,
+                    140
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "twitterstorians",
-                    "indices": [
-                        124,
-                        140
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "http://t.co/Tbjw1GFC",
-                    "expanded_url": "http://go.usa.gov/vzV",
-                    "display_url": "go.usa.gov/vzV",
-                    "indices": [
-                        102,
-                        122
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 6,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "http://t.co/Tbjw1GFC",
+                "expanded_url": "http://go.usa.gov/vzV",
+                "display_url": "go.usa.gov/vzV",
+                "indices": [
+                    102,
+                    122
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

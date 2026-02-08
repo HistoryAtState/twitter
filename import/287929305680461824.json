@@ -1,79 +1,77 @@
-[
-    {
-        "created_at": "Sun Jan 06 14:31:10 +0000 2013",
-        "id": 287929305680461824,
-        "id_str": "287929305680461824",
-        "full_text": "Join us at #AHA2013 as we discuss the Office's recent launch of #FRUS as #ebooks. http://t.co/OCSuvQjU #twitterstorians",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            119
+{
+    "created_at": "Sun Jan 06 14:31:10 +0000 2013",
+    "id": 287929305680461824,
+    "id_str": "287929305680461824",
+    "full_text": "Join us at #AHA2013 as we discuss the Office's recent launch of #FRUS as #ebooks. http://t.co/OCSuvQjU #twitterstorians",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        119
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "AHA2013",
+                "indices": [
+                    11,
+                    19
+                ]
+            },
+            {
+                "text": "FRUS",
+                "indices": [
+                    64,
+                    69
+                ]
+            },
+            {
+                "text": "ebooks",
+                "indices": [
+                    73,
+                    80
+                ]
+            },
+            {
+                "text": "twitterstorians",
+                "indices": [
+                    103,
+                    119
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "AHA2013",
-                    "indices": [
-                        11,
-                        19
-                    ]
-                },
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        64,
-                        69
-                    ]
-                },
-                {
-                    "text": "ebooks",
-                    "indices": [
-                        73,
-                        80
-                    ]
-                },
-                {
-                    "text": "twitterstorians",
-                    "indices": [
-                        103,
-                        119
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "http://t.co/OCSuvQjU",
-                    "expanded_url": "http://bit.ly/URLiqy",
-                    "display_url": "bit.ly/URLiqy",
-                    "indices": [
-                        82,
-                        102
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 1,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "http://t.co/OCSuvQjU",
+                "expanded_url": "http://bit.ly/URLiqy",
+                "display_url": "bit.ly/URLiqy",
+                "indices": [
+                    82,
+                    102
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

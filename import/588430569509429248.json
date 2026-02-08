@@ -1,119 +1,110 @@
-[
-    {
-        "created_at": "Wed Apr 15 19:55:54 +0000 2015",
-        "id": 588430569509429248,
-        "id_str": "588430569509429248",
-        "full_text": "RT @icedd_org: Dr Daniel Stowell (Lincoln Papers) shares global visualization of Lincoln condolences http://t.co/9YT17USNge #icedd2015",
+{
+    "created_at": "Wed Apr 15 19:55:54 +0000 2015",
+    "id": 588430569509429250,
+    "id_str": "588430569509429248",
+    "full_text": "RT @icedd_org: Dr Daniel Stowell (Lincoln Papers) shares global visualization of Lincoln condolences http://t.co/9YT17USNge #icedd2015",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        134
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "icedd2015",
+                "indices": [
+                    124,
+                    134
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "icedd_org",
+                "name": "ICEDD",
+                "id": 3131310616,
+                "id_str": "3131310616",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "http://t.co/9YT17USNge",
+                "expanded_url": "http://www.citizenlincoln.org/",
+                "display_url": "citizenlincoln.org",
+                "indices": [
+                    101,
+                    123
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"&gt;Twitter for iPad&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Apr 15 19:42:22 +0000 2015",
+        "id": 588427160597069820,
+        "id_str": "588427160597069824",
+        "full_text": "Dr Daniel Stowell (Lincoln Papers) shares global visualization of Lincoln condolences http://t.co/9YT17USNge #icedd2015",
         "truncated": false,
         "display_text_range": [
             0,
-            134
+            119
         ],
         "entities": {
             "hashtags": [
                 {
                     "text": "icedd2015",
                     "indices": [
-                        124,
-                        134
+                        109,
+                        119
                     ]
                 }
             ],
             "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "icedd_org",
-                    "name": "ICEDD",
-                    "id": 3131310616,
-                    "id_str": "3131310616",
-                    "indices": [
-                        3,
-                        13
-                    ]
-                }
-            ],
+            "user_mentions": [],
             "urls": [
                 {
                     "url": "http://t.co/9YT17USNge",
                     "expanded_url": "http://www.citizenlincoln.org/",
                     "display_url": "citizenlincoln.org",
                     "indices": [
-                        101,
-                        123
+                        86,
+                        108
                     ]
                 }
             ]
         },
-        "source": "\u003ca href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c/a\u003e",
+        "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
         "in_reply_to_screen_name": null,
         "user": {
-            "id": 586570880,
-            "id_str": "586570880"
+            "id": 3131310616,
+            "id_str": "3131310616"
         },
         "geo": null,
         "coordinates": null,
         "place": null,
         "contributors": null,
-        "retweeted_status": {
-            "created_at": "Wed Apr 15 19:42:22 +0000 2015",
-            "id": 588427160597069824,
-            "id_str": "588427160597069824",
-            "full_text": "Dr Daniel Stowell (Lincoln Papers) shares global visualization of Lincoln condolences http://t.co/9YT17USNge #icedd2015",
-            "truncated": false,
-            "display_text_range": [
-                0,
-                119
-            ],
-            "entities": {
-                "hashtags": [
-                    {
-                        "text": "icedd2015",
-                        "indices": [
-                            109,
-                            119
-                        ]
-                    }
-                ],
-                "symbols": [],
-                "user_mentions": [],
-                "urls": [
-                    {
-                        "url": "http://t.co/9YT17USNge",
-                        "expanded_url": "http://www.citizenlincoln.org/",
-                        "display_url": "citizenlincoln.org",
-                        "indices": [
-                            86,
-                            108
-                        ]
-                    }
-                ]
-            },
-            "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
-            "user": {
-                "id": 3131310616,
-                "id_str": "3131310616"
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "is_quote_status": false,
-            "retweet_count": 2,
-            "favorite_count": 0,
-            "favorited": false,
-            "retweeted": true,
-            "possibly_sensitive": false,
-            "lang": "en"
-        },
         "is_quote_status": false,
         "retweet_count": 2,
         "favorite_count": 0,
@@ -121,5 +112,12 @@
         "retweeted": true,
         "possibly_sensitive": false,
         "lang": "en"
-    }
-]
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

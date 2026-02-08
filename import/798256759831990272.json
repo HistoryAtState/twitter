@@ -1,76 +1,74 @@
-[
-    {
-        "created_at": "Mon Nov 14 20:10:17 +0000 2016",
-        "id": 798256759831990272,
-        "id_str": "798256759831990272",
-        "full_text": "1970: Rep. Pickle (TX) called @StateDept re U.S. ship seized by Somalia, \u201cThe Midnight Sun\u201d #NationalPickleDay #FRUS https://t.co/FqA4s9sErX",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            140
+{
+    "created_at": "Mon Nov 14 20:10:17 +0000 2016",
+    "id": 798256759831990270,
+    "id_str": "798256759831990272",
+    "full_text": "1970: Rep. Pickle (TX) called @StateDept re U.S. ship seized by Somalia, “The Midnight Sun” #NationalPickleDay #FRUS https://t.co/FqA4s9sErX",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "NationalPickleDay",
+                "indices": [
+                    92,
+                    110
+                ]
+            },
+            {
+                "text": "FRUS",
+                "indices": [
+                    111,
+                    116
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "NationalPickleDay",
-                    "indices": [
-                        92,
-                        110
-                    ]
-                },
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        111,
-                        116
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "StateDept",
-                    "name": "Department of State",
-                    "id": 9624742,
-                    "id_str": "9624742",
-                    "indices": [
-                        30,
-                        40
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "https://t.co/FqA4s9sErX",
-                    "expanded_url": "http://go.usa.gov/xkhe8",
-                    "display_url": "go.usa.gov/xkhe8",
-                    "indices": [
-                        117,
-                        140
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 1,
-        "favorite_count": 3,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "StateDept",
+                "name": "Department of State",
+                "id": 9624742,
+                "id_str": "9624742",
+                "indices": [
+                    30,
+                    40
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/FqA4s9sErX",
+                "expanded_url": "http://go.usa.gov/xkhe8",
+                "display_url": "go.usa.gov/xkhe8",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

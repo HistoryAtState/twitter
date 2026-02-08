@@ -1,58 +1,56 @@
-[
-    {
-        "created_at": "Sat May 26 12:41:17 +0000 2012",
-        "id": 206364383817904128,
-        "id_str": "206364383817904128",
-        "full_text": "Delve into JFK's views on U.S. strategy and counterinsurgency policy in #FRUS \"National Security Policy, Vol. VIII\" http://t.co/LzUfUmtz",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            136
+{
+    "created_at": "Sat May 26 12:41:17 +0000 2012",
+    "id": 206364383817904128,
+    "id_str": "206364383817904128",
+    "full_text": "Delve into JFK's views on U.S. strategy and counterinsurgency policy in #FRUS \"National Security Policy, Vol. VIII\" http://t.co/LzUfUmtz",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        136
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FRUS",
+                "indices": [
+                    72,
+                    77
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        72,
-                        77
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "http://t.co/LzUfUmtz",
-                    "expanded_url": "http://history.state.gov/historicaldocuments/frus1961-63v08",
-                    "display_url": "history.state.gov/historicaldocu\u2026",
-                    "indices": [
-                        116,
-                        136
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\"\u003eTweetbot for iOS\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 5,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "http://t.co/LzUfUmtz",
+                "expanded_url": "http://history.state.gov/historicaldocuments/frus1961-63v08",
+                "display_url": "history.state.gov/historicaldocu…",
+                "indices": [
+                    116,
+                    136
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\"&gt;Tweetbot for iOS&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

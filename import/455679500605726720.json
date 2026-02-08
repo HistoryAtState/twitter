@@ -1,50 +1,48 @@
-[
-    {
-        "created_at": "Mon Apr 14 12:10:33 +0000 2014",
-        "id": 455679500605726720,
-        "id_str": "455679500605726720",
-        "full_text": "To learn more about Franklin\u2019s role during the French &amp; Indian War, see http://t.co/h9aObdionk",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            98
-        ],
-        "entities": {
-            "hashtags": [],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "http://t.co/h9aObdionk",
-                    "expanded_url": "http://ow.ly/vzlSp",
-                    "display_url": "ow.ly/vzlSp",
-                    "indices": [
-                        76,
-                        98
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 3,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+{
+    "created_at": "Mon Apr 14 12:10:33 +0000 2014",
+    "id": 455679500605726720,
+    "id_str": "455679500605726720",
+    "full_text": "To learn more about Franklin’s role during the French &amp;amp; Indian War, see http://t.co/h9aObdionk",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        98
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "http://t.co/h9aObdionk",
+                "expanded_url": "http://ow.ly/vzlSp",
+                "display_url": "ow.ly/vzlSp",
+                "indices": [
+                    76,
+                    98
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

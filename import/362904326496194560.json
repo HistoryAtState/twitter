@@ -1,58 +1,56 @@
-[
-    {
-        "created_at": "Thu Aug 01 11:55:08 +0000 2013",
-        "id": 362904326496194560,
-        "id_str": "362904326496194560",
-        "full_text": "Our August mini summer school on #SecState travels begins now! Spend the month with @HistoryAtState b/c why should learning stop in summer?",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            139
+{
+    "created_at": "Thu Aug 01 11:55:08 +0000 2013",
+    "id": 362904326496194560,
+    "id_str": "362904326496194560",
+    "full_text": "Our August mini summer school on #SecState travels begins now! Spend the month with @HistoryAtState b/c why should learning stop in summer?",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "SecState",
+                "indices": [
+                    33,
+                    42
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "SecState",
-                    "indices": [
-                        33,
-                        42
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "HistoryAtState",
-                    "name": "HistoryAtState",
-                    "id": 586570880,
-                    "id_str": "586570880",
-                    "indices": [
-                        84,
-                        99
-                    ]
-                }
-            ],
-            "urls": []
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 3,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "HistoryAtState",
+                "name": "HistoryAtState",
+                "id": 586570880,
+                "id_str": "586570880",
+                "indices": [
+                    84,
+                    99
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

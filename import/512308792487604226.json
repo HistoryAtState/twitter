@@ -1,69 +1,67 @@
-[
-    {
-        "created_at": "Wed Sep 17 18:35:09 +0000 2014",
-        "id": 512308792487604226,
-        "id_str": "512308792487604226",
-        "full_text": "Herrick, Sharp, &amp; Bacon, oh my! The role of these 3 Ambs @USEmbassyFrance 1914 in \u201cViews From the Embassy\u201d #WW1Tweet http://t.co/Oiy4MIffNs",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            143
+{
+    "created_at": "Wed Sep 17 18:35:09 +0000 2014",
+    "id": 512308792487604220,
+    "id_str": "512308792487604226",
+    "full_text": "Herrick, Sharp, &amp;amp; Bacon, oh my! The role of these 3 Ambs @USEmbassyFrance 1914 in “Views From the Embassy” #WW1Tweet http://t.co/Oiy4MIffNs",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        143
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "WW1Tweet",
+                "indices": [
+                    111,
+                    120
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "WW1Tweet",
-                    "indices": [
-                        111,
-                        120
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "USEmbassyFrance",
-                    "name": "U.S. Embassy France",
-                    "id": 72814599,
-                    "id_str": "72814599",
-                    "indices": [
-                        61,
-                        77
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "http://t.co/Oiy4MIffNs",
-                    "expanded_url": "http://go.usa.gov/pKZx",
-                    "display_url": "go.usa.gov/pKZx",
-                    "indices": [
-                        121,
-                        143
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 1,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "USEmbassyFrance",
+                "name": "U.S. Embassy France",
+                "id": 72814599,
+                "id_str": "72814599",
+                "indices": [
+                    61,
+                    77
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "http://t.co/Oiy4MIffNs",
+                "expanded_url": "http://go.usa.gov/pKZx",
+                "display_url": "go.usa.gov/pKZx",
+                "indices": [
+                    121,
+                    143
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

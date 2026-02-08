@@ -1,140 +1,138 @@
-[
-    {
-        "created_at": "Thu Mar 31 19:30:10 +0000 2022",
-        "id": 1509614047326441528,
-        "id_str": "1509614047326441528",
-        "full_text": "In 2015, Secretary Albright donated her personal papers to @librarycongress, where she had performed dissertation research decades before.\n\nThis collection of materials related to her service as a foreign policy expert and diplomat is open to the public:\nhttps://t.co/vqSpzvfXSO https://t.co/3RqBzKZpUU",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            278
+{
+    "created_at": "Thu Mar 31 19:30:10 +0000 2022",
+    "id": 1509614047326441470,
+    "id_str": "1509614047326441528",
+    "full_text": "In 2015, Secretary Albright donated her personal papers to @librarycongress, where she had performed dissertation research decades before.\n\nThis collection of materials related to her service as a foreign policy expert and diplomat is open to the public:\nhttps://t.co/vqSpzvfXSO https://t.co/3RqBzKZpUU",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        278
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "librarycongress",
+                "name": "Library of Congress",
+                "id": 7152572,
+                "id_str": "7152572",
+                "indices": [
+                    59,
+                    75
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "librarycongress",
-                    "name": "Library of Congress",
-                    "id": 7152572,
-                    "id_str": "7152572",
-                    "indices": [
-                        59,
-                        75
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "https://t.co/vqSpzvfXSO",
-                    "expanded_url": "http://ow.ly/aCsl50IwEo5",
-                    "display_url": "ow.ly/aCsl50IwEo5",
-                    "indices": [
-                        255,
-                        278
-                    ]
-                }
-            ],
-            "media": [
-                {
-                    "id": 1509614045854416906,
-                    "id_str": "1509614045854416906",
-                    "indices": [
-                        279,
-                        302
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/FPM5-fcXwAo_chK.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/FPM5-fcXwAo_chK.jpg",
-                    "url": "https://t.co/3RqBzKZpUU",
-                    "display_url": "pic.twitter.com/3RqBzKZpUU",
-                    "expanded_url": "https://twitter.com/HistoryAtState/status/1509614047326441528/photo/1",
-                    "type": "photo",
-                    "sizes": {
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
-                        },
-                        "medium": {
-                            "w": 1200,
-                            "h": 188,
-                            "resize": "fit"
-                        },
-                        "small": {
-                            "w": 680,
-                            "h": 107,
-                            "resize": "fit"
-                        },
-                        "large": {
-                            "w": 1210,
-                            "h": 190,
-                            "resize": "fit"
-                        }
+        "urls": [
+            {
+                "url": "https://t.co/vqSpzvfXSO",
+                "expanded_url": "http://ow.ly/aCsl50IwEo5",
+                "display_url": "ow.ly/aCsl50IwEo5",
+                "indices": [
+                    255,
+                    278
+                ]
+            }
+        ],
+        "media": [
+            {
+                "id": 1509614045854416900,
+                "id_str": "1509614045854416906",
+                "indices": [
+                    279,
+                    302
+                ],
+                "media_url": "http://pbs.twimg.com/media/FPM5-fcXwAo_chK.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/FPM5-fcXwAo_chK.jpg",
+                "url": "https://t.co/3RqBzKZpUU",
+                "display_url": "pic.twitter.com/3RqBzKZpUU",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1509614047326441528/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 188,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 107,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1210,
+                        "h": 190,
+                        "resize": "fit"
                     }
                 }
-            ]
-        },
-        "extended_entities": {
-            "media": [
-                {
-                    "id": 1509614045854416906,
-                    "id_str": "1509614045854416906",
-                    "indices": [
-                        279,
-                        302
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/FPM5-fcXwAo_chK.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/FPM5-fcXwAo_chK.jpg",
-                    "url": "https://t.co/3RqBzKZpUU",
-                    "display_url": "pic.twitter.com/3RqBzKZpUU",
-                    "expanded_url": "https://twitter.com/HistoryAtState/status/1509614047326441528/photo/1",
-                    "type": "photo",
-                    "sizes": {
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
-                        },
-                        "medium": {
-                            "w": 1200,
-                            "h": 188,
-                            "resize": "fit"
-                        },
-                        "small": {
-                            "w": 680,
-                            "h": 107,
-                            "resize": "fit"
-                        },
-                        "large": {
-                            "w": 1210,
-                            "h": 190,
-                            "resize": "fit"
-                        }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1509614045854416900,
+                "id_str": "1509614045854416906",
+                "indices": [
+                    279,
+                    302
+                ],
+                "media_url": "http://pbs.twimg.com/media/FPM5-fcXwAo_chK.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/FPM5-fcXwAo_chK.jpg",
+                "url": "https://t.co/3RqBzKZpUU",
+                "display_url": "pic.twitter.com/3RqBzKZpUU",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1509614047326441528/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
                     },
-                    "ext_alt_text": "Screenshot of Madeleine Albright quote: “I’d like to thank the Library of Congress. I wrote my dissertation on the role of the Czechoslovak press in 1968 during the Prague Spring, and none of that could have happened if it hadn’t been for the fantastic Slavic collections here. They had all the newspapers, so I spent an awful lot of time here. This is a great institution.”"
-                }
-            ]
-        },
-        "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 2,
-        "favorite_count": 3,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+                    "medium": {
+                        "w": 1200,
+                        "h": 188,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 107,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1210,
+                        "h": 190,
+                        "resize": "fit"
+                    }
+                },
+                "ext_alt_text": "Screenshot of Madeleine Albright quote: “I’d like to thank the Library of Congress. I wrote my dissertation on the role of the Czechoslovak press in 1968 during the Prague Spring, and none of that could have happened if it hadn’t been for the fantastic Slavic collections here. They had all the newspapers, so I spent an awful lot of time here. This is a great institution.”"
+            }
+        ]
+    },
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

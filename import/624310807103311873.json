@@ -1,308 +1,306 @@
-[
-    {
-        "created_at": "Thu Jul 23 20:11:10 +0000 2015",
-        "id": 624310807103311873,
-        "id_str": "624310807103311873",
-        "full_text": "Also see our 1914 FRUS War supplement (http://t.co/tIVM2CFyXy) &amp; Timeline http://t.co/WTD015tJbl http://t.co/hIsYUZNlul",
+{
+    "created_at": "Thu Jul 23 20:11:10 +0000 2015",
+    "id": 624310807103311870,
+    "id_str": "624310807103311873",
+    "full_text": "Also see our 1914 FRUS War supplement (http://t.co/tIVM2CFyXy) &amp;amp; Timeline http://t.co/WTD015tJbl http://t.co/hIsYUZNlul",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        123
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "http://t.co/tIVM2CFyXy",
+                "expanded_url": "http://history.state.gov/historicaldocuments/frus1914Supp",
+                "display_url": "history.state.gov/historicaldocu…",
+                "indices": [
+                    39,
+                    61
+                ]
+            },
+            {
+                "url": "http://t.co/WTD015tJbl",
+                "expanded_url": "http://ow.ly/Q0Alm",
+                "display_url": "ow.ly/Q0Alm",
+                "indices": [
+                    78,
+                    100
+                ]
+            },
+            {
+                "url": "http://t.co/hIsYUZNlul",
+                "expanded_url": "https://twitter.com/USNatArchives/status/624280680499949569",
+                "display_url": "twitter.com/USNatArchives/…",
+                "indices": [
+                    101,
+                    123
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 624280680499949570,
+    "quoted_status_id_str": "624280680499949569",
+    "quoted_status_permalink": {
+        "url": "http://t.co/hIsYUZNlul",
+        "expanded": "https://twitter.com/USNatArchives/status/624280680499949569",
+        "display": "twitter.com/USNatArchives/…"
+    },
+    "quoted_status": {
+        "created_at": "Thu Jul 23 18:11:27 +0000 2015",
+        "id": 624280680499949570,
+        "id_str": "624280680499949569",
+        "full_text": "RT @ThisisArchives: Early U/S. Department of State #telegrams concerning the events late in July 1914 #Diplomacy http://t.co/l1tdhntZMj",
         "truncated": false,
         "display_text_range": [
             0,
-            123
+            135
         ],
         "entities": {
-            "hashtags": [],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
+            "hashtags": [
                 {
-                    "url": "http://t.co/tIVM2CFyXy",
-                    "expanded_url": "http://history.state.gov/historicaldocuments/frus1914Supp",
-                    "display_url": "history.state.gov/historicaldocu\u2026",
+                    "text": "telegrams",
                     "indices": [
-                        39,
+                        51,
                         61
                     ]
                 },
                 {
-                    "url": "http://t.co/WTD015tJbl",
-                    "expanded_url": "http://ow.ly/Q0Alm",
-                    "display_url": "ow.ly/Q0Alm",
+                    "text": "Diplomacy",
                     "indices": [
-                        78,
-                        100
+                        102,
+                        112
                     ]
-                },
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
                 {
-                    "url": "http://t.co/hIsYUZNlul",
-                    "expanded_url": "https://twitter.com/USNatArchives/status/624280680499949569",
-                    "display_url": "twitter.com/USNatArchives/\u2026",
+                    "screen_name": "ThisIsArchives",
+                    "name": "This is Archives",
+                    "id": 728634799,
+                    "id_str": "728634799",
                     "indices": [
-                        101,
-                        123
+                        3,
+                        18
                     ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 624268912411209730,
+                    "id_str": "624268912411209730",
+                    "indices": [
+                        113,
+                        135
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CKnZRLCW8AIrdGP.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CKnZRLCW8AIrdGP.jpg",
+                    "url": "http://t.co/l1tdhntZMj",
+                    "display_url": "pic.twitter.com/l1tdhntZMj",
+                    "expanded_url": "https://twitter.com/ThisisArchives/status/624268936142553088/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 1200,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 2048,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 624268936142553090,
+                    "source_status_id_str": "624268936142553088",
+                    "source_user_id": 728634799,
+                    "source_user_id_str": "728634799"
                 }
             ]
         },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 624268912411209730,
+                    "id_str": "624268912411209730",
+                    "indices": [
+                        113,
+                        135
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CKnZRLCW8AIrdGP.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CKnZRLCW8AIrdGP.jpg",
+                    "url": "http://t.co/l1tdhntZMj",
+                    "display_url": "pic.twitter.com/l1tdhntZMj",
+                    "expanded_url": "https://twitter.com/ThisisArchives/status/624268936142553088/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 1200,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 2048,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 624268936142553090,
+                    "source_status_id_str": "624268936142553088",
+                    "source_user_id": 728634799,
+                    "source_user_id_str": "728634799",
+                    "ext_alt_text": null
+                },
+                {
+                    "id": 624268934947205120,
+                    "id_str": "624268934947205120",
+                    "indices": [
+                        113,
+                        135
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CKnZSe_W8AADbFm.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CKnZSe_W8AADbFm.jpg",
+                    "url": "http://t.co/l1tdhntZMj",
+                    "display_url": "pic.twitter.com/l1tdhntZMj",
+                    "expanded_url": "https://twitter.com/ThisisArchives/status/624268936142553088/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 900,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1536,
+                            "h": 2048,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 510,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 624268936142553090,
+                    "source_status_id_str": "624268936142553088",
+                    "source_user_id": 728634799,
+                    "source_user_id_str": "728634799",
+                    "ext_alt_text": null
+                },
+                {
+                    "id": 624268932468355070,
+                    "id_str": "624268932468355073",
+                    "indices": [
+                        113,
+                        135
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CKnZSVwWsAEDJPd.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CKnZSVwWsAEDJPd.jpg",
+                    "url": "http://t.co/l1tdhntZMj",
+                    "display_url": "pic.twitter.com/l1tdhntZMj",
+                    "expanded_url": "https://twitter.com/ThisisArchives/status/624268936142553088/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1536,
+                            "h": 2048,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 900,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 510,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 624268936142553090,
+                    "source_status_id_str": "624268936142553088",
+                    "source_user_id": 728634799,
+                    "source_user_id_str": "728634799",
+                    "ext_alt_text": null
+                }
+            ]
+        },
+        "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
         "in_reply_to_screen_name": null,
         "user": {
-            "id": 586570880,
-            "id_str": "586570880"
+            "id": 101802390,
+            "id_str": "101802390"
         },
         "geo": null,
         "coordinates": null,
         "place": null,
         "contributors": null,
-        "is_quote_status": true,
-        "quoted_status_id": 624280680499949569,
-        "quoted_status_id_str": "624280680499949569",
-        "quoted_status_permalink": {
-            "url": "http://t.co/hIsYUZNlul",
-            "expanded": "https://twitter.com/USNatArchives/status/624280680499949569",
-            "display": "twitter.com/USNatArchives/\u2026"
-        },
-        "quoted_status": {
-            "created_at": "Thu Jul 23 18:11:27 +0000 2015",
-            "id": 624280680499949569,
-            "id_str": "624280680499949569",
-            "full_text": "RT @ThisisArchives: Early U/S. Department of State #telegrams concerning the events late in July 1914 #Diplomacy http://t.co/l1tdhntZMj",
-            "truncated": false,
-            "display_text_range": [
-                0,
-                135
-            ],
-            "entities": {
-                "hashtags": [
-                    {
-                        "text": "telegrams",
-                        "indices": [
-                            51,
-                            61
-                        ]
-                    },
-                    {
-                        "text": "Diplomacy",
-                        "indices": [
-                            102,
-                            112
-                        ]
-                    }
-                ],
-                "symbols": [],
-                "user_mentions": [
-                    {
-                        "screen_name": "ThisIsArchives",
-                        "name": "This is Archives",
-                        "id": 728634799,
-                        "id_str": "728634799",
-                        "indices": [
-                            3,
-                            18
-                        ]
-                    }
-                ],
-                "urls": [],
-                "media": [
-                    {
-                        "id": 624268912411209730,
-                        "id_str": "624268912411209730",
-                        "indices": [
-                            113,
-                            135
-                        ],
-                        "media_url": "http://pbs.twimg.com/media/CKnZRLCW8AIrdGP.jpg",
-                        "media_url_https": "https://pbs.twimg.com/media/CKnZRLCW8AIrdGP.jpg",
-                        "url": "http://t.co/l1tdhntZMj",
-                        "display_url": "pic.twitter.com/l1tdhntZMj",
-                        "expanded_url": "https://twitter.com/ThisisArchives/status/624268936142553088/photo/1",
-                        "type": "photo",
-                        "sizes": {
-                            "medium": {
-                                "w": 1200,
-                                "h": 1200,
-                                "resize": "fit"
-                            },
-                            "small": {
-                                "w": 680,
-                                "h": 680,
-                                "resize": "fit"
-                            },
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
-                            "large": {
-                                "w": 2048,
-                                "h": 2048,
-                                "resize": "fit"
-                            }
-                        },
-                        "source_status_id": 624268936142553088,
-                        "source_status_id_str": "624268936142553088",
-                        "source_user_id": 728634799,
-                        "source_user_id_str": "728634799"
-                    }
-                ]
-            },
-            "extended_entities": {
-                "media": [
-                    {
-                        "id": 624268912411209730,
-                        "id_str": "624268912411209730",
-                        "indices": [
-                            113,
-                            135
-                        ],
-                        "media_url": "http://pbs.twimg.com/media/CKnZRLCW8AIrdGP.jpg",
-                        "media_url_https": "https://pbs.twimg.com/media/CKnZRLCW8AIrdGP.jpg",
-                        "url": "http://t.co/l1tdhntZMj",
-                        "display_url": "pic.twitter.com/l1tdhntZMj",
-                        "expanded_url": "https://twitter.com/ThisisArchives/status/624268936142553088/photo/1",
-                        "type": "photo",
-                        "sizes": {
-                            "medium": {
-                                "w": 1200,
-                                "h": 1200,
-                                "resize": "fit"
-                            },
-                            "small": {
-                                "w": 680,
-                                "h": 680,
-                                "resize": "fit"
-                            },
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
-                            "large": {
-                                "w": 2048,
-                                "h": 2048,
-                                "resize": "fit"
-                            }
-                        },
-                        "source_status_id": 624268936142553088,
-                        "source_status_id_str": "624268936142553088",
-                        "source_user_id": 728634799,
-                        "source_user_id_str": "728634799",
-                        "ext_alt_text": null
-                    },
-                    {
-                        "id": 624268934947205120,
-                        "id_str": "624268934947205120",
-                        "indices": [
-                            113,
-                            135
-                        ],
-                        "media_url": "http://pbs.twimg.com/media/CKnZSe_W8AADbFm.jpg",
-                        "media_url_https": "https://pbs.twimg.com/media/CKnZSe_W8AADbFm.jpg",
-                        "url": "http://t.co/l1tdhntZMj",
-                        "display_url": "pic.twitter.com/l1tdhntZMj",
-                        "expanded_url": "https://twitter.com/ThisisArchives/status/624268936142553088/photo/1",
-                        "type": "photo",
-                        "sizes": {
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
-                            "medium": {
-                                "w": 900,
-                                "h": 1200,
-                                "resize": "fit"
-                            },
-                            "large": {
-                                "w": 1536,
-                                "h": 2048,
-                                "resize": "fit"
-                            },
-                            "small": {
-                                "w": 510,
-                                "h": 680,
-                                "resize": "fit"
-                            }
-                        },
-                        "source_status_id": 624268936142553088,
-                        "source_status_id_str": "624268936142553088",
-                        "source_user_id": 728634799,
-                        "source_user_id_str": "728634799",
-                        "ext_alt_text": null
-                    },
-                    {
-                        "id": 624268932468355073,
-                        "id_str": "624268932468355073",
-                        "indices": [
-                            113,
-                            135
-                        ],
-                        "media_url": "http://pbs.twimg.com/media/CKnZSVwWsAEDJPd.jpg",
-                        "media_url_https": "https://pbs.twimg.com/media/CKnZSVwWsAEDJPd.jpg",
-                        "url": "http://t.co/l1tdhntZMj",
-                        "display_url": "pic.twitter.com/l1tdhntZMj",
-                        "expanded_url": "https://twitter.com/ThisisArchives/status/624268936142553088/photo/1",
-                        "type": "photo",
-                        "sizes": {
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
-                            "large": {
-                                "w": 1536,
-                                "h": 2048,
-                                "resize": "fit"
-                            },
-                            "medium": {
-                                "w": 900,
-                                "h": 1200,
-                                "resize": "fit"
-                            },
-                            "small": {
-                                "w": 510,
-                                "h": 680,
-                                "resize": "fit"
-                            }
-                        },
-                        "source_status_id": 624268936142553088,
-                        "source_status_id_str": "624268936142553088",
-                        "source_user_id": 728634799,
-                        "source_user_id_str": "728634799",
-                        "ext_alt_text": null
-                    }
-                ]
-            },
-            "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
-            "user": {
-                "id": 101802390,
-                "id_str": "101802390"
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "is_quote_status": false,
-            "retweet_count": 9,
-            "favorite_count": 11,
-            "favorited": false,
-            "retweeted": false,
-            "possibly_sensitive": false,
-            "lang": "en"
-        },
-        "retweet_count": 1,
-        "favorite_count": 1,
+        "is_quote_status": false,
+        "retweet_count": 9,
+        "favorite_count": 11,
         "favorited": false,
         "retweeted": false,
         "possibly_sensitive": false,
         "lang": "en"
-    }
-]
+    },
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

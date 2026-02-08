@@ -1,58 +1,56 @@
-[
-    {
-        "created_at": "Fri Dec 27 14:20:50 +0000 2013",
-        "id": 416574396674109441,
-        "id_str": "416574396674109441",
-        "full_text": "Discover why #FRUS acceleration fizzled in the 1980s http://t.co/rEhGQW49Bs",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            75
+{
+    "created_at": "Fri Dec 27 14:20:50 +0000 2013",
+    "id": 416574396674109440,
+    "id_str": "416574396674109441",
+    "full_text": "Discover why #FRUS acceleration fizzled in the 1980s http://t.co/rEhGQW49Bs",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        75
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FRUS",
+                "indices": [
+                    13,
+                    18
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        13,
-                        18
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "http://t.co/rEhGQW49Bs",
-                    "expanded_url": "http://go.usa.gov/WS7P",
-                    "display_url": "go.usa.gov/WS7P",
-                    "indices": [
-                        53,
-                        75
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 2,
-        "favorite_count": 1,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "http://t.co/rEhGQW49Bs",
+                "expanded_url": "http://go.usa.gov/WS7P",
+                "display_url": "go.usa.gov/WS7P",
+                "indices": [
+                    53,
+                    75
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

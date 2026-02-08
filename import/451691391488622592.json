@@ -1,76 +1,74 @@
-[
-    {
-        "created_at": "Thu Apr 03 12:03:14 +0000 2014",
-        "id": 451691391488622592,
-        "id_str": "451691391488622592",
-        "full_text": "We\u2019ll highlight #WWI impact on U.S. diplomats, diplomacy, and the #FRUS series @SMH_Historians http://t.co/hyHkBPPVLH",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            117
+{
+    "created_at": "Thu Apr 03 12:03:14 +0000 2014",
+    "id": 451691391488622590,
+    "id_str": "451691391488622592",
+    "full_text": "We’ll highlight #WWI impact on U.S. diplomats, diplomacy, and the #FRUS series @SMH_Historians http://t.co/hyHkBPPVLH",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        117
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "WWI",
+                "indices": [
+                    16,
+                    20
+                ]
+            },
+            {
+                "text": "FRUS",
+                "indices": [
+                    66,
+                    71
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "WWI",
-                    "indices": [
-                        16,
-                        20
-                    ]
-                },
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        66,
-                        71
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "SMH_Historians",
-                    "name": "SMH Historians",
-                    "id": 961631816,
-                    "id_str": "961631816",
-                    "indices": [
-                        79,
-                        94
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "http://t.co/hyHkBPPVLH",
-                    "expanded_url": "http://ow.ly/v4qlu",
-                    "display_url": "ow.ly/v4qlu",
-                    "indices": [
-                        95,
-                        117
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 2,
-        "favorite_count": 1,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "SMH_Historians",
+                "name": "SMH Historians",
+                "id": 961631816,
+                "id_str": "961631816",
+                "indices": [
+                    79,
+                    94
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "http://t.co/hyHkBPPVLH",
+                "expanded_url": "http://ow.ly/v4qlu",
+                "display_url": "ow.ly/v4qlu",
+                "indices": [
+                    95,
+                    117
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

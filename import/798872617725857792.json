@@ -1,214 +1,212 @@
-[
-    {
-        "created_at": "Wed Nov 16 12:57:29 +0000 2016",
-        "id": 798872617725857792,
-        "id_str": "798872617725857792",
-        "full_text": "RT @ClementsCenter: Join us this Friday for \"The Rise and Fall of Detente\" Conf, based on the Clements Papers + @HistoryAtState #FRUS serie\u2026",
+{
+    "created_at": "Wed Nov 16 12:57:29 +0000 2016",
+    "id": 798872617725857790,
+    "id_str": "798872617725857792",
+    "full_text": "RT @ClementsCenter: Join us this Friday for \"The Rise and Fall of Detente\" Conf, based on the Clements Papers + @HistoryAtState #FRUS serie…",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FRUS",
+                "indices": [
+                    128,
+                    133
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ClementsCenter",
+                "name": "Clements Center",
+                "id": 1112380602,
+                "id_str": "1112380602",
+                "indices": [
+                    3,
+                    18
+                ]
+            },
+            {
+                "screen_name": "HistoryAtState",
+                "name": "HistoryAtState",
+                "id": 586570880,
+                "id_str": "586570880",
+                "indices": [
+                    112,
+                    127
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Nov 15 15:40:02 +0000 2016",
+        "id": 798551138975019010,
+        "id_str": "798551138975019010",
+        "full_text": "Join us this Friday for \"The Rise and Fall of Detente\" Conf, based on the Clements Papers + @HistoryAtState #FRUS series (cc: @UT_HistDept) https://t.co/AiQnL410o9",
         "truncated": false,
         "display_text_range": [
             0,
-            140
+            139
         ],
         "entities": {
             "hashtags": [
                 {
                     "text": "FRUS",
                     "indices": [
-                        128,
-                        133
+                        108,
+                        113
                     ]
                 }
             ],
             "symbols": [],
             "user_mentions": [
                 {
-                    "screen_name": "ClementsCenter",
-                    "name": "Clements Center",
-                    "id": 1112380602,
-                    "id_str": "1112380602",
-                    "indices": [
-                        3,
-                        18
-                    ]
-                },
-                {
                     "screen_name": "HistoryAtState",
                     "name": "HistoryAtState",
                     "id": 586570880,
                     "id_str": "586570880",
                     "indices": [
-                        112,
-                        127
+                        92,
+                        107
+                    ]
+                },
+                {
+                    "screen_name": "UT_HistDept",
+                    "name": "UT History Department",
+                    "id": 717055881569959940,
+                    "id_str": "717055881569959936",
+                    "indices": [
+                        126,
+                        138
                     ]
                 }
             ],
-            "urls": []
+            "urls": [],
+            "media": [
+                {
+                    "id": 798550630616834050,
+                    "id_str": "798550630616834048",
+                    "indices": [
+                        140,
+                        163
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CxUFkVEUoAASCkx.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CxUFkVEUoAASCkx.jpg",
+                    "url": "https://t.co/AiQnL410o9",
+                    "display_url": "pic.twitter.com/AiQnL410o9",
+                    "expanded_url": "https://twitter.com/ClementsCenter/status/798551138975019010/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1061,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 601,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1810,
+                            "h": 2048,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
         },
-        "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 798550630616834050,
+                    "id_str": "798550630616834048",
+                    "indices": [
+                        140,
+                        163
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CxUFkVEUoAASCkx.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CxUFkVEUoAASCkx.jpg",
+                    "url": "https://t.co/AiQnL410o9",
+                    "display_url": "pic.twitter.com/AiQnL410o9",
+                    "expanded_url": "https://twitter.com/ClementsCenter/status/798551138975019010/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1061,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 601,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1810,
+                            "h": 2048,
+                            "resize": "fit"
+                        }
+                    },
+                    "ext_alt_text": null
+                }
+            ]
+        },
+        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
         "in_reply_to_screen_name": null,
         "user": {
-            "id": 586570880,
-            "id_str": "586570880"
+            "id": 1112380602,
+            "id_str": "1112380602"
         },
         "geo": null,
         "coordinates": null,
         "place": null,
         "contributors": null,
-        "retweeted_status": {
-            "created_at": "Tue Nov 15 15:40:02 +0000 2016",
-            "id": 798551138975019010,
-            "id_str": "798551138975019010",
-            "full_text": "Join us this Friday for \"The Rise and Fall of Detente\" Conf, based on the Clements Papers + @HistoryAtState #FRUS series (cc: @UT_HistDept) https://t.co/AiQnL410o9",
-            "truncated": false,
-            "display_text_range": [
-                0,
-                139
-            ],
-            "entities": {
-                "hashtags": [
-                    {
-                        "text": "FRUS",
-                        "indices": [
-                            108,
-                            113
-                        ]
-                    }
-                ],
-                "symbols": [],
-                "user_mentions": [
-                    {
-                        "screen_name": "HistoryAtState",
-                        "name": "HistoryAtState",
-                        "id": 586570880,
-                        "id_str": "586570880",
-                        "indices": [
-                            92,
-                            107
-                        ]
-                    },
-                    {
-                        "screen_name": "UT_HistDept",
-                        "name": "UT History Department",
-                        "id": 717055881569959936,
-                        "id_str": "717055881569959936",
-                        "indices": [
-                            126,
-                            138
-                        ]
-                    }
-                ],
-                "urls": [],
-                "media": [
-                    {
-                        "id": 798550630616834048,
-                        "id_str": "798550630616834048",
-                        "indices": [
-                            140,
-                            163
-                        ],
-                        "media_url": "http://pbs.twimg.com/media/CxUFkVEUoAASCkx.jpg",
-                        "media_url_https": "https://pbs.twimg.com/media/CxUFkVEUoAASCkx.jpg",
-                        "url": "https://t.co/AiQnL410o9",
-                        "display_url": "pic.twitter.com/AiQnL410o9",
-                        "expanded_url": "https://twitter.com/ClementsCenter/status/798551138975019010/photo/1",
-                        "type": "photo",
-                        "sizes": {
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
-                            "medium": {
-                                "w": 1061,
-                                "h": 1200,
-                                "resize": "fit"
-                            },
-                            "small": {
-                                "w": 601,
-                                "h": 680,
-                                "resize": "fit"
-                            },
-                            "large": {
-                                "w": 1810,
-                                "h": 2048,
-                                "resize": "fit"
-                            }
-                        }
-                    }
-                ]
-            },
-            "extended_entities": {
-                "media": [
-                    {
-                        "id": 798550630616834048,
-                        "id_str": "798550630616834048",
-                        "indices": [
-                            140,
-                            163
-                        ],
-                        "media_url": "http://pbs.twimg.com/media/CxUFkVEUoAASCkx.jpg",
-                        "media_url_https": "https://pbs.twimg.com/media/CxUFkVEUoAASCkx.jpg",
-                        "url": "https://t.co/AiQnL410o9",
-                        "display_url": "pic.twitter.com/AiQnL410o9",
-                        "expanded_url": "https://twitter.com/ClementsCenter/status/798551138975019010/photo/1",
-                        "type": "photo",
-                        "sizes": {
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
-                            "medium": {
-                                "w": 1061,
-                                "h": 1200,
-                                "resize": "fit"
-                            },
-                            "small": {
-                                "w": 601,
-                                "h": 680,
-                                "resize": "fit"
-                            },
-                            "large": {
-                                "w": 1810,
-                                "h": 2048,
-                                "resize": "fit"
-                            }
-                        },
-                        "ext_alt_text": null
-                    }
-                ]
-            },
-            "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
-            "user": {
-                "id": 1112380602,
-                "id_str": "1112380602"
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "is_quote_status": false,
-            "retweet_count": 5,
-            "favorite_count": 2,
-            "favorited": false,
-            "retweeted": true,
-            "possibly_sensitive": false,
-            "lang": "en"
-        },
         "is_quote_status": false,
         "retweet_count": 5,
-        "favorite_count": 0,
+        "favorite_count": 2,
         "favorited": false,
         "retweeted": true,
+        "possibly_sensitive": false,
         "lang": "en"
-    }
-]
+    },
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "en"
+}

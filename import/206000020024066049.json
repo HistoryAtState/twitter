@@ -1,58 +1,56 @@
-[
-    {
-        "created_at": "Fri May 25 12:33:26 +0000 2012",
-        "id": 206000020024066049,
-        "id_str": "206000020024066049",
-        "full_text": "Read about Eisenhower's response to the 1956 Suez Crisis in #FRUS \"Suez Crisis, July 26\u2013Dec. 31, 1956, Vol. XVI\" http://t.co/rz1GHfNt",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            133
+{
+    "created_at": "Fri May 25 12:33:26 +0000 2012",
+    "id": 206000020024066048,
+    "id_str": "206000020024066049",
+    "full_text": "Read about Eisenhower's response to the 1956 Suez Crisis in #FRUS \"Suez Crisis, July 26–Dec. 31, 1956, Vol. XVI\" http://t.co/rz1GHfNt",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        133
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FRUS",
+                "indices": [
+                    60,
+                    65
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        60,
-                        65
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "http://t.co/rz1GHfNt",
-                    "expanded_url": "http://history.state.gov/historicaldocuments/frus1955-57v16",
-                    "display_url": "history.state.gov/historicaldocu\u2026",
-                    "indices": [
-                        113,
-                        133
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\"\u003eTweetbot for iOS\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 5,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "http://t.co/rz1GHfNt",
+                "expanded_url": "http://history.state.gov/historicaldocuments/frus1955-57v16",
+                "display_url": "history.state.gov/historicaldocu…",
+                "indices": [
+                    113,
+                    133
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\"&gt;Tweetbot for iOS&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

@@ -1,16 +1,132 @@
-[
-    {
-        "created_at": "Wed Sep 22 01:24:36 +0000 2021",
-        "id": 1440487160470147081,
-        "id_str": "1440487160470147081",
-        "full_text": "Please help us spread the word about the incredible documentary editing opportunities with the Presidential Management Fellows Program at @HistoryAtState!\n@editorialnotes, @archivists_org, @chnm, @TEIconsortium, @HNet_Humanities https://t.co/dsnnDemDab",
+{
+    "created_at": "Wed Sep 22 01:24:36 +0000 2021",
+    "id": 1440487160470147070,
+    "id_str": "1440487160470147081",
+    "full_text": "Please help us spread the word about the incredible documentary editing opportunities with the Presidential Management Fellows Program at @HistoryAtState!\n@editorialnotes, @archivists_org, @chnm, @TEIconsortium, @HNet_Humanities https://t.co/dsnnDemDab",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        228
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "HistoryAtState",
+                "name": "HistoryAtState",
+                "id": 586570880,
+                "id_str": "586570880",
+                "indices": [
+                    138,
+                    153
+                ]
+            },
+            {
+                "screen_name": "editorialnotes",
+                "name": "ADE",
+                "id": 806591787422846980,
+                "id_str": "806591787422846976",
+                "indices": [
+                    155,
+                    170
+                ]
+            },
+            {
+                "screen_name": "archivists_org",
+                "name": "Soc Amer Archivists",
+                "id": 44433400,
+                "id_str": "44433400",
+                "indices": [
+                    172,
+                    187
+                ]
+            },
+            {
+                "screen_name": "chnm",
+                "name": "RRCHNM",
+                "id": 9894272,
+                "id_str": "9894272",
+                "indices": [
+                    189,
+                    194
+                ]
+            },
+            {
+                "screen_name": "TEIconsortium",
+                "name": "TEI Consortium",
+                "id": 167142337,
+                "id_str": "167142337",
+                "indices": [
+                    196,
+                    210
+                ]
+            },
+            {
+                "screen_name": "HNet_Humanities",
+                "name": "H-Net",
+                "id": 1962844472,
+                "id_str": "1962844472",
+                "indices": [
+                    212,
+                    228
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/dsnnDemDab",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1439968146606198792",
+                "display_url": "twitter.com/HistoryAtState…",
+                "indices": [
+                    229,
+                    252
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1439968146606198780,
+    "quoted_status_id_str": "1439968146606198792",
+    "quoted_status_permalink": {
+        "url": "https://t.co/dsnnDemDab",
+        "expanded": "https://twitter.com/HistoryAtState/status/1439968146606198792",
+        "display": "twitter.com/HistoryAtState…"
+    },
+    "quoted_status": {
+        "created_at": "Mon Sep 20 15:02:14 +0000 2021",
+        "id": 1439968146606198780,
+        "id_str": "1439968146606198792",
+        "full_text": "Is your interest in history rivaled only by your grammatical prowess? Do you delight in em and en dashes? Apply to the Presidential Management Fellows Program to work in Editing and Publishing at @HistoryAtState\n\n#PMF applications open Sept. 28 to Oct. 12:\nhttps://t.co/9MdLicfclR https://t.co/wuxUAYHt0w",
         "truncated": false,
         "display_text_range": [
             0,
-            228
+            280
         ],
         "entities": {
-            "hashtags": [],
+            "hashtags": [
+                {
+                    "text": "PMF",
+                    "indices": [
+                        213,
+                        217
+                    ]
+                }
+            ],
             "symbols": [],
             "user_mentions": [
                 {
@@ -19,74 +135,103 @@
                     "id": 586570880,
                     "id_str": "586570880",
                     "indices": [
-                        138,
-                        153
-                    ]
-                },
-                {
-                    "screen_name": "editorialnotes",
-                    "name": "ADE",
-                    "id": 806591787422846976,
-                    "id_str": "806591787422846976",
-                    "indices": [
-                        155,
-                        170
-                    ]
-                },
-                {
-                    "screen_name": "archivists_org",
-                    "name": "Soc Amer Archivists",
-                    "id": 44433400,
-                    "id_str": "44433400",
-                    "indices": [
-                        172,
-                        187
-                    ]
-                },
-                {
-                    "screen_name": "chnm",
-                    "name": "RRCHNM",
-                    "id": 9894272,
-                    "id_str": "9894272",
-                    "indices": [
-                        189,
-                        194
-                    ]
-                },
-                {
-                    "screen_name": "TEIconsortium",
-                    "name": "TEI Consortium",
-                    "id": 167142337,
-                    "id_str": "167142337",
-                    "indices": [
                         196,
-                        210
-                    ]
-                },
-                {
-                    "screen_name": "HNet_Humanities",
-                    "name": "H-Net",
-                    "id": 1962844472,
-                    "id_str": "1962844472",
-                    "indices": [
-                        212,
-                        228
+                        211
                     ]
                 }
             ],
             "urls": [
                 {
-                    "url": "https://t.co/dsnnDemDab",
-                    "expanded_url": "https://twitter.com/HistoryAtState/status/1439968146606198792",
-                    "display_url": "twitter.com/HistoryAtState\u2026",
+                    "url": "https://t.co/9MdLicfclR",
+                    "expanded_url": "https://bit.ly/OH-PMF",
+                    "display_url": "bit.ly/OH-PMF",
                     "indices": [
-                        229,
-                        252
+                        257,
+                        280
                     ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1439968144752365570,
+                    "id_str": "1439968144752365577",
+                    "indices": [
+                        281,
+                        304
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E_vLZfvX0Ak__Fj.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E_vLZfvX0Ak__Fj.jpg",
+                    "url": "https://t.co/wuxUAYHt0w",
+                    "display_url": "pic.twitter.com/wuxUAYHt0w",
+                    "expanded_url": "https://twitter.com/HistoryAtState/status/1439968146606198792/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 340,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1024,
+                            "h": 512,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1024,
+                            "h": 512,
+                            "resize": "fit"
+                        }
+                    }
                 }
             ]
         },
-        "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1439968144752365570,
+                    "id_str": "1439968144752365577",
+                    "indices": [
+                        281,
+                        304
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E_vLZfvX0Ak__Fj.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E_vLZfvX0Ak__Fj.jpg",
+                    "url": "https://t.co/wuxUAYHt0w",
+                    "display_url": "pic.twitter.com/wuxUAYHt0w",
+                    "expanded_url": "https://twitter.com/HistoryAtState/status/1439968146606198792/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 340,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1024,
+                            "h": 512,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1024,
+                            "h": 512,
+                            "resize": "fit"
+                        }
+                    },
+                    "ext_alt_text": "[Two columns of handwritten proofreaders’ marks] Apply to be a Presidential Management Fellow, Office of the Historian, [insertion symbol] Editing and Publishing Division, U.S. Department of State PMF applications are open from Sept. 28 [en dash] Oct. 12, 2021: https://bit.ly/OH-PMF"
+                }
+            ]
+        },
+        "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
@@ -100,165 +245,18 @@
         "coordinates": null,
         "place": null,
         "contributors": null,
-        "is_quote_status": true,
-        "quoted_status_id": 1439968146606198792,
-        "quoted_status_id_str": "1439968146606198792",
-        "quoted_status_permalink": {
-            "url": "https://t.co/dsnnDemDab",
-            "expanded": "https://twitter.com/HistoryAtState/status/1439968146606198792",
-            "display": "twitter.com/HistoryAtState\u2026"
-        },
-        "quoted_status": {
-            "created_at": "Mon Sep 20 15:02:14 +0000 2021",
-            "id": 1439968146606198792,
-            "id_str": "1439968146606198792",
-            "full_text": "Is your interest in history rivaled only by your grammatical prowess? Do you delight in em and en dashes? Apply to the Presidential Management Fellows Program to work in Editing and Publishing at @HistoryAtState\n\n#PMF applications open Sept. 28 to Oct. 12:\nhttps://t.co/9MdLicfclR https://t.co/wuxUAYHt0w",
-            "truncated": false,
-            "display_text_range": [
-                0,
-                280
-            ],
-            "entities": {
-                "hashtags": [
-                    {
-                        "text": "PMF",
-                        "indices": [
-                            213,
-                            217
-                        ]
-                    }
-                ],
-                "symbols": [],
-                "user_mentions": [
-                    {
-                        "screen_name": "HistoryAtState",
-                        "name": "HistoryAtState",
-                        "id": 586570880,
-                        "id_str": "586570880",
-                        "indices": [
-                            196,
-                            211
-                        ]
-                    }
-                ],
-                "urls": [
-                    {
-                        "url": "https://t.co/9MdLicfclR",
-                        "expanded_url": "https://bit.ly/OH-PMF",
-                        "display_url": "bit.ly/OH-PMF",
-                        "indices": [
-                            257,
-                            280
-                        ]
-                    }
-                ],
-                "media": [
-                    {
-                        "id": 1439968144752365577,
-                        "id_str": "1439968144752365577",
-                        "indices": [
-                            281,
-                            304
-                        ],
-                        "media_url": "http://pbs.twimg.com/media/E_vLZfvX0Ak__Fj.jpg",
-                        "media_url_https": "https://pbs.twimg.com/media/E_vLZfvX0Ak__Fj.jpg",
-                        "url": "https://t.co/wuxUAYHt0w",
-                        "display_url": "pic.twitter.com/wuxUAYHt0w",
-                        "expanded_url": "https://twitter.com/HistoryAtState/status/1439968146606198792/photo/1",
-                        "type": "photo",
-                        "sizes": {
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
-                            "small": {
-                                "w": 680,
-                                "h": 340,
-                                "resize": "fit"
-                            },
-                            "large": {
-                                "w": 1024,
-                                "h": 512,
-                                "resize": "fit"
-                            },
-                            "medium": {
-                                "w": 1024,
-                                "h": 512,
-                                "resize": "fit"
-                            }
-                        }
-                    }
-                ]
-            },
-            "extended_entities": {
-                "media": [
-                    {
-                        "id": 1439968144752365577,
-                        "id_str": "1439968144752365577",
-                        "indices": [
-                            281,
-                            304
-                        ],
-                        "media_url": "http://pbs.twimg.com/media/E_vLZfvX0Ak__Fj.jpg",
-                        "media_url_https": "https://pbs.twimg.com/media/E_vLZfvX0Ak__Fj.jpg",
-                        "url": "https://t.co/wuxUAYHt0w",
-                        "display_url": "pic.twitter.com/wuxUAYHt0w",
-                        "expanded_url": "https://twitter.com/HistoryAtState/status/1439968146606198792/photo/1",
-                        "type": "photo",
-                        "sizes": {
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
-                            "small": {
-                                "w": 680,
-                                "h": 340,
-                                "resize": "fit"
-                            },
-                            "large": {
-                                "w": 1024,
-                                "h": 512,
-                                "resize": "fit"
-                            },
-                            "medium": {
-                                "w": 1024,
-                                "h": 512,
-                                "resize": "fit"
-                            }
-                        },
-                        "ext_alt_text": "[Two columns of handwritten proofreaders’ marks] Apply to be a Presidential Management Fellow, Office of the Historian, [insertion symbol] Editing and Publishing Division, U.S. Department of State PMF applications are open from Sept. 28 [en dash] Oct. 12, 2021: https://bit.ly/OH-PMF"
-                    }
-                ]
-            },
-            "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
-            "user": {
-                "id": 586570880,
-                "id_str": "586570880"
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "is_quote_status": false,
-            "retweet_count": 5,
-            "favorite_count": 4,
-            "favorited": false,
-            "retweeted": false,
-            "possibly_sensitive": false,
-            "lang": "en"
-        },
-        "retweet_count": 6,
-        "favorite_count": 11,
+        "is_quote_status": false,
+        "retweet_count": 5,
+        "favorite_count": 4,
         "favorited": false,
         "retweeted": false,
         "possibly_sensitive": false,
         "lang": "en"
-    }
-]
+    },
+    "retweet_count": 6,
+    "favorite_count": 11,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

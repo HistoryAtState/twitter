@@ -1,206 +1,204 @@
-[
-    {
-        "created_at": "Wed Mar 29 10:12:29 +0000 2017",
-        "id": 847028680425639936,
-        "id_str": "847028680425639936",
-        "full_text": "RT @USEmbassyFrance: Historiens, journalistes, \u00e9tudiants, connaissez-vous les archives en ligne du @HistoryAtState ? RDV sur https://t.co/S\u2026",
+{
+    "created_at": "Wed Mar 29 10:12:29 +0000 2017",
+    "id": 847028680425639940,
+    "id_str": "847028680425639936",
+    "full_text": "RT @USEmbassyFrance: Historiens, journalistes, étudiants, connaissez-vous les archives en ligne du @HistoryAtState ? RDV sur https://t.co/S…",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "USEmbassyFrance",
+                "name": "U.S. Embassy France",
+                "id": 72814599,
+                "id_str": "72814599",
+                "indices": [
+                    3,
+                    19
+                ]
+            },
+            {
+                "screen_name": "HistoryAtState",
+                "name": "HistoryAtState",
+                "id": 586570880,
+                "id_str": "586570880",
+                "indices": [
+                    99,
+                    114
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "source": "&lt;a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"&gt;Twitter for iPad&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Mar 29 09:45:15 +0000 2017",
+        "id": 847021827276845060,
+        "id_str": "847021827276845056",
+        "full_text": "Historiens, journalistes, étudiants, connaissez-vous les archives en ligne du @HistoryAtState ? RDV sur https://t.co/SsXAj4KP9F #FindFRUS https://t.co/gb7IvJxrFN",
         "truncated": false,
         "display_text_range": [
             0,
-            140
+            137
         ],
         "entities": {
-            "hashtags": [],
+            "hashtags": [
+                {
+                    "text": "FindFRUS",
+                    "indices": [
+                        128,
+                        137
+                    ]
+                }
+            ],
             "symbols": [],
             "user_mentions": [
-                {
-                    "screen_name": "USEmbassyFrance",
-                    "name": "U.S. Embassy France",
-                    "id": 72814599,
-                    "id_str": "72814599",
-                    "indices": [
-                        3,
-                        19
-                    ]
-                },
                 {
                     "screen_name": "HistoryAtState",
                     "name": "HistoryAtState",
                     "id": 586570880,
                     "id_str": "586570880",
                     "indices": [
-                        99,
-                        114
+                        78,
+                        93
                     ]
                 }
             ],
-            "urls": []
+            "urls": [
+                {
+                    "url": "https://t.co/SsXAj4KP9F",
+                    "expanded_url": "http://www.history.state.gov",
+                    "display_url": "history.state.gov",
+                    "indices": [
+                        104,
+                        127
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 847021779520557060,
+                    "id_str": "847021779520557057",
+                    "indices": [
+                        138,
+                        161
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/C8E50h1XkAEBgup.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/C8E50h1XkAEBgup.jpg",
+                    "url": "https://t.co/gb7IvJxrFN",
+                    "display_url": "pic.twitter.com/gb7IvJxrFN",
+                    "expanded_url": "https://twitter.com/USEmbassyFrance/status/847021827276845056/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 1000,
+                            "h": 778,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1000,
+                            "h": 778,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 529,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
         },
-        "source": "\u003ca href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c/a\u003e",
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 847021779520557060,
+                    "id_str": "847021779520557057",
+                    "indices": [
+                        138,
+                        161
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/C8E50h1XkAEBgup.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/C8E50h1XkAEBgup.jpg",
+                    "url": "https://t.co/gb7IvJxrFN",
+                    "display_url": "pic.twitter.com/gb7IvJxrFN",
+                    "expanded_url": "https://twitter.com/USEmbassyFrance/status/847021827276845056/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 1000,
+                            "h": 778,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1000,
+                            "h": 778,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 529,
+                            "resize": "fit"
+                        }
+                    },
+                    "ext_alt_text": null
+                }
+            ]
+        },
+        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
         "in_reply_to_screen_name": null,
         "user": {
-            "id": 586570880,
-            "id_str": "586570880"
+            "id": 72814599,
+            "id_str": "72814599"
         },
         "geo": null,
         "coordinates": null,
         "place": null,
         "contributors": null,
-        "retweeted_status": {
-            "created_at": "Wed Mar 29 09:45:15 +0000 2017",
-            "id": 847021827276845056,
-            "id_str": "847021827276845056",
-            "full_text": "Historiens, journalistes, \u00e9tudiants, connaissez-vous les archives en ligne du @HistoryAtState ? RDV sur https://t.co/SsXAj4KP9F #FindFRUS https://t.co/gb7IvJxrFN",
-            "truncated": false,
-            "display_text_range": [
-                0,
-                137
-            ],
-            "entities": {
-                "hashtags": [
-                    {
-                        "text": "FindFRUS",
-                        "indices": [
-                            128,
-                            137
-                        ]
-                    }
-                ],
-                "symbols": [],
-                "user_mentions": [
-                    {
-                        "screen_name": "HistoryAtState",
-                        "name": "HistoryAtState",
-                        "id": 586570880,
-                        "id_str": "586570880",
-                        "indices": [
-                            78,
-                            93
-                        ]
-                    }
-                ],
-                "urls": [
-                    {
-                        "url": "https://t.co/SsXAj4KP9F",
-                        "expanded_url": "http://www.history.state.gov",
-                        "display_url": "history.state.gov",
-                        "indices": [
-                            104,
-                            127
-                        ]
-                    }
-                ],
-                "media": [
-                    {
-                        "id": 847021779520557057,
-                        "id_str": "847021779520557057",
-                        "indices": [
-                            138,
-                            161
-                        ],
-                        "media_url": "http://pbs.twimg.com/media/C8E50h1XkAEBgup.jpg",
-                        "media_url_https": "https://pbs.twimg.com/media/C8E50h1XkAEBgup.jpg",
-                        "url": "https://t.co/gb7IvJxrFN",
-                        "display_url": "pic.twitter.com/gb7IvJxrFN",
-                        "expanded_url": "https://twitter.com/USEmbassyFrance/status/847021827276845056/photo/1",
-                        "type": "photo",
-                        "sizes": {
-                            "medium": {
-                                "w": 1000,
-                                "h": 778,
-                                "resize": "fit"
-                            },
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
-                            "large": {
-                                "w": 1000,
-                                "h": 778,
-                                "resize": "fit"
-                            },
-                            "small": {
-                                "w": 680,
-                                "h": 529,
-                                "resize": "fit"
-                            }
-                        }
-                    }
-                ]
-            },
-            "extended_entities": {
-                "media": [
-                    {
-                        "id": 847021779520557057,
-                        "id_str": "847021779520557057",
-                        "indices": [
-                            138,
-                            161
-                        ],
-                        "media_url": "http://pbs.twimg.com/media/C8E50h1XkAEBgup.jpg",
-                        "media_url_https": "https://pbs.twimg.com/media/C8E50h1XkAEBgup.jpg",
-                        "url": "https://t.co/gb7IvJxrFN",
-                        "display_url": "pic.twitter.com/gb7IvJxrFN",
-                        "expanded_url": "https://twitter.com/USEmbassyFrance/status/847021827276845056/photo/1",
-                        "type": "photo",
-                        "sizes": {
-                            "medium": {
-                                "w": 1000,
-                                "h": 778,
-                                "resize": "fit"
-                            },
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
-                            "large": {
-                                "w": 1000,
-                                "h": 778,
-                                "resize": "fit"
-                            },
-                            "small": {
-                                "w": 680,
-                                "h": 529,
-                                "resize": "fit"
-                            }
-                        },
-                        "ext_alt_text": null
-                    }
-                ]
-            },
-            "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
-            "user": {
-                "id": 72814599,
-                "id_str": "72814599"
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "is_quote_status": false,
-            "retweet_count": 10,
-            "favorite_count": 18,
-            "favorited": false,
-            "retweeted": true,
-            "possibly_sensitive": false,
-            "lang": "fr"
-        },
         "is_quote_status": false,
         "retweet_count": 10,
-        "favorite_count": 0,
+        "favorite_count": 18,
         "favorited": false,
         "retweeted": true,
+        "possibly_sensitive": false,
         "lang": "fr"
-    }
-]
+    },
+    "is_quote_status": false,
+    "retweet_count": 10,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "fr"
+}

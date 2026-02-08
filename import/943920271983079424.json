@@ -1,72 +1,70 @@
-[
-    {
-        "created_at": "Thu Dec 21 19:05:04 +0000 2017",
-        "id": 943920271983079424,
-        "id_str": "943920271983079424",
-        "full_text": "While the plenary sessions of the negotiations took place at the Hotel Majestic on Avenue Kleber, Kissinger and Le Duc Tho met at secret locations throughout #Paris https://t.co/2p5GVhWO6R #FRUS #VietnamWar",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            206
+{
+    "created_at": "Thu Dec 21 19:05:04 +0000 2017",
+    "id": 943920271983079420,
+    "id_str": "943920271983079424",
+    "full_text": "While the plenary sessions of the negotiations took place at the Hotel Majestic on Avenue Kleber, Kissinger and Le Duc Tho met at secret locations throughout #Paris https://t.co/2p5GVhWO6R #FRUS #VietnamWar",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        206
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Paris",
+                "indices": [
+                    158,
+                    164
+                ]
+            },
+            {
+                "text": "FRUS",
+                "indices": [
+                    189,
+                    194
+                ]
+            },
+            {
+                "text": "VietnamWar",
+                "indices": [
+                    195,
+                    206
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "Paris",
-                    "indices": [
-                        158,
-                        164
-                    ]
-                },
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        189,
-                        194
-                    ]
-                },
-                {
-                    "text": "VietnamWar",
-                    "indices": [
-                        195,
-                        206
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "https://t.co/2p5GVhWO6R",
-                    "expanded_url": "https://history.state.gov/historicaldocuments/frus1969-76v42",
-                    "display_url": "history.state.gov/historicaldocu\u2026",
-                    "indices": [
-                        165,
-                        188
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 3,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/2p5GVhWO6R",
+                "expanded_url": "https://history.state.gov/historicaldocuments/frus1969-76v42",
+                "display_url": "history.state.gov/historicaldocu…",
+                "indices": [
+                    165,
+                    188
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

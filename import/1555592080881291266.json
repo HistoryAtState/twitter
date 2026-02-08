@@ -1,61 +1,59 @@
-[
-    {
-        "created_at": "Fri Aug 05 16:30:28 +0000 2022",
-        "id": 1555592080881291266,
-        "id_str": "1555592080881291266",
-        "full_text": "\ud83d\udcf7 @StateDept:\nhttps://t.co/EnXB9f2f0O\n\n(2/2)",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            44
+{
+    "created_at": "Fri Aug 05 16:30:28 +0000 2022",
+    "id": 1555592080881291260,
+    "id_str": "1555592080881291266",
+    "full_text": "📷 @StateDept:\nhttps://t.co/EnXB9f2f0O\n\n(2/2)",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        44
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "StateDept",
+                "name": "Department of State",
+                "id": 9624742,
+                "id_str": "9624742",
+                "indices": [
+                    2,
+                    12
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "StateDept",
-                    "name": "Department of State",
-                    "id": 9624742,
-                    "id_str": "9624742",
-                    "indices": [
-                        2,
-                        12
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "https://t.co/EnXB9f2f0O",
-                    "expanded_url": "http://ow.ly/YYGs50KbW6V",
-                    "display_url": "ow.ly/YYGs50KbW6V",
-                    "indices": [
-                        14,
-                        37
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 0,
-        "favorite_count": 1,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "und"
-    }
-]
+        "urls": [
+            {
+                "url": "https://t.co/EnXB9f2f0O",
+                "expanded_url": "http://ow.ly/YYGs50KbW6V",
+                "display_url": "ow.ly/YYGs50KbW6V",
+                "indices": [
+                    14,
+                    37
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
+}

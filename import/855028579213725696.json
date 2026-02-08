@@ -1,61 +1,59 @@
-[
-    {
-        "created_at": "Thu Apr 20 12:01:13 +0000 2017",
-        "id": 855028579213725696,
-        "id_str": "855028579213725696",
-        "full_text": "Interested in documentary editing, or how #FRUS gets made? Check out \u201cDocumentary Editors as Public Historians\u201d at 10:30. #ncph2017 #s15",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            136
+{
+    "created_at": "Thu Apr 20 12:01:13 +0000 2017",
+    "id": 855028579213725700,
+    "id_str": "855028579213725696",
+    "full_text": "Interested in documentary editing, or how #FRUS gets made? Check out “Documentary Editors as Public Historians” at 10:30. #ncph2017 #s15",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        136
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FRUS",
+                "indices": [
+                    42,
+                    47
+                ]
+            },
+            {
+                "text": "ncph2017",
+                "indices": [
+                    122,
+                    131
+                ]
+            },
+            {
+                "text": "s15",
+                "indices": [
+                    132,
+                    136
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        42,
-                        47
-                    ]
-                },
-                {
-                    "text": "ncph2017",
-                    "indices": [
-                        122,
-                        131
-                    ]
-                },
-                {
-                    "text": "s15",
-                    "indices": [
-                        132,
-                        136
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": []
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 3,
-        "favorite_count": 8,
-        "favorited": false,
-        "retweeted": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

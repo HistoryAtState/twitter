@@ -1,169 +1,167 @@
-[
-    {
-        "created_at": "Fri Mar 03 16:10:17 +0000 2017",
-        "id": 837696640882470914,
-        "id_str": "837696640882470914",
-        "full_text": ".@HillaryClinton, 1st woman to gain major party nom, former #SecState + #FirstLady: https://t.co/iWJKell8MJ  #womenshistorymonth #girlpower https://t.co/VorSmOcE8O",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            139
+{
+    "created_at": "Fri Mar 03 16:10:17 +0000 2017",
+    "id": 837696640882470910,
+    "id_str": "837696640882470914",
+    "full_text": ".@HillaryClinton, 1st woman to gain major party nom, former #SecState + #FirstLady: https://t.co/iWJKell8MJ  #womenshistorymonth #girlpower https://t.co/VorSmOcE8O",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "SecState",
+                "indices": [
+                    60,
+                    69
+                ]
+            },
+            {
+                "text": "FirstLady",
+                "indices": [
+                    72,
+                    82
+                ]
+            },
+            {
+                "text": "womenshistorymonth",
+                "indices": [
+                    109,
+                    128
+                ]
+            },
+            {
+                "text": "girlpower",
+                "indices": [
+                    129,
+                    139
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "SecState",
-                    "indices": [
-                        60,
-                        69
-                    ]
-                },
-                {
-                    "text": "FirstLady",
-                    "indices": [
-                        72,
-                        82
-                    ]
-                },
-                {
-                    "text": "womenshistorymonth",
-                    "indices": [
-                        109,
-                        128
-                    ]
-                },
-                {
-                    "text": "girlpower",
-                    "indices": [
-                        129,
-                        139
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "HillaryClinton",
-                    "name": "Hillary Clinton",
-                    "id": 1339835893,
-                    "id_str": "1339835893",
-                    "indices": [
-                        1,
-                        16
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "https://t.co/iWJKell8MJ",
-                    "expanded_url": "http://go.usa.gov/xX34Z",
-                    "display_url": "go.usa.gov/xX34Z",
-                    "indices": [
-                        84,
-                        107
-                    ]
-                }
-            ],
-            "media": [
-                {
-                    "id": 837696636763648000,
-                    "id_str": "837696636763648000",
-                    "indices": [
-                        140,
-                        163
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/C6AYpx_WMAAzFRh.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/C6AYpx_WMAAzFRh.jpg",
-                    "url": "https://t.co/VorSmOcE8O",
-                    "display_url": "pic.twitter.com/VorSmOcE8O",
-                    "expanded_url": "https://twitter.com/HistoryAtState/status/837696640882470914/photo/1",
-                    "type": "photo",
-                    "sizes": {
-                        "small": {
-                            "w": 544,
-                            "h": 680,
-                            "resize": "fit"
-                        },
-                        "medium": {
-                            "w": 960,
-                            "h": 1200,
-                            "resize": "fit"
-                        },
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
-                        },
-                        "large": {
-                            "w": 1638,
-                            "h": 2048,
-                            "resize": "fit"
-                        }
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "HillaryClinton",
+                "name": "Hillary Clinton",
+                "id": 1339835893,
+                "id_str": "1339835893",
+                "indices": [
+                    1,
+                    16
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/iWJKell8MJ",
+                "expanded_url": "http://go.usa.gov/xX34Z",
+                "display_url": "go.usa.gov/xX34Z",
+                "indices": [
+                    84,
+                    107
+                ]
+            }
+        ],
+        "media": [
+            {
+                "id": 837696636763648000,
+                "id_str": "837696636763648000",
+                "indices": [
+                    140,
+                    163
+                ],
+                "media_url": "http://pbs.twimg.com/media/C6AYpx_WMAAzFRh.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/C6AYpx_WMAAzFRh.jpg",
+                "url": "https://t.co/VorSmOcE8O",
+                "display_url": "pic.twitter.com/VorSmOcE8O",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/837696640882470914/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 544,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 960,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1638,
+                        "h": 2048,
+                        "resize": "fit"
                     }
                 }
-            ]
-        },
-        "extended_entities": {
-            "media": [
-                {
-                    "id": 837696636763648000,
-                    "id_str": "837696636763648000",
-                    "indices": [
-                        140,
-                        163
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/C6AYpx_WMAAzFRh.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/C6AYpx_WMAAzFRh.jpg",
-                    "url": "https://t.co/VorSmOcE8O",
-                    "display_url": "pic.twitter.com/VorSmOcE8O",
-                    "expanded_url": "https://twitter.com/HistoryAtState/status/837696640882470914/photo/1",
-                    "type": "photo",
-                    "sizes": {
-                        "small": {
-                            "w": 544,
-                            "h": 680,
-                            "resize": "fit"
-                        },
-                        "medium": {
-                            "w": 960,
-                            "h": 1200,
-                            "resize": "fit"
-                        },
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
-                        },
-                        "large": {
-                            "w": 1638,
-                            "h": 2048,
-                            "resize": "fit"
-                        }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 837696636763648000,
+                "id_str": "837696636763648000",
+                "indices": [
+                    140,
+                    163
+                ],
+                "media_url": "http://pbs.twimg.com/media/C6AYpx_WMAAzFRh.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/C6AYpx_WMAAzFRh.jpg",
+                "url": "https://t.co/VorSmOcE8O",
+                "display_url": "pic.twitter.com/VorSmOcE8O",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/837696640882470914/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 544,
+                        "h": 680,
+                        "resize": "fit"
                     },
-                    "ext_alt_text": null
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 1,
-        "favorite_count": 6,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+                    "medium": {
+                        "w": 960,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1638,
+                        "h": 2048,
+                        "resize": "fit"
+                    }
+                },
+                "ext_alt_text": null
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

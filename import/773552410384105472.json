@@ -1,65 +1,63 @@
-[
-    {
-        "created_at": "Wed Sep 07 16:04:01 +0000 2016",
-        "id": 773552410384105472,
-        "id_str": "773552410384105472",
-        "full_text": "Read John Foster Dulles' telegram describing his official visit to #Laos in 1955: https://t.co/YINwKmmNWT #FRUS",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            111
+{
+    "created_at": "Wed Sep 07 16:04:01 +0000 2016",
+    "id": 773552410384105470,
+    "id_str": "773552410384105472",
+    "full_text": "Read John Foster Dulles' telegram describing his official visit to #Laos in 1955: https://t.co/YINwKmmNWT #FRUS",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        111
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Laos",
+                "indices": [
+                    67,
+                    72
+                ]
+            },
+            {
+                "text": "FRUS",
+                "indices": [
+                    106,
+                    111
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "Laos",
-                    "indices": [
-                        67,
-                        72
-                    ]
-                },
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        106,
-                        111
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "https://t.co/YINwKmmNWT",
-                    "expanded_url": "https://history.state.gov/historicaldocuments/frus1955-57v21/d281",
-                    "display_url": "history.state.gov/historicaldocu\u2026",
-                    "indices": [
-                        82,
-                        105
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 2,
-        "favorite_count": 2,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/YINwKmmNWT",
+                "expanded_url": "https://history.state.gov/historicaldocuments/frus1955-57v21/d281",
+                "display_url": "history.state.gov/historicaldocu…",
+                "indices": [
+                    82,
+                    105
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

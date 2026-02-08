@@ -1,156 +1,154 @@
-[
-    {
-        "created_at": "Wed Jun 27 18:01:26 +0000 2018",
-        "id": 1012033176062119936,
-        "id_str": "1012033176062119936",
-        "full_text": "RT @StateINL: INL has a new leader! Watch Kirsten Madison talk ab't the @StateDept effort to fight the #opioidcrisis, among other INL effor\u2026",
+{
+    "created_at": "Wed Jun 27 18:01:26 +0000 2018",
+    "id": 1012033176062119940,
+    "id_str": "1012033176062119936",
+    "full_text": "RT @StateINL: INL has a new leader! Watch Kirsten Madison talk ab't the @StateDept effort to fight the #opioidcrisis, among other INL effor…",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "opioidcrisis",
+                "indices": [
+                    103,
+                    116
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "StateINL",
+                "name": "US Dept of State INL",
+                "id": 123635567,
+                "id_str": "123635567",
+                "indices": [
+                    3,
+                    12
+                ]
+            },
+            {
+                "screen_name": "StateDept",
+                "name": "Department of State",
+                "id": 9624742,
+                "id_str": "9624742",
+                "indices": [
+                    72,
+                    82
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jun 27 14:33:12 +0000 2018",
+        "id": 1011980771068989440,
+        "id_str": "1011980771068989441",
+        "full_text": "INL has a new leader! Watch Kirsten Madison talk ab't the @StateDept effort to fight the #opioidcrisis, among other INL efforts to safeguard the American ppl thru combating crime, bolstering #LawEnforcement &amp;amp; #RuleOfLaw globally: https://t.co/s8PvCVpLss. #TheReadout",
         "truncated": false,
         "display_text_range": [
             0,
-            140
+            270
         ],
         "entities": {
             "hashtags": [
                 {
                     "text": "opioidcrisis",
                     "indices": [
-                        103,
-                        116
+                        89,
+                        102
+                    ]
+                },
+                {
+                    "text": "LawEnforcement",
+                    "indices": [
+                        191,
+                        206
+                    ]
+                },
+                {
+                    "text": "RuleOfLaw",
+                    "indices": [
+                        213,
+                        223
+                    ]
+                },
+                {
+                    "text": "TheReadout",
+                    "indices": [
+                        259,
+                        270
                     ]
                 }
             ],
             "symbols": [],
             "user_mentions": [
                 {
-                    "screen_name": "StateINL",
-                    "name": "US Dept of State INL",
-                    "id": 123635567,
-                    "id_str": "123635567",
-                    "indices": [
-                        3,
-                        12
-                    ]
-                },
-                {
                     "screen_name": "StateDept",
                     "name": "Department of State",
                     "id": 9624742,
                     "id_str": "9624742",
                     "indices": [
-                        72,
-                        82
+                        58,
+                        68
                     ]
                 }
             ],
-            "urls": []
+            "urls": [
+                {
+                    "url": "https://t.co/s8PvCVpLss",
+                    "expanded_url": "https://youtu.be/BE8lu_2Lmrg",
+                    "display_url": "youtu.be/BE8lu_2Lmrg",
+                    "indices": [
+                        234,
+                        257
+                    ]
+                }
+            ]
         },
-        "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
+        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
         "in_reply_to_screen_name": null,
         "user": {
-            "id": 586570880,
-            "id_str": "586570880"
+            "id": 123635567,
+            "id_str": "123635567"
         },
         "geo": null,
         "coordinates": null,
         "place": null,
         "contributors": null,
-        "retweeted_status": {
-            "created_at": "Wed Jun 27 14:33:12 +0000 2018",
-            "id": 1011980771068989441,
-            "id_str": "1011980771068989441",
-            "full_text": "INL has a new leader! Watch Kirsten Madison talk ab't the @StateDept effort to fight the #opioidcrisis, among other INL efforts to safeguard the American ppl thru combating crime, bolstering #LawEnforcement &amp; #RuleOfLaw globally: https://t.co/s8PvCVpLss. #TheReadout",
-            "truncated": false,
-            "display_text_range": [
-                0,
-                270
-            ],
-            "entities": {
-                "hashtags": [
-                    {
-                        "text": "opioidcrisis",
-                        "indices": [
-                            89,
-                            102
-                        ]
-                    },
-                    {
-                        "text": "LawEnforcement",
-                        "indices": [
-                            191,
-                            206
-                        ]
-                    },
-                    {
-                        "text": "RuleOfLaw",
-                        "indices": [
-                            213,
-                            223
-                        ]
-                    },
-                    {
-                        "text": "TheReadout",
-                        "indices": [
-                            259,
-                            270
-                        ]
-                    }
-                ],
-                "symbols": [],
-                "user_mentions": [
-                    {
-                        "screen_name": "StateDept",
-                        "name": "Department of State",
-                        "id": 9624742,
-                        "id_str": "9624742",
-                        "indices": [
-                            58,
-                            68
-                        ]
-                    }
-                ],
-                "urls": [
-                    {
-                        "url": "https://t.co/s8PvCVpLss",
-                        "expanded_url": "https://youtu.be/BE8lu_2Lmrg",
-                        "display_url": "youtu.be/BE8lu_2Lmrg",
-                        "indices": [
-                            234,
-                            257
-                        ]
-                    }
-                ]
-            },
-            "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
-            "user": {
-                "id": 123635567,
-                "id_str": "123635567"
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "is_quote_status": false,
-            "retweet_count": 36,
-            "favorite_count": 41,
-            "favorited": false,
-            "retweeted": true,
-            "possibly_sensitive": false,
-            "lang": "en"
-        },
         "is_quote_status": false,
         "retweet_count": 36,
-        "favorite_count": 0,
+        "favorite_count": 41,
         "favorited": false,
         "retweeted": true,
+        "possibly_sensitive": false,
         "lang": "en"
-    }
-]
+    },
+    "is_quote_status": false,
+    "retweet_count": 36,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "en"
+}

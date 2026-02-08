@@ -1,65 +1,63 @@
-[
-    {
-        "created_at": "Mon Mar 02 14:31:04 +0000 2015",
-        "id": 572403752608636928,
-        "id_str": "572403752608636928",
-        "full_text": "Now available: Foreign Relations, 1948, The Far East: China, Vol. VII http://t.co/gPds8LiqeP #FRUS #twitterstorians",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            115
+{
+    "created_at": "Mon Mar 02 14:31:04 +0000 2015",
+    "id": 572403752608636930,
+    "id_str": "572403752608636928",
+    "full_text": "Now available: Foreign Relations, 1948, The Far East: China, Vol. VII http://t.co/gPds8LiqeP #FRUS #twitterstorians",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        115
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FRUS",
+                "indices": [
+                    93,
+                    98
+                ]
+            },
+            {
+                "text": "twitterstorians",
+                "indices": [
+                    99,
+                    115
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        93,
-                        98
-                    ]
-                },
-                {
-                    "text": "twitterstorians",
-                    "indices": [
-                        99,
-                        115
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "http://t.co/gPds8LiqeP",
-                    "expanded_url": "http://go.usa.gov/3qkAQ",
-                    "display_url": "go.usa.gov/3qkAQ",
-                    "indices": [
-                        70,
-                        92
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 2,
-        "favorite_count": 1,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "http://t.co/gPds8LiqeP",
+                "expanded_url": "http://go.usa.gov/3qkAQ",
+                "display_url": "go.usa.gov/3qkAQ",
+                "indices": [
+                    70,
+                    92
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

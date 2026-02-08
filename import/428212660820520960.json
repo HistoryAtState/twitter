@@ -1,72 +1,70 @@
-[
-    {
-        "created_at": "Tue Jan 28 17:07:08 +0000 2014",
-        "id": 428212660820520960,
-        "id_str": "428212660820520960",
-        "full_text": "#WWI killed any chance that #FRUS would ever return to rapid publication of foreign policy documents http://t.co/1XBBterOQ9 #Twitterstorians",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            140
+{
+    "created_at": "Tue Jan 28 17:07:08 +0000 2014",
+    "id": 428212660820520960,
+    "id_str": "428212660820520960",
+    "full_text": "#WWI killed any chance that #FRUS would ever return to rapid publication of foreign policy documents http://t.co/1XBBterOQ9 #Twitterstorians",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "WWI",
+                "indices": [
+                    0,
+                    4
+                ]
+            },
+            {
+                "text": "FRUS",
+                "indices": [
+                    28,
+                    33
+                ]
+            },
+            {
+                "text": "Twitterstorians",
+                "indices": [
+                    124,
+                    140
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "WWI",
-                    "indices": [
-                        0,
-                        4
-                    ]
-                },
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        28,
-                        33
-                    ]
-                },
-                {
-                    "text": "Twitterstorians",
-                    "indices": [
-                        124,
-                        140
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "http://t.co/1XBBterOQ9",
-                    "expanded_url": "http://ow.ly/sZkv2",
-                    "display_url": "ow.ly/sZkv2",
-                    "indices": [
-                        101,
-                        123
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 5,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "http://t.co/1XBBterOQ9",
+                "expanded_url": "http://ow.ly/sZkv2",
+                "display_url": "ow.ly/sZkv2",
+                "indices": [
+                    101,
+                    123
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

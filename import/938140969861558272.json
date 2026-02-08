@@ -1,65 +1,63 @@
-[
-    {
-        "created_at": "Tue Dec 05 20:20:11 +0000 2017",
-        "id": 938140969861558272,
-        "id_str": "938140969861558272",
-        "full_text": "How important was # PublicDiplomacy to President Kennedy?  Read his memo to Edward R. Murrow regarding USIA\u2019s mission https://t.co/VSF6nbkupV #FRUS #twitterstorians",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            164
+{
+    "created_at": "Tue Dec 05 20:20:11 +0000 2017",
+    "id": 938140969861558270,
+    "id_str": "938140969861558272",
+    "full_text": "How important was # PublicDiplomacy to President Kennedy?  Read his memo to Edward R. Murrow regarding USIA’s mission https://t.co/VSF6nbkupV #FRUS #twitterstorians",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        164
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FRUS",
+                "indices": [
+                    142,
+                    147
+                ]
+            },
+            {
+                "text": "twitterstorians",
+                "indices": [
+                    148,
+                    164
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        142,
-                        147
-                    ]
-                },
-                {
-                    "text": "twitterstorians",
-                    "indices": [
-                        148,
-                        164
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "https://t.co/VSF6nbkupV",
-                    "expanded_url": "https://history.state.gov/historicaldocuments/frus1917-72PubDipv06/d109",
-                    "display_url": "history.state.gov/historicaldocu\u2026",
-                    "indices": [
-                        118,
-                        141
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 1,
-        "favorite_count": 1,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/VSF6nbkupV",
+                "expanded_url": "https://history.state.gov/historicaldocuments/frus1917-72PubDipv06/d109",
+                "display_url": "history.state.gov/historicaldocu…",
+                "indices": [
+                    118,
+                    141
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

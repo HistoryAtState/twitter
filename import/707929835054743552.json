@@ -1,86 +1,84 @@
-[
-    {
-        "created_at": "Thu Mar 10 14:03:20 +0000 2016",
-        "id": 707929835054743552,
-        "id_str": "707929835054743552",
-        "full_text": "We\u2019ll be in Baltimore next week for the @ncph\u2014@SHFGHistorians meeting Challenging the Exclusive Past https://t.co/gTZbYET7e5 #ncph2016 #FRUS",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            140
+{
+    "created_at": "Thu Mar 10 14:03:20 +0000 2016",
+    "id": 707929835054743550,
+    "id_str": "707929835054743552",
+    "full_text": "We’ll be in Baltimore next week for the @ncph—@SHFGHistorians meeting Challenging the Exclusive Past https://t.co/gTZbYET7e5 #ncph2016 #FRUS",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "ncph2016",
+                "indices": [
+                    125,
+                    134
+                ]
+            },
+            {
+                "text": "FRUS",
+                "indices": [
+                    135,
+                    140
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "ncph2016",
-                    "indices": [
-                        125,
-                        134
-                    ]
-                },
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        135,
-                        140
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "ncph",
-                    "name": "NCPH",
-                    "id": 119292779,
-                    "id_str": "119292779",
-                    "indices": [
-                        40,
-                        45
-                    ]
-                },
-                {
-                    "screen_name": "SHFGHistorians",
-                    "name": "SHFGHistorians",
-                    "id": 486867266,
-                    "id_str": "486867266",
-                    "indices": [
-                        46,
-                        61
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "https://t.co/gTZbYET7e5",
-                    "expanded_url": "http://ncph.org/conference/2016-annual-meeting/",
-                    "display_url": "ncph.org/conference/201\u2026",
-                    "indices": [
-                        101,
-                        124
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 1,
-        "favorite_count": 4,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ncph",
+                "name": "NCPH",
+                "id": 119292779,
+                "id_str": "119292779",
+                "indices": [
+                    40,
+                    45
+                ]
+            },
+            {
+                "screen_name": "SHFGHistorians",
+                "name": "SHFGHistorians",
+                "id": 486867266,
+                "id_str": "486867266",
+                "indices": [
+                    46,
+                    61
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/gTZbYET7e5",
+                "expanded_url": "http://ncph.org/conference/2016-annual-meeting/",
+                "display_url": "ncph.org/conference/201…",
+                "indices": [
+                    101,
+                    124
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

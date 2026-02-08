@@ -1,61 +1,59 @@
-[
-    {
-        "created_at": "Fri Jul 13 17:00:56 +0000 2018",
-        "id": 1017816155183034370,
-        "id_str": "1017816155183034370",
-        "full_text": "Are you interested in U.S. relations with European countries? Join the @StateDept Office of the Historian VSFS history team! Virtual intern applications due by July 31st: https://t.co/kwLRWIrDk8",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            194
+{
+    "created_at": "Fri Jul 13 17:00:56 +0000 2018",
+    "id": 1017816155183034370,
+    "id_str": "1017816155183034370",
+    "full_text": "Are you interested in U.S. relations with European countries? Join the @StateDept Office of the Historian VSFS history team! Virtual intern applications due by July 31st: https://t.co/kwLRWIrDk8",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        194
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "StateDept",
+                "name": "Department of State",
+                "id": 9624742,
+                "id_str": "9624742",
+                "indices": [
+                    71,
+                    81
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "StateDept",
-                    "name": "Department of State",
-                    "id": 9624742,
-                    "id_str": "9624742",
-                    "indices": [
-                        71,
-                        81
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "https://t.co/kwLRWIrDk8",
-                    "expanded_url": "https://vsfs.state.gov/projects/view/1422",
-                    "display_url": "vsfs.state.gov/projects/view/\u2026",
-                    "indices": [
-                        171,
-                        194
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 1,
-        "favorite_count": 1,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "urls": [
+            {
+                "url": "https://t.co/kwLRWIrDk8",
+                "expanded_url": "https://vsfs.state.gov/projects/view/1422",
+                "display_url": "vsfs.state.gov/projects/view/…",
+                "indices": [
+                    171,
+                    194
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

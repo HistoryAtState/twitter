@@ -1,54 +1,52 @@
-[
-    {
-        "created_at": "Thu Jun 22 14:09:45 +0000 2017",
-        "id": 877891360254242816,
-        "id_str": "877891360254242816",
-        "full_text": "Excited to attend \"Human Rights and U.S. Foreign Relations\" at 11:45EST today at #shafr2017 #twitterstorians",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            108
+{
+    "created_at": "Thu Jun 22 14:09:45 +0000 2017",
+    "id": 877891360254242820,
+    "id_str": "877891360254242816",
+    "full_text": "Excited to attend \"Human Rights and U.S. Foreign Relations\" at 11:45EST today at #shafr2017 #twitterstorians",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        108
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "shafr2017",
+                "indices": [
+                    81,
+                    91
+                ]
+            },
+            {
+                "text": "twitterstorians",
+                "indices": [
+                    92,
+                    108
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "shafr2017",
-                    "indices": [
-                        81,
-                        91
-                    ]
-                },
-                {
-                    "text": "twitterstorians",
-                    "indices": [
-                        92,
-                        108
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": []
-        },
-        "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 0,
-        "favorite_count": 1,
-        "favorited": false,
-        "retweeted": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

@@ -1,58 +1,56 @@
-[
-    {
-        "created_at": "Tue Oct 18 20:01:50 +0000 2016",
-        "id": 788470161720442880,
-        "id_str": "788470161720442880",
-        "full_text": "November 9, 1973. White House reports cease fire agreement between Egypt and Israel: https://t.co/nc8l577YBS #FRUS",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            114
+{
+    "created_at": "Tue Oct 18 20:01:50 +0000 2016",
+    "id": 788470161720442880,
+    "id_str": "788470161720442880",
+    "full_text": "November 9, 1973. White House reports cease fire agreement between Egypt and Israel: https://t.co/nc8l577YBS #FRUS",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        114
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FRUS",
+                "indices": [
+                    109,
+                    114
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        109,
-                        114
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "https://t.co/nc8l577YBS",
-                    "expanded_url": "http://go.usa.gov/xkyvv",
-                    "display_url": "go.usa.gov/xkyvv",
-                    "indices": [
-                        85,
-                        108
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 1,
-        "favorite_count": 1,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/nc8l577YBS",
+                "expanded_url": "http://go.usa.gov/xkyvv",
+                "display_url": "go.usa.gov/xkyvv",
+                "indices": [
+                    85,
+                    108
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

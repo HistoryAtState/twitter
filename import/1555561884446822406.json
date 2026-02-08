@@ -1,61 +1,59 @@
-[
-    {
-        "created_at": "Fri Aug 05 14:30:28 +0000 2022",
-        "id": 1555561884446822406,
-        "id_str": "1555561884446822406",
-        "full_text": "\ud83d\udcf7 @librarycongress \nLOC Control #2021669527: https://t.co/RpCRBCQwCp\n\n(2/2)",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            75
+{
+    "created_at": "Fri Aug 05 14:30:28 +0000 2022",
+    "id": 1555561884446822400,
+    "id_str": "1555561884446822406",
+    "full_text": "📷 @librarycongress \nLOC Control #2021669527: https://t.co/RpCRBCQwCp\n\n(2/2)",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        75
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "librarycongress",
+                "name": "Library of Congress",
+                "id": 7152572,
+                "id_str": "7152572",
+                "indices": [
+                    2,
+                    18
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "librarycongress",
-                    "name": "Library of Congress",
-                    "id": 7152572,
-                    "id_str": "7152572",
-                    "indices": [
-                        2,
-                        18
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "https://t.co/RpCRBCQwCp",
-                    "expanded_url": "http://ow.ly/182E50KbWaT",
-                    "display_url": "ow.ly/182E50KbWaT",
-                    "indices": [
-                        45,
-                        68
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 0,
-        "favorite_count": 1,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "urls": [
+            {
+                "url": "https://t.co/RpCRBCQwCp",
+                "expanded_url": "http://ow.ly/182E50KbWaT",
+                "display_url": "ow.ly/182E50KbWaT",
+                "indices": [
+                    45,
+                    68
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

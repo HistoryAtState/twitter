@@ -1,65 +1,63 @@
-[
-    {
-        "created_at": "Tue Apr 01 14:00:22 +0000 2014",
-        "id": 450996092562202624,
-        "id_str": "450996092562202624",
-        "full_text": "Interested in federal or public history? The #SHFG2014 conference is on April 4, in Shepherdstown. http://t.co/77hxJw1x04  #twitterstorians",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            139
+{
+    "created_at": "Tue Apr 01 14:00:22 +0000 2014",
+    "id": 450996092562202620,
+    "id_str": "450996092562202624",
+    "full_text": "Interested in federal or public history? The #SHFG2014 conference is on April 4, in Shepherdstown. http://t.co/77hxJw1x04  #twitterstorians",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "SHFG2014",
+                "indices": [
+                    45,
+                    54
+                ]
+            },
+            {
+                "text": "twitterstorians",
+                "indices": [
+                    123,
+                    139
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "SHFG2014",
-                    "indices": [
-                        45,
-                        54
-                    ]
-                },
-                {
-                    "text": "twitterstorians",
-                    "indices": [
-                        123,
-                        139
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "http://t.co/77hxJw1x04",
-                    "expanded_url": "http://bit.ly/1khbSpX",
-                    "display_url": "bit.ly/1khbSpX",
-                    "indices": [
-                        99,
-                        121
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 1,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "http://t.co/77hxJw1x04",
+                "expanded_url": "http://bit.ly/1khbSpX",
+                "display_url": "bit.ly/1khbSpX",
+                "indices": [
+                    99,
+                    121
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

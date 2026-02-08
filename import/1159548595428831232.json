@@ -1,69 +1,67 @@
-[
-    {
-        "created_at": "Thu Aug 08 19:35:03 +0000 2019",
-        "id": 1159548595428831232,
-        "id_str": "1159548595428831232",
-        "full_text": "Read the moment-by-moment reporting of 1977 airport attack and attempted coup in Dhaka in #FRUS, 1977\u201380, South Asia: https://t.co/gxK05QWJob @usembassydhaka",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            157
+{
+    "created_at": "Thu Aug 08 19:35:03 +0000 2019",
+    "id": 1159548595428831230,
+    "id_str": "1159548595428831232",
+    "full_text": "Read the moment-by-moment reporting of 1977 airport attack and attempted coup in Dhaka in #FRUS, 1977–80, South Asia: https://t.co/gxK05QWJob @usembassydhaka",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        157
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FRUS",
+                "indices": [
+                    90,
+                    95
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        90,
-                        95
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "usembassydhaka",
-                    "name": "U.S. Embassy Dhaka",
-                    "id": 216234513,
-                    "id_str": "216234513",
-                    "indices": [
-                        142,
-                        157
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "https://t.co/gxK05QWJob",
-                    "expanded_url": "https://go.usa.gov/xyFfv",
-                    "display_url": "go.usa.gov/xyFfv",
-                    "indices": [
-                        118,
-                        141
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 2,
-        "favorite_count": 1,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "usembassydhaka",
+                "name": "U.S. Embassy Dhaka",
+                "id": 216234513,
+                "id_str": "216234513",
+                "indices": [
+                    142,
+                    157
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/gxK05QWJob",
+                "expanded_url": "https://go.usa.gov/xyFfv",
+                "display_url": "go.usa.gov/xyFfv",
+                "indices": [
+                    118,
+                    141
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

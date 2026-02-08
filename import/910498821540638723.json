@@ -1,50 +1,48 @@
-[
-    {
-        "created_at": "Wed Sep 20 13:40:09 +0000 2017",
-        "id": 910498821540638723,
-        "id_str": "910498821540638723",
-        "full_text": "Now available: Foreign Relations, 1931, Vol. I https://t.co/a5zbM44CGp",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            70
-        ],
-        "entities": {
-            "hashtags": [],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "https://t.co/a5zbM44CGp",
-                    "expanded_url": "https://history.state.gov/historicaldocuments/frus1931v01",
-                    "display_url": "history.state.gov/historicaldocu\u2026",
-                    "indices": [
-                        47,
-                        70
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 0,
-        "favorite_count": 1,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+{
+    "created_at": "Wed Sep 20 13:40:09 +0000 2017",
+    "id": 910498821540638720,
+    "id_str": "910498821540638723",
+    "full_text": "Now available: Foreign Relations, 1931, Vol. I https://t.co/a5zbM44CGp",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        70
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/a5zbM44CGp",
+                "expanded_url": "https://history.state.gov/historicaldocuments/frus1931v01",
+                "display_url": "history.state.gov/historicaldocu…",
+                "indices": [
+                    47,
+                    70
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

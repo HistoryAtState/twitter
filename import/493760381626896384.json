@@ -1,76 +1,74 @@
-[
-    {
-        "created_at": "Mon Jul 28 14:10:23 +0000 2014",
-        "id": 493760381626896384,
-        "id_str": "493760381626896384",
-        "full_text": "#TDiH 1914 @USEmbVienna Amb Penfield relays to WDC Austro-Hungarian declaration of war vs Serbia #WW1Tweet http://t.co/odk6cSz0Yv",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            129
+{
+    "created_at": "Mon Jul 28 14:10:23 +0000 2014",
+    "id": 493760381626896380,
+    "id_str": "493760381626896384",
+    "full_text": "#TDiH 1914 @USEmbVienna Amb Penfield relays to WDC Austro-Hungarian declaration of war vs Serbia #WW1Tweet http://t.co/odk6cSz0Yv",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        129
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "TDiH",
+                "indices": [
+                    0,
+                    5
+                ]
+            },
+            {
+                "text": "WW1Tweet",
+                "indices": [
+                    97,
+                    106
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "TDiH",
-                    "indices": [
-                        0,
-                        5
-                    ]
-                },
-                {
-                    "text": "WW1Tweet",
-                    "indices": [
-                        97,
-                        106
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "usembvienna",
-                    "name": "U.S. Embassy Vienna",
-                    "id": 86029229,
-                    "id_str": "86029229",
-                    "indices": [
-                        11,
-                        23
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "http://t.co/odk6cSz0Yv",
-                    "expanded_url": "http://go.usa.gov/5wZh",
-                    "display_url": "go.usa.gov/5wZh",
-                    "indices": [
-                        107,
-                        129
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 0,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "usembvienna",
+                "name": "U.S. Embassy Vienna",
+                "id": 86029229,
+                "id_str": "86029229",
+                "indices": [
+                    11,
+                    23
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "http://t.co/odk6cSz0Yv",
+                "expanded_url": "http://go.usa.gov/5wZh",
+                "display_url": "go.usa.gov/5wZh",
+                "indices": [
+                    107,
+                    129
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

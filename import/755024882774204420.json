@@ -1,65 +1,63 @@
-[
-    {
-        "created_at": "Mon Jul 18 13:02:14 +0000 2016",
-        "id": 755024882774204420,
-        "id_str": "755024882774204420",
-        "full_text": "We will be in New Orleans for the Association for Documentary #Editing Conference, August 4\u20136: https://t.co/16I41fZLMQ #twitterstorians",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            135
+{
+    "created_at": "Mon Jul 18 13:02:14 +0000 2016",
+    "id": 755024882774204420,
+    "id_str": "755024882774204420",
+    "full_text": "We will be in New Orleans for the Association for Documentary #Editing Conference, August 4–6: https://t.co/16I41fZLMQ #twitterstorians",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        135
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Editing",
+                "indices": [
+                    62,
+                    70
+                ]
+            },
+            {
+                "text": "twitterstorians",
+                "indices": [
+                    119,
+                    135
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "Editing",
-                    "indices": [
-                        62,
-                        70
-                    ]
-                },
-                {
-                    "text": "twitterstorians",
-                    "indices": [
-                        119,
-                        135
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "https://t.co/16I41fZLMQ",
-                    "expanded_url": "http://www.documentaryediting.org/wordpress/?page_id=71",
-                    "display_url": "documentaryediting.org/wordpress/?pag\u2026",
-                    "indices": [
-                        95,
-                        118
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 0,
-        "favorite_count": 2,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/16I41fZLMQ",
+                "expanded_url": "http://www.documentaryediting.org/wordpress/?page_id=71",
+                "display_url": "documentaryediting.org/wordpress/?pag…",
+                "indices": [
+                    95,
+                    118
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

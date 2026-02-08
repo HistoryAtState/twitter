@@ -1,68 +1,66 @@
-[
-    {
-        "created_at": "Thu Jun 23 16:05:47 +0000 2016",
-        "id": 746011378071244800,
-        "id_str": "746011378071244800",
-        "full_text": "We\u2019ll discuss methods of charting the #FRUS series at \u201cBridging the Two DHs\u201d tomorrow at 2:30! #SHAFR2016 #twitterstorians #dh",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            126
+{
+    "created_at": "Thu Jun 23 16:05:47 +0000 2016",
+    "id": 746011378071244800,
+    "id_str": "746011378071244800",
+    "full_text": "We’ll discuss methods of charting the #FRUS series at “Bridging the Two DHs” tomorrow at 2:30! #SHAFR2016 #twitterstorians #dh",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        126
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FRUS",
+                "indices": [
+                    38,
+                    43
+                ]
+            },
+            {
+                "text": "SHAFR2016",
+                "indices": [
+                    95,
+                    105
+                ]
+            },
+            {
+                "text": "twitterstorians",
+                "indices": [
+                    106,
+                    122
+                ]
+            },
+            {
+                "text": "dh",
+                "indices": [
+                    123,
+                    126
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        38,
-                        43
-                    ]
-                },
-                {
-                    "text": "SHAFR2016",
-                    "indices": [
-                        95,
-                        105
-                    ]
-                },
-                {
-                    "text": "twitterstorians",
-                    "indices": [
-                        106,
-                        122
-                    ]
-                },
-                {
-                    "text": "dh",
-                    "indices": [
-                        123,
-                        126
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": []
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 1,
-        "favorite_count": 2,
-        "favorited": false,
-        "retweeted": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

@@ -1,74 +1,72 @@
-[
-    {
-        "created_at": "Tue Feb 14 14:05:28 +0000 2017",
-        "id": 831504636024651777,
-        "id_str": "831504636024651777",
-        "full_text": "#OTD in 1979 Ambassador Adolph \u201cSpike\u201d Dubs was assassinated in Afghanistan #FRUS https://t.co/vC5x1HmydF and https://t.co/WBDKmakVIp",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            133
+{
+    "created_at": "Tue Feb 14 14:05:28 +0000 2017",
+    "id": 831504636024651780,
+    "id_str": "831504636024651777",
+    "full_text": "#OTD in 1979 Ambassador Adolph “Spike” Dubs was assassinated in Afghanistan #FRUS https://t.co/vC5x1HmydF and https://t.co/WBDKmakVIp",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        133
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "OTD",
+                "indices": [
+                    0,
+                    4
+                ]
+            },
+            {
+                "text": "FRUS",
+                "indices": [
+                    76,
+                    81
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "OTD",
-                    "indices": [
-                        0,
-                        4
-                    ]
-                },
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        76,
-                        81
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "https://t.co/vC5x1HmydF",
-                    "expanded_url": "http://go.usa.gov/x9Mp6",
-                    "display_url": "go.usa.gov/x9Mp6",
-                    "indices": [
-                        82,
-                        105
-                    ]
-                },
-                {
-                    "url": "https://t.co/WBDKmakVIp",
-                    "expanded_url": "http://go.usa.gov/x9er4",
-                    "display_url": "go.usa.gov/x9er4",
-                    "indices": [
-                        110,
-                        133
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 1,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/vC5x1HmydF",
+                "expanded_url": "http://go.usa.gov/x9Mp6",
+                "display_url": "go.usa.gov/x9Mp6",
+                "indices": [
+                    82,
+                    105
+                ]
+            },
+            {
+                "url": "https://t.co/WBDKmakVIp",
+                "expanded_url": "http://go.usa.gov/x9er4",
+                "display_url": "go.usa.gov/x9er4",
+                "indices": [
+                    110,
+                    133
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

@@ -1,204 +1,359 @@
-[
-    {
-        "created_at": "Wed Jun 15 17:55:29 +0000 2022",
-        "id": 1537131696784609283,
-        "id_str": "1537131696784609283",
-        "full_text": "Have you shared this #altAc #historyJob w/a mentee or colleague, #twitterstorians?\n@AHAhistorians, @APSAtweets, @asilorg, @asphs1, @ccha_national, @CLGBTH, @TheCCWH, @DisabilityHistr, @HNet_Humanities, @thehstrymakers, @peacehistorians, @IASA1966, @MgsaOrg, @TheNACBS, @The_OAH https://t.co/fqtFDSNilY",
+{
+    "created_at": "Wed Jun 15 17:55:29 +0000 2022",
+    "id": 1537131696784609280,
+    "id_str": "1537131696784609283",
+    "full_text": "Have you shared this #altAc #historyJob w/a mentee or colleague, #twitterstorians?\n@AHAhistorians, @APSAtweets, @asilorg, @asphs1, @ccha_national, @CLGBTH, @TheCCWH, @DisabilityHistr, @HNet_Humanities, @thehstrymakers, @peacehistorians, @IASA1966, @MgsaOrg, @TheNACBS, @The_OAH https://t.co/fqtFDSNilY",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        277
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "altAc",
+                "indices": [
+                    21,
+                    27
+                ]
+            },
+            {
+                "text": "historyJob",
+                "indices": [
+                    28,
+                    39
+                ]
+            },
+            {
+                "text": "twitterstorians",
+                "indices": [
+                    65,
+                    81
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "AHAhistorians",
+                "name": "American Historical Association",
+                "id": 76944176,
+                "id_str": "76944176",
+                "indices": [
+                    83,
+                    97
+                ]
+            },
+            {
+                "screen_name": "APSAtweets",
+                "name": "APSA",
+                "id": 38673058,
+                "id_str": "38673058",
+                "indices": [
+                    99,
+                    110
+                ]
+            },
+            {
+                "screen_name": "asilorg",
+                "name": "ASIL",
+                "id": 50072900,
+                "id_str": "50072900",
+                "indices": [
+                    112,
+                    120
+                ]
+            },
+            {
+                "screen_name": "ASPHS1",
+                "name": "ASPHS",
+                "id": 1220468998527016960,
+                "id_str": "1220468998527016960",
+                "indices": [
+                    122,
+                    129
+                ]
+            },
+            {
+                "screen_name": "ccha_national",
+                "name": "CCHA",
+                "id": 2601733267,
+                "id_str": "2601733267",
+                "indices": [
+                    131,
+                    145
+                ]
+            },
+            {
+                "screen_name": "CLGBTH",
+                "name": "Cmte on LGBT History",
+                "id": 85987264,
+                "id_str": "85987264",
+                "indices": [
+                    147,
+                    154
+                ]
+            },
+            {
+                "screen_name": "TheCCWH",
+                "name": "Coordinating Council for Women in History",
+                "id": 2956353511,
+                "id_str": "2956353511",
+                "indices": [
+                    156,
+                    164
+                ]
+            },
+            {
+                "screen_name": "DisabilityHistr",
+                "name": "DisabilityHistoryAssociation",
+                "id": 920632309367410690,
+                "id_str": "920632309367410689",
+                "indices": [
+                    166,
+                    182
+                ]
+            },
+            {
+                "screen_name": "HNet_Humanities",
+                "name": "H-Net",
+                "id": 1962844472,
+                "id_str": "1962844472",
+                "indices": [
+                    184,
+                    200
+                ]
+            },
+            {
+                "screen_name": "TheHstryMakers",
+                "name": "The HistoryMakers",
+                "id": 145688496,
+                "id_str": "145688496",
+                "indices": [
+                    202,
+                    217
+                ]
+            },
+            {
+                "screen_name": "peacehistorians",
+                "name": "Historians for Peace and Democracy",
+                "id": 1194022268957057020,
+                "id_str": "1194022268957057026",
+                "indices": [
+                    219,
+                    235
+                ]
+            },
+            {
+                "screen_name": "IASA1966",
+                "name": "ItalianAmericanStudiesAssociation",
+                "id": 356880311,
+                "id_str": "356880311",
+                "indices": [
+                    237,
+                    246
+                ]
+            },
+            {
+                "screen_name": "MgsaOrg",
+                "name": "MGSAorg",
+                "id": 3643406181,
+                "id_str": "3643406181",
+                "indices": [
+                    248,
+                    256
+                ]
+            },
+            {
+                "screen_name": "TheNACBS",
+                "name": "NACBS",
+                "id": 795457963116941310,
+                "id_str": "795457963116941312",
+                "indices": [
+                    258,
+                    267
+                ]
+            },
+            {
+                "screen_name": "The_OAH",
+                "name": "Organization of American Historians",
+                "id": 58882425,
+                "id_str": "58882425",
+                "indices": [
+                    269,
+                    277
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/fqtFDSNilY",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1536710825049825280",
+                "display_url": "twitter.com/HistoryAtState…",
+                "indices": [
+                    278,
+                    301
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1536710825049825280,
+    "quoted_status_id_str": "1536710825049825280",
+    "quoted_status_permalink": {
+        "url": "https://t.co/fqtFDSNilY",
+        "expanded": "https://twitter.com/HistoryAtState/status/1536710825049825280",
+        "display": "twitter.com/HistoryAtState…"
+    },
+    "quoted_status": {
+        "created_at": "Tue Jun 14 14:03:06 +0000 2022",
+        "id": 1536710825049825280,
+        "id_str": "1536710825049825280",
+        "full_text": "🙌 JOB POSTING #4\nApply to be a HISTORIAN in the EUROPE Division of @HistoryAtState. Research and compile historical foreign policy documents for #FRUS and @StateDept\n\nDEADLINE: June 21, 2022\nhttps://t.co/w955dob9Mt https://t.co/vL20Lk31oA",
         "truncated": false,
         "display_text_range": [
             0,
-            277
+            214
         ],
         "entities": {
             "hashtags": [
                 {
-                    "text": "altAc",
+                    "text": "FRUS",
                     "indices": [
-                        21,
-                        27
-                    ]
-                },
-                {
-                    "text": "historyJob",
-                    "indices": [
-                        28,
-                        39
-                    ]
-                },
-                {
-                    "text": "twitterstorians",
-                    "indices": [
-                        65,
-                        81
+                        145,
+                        150
                     ]
                 }
             ],
             "symbols": [],
             "user_mentions": [
                 {
-                    "screen_name": "AHAhistorians",
-                    "name": "American Historical Association",
-                    "id": 76944176,
-                    "id_str": "76944176",
+                    "screen_name": "HistoryAtState",
+                    "name": "HistoryAtState",
+                    "id": 586570880,
+                    "id_str": "586570880",
                     "indices": [
-                        83,
-                        97
+                        67,
+                        82
                     ]
                 },
                 {
-                    "screen_name": "APSAtweets",
-                    "name": "APSA",
-                    "id": 38673058,
-                    "id_str": "38673058",
+                    "screen_name": "StateDept",
+                    "name": "Department of State",
+                    "id": 9624742,
+                    "id_str": "9624742",
                     "indices": [
-                        99,
-                        110
-                    ]
-                },
-                {
-                    "screen_name": "asilorg",
-                    "name": "ASIL",
-                    "id": 50072900,
-                    "id_str": "50072900",
-                    "indices": [
-                        112,
-                        120
-                    ]
-                },
-                {
-                    "screen_name": "ASPHS1",
-                    "name": "ASPHS",
-                    "id": 1220468998527016960,
-                    "id_str": "1220468998527016960",
-                    "indices": [
-                        122,
-                        129
-                    ]
-                },
-                {
-                    "screen_name": "ccha_national",
-                    "name": "CCHA",
-                    "id": 2601733267,
-                    "id_str": "2601733267",
-                    "indices": [
-                        131,
-                        145
-                    ]
-                },
-                {
-                    "screen_name": "CLGBTH",
-                    "name": "Cmte on LGBT History",
-                    "id": 85987264,
-                    "id_str": "85987264",
-                    "indices": [
-                        147,
-                        154
-                    ]
-                },
-                {
-                    "screen_name": "TheCCWH",
-                    "name": "Coordinating Council for Women in History",
-                    "id": 2956353511,
-                    "id_str": "2956353511",
-                    "indices": [
-                        156,
-                        164
-                    ]
-                },
-                {
-                    "screen_name": "DisabilityHistr",
-                    "name": "DisabilityHistoryAssociation",
-                    "id": 920632309367410689,
-                    "id_str": "920632309367410689",
-                    "indices": [
-                        166,
-                        182
-                    ]
-                },
-                {
-                    "screen_name": "HNet_Humanities",
-                    "name": "H-Net",
-                    "id": 1962844472,
-                    "id_str": "1962844472",
-                    "indices": [
-                        184,
-                        200
-                    ]
-                },
-                {
-                    "screen_name": "TheHstryMakers",
-                    "name": "The HistoryMakers",
-                    "id": 145688496,
-                    "id_str": "145688496",
-                    "indices": [
-                        202,
-                        217
-                    ]
-                },
-                {
-                    "screen_name": "peacehistorians",
-                    "name": "Historians for Peace and Democracy",
-                    "id": 1194022268957057026,
-                    "id_str": "1194022268957057026",
-                    "indices": [
-                        219,
-                        235
-                    ]
-                },
-                {
-                    "screen_name": "IASA1966",
-                    "name": "ItalianAmericanStudiesAssociation",
-                    "id": 356880311,
-                    "id_str": "356880311",
-                    "indices": [
-                        237,
-                        246
-                    ]
-                },
-                {
-                    "screen_name": "MgsaOrg",
-                    "name": "MGSAorg",
-                    "id": 3643406181,
-                    "id_str": "3643406181",
-                    "indices": [
-                        248,
-                        256
-                    ]
-                },
-                {
-                    "screen_name": "TheNACBS",
-                    "name": "NACBS",
-                    "id": 795457963116941312,
-                    "id_str": "795457963116941312",
-                    "indices": [
-                        258,
-                        267
-                    ]
-                },
-                {
-                    "screen_name": "The_OAH",
-                    "name": "Organization of American Historians",
-                    "id": 58882425,
-                    "id_str": "58882425",
-                    "indices": [
-                        269,
-                        277
+                        155,
+                        165
                     ]
                 }
             ],
             "urls": [
                 {
-                    "url": "https://t.co/fqtFDSNilY",
-                    "expanded_url": "https://twitter.com/HistoryAtState/status/1536710825049825280",
-                    "display_url": "twitter.com/HistoryAtState\u2026",
+                    "url": "https://t.co/w955dob9Mt",
+                    "expanded_url": "https://www.usajobs.gov/job/658378600?utm_source=hootsuite&amp;utm_medium=&amp;utm_term=&amp;utm_content=&amp;utm_campaign=oh-job-postings",
+                    "display_url": "usajobs.gov/job/658378600?…",
                     "indices": [
-                        278,
-                        301
+                        191,
+                        214
                     ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1536710823489437700,
+                    "id_str": "1536710823489437697",
+                    "indices": [
+                        215,
+                        238
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/FVN-WiSWAAEagy8.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/FVN-WiSWAAEagy8.jpg",
+                    "url": "https://t.co/vL20Lk31oA",
+                    "display_url": "pic.twitter.com/vL20Lk31oA",
+                    "expanded_url": "https://twitter.com/HistoryAtState/status/1536710825049825280/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 700,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 397,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1396,
+                            "h": 814,
+                            "resize": "fit"
+                        }
+                    }
                 }
             ]
         },
-        "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1536710823489437700,
+                    "id_str": "1536710823489437697",
+                    "indices": [
+                        215,
+                        238
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/FVN-WiSWAAEagy8.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/FVN-WiSWAAEagy8.jpg",
+                    "url": "https://t.co/vL20Lk31oA",
+                    "display_url": "pic.twitter.com/vL20Lk31oA",
+                    "expanded_url": "https://twitter.com/HistoryAtState/status/1536710825049825280/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 700,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 397,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1396,
+                            "h": 814,
+                            "resize": "fit"
+                        }
+                    },
+                    "ext_alt_text": "Duties: • Researches and analyzes various moderately complex official and personal historical documents and records of U.S. foreign relations decisions and actions by the United States Government. • Researches and analyses technical content for replies to Departmental, interagency, and public inquiries…"
+                }
+            ]
+        },
+        "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
@@ -212,175 +367,18 @@
         "coordinates": null,
         "place": null,
         "contributors": null,
-        "is_quote_status": true,
-        "quoted_status_id": 1536710825049825280,
-        "quoted_status_id_str": "1536710825049825280",
-        "quoted_status_permalink": {
-            "url": "https://t.co/fqtFDSNilY",
-            "expanded": "https://twitter.com/HistoryAtState/status/1536710825049825280",
-            "display": "twitter.com/HistoryAtState\u2026"
-        },
-        "quoted_status": {
-            "created_at": "Tue Jun 14 14:03:06 +0000 2022",
-            "id": 1536710825049825280,
-            "id_str": "1536710825049825280",
-            "full_text": "\ud83d\ude4c JOB POSTING #4\nApply to be a HISTORIAN in the EUROPE Division of @HistoryAtState. Research and compile historical foreign policy documents for #FRUS and @StateDept\n\nDEADLINE: June 21, 2022\nhttps://t.co/w955dob9Mt https://t.co/vL20Lk31oA",
-            "truncated": false,
-            "display_text_range": [
-                0,
-                214
-            ],
-            "entities": {
-                "hashtags": [
-                    {
-                        "text": "FRUS",
-                        "indices": [
-                            145,
-                            150
-                        ]
-                    }
-                ],
-                "symbols": [],
-                "user_mentions": [
-                    {
-                        "screen_name": "HistoryAtState",
-                        "name": "HistoryAtState",
-                        "id": 586570880,
-                        "id_str": "586570880",
-                        "indices": [
-                            67,
-                            82
-                        ]
-                    },
-                    {
-                        "screen_name": "StateDept",
-                        "name": "Department of State",
-                        "id": 9624742,
-                        "id_str": "9624742",
-                        "indices": [
-                            155,
-                            165
-                        ]
-                    }
-                ],
-                "urls": [
-                    {
-                        "url": "https://t.co/w955dob9Mt",
-                        "expanded_url": "https://www.usajobs.gov/job/658378600?utm_source=hootsuite&utm_medium=&utm_term=&utm_content=&utm_campaign=oh-job-postings",
-                        "display_url": "usajobs.gov/job/658378600?\u2026",
-                        "indices": [
-                            191,
-                            214
-                        ]
-                    }
-                ],
-                "media": [
-                    {
-                        "id": 1536710823489437697,
-                        "id_str": "1536710823489437697",
-                        "indices": [
-                            215,
-                            238
-                        ],
-                        "media_url": "http://pbs.twimg.com/media/FVN-WiSWAAEagy8.jpg",
-                        "media_url_https": "https://pbs.twimg.com/media/FVN-WiSWAAEagy8.jpg",
-                        "url": "https://t.co/vL20Lk31oA",
-                        "display_url": "pic.twitter.com/vL20Lk31oA",
-                        "expanded_url": "https://twitter.com/HistoryAtState/status/1536710825049825280/photo/1",
-                        "type": "photo",
-                        "sizes": {
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
-                            "medium": {
-                                "w": 1200,
-                                "h": 700,
-                                "resize": "fit"
-                            },
-                            "small": {
-                                "w": 680,
-                                "h": 397,
-                                "resize": "fit"
-                            },
-                            "large": {
-                                "w": 1396,
-                                "h": 814,
-                                "resize": "fit"
-                            }
-                        }
-                    }
-                ]
-            },
-            "extended_entities": {
-                "media": [
-                    {
-                        "id": 1536710823489437697,
-                        "id_str": "1536710823489437697",
-                        "indices": [
-                            215,
-                            238
-                        ],
-                        "media_url": "http://pbs.twimg.com/media/FVN-WiSWAAEagy8.jpg",
-                        "media_url_https": "https://pbs.twimg.com/media/FVN-WiSWAAEagy8.jpg",
-                        "url": "https://t.co/vL20Lk31oA",
-                        "display_url": "pic.twitter.com/vL20Lk31oA",
-                        "expanded_url": "https://twitter.com/HistoryAtState/status/1536710825049825280/photo/1",
-                        "type": "photo",
-                        "sizes": {
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
-                            "medium": {
-                                "w": 1200,
-                                "h": 700,
-                                "resize": "fit"
-                            },
-                            "small": {
-                                "w": 680,
-                                "h": 397,
-                                "resize": "fit"
-                            },
-                            "large": {
-                                "w": 1396,
-                                "h": 814,
-                                "resize": "fit"
-                            }
-                        },
-                        "ext_alt_text": "Duties: • Researches and analyzes various moderately complex official and personal historical documents and records of U.S. foreign relations decisions and actions by the United States Government. • Researches and analyses technical content for replies to Departmental, interagency, and public inquiries…"
-                    }
-                ]
-            },
-            "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
-            "user": {
-                "id": 586570880,
-                "id_str": "586570880"
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "is_quote_status": false,
-            "retweet_count": 10,
-            "favorite_count": 5,
-            "favorited": false,
-            "retweeted": false,
-            "possibly_sensitive": false,
-            "lang": "en"
-        },
-        "retweet_count": 2,
+        "is_quote_status": false,
+        "retweet_count": 10,
         "favorite_count": 5,
         "favorited": false,
         "retweeted": false,
         "possibly_sensitive": false,
         "lang": "en"
-    }
-]
+    },
+    "retweet_count": 2,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

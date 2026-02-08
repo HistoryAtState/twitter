@@ -1,116 +1,114 @@
-[
-    {
-        "created_at": "Fri May 01 15:07:04 +0000 2020",
-        "id": 1256238716701605888,
-        "id_str": "1256238716701605888",
-        "full_text": "RT @FSIatState: (2/2) Reports like these served as notices for mariners, and @StateDept utilized this info to apprise merchant ships about\u2026",
+{
+    "created_at": "Fri May 01 15:07:04 +0000 2020",
+    "id": 1256238716701605890,
+    "id_str": "1256238716701605888",
+    "full_text": "RT @FSIatState: (2/2) Reports like these served as notices for mariners, and @StateDept utilized this info to apprise merchant ships about…",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "FSIatState",
+                "name": "Foreign Service Institute",
+                "id": 958044239576948740,
+                "id_str": "958044239576948736",
+                "indices": [
+                    3,
+                    14
+                ]
+            },
+            {
+                "screen_name": "StateDept",
+                "name": "Department of State",
+                "id": 9624742,
+                "id_str": "9624742",
+                "indices": [
+                    77,
+                    87
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Apr 30 13:19:58 +0000 2020",
+        "id": 1255849374254616580,
+        "id_str": "1255849374254616577",
+        "full_text": "(2/2) Reports like these served as notices for mariners, and @StateDept utilized this info to apprise merchant ships about which ports to avoid. U.S. officials also negotiated w/ foreign governments when they banned entry of U.S. vessels as a preventative measure. #FSIatHome",
         "truncated": false,
         "display_text_range": [
             0,
-            139
+            275
         ],
         "entities": {
-            "hashtags": [],
+            "hashtags": [
+                {
+                    "text": "FSIatHome",
+                    "indices": [
+                        265,
+                        275
+                    ]
+                }
+            ],
             "symbols": [],
             "user_mentions": [
-                {
-                    "screen_name": "FSIatState",
-                    "name": "Foreign Service Institute",
-                    "id": 958044239576948736,
-                    "id_str": "958044239576948736",
-                    "indices": [
-                        3,
-                        14
-                    ]
-                },
                 {
                     "screen_name": "StateDept",
                     "name": "Department of State",
                     "id": 9624742,
                     "id_str": "9624742",
                     "indices": [
-                        77,
-                        87
+                        61,
+                        71
                     ]
                 }
             ],
             "urls": []
         },
-        "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
+        "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+        "in_reply_to_status_id": 1255849372811776000,
+        "in_reply_to_status_id_str": "1255849372811776000",
+        "in_reply_to_user_id": 958044239576948740,
+        "in_reply_to_user_id_str": "958044239576948736",
+        "in_reply_to_screen_name": "FSIatState",
         "user": {
-            "id": 586570880,
-            "id_str": "586570880"
+            "id": 958044239576948740,
+            "id_str": "958044239576948736"
         },
         "geo": null,
         "coordinates": null,
         "place": null,
         "contributors": null,
-        "retweeted_status": {
-            "created_at": "Thu Apr 30 13:19:58 +0000 2020",
-            "id": 1255849374254616577,
-            "id_str": "1255849374254616577",
-            "full_text": "(2/2) Reports like these served as notices for mariners, and @StateDept utilized this info to apprise merchant ships about which ports to avoid. U.S. officials also negotiated w/ foreign governments when they banned entry of U.S. vessels as a preventative measure. #FSIatHome",
-            "truncated": false,
-            "display_text_range": [
-                0,
-                275
-            ],
-            "entities": {
-                "hashtags": [
-                    {
-                        "text": "FSIatHome",
-                        "indices": [
-                            265,
-                            275
-                        ]
-                    }
-                ],
-                "symbols": [],
-                "user_mentions": [
-                    {
-                        "screen_name": "StateDept",
-                        "name": "Department of State",
-                        "id": 9624742,
-                        "id_str": "9624742",
-                        "indices": [
-                            61,
-                            71
-                        ]
-                    }
-                ],
-                "urls": []
-            },
-            "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
-            "in_reply_to_status_id": 1255849372811776000,
-            "in_reply_to_status_id_str": "1255849372811776000",
-            "in_reply_to_user_id": 958044239576948736,
-            "in_reply_to_user_id_str": "958044239576948736",
-            "in_reply_to_screen_name": "FSIatState",
-            "user": {
-                "id": 958044239576948736,
-                "id_str": "958044239576948736"
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "is_quote_status": false,
-            "retweet_count": 1,
-            "favorite_count": 1,
-            "favorited": true,
-            "retweeted": true,
-            "lang": "en"
-        },
         "is_quote_status": false,
         "retweet_count": 1,
-        "favorite_count": 0,
+        "favorite_count": 1,
         "favorited": true,
         "retweeted": true,
         "lang": "en"
-    }
-]
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "lang": "en"
+}

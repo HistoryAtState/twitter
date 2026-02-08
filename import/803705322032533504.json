@@ -1,162 +1,160 @@
-[
-    {
-        "created_at": "Tue Nov 29 21:00:55 +0000 2016",
-        "id": 803705322032533504,
-        "id_str": "803705322032533504",
-        "full_text": "In 1959, @USEmbCuba  predicts reconciliation of US-Cuban relations: https://t.co/YZJQCn06Fo #FRUS #twitterstorians #everythinghasahistory https://t.co/HwPl2QyDWl",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            137
+{
+    "created_at": "Tue Nov 29 21:00:55 +0000 2016",
+    "id": 803705322032533500,
+    "id_str": "803705322032533504",
+    "full_text": "In 1959, @USEmbCuba  predicts reconciliation of US-Cuban relations: https://t.co/YZJQCn06Fo #FRUS #twitterstorians #everythinghasahistory https://t.co/HwPl2QyDWl",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        137
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FRUS",
+                "indices": [
+                    92,
+                    97
+                ]
+            },
+            {
+                "text": "twitterstorians",
+                "indices": [
+                    98,
+                    114
+                ]
+            },
+            {
+                "text": "everythinghasahistory",
+                "indices": [
+                    115,
+                    137
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        92,
-                        97
-                    ]
-                },
-                {
-                    "text": "twitterstorians",
-                    "indices": [
-                        98,
-                        114
-                    ]
-                },
-                {
-                    "text": "everythinghasahistory",
-                    "indices": [
-                        115,
-                        137
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "USEmbCuba",
-                    "name": "Embajada de los Estados Unidos en Cuba",
-                    "id": 133769083,
-                    "id_str": "133769083",
-                    "indices": [
-                        9,
-                        19
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "https://t.co/YZJQCn06Fo",
-                    "expanded_url": "http://go.usa.gov/x8NDJ",
-                    "display_url": "go.usa.gov/x8NDJ",
-                    "indices": [
-                        68,
-                        91
-                    ]
-                }
-            ],
-            "media": [
-                {
-                    "id": 803705319629225988,
-                    "id_str": "803705319629225988",
-                    "indices": [
-                        138,
-                        161
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/CydVuuCXgAQqAOy.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/CydVuuCXgAQqAOy.jpg",
-                    "url": "https://t.co/HwPl2QyDWl",
-                    "display_url": "pic.twitter.com/HwPl2QyDWl",
-                    "expanded_url": "https://twitter.com/HistoryAtState/status/803705322032533504/photo/1",
-                    "type": "photo",
-                    "sizes": {
-                        "small": {
-                            "w": 213,
-                            "h": 113,
-                            "resize": "fit"
-                        },
-                        "thumb": {
-                            "w": 113,
-                            "h": 113,
-                            "resize": "crop"
-                        },
-                        "medium": {
-                            "w": 213,
-                            "h": 113,
-                            "resize": "fit"
-                        },
-                        "large": {
-                            "w": 213,
-                            "h": 113,
-                            "resize": "fit"
-                        }
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "USEmbCuba",
+                "name": "Embajada de los Estados Unidos en Cuba",
+                "id": 133769083,
+                "id_str": "133769083",
+                "indices": [
+                    9,
+                    19
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/YZJQCn06Fo",
+                "expanded_url": "http://go.usa.gov/x8NDJ",
+                "display_url": "go.usa.gov/x8NDJ",
+                "indices": [
+                    68,
+                    91
+                ]
+            }
+        ],
+        "media": [
+            {
+                "id": 803705319629225980,
+                "id_str": "803705319629225988",
+                "indices": [
+                    138,
+                    161
+                ],
+                "media_url": "http://pbs.twimg.com/media/CydVuuCXgAQqAOy.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CydVuuCXgAQqAOy.jpg",
+                "url": "https://t.co/HwPl2QyDWl",
+                "display_url": "pic.twitter.com/HwPl2QyDWl",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/803705322032533504/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 213,
+                        "h": 113,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 113,
+                        "h": 113,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 213,
+                        "h": 113,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 213,
+                        "h": 113,
+                        "resize": "fit"
                     }
                 }
-            ]
-        },
-        "extended_entities": {
-            "media": [
-                {
-                    "id": 803705319629225988,
-                    "id_str": "803705319629225988",
-                    "indices": [
-                        138,
-                        161
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/CydVuuCXgAQqAOy.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/CydVuuCXgAQqAOy.jpg",
-                    "url": "https://t.co/HwPl2QyDWl",
-                    "display_url": "pic.twitter.com/HwPl2QyDWl",
-                    "expanded_url": "https://twitter.com/HistoryAtState/status/803705322032533504/photo/1",
-                    "type": "photo",
-                    "sizes": {
-                        "small": {
-                            "w": 213,
-                            "h": 113,
-                            "resize": "fit"
-                        },
-                        "thumb": {
-                            "w": 113,
-                            "h": 113,
-                            "resize": "crop"
-                        },
-                        "medium": {
-                            "w": 213,
-                            "h": 113,
-                            "resize": "fit"
-                        },
-                        "large": {
-                            "w": 213,
-                            "h": 113,
-                            "resize": "fit"
-                        }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 803705319629225980,
+                "id_str": "803705319629225988",
+                "indices": [
+                    138,
+                    161
+                ],
+                "media_url": "http://pbs.twimg.com/media/CydVuuCXgAQqAOy.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CydVuuCXgAQqAOy.jpg",
+                "url": "https://t.co/HwPl2QyDWl",
+                "display_url": "pic.twitter.com/HwPl2QyDWl",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/803705322032533504/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 213,
+                        "h": 113,
+                        "resize": "fit"
                     },
-                    "ext_alt_text": null
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 0,
-        "favorite_count": 1,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+                    "thumb": {
+                        "w": 113,
+                        "h": 113,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 213,
+                        "h": 113,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 213,
+                        "h": 113,
+                        "resize": "fit"
+                    }
+                },
+                "ext_alt_text": null
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

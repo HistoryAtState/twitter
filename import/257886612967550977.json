@@ -1,65 +1,63 @@
-[
-    {
-        "created_at": "Mon Oct 15 16:52:14 +0000 2012",
-        "id": 257886612967550977,
-        "id_str": "257886612967550977",
-        "full_text": "The Office of the Historian releases Foreign Relations, Energy Crisis, 1974\u20131980. http://t.co/0HyJxgKV #FRUS #twitterstorians",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            125
+{
+    "created_at": "Mon Oct 15 16:52:14 +0000 2012",
+    "id": 257886612967550976,
+    "id_str": "257886612967550977",
+    "full_text": "The Office of the Historian releases Foreign Relations, Energy Crisis, 1974–1980. http://t.co/0HyJxgKV #FRUS #twitterstorians",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        125
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FRUS",
+                "indices": [
+                    103,
+                    108
+                ]
+            },
+            {
+                "text": "twitterstorians",
+                "indices": [
+                    109,
+                    125
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        103,
-                        108
-                    ]
-                },
-                {
-                    "text": "twitterstorians",
-                    "indices": [
-                        109,
-                        125
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "http://t.co/0HyJxgKV",
-                    "expanded_url": "http://go.usa.gov/YBQH",
-                    "display_url": "go.usa.gov/YBQH",
-                    "indices": [
-                        82,
-                        102
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 4,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "http://t.co/0HyJxgKV",
+                "expanded_url": "http://go.usa.gov/YBQH",
+                "display_url": "go.usa.gov/YBQH",
+                "indices": [
+                    82,
+                    102
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

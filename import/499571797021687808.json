@@ -1,9 +1,59 @@
-[
-    {
-        "created_at": "Wed Aug 13 15:02:52 +0000 2014",
-        "id": 499571797021687808,
-        "id_str": "499571797021687808",
-        "full_text": "RT @usbotschaft: .@HistoryAtState: On the morning of August 13, 1961, Berliners awoke to discover that a barbed wire fence had gone up http\u2026",
+{
+    "created_at": "Wed Aug 13 15:02:52 +0000 2014",
+    "id": 499571797021687810,
+    "id_str": "499571797021687808",
+    "full_text": "RT @usbotschaft: .@HistoryAtState: On the morning of August 13, 1961, Berliners awoke to discover that a barbed wire fence had gone up http…",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "usbotschaft",
+                "name": "US-Botschaft Berlin",
+                "id": 50965086,
+                "id_str": "50965086",
+                "indices": [
+                    3,
+                    15
+                ]
+            },
+            {
+                "screen_name": "HistoryAtState",
+                "name": "HistoryAtState",
+                "id": 586570880,
+                "id_str": "586570880",
+                "indices": [
+                    18,
+                    33
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Aug 13 10:49:58 +0000 2014",
+        "id": 499508150383689730,
+        "id_str": "499508150383689728",
+        "full_text": ".@HistoryAtState: On the morning of August 13, 1961, Berliners awoke to discover that a barbed wire fence had gone up http://t.co/m1ZYsin7k4",
         "truncated": false,
         "display_text_range": [
             0,
@@ -14,106 +64,54 @@
             "symbols": [],
             "user_mentions": [
                 {
-                    "screen_name": "usbotschaft",
-                    "name": "US-Botschaft Berlin",
-                    "id": 50965086,
-                    "id_str": "50965086",
-                    "indices": [
-                        3,
-                        15
-                    ]
-                },
-                {
                     "screen_name": "HistoryAtState",
                     "name": "HistoryAtState",
                     "id": 586570880,
                     "id_str": "586570880",
                     "indices": [
-                        18,
-                        33
+                        1,
+                        16
                     ]
                 }
             ],
-            "urls": []
+            "urls": [
+                {
+                    "url": "http://t.co/m1ZYsin7k4",
+                    "expanded_url": "http://ow.ly/AgZJt",
+                    "display_url": "ow.ly/AgZJt",
+                    "indices": [
+                        118,
+                        140
+                    ]
+                }
+            ]
         },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+        "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
         "in_reply_to_screen_name": null,
         "user": {
-            "id": 586570880,
-            "id_str": "586570880"
+            "id": 50965086,
+            "id_str": "50965086"
         },
         "geo": null,
         "coordinates": null,
         "place": null,
         "contributors": null,
-        "retweeted_status": {
-            "created_at": "Wed Aug 13 10:49:58 +0000 2014",
-            "id": 499508150383689728,
-            "id_str": "499508150383689728",
-            "full_text": ".@HistoryAtState: On the morning of August 13, 1961, Berliners awoke to discover that a barbed wire fence had gone up http://t.co/m1ZYsin7k4",
-            "truncated": false,
-            "display_text_range": [
-                0,
-                140
-            ],
-            "entities": {
-                "hashtags": [],
-                "symbols": [],
-                "user_mentions": [
-                    {
-                        "screen_name": "HistoryAtState",
-                        "name": "HistoryAtState",
-                        "id": 586570880,
-                        "id_str": "586570880",
-                        "indices": [
-                            1,
-                            16
-                        ]
-                    }
-                ],
-                "urls": [
-                    {
-                        "url": "http://t.co/m1ZYsin7k4",
-                        "expanded_url": "http://ow.ly/AgZJt",
-                        "display_url": "ow.ly/AgZJt",
-                        "indices": [
-                            118,
-                            140
-                        ]
-                    }
-                ]
-            },
-            "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
-            "user": {
-                "id": 50965086,
-                "id_str": "50965086"
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "is_quote_status": false,
-            "retweet_count": 4,
-            "favorite_count": 4,
-            "favorited": false,
-            "retweeted": true,
-            "possibly_sensitive": false,
-            "lang": "en"
-        },
         "is_quote_status": false,
         "retweet_count": 4,
-        "favorite_count": 0,
+        "favorite_count": 4,
         "favorited": false,
         "retweeted": true,
+        "possibly_sensitive": false,
         "lang": "en"
-    }
-]
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "en"
+}

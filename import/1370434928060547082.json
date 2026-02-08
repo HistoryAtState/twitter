@@ -1,58 +1,56 @@
-[
-    {
-        "created_at": "Fri Mar 12 18:02:02 +0000 2021",
-        "id": 1370434928060547082,
-        "id_str": "1370434928060547082",
-        "full_text": "OH mourns the passing of Walter LaFeber, who served first as a member and then as chair of the Department of State's Historical Advisory Committee (HAC) in the early 1970s. You can read about his time on the #HAC:\nhttps://t.co/np837l2yoz",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            237
+{
+    "created_at": "Fri Mar 12 18:02:02 +0000 2021",
+    "id": 1370434928060547070,
+    "id_str": "1370434928060547082",
+    "full_text": "OH mourns the passing of Walter LaFeber, who served first as a member and then as chair of the Department of State's Historical Advisory Committee (HAC) in the early 1970s. You can read about his time on the #HAC:\nhttps://t.co/np837l2yoz",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        237
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "HAC",
+                "indices": [
+                    208,
+                    212
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "HAC",
-                    "indices": [
-                        208,
-                        212
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "https://t.co/np837l2yoz",
-                    "expanded_url": "https://history.state.gov/historicaldocuments/frus-history/chapter-8",
-                    "display_url": "history.state.gov/historicaldocu\u2026",
-                    "indices": [
-                        214,
-                        237
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 1,
-        "favorite_count": 7,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/np837l2yoz",
+                "expanded_url": "https://history.state.gov/historicaldocuments/frus-history/chapter-8",
+                "display_url": "history.state.gov/historicaldocu…",
+                "indices": [
+                    214,
+                    237
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

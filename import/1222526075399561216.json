@@ -1,144 +1,142 @@
-[
-    {
-        "created_at": "Wed Jan 29 14:25:04 +0000 2020",
-        "id": 1222526075399561216,
-        "id_str": "1222526075399561216",
-        "full_text": "Read more of the #WWI stories featured as part of the Department\u2019s #HeroesofUSDiplomacy series in \u201cWar, Neutrality, and Humanitarian Relief:\u201d https://t.co/k59pQNw2Yw https://t.co/FkPkqbCyPg",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            165
+{
+    "created_at": "Wed Jan 29 14:25:04 +0000 2020",
+    "id": 1222526075399561220,
+    "id_str": "1222526075399561216",
+    "full_text": "Read more of the #WWI stories featured as part of the Department’s #HeroesofUSDiplomacy series in “War, Neutrality, and Humanitarian Relief:” https://t.co/k59pQNw2Yw https://t.co/FkPkqbCyPg",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        165
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "WWI",
+                "indices": [
+                    17,
+                    21
+                ]
+            },
+            {
+                "text": "HeroesofUSDiplomacy",
+                "indices": [
+                    67,
+                    87
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "WWI",
-                    "indices": [
-                        17,
-                        21
-                    ]
-                },
-                {
-                    "text": "HeroesofUSDiplomacy",
-                    "indices": [
-                        67,
-                        87
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "https://t.co/k59pQNw2Yw",
-                    "expanded_url": "https://history.state.gov/departmenthistory/wwi",
-                    "display_url": "history.state.gov/departmenthist\u2026",
-                    "indices": [
-                        142,
-                        165
-                    ]
-                }
-            ],
-            "media": [
-                {
-                    "id": 1222526073948311553,
-                    "id_str": "1222526073948311553",
-                    "indices": [
-                        166,
-                        189
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/EPdI_K5XkAEXy2a.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/EPdI_K5XkAEXy2a.jpg",
-                    "url": "https://t.co/FkPkqbCyPg",
-                    "display_url": "pic.twitter.com/FkPkqbCyPg",
-                    "expanded_url": "https://twitter.com/HistoryAtState/status/1222526075399561216/photo/1",
-                    "type": "photo",
-                    "sizes": {
-                        "large": {
-                            "w": 400,
-                            "h": 599,
-                            "resize": "fit"
-                        },
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
-                        },
-                        "small": {
-                            "w": 400,
-                            "h": 599,
-                            "resize": "fit"
-                        },
-                        "medium": {
-                            "w": 400,
-                            "h": 599,
-                            "resize": "fit"
-                        }
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/k59pQNw2Yw",
+                "expanded_url": "https://history.state.gov/departmenthistory/wwi",
+                "display_url": "history.state.gov/departmenthist…",
+                "indices": [
+                    142,
+                    165
+                ]
+            }
+        ],
+        "media": [
+            {
+                "id": 1222526073948311550,
+                "id_str": "1222526073948311553",
+                "indices": [
+                    166,
+                    189
+                ],
+                "media_url": "http://pbs.twimg.com/media/EPdI_K5XkAEXy2a.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EPdI_K5XkAEXy2a.jpg",
+                "url": "https://t.co/FkPkqbCyPg",
+                "display_url": "pic.twitter.com/FkPkqbCyPg",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1222526075399561216/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 400,
+                        "h": 599,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 400,
+                        "h": 599,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 400,
+                        "h": 599,
+                        "resize": "fit"
                     }
                 }
-            ]
-        },
-        "extended_entities": {
-            "media": [
-                {
-                    "id": 1222526073948311553,
-                    "id_str": "1222526073948311553",
-                    "indices": [
-                        166,
-                        189
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/EPdI_K5XkAEXy2a.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/EPdI_K5XkAEXy2a.jpg",
-                    "url": "https://t.co/FkPkqbCyPg",
-                    "display_url": "pic.twitter.com/FkPkqbCyPg",
-                    "expanded_url": "https://twitter.com/HistoryAtState/status/1222526075399561216/photo/1",
-                    "type": "photo",
-                    "sizes": {
-                        "large": {
-                            "w": 400,
-                            "h": 599,
-                            "resize": "fit"
-                        },
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
-                        },
-                        "small": {
-                            "w": 400,
-                            "h": 599,
-                            "resize": "fit"
-                        },
-                        "medium": {
-                            "w": 400,
-                            "h": 599,
-                            "resize": "fit"
-                        }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1222526073948311550,
+                "id_str": "1222526073948311553",
+                "indices": [
+                    166,
+                    189
+                ],
+                "media_url": "http://pbs.twimg.com/media/EPdI_K5XkAEXy2a.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EPdI_K5XkAEXy2a.jpg",
+                "url": "https://t.co/FkPkqbCyPg",
+                "display_url": "pic.twitter.com/FkPkqbCyPg",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1222526075399561216/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 400,
+                        "h": 599,
+                        "resize": "fit"
                     },
-                    "ext_alt_text": "Cover Image with blue text on a white background, reading: War, Neutrality, and Humanitarian Relief: The Expansion of U.S. Diplomatic Activity during the Great War, 1914-1917. The Department of State seal is in the top left, with the Office of the Historian Letterhead, also in blue."
-                }
-            ]
-        },
-        "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 6,
-        "favorite_count": 13,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 400,
+                        "h": 599,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 400,
+                        "h": 599,
+                        "resize": "fit"
+                    }
+                },
+                "ext_alt_text": "Cover Image with blue text on a white background, reading: War, Neutrality, and Humanitarian Relief: The Expansion of U.S. Diplomatic Activity during the Great War, 1914-1917. The Department of State seal is in the top left, with the Office of the Historian Letterhead, also in blue."
+            }
+        ]
+    },
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 13,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

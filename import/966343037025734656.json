@@ -1,97 +1,95 @@
-[
-    {
-        "created_at": "Wed Feb 21 16:05:08 +0000 2018",
-        "id": 966343037025734656,
-        "id_str": "966343037025734656",
-        "full_text": "Edward J. Perkins was appointed Ambassador to the United Nations, #Liberia, #SouthAfrica, and #Australia. He served as @StateDG and retired with rank of Career Minister in the Foreign Service. https://t.co/XWcZeJSTTS #Twitterstorians #BlackHistoryMonth",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            252
+{
+    "created_at": "Wed Feb 21 16:05:08 +0000 2018",
+    "id": 966343037025734660,
+    "id_str": "966343037025734656",
+    "full_text": "Edward J. Perkins was appointed Ambassador to the United Nations, #Liberia, #SouthAfrica, and #Australia. He served as @StateDG and retired with rank of Career Minister in the Foreign Service. https://t.co/XWcZeJSTTS #Twitterstorians #BlackHistoryMonth",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        252
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Liberia",
+                "indices": [
+                    66,
+                    74
+                ]
+            },
+            {
+                "text": "SouthAfrica",
+                "indices": [
+                    76,
+                    88
+                ]
+            },
+            {
+                "text": "Australia",
+                "indices": [
+                    94,
+                    104
+                ]
+            },
+            {
+                "text": "Twitterstorians",
+                "indices": [
+                    217,
+                    233
+                ]
+            },
+            {
+                "text": "BlackHistoryMonth",
+                "indices": [
+                    234,
+                    252
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "Liberia",
-                    "indices": [
-                        66,
-                        74
-                    ]
-                },
-                {
-                    "text": "SouthAfrica",
-                    "indices": [
-                        76,
-                        88
-                    ]
-                },
-                {
-                    "text": "Australia",
-                    "indices": [
-                        94,
-                        104
-                    ]
-                },
-                {
-                    "text": "Twitterstorians",
-                    "indices": [
-                        217,
-                        233
-                    ]
-                },
-                {
-                    "text": "BlackHistoryMonth",
-                    "indices": [
-                        234,
-                        252
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "StateDG",
-                    "name": "Marcia S. Bernicat",
-                    "id": 3433322913,
-                    "id_str": "3433322913",
-                    "indices": [
-                        119,
-                        127
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "https://t.co/XWcZeJSTTS",
-                    "expanded_url": "https://go.usa.gov/xnFt5",
-                    "display_url": "go.usa.gov/xnFt5",
-                    "indices": [
-                        193,
-                        216
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 1,
-        "favorite_count": 2,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "StateDG",
+                "name": "Marcia S. Bernicat",
+                "id": 3433322913,
+                "id_str": "3433322913",
+                "indices": [
+                    119,
+                    127
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/XWcZeJSTTS",
+                "expanded_url": "https://go.usa.gov/xnFt5",
+                "display_url": "go.usa.gov/xnFt5",
+                "indices": [
+                    193,
+                    216
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

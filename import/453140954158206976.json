@@ -1,79 +1,77 @@
-[
-    {
-        "created_at": "Mon Apr 07 12:03:17 +0000 2014",
-        "id": 453140954158206976,
-        "id_str": "453140954158206976",
-        "full_text": "CUNY #twitterstorians: curious about USG history careers? Check out our April 9th 4:15pm @GC_CUNY talk http://t.co/F4UdngZinc @CareerPlanGC",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            139
+{
+    "created_at": "Mon Apr 07 12:03:17 +0000 2014",
+    "id": 453140954158206980,
+    "id_str": "453140954158206976",
+    "full_text": "CUNY #twitterstorians: curious about USG history careers? Check out our April 9th 4:15pm @GC_CUNY talk http://t.co/F4UdngZinc @CareerPlanGC",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "twitterstorians",
+                "indices": [
+                    5,
+                    21
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "twitterstorians",
-                    "indices": [
-                        5,
-                        21
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "GC_CUNY",
-                    "name": "The Graduate Center",
-                    "id": 89479750,
-                    "id_str": "89479750",
-                    "indices": [
-                        89,
-                        97
-                    ]
-                },
-                {
-                    "screen_name": "CareerPlanGC",
-                    "name": "Career Plan GC",
-                    "id": 563898271,
-                    "id_str": "563898271",
-                    "indices": [
-                        126,
-                        139
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "http://t.co/F4UdngZinc",
-                    "expanded_url": "http://ow.ly/uZXVK",
-                    "display_url": "ow.ly/uZXVK",
-                    "indices": [
-                        103,
-                        125
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 7,
-        "favorite_count": 2,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "GC_CUNY",
+                "name": "The Graduate Center",
+                "id": 89479750,
+                "id_str": "89479750",
+                "indices": [
+                    89,
+                    97
+                ]
+            },
+            {
+                "screen_name": "CareerPlanGC",
+                "name": "Career Plan GC",
+                "id": 563898271,
+                "id_str": "563898271",
+                "indices": [
+                    126,
+                    139
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "http://t.co/F4UdngZinc",
+                "expanded_url": "http://ow.ly/uZXVK",
+                "display_url": "ow.ly/uZXVK",
+                "indices": [
+                    103,
+                    125
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

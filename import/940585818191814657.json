@@ -1,58 +1,56 @@
-[
-    {
-        "created_at": "Tue Dec 12 14:15:08 +0000 2017",
-        "id": 940585818191814657,
-        "id_str": "940585818191814657",
-        "full_text": "Now available: Foreign Relations, 1910, With the Annual Message of the President Transmitted to Congress December 6, 1910, https://t.co/mt26YbIvnS #FRUS",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            152
+{
+    "created_at": "Tue Dec 12 14:15:08 +0000 2017",
+    "id": 940585818191814660,
+    "id_str": "940585818191814657",
+    "full_text": "Now available: Foreign Relations, 1910, With the Annual Message of the President Transmitted to Congress December 6, 1910, https://t.co/mt26YbIvnS #FRUS",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        152
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FRUS",
+                "indices": [
+                    147,
+                    152
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        147,
-                        152
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "https://t.co/mt26YbIvnS",
-                    "expanded_url": "https://history.state.gov/historicaldocuments/frus1910",
-                    "display_url": "history.state.gov/historicaldocu\u2026",
-                    "indices": [
-                        123,
-                        146
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 0,
-        "favorite_count": 1,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/mt26YbIvnS",
+                "expanded_url": "https://history.state.gov/historicaldocuments/frus1910",
+                "display_url": "history.state.gov/historicaldocu…",
+                "indices": [
+                    123,
+                    146
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

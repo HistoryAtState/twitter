@@ -1,65 +1,63 @@
-[
-    {
-        "created_at": "Tue Feb 14 18:05:27 +0000 2017",
-        "id": 831565029904416769,
-        "id_str": "831565029904416769",
-        "full_text": "Read #FRUS about #Valentine (Valetin) Gubichev, Soviet diplomat arrested in U.S. &amp; found guilty of espionage 1949-50 https://t.co/jrE0vVwYVb",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            144
+{
+    "created_at": "Tue Feb 14 18:05:27 +0000 2017",
+    "id": 831565029904416770,
+    "id_str": "831565029904416769",
+    "full_text": "Read #FRUS about #Valentine (Valetin) Gubichev, Soviet diplomat arrested in U.S. &amp;amp; found guilty of espionage 1949-50 https://t.co/jrE0vVwYVb",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        144
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FRUS",
+                "indices": [
+                    5,
+                    10
+                ]
+            },
+            {
+                "text": "Valentine",
+                "indices": [
+                    17,
+                    27
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        5,
-                        10
-                    ]
-                },
-                {
-                    "text": "Valentine",
-                    "indices": [
-                        17,
-                        27
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "https://t.co/jrE0vVwYVb",
-                    "expanded_url": "http://go.usa.gov/x9MwY",
-                    "display_url": "go.usa.gov/x9MwY",
-                    "indices": [
-                        121,
-                        144
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 0,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/jrE0vVwYVb",
+                "expanded_url": "http://go.usa.gov/x9MwY",
+                "display_url": "go.usa.gov/x9MwY",
+                "indices": [
+                    121,
+                    144
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

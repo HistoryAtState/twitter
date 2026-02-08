@@ -1,213 +1,211 @@
-[
-    {
-        "created_at": "Fri May 11 16:09:08 +0000 2018",
-        "id": 994972686089641984,
-        "id_str": "994972686089641984",
-        "full_text": "RT @usembvienna: 'The Economic Cooperation Act established the Economic Cooperation Administration to administer the European Recovery Prog\u2026",
+{
+    "created_at": "Fri May 11 16:09:08 +0000 2018",
+    "id": 994972686089641980,
+    "id_str": "994972686089641984",
+    "full_text": "RT @usembvienna: 'The Economic Cooperation Act established the Economic Cooperation Administration to administer the European Recovery Prog…",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "usembvienna",
+                "name": "U.S. Embassy Vienna",
+                "id": 86029229,
+                "id_str": "86029229",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "source": "&lt;a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"&gt;Twitter for iPad&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri May 11 10:40:06 +0000 2018",
+        "id": 994889880927981570,
+        "id_str": "994889880927981568",
+        "full_text": "'The Economic Cooperation Act established the Economic Cooperation Administration to administer the European Recovery Program (#MarshallPlan).' - From @HistoryatState’s new online resource: Administrative Timeline of the @StateDept: https://t.co/DuNmwAvpV4 #Marshall70 https://t.co/SotXZjM25P",
         "truncated": false,
         "display_text_range": [
             0,
-            140
+            268
         ],
         "entities": {
-            "hashtags": [],
-            "symbols": [],
-            "user_mentions": [
+            "hashtags": [
                 {
-                    "screen_name": "usembvienna",
-                    "name": "U.S. Embassy Vienna",
-                    "id": 86029229,
-                    "id_str": "86029229",
+                    "text": "MarshallPlan",
                     "indices": [
-                        3,
-                        15
+                        127,
+                        140
+                    ]
+                },
+                {
+                    "text": "Marshall70",
+                    "indices": [
+                        257,
+                        268
                     ]
                 }
             ],
-            "urls": []
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "HistoryAtState",
+                    "name": "HistoryAtState",
+                    "id": 586570880,
+                    "id_str": "586570880",
+                    "indices": [
+                        151,
+                        166
+                    ]
+                },
+                {
+                    "screen_name": "StateDept",
+                    "name": "Department of State",
+                    "id": 9624742,
+                    "id_str": "9624742",
+                    "indices": [
+                        221,
+                        231
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/DuNmwAvpV4",
+                    "expanded_url": "https://bitly.com/2I76mMX",
+                    "display_url": "bitly.com/2I76mMX",
+                    "indices": [
+                        233,
+                        256
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 994889878696423420,
+                    "id_str": "994889878696423424",
+                    "indices": [
+                        269,
+                        292
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/Dc6PEtJU8AAkx_w.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/Dc6PEtJU8AAkx_w.jpg",
+                    "url": "https://t.co/SotXZjM25P",
+                    "display_url": "pic.twitter.com/SotXZjM25P",
+                    "expanded_url": "https://twitter.com/usembvienna/status/994889880927981568/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 761,
+                            "h": 250,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 223,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 761,
+                            "h": 250,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
         },
-        "source": "\u003ca href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c/a\u003e",
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 994889878696423420,
+                    "id_str": "994889878696423424",
+                    "indices": [
+                        269,
+                        292
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/Dc6PEtJU8AAkx_w.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/Dc6PEtJU8AAkx_w.jpg",
+                    "url": "https://t.co/SotXZjM25P",
+                    "display_url": "pic.twitter.com/SotXZjM25P",
+                    "expanded_url": "https://twitter.com/usembvienna/status/994889880927981568/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 761,
+                            "h": 250,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 223,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 761,
+                            "h": 250,
+                            "resize": "fit"
+                        }
+                    },
+                    "ext_alt_text": null
+                }
+            ]
+        },
+        "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
         "in_reply_to_screen_name": null,
         "user": {
-            "id": 586570880,
-            "id_str": "586570880"
+            "id": 86029229,
+            "id_str": "86029229"
         },
         "geo": null,
         "coordinates": null,
         "place": null,
         "contributors": null,
-        "retweeted_status": {
-            "created_at": "Fri May 11 10:40:06 +0000 2018",
-            "id": 994889880927981568,
-            "id_str": "994889880927981568",
-            "full_text": "'The Economic Cooperation Act established the Economic Cooperation Administration to administer the European Recovery Program (#MarshallPlan).' - From @HistoryatState\u2019s new online resource: Administrative Timeline of the @StateDept: https://t.co/DuNmwAvpV4 #Marshall70 https://t.co/SotXZjM25P",
-            "truncated": false,
-            "display_text_range": [
-                0,
-                268
-            ],
-            "entities": {
-                "hashtags": [
-                    {
-                        "text": "MarshallPlan",
-                        "indices": [
-                            127,
-                            140
-                        ]
-                    },
-                    {
-                        "text": "Marshall70",
-                        "indices": [
-                            257,
-                            268
-                        ]
-                    }
-                ],
-                "symbols": [],
-                "user_mentions": [
-                    {
-                        "screen_name": "HistoryAtState",
-                        "name": "HistoryAtState",
-                        "id": 586570880,
-                        "id_str": "586570880",
-                        "indices": [
-                            151,
-                            166
-                        ]
-                    },
-                    {
-                        "screen_name": "StateDept",
-                        "name": "Department of State",
-                        "id": 9624742,
-                        "id_str": "9624742",
-                        "indices": [
-                            221,
-                            231
-                        ]
-                    }
-                ],
-                "urls": [
-                    {
-                        "url": "https://t.co/DuNmwAvpV4",
-                        "expanded_url": "https://bitly.com/2I76mMX",
-                        "display_url": "bitly.com/2I76mMX",
-                        "indices": [
-                            233,
-                            256
-                        ]
-                    }
-                ],
-                "media": [
-                    {
-                        "id": 994889878696423424,
-                        "id_str": "994889878696423424",
-                        "indices": [
-                            269,
-                            292
-                        ],
-                        "media_url": "http://pbs.twimg.com/media/Dc6PEtJU8AAkx_w.jpg",
-                        "media_url_https": "https://pbs.twimg.com/media/Dc6PEtJU8AAkx_w.jpg",
-                        "url": "https://t.co/SotXZjM25P",
-                        "display_url": "pic.twitter.com/SotXZjM25P",
-                        "expanded_url": "https://twitter.com/usembvienna/status/994889880927981568/photo/1",
-                        "type": "photo",
-                        "sizes": {
-                            "large": {
-                                "w": 761,
-                                "h": 250,
-                                "resize": "fit"
-                            },
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
-                            "small": {
-                                "w": 680,
-                                "h": 223,
-                                "resize": "fit"
-                            },
-                            "medium": {
-                                "w": 761,
-                                "h": 250,
-                                "resize": "fit"
-                            }
-                        }
-                    }
-                ]
-            },
-            "extended_entities": {
-                "media": [
-                    {
-                        "id": 994889878696423424,
-                        "id_str": "994889878696423424",
-                        "indices": [
-                            269,
-                            292
-                        ],
-                        "media_url": "http://pbs.twimg.com/media/Dc6PEtJU8AAkx_w.jpg",
-                        "media_url_https": "https://pbs.twimg.com/media/Dc6PEtJU8AAkx_w.jpg",
-                        "url": "https://t.co/SotXZjM25P",
-                        "display_url": "pic.twitter.com/SotXZjM25P",
-                        "expanded_url": "https://twitter.com/usembvienna/status/994889880927981568/photo/1",
-                        "type": "photo",
-                        "sizes": {
-                            "large": {
-                                "w": 761,
-                                "h": 250,
-                                "resize": "fit"
-                            },
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
-                            "small": {
-                                "w": 680,
-                                "h": 223,
-                                "resize": "fit"
-                            },
-                            "medium": {
-                                "w": 761,
-                                "h": 250,
-                                "resize": "fit"
-                            }
-                        },
-                        "ext_alt_text": null
-                    }
-                ]
-            },
-            "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
-            "user": {
-                "id": 86029229,
-                "id_str": "86029229"
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "is_quote_status": false,
-            "retweet_count": 4,
-            "favorite_count": 4,
-            "favorited": false,
-            "retweeted": true,
-            "possibly_sensitive": false,
-            "lang": "en"
-        },
         "is_quote_status": false,
         "retweet_count": 4,
-        "favorite_count": 0,
+        "favorite_count": 4,
         "favorited": false,
         "retweeted": true,
+        "possibly_sensitive": false,
         "lang": "en"
-    }
-]
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "en"
+}

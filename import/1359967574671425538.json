@@ -1,221 +1,219 @@
-[
-    {
-        "created_at": "Thu Feb 11 20:48:31 +0000 2021",
-        "id": 1359967574671425538,
-        "id_str": "1359967574671425538",
-        "full_text": "RT @FSIatState: #FSI's @HistoryatState Director Adam Howard hosted a virtual meeting with the US Army Center of Military History\u2019s Graduate\u2026",
+{
+    "created_at": "Thu Feb 11 20:48:31 +0000 2021",
+    "id": 1359967574671425540,
+    "id_str": "1359967574671425538",
+    "full_text": "RT @FSIatState: #FSI's @HistoryatState Director Adam Howard hosted a virtual meeting with the US Army Center of Military History’s Graduate…",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FSI",
+                "indices": [
+                    16,
+                    20
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "FSIatState",
+                "name": "Foreign Service Institute",
+                "id": 958044239576948740,
+                "id_str": "958044239576948736",
+                "indices": [
+                    3,
+                    14
+                ]
+            },
+            {
+                "screen_name": "HistoryAtState",
+                "name": "HistoryAtState",
+                "id": 586570880,
+                "id_str": "586570880",
+                "indices": [
+                    23,
+                    38
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Feb 11 20:08:03 +0000 2021",
+        "id": 1359957390163075070,
+        "id_str": "1359957390163075075",
+        "full_text": "#FSI's @HistoryatState Director Adam Howard hosted a virtual meeting with the US Army Center of Military History’s Graduate Research Assistants and interns to discuss the Foreign Relations of the United States (FRUS) series. Learn more about #FRUS here: https://t.co/pC23HgIrhM. https://t.co/QkrIUzkyv3",
         "truncated": false,
         "display_text_range": [
             0,
-            140
+            278
         ],
         "entities": {
             "hashtags": [
                 {
                     "text": "FSI",
                     "indices": [
-                        16,
-                        20
+                        0,
+                        4
+                    ]
+                },
+                {
+                    "text": "FRUS",
+                    "indices": [
+                        242,
+                        247
                     ]
                 }
             ],
             "symbols": [],
             "user_mentions": [
                 {
-                    "screen_name": "FSIatState",
-                    "name": "Foreign Service Institute",
-                    "id": 958044239576948736,
-                    "id_str": "958044239576948736",
-                    "indices": [
-                        3,
-                        14
-                    ]
-                },
-                {
                     "screen_name": "HistoryAtState",
                     "name": "HistoryAtState",
                     "id": 586570880,
                     "id_str": "586570880",
                     "indices": [
-                        23,
-                        38
+                        7,
+                        22
                     ]
                 }
             ],
-            "urls": []
+            "urls": [
+                {
+                    "url": "https://t.co/pC23HgIrhM",
+                    "expanded_url": "https://bit.ly/2IZuF13",
+                    "display_url": "bit.ly/2IZuF13",
+                    "indices": [
+                        254,
+                        277
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1359957385691947010,
+                    "id_str": "1359957385691947016",
+                    "indices": [
+                        279,
+                        302
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/Et-KCXPWYAgv06-.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/Et-KCXPWYAgv06-.jpg",
+                    "url": "https://t.co/QkrIUzkyv3",
+                    "display_url": "pic.twitter.com/QkrIUzkyv3",
+                    "expanded_url": "https://twitter.com/FSIatState/status/1359957390163075075/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1600,
+                            "h": 900,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
         },
-        "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1359957385691947010,
+                    "id_str": "1359957385691947016",
+                    "indices": [
+                        279,
+                        302
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/Et-KCXPWYAgv06-.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/Et-KCXPWYAgv06-.jpg",
+                    "url": "https://t.co/QkrIUzkyv3",
+                    "display_url": "pic.twitter.com/QkrIUzkyv3",
+                    "expanded_url": "https://twitter.com/FSIatState/status/1359957390163075075/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1600,
+                            "h": 900,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        }
+                    },
+                    "ext_alt_text": null
+                }
+            ]
+        },
+        "source": "&lt;a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"&gt;Twitter for iPhone&lt;/a&gt;",
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
         "in_reply_to_screen_name": null,
         "user": {
-            "id": 586570880,
-            "id_str": "586570880"
+            "id": 958044239576948740,
+            "id_str": "958044239576948736"
         },
         "geo": null,
         "coordinates": null,
         "place": null,
         "contributors": null,
-        "retweeted_status": {
-            "created_at": "Thu Feb 11 20:08:03 +0000 2021",
-            "id": 1359957390163075075,
-            "id_str": "1359957390163075075",
-            "full_text": "#FSI's @HistoryatState Director Adam Howard hosted a virtual meeting with the US Army Center of Military History\u2019s Graduate Research Assistants and interns to discuss the Foreign Relations of the United States (FRUS) series. Learn more about #FRUS here:\u00a0https://t.co/pC23HgIrhM. https://t.co/QkrIUzkyv3",
-            "truncated": false,
-            "display_text_range": [
-                0,
-                278
-            ],
-            "entities": {
-                "hashtags": [
-                    {
-                        "text": "FSI",
-                        "indices": [
-                            0,
-                            4
-                        ]
-                    },
-                    {
-                        "text": "FRUS",
-                        "indices": [
-                            242,
-                            247
-                        ]
-                    }
-                ],
-                "symbols": [],
-                "user_mentions": [
-                    {
-                        "screen_name": "HistoryAtState",
-                        "name": "HistoryAtState",
-                        "id": 586570880,
-                        "id_str": "586570880",
-                        "indices": [
-                            7,
-                            22
-                        ]
-                    }
-                ],
-                "urls": [
-                    {
-                        "url": "https://t.co/pC23HgIrhM",
-                        "expanded_url": "https://bit.ly/2IZuF13",
-                        "display_url": "bit.ly/2IZuF13",
-                        "indices": [
-                            254,
-                            277
-                        ]
-                    }
-                ],
-                "media": [
-                    {
-                        "id": 1359957385691947016,
-                        "id_str": "1359957385691947016",
-                        "indices": [
-                            279,
-                            302
-                        ],
-                        "media_url": "http://pbs.twimg.com/media/Et-KCXPWYAgv06-.jpg",
-                        "media_url_https": "https://pbs.twimg.com/media/Et-KCXPWYAgv06-.jpg",
-                        "url": "https://t.co/QkrIUzkyv3",
-                        "display_url": "pic.twitter.com/QkrIUzkyv3",
-                        "expanded_url": "https://twitter.com/FSIatState/status/1359957390163075075/photo/1",
-                        "type": "photo",
-                        "sizes": {
-                            "medium": {
-                                "w": 1200,
-                                "h": 675,
-                                "resize": "fit"
-                            },
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
-                            "large": {
-                                "w": 1600,
-                                "h": 900,
-                                "resize": "fit"
-                            },
-                            "small": {
-                                "w": 680,
-                                "h": 383,
-                                "resize": "fit"
-                            }
-                        }
-                    }
-                ]
-            },
-            "extended_entities": {
-                "media": [
-                    {
-                        "id": 1359957385691947016,
-                        "id_str": "1359957385691947016",
-                        "indices": [
-                            279,
-                            302
-                        ],
-                        "media_url": "http://pbs.twimg.com/media/Et-KCXPWYAgv06-.jpg",
-                        "media_url_https": "https://pbs.twimg.com/media/Et-KCXPWYAgv06-.jpg",
-                        "url": "https://t.co/QkrIUzkyv3",
-                        "display_url": "pic.twitter.com/QkrIUzkyv3",
-                        "expanded_url": "https://twitter.com/FSIatState/status/1359957390163075075/photo/1",
-                        "type": "photo",
-                        "sizes": {
-                            "medium": {
-                                "w": 1200,
-                                "h": 675,
-                                "resize": "fit"
-                            },
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
-                            "large": {
-                                "w": 1600,
-                                "h": 900,
-                                "resize": "fit"
-                            },
-                            "small": {
-                                "w": 680,
-                                "h": 383,
-                                "resize": "fit"
-                            }
-                        },
-                        "ext_alt_text": null
-                    }
-                ]
-            },
-            "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
-            "user": {
-                "id": 958044239576948736,
-                "id_str": "958044239576948736"
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "is_quote_status": false,
-            "retweet_count": 3,
-            "favorite_count": 9,
-            "favorited": false,
-            "retweeted": true,
-            "possibly_sensitive": false,
-            "lang": "en"
-        },
         "is_quote_status": false,
         "retweet_count": 3,
-        "favorite_count": 0,
+        "favorite_count": 9,
         "favorited": false,
         "retweeted": true,
+        "possibly_sensitive": false,
         "lang": "en"
-    }
-]
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "en"
+}

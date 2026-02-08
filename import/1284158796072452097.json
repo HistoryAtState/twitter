@@ -1,231 +1,229 @@
-[
-    {
-        "created_at": "Fri Jul 17 16:11:30 +0000 2020",
-        "id": 1284158796072452097,
-        "id_str": "1284158796072452097",
-        "full_text": "RT @FSIatState: Do you love historical research? #FSI\u2019s Office of the Historian is seeking @VSFSatState eInterns to conduct research on U.S\u2026",
+{
+    "created_at": "Fri Jul 17 16:11:30 +0000 2020",
+    "id": 1284158796072452100,
+    "id_str": "1284158796072452097",
+    "full_text": "RT @FSIatState: Do you love historical research? #FSI’s Office of the Historian is seeking @VSFSatState eInterns to conduct research on U.S…",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FSI",
+                "indices": [
+                    49,
+                    53
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "FSIatState",
+                "name": "Foreign Service Institute",
+                "id": 958044239576948740,
+                "id_str": "958044239576948736",
+                "indices": [
+                    3,
+                    14
+                ]
+            },
+            {
+                "screen_name": "VSFSatState",
+                "name": "Virtual Student Federal Service",
+                "id": 169927909,
+                "id_str": "169927909",
+                "indices": [
+                    91,
+                    103
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Jul 16 12:39:47 +0000 2020",
+        "id": 1283743128722317310,
+        "id_str": "1283743128722317313",
+        "full_text": "Do you love historical research? #FSI’s Office of the Historian is seeking @VSFSatState eInterns to conduct research on U.S. relations with Sub-Saharan Africa. Learn more here: https://t.co/4l6X51wCAH. @HistoryAtState #ApplyinJuly https://t.co/EYTv25tHJX",
         "truncated": false,
         "display_text_range": [
             0,
-            140
+            230
         ],
         "entities": {
             "hashtags": [
                 {
                     "text": "FSI",
                     "indices": [
-                        49,
-                        53
+                        33,
+                        37
+                    ]
+                },
+                {
+                    "text": "ApplyinJuly",
+                    "indices": [
+                        218,
+                        230
                     ]
                 }
             ],
             "symbols": [],
             "user_mentions": [
                 {
-                    "screen_name": "FSIatState",
-                    "name": "Foreign Service Institute",
-                    "id": 958044239576948736,
-                    "id_str": "958044239576948736",
-                    "indices": [
-                        3,
-                        14
-                    ]
-                },
-                {
                     "screen_name": "VSFSatState",
                     "name": "Virtual Student Federal Service",
                     "id": 169927909,
                     "id_str": "169927909",
                     "indices": [
-                        91,
-                        103
+                        75,
+                        87
+                    ]
+                },
+                {
+                    "screen_name": "HistoryAtState",
+                    "name": "HistoryAtState",
+                    "id": 586570880,
+                    "id_str": "586570880",
+                    "indices": [
+                        202,
+                        217
                     ]
                 }
             ],
-            "urls": []
+            "urls": [
+                {
+                    "url": "https://t.co/4l6X51wCAH",
+                    "expanded_url": "http://go.usa.gov/xfrHj",
+                    "display_url": "go.usa.gov/xfrHj",
+                    "indices": [
+                        177,
+                        200
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1283743074628374530,
+                    "id_str": "1283743074628374528",
+                    "indices": [
+                        231,
+                        254
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EdDFhloXkAAYDyO.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EdDFhloXkAAYDyO.jpg",
+                    "url": "https://t.co/EYTv25tHJX",
+                    "display_url": "pic.twitter.com/EYTv25tHJX",
+                    "expanded_url": "https://twitter.com/FSIatState/status/1283743128722317313/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1024,
+                            "h": 512,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1024,
+                            "h": 512,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 340,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
         },
-        "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1283743074628374530,
+                    "id_str": "1283743074628374528",
+                    "indices": [
+                        231,
+                        254
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EdDFhloXkAAYDyO.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EdDFhloXkAAYDyO.jpg",
+                    "url": "https://t.co/EYTv25tHJX",
+                    "display_url": "pic.twitter.com/EYTv25tHJX",
+                    "expanded_url": "https://twitter.com/FSIatState/status/1283743128722317313/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1024,
+                            "h": 512,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1024,
+                            "h": 512,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 340,
+                            "resize": "fit"
+                        }
+                    },
+                    "ext_alt_text": null
+                }
+            ]
+        },
+        "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
         "in_reply_to_screen_name": null,
         "user": {
-            "id": 586570880,
-            "id_str": "586570880"
+            "id": 958044239576948740,
+            "id_str": "958044239576948736"
         },
         "geo": null,
         "coordinates": null,
         "place": null,
         "contributors": null,
-        "retweeted_status": {
-            "created_at": "Thu Jul 16 12:39:47 +0000 2020",
-            "id": 1283743128722317313,
-            "id_str": "1283743128722317313",
-            "full_text": "Do you love historical research? #FSI\u2019s Office of the Historian is seeking @VSFSatState eInterns to conduct research on U.S. relations with Sub-Saharan Africa. Learn more here: https://t.co/4l6X51wCAH. @HistoryAtState #ApplyinJuly https://t.co/EYTv25tHJX",
-            "truncated": false,
-            "display_text_range": [
-                0,
-                230
-            ],
-            "entities": {
-                "hashtags": [
-                    {
-                        "text": "FSI",
-                        "indices": [
-                            33,
-                            37
-                        ]
-                    },
-                    {
-                        "text": "ApplyinJuly",
-                        "indices": [
-                            218,
-                            230
-                        ]
-                    }
-                ],
-                "symbols": [],
-                "user_mentions": [
-                    {
-                        "screen_name": "VSFSatState",
-                        "name": "Virtual Student Federal Service",
-                        "id": 169927909,
-                        "id_str": "169927909",
-                        "indices": [
-                            75,
-                            87
-                        ]
-                    },
-                    {
-                        "screen_name": "HistoryAtState",
-                        "name": "HistoryAtState",
-                        "id": 586570880,
-                        "id_str": "586570880",
-                        "indices": [
-                            202,
-                            217
-                        ]
-                    }
-                ],
-                "urls": [
-                    {
-                        "url": "https://t.co/4l6X51wCAH",
-                        "expanded_url": "http://go.usa.gov/xfrHj",
-                        "display_url": "go.usa.gov/xfrHj",
-                        "indices": [
-                            177,
-                            200
-                        ]
-                    }
-                ],
-                "media": [
-                    {
-                        "id": 1283743074628374528,
-                        "id_str": "1283743074628374528",
-                        "indices": [
-                            231,
-                            254
-                        ],
-                        "media_url": "http://pbs.twimg.com/media/EdDFhloXkAAYDyO.jpg",
-                        "media_url_https": "https://pbs.twimg.com/media/EdDFhloXkAAYDyO.jpg",
-                        "url": "https://t.co/EYTv25tHJX",
-                        "display_url": "pic.twitter.com/EYTv25tHJX",
-                        "expanded_url": "https://twitter.com/FSIatState/status/1283743128722317313/photo/1",
-                        "type": "photo",
-                        "sizes": {
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
-                            "medium": {
-                                "w": 1024,
-                                "h": 512,
-                                "resize": "fit"
-                            },
-                            "large": {
-                                "w": 1024,
-                                "h": 512,
-                                "resize": "fit"
-                            },
-                            "small": {
-                                "w": 680,
-                                "h": 340,
-                                "resize": "fit"
-                            }
-                        }
-                    }
-                ]
-            },
-            "extended_entities": {
-                "media": [
-                    {
-                        "id": 1283743074628374528,
-                        "id_str": "1283743074628374528",
-                        "indices": [
-                            231,
-                            254
-                        ],
-                        "media_url": "http://pbs.twimg.com/media/EdDFhloXkAAYDyO.jpg",
-                        "media_url_https": "https://pbs.twimg.com/media/EdDFhloXkAAYDyO.jpg",
-                        "url": "https://t.co/EYTv25tHJX",
-                        "display_url": "pic.twitter.com/EYTv25tHJX",
-                        "expanded_url": "https://twitter.com/FSIatState/status/1283743128722317313/photo/1",
-                        "type": "photo",
-                        "sizes": {
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
-                            "medium": {
-                                "w": 1024,
-                                "h": 512,
-                                "resize": "fit"
-                            },
-                            "large": {
-                                "w": 1024,
-                                "h": 512,
-                                "resize": "fit"
-                            },
-                            "small": {
-                                "w": 680,
-                                "h": 340,
-                                "resize": "fit"
-                            }
-                        },
-                        "ext_alt_text": null
-                    }
-                ]
-            },
-            "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
-            "user": {
-                "id": 958044239576948736,
-                "id_str": "958044239576948736"
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "is_quote_status": false,
-            "retweet_count": 7,
-            "favorite_count": 13,
-            "favorited": false,
-            "retweeted": true,
-            "possibly_sensitive": false,
-            "lang": "en"
-        },
         "is_quote_status": false,
         "retweet_count": 7,
-        "favorite_count": 0,
+        "favorite_count": 13,
         "favorited": false,
         "retweeted": true,
+        "possibly_sensitive": false,
         "lang": "en"
-    }
-]
+    },
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "en"
+}

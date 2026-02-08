@@ -1,316 +1,314 @@
-[
-    {
-        "created_at": "Thu Mar 02 21:14:02 +0000 2017",
-        "id": 837410696228974596,
-        "id_str": "837410696228974596",
-        "full_text": "RT @OurPresidents: #ArchivesAwesomeWomen https://t.co/HoZoDlH8Tb",
+{
+    "created_at": "Thu Mar 02 21:14:02 +0000 2017",
+    "id": 837410696228974590,
+    "id_str": "837410696228974596",
+    "full_text": "RT @OurPresidents: #ArchivesAwesomeWomen https://t.co/HoZoDlH8Tb",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        64
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "ArchivesAwesomeWomen",
+                "indices": [
+                    19,
+                    40
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "OurPresidents",
+                "name": "OurPresidents",
+                "id": 224697103,
+                "id_str": "224697103",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/HoZoDlH8Tb",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/837378274414243840",
+                "display_url": "twitter.com/HistoryAtState…",
+                "indices": [
+                    41,
+                    64
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"&gt;Twitter for iPad&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Mar 02 19:33:15 +0000 2017",
+        "id": 837385330504384510,
+        "id_str": "837385330504384512",
+        "full_text": "#ArchivesAwesomeWomen https://t.co/HoZoDlH8Tb",
         "truncated": false,
         "display_text_range": [
             0,
-            64
+            21
         ],
         "entities": {
             "hashtags": [
                 {
                     "text": "ArchivesAwesomeWomen",
                     "indices": [
-                        19,
-                        40
+                        0,
+                        21
                     ]
                 }
             ],
             "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "OurPresidents",
-                    "name": "OurPresidents",
-                    "id": 224697103,
-                    "id_str": "224697103",
-                    "indices": [
-                        3,
-                        17
-                    ]
-                }
-            ],
+            "user_mentions": [],
             "urls": [
                 {
                     "url": "https://t.co/HoZoDlH8Tb",
                     "expanded_url": "https://twitter.com/HistoryAtState/status/837378274414243840",
-                    "display_url": "twitter.com/HistoryAtState\u2026",
+                    "display_url": "twitter.com/HistoryAtState…",
                     "indices": [
-                        41,
-                        64
+                        22,
+                        45
                     ]
                 }
             ]
         },
-        "source": "\u003ca href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c/a\u003e",
+        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
         "in_reply_to_screen_name": null,
         "user": {
-            "id": 586570880,
-            "id_str": "586570880"
+            "id": 224697103,
+            "id_str": "224697103"
         },
         "geo": null,
         "coordinates": null,
         "place": null,
         "contributors": null,
-        "retweeted_status": {
-            "created_at": "Thu Mar 02 19:33:15 +0000 2017",
-            "id": 837385330504384512,
-            "id_str": "837385330504384512",
-            "full_text": "#ArchivesAwesomeWomen https://t.co/HoZoDlH8Tb",
-            "truncated": false,
-            "display_text_range": [
-                0,
-                21
-            ],
-            "entities": {
-                "hashtags": [
-                    {
-                        "text": "ArchivesAwesomeWomen",
-                        "indices": [
-                            0,
-                            21
-                        ]
-                    }
-                ],
-                "symbols": [],
-                "user_mentions": [],
-                "urls": [
-                    {
-                        "url": "https://t.co/HoZoDlH8Tb",
-                        "expanded_url": "https://twitter.com/HistoryAtState/status/837378274414243840",
-                        "display_url": "twitter.com/HistoryAtState\u2026",
-                        "indices": [
-                            22,
-                            45
-                        ]
-                    }
-                ]
-            },
-            "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
-            "user": {
-                "id": 224697103,
-                "id_str": "224697103"
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "is_quote_status": true,
-            "quoted_status_id": 837378274414243840,
-            "quoted_status_id_str": "837378274414243840",
-            "quoted_status_permalink": {
-                "url": "https://t.co/HoZoDlH8Tb",
-                "expanded": "https://twitter.com/HistoryAtState/status/837378274414243840",
-                "display": "twitter.com/HistoryAtState\u2026"
-            },
-            "quoted_status": {
-                "created_at": "Thu Mar 02 19:05:13 +0000 2017",
-                "id": 837378274414243840,
-                "id_str": "837378274414243840",
-                "full_text": ".@madeleine Albright, first female #SecState (1997-2001): https://t.co/bMnHxmH44P #womenshistorymonth @StateDept #twitterstorians #frus https://t.co/tfFhDHZySw",
-                "truncated": false,
-                "display_text_range": [
-                    0,
-                    135
-                ],
-                "entities": {
-                    "hashtags": [
-                        {
-                            "text": "SecState",
-                            "indices": [
-                                35,
-                                44
-                            ]
-                        },
-                        {
-                            "text": "womenshistorymonth",
-                            "indices": [
-                                82,
-                                101
-                            ]
-                        },
-                        {
-                            "text": "twitterstorians",
-                            "indices": [
-                                113,
-                                129
-                            ]
-                        },
-                        {
-                            "text": "frus",
-                            "indices": [
-                                130,
-                                135
-                            ]
-                        }
-                    ],
-                    "symbols": [],
-                    "user_mentions": [
-                        {
-                            "screen_name": "madeleine",
-                            "name": "Madeleine Albright",
-                            "id": 1707321486,
-                            "id_str": "1707321486",
-                            "indices": [
-                                1,
-                                11
-                            ]
-                        },
-                        {
-                            "screen_name": "StateDept",
-                            "name": "Department of State",
-                            "id": 9624742,
-                            "id_str": "9624742",
-                            "indices": [
-                                102,
-                                112
-                            ]
-                        }
-                    ],
-                    "urls": [
-                        {
-                            "url": "https://t.co/bMnHxmH44P",
-                            "expanded_url": "http://go.usa.gov/xX3a3",
-                            "display_url": "go.usa.gov/xX3a3",
-                            "indices": [
-                                58,
-                                81
-                            ]
-                        }
-                    ],
-                    "media": [
-                        {
-                            "id": 837378272187011072,
-                            "id_str": "837378272187011072",
-                            "indices": [
-                                136,
-                                159
-                            ],
-                            "media_url": "http://pbs.twimg.com/media/C573GhhWUAAXavd.jpg",
-                            "media_url_https": "https://pbs.twimg.com/media/C573GhhWUAAXavd.jpg",
-                            "url": "https://t.co/tfFhDHZySw",
-                            "display_url": "pic.twitter.com/tfFhDHZySw",
-                            "expanded_url": "https://twitter.com/HistoryAtState/status/837378274414243840/photo/1",
-                            "type": "photo",
-                            "sizes": {
-                                "thumb": {
-                                    "w": 150,
-                                    "h": 150,
-                                    "resize": "crop"
-                                },
-                                "small": {
-                                    "w": 609,
-                                    "h": 680,
-                                    "resize": "fit"
-                                },
-                                "medium": {
-                                    "w": 1074,
-                                    "h": 1200,
-                                    "resize": "fit"
-                                },
-                                "large": {
-                                    "w": 1368,
-                                    "h": 1528,
-                                    "resize": "fit"
-                                }
-                            }
-                        }
-                    ]
-                },
-                "extended_entities": {
-                    "media": [
-                        {
-                            "id": 837378272187011072,
-                            "id_str": "837378272187011072",
-                            "indices": [
-                                136,
-                                159
-                            ],
-                            "media_url": "http://pbs.twimg.com/media/C573GhhWUAAXavd.jpg",
-                            "media_url_https": "https://pbs.twimg.com/media/C573GhhWUAAXavd.jpg",
-                            "url": "https://t.co/tfFhDHZySw",
-                            "display_url": "pic.twitter.com/tfFhDHZySw",
-                            "expanded_url": "https://twitter.com/HistoryAtState/status/837378274414243840/photo/1",
-                            "type": "photo",
-                            "sizes": {
-                                "thumb": {
-                                    "w": 150,
-                                    "h": 150,
-                                    "resize": "crop"
-                                },
-                                "small": {
-                                    "w": 609,
-                                    "h": 680,
-                                    "resize": "fit"
-                                },
-                                "medium": {
-                                    "w": 1074,
-                                    "h": 1200,
-                                    "resize": "fit"
-                                },
-                                "large": {
-                                    "w": 1368,
-                                    "h": 1528,
-                                    "resize": "fit"
-                                }
-                            },
-                            "ext_alt_text": null
-                        }
-                    ]
-                },
-                "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-                "in_reply_to_status_id": null,
-                "in_reply_to_status_id_str": null,
-                "in_reply_to_user_id": null,
-                "in_reply_to_user_id_str": null,
-                "in_reply_to_screen_name": null,
-                "user": {
-                    "id": 586570880,
-                    "id_str": "586570880"
-                },
-                "geo": null,
-                "coordinates": null,
-                "place": null,
-                "contributors": null,
-                "is_quote_status": false,
-                "retweet_count": 6,
-                "favorite_count": 11,
-                "favorited": false,
-                "retweeted": false,
-                "possibly_sensitive": false,
-                "lang": "en"
-            },
-            "retweet_count": 6,
-            "favorite_count": 9,
-            "favorited": false,
-            "retweeted": true,
-            "possibly_sensitive": false,
-            "lang": "qme"
-        },
         "is_quote_status": true,
         "quoted_status_id": 837378274414243840,
         "quoted_status_id_str": "837378274414243840",
         "quoted_status_permalink": {
             "url": "https://t.co/HoZoDlH8Tb",
             "expanded": "https://twitter.com/HistoryAtState/status/837378274414243840",
-            "display": "twitter.com/HistoryAtState\u2026"
+            "display": "twitter.com/HistoryAtState…"
+        },
+        "quoted_status": {
+            "created_at": "Thu Mar 02 19:05:13 +0000 2017",
+            "id": 837378274414243840,
+            "id_str": "837378274414243840",
+            "full_text": ".@madeleine Albright, first female #SecState (1997-2001): https://t.co/bMnHxmH44P #womenshistorymonth @StateDept #twitterstorians #frus https://t.co/tfFhDHZySw",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                135
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "SecState",
+                        "indices": [
+                            35,
+                            44
+                        ]
+                    },
+                    {
+                        "text": "womenshistorymonth",
+                        "indices": [
+                            82,
+                            101
+                        ]
+                    },
+                    {
+                        "text": "twitterstorians",
+                        "indices": [
+                            113,
+                            129
+                        ]
+                    },
+                    {
+                        "text": "frus",
+                        "indices": [
+                            130,
+                            135
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "madeleine",
+                        "name": "Madeleine Albright",
+                        "id": 1707321486,
+                        "id_str": "1707321486",
+                        "indices": [
+                            1,
+                            11
+                        ]
+                    },
+                    {
+                        "screen_name": "StateDept",
+                        "name": "Department of State",
+                        "id": 9624742,
+                        "id_str": "9624742",
+                        "indices": [
+                            102,
+                            112
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/bMnHxmH44P",
+                        "expanded_url": "http://go.usa.gov/xX3a3",
+                        "display_url": "go.usa.gov/xX3a3",
+                        "indices": [
+                            58,
+                            81
+                        ]
+                    }
+                ],
+                "media": [
+                    {
+                        "id": 837378272187011070,
+                        "id_str": "837378272187011072",
+                        "indices": [
+                            136,
+                            159
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/C573GhhWUAAXavd.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/C573GhhWUAAXavd.jpg",
+                        "url": "https://t.co/tfFhDHZySw",
+                        "display_url": "pic.twitter.com/tfFhDHZySw",
+                        "expanded_url": "https://twitter.com/HistoryAtState/status/837378274414243840/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 609,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1074,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1368,
+                                "h": 1528,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 837378272187011070,
+                        "id_str": "837378272187011072",
+                        "indices": [
+                            136,
+                            159
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/C573GhhWUAAXavd.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/C573GhhWUAAXavd.jpg",
+                        "url": "https://t.co/tfFhDHZySw",
+                        "display_url": "pic.twitter.com/tfFhDHZySw",
+                        "expanded_url": "https://twitter.com/HistoryAtState/status/837378274414243840/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 609,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1074,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1368,
+                                "h": 1528,
+                                "resize": "fit"
+                            }
+                        },
+                        "ext_alt_text": null
+                    }
+                ]
+            },
+            "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 586570880,
+                "id_str": "586570880"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 6,
+            "favorite_count": 11,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
         },
         "retweet_count": 6,
-        "favorite_count": 0,
+        "favorite_count": 9,
         "favorited": false,
         "retweeted": true,
         "possibly_sensitive": false,
         "lang": "qme"
-    }
-]
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 837378274414243840,
+    "quoted_status_id_str": "837378274414243840",
+    "quoted_status_permalink": {
+        "url": "https://t.co/HoZoDlH8Tb",
+        "expanded": "https://twitter.com/HistoryAtState/status/837378274414243840",
+        "display": "twitter.com/HistoryAtState…"
+    },
+    "retweet_count": 6,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "qme"
+}

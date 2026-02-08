@@ -1,44 +1,122 @@
-[
-    {
-        "created_at": "Fri May 13 13:40:47 +0000 2016",
-        "id": 731116984864243712,
-        "id_str": "731116984864243712",
-        "full_text": "RT @USGPO: Discover this @StateDept @HistoryAtState foreign relations book, avail. from @USGPO: https://t.co/G5xMSZhJnJ #FRUS https://t.co/\u2026",
+{
+    "created_at": "Fri May 13 13:40:47 +0000 2016",
+    "id": 731116984864243710,
+    "id_str": "731116984864243712",
+    "full_text": "RT @USGPO: Discover this @StateDept @HistoryAtState foreign relations book, avail. from @USGPO: https://t.co/G5xMSZhJnJ #FRUS https://t.co/…",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FRUS",
+                "indices": [
+                    120,
+                    125
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "USGPO",
+                "name": "USGPO",
+                "id": 20064236,
+                "id_str": "20064236",
+                "indices": [
+                    3,
+                    9
+                ]
+            },
+            {
+                "screen_name": "StateDept",
+                "name": "Department of State",
+                "id": 9624742,
+                "id_str": "9624742",
+                "indices": [
+                    25,
+                    35
+                ]
+            },
+            {
+                "screen_name": "HistoryAtState",
+                "name": "HistoryAtState",
+                "id": 586570880,
+                "id_str": "586570880",
+                "indices": [
+                    36,
+                    51
+                ]
+            },
+            {
+                "screen_name": "USGPO",
+                "name": "USGPO",
+                "id": 20064236,
+                "id_str": "20064236",
+                "indices": [
+                    88,
+                    94
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/G5xMSZhJnJ",
+                "expanded_url": "http://go.usa.gov/cutAY",
+                "display_url": "go.usa.gov/cutAY",
+                "indices": [
+                    96,
+                    119
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"&gt;Twitter for iPad&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri May 13 12:58:20 +0000 2016",
+        "id": 731106300927590400,
+        "id_str": "731106300927590401",
+        "full_text": "Discover this @StateDept @HistoryAtState foreign relations book, avail. from @USGPO: https://t.co/G5xMSZhJnJ #FRUS https://t.co/wUkzCBZaQG",
         "truncated": false,
         "display_text_range": [
             0,
-            140
+            114
         ],
         "entities": {
             "hashtags": [
                 {
                     "text": "FRUS",
                     "indices": [
-                        120,
-                        125
+                        109,
+                        114
                     ]
                 }
             ],
             "symbols": [],
             "user_mentions": [
                 {
-                    "screen_name": "USGPO",
-                    "name": "USGPO",
-                    "id": 20064236,
-                    "id_str": "20064236",
-                    "indices": [
-                        3,
-                        9
-                    ]
-                },
-                {
                     "screen_name": "StateDept",
                     "name": "Department of State",
                     "id": 9624742,
                     "id_str": "9624742",
                     "indices": [
-                        25,
-                        35
+                        14,
+                        24
                     ]
                 },
                 {
@@ -47,8 +125,8 @@
                     "id": 586570880,
                     "id_str": "586570880",
                     "indices": [
-                        36,
-                        51
+                        25,
+                        40
                     ]
                 },
                 {
@@ -57,8 +135,8 @@
                     "id": 20064236,
                     "id_str": "20064236",
                     "indices": [
-                        88,
-                        94
+                        77,
+                        83
                     ]
                 }
             ],
@@ -68,198 +146,118 @@
                     "expanded_url": "http://go.usa.gov/cutAY",
                     "display_url": "go.usa.gov/cutAY",
                     "indices": [
-                        96,
-                        119
+                        85,
+                        108
                     ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 731106299597852670,
+                    "id_str": "731106299597852672",
+                    "indices": [
+                        115,
+                        138
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CiVpTlCUkAAKkiZ.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CiVpTlCUkAAKkiZ.jpg",
+                    "url": "https://t.co/wUkzCBZaQG",
+                    "display_url": "pic.twitter.com/wUkzCBZaQG",
+                    "expanded_url": "https://twitter.com/USGPO/status/731106300927590401/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 940,
+                            "h": 788,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 570,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 940,
+                            "h": 788,
+                            "resize": "fit"
+                        }
+                    }
                 }
             ]
         },
-        "source": "\u003ca href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c/a\u003e",
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 731106299597852670,
+                    "id_str": "731106299597852672",
+                    "indices": [
+                        115,
+                        138
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CiVpTlCUkAAKkiZ.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CiVpTlCUkAAKkiZ.jpg",
+                    "url": "https://t.co/wUkzCBZaQG",
+                    "display_url": "pic.twitter.com/wUkzCBZaQG",
+                    "expanded_url": "https://twitter.com/USGPO/status/731106300927590401/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 940,
+                            "h": 788,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 570,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 940,
+                            "h": 788,
+                            "resize": "fit"
+                        }
+                    },
+                    "ext_alt_text": null
+                }
+            ]
+        },
+        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
         "in_reply_to_screen_name": null,
         "user": {
-            "id": 586570880,
-            "id_str": "586570880"
+            "id": 20064236,
+            "id_str": "20064236"
         },
         "geo": null,
         "coordinates": null,
         "place": null,
         "contributors": null,
-        "retweeted_status": {
-            "created_at": "Fri May 13 12:58:20 +0000 2016",
-            "id": 731106300927590401,
-            "id_str": "731106300927590401",
-            "full_text": "Discover this @StateDept @HistoryAtState foreign relations book, avail. from @USGPO: https://t.co/G5xMSZhJnJ #FRUS https://t.co/wUkzCBZaQG",
-            "truncated": false,
-            "display_text_range": [
-                0,
-                114
-            ],
-            "entities": {
-                "hashtags": [
-                    {
-                        "text": "FRUS",
-                        "indices": [
-                            109,
-                            114
-                        ]
-                    }
-                ],
-                "symbols": [],
-                "user_mentions": [
-                    {
-                        "screen_name": "StateDept",
-                        "name": "Department of State",
-                        "id": 9624742,
-                        "id_str": "9624742",
-                        "indices": [
-                            14,
-                            24
-                        ]
-                    },
-                    {
-                        "screen_name": "HistoryAtState",
-                        "name": "HistoryAtState",
-                        "id": 586570880,
-                        "id_str": "586570880",
-                        "indices": [
-                            25,
-                            40
-                        ]
-                    },
-                    {
-                        "screen_name": "USGPO",
-                        "name": "USGPO",
-                        "id": 20064236,
-                        "id_str": "20064236",
-                        "indices": [
-                            77,
-                            83
-                        ]
-                    }
-                ],
-                "urls": [
-                    {
-                        "url": "https://t.co/G5xMSZhJnJ",
-                        "expanded_url": "http://go.usa.gov/cutAY",
-                        "display_url": "go.usa.gov/cutAY",
-                        "indices": [
-                            85,
-                            108
-                        ]
-                    }
-                ],
-                "media": [
-                    {
-                        "id": 731106299597852672,
-                        "id_str": "731106299597852672",
-                        "indices": [
-                            115,
-                            138
-                        ],
-                        "media_url": "http://pbs.twimg.com/media/CiVpTlCUkAAKkiZ.jpg",
-                        "media_url_https": "https://pbs.twimg.com/media/CiVpTlCUkAAKkiZ.jpg",
-                        "url": "https://t.co/wUkzCBZaQG",
-                        "display_url": "pic.twitter.com/wUkzCBZaQG",
-                        "expanded_url": "https://twitter.com/USGPO/status/731106300927590401/photo/1",
-                        "type": "photo",
-                        "sizes": {
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
-                            "medium": {
-                                "w": 940,
-                                "h": 788,
-                                "resize": "fit"
-                            },
-                            "small": {
-                                "w": 680,
-                                "h": 570,
-                                "resize": "fit"
-                            },
-                            "large": {
-                                "w": 940,
-                                "h": 788,
-                                "resize": "fit"
-                            }
-                        }
-                    }
-                ]
-            },
-            "extended_entities": {
-                "media": [
-                    {
-                        "id": 731106299597852672,
-                        "id_str": "731106299597852672",
-                        "indices": [
-                            115,
-                            138
-                        ],
-                        "media_url": "http://pbs.twimg.com/media/CiVpTlCUkAAKkiZ.jpg",
-                        "media_url_https": "https://pbs.twimg.com/media/CiVpTlCUkAAKkiZ.jpg",
-                        "url": "https://t.co/wUkzCBZaQG",
-                        "display_url": "pic.twitter.com/wUkzCBZaQG",
-                        "expanded_url": "https://twitter.com/USGPO/status/731106300927590401/photo/1",
-                        "type": "photo",
-                        "sizes": {
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
-                            "medium": {
-                                "w": 940,
-                                "h": 788,
-                                "resize": "fit"
-                            },
-                            "small": {
-                                "w": 680,
-                                "h": 570,
-                                "resize": "fit"
-                            },
-                            "large": {
-                                "w": 940,
-                                "h": 788,
-                                "resize": "fit"
-                            }
-                        },
-                        "ext_alt_text": null
-                    }
-                ]
-            },
-            "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
-            "user": {
-                "id": 20064236,
-                "id_str": "20064236"
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "is_quote_status": false,
-            "retweet_count": 4,
-            "favorite_count": 2,
-            "favorited": false,
-            "retweeted": true,
-            "possibly_sensitive": false,
-            "lang": "en"
-        },
         "is_quote_status": false,
         "retweet_count": 4,
-        "favorite_count": 0,
+        "favorite_count": 2,
         "favorited": false,
         "retweeted": true,
         "possibly_sensitive": false,
         "lang": "en"
-    }
-]
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

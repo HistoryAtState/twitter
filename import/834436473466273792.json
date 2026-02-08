@@ -1,58 +1,56 @@
-[
-    {
-        "created_at": "Wed Feb 22 16:15:33 +0000 2017",
-        "id": 834436473466273792,
-        "id_str": "834436473466273792",
-        "full_text": "Wharton served as Minister to Romania 1958-1960 &amp; Ambassador to Norway 1961-1964 #BlackHistoryMonth https://t.co/6tVM926vwp",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            127
+{
+    "created_at": "Wed Feb 22 16:15:33 +0000 2017",
+    "id": 834436473466273790,
+    "id_str": "834436473466273792",
+    "full_text": "Wharton served as Minister to Romania 1958-1960 &amp;amp; Ambassador to Norway 1961-1964 #BlackHistoryMonth https://t.co/6tVM926vwp",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        127
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "BlackHistoryMonth",
+                "indices": [
+                    85,
+                    103
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "BlackHistoryMonth",
-                    "indices": [
-                        85,
-                        103
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "https://t.co/6tVM926vwp",
-                    "expanded_url": "http://go.usa.gov/x9tRU",
-                    "display_url": "go.usa.gov/x9tRU",
-                    "indices": [
-                        104,
-                        127
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 1,
-        "favorite_count": 3,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/6tVM926vwp",
+                "expanded_url": "http://go.usa.gov/x9tRU",
+                "display_url": "go.usa.gov/x9tRU",
+                "indices": [
+                    104,
+                    127
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

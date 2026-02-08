@@ -1,221 +1,219 @@
-[
-    {
-        "created_at": "Wed Jun 15 18:00:32 +0000 2016",
-        "id": 743141155353804800,
-        "id_str": "743141155353804800",
-        "full_text": "RT @StateMag: Diplomatic Security Service marks centennial anniversary with year of events. Read more at: https://t.co/0Jzn3cOI2w https://t\u2026",
+{
+    "created_at": "Wed Jun 15 18:00:32 +0000 2016",
+    "id": 743141155353804800,
+    "id_str": "743141155353804800",
+    "full_text": "RT @StateMag: Diplomatic Security Service marks centennial anniversary with year of events. Read more at: https://t.co/0Jzn3cOI2w https://t…",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "StateMag",
+                "name": "statemag",
+                "id": 106807416,
+                "id_str": "106807416",
+                "indices": [
+                    3,
+                    12
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/0Jzn3cOI2w",
+                "expanded_url": "http://bit.ly/The-Big-One-Hundred",
+                "display_url": "bit.ly/The-Big-One-Hu…",
+                "indices": [
+                    106,
+                    129
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"&gt;Twitter for iPad&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Mon Jun 06 16:52:30 +0000 2016",
+        "id": 739862541367693310,
+        "id_str": "739862541367693313",
+        "full_text": "Diplomatic Security Service marks centennial anniversary with year of events. Read more at: https://t.co/0Jzn3cOI2w https://t.co/ph8iKAyirc",
         "truncated": false,
         "display_text_range": [
             0,
-            140
+            115
         ],
         "entities": {
             "hashtags": [],
             "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "StateMag",
-                    "name": "statemag",
-                    "id": 106807416,
-                    "id_str": "106807416",
-                    "indices": [
-                        3,
-                        12
-                    ]
-                }
-            ],
+            "user_mentions": [],
             "urls": [
                 {
                     "url": "https://t.co/0Jzn3cOI2w",
                     "expanded_url": "http://bit.ly/The-Big-One-Hundred",
-                    "display_url": "bit.ly/The-Big-One-Hu\u2026",
+                    "display_url": "bit.ly/The-Big-One-Hu…",
                     "indices": [
-                        106,
-                        129
+                        92,
+                        115
                     ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 739862539065004030,
+                    "id_str": "739862539065004032",
+                    "indices": [
+                        116,
+                        139
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CkSFDy-WkAAkVOR.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CkSFDy-WkAAkVOR.jpg",
+                    "url": "https://t.co/ph8iKAyirc",
+                    "display_url": "pic.twitter.com/ph8iKAyirc",
+                    "expanded_url": "https://twitter.com/StateMag/status/739862541367693313/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1022,
+                            "h": 765,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1022,
+                            "h": 765,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 509,
+                            "resize": "fit"
+                        }
+                    }
                 }
             ]
         },
-        "source": "\u003ca href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c/a\u003e",
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 739862539065004030,
+                    "id_str": "739862539065004032",
+                    "indices": [
+                        116,
+                        139
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CkSFDy-WkAAkVOR.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CkSFDy-WkAAkVOR.jpg",
+                    "url": "https://t.co/ph8iKAyirc",
+                    "display_url": "pic.twitter.com/ph8iKAyirc",
+                    "expanded_url": "https://twitter.com/StateMag/status/739862541367693313/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1022,
+                            "h": 765,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1022,
+                            "h": 765,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 509,
+                            "resize": "fit"
+                        }
+                    },
+                    "ext_alt_text": null
+                }
+            ]
+        },
+        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
         "in_reply_to_screen_name": null,
         "user": {
-            "id": 586570880,
-            "id_str": "586570880"
+            "id": 106807416,
+            "id_str": "106807416"
         },
         "geo": null,
         "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "retweeted_status": {
-            "created_at": "Mon Jun 06 16:52:30 +0000 2016",
-            "id": 739862541367693313,
-            "id_str": "739862541367693313",
-            "full_text": "Diplomatic Security Service marks centennial anniversary with year of events. Read more at: https://t.co/0Jzn3cOI2w https://t.co/ph8iKAyirc",
-            "truncated": false,
-            "display_text_range": [
-                0,
-                115
-            ],
-            "entities": {
-                "hashtags": [],
-                "symbols": [],
-                "user_mentions": [],
-                "urls": [
-                    {
-                        "url": "https://t.co/0Jzn3cOI2w",
-                        "expanded_url": "http://bit.ly/The-Big-One-Hundred",
-                        "display_url": "bit.ly/The-Big-One-Hu\u2026",
-                        "indices": [
-                            92,
-                            115
-                        ]
-                    }
-                ],
-                "media": [
-                    {
-                        "id": 739862539065004032,
-                        "id_str": "739862539065004032",
-                        "indices": [
-                            116,
-                            139
-                        ],
-                        "media_url": "http://pbs.twimg.com/media/CkSFDy-WkAAkVOR.jpg",
-                        "media_url_https": "https://pbs.twimg.com/media/CkSFDy-WkAAkVOR.jpg",
-                        "url": "https://t.co/ph8iKAyirc",
-                        "display_url": "pic.twitter.com/ph8iKAyirc",
-                        "expanded_url": "https://twitter.com/StateMag/status/739862541367693313/photo/1",
-                        "type": "photo",
-                        "sizes": {
-                            "large": {
-                                "w": 1022,
-                                "h": 765,
-                                "resize": "fit"
-                            },
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
-                            "medium": {
-                                "w": 1022,
-                                "h": 765,
-                                "resize": "fit"
-                            },
-                            "small": {
-                                "w": 680,
-                                "h": 509,
-                                "resize": "fit"
-                            }
-                        }
-                    }
-                ]
-            },
-            "extended_entities": {
-                "media": [
-                    {
-                        "id": 739862539065004032,
-                        "id_str": "739862539065004032",
-                        "indices": [
-                            116,
-                            139
-                        ],
-                        "media_url": "http://pbs.twimg.com/media/CkSFDy-WkAAkVOR.jpg",
-                        "media_url_https": "https://pbs.twimg.com/media/CkSFDy-WkAAkVOR.jpg",
-                        "url": "https://t.co/ph8iKAyirc",
-                        "display_url": "pic.twitter.com/ph8iKAyirc",
-                        "expanded_url": "https://twitter.com/StateMag/status/739862541367693313/photo/1",
-                        "type": "photo",
-                        "sizes": {
-                            "large": {
-                                "w": 1022,
-                                "h": 765,
-                                "resize": "fit"
-                            },
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
-                            "medium": {
-                                "w": 1022,
-                                "h": 765,
-                                "resize": "fit"
-                            },
-                            "small": {
-                                "w": 680,
-                                "h": 509,
-                                "resize": "fit"
-                            }
-                        },
-                        "ext_alt_text": null
-                    }
-                ]
-            },
-            "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
-            "user": {
-                "id": 106807416,
-                "id_str": "106807416"
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": {
-                "id": "01fbe706f872cb32",
-                "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
-                "place_type": "city",
-                "name": "Washington",
-                "full_name": "Washington, DC",
-                "country_code": "US",
-                "country": "United States",
-                "contained_within": [],
-                "bounding_box": {
-                    "type": "Polygon",
-                    "coordinates": [
+        "place": {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
                         [
-                            [
-                                -77.119401,
-                                38.801826
-                            ],
-                            [
-                                -76.909396,
-                                38.801826
-                            ],
-                            [
-                                -76.909396,
-                                38.9953797
-                            ],
-                            [
-                                -77.119401,
-                                38.9953797
-                            ]
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
                         ]
                     ]
-                },
-                "attributes": {}
+                ]
             },
-            "contributors": null,
-            "is_quote_status": false,
-            "retweet_count": 8,
-            "favorite_count": 4,
-            "favorited": false,
-            "retweeted": true,
-            "possibly_sensitive": false,
-            "lang": "en"
+            "attributes": {}
         },
+        "contributors": null,
         "is_quote_status": false,
         "retweet_count": 8,
-        "favorite_count": 0,
+        "favorite_count": 4,
         "favorited": false,
         "retweeted": true,
         "possibly_sensitive": false,
         "lang": "en"
-    }
-]
+    },
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

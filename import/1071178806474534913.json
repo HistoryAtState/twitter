@@ -1,58 +1,56 @@
-[
-    {
-        "created_at": "Fri Dec 07 23:05:03 +0000 2018",
-        "id": 1071178806474534913,
-        "id_str": "1071178806474534913",
-        "full_text": "The assassination of President Kennedy shocked not only the nation, but the world.  How did USIA reassure U.S. allies and warn U.S. foes that the U.S. government remained strong?  Find out in #FRUS https://t.co/YV8H55nY2h",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            221
+{
+    "created_at": "Fri Dec 07 23:05:03 +0000 2018",
+    "id": 1071178806474534910,
+    "id_str": "1071178806474534913",
+    "full_text": "The assassination of President Kennedy shocked not only the nation, but the world.  How did USIA reassure U.S. allies and warn U.S. foes that the U.S. government remained strong?  Find out in #FRUS https://t.co/YV8H55nY2h",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        221
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FRUS",
+                "indices": [
+                    192,
+                    197
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        192,
-                        197
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "https://t.co/YV8H55nY2h",
-                    "expanded_url": "https://history.state.gov/historicaldocuments/frus1917-72PubDipv07/d1",
-                    "display_url": "history.state.gov/historicaldocu\u2026",
-                    "indices": [
-                        198,
-                        221
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 2,
-        "favorite_count": 3,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/YV8H55nY2h",
+                "expanded_url": "https://history.state.gov/historicaldocuments/frus1917-72PubDipv07/d1",
+                "display_url": "history.state.gov/historicaldocu…",
+                "indices": [
+                    198,
+                    221
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

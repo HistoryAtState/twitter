@@ -1,83 +1,81 @@
-[
-    {
-        "created_at": "Thu Nov 30 16:55:11 +0000 2017",
-        "id": 936277439017349120,
-        "id_str": "936277439017349120",
-        "full_text": "How did #humanrights policy change during the #Reagan administration? See Foreign Relations of the United States, 81\u201388, Vol. XLI, Global Issues II @Reagan_Library https://t.co/M8w0Wc3Wm9 #FRUS",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            193
+{
+    "created_at": "Thu Nov 30 16:55:11 +0000 2017",
+    "id": 936277439017349120,
+    "id_str": "936277439017349120",
+    "full_text": "How did #humanrights policy change during the #Reagan administration? See Foreign Relations of the United States, 81–88, Vol. XLI, Global Issues II @Reagan_Library https://t.co/M8w0Wc3Wm9 #FRUS",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        193
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "humanrights",
+                "indices": [
+                    8,
+                    20
+                ]
+            },
+            {
+                "text": "Reagan",
+                "indices": [
+                    46,
+                    53
+                ]
+            },
+            {
+                "text": "FRUS",
+                "indices": [
+                    188,
+                    193
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "humanrights",
-                    "indices": [
-                        8,
-                        20
-                    ]
-                },
-                {
-                    "text": "Reagan",
-                    "indices": [
-                        46,
-                        53
-                    ]
-                },
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        188,
-                        193
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "Reagan_Library",
-                    "name": "RonaldReaganLibrary",
-                    "id": 394351710,
-                    "id_str": "394351710",
-                    "indices": [
-                        148,
-                        163
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "https://t.co/M8w0Wc3Wm9",
-                    "expanded_url": "https://go.usa.gov/xnWzr",
-                    "display_url": "go.usa.gov/xnWzr",
-                    "indices": [
-                        164,
-                        187
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 2,
-        "favorite_count": 2,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Reagan_Library",
+                "name": "RonaldReaganLibrary",
+                "id": 394351710,
+                "id_str": "394351710",
+                "indices": [
+                    148,
+                    163
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/M8w0Wc3Wm9",
+                "expanded_url": "https://go.usa.gov/xnWzr",
+                "display_url": "go.usa.gov/xnWzr",
+                "indices": [
+                    164,
+                    187
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

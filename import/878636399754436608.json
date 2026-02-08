@@ -1,61 +1,59 @@
-[
-    {
-        "created_at": "Sat Jun 24 15:30:16 +0000 2017",
-        "id": 878636399754436608,
-        "id_str": "878636399754436608",
-        "full_text": "Discuss #FRUS with us at the #SHAFR2017 roundtable on the Clinton years today at 1:15EST #twitterstorians",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            105
+{
+    "created_at": "Sat Jun 24 15:30:16 +0000 2017",
+    "id": 878636399754436610,
+    "id_str": "878636399754436608",
+    "full_text": "Discuss #FRUS with us at the #SHAFR2017 roundtable on the Clinton years today at 1:15EST #twitterstorians",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        105
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FRUS",
+                "indices": [
+                    8,
+                    13
+                ]
+            },
+            {
+                "text": "SHAFR2017",
+                "indices": [
+                    29,
+                    39
+                ]
+            },
+            {
+                "text": "twitterstorians",
+                "indices": [
+                    89,
+                    105
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        8,
-                        13
-                    ]
-                },
-                {
-                    "text": "SHAFR2017",
-                    "indices": [
-                        29,
-                        39
-                    ]
-                },
-                {
-                    "text": "twitterstorians",
-                    "indices": [
-                        89,
-                        105
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": []
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 0,
-        "favorite_count": 2,
-        "favorited": false,
-        "retweeted": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

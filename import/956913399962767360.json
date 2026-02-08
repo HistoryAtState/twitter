@@ -1,176 +1,174 @@
-[
-    {
-        "created_at": "Fri Jan 26 15:35:07 +0000 2018",
-        "id": 956913399962767360,
-        "id_str": "956913399962767360",
-        "full_text": "President #Nixon quietly celebrated the #Paris Peace Accords at his home in Key Biscayne, #Florida on January 27, 1973. #Vietnam @NixonLibrary #FRUS https://t.co/u8e6AmB6Qg https://t.co/kQDTIsZOYI",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            172
+{
+    "created_at": "Fri Jan 26 15:35:07 +0000 2018",
+    "id": 956913399962767360,
+    "id_str": "956913399962767360",
+    "full_text": "President #Nixon quietly celebrated the #Paris Peace Accords at his home in Key Biscayne, #Florida on January 27, 1973. #Vietnam @NixonLibrary #FRUS https://t.co/u8e6AmB6Qg https://t.co/kQDTIsZOYI",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        172
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Nixon",
+                "indices": [
+                    10,
+                    16
+                ]
+            },
+            {
+                "text": "Paris",
+                "indices": [
+                    40,
+                    46
+                ]
+            },
+            {
+                "text": "Florida",
+                "indices": [
+                    90,
+                    98
+                ]
+            },
+            {
+                "text": "Vietnam",
+                "indices": [
+                    120,
+                    128
+                ]
+            },
+            {
+                "text": "FRUS",
+                "indices": [
+                    143,
+                    148
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "Nixon",
-                    "indices": [
-                        10,
-                        16
-                    ]
-                },
-                {
-                    "text": "Paris",
-                    "indices": [
-                        40,
-                        46
-                    ]
-                },
-                {
-                    "text": "Florida",
-                    "indices": [
-                        90,
-                        98
-                    ]
-                },
-                {
-                    "text": "Vietnam",
-                    "indices": [
-                        120,
-                        128
-                    ]
-                },
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        143,
-                        148
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "NixonLibrary",
-                    "name": "RichardNixonLibrary",
-                    "id": 4276158575,
-                    "id_str": "4276158575",
-                    "indices": [
-                        129,
-                        142
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "https://t.co/u8e6AmB6Qg",
-                    "expanded_url": "https://go.usa.gov/xnfrr",
-                    "display_url": "go.usa.gov/xnfrr",
-                    "indices": [
-                        149,
-                        172
-                    ]
-                }
-            ],
-            "media": [
-                {
-                    "id": 956913396745678849,
-                    "id_str": "956913396745678849",
-                    "indices": [
-                        173,
-                        196
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/DUejqhXWsAEsW4X.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/DUejqhXWsAEsW4X.jpg",
-                    "url": "https://t.co/kQDTIsZOYI",
-                    "display_url": "pic.twitter.com/kQDTIsZOYI",
-                    "expanded_url": "https://twitter.com/HistoryAtState/status/956913399962767360/photo/1",
-                    "type": "photo",
-                    "sizes": {
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
-                        },
-                        "medium": {
-                            "w": 999,
-                            "h": 664,
-                            "resize": "fit"
-                        },
-                        "large": {
-                            "w": 999,
-                            "h": 664,
-                            "resize": "fit"
-                        },
-                        "small": {
-                            "w": 680,
-                            "h": 452,
-                            "resize": "fit"
-                        }
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "NixonLibrary",
+                "name": "RichardNixonLibrary",
+                "id": 4276158575,
+                "id_str": "4276158575",
+                "indices": [
+                    129,
+                    142
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/u8e6AmB6Qg",
+                "expanded_url": "https://go.usa.gov/xnfrr",
+                "display_url": "go.usa.gov/xnfrr",
+                "indices": [
+                    149,
+                    172
+                ]
+            }
+        ],
+        "media": [
+            {
+                "id": 956913396745678850,
+                "id_str": "956913396745678849",
+                "indices": [
+                    173,
+                    196
+                ],
+                "media_url": "http://pbs.twimg.com/media/DUejqhXWsAEsW4X.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/DUejqhXWsAEsW4X.jpg",
+                "url": "https://t.co/kQDTIsZOYI",
+                "display_url": "pic.twitter.com/kQDTIsZOYI",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/956913399962767360/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 999,
+                        "h": 664,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 999,
+                        "h": 664,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 452,
+                        "resize": "fit"
                     }
                 }
-            ]
-        },
-        "extended_entities": {
-            "media": [
-                {
-                    "id": 956913396745678849,
-                    "id_str": "956913396745678849",
-                    "indices": [
-                        173,
-                        196
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/DUejqhXWsAEsW4X.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/DUejqhXWsAEsW4X.jpg",
-                    "url": "https://t.co/kQDTIsZOYI",
-                    "display_url": "pic.twitter.com/kQDTIsZOYI",
-                    "expanded_url": "https://twitter.com/HistoryAtState/status/956913399962767360/photo/1",
-                    "type": "photo",
-                    "sizes": {
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
-                        },
-                        "medium": {
-                            "w": 999,
-                            "h": 664,
-                            "resize": "fit"
-                        },
-                        "large": {
-                            "w": 999,
-                            "h": 664,
-                            "resize": "fit"
-                        },
-                        "small": {
-                            "w": 680,
-                            "h": 452,
-                            "resize": "fit"
-                        }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 956913396745678850,
+                "id_str": "956913396745678849",
+                "indices": [
+                    173,
+                    196
+                ],
+                "media_url": "http://pbs.twimg.com/media/DUejqhXWsAEsW4X.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/DUejqhXWsAEsW4X.jpg",
+                "url": "https://t.co/kQDTIsZOYI",
+                "display_url": "pic.twitter.com/kQDTIsZOYI",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/956913399962767360/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
                     },
-                    "ext_alt_text": null
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 4,
-        "favorite_count": 4,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+                    "medium": {
+                        "w": 999,
+                        "h": 664,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 999,
+                        "h": 664,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 452,
+                        "resize": "fit"
+                    }
+                },
+                "ext_alt_text": null
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

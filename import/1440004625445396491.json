@@ -1,127 +1,125 @@
-[
-    {
-        "created_at": "Mon Sep 20 17:27:11 +0000 2021",
-        "id": 1440004625445396491,
-        "id_str": "1440004625445396491",
-        "full_text": "RT @AHAhistorians: In 2021, @HistoryAtState is commemorating several anniversaries, including the 160th anniversary of the Foreign Relation\u2026",
+{
+    "created_at": "Mon Sep 20 17:27:11 +0000 2021",
+    "id": 1440004625445396480,
+    "id_str": "1440004625445396491",
+    "full_text": "RT @AHAhistorians: In 2021, @HistoryAtState is commemorating several anniversaries, including the 160th anniversary of the Foreign Relation…",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "AHAhistorians",
+                "name": "American Historical Association",
+                "id": 76944176,
+                "id_str": "76944176",
+                "indices": [
+                    3,
+                    17
+                ]
+            },
+            {
+                "screen_name": "HistoryAtState",
+                "name": "HistoryAtState",
+                "id": 586570880,
+                "id_str": "586570880",
+                "indices": [
+                    28,
+                    43
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Mon Sep 20 16:04:01 +0000 2021",
+        "id": 1439983695406977020,
+        "id_str": "1439983695406977024",
+        "full_text": "In 2021, @HistoryAtState is commemorating several anniversaries, including the 160th anniversary of the Foreign Relations of the United States (FRUS) series. In #AHAPerspectives, Adam M. Howard and Kristin L. Ahlberg describe how FRUS has evolved.https://t.co/Lcfck8L3Nv",
         "truncated": false,
         "display_text_range": [
             0,
-            140
+            270
         ],
         "entities": {
-            "hashtags": [],
+            "hashtags": [
+                {
+                    "text": "AHAPerspectives",
+                    "indices": [
+                        161,
+                        177
+                    ]
+                }
+            ],
             "symbols": [],
             "user_mentions": [
-                {
-                    "screen_name": "AHAhistorians",
-                    "name": "American Historical Association",
-                    "id": 76944176,
-                    "id_str": "76944176",
-                    "indices": [
-                        3,
-                        17
-                    ]
-                },
                 {
                     "screen_name": "HistoryAtState",
                     "name": "HistoryAtState",
                     "id": 586570880,
                     "id_str": "586570880",
                     "indices": [
-                        28,
-                        43
+                        9,
+                        24
                     ]
                 }
             ],
-            "urls": []
+            "urls": [
+                {
+                    "url": "https://t.co/Lcfck8L3Nv",
+                    "expanded_url": "https://www.historians.org/publications-and-directories/perspectives-on-history/october-2021/consistently-evolving-the-foreign-relations-series-at-160",
+                    "display_url": "historians.org/publications-a…",
+                    "indices": [
+                        247,
+                        270
+                    ]
+                }
+            ]
         },
-        "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+        "source": "&lt;a href=\"https://sproutsocial.com\" rel=\"nofollow\"&gt;Sprout Social&lt;/a&gt;",
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
         "in_reply_to_screen_name": null,
         "user": {
-            "id": 586570880,
-            "id_str": "586570880"
+            "id": 76944176,
+            "id_str": "76944176"
         },
         "geo": null,
         "coordinates": null,
         "place": null,
         "contributors": null,
-        "retweeted_status": {
-            "created_at": "Mon Sep 20 16:04:01 +0000 2021",
-            "id": 1439983695406977024,
-            "id_str": "1439983695406977024",
-            "full_text": "In 2021, @HistoryAtState is commemorating several anniversaries, including the 160th anniversary of the Foreign Relations of the United States (FRUS) series. In #AHAPerspectives, Adam M. Howard and Kristin L. Ahlberg describe how FRUS has evolved.https://t.co/Lcfck8L3Nv",
-            "truncated": false,
-            "display_text_range": [
-                0,
-                270
-            ],
-            "entities": {
-                "hashtags": [
-                    {
-                        "text": "AHAPerspectives",
-                        "indices": [
-                            161,
-                            177
-                        ]
-                    }
-                ],
-                "symbols": [],
-                "user_mentions": [
-                    {
-                        "screen_name": "HistoryAtState",
-                        "name": "HistoryAtState",
-                        "id": 586570880,
-                        "id_str": "586570880",
-                        "indices": [
-                            9,
-                            24
-                        ]
-                    }
-                ],
-                "urls": [
-                    {
-                        "url": "https://t.co/Lcfck8L3Nv",
-                        "expanded_url": "https://www.historians.org/publications-and-directories/perspectives-on-history/october-2021/consistently-evolving-the-foreign-relations-series-at-160",
-                        "display_url": "historians.org/publications-a\u2026",
-                        "indices": [
-                            247,
-                            270
-                        ]
-                    }
-                ]
-            },
-            "source": "\u003ca href=\"https://sproutsocial.com\" rel=\"nofollow\"\u003eSprout Social\u003c/a\u003e",
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
-            "user": {
-                "id": 76944176,
-                "id_str": "76944176"
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "is_quote_status": false,
-            "retweet_count": 4,
-            "favorite_count": 6,
-            "favorited": true,
-            "retweeted": true,
-            "possibly_sensitive": false,
-            "lang": "en"
-        },
         "is_quote_status": false,
         "retweet_count": 4,
-        "favorite_count": 0,
+        "favorite_count": 6,
         "favorited": true,
         "retweeted": true,
+        "possibly_sensitive": false,
         "lang": "en"
-    }
-]
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "lang": "en"
+}

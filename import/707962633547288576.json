@@ -1,65 +1,63 @@
-[
-    {
-        "created_at": "Thu Mar 10 16:13:39 +0000 2016",
-        "id": 707962633547288576,
-        "id_str": "707962633547288576",
-        "full_text": "Interested in student historian internship opportunities in government? Hear our #ncph2016 presentation: https://t.co/gTZbYET7e5 #eInterns",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            138
+{
+    "created_at": "Thu Mar 10 16:13:39 +0000 2016",
+    "id": 707962633547288580,
+    "id_str": "707962633547288576",
+    "full_text": "Interested in student historian internship opportunities in government? Hear our #ncph2016 presentation: https://t.co/gTZbYET7e5 #eInterns",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        138
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "ncph2016",
+                "indices": [
+                    81,
+                    90
+                ]
+            },
+            {
+                "text": "eInterns",
+                "indices": [
+                    129,
+                    138
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "ncph2016",
-                    "indices": [
-                        81,
-                        90
-                    ]
-                },
-                {
-                    "text": "eInterns",
-                    "indices": [
-                        129,
-                        138
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "https://t.co/gTZbYET7e5",
-                    "expanded_url": "http://ncph.org/conference/2016-annual-meeting/",
-                    "display_url": "ncph.org/conference/201\u2026",
-                    "indices": [
-                        105,
-                        128
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 2,
-        "favorite_count": 1,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/gTZbYET7e5",
+                "expanded_url": "http://ncph.org/conference/2016-annual-meeting/",
+                "display_url": "ncph.org/conference/201…",
+                "indices": [
+                    105,
+                    128
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

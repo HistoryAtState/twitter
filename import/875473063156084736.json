@@ -1,129 +1,127 @@
-[
-    {
-        "created_at": "Thu Jun 15 22:00:18 +0000 2017",
-        "id": 875473063156084736,
-        "id_str": "875473063156084736",
-        "full_text": "The Office of the Historian has released Foreign Relations, Iran, 1951\u20131954, https://t.co/usy3PKk6Yw https://t.co/uMXwuDML7l",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            100
+{
+    "created_at": "Thu Jun 15 22:00:18 +0000 2017",
+    "id": 875473063156084740,
+    "id_str": "875473063156084736",
+    "full_text": "The Office of the Historian has released Foreign Relations, Iran, 1951–1954, https://t.co/usy3PKk6Yw https://t.co/uMXwuDML7l",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        100
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/usy3PKk6Yw",
+                "expanded_url": "https://history.state.gov/historicaldocuments/frus1951-54Iran",
+                "display_url": "history.state.gov/historicaldocu…",
+                "indices": [
+                    77,
+                    100
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "https://t.co/usy3PKk6Yw",
-                    "expanded_url": "https://history.state.gov/historicaldocuments/frus1951-54Iran",
-                    "display_url": "history.state.gov/historicaldocu\u2026",
-                    "indices": [
-                        77,
-                        100
-                    ]
-                }
-            ],
-            "media": [
-                {
-                    "id": 875473060744376320,
-                    "id_str": "875473060744376320",
-                    "indices": [
-                        101,
-                        124
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/DCZOHDwXsAAFxmf.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/DCZOHDwXsAAFxmf.jpg",
-                    "url": "https://t.co/uMXwuDML7l",
-                    "display_url": "pic.twitter.com/uMXwuDML7l",
-                    "expanded_url": "https://twitter.com/HistoryAtState/status/875473063156084736/photo/1",
-                    "type": "photo",
-                    "sizes": {
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
-                        },
-                        "small": {
-                            "w": 400,
-                            "h": 600,
-                            "resize": "fit"
-                        },
-                        "large": {
-                            "w": 400,
-                            "h": 600,
-                            "resize": "fit"
-                        },
-                        "medium": {
-                            "w": 400,
-                            "h": 600,
-                            "resize": "fit"
-                        }
+        "media": [
+            {
+                "id": 875473060744376320,
+                "id_str": "875473060744376320",
+                "indices": [
+                    101,
+                    124
+                ],
+                "media_url": "http://pbs.twimg.com/media/DCZOHDwXsAAFxmf.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/DCZOHDwXsAAFxmf.jpg",
+                "url": "https://t.co/uMXwuDML7l",
+                "display_url": "pic.twitter.com/uMXwuDML7l",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/875473063156084736/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 400,
+                        "h": 600,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 400,
+                        "h": 600,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 400,
+                        "h": 600,
+                        "resize": "fit"
                     }
                 }
-            ]
-        },
-        "extended_entities": {
-            "media": [
-                {
-                    "id": 875473060744376320,
-                    "id_str": "875473060744376320",
-                    "indices": [
-                        101,
-                        124
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/DCZOHDwXsAAFxmf.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/DCZOHDwXsAAFxmf.jpg",
-                    "url": "https://t.co/uMXwuDML7l",
-                    "display_url": "pic.twitter.com/uMXwuDML7l",
-                    "expanded_url": "https://twitter.com/HistoryAtState/status/875473063156084736/photo/1",
-                    "type": "photo",
-                    "sizes": {
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
-                        },
-                        "small": {
-                            "w": 400,
-                            "h": 600,
-                            "resize": "fit"
-                        },
-                        "large": {
-                            "w": 400,
-                            "h": 600,
-                            "resize": "fit"
-                        },
-                        "medium": {
-                            "w": 400,
-                            "h": 600,
-                            "resize": "fit"
-                        }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 875473060744376320,
+                "id_str": "875473060744376320",
+                "indices": [
+                    101,
+                    124
+                ],
+                "media_url": "http://pbs.twimg.com/media/DCZOHDwXsAAFxmf.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/DCZOHDwXsAAFxmf.jpg",
+                "url": "https://t.co/uMXwuDML7l",
+                "display_url": "pic.twitter.com/uMXwuDML7l",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/875473063156084736/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
                     },
-                    "ext_alt_text": null
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 117,
-        "favorite_count": 145,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+                    "small": {
+                        "w": 400,
+                        "h": 600,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 400,
+                        "h": 600,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 400,
+                        "h": 600,
+                        "resize": "fit"
+                    }
+                },
+                "ext_alt_text": null
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 117,
+    "favorite_count": 145,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

@@ -1,69 +1,67 @@
-[
-    {
-        "created_at": "Mon Oct 20 14:35:27 +0000 2014",
-        "id": 524207270981541888,
-        "id_str": "524207270981541888",
-        "full_text": "Attending the @TEIconsortium conference? Come see our presentation on \u201cThe State of TEI at Foggy Bottom\u201d #TEIConf2014 http://t.co/7amYRPh1aZ",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            140
+{
+    "created_at": "Mon Oct 20 14:35:27 +0000 2014",
+    "id": 524207270981541890,
+    "id_str": "524207270981541888",
+    "full_text": "Attending the @TEIconsortium conference? Come see our presentation on “The State of TEI at Foggy Bottom” #TEIConf2014 http://t.co/7amYRPh1aZ",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "TEIConf2014",
+                "indices": [
+                    105,
+                    117
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "TEIConf2014",
-                    "indices": [
-                        105,
-                        117
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "TEIconsortium",
-                    "name": "TEI Consortium",
-                    "id": 167142337,
-                    "id_str": "167142337",
-                    "indices": [
-                        14,
-                        28
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "http://t.co/7amYRPh1aZ",
-                    "expanded_url": "http://tei.northwestern.edu/papers/",
-                    "display_url": "tei.northwestern.edu/papers/",
-                    "indices": [
-                        118,
-                        140
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 1,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "TEIconsortium",
+                "name": "TEI Consortium",
+                "id": 167142337,
+                "id_str": "167142337",
+                "indices": [
+                    14,
+                    28
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "http://t.co/7amYRPh1aZ",
+                "expanded_url": "http://tei.northwestern.edu/papers/",
+                "display_url": "tei.northwestern.edu/papers/",
+                "indices": [
+                    118,
+                    140
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

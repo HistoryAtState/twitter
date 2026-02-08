@@ -1,65 +1,63 @@
-[
-    {
-        "created_at": "Wed Aug 21 12:11:06 +0000 2013",
-        "id": 370156101754707968,
-        "id_str": "370156101754707968",
-        "full_text": "#OTD 1991 #SecState Baker met w/NATO foreign ministers in Brussels to discuss the coup in the USSR http://t.co/4fbOm63W4p",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            121
+{
+    "created_at": "Wed Aug 21 12:11:06 +0000 2013",
+    "id": 370156101754707970,
+    "id_str": "370156101754707968",
+    "full_text": "#OTD 1991 #SecState Baker met w/NATO foreign ministers in Brussels to discuss the coup in the USSR http://t.co/4fbOm63W4p",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        121
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "OTD",
+                "indices": [
+                    0,
+                    4
+                ]
+            },
+            {
+                "text": "SecState",
+                "indices": [
+                    10,
+                    19
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "OTD",
-                    "indices": [
-                        0,
-                        4
-                    ]
-                },
-                {
-                    "text": "SecState",
-                    "indices": [
-                        10,
-                        19
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "http://t.co/4fbOm63W4p",
-                    "expanded_url": "http://go.usa.gov/jNv3",
-                    "display_url": "go.usa.gov/jNv3",
-                    "indices": [
-                        99,
-                        121
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 1,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "http://t.co/4fbOm63W4p",
+                "expanded_url": "http://go.usa.gov/jNv3",
+                "display_url": "go.usa.gov/jNv3",
+                "indices": [
+                    99,
+                    121
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

@@ -1,58 +1,56 @@
-[
-    {
-        "created_at": "Fri Sep 05 15:50:12 +0000 2014",
-        "id": 507918627707052032,
-        "id_str": "507918627707052032",
-        "full_text": "Sept 1914: \u201cExcellencies...fighting w/3rd secretaries @ refreshment rooms for a scrap of something to eat\" #WW1Tweet http://t.co/oZnvLU4I4S",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            139
+{
+    "created_at": "Fri Sep 05 15:50:12 +0000 2014",
+    "id": 507918627707052030,
+    "id_str": "507918627707052032",
+    "full_text": "Sept 1914: “Excellencies...fighting w/3rd secretaries @ refreshment rooms for a scrap of something to eat\" #WW1Tweet http://t.co/oZnvLU4I4S",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "WW1Tweet",
+                "indices": [
+                    107,
+                    116
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "WW1Tweet",
-                    "indices": [
-                        107,
-                        116
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "http://t.co/oZnvLU4I4S",
-                    "expanded_url": "http://ow.ly/B84eY",
-                    "display_url": "ow.ly/B84eY",
-                    "indices": [
-                        117,
-                        139
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 1,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "http://t.co/oZnvLU4I4S",
+                "expanded_url": "http://ow.ly/B84eY",
+                "display_url": "ow.ly/B84eY",
+                "indices": [
+                    117,
+                    139
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

@@ -1,9 +1,59 @@
-[
-    {
-        "created_at": "Fri Jul 28 11:52:43 +0000 2017",
-        "id": 890902836904693761,
-        "id_str": "890902836904693761",
-        "full_text": "RT @USEmbTallinn: \ud83c\uddfa\ud83c\uddf8/\ud83c\uddea\ud83c\uddea diplomatic relations turn 95! U.S. recognized \ud83c\uddea\ud83c\uddea,\ud83c\uddf1\ud83c\uddfb,\ud83c\uddf1\ud83c\uddf9 on July 28, 1922. More here: https://t.co/8f6VBwO1TV &amp; https\u2026",
+{
+    "created_at": "Fri Jul 28 11:52:43 +0000 2017",
+    "id": 890902836904693760,
+    "id_str": "890902836904693761",
+    "full_text": "RT @USEmbTallinn: 🇺🇸/🇪🇪 diplomatic relations turn 95! U.S. recognized 🇪🇪,🇱🇻,🇱🇹 on July 28, 1922. More here: https://t.co/8f6VBwO1TV &amp;amp; https…",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        144
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "USEmbTallinn",
+                "name": "USEmbassyTallinn",
+                "id": 18719228,
+                "id_str": "18719228",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/8f6VBwO1TV",
+                "expanded_url": "https://goo.gl/gHj7qz",
+                "display_url": "goo.gl/gHj7qz",
+                "indices": [
+                    108,
+                    131
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"&gt;Twitter for iPad&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 28 09:27:42 +0000 2017",
+        "id": 890866342999588860,
+        "id_str": "890866342999588864",
+        "full_text": "🇺🇸/🇪🇪 diplomatic relations turn 95! U.S. recognized 🇪🇪,🇱🇻,🇱🇹 on July 28, 1922. More here: https://t.co/8f6VBwO1TV &amp;amp; https://t.co/qK416J2Xq5. https://t.co/HZ9tj5paGS",
         "truncated": false,
         "display_text_range": [
             0,
@@ -12,186 +62,134 @@
         "entities": {
             "hashtags": [],
             "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "USEmbTallinn",
-                    "name": "USEmbassyTallinn",
-                    "id": 18719228,
-                    "id_str": "18719228",
-                    "indices": [
-                        3,
-                        16
-                    ]
-                }
-            ],
+            "user_mentions": [],
             "urls": [
                 {
                     "url": "https://t.co/8f6VBwO1TV",
                     "expanded_url": "https://goo.gl/gHj7qz",
                     "display_url": "goo.gl/gHj7qz",
                     "indices": [
-                        108,
-                        131
+                        90,
+                        113
                     ]
+                },
+                {
+                    "url": "https://t.co/qK416J2Xq5",
+                    "expanded_url": "https://goo.gl/ENZDjy",
+                    "display_url": "goo.gl/ENZDjy",
+                    "indices": [
+                        120,
+                        143
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 890865898432671740,
+                    "id_str": "890865898432671744",
+                    "indices": [
+                        145,
+                        168
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DFz90IqWsAA1mk9.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DFz90IqWsAA1mk9.jpg",
+                    "url": "https://t.co/HZ9tj5paGS",
+                    "display_url": "pic.twitter.com/HZ9tj5paGS",
+                    "expanded_url": "https://twitter.com/USEmbTallinn/status/890866342999588864/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 365,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1744,
+                            "h": 935,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 643,
+                            "resize": "fit"
+                        }
+                    }
                 }
             ]
         },
-        "source": "\u003ca href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c/a\u003e",
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 890865898432671740,
+                    "id_str": "890865898432671744",
+                    "indices": [
+                        145,
+                        168
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DFz90IqWsAA1mk9.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DFz90IqWsAA1mk9.jpg",
+                    "url": "https://t.co/HZ9tj5paGS",
+                    "display_url": "pic.twitter.com/HZ9tj5paGS",
+                    "expanded_url": "https://twitter.com/USEmbTallinn/status/890866342999588864/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 365,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1744,
+                            "h": 935,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 643,
+                            "resize": "fit"
+                        }
+                    },
+                    "ext_alt_text": null
+                }
+            ]
+        },
+        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
         "in_reply_to_screen_name": null,
         "user": {
-            "id": 586570880,
-            "id_str": "586570880"
+            "id": 18719228,
+            "id_str": "18719228"
         },
         "geo": null,
         "coordinates": null,
         "place": null,
         "contributors": null,
-        "retweeted_status": {
-            "created_at": "Fri Jul 28 09:27:42 +0000 2017",
-            "id": 890866342999588864,
-            "id_str": "890866342999588864",
-            "full_text": "\ud83c\uddfa\ud83c\uddf8/\ud83c\uddea\ud83c\uddea diplomatic relations turn 95! U.S. recognized \ud83c\uddea\ud83c\uddea,\ud83c\uddf1\ud83c\uddfb,\ud83c\uddf1\ud83c\uddf9 on July 28, 1922. More here: https://t.co/8f6VBwO1TV &amp; https://t.co/qK416J2Xq5. https://t.co/HZ9tj5paGS",
-            "truncated": false,
-            "display_text_range": [
-                0,
-                144
-            ],
-            "entities": {
-                "hashtags": [],
-                "symbols": [],
-                "user_mentions": [],
-                "urls": [
-                    {
-                        "url": "https://t.co/8f6VBwO1TV",
-                        "expanded_url": "https://goo.gl/gHj7qz",
-                        "display_url": "goo.gl/gHj7qz",
-                        "indices": [
-                            90,
-                            113
-                        ]
-                    },
-                    {
-                        "url": "https://t.co/qK416J2Xq5",
-                        "expanded_url": "https://goo.gl/ENZDjy",
-                        "display_url": "goo.gl/ENZDjy",
-                        "indices": [
-                            120,
-                            143
-                        ]
-                    }
-                ],
-                "media": [
-                    {
-                        "id": 890865898432671744,
-                        "id_str": "890865898432671744",
-                        "indices": [
-                            145,
-                            168
-                        ],
-                        "media_url": "http://pbs.twimg.com/media/DFz90IqWsAA1mk9.jpg",
-                        "media_url_https": "https://pbs.twimg.com/media/DFz90IqWsAA1mk9.jpg",
-                        "url": "https://t.co/HZ9tj5paGS",
-                        "display_url": "pic.twitter.com/HZ9tj5paGS",
-                        "expanded_url": "https://twitter.com/USEmbTallinn/status/890866342999588864/photo/1",
-                        "type": "photo",
-                        "sizes": {
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
-                            "small": {
-                                "w": 680,
-                                "h": 365,
-                                "resize": "fit"
-                            },
-                            "large": {
-                                "w": 1744,
-                                "h": 935,
-                                "resize": "fit"
-                            },
-                            "medium": {
-                                "w": 1200,
-                                "h": 643,
-                                "resize": "fit"
-                            }
-                        }
-                    }
-                ]
-            },
-            "extended_entities": {
-                "media": [
-                    {
-                        "id": 890865898432671744,
-                        "id_str": "890865898432671744",
-                        "indices": [
-                            145,
-                            168
-                        ],
-                        "media_url": "http://pbs.twimg.com/media/DFz90IqWsAA1mk9.jpg",
-                        "media_url_https": "https://pbs.twimg.com/media/DFz90IqWsAA1mk9.jpg",
-                        "url": "https://t.co/HZ9tj5paGS",
-                        "display_url": "pic.twitter.com/HZ9tj5paGS",
-                        "expanded_url": "https://twitter.com/USEmbTallinn/status/890866342999588864/photo/1",
-                        "type": "photo",
-                        "sizes": {
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
-                            "small": {
-                                "w": 680,
-                                "h": 365,
-                                "resize": "fit"
-                            },
-                            "large": {
-                                "w": 1744,
-                                "h": 935,
-                                "resize": "fit"
-                            },
-                            "medium": {
-                                "w": 1200,
-                                "h": 643,
-                                "resize": "fit"
-                            }
-                        },
-                        "ext_alt_text": null
-                    }
-                ]
-            },
-            "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
-            "user": {
-                "id": 18719228,
-                "id_str": "18719228"
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "is_quote_status": false,
-            "retweet_count": 13,
-            "favorite_count": 20,
-            "favorited": false,
-            "retweeted": true,
-            "possibly_sensitive": false,
-            "lang": "en"
-        },
         "is_quote_status": false,
         "retweet_count": 13,
-        "favorite_count": 0,
+        "favorite_count": 20,
         "favorited": false,
         "retweeted": true,
         "possibly_sensitive": false,
         "lang": "en"
-    }
-]
+    },
+    "is_quote_status": false,
+    "retweet_count": 13,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

@@ -1,135 +1,133 @@
-[
-    {
-        "created_at": "Thu Mar 01 21:31:38 +0000 2018",
-        "id": 969324308114870278,
-        "id_str": "969324308114870278",
-        "full_text": "RT @StateDept: Today, @HistoryAtState announces the release of newly digitized versions of 17 volumes from the #FRUS series, the official d\u2026",
+{
+    "created_at": "Thu Mar 01 21:31:38 +0000 2018",
+    "id": 969324308114870270,
+    "id_str": "969324308114870278",
+    "full_text": "RT @StateDept: Today, @HistoryAtState announces the release of newly digitized versions of 17 volumes from the #FRUS series, the official d…",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FRUS",
+                "indices": [
+                    111,
+                    116
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "StateDept",
+                "name": "Department of State",
+                "id": 9624742,
+                "id_str": "9624742",
+                "indices": [
+                    3,
+                    13
+                ]
+            },
+            {
+                "screen_name": "HistoryAtState",
+                "name": "HistoryAtState",
+                "id": 586570880,
+                "id_str": "586570880",
+                "indices": [
+                    22,
+                    37
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "source": "&lt;a href=\"http://www.twitter.com\" rel=\"nofollow\"&gt;Twitter for BlackBerry&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Mar 01 21:17:11 +0000 2018",
+        "id": 969320669371686910,
+        "id_str": "969320669371686913",
+        "full_text": "Today, @HistoryAtState announces the release of newly digitized versions of 17 volumes from the #FRUS series, the official documentary record of U.S. foreign relations. These volumes cover events that took place between 1886 and 1899. https://t.co/6ZHEGxceiy",
         "truncated": false,
         "display_text_range": [
             0,
-            140
+            258
         ],
         "entities": {
             "hashtags": [
                 {
                     "text": "FRUS",
                     "indices": [
-                        111,
-                        116
+                        96,
+                        101
                     ]
                 }
             ],
             "symbols": [],
             "user_mentions": [
                 {
-                    "screen_name": "StateDept",
-                    "name": "Department of State",
-                    "id": 9624742,
-                    "id_str": "9624742",
-                    "indices": [
-                        3,
-                        13
-                    ]
-                },
-                {
                     "screen_name": "HistoryAtState",
                     "name": "HistoryAtState",
                     "id": 586570880,
                     "id_str": "586570880",
                     "indices": [
-                        22,
-                        37
+                        7,
+                        22
                     ]
                 }
             ],
-            "urls": []
+            "urls": [
+                {
+                    "url": "https://t.co/6ZHEGxceiy",
+                    "expanded_url": "https://go.usa.gov/xnzaZ",
+                    "display_url": "go.usa.gov/xnzaZ",
+                    "indices": [
+                        235,
+                        258
+                    ]
+                }
+            ]
         },
-        "source": "\u003ca href=\"http://www.twitter.com\" rel=\"nofollow\"\u003eTwitter for BlackBerry\u003c/a\u003e",
+        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
         "in_reply_to_screen_name": null,
         "user": {
-            "id": 586570880,
-            "id_str": "586570880"
+            "id": 9624742,
+            "id_str": "9624742"
         },
         "geo": null,
         "coordinates": null,
         "place": null,
         "contributors": null,
-        "retweeted_status": {
-            "created_at": "Thu Mar 01 21:17:11 +0000 2018",
-            "id": 969320669371686913,
-            "id_str": "969320669371686913",
-            "full_text": "Today, @HistoryAtState announces the release of newly digitized versions of 17 volumes from the #FRUS series, the official documentary record of U.S. foreign relations. These volumes cover events that took place between 1886 and 1899. https://t.co/6ZHEGxceiy",
-            "truncated": false,
-            "display_text_range": [
-                0,
-                258
-            ],
-            "entities": {
-                "hashtags": [
-                    {
-                        "text": "FRUS",
-                        "indices": [
-                            96,
-                            101
-                        ]
-                    }
-                ],
-                "symbols": [],
-                "user_mentions": [
-                    {
-                        "screen_name": "HistoryAtState",
-                        "name": "HistoryAtState",
-                        "id": 586570880,
-                        "id_str": "586570880",
-                        "indices": [
-                            7,
-                            22
-                        ]
-                    }
-                ],
-                "urls": [
-                    {
-                        "url": "https://t.co/6ZHEGxceiy",
-                        "expanded_url": "https://go.usa.gov/xnzaZ",
-                        "display_url": "go.usa.gov/xnzaZ",
-                        "indices": [
-                            235,
-                            258
-                        ]
-                    }
-                ]
-            },
-            "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
-            "user": {
-                "id": 9624742,
-                "id_str": "9624742"
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "is_quote_status": false,
-            "retweet_count": 32,
-            "favorite_count": 54,
-            "favorited": false,
-            "retweeted": true,
-            "possibly_sensitive": false,
-            "lang": "en"
-        },
         "is_quote_status": false,
         "retweet_count": 32,
-        "favorite_count": 0,
+        "favorite_count": 54,
         "favorited": false,
         "retweeted": true,
+        "possibly_sensitive": false,
         "lang": "en"
-    }
-]
+    },
+    "is_quote_status": false,
+    "retweet_count": 32,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "en"
+}

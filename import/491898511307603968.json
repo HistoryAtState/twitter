@@ -1,69 +1,67 @@
-[
-    {
-        "created_at": "Wed Jul 23 10:51:58 +0000 2014",
-        "id": 491898511307603968,
-        "id_str": "491898511307603968",
-        "full_text": "Where to live in Berlin 1913-14? For Amb. Gerard, it was on the Wilhelmplatz @usbotschaft #WW1Tweet http://t.co/oxUq0f9ebZ",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            122
+{
+    "created_at": "Wed Jul 23 10:51:58 +0000 2014",
+    "id": 491898511307603970,
+    "id_str": "491898511307603968",
+    "full_text": "Where to live in Berlin 1913-14? For Amb. Gerard, it was on the Wilhelmplatz @usbotschaft #WW1Tweet http://t.co/oxUq0f9ebZ",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        122
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "WW1Tweet",
+                "indices": [
+                    90,
+                    99
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "WW1Tweet",
-                    "indices": [
-                        90,
-                        99
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "usbotschaft",
-                    "name": "US-Botschaft Berlin",
-                    "id": 50965086,
-                    "id_str": "50965086",
-                    "indices": [
-                        77,
-                        89
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "http://t.co/oxUq0f9ebZ",
-                    "expanded_url": "http://ow.ly/zu7ct",
-                    "display_url": "ow.ly/zu7ct",
-                    "indices": [
-                        100,
-                        122
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 0,
-        "favorite_count": 2,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "usbotschaft",
+                "name": "US-Botschaft Berlin",
+                "id": 50965086,
+                "id_str": "50965086",
+                "indices": [
+                    77,
+                    89
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "http://t.co/oxUq0f9ebZ",
+                "expanded_url": "http://ow.ly/zu7ct",
+                "display_url": "ow.ly/zu7ct",
+                "indices": [
+                    100,
+                    122
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

@@ -1,44 +1,109 @@
-[
-    {
-        "created_at": "Mon Jun 26 18:07:13 +0000 2017",
-        "id": 879400674529865728,
-        "id_str": "879400674529865728",
-        "full_text": "RT @VSFSatState: #GetReadyNow by opening an account on @USAJOBS -&gt; https://t.co/ruPJxaiizJ - and you'll be good to go on July 2! #VSFSatSta\u2026",
+{
+    "created_at": "Mon Jun 26 18:07:13 +0000 2017",
+    "id": 879400674529865730,
+    "id_str": "879400674529865728",
+    "full_text": "RT @VSFSatState: #GetReadyNow by opening an account on @USAJOBS -&amp;gt; https://t.co/ruPJxaiizJ - and you'll be good to go on July 2! #VSFSatSta…",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        143
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "GetReadyNow",
+                "indices": [
+                    17,
+                    29
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "VSFSatState",
+                "name": "Virtual Student Federal Service",
+                "id": 169927909,
+                "id_str": "169927909",
+                "indices": [
+                    3,
+                    15
+                ]
+            },
+            {
+                "screen_name": "USAJOBS",
+                "name": "USAJOBS",
+                "id": 96828828,
+                "id_str": "96828828",
+                "indices": [
+                    55,
+                    63
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/ruPJxaiizJ",
+                "expanded_url": "https://login.usajobs.gov/account/Create",
+                "display_url": "login.usajobs.gov/account/Create",
+                "indices": [
+                    70,
+                    93
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"&gt;Twitter for iPad&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Mon Jun 26 14:10:51 +0000 2017",
+        "id": 879341191027974140,
+        "id_str": "879341191027974146",
+        "full_text": "#GetReadyNow by opening an account on @USAJOBS -&amp;gt; https://t.co/ruPJxaiizJ - and you'll be good to go on July 2! #VSFSatState https://t.co/XZnrwTaho4",
         "truncated": false,
         "display_text_range": [
             0,
-            143
+            127
         ],
         "entities": {
             "hashtags": [
                 {
                     "text": "GetReadyNow",
                     "indices": [
-                        17,
-                        29
+                        0,
+                        12
+                    ]
+                },
+                {
+                    "text": "VSFSatState",
+                    "indices": [
+                        115,
+                        127
                     ]
                 }
             ],
             "symbols": [],
             "user_mentions": [
                 {
-                    "screen_name": "VSFSatState",
-                    "name": "Virtual Student Federal Service",
-                    "id": 169927909,
-                    "id_str": "169927909",
-                    "indices": [
-                        3,
-                        15
-                    ]
-                },
-                {
                     "screen_name": "USAJOBS",
                     "name": "USAJOBS",
                     "id": 96828828,
                     "id_str": "96828828",
                     "indices": [
-                        55,
-                        63
+                        38,
+                        46
                     ]
                 }
             ],
@@ -48,50 +113,60 @@
                     "expanded_url": "https://login.usajobs.gov/account/Create",
                     "display_url": "login.usajobs.gov/account/Create",
                     "indices": [
-                        70,
-                        93
+                        53,
+                        76
+                    ]
+                },
+                {
+                    "url": "https://t.co/XZnrwTaho4",
+                    "expanded_url": "https://twitter.com/HistoryAtState/status/879323489966202880",
+                    "display_url": "twitter.com/HistoryAtState…",
+                    "indices": [
+                        128,
+                        151
                     ]
                 }
             ]
         },
-        "source": "\u003ca href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c/a\u003e",
+        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
         "in_reply_to_screen_name": null,
         "user": {
-            "id": 586570880,
-            "id_str": "586570880"
+            "id": 169927909,
+            "id_str": "169927909"
         },
         "geo": null,
         "coordinates": null,
         "place": null,
         "contributors": null,
-        "retweeted_status": {
-            "created_at": "Mon Jun 26 14:10:51 +0000 2017",
-            "id": 879341191027974146,
-            "id_str": "879341191027974146",
-            "full_text": "#GetReadyNow by opening an account on @USAJOBS -&gt; https://t.co/ruPJxaiizJ - and you'll be good to go on July 2! #VSFSatState https://t.co/XZnrwTaho4",
+        "is_quote_status": true,
+        "quoted_status_id": 879323489966202880,
+        "quoted_status_id_str": "879323489966202880",
+        "quoted_status_permalink": {
+            "url": "https://t.co/XZnrwTaho4",
+            "expanded": "https://twitter.com/HistoryAtState/status/879323489966202880",
+            "display": "twitter.com/HistoryAtState…"
+        },
+        "quoted_status": {
+            "created_at": "Mon Jun 26 13:00:31 +0000 2017",
+            "id": 879323489966202880,
+            "id_str": "879323489966202880",
+            "full_text": "Applications open July 2 at @USAJOBS! The Office of the Historian is seeking VSFS #eInterns for the 2017–18 academic year. @VSFSAtState",
             "truncated": false,
             "display_text_range": [
                 0,
-                127
+                135
             ],
             "entities": {
                 "hashtags": [
                     {
-                        "text": "GetReadyNow",
+                        "text": "eInterns",
                         "indices": [
-                            0,
-                            12
-                        ]
-                    },
-                    {
-                        "text": "VSFSatState",
-                        "indices": [
-                            115,
-                            127
+                            82,
+                            91
                         ]
                     }
                 ],
@@ -103,140 +178,63 @@
                         "id": 96828828,
                         "id_str": "96828828",
                         "indices": [
-                            38,
-                            46
-                        ]
-                    }
-                ],
-                "urls": [
-                    {
-                        "url": "https://t.co/ruPJxaiizJ",
-                        "expanded_url": "https://login.usajobs.gov/account/Create",
-                        "display_url": "login.usajobs.gov/account/Create",
-                        "indices": [
-                            53,
-                            76
+                            28,
+                            36
                         ]
                     },
                     {
-                        "url": "https://t.co/XZnrwTaho4",
-                        "expanded_url": "https://twitter.com/HistoryAtState/status/879323489966202880",
-                        "display_url": "twitter.com/HistoryAtState\u2026",
+                        "screen_name": "VSFSatState",
+                        "name": "Virtual Student Federal Service",
+                        "id": 169927909,
+                        "id_str": "169927909",
                         "indices": [
-                            128,
-                            151
+                            123,
+                            135
                         ]
                     }
-                ]
+                ],
+                "urls": []
             },
-            "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
+            "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
             "in_reply_to_status_id": null,
             "in_reply_to_status_id_str": null,
             "in_reply_to_user_id": null,
             "in_reply_to_user_id_str": null,
             "in_reply_to_screen_name": null,
             "user": {
-                "id": 169927909,
-                "id_str": "169927909"
+                "id": 586570880,
+                "id_str": "586570880"
             },
             "geo": null,
             "coordinates": null,
             "place": null,
             "contributors": null,
-            "is_quote_status": true,
-            "quoted_status_id": 879323489966202880,
-            "quoted_status_id_str": "879323489966202880",
-            "quoted_status_permalink": {
-                "url": "https://t.co/XZnrwTaho4",
-                "expanded": "https://twitter.com/HistoryAtState/status/879323489966202880",
-                "display": "twitter.com/HistoryAtState\u2026"
-            },
-            "quoted_status": {
-                "created_at": "Mon Jun 26 13:00:31 +0000 2017",
-                "id": 879323489966202880,
-                "id_str": "879323489966202880",
-                "full_text": "Applications open July 2 at @USAJOBS! The Office of the Historian is seeking VSFS #eInterns for the 2017\u201318 academic year. @VSFSAtState",
-                "truncated": false,
-                "display_text_range": [
-                    0,
-                    135
-                ],
-                "entities": {
-                    "hashtags": [
-                        {
-                            "text": "eInterns",
-                            "indices": [
-                                82,
-                                91
-                            ]
-                        }
-                    ],
-                    "symbols": [],
-                    "user_mentions": [
-                        {
-                            "screen_name": "USAJOBS",
-                            "name": "USAJOBS",
-                            "id": 96828828,
-                            "id_str": "96828828",
-                            "indices": [
-                                28,
-                                36
-                            ]
-                        },
-                        {
-                            "screen_name": "VSFSatState",
-                            "name": "Virtual Student Federal Service",
-                            "id": 169927909,
-                            "id_str": "169927909",
-                            "indices": [
-                                123,
-                                135
-                            ]
-                        }
-                    ],
-                    "urls": []
-                },
-                "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-                "in_reply_to_status_id": null,
-                "in_reply_to_status_id_str": null,
-                "in_reply_to_user_id": null,
-                "in_reply_to_user_id_str": null,
-                "in_reply_to_screen_name": null,
-                "user": {
-                    "id": 586570880,
-                    "id_str": "586570880"
-                },
-                "geo": null,
-                "coordinates": null,
-                "place": null,
-                "contributors": null,
-                "is_quote_status": false,
-                "retweet_count": 10,
-                "favorite_count": 8,
-                "favorited": false,
-                "retweeted": false,
-                "lang": "en"
-            },
-            "retweet_count": 1,
-            "favorite_count": 1,
+            "is_quote_status": false,
+            "retweet_count": 10,
+            "favorite_count": 8,
             "favorited": false,
-            "retweeted": true,
-            "possibly_sensitive": false,
+            "retweeted": false,
             "lang": "en"
         },
-        "is_quote_status": true,
-        "quoted_status_id": 879323489966202880,
-        "quoted_status_id_str": "879323489966202880",
-        "quoted_status_permalink": {
-            "url": "https://t.co/XZnrwTaho4",
-            "expanded": "https://twitter.com/HistoryAtState/status/879323489966202880",
-            "display": "twitter.com/HistoryAtState\u2026"
-        },
         "retweet_count": 1,
-        "favorite_count": 0,
+        "favorite_count": 1,
         "favorited": false,
         "retweeted": true,
         "possibly_sensitive": false,
         "lang": "en"
-    }
-]
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 879323489966202880,
+    "quoted_status_id_str": "879323489966202880",
+    "quoted_status_permalink": {
+        "url": "https://t.co/XZnrwTaho4",
+        "expanded": "https://twitter.com/HistoryAtState/status/879323489966202880",
+        "display": "twitter.com/HistoryAtState…"
+    },
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

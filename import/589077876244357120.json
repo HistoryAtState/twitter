@@ -1,95 +1,93 @@
-[
-    {
-        "created_at": "Fri Apr 17 14:48:04 +0000 2015",
-        "id": 589077876244357120,
-        "id_str": "589077876244357120",
-        "full_text": "RT @icedd_org: Advisory Committees can play important roles for diplomatic history offices: verify objectivity, communicate w public &amp; agen\u2026",
+{
+    "created_at": "Fri Apr 17 14:48:04 +0000 2015",
+    "id": 589077876244357120,
+    "id_str": "589077876244357120",
+    "full_text": "RT @icedd_org: Advisory Committees can play important roles for diplomatic history offices: verify objectivity, communicate w public &amp;amp; agen…",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        144
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "icedd_org",
+                "name": "ICEDD",
+                "id": 3131310616,
+                "id_str": "3131310616",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "source": "&lt;a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"&gt;Twitter for iPad&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Apr 17 14:11:50 +0000 2015",
+        "id": 589068754664947710,
+        "id_str": "589068754664947713",
+        "full_text": "Advisory Committees can play important roles for diplomatic history offices: verify objectivity, communicate w public &amp;amp; agencies #icedd2015",
         "truncated": false,
         "display_text_range": [
             0,
-            144
+            143
         ],
         "entities": {
-            "hashtags": [],
-            "symbols": [],
-            "user_mentions": [
+            "hashtags": [
                 {
-                    "screen_name": "icedd_org",
-                    "name": "ICEDD",
-                    "id": 3131310616,
-                    "id_str": "3131310616",
+                    "text": "icedd2015",
                     "indices": [
-                        3,
-                        13
+                        133,
+                        143
                     ]
                 }
             ],
+            "symbols": [],
+            "user_mentions": [],
             "urls": []
         },
-        "source": "\u003ca href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c/a\u003e",
+        "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
         "in_reply_to_screen_name": null,
         "user": {
-            "id": 586570880,
-            "id_str": "586570880"
+            "id": 3131310616,
+            "id_str": "3131310616"
         },
         "geo": null,
         "coordinates": null,
         "place": null,
         "contributors": null,
-        "retweeted_status": {
-            "created_at": "Fri Apr 17 14:11:50 +0000 2015",
-            "id": 589068754664947713,
-            "id_str": "589068754664947713",
-            "full_text": "Advisory Committees can play important roles for diplomatic history offices: verify objectivity, communicate w public &amp; agencies #icedd2015",
-            "truncated": false,
-            "display_text_range": [
-                0,
-                143
-            ],
-            "entities": {
-                "hashtags": [
-                    {
-                        "text": "icedd2015",
-                        "indices": [
-                            133,
-                            143
-                        ]
-                    }
-                ],
-                "symbols": [],
-                "user_mentions": [],
-                "urls": []
-            },
-            "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
-            "user": {
-                "id": 3131310616,
-                "id_str": "3131310616"
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "is_quote_status": false,
-            "retweet_count": 1,
-            "favorite_count": 1,
-            "favorited": false,
-            "retweeted": true,
-            "lang": "en"
-        },
         "is_quote_status": false,
         "retweet_count": 1,
-        "favorite_count": 0,
+        "favorite_count": 1,
         "favorited": false,
         "retweeted": true,
         "lang": "en"
-    }
-]
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "en"
+}

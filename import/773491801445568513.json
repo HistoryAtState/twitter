@@ -1,69 +1,67 @@
-[
-    {
-        "created_at": "Wed Sep 07 12:03:10 +0000 2016",
-        "id": 773491801445568513,
-        "id_str": "773491801445568513",
-        "full_text": "Here is the @HistoryAtState guide to U.S. relations with #Laos: https://t.co/TgrJr66JYK",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            87
+{
+    "created_at": "Wed Sep 07 12:03:10 +0000 2016",
+    "id": 773491801445568510,
+    "id_str": "773491801445568513",
+    "full_text": "Here is the @HistoryAtState guide to U.S. relations with #Laos: https://t.co/TgrJr66JYK",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        87
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Laos",
+                "indices": [
+                    57,
+                    62
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "Laos",
-                    "indices": [
-                        57,
-                        62
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "HistoryAtState",
-                    "name": "HistoryAtState",
-                    "id": 586570880,
-                    "id_str": "586570880",
-                    "indices": [
-                        12,
-                        27
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "https://t.co/TgrJr66JYK",
-                    "expanded_url": "https://history.state.gov/countries/laos",
-                    "display_url": "history.state.gov/countries/laos",
-                    "indices": [
-                        64,
-                        87
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 2,
-        "favorite_count": 1,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "HistoryAtState",
+                "name": "HistoryAtState",
+                "id": 586570880,
+                "id_str": "586570880",
+                "indices": [
+                    12,
+                    27
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/TgrJr66JYK",
+                "expanded_url": "https://history.state.gov/countries/laos",
+                "display_url": "history.state.gov/countries/laos",
+                "indices": [
+                    64,
+                    87
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

@@ -1,79 +1,77 @@
-[
-    {
-        "created_at": "Fri Oct 06 13:50:05 +0000 2017",
-        "id": 916299525622509568,
-        "id_str": "916299525622509568",
-        "full_text": "Baseball is mentioned 64 times in #FRUS. https://t.co/8QkSACxMit\n#twitterstorians #FindFRUS! #playoffs2017",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            106
+{
+    "created_at": "Fri Oct 06 13:50:05 +0000 2017",
+    "id": 916299525622509570,
+    "id_str": "916299525622509568",
+    "full_text": "Baseball is mentioned 64 times in #FRUS. https://t.co/8QkSACxMit\n#twitterstorians #FindFRUS! #playoffs2017",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        106
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FRUS",
+                "indices": [
+                    34,
+                    39
+                ]
+            },
+            {
+                "text": "twitterstorians",
+                "indices": [
+                    65,
+                    81
+                ]
+            },
+            {
+                "text": "FindFRUS",
+                "indices": [
+                    82,
+                    91
+                ]
+            },
+            {
+                "text": "playoffs2017",
+                "indices": [
+                    93,
+                    106
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        34,
-                        39
-                    ]
-                },
-                {
-                    "text": "twitterstorians",
-                    "indices": [
-                        65,
-                        81
-                    ]
-                },
-                {
-                    "text": "FindFRUS",
-                    "indices": [
-                        82,
-                        91
-                    ]
-                },
-                {
-                    "text": "playoffs2017",
-                    "indices": [
-                        93,
-                        106
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "https://t.co/8QkSACxMit",
-                    "expanded_url": "https://go.usa.gov/xRPfP",
-                    "display_url": "go.usa.gov/xRPfP",
-                    "indices": [
-                        41,
-                        64
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 4,
-        "favorite_count": 1,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/8QkSACxMit",
+                "expanded_url": "https://go.usa.gov/xRPfP",
+                "display_url": "go.usa.gov/xRPfP",
+                "indices": [
+                    41,
+                    64
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

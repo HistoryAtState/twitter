@@ -1,109 +1,107 @@
-[
-    {
-        "created_at": "Mon Jan 24 18:10:39 +0000 2022",
-        "id": 1485676434484080640,
-        "id_str": "1485676434484080640",
-        "full_text": "RT @LBJLibrary: (2/2) Full notes from the meeting: https://t.co/44f1ioNMr8",
+{
+    "created_at": "Mon Jan 24 18:10:39 +0000 2022",
+    "id": 1485676434484080640,
+    "id_str": "1485676434484080640",
+    "full_text": "RT @LBJLibrary: (2/2) Full notes from the meeting: https://t.co/44f1ioNMr8",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        74
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "LBJLibrary",
+                "name": "LBJ Library",
+                "id": 113729414,
+                "id_str": "113729414",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/44f1ioNMr8",
+                "expanded_url": "https://history.state.gov/historicaldocuments/frus1964-68v06/d26",
+                "display_url": "history.state.gov/historicaldocu…",
+                "indices": [
+                    51,
+                    74
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Mon Jan 24 15:08:11 +0000 2022",
+        "id": 1485630516707659780,
+        "id_str": "1485630516707659779",
+        "full_text": "(2/2) Full notes from the meeting: https://t.co/44f1ioNMr8",
         "truncated": false,
         "display_text_range": [
             0,
-            74
+            58
         ],
         "entities": {
             "hashtags": [],
             "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "LBJLibrary",
-                    "name": "LBJ Library",
-                    "id": 113729414,
-                    "id_str": "113729414",
-                    "indices": [
-                        3,
-                        14
-                    ]
-                }
-            ],
+            "user_mentions": [],
             "urls": [
                 {
                     "url": "https://t.co/44f1ioNMr8",
                     "expanded_url": "https://history.state.gov/historicaldocuments/frus1964-68v06/d26",
-                    "display_url": "history.state.gov/historicaldocu\u2026",
+                    "display_url": "history.state.gov/historicaldocu…",
                     "indices": [
-                        51,
-                        74
+                        35,
+                        58
                     ]
                 }
             ]
         },
-        "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
+        "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+        "in_reply_to_status_id": 1485630515210248190,
+        "in_reply_to_status_id_str": "1485630515210248192",
+        "in_reply_to_user_id": 113729414,
+        "in_reply_to_user_id_str": "113729414",
+        "in_reply_to_screen_name": "LBJLibrary",
         "user": {
-            "id": 586570880,
-            "id_str": "586570880"
+            "id": 113729414,
+            "id_str": "113729414"
         },
         "geo": null,
         "coordinates": null,
         "place": null,
         "contributors": null,
-        "retweeted_status": {
-            "created_at": "Mon Jan 24 15:08:11 +0000 2022",
-            "id": 1485630516707659779,
-            "id_str": "1485630516707659779",
-            "full_text": "(2/2) Full notes from the meeting: https://t.co/44f1ioNMr8",
-            "truncated": false,
-            "display_text_range": [
-                0,
-                58
-            ],
-            "entities": {
-                "hashtags": [],
-                "symbols": [],
-                "user_mentions": [],
-                "urls": [
-                    {
-                        "url": "https://t.co/44f1ioNMr8",
-                        "expanded_url": "https://history.state.gov/historicaldocuments/frus1964-68v06/d26",
-                        "display_url": "history.state.gov/historicaldocu\u2026",
-                        "indices": [
-                            35,
-                            58
-                        ]
-                    }
-                ]
-            },
-            "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
-            "in_reply_to_status_id": 1485630515210248192,
-            "in_reply_to_status_id_str": "1485630515210248192",
-            "in_reply_to_user_id": 113729414,
-            "in_reply_to_user_id_str": "113729414",
-            "in_reply_to_screen_name": "LBJLibrary",
-            "user": {
-                "id": 113729414,
-                "id_str": "113729414"
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "is_quote_status": false,
-            "retweet_count": 3,
-            "favorite_count": 8,
-            "favorited": false,
-            "retweeted": true,
-            "possibly_sensitive": false,
-            "lang": "en"
-        },
         "is_quote_status": false,
         "retweet_count": 3,
-        "favorite_count": 0,
+        "favorite_count": 8,
         "favorited": false,
         "retweeted": true,
         "possibly_sensitive": false,
         "lang": "en"
-    }
-]
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

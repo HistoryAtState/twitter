@@ -1,76 +1,74 @@
-[
-    {
-        "created_at": "Wed Sep 12 17:54:32 +0000 2012",
-        "id": 245943493644668928,
-        "id_str": "245943493644668928",
-        "full_text": "RT @statedept: (Video) #SecClinton delivers remarks on the deaths of U.S. personnel in #Benghazi, Libya: http://t.co/HOQX7mfI",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            125
+{
+    "created_at": "Wed Sep 12 17:54:32 +0000 2012",
+    "id": 245943493644668928,
+    "id_str": "245943493644668928",
+    "full_text": "RT @statedept: (Video) #SecClinton delivers remarks on the deaths of U.S. personnel in #Benghazi, Libya: http://t.co/HOQX7mfI",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        125
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "SecClinton",
+                "indices": [
+                    23,
+                    34
+                ]
+            },
+            {
+                "text": "Benghazi",
+                "indices": [
+                    87,
+                    96
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "SecClinton",
-                    "indices": [
-                        23,
-                        34
-                    ]
-                },
-                {
-                    "text": "Benghazi",
-                    "indices": [
-                        87,
-                        96
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "StateDept",
-                    "name": "Department of State",
-                    "id": 9624742,
-                    "id_str": "9624742",
-                    "indices": [
-                        3,
-                        13
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "http://t.co/HOQX7mfI",
-                    "expanded_url": "http://youtu.be/Di9E4da5G4k",
-                    "display_url": "youtu.be/Di9E4da5G4k",
-                    "indices": [
-                        105,
-                        125
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 2,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "StateDept",
+                "name": "Department of State",
+                "id": 9624742,
+                "id_str": "9624742",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "http://t.co/HOQX7mfI",
+                "expanded_url": "http://youtu.be/Di9E4da5G4k",
+                "display_url": "youtu.be/Di9E4da5G4k",
+                "indices": [
+                    105,
+                    125
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

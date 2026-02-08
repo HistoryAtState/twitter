@@ -1,65 +1,63 @@
-[
-    {
-        "created_at": "Mon Feb 23 15:56:59 +0000 2015",
-        "id": 569888661371629568,
-        "id_str": "569888661371629568",
-        "full_text": "The HAC is meeting in open session on March 2, 11 am, at the Dept of State. Info on attending: http://t.co/0ILczPHpuR #FRUS #twitterstorians",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            140
+{
+    "created_at": "Mon Feb 23 15:56:59 +0000 2015",
+    "id": 569888661371629570,
+    "id_str": "569888661371629568",
+    "full_text": "The HAC is meeting in open session on March 2, 11 am, at the Dept of State. Info on attending: http://t.co/0ILczPHpuR #FRUS #twitterstorians",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FRUS",
+                "indices": [
+                    118,
+                    123
+                ]
+            },
+            {
+                "text": "twitterstorians",
+                "indices": [
+                    124,
+                    140
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        118,
-                        123
-                    ]
-                },
-                {
-                    "text": "twitterstorians",
-                    "indices": [
-                        124,
-                        140
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "http://t.co/0ILczPHpuR",
-                    "expanded_url": "http://history.state.gov/about/hac",
-                    "display_url": "history.state.gov/about/hac",
-                    "indices": [
-                        95,
-                        117
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 3,
-        "favorite_count": 1,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "http://t.co/0ILczPHpuR",
+                "expanded_url": "http://history.state.gov/about/hac",
+                "display_url": "history.state.gov/about/hac",
+                "indices": [
+                    95,
+                    117
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

@@ -1,50 +1,48 @@
-[
-    {
-        "created_at": "Tue Jul 08 15:24:21 +0000 2014",
-        "id": 486531240791511041,
-        "id_str": "486531240791511041",
-        "full_text": "Geography student needed to trace the history of country name changes from 1776 to present: http://t.co/CPoyBuy72M STATE-US-PA-5",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            128
-        ],
-        "entities": {
-            "hashtags": [],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "http://t.co/CPoyBuy72M",
-                    "expanded_url": "http://go.usa.gov/Xcxk",
-                    "display_url": "go.usa.gov/Xcxk",
-                    "indices": [
-                        92,
-                        114
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 3,
-        "favorite_count": 2,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+{
+    "created_at": "Tue Jul 08 15:24:21 +0000 2014",
+    "id": 486531240791511040,
+    "id_str": "486531240791511041",
+    "full_text": "Geography student needed to trace the history of country name changes from 1776 to present: http://t.co/CPoyBuy72M STATE-US-PA-5",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        128
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "http://t.co/CPoyBuy72M",
+                "expanded_url": "http://go.usa.gov/Xcxk",
+                "display_url": "go.usa.gov/Xcxk",
+                "indices": [
+                    92,
+                    114
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

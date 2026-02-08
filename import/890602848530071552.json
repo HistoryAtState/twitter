@@ -1,76 +1,74 @@
-[
-    {
-        "created_at": "Thu Jul 27 16:00:40 +0000 2017",
-        "id": 890602848530071552,
-        "id_str": "890602848530071552",
-        "full_text": "#OTD @StateDept was born! XML replaces quill in the latest #FRUS digitized release of the 1919 Paris Conference.\nhttps://t.co/GnsAD0ZzWz",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            136
+{
+    "created_at": "Thu Jul 27 16:00:40 +0000 2017",
+    "id": 890602848530071550,
+    "id_str": "890602848530071552",
+    "full_text": "#OTD @StateDept was born! XML replaces quill in the latest #FRUS digitized release of the 1919 Paris Conference.\nhttps://t.co/GnsAD0ZzWz",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        136
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "OTD",
+                "indices": [
+                    0,
+                    4
+                ]
+            },
+            {
+                "text": "FRUS",
+                "indices": [
+                    59,
+                    64
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "OTD",
-                    "indices": [
-                        0,
-                        4
-                    ]
-                },
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        59,
-                        64
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "StateDept",
-                    "name": "Department of State",
-                    "id": 9624742,
-                    "id_str": "9624742",
-                    "indices": [
-                        5,
-                        15
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "https://t.co/GnsAD0ZzWz",
-                    "expanded_url": "https://history.state.gov/historicaldocuments/quarterly-releases/2017-q2",
-                    "display_url": "history.state.gov/historicaldocu\u2026",
-                    "indices": [
-                        113,
-                        136
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 0,
-        "favorite_count": 2,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "StateDept",
+                "name": "Department of State",
+                "id": 9624742,
+                "id_str": "9624742",
+                "indices": [
+                    5,
+                    15
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/GnsAD0ZzWz",
+                "expanded_url": "https://history.state.gov/historicaldocuments/quarterly-releases/2017-q2",
+                "display_url": "history.state.gov/historicaldocu…",
+                "indices": [
+                    113,
+                    136
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

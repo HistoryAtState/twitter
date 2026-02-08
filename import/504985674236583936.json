@@ -1,69 +1,67 @@
-[
-    {
-        "created_at": "Thu Aug 28 13:35:41 +0000 2014",
-        "id": 504985674236583936,
-        "id_str": "504985674236583936",
-        "full_text": "No rest for the weary; Amb Herrick asked to remain at @USEmbassyFrance til strain of German threat passed #WW1Tweet http://t.co/dVJKPbc1wv",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            138
+{
+    "created_at": "Thu Aug 28 13:35:41 +0000 2014",
+    "id": 504985674236583940,
+    "id_str": "504985674236583936",
+    "full_text": "No rest for the weary; Amb Herrick asked to remain at @USEmbassyFrance til strain of German threat passed #WW1Tweet http://t.co/dVJKPbc1wv",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        138
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "WW1Tweet",
+                "indices": [
+                    106,
+                    115
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "WW1Tweet",
-                    "indices": [
-                        106,
-                        115
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "USEmbassyFrance",
-                    "name": "U.S. Embassy France",
-                    "id": 72814599,
-                    "id_str": "72814599",
-                    "indices": [
-                        54,
-                        70
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "http://t.co/dVJKPbc1wv",
-                    "expanded_url": "http://ow.ly/3pjPAk",
-                    "display_url": "ow.ly/3pjPAk",
-                    "indices": [
-                        116,
-                        138
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 2,
-        "favorite_count": 1,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "USEmbassyFrance",
+                "name": "U.S. Embassy France",
+                "id": 72814599,
+                "id_str": "72814599",
+                "indices": [
+                    54,
+                    70
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "http://t.co/dVJKPbc1wv",
+                "expanded_url": "http://ow.ly/3pjPAk",
+                "display_url": "ow.ly/3pjPAk",
+                "indices": [
+                    116,
+                    138
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

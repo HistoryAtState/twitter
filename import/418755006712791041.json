@@ -1,58 +1,56 @@
-[
-    {
-        "created_at": "Thu Jan 02 14:45:48 +0000 2014",
-        "id": 418755006712791041,
-        "id_str": "418755006712791041",
-        "full_text": "Thomas Jefferson decided King George wasn\u2019t wrong about everything. Learn more about the early origins of #FRUS http://t.co/JbMETAp5pi",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            134
+{
+    "created_at": "Thu Jan 02 14:45:48 +0000 2014",
+    "id": 418755006712791040,
+    "id_str": "418755006712791041",
+    "full_text": "Thomas Jefferson decided King George wasn’t wrong about everything. Learn more about the early origins of #FRUS http://t.co/JbMETAp5pi",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        134
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FRUS",
+                "indices": [
+                    106,
+                    111
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        106,
-                        111
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "http://t.co/JbMETAp5pi",
-                    "expanded_url": "http://ow.ly/scUxJ",
-                    "display_url": "ow.ly/scUxJ",
-                    "indices": [
-                        112,
-                        134
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 5,
-        "favorite_count": 1,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "http://t.co/JbMETAp5pi",
+                "expanded_url": "http://ow.ly/scUxJ",
+                "display_url": "ow.ly/scUxJ",
+                "indices": [
+                    112,
+                    134
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

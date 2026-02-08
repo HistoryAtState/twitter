@@ -1,58 +1,56 @@
-[
-    {
-        "created_at": "Wed Sep 18 18:30:28 +0000 2013",
-        "id": 380398432067665920,
-        "id_str": "380398432067665920",
-        "full_text": "The Office of the Historian releases Foreign Relations, 1977\u20131980, Volume III, Foreign Economic Policy http://t.co/tksqT0MB67  #FRUS",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            132
+{
+    "created_at": "Wed Sep 18 18:30:28 +0000 2013",
+    "id": 380398432067665920,
+    "id_str": "380398432067665920",
+    "full_text": "The Office of the Historian releases Foreign Relations, 1977–1980, Volume III, Foreign Economic Policy http://t.co/tksqT0MB67  #FRUS",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        132
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FRUS",
+                "indices": [
+                    127,
+                    132
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        127,
-                        132
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "http://t.co/tksqT0MB67",
-                    "expanded_url": "http://go.usa.gov/DNjk",
-                    "display_url": "go.usa.gov/DNjk",
-                    "indices": [
-                        103,
-                        125
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 4,
-        "favorite_count": 1,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "http://t.co/tksqT0MB67",
+                "expanded_url": "http://go.usa.gov/DNjk",
+                "display_url": "go.usa.gov/DNjk",
+                "indices": [
+                    103,
+                    125
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

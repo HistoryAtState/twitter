@@ -1,65 +1,63 @@
-[
-    {
-        "created_at": "Tue Oct 16 18:29:07 +0000 2012",
-        "id": 258273381802205184,
-        "id_str": "258273381802205184",
-        "full_text": "October 16, 1962. Discover Kennedy's first reactions to Soviet missiles in Cuba. http://t.co/mYVqjgCZ #FRUS #cmc",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            112
+{
+    "created_at": "Tue Oct 16 18:29:07 +0000 2012",
+    "id": 258273381802205184,
+    "id_str": "258273381802205184",
+    "full_text": "October 16, 1962. Discover Kennedy's first reactions to Soviet missiles in Cuba. http://t.co/mYVqjgCZ #FRUS #cmc",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        112
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FRUS",
+                "indices": [
+                    102,
+                    107
+                ]
+            },
+            {
+                "text": "cmc",
+                "indices": [
+                    108,
+                    112
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        102,
-                        107
-                    ]
-                },
-                {
-                    "text": "cmc",
-                    "indices": [
-                        108,
-                        112
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "http://t.co/mYVqjgCZ",
-                    "expanded_url": "http://bit.ly/RyiNMD",
-                    "display_url": "bit.ly/RyiNMD",
-                    "indices": [
-                        81,
-                        101
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 7,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "http://t.co/mYVqjgCZ",
+                "expanded_url": "http://bit.ly/RyiNMD",
+                "display_url": "bit.ly/RyiNMD",
+                "indices": [
+                    81,
+                    101
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

@@ -1,65 +1,63 @@
-[
-    {
-        "created_at": "Tue Jun 21 13:31:12 +0000 2016",
-        "id": 745247699990118400,
-        "id_str": "745247699990118400",
-        "full_text": "#FRUS is \u201ca model of responsible government transparency and accessibility that has endured more than 150 yrs\u201d https://t.co/XhI4CL81Ko #FSJ",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            139
+{
+    "created_at": "Tue Jun 21 13:31:12 +0000 2016",
+    "id": 745247699990118400,
+    "id_str": "745247699990118400",
+    "full_text": "#FRUS is “a model of responsible government transparency and accessibility that has endured more than 150 yrs” https://t.co/XhI4CL81Ko #FSJ",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FRUS",
+                "indices": [
+                    0,
+                    5
+                ]
+            },
+            {
+                "text": "FSJ",
+                "indices": [
+                    135,
+                    139
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        0,
-                        5
-                    ]
-                },
-                {
-                    "text": "FSJ",
-                    "indices": [
-                        135,
-                        139
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "https://t.co/XhI4CL81Ko",
-                    "expanded_url": "http://bit.ly/1WGHbBe",
-                    "display_url": "bit.ly/1WGHbBe",
-                    "indices": [
-                        111,
-                        134
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 1,
-        "favorite_count": 1,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/XhI4CL81Ko",
+                "expanded_url": "http://bit.ly/1WGHbBe",
+                "display_url": "bit.ly/1WGHbBe",
+                "indices": [
+                    111,
+                    134
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

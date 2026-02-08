@@ -1,76 +1,74 @@
-[
-    {
-        "created_at": "Fri May 11 17:05:07 +0000 2018",
-        "id": 994986775360794624,
-        "id_str": "994986775360794624",
-        "full_text": "On April 25, 1969, the entire 86th Class of Foreign Service Officers was assigned to duty in #Vietnam. https://t.co/jcqpjXq3SJ #twitterstorians @StateDG",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            152
+{
+    "created_at": "Fri May 11 17:05:07 +0000 2018",
+    "id": 994986775360794620,
+    "id_str": "994986775360794624",
+    "full_text": "On April 25, 1969, the entire 86th Class of Foreign Service Officers was assigned to duty in #Vietnam. https://t.co/jcqpjXq3SJ #twitterstorians @StateDG",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        152
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Vietnam",
+                "indices": [
+                    93,
+                    101
+                ]
+            },
+            {
+                "text": "twitterstorians",
+                "indices": [
+                    127,
+                    143
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "Vietnam",
-                    "indices": [
-                        93,
-                        101
-                    ]
-                },
-                {
-                    "text": "twitterstorians",
-                    "indices": [
-                        127,
-                        143
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "StateDG",
-                    "name": "Marcia S. Bernicat",
-                    "id": 3433322913,
-                    "id_str": "3433322913",
-                    "indices": [
-                        144,
-                        152
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "https://t.co/jcqpjXq3SJ",
-                    "expanded_url": "https://history.state.gov/departmenthistory/timeline/1960-1969",
-                    "display_url": "history.state.gov/departmenthist\u2026",
-                    "indices": [
-                        103,
-                        126
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 1,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "StateDG",
+                "name": "Marcia S. Bernicat",
+                "id": 3433322913,
+                "id_str": "3433322913",
+                "indices": [
+                    144,
+                    152
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/jcqpjXq3SJ",
+                "expanded_url": "https://history.state.gov/departmenthistory/timeline/1960-1969",
+                "display_url": "history.state.gov/departmenthist…",
+                "indices": [
+                    103,
+                    126
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

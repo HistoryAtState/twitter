@@ -1,58 +1,56 @@
-[
-    {
-        "created_at": "Mon Oct 01 13:38:51 +0000 2018",
-        "id": 1046756330218946561,
-        "id_str": "1046756330218946561",
-        "full_text": "Frank Shakespeare created the Young Officers\u2019 Policy Panel in 1969. Read about it in #FRUS https://t.co/TPt3HXZ8nv",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            114
+{
+    "created_at": "Mon Oct 01 13:38:51 +0000 2018",
+    "id": 1046756330218946560,
+    "id_str": "1046756330218946561",
+    "full_text": "Frank Shakespeare created the Young Officers’ Policy Panel in 1969. Read about it in #FRUS https://t.co/TPt3HXZ8nv",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        114
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FRUS",
+                "indices": [
+                    85,
+                    90
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        85,
-                        90
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "https://t.co/TPt3HXZ8nv",
-                    "expanded_url": "https://www.history.state.gov/historicaldocuments/frus1917-72PubDipv08/d9",
-                    "display_url": "history.state.gov/historicaldocu\u2026",
-                    "indices": [
-                        91,
-                        114
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 0,
-        "favorite_count": 2,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/TPt3HXZ8nv",
+                "expanded_url": "https://www.history.state.gov/historicaldocuments/frus1917-72PubDipv08/d9",
+                "display_url": "history.state.gov/historicaldocu…",
+                "indices": [
+                    91,
+                    114
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

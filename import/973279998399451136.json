@@ -1,83 +1,81 @@
-[
-    {
-        "created_at": "Mon Mar 12 19:30:08 +0000 2018",
-        "id": 973279998399451136,
-        "id_str": "973279998399451136",
-        "full_text": "January 1979: Mary Hanley and Barbara Good work at @StateDept to \u201cbetter respond to the rights of #women.\u201d https://t.co/fSmREB6HsO #FRUS #WomensHistoryMonth",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            156
+{
+    "created_at": "Mon Mar 12 19:30:08 +0000 2018",
+    "id": 973279998399451140,
+    "id_str": "973279998399451136",
+    "full_text": "January 1979: Mary Hanley and Barbara Good work at @StateDept to “better respond to the rights of #women.” https://t.co/fSmREB6HsO #FRUS #WomensHistoryMonth",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        156
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "women",
+                "indices": [
+                    98,
+                    104
+                ]
+            },
+            {
+                "text": "FRUS",
+                "indices": [
+                    131,
+                    136
+                ]
+            },
+            {
+                "text": "WomensHistoryMonth",
+                "indices": [
+                    137,
+                    156
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "women",
-                    "indices": [
-                        98,
-                        104
-                    ]
-                },
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        131,
-                        136
-                    ]
-                },
-                {
-                    "text": "WomensHistoryMonth",
-                    "indices": [
-                        137,
-                        156
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "StateDept",
-                    "name": "Department of State",
-                    "id": 9624742,
-                    "id_str": "9624742",
-                    "indices": [
-                        51,
-                        61
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "https://t.co/fSmREB6HsO",
-                    "expanded_url": "https://go.usa.gov/xnHRH",
-                    "display_url": "go.usa.gov/xnHRH",
-                    "indices": [
-                        107,
-                        130
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 0,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "StateDept",
+                "name": "Department of State",
+                "id": 9624742,
+                "id_str": "9624742",
+                "indices": [
+                    51,
+                    61
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/fSmREB6HsO",
+                "expanded_url": "https://go.usa.gov/xnHRH",
+                "display_url": "go.usa.gov/xnHRH",
+                "indices": [
+                    107,
+                    130
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

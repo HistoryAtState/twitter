@@ -1,195 +1,193 @@
-[
-    {
-        "created_at": "Fri May 18 12:30:30 +0000 2018",
-        "id": 997454377844727810,
-        "id_str": "997454377844727810",
-        "full_text": "Sometimes diplomacy is awkward, as when #Spain\u2019s Foreign Minister Areilza stated to Secretary Kissinger that the Danish Army rides in on bikes. \nhttps://t.co/yEaheXcHZF  #BikeToWork #BTWD2018 #FRUS https://t.co/TZaSIrSE1E",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            197
+{
+    "created_at": "Fri May 18 12:30:30 +0000 2018",
+    "id": 997454377844727810,
+    "id_str": "997454377844727810",
+    "full_text": "Sometimes diplomacy is awkward, as when #Spain’s Foreign Minister Areilza stated to Secretary Kissinger that the Danish Army rides in on bikes. \nhttps://t.co/yEaheXcHZF  #BikeToWork #BTWD2018 #FRUS https://t.co/TZaSIrSE1E",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        197
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Spain",
+                "indices": [
+                    40,
+                    46
+                ]
+            },
+            {
+                "text": "BikeToWork",
+                "indices": [
+                    170,
+                    181
+                ]
+            },
+            {
+                "text": "BTWD2018",
+                "indices": [
+                    182,
+                    191
+                ]
+            },
+            {
+                "text": "FRUS",
+                "indices": [
+                    192,
+                    197
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "Spain",
-                    "indices": [
-                        40,
-                        46
-                    ]
-                },
-                {
-                    "text": "BikeToWork",
-                    "indices": [
-                        170,
-                        181
-                    ]
-                },
-                {
-                    "text": "BTWD2018",
-                    "indices": [
-                        182,
-                        191
-                    ]
-                },
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        192,
-                        197
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "https://t.co/yEaheXcHZF",
-                    "expanded_url": "https://buff.ly/2rJGzzj",
-                    "display_url": "buff.ly/2rJGzzj",
-                    "indices": [
-                        145,
-                        168
-                    ]
-                }
-            ],
-            "media": [
-                {
-                    "id": 997454374971457537,
-                    "id_str": "997454374971457537",
-                    "indices": [
-                        198,
-                        221
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/DdereCPVQAE88Tj.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/DdereCPVQAE88Tj.jpg",
-                    "url": "https://t.co/TZaSIrSE1E",
-                    "display_url": "pic.twitter.com/TZaSIrSE1E",
-                    "expanded_url": "https://twitter.com/HistoryAtState/status/997454377844727810/photo/1",
-                    "type": "photo",
-                    "sizes": {
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
-                        },
-                        "medium": {
-                            "w": 667,
-                            "h": 889,
-                            "resize": "fit"
-                        },
-                        "large": {
-                            "w": 667,
-                            "h": 889,
-                            "resize": "fit"
-                        },
-                        "small": {
-                            "w": 510,
-                            "h": 680,
-                            "resize": "fit"
-                        }
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/yEaheXcHZF",
+                "expanded_url": "https://buff.ly/2rJGzzj",
+                "display_url": "buff.ly/2rJGzzj",
+                "indices": [
+                    145,
+                    168
+                ]
+            }
+        ],
+        "media": [
+            {
+                "id": 997454374971457540,
+                "id_str": "997454374971457537",
+                "indices": [
+                    198,
+                    221
+                ],
+                "media_url": "http://pbs.twimg.com/media/DdereCPVQAE88Tj.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/DdereCPVQAE88Tj.jpg",
+                "url": "https://t.co/TZaSIrSE1E",
+                "display_url": "pic.twitter.com/TZaSIrSE1E",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/997454377844727810/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 667,
+                        "h": 889,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 667,
+                        "h": 889,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
                     }
                 }
-            ]
-        },
-        "extended_entities": {
-            "media": [
-                {
-                    "id": 997454374971457537,
-                    "id_str": "997454374971457537",
-                    "indices": [
-                        198,
-                        221
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/DdereCPVQAE88Tj.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/DdereCPVQAE88Tj.jpg",
-                    "url": "https://t.co/TZaSIrSE1E",
-                    "display_url": "pic.twitter.com/TZaSIrSE1E",
-                    "expanded_url": "https://twitter.com/HistoryAtState/status/997454377844727810/photo/1",
-                    "type": "photo",
-                    "sizes": {
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
-                        },
-                        "medium": {
-                            "w": 667,
-                            "h": 889,
-                            "resize": "fit"
-                        },
-                        "large": {
-                            "w": 667,
-                            "h": 889,
-                            "resize": "fit"
-                        },
-                        "small": {
-                            "w": 510,
-                            "h": 680,
-                            "resize": "fit"
-                        }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 997454374971457540,
+                "id_str": "997454374971457537",
+                "indices": [
+                    198,
+                    221
+                ],
+                "media_url": "http://pbs.twimg.com/media/DdereCPVQAE88Tj.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/DdereCPVQAE88Tj.jpg",
+                "url": "https://t.co/TZaSIrSE1E",
+                "display_url": "pic.twitter.com/TZaSIrSE1E",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/997454377844727810/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
                     },
-                    "ext_alt_text": "Black and white photo of José de Areilza"
+                    "medium": {
+                        "w": 667,
+                        "h": 889,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 667,
+                        "h": 889,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                    }
                 },
-                {
-                    "id": 997454374971428864,
-                    "id_str": "997454374971428864",
-                    "indices": [
-                        198,
-                        221
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/DdereCPU0AADQ-6.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/DdereCPU0AADQ-6.jpg",
-                    "url": "https://t.co/TZaSIrSE1E",
-                    "display_url": "pic.twitter.com/TZaSIrSE1E",
-                    "expanded_url": "https://twitter.com/HistoryAtState/status/997454377844727810/photo/1",
-                    "type": "photo",
-                    "sizes": {
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
-                        },
-                        "large": {
-                            "w": 678,
-                            "h": 381,
-                            "resize": "fit"
-                        },
-                        "small": {
-                            "w": 678,
-                            "h": 381,
-                            "resize": "fit"
-                        },
-                        "medium": {
-                            "w": 678,
-                            "h": 381,
-                            "resize": "fit"
-                        }
+                "ext_alt_text": "Black and white photo of José de Areilza"
+            },
+            {
+                "id": 997454374971428860,
+                "id_str": "997454374971428864",
+                "indices": [
+                    198,
+                    221
+                ],
+                "media_url": "http://pbs.twimg.com/media/DdereCPU0AADQ-6.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/DdereCPU0AADQ-6.jpg",
+                "url": "https://t.co/TZaSIrSE1E",
+                "display_url": "pic.twitter.com/TZaSIrSE1E",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/997454377844727810/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
                     },
-                    "ext_alt_text": null
-                }
-            ]
-        },
-        "source": "\u003ca href=\"https://buffer.com\" rel=\"nofollow\"\u003eBuffer\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 1,
-        "favorite_count": 3,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+                    "large": {
+                        "w": 678,
+                        "h": 381,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 678,
+                        "h": 381,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 678,
+                        "h": 381,
+                        "resize": "fit"
+                    }
+                },
+                "ext_alt_text": null
+            }
+        ]
+    },
+    "source": "&lt;a href=\"https://buffer.com\" rel=\"nofollow\"&gt;Buffer&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

@@ -1,58 +1,56 @@
-[
-    {
-        "created_at": "Mon Jul 28 12:56:39 +0000 2014",
-        "id": 493741828337070080,
-        "id_str": "493741828337070080",
-        "full_text": "Follow our #WW1Tweet to see how US diplomats informed @StateDept of the outbreak of hostilities &amp; failure of mediation 1914",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            127
+{
+    "created_at": "Mon Jul 28 12:56:39 +0000 2014",
+    "id": 493741828337070080,
+    "id_str": "493741828337070080",
+    "full_text": "Follow our #WW1Tweet to see how US diplomats informed @StateDept of the outbreak of hostilities &amp;amp; failure of mediation 1914",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        127
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "WW1Tweet",
+                "indices": [
+                    11,
+                    20
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "WW1Tweet",
-                    "indices": [
-                        11,
-                        20
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "StateDept",
-                    "name": "Department of State",
-                    "id": 9624742,
-                    "id_str": "9624742",
-                    "indices": [
-                        54,
-                        64
-                    ]
-                }
-            ],
-            "urls": []
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 10,
-        "favorite_count": 2,
-        "favorited": false,
-        "retweeted": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "StateDept",
+                "name": "Department of State",
+                "id": 9624742,
+                "id_str": "9624742",
+                "indices": [
+                    54,
+                    64
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 10,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

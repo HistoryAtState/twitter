@@ -1,58 +1,56 @@
-[
-    {
-        "created_at": "Mon Aug 27 16:02:36 +0000 2018",
-        "id": 1034108930392313859,
-        "id_str": "1034108930392313859",
-        "full_text": "Now available: Foreign Relations, 1872, Papers Relating to the Treaty of Washington, Part II, Vol. I https://t.co/LMn4ndXZHI #FRUS",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            130
+{
+    "created_at": "Mon Aug 27 16:02:36 +0000 2018",
+    "id": 1034108930392313860,
+    "id_str": "1034108930392313859",
+    "full_text": "Now available: Foreign Relations, 1872, Papers Relating to the Treaty of Washington, Part II, Vol. I https://t.co/LMn4ndXZHI #FRUS",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        130
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FRUS",
+                "indices": [
+                    125,
+                    130
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        125,
-                        130
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "https://t.co/LMn4ndXZHI",
-                    "expanded_url": "https://history.state.gov/historicaldocuments/frus1872p2v1",
-                    "display_url": "history.state.gov/historicaldocu\u2026",
-                    "indices": [
-                        101,
-                        124
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 0,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/LMn4ndXZHI",
+                "expanded_url": "https://history.state.gov/historicaldocuments/frus1872p2v1",
+                "display_url": "history.state.gov/historicaldocu…",
+                "indices": [
+                    101,
+                    124
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

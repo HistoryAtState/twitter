@@ -1,58 +1,56 @@
-[
-    {
-        "created_at": "Mon Jan 27 14:51:52 +0000 2014",
-        "id": 427816232302419968,
-        "id_str": "427816232302419968",
-        "full_text": "During the Civil War, #FRUS demonstrated that US reps abroad were instructed to counter Confederate agents http://t.co/QDzUMDoTis",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            129
+{
+    "created_at": "Mon Jan 27 14:51:52 +0000 2014",
+    "id": 427816232302419970,
+    "id_str": "427816232302419968",
+    "full_text": "During the Civil War, #FRUS demonstrated that US reps abroad were instructed to counter Confederate agents http://t.co/QDzUMDoTis",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        129
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FRUS",
+                "indices": [
+                    22,
+                    27
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        22,
-                        27
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "http://t.co/QDzUMDoTis",
-                    "expanded_url": "http://ow.ly/sZj1d",
-                    "display_url": "ow.ly/sZj1d",
-                    "indices": [
-                        107,
-                        129
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 3,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "http://t.co/QDzUMDoTis",
+                "expanded_url": "http://ow.ly/sZj1d",
+                "display_url": "ow.ly/sZj1d",
+                "indices": [
+                    107,
+                    129
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

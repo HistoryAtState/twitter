@@ -1,47 +1,45 @@
-[
-    {
-        "created_at": "Wed Jul 31 22:28:41 +0000 2013",
-        "id": 362701378642132992,
-        "id_str": "362701378642132992",
-        "full_text": "Ever wonder where #SecStates traveled? Learn more while you\u2019re on vacation! Our next mini summer school begins tomorrow.",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            120
+{
+    "created_at": "Wed Jul 31 22:28:41 +0000 2013",
+    "id": 362701378642132990,
+    "id_str": "362701378642132992",
+    "full_text": "Ever wonder where #SecStates traveled? Learn more while you’re on vacation! Our next mini summer school begins tomorrow.",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        120
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "SecStates",
+                "indices": [
+                    18,
+                    28
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "SecStates",
-                    "indices": [
-                        18,
-                        28
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": []
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 0,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

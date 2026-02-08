@@ -1,65 +1,63 @@
-[
-    {
-        "created_at": "Wed Aug 28 12:31:46 +0000 2013",
-        "id": 372698016370921472,
-        "id_str": "372698016370921472",
-        "full_text": "Did you know: the 1st #SecState to visit Liberia was #SecState Stettinius in Feb 1945? http://t.co/MMyFi0e3xx",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            109
+{
+    "created_at": "Wed Aug 28 12:31:46 +0000 2013",
+    "id": 372698016370921470,
+    "id_str": "372698016370921472",
+    "full_text": "Did you know: the 1st #SecState to visit Liberia was #SecState Stettinius in Feb 1945? http://t.co/MMyFi0e3xx",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        109
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "SecState",
+                "indices": [
+                    22,
+                    31
+                ]
+            },
+            {
+                "text": "SecState",
+                "indices": [
+                    53,
+                    62
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "SecState",
-                    "indices": [
-                        22,
-                        31
-                    ]
-                },
-                {
-                    "text": "SecState",
-                    "indices": [
-                        53,
-                        62
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "http://t.co/MMyFi0e3xx",
-                    "expanded_url": "http://go.usa.gov/DqZA",
-                    "display_url": "go.usa.gov/DqZA",
-                    "indices": [
-                        87,
-                        109
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 0,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "http://t.co/MMyFi0e3xx",
+                "expanded_url": "http://go.usa.gov/DqZA",
+                "display_url": "go.usa.gov/DqZA",
+                "indices": [
+                    87,
+                    109
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

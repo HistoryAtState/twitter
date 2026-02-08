@@ -1,58 +1,56 @@
-[
-    {
-        "created_at": "Mon Nov 09 19:32:15 +0000 2015",
-        "id": 663801290946977793,
-        "id_str": "663801290946977793",
-        "full_text": "Read about the Pinochet coup and US recognition of the Pinochet government. https://t.co/UTslRKe7QH #FRUS",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            105
+{
+    "created_at": "Mon Nov 09 19:32:15 +0000 2015",
+    "id": 663801290946977790,
+    "id_str": "663801290946977793",
+    "full_text": "Read about the Pinochet coup and US recognition of the Pinochet government. https://t.co/UTslRKe7QH #FRUS",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        105
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FRUS",
+                "indices": [
+                    100,
+                    105
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        100,
-                        105
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "https://t.co/UTslRKe7QH",
-                    "expanded_url": "http://go.usa.gov/cC86x",
-                    "display_url": "go.usa.gov/cC86x",
-                    "indices": [
-                        76,
-                        99
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 2,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/UTslRKe7QH",
+                "expanded_url": "http://go.usa.gov/cC86x",
+                "display_url": "go.usa.gov/cC86x",
+                "indices": [
+                    76,
+                    99
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

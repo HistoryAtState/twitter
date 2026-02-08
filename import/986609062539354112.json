@@ -1,79 +1,77 @@
-[
-    {
-        "created_at": "Wed Apr 18 14:15:05 +0000 2018",
-        "id": 986609062539354112,
-        "id_str": "986609062539354112",
-        "full_text": "In November 1982, #BarbaraBush accompanied VP George Bush at a meeting with a Pentecostalist family who sought refuge in the Embassy in Moscow. https://t.co/DxvYvOcb5K  @Bush41Library @USEmbRu",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            192
+{
+    "created_at": "Wed Apr 18 14:15:05 +0000 2018",
+    "id": 986609062539354110,
+    "id_str": "986609062539354112",
+    "full_text": "In November 1982, #BarbaraBush accompanied VP George Bush at a meeting with a Pentecostalist family who sought refuge in the Embassy in Moscow. https://t.co/DxvYvOcb5K  @Bush41Library @USEmbRu",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        192
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "BarbaraBush",
+                "indices": [
+                    18,
+                    30
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "BarbaraBush",
-                    "indices": [
-                        18,
-                        30
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "Bush41Library",
-                    "name": "Bush Library",
-                    "id": 133456403,
-                    "id_str": "133456403",
-                    "indices": [
-                        169,
-                        183
-                    ]
-                },
-                {
-                    "screen_name": "USEmbRu",
-                    "name": "\u041f\u043e\u0441\u043e\u043b\u044c\u0441\u0442\u0432\u043e \u0421\u0428\u0410 \u0432 \u0420\u0424/ U.S. Embassy Russia",
-                    "id": 20055358,
-                    "id_str": "20055358",
-                    "indices": [
-                        184,
-                        192
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "https://t.co/DxvYvOcb5K",
-                    "expanded_url": "https://history.state.gov/historicaldocuments/frus1981-88v03/d236",
-                    "display_url": "history.state.gov/historicaldocu\u2026",
-                    "indices": [
-                        144,
-                        167
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 1,
-        "favorite_count": 1,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Bush41Library",
+                "name": "Bush Library",
+                "id": 133456403,
+                "id_str": "133456403",
+                "indices": [
+                    169,
+                    183
+                ]
+            },
+            {
+                "screen_name": "USEmbRu",
+                "name": "Посольство США в РФ/ U.S. Embassy Russia",
+                "id": 20055358,
+                "id_str": "20055358",
+                "indices": [
+                    184,
+                    192
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/DxvYvOcb5K",
+                "expanded_url": "https://history.state.gov/historicaldocuments/frus1981-88v03/d236",
+                "display_url": "history.state.gov/historicaldocu…",
+                "indices": [
+                    144,
+                    167
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

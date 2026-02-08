@@ -1,58 +1,56 @@
-[
-    {
-        "created_at": "Mon Feb 24 13:05:20 +0000 2014",
-        "id": 437936281046495232,
-        "id_str": "437936281046495232",
-        "full_text": "This practice, the \u201cNegro circuit,\u201d was used for decades despite opposition. Read Amb. Thomas on breaking it http://t.co/JauB8zjSTi #BHM2014",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            140
+{
+    "created_at": "Mon Feb 24 13:05:20 +0000 2014",
+    "id": 437936281046495230,
+    "id_str": "437936281046495232",
+    "full_text": "This practice, the “Negro circuit,” was used for decades despite opposition. Read Amb. Thomas on breaking it http://t.co/JauB8zjSTi #BHM2014",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "BHM2014",
+                "indices": [
+                    132,
+                    140
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "BHM2014",
-                    "indices": [
-                        132,
-                        140
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "http://t.co/JauB8zjSTi",
-                    "expanded_url": "http://ow.ly/twdzp",
-                    "display_url": "ow.ly/twdzp",
-                    "indices": [
-                        109,
-                        131
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 2,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "http://t.co/JauB8zjSTi",
+                "expanded_url": "http://ow.ly/twdzp",
+                "display_url": "ow.ly/twdzp",
+                "indices": [
+                    109,
+                    131
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

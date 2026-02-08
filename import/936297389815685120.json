@@ -1,206 +1,204 @@
-[
-    {
-        "created_at": "Thu Nov 30 18:14:27 +0000 2017",
-        "id": 936297389815685120,
-        "id_str": "936297389815685120",
-        "full_text": "RT @StateDept: Today, @HistoryAtState released Foreign Relations of the United States, 1981\u20131988, Volume XLI, Global Issues II. https://t.c\u2026",
+{
+    "created_at": "Thu Nov 30 18:14:27 +0000 2017",
+    "id": 936297389815685120,
+    "id_str": "936297389815685120",
+    "full_text": "RT @StateDept: Today, @HistoryAtState released Foreign Relations of the United States, 1981–1988, Volume XLI, Global Issues II. https://t.c…",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "StateDept",
+                "name": "Department of State",
+                "id": 9624742,
+                "id_str": "9624742",
+                "indices": [
+                    3,
+                    13
+                ]
+            },
+            {
+                "screen_name": "HistoryAtState",
+                "name": "HistoryAtState",
+                "id": 586570880,
+                "id_str": "586570880",
+                "indices": [
+                    22,
+                    37
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Nov 30 18:07:12 +0000 2017",
+        "id": 936295565037621250,
+        "id_str": "936295565037621249",
+        "full_text": "Today, @HistoryAtState released Foreign Relations of the United States, 1981–1988, Volume XLI, Global Issues II. https://t.co/c0Rypx5dk5 #FRUS https://t.co/8s3XYN3jEY",
         "truncated": false,
         "display_text_range": [
             0,
-            140
+            142
         ],
         "entities": {
-            "hashtags": [],
+            "hashtags": [
+                {
+                    "text": "FRUS",
+                    "indices": [
+                        137,
+                        142
+                    ]
+                }
+            ],
             "symbols": [],
             "user_mentions": [
-                {
-                    "screen_name": "StateDept",
-                    "name": "Department of State",
-                    "id": 9624742,
-                    "id_str": "9624742",
-                    "indices": [
-                        3,
-                        13
-                    ]
-                },
                 {
                     "screen_name": "HistoryAtState",
                     "name": "HistoryAtState",
                     "id": 586570880,
                     "id_str": "586570880",
                     "indices": [
-                        22,
-                        37
+                        7,
+                        22
                     ]
                 }
             ],
-            "urls": []
+            "urls": [
+                {
+                    "url": "https://t.co/c0Rypx5dk5",
+                    "expanded_url": "https://go.usa.gov/xn92X",
+                    "display_url": "go.usa.gov/xn92X",
+                    "indices": [
+                        113,
+                        136
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 936295559220035580,
+                    "id_str": "936295559220035584",
+                    "indices": [
+                        143,
+                        166
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DP5j2bQWAAAKcCH.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DP5j2bQWAAAKcCH.jpg",
+                    "url": "https://t.co/8s3XYN3jEY",
+                    "display_url": "pic.twitter.com/8s3XYN3jEY",
+                    "expanded_url": "https://twitter.com/StateDept/status/936295565037621249/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 298,
+                            "h": 447,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 298,
+                            "h": 447,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 298,
+                            "h": 447,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
         },
-        "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 936295559220035580,
+                    "id_str": "936295559220035584",
+                    "indices": [
+                        143,
+                        166
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DP5j2bQWAAAKcCH.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DP5j2bQWAAAKcCH.jpg",
+                    "url": "https://t.co/8s3XYN3jEY",
+                    "display_url": "pic.twitter.com/8s3XYN3jEY",
+                    "expanded_url": "https://twitter.com/StateDept/status/936295565037621249/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 298,
+                            "h": 447,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 298,
+                            "h": 447,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 298,
+                            "h": 447,
+                            "resize": "fit"
+                        }
+                    },
+                    "ext_alt_text": null
+                }
+            ]
+        },
+        "source": "&lt;a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"&gt;Twitter for iPhone&lt;/a&gt;",
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
         "in_reply_to_screen_name": null,
         "user": {
-            "id": 586570880,
-            "id_str": "586570880"
+            "id": 9624742,
+            "id_str": "9624742"
         },
         "geo": null,
         "coordinates": null,
         "place": null,
         "contributors": null,
-        "retweeted_status": {
-            "created_at": "Thu Nov 30 18:07:12 +0000 2017",
-            "id": 936295565037621249,
-            "id_str": "936295565037621249",
-            "full_text": "Today, @HistoryAtState released Foreign Relations of the United States, 1981\u20131988, Volume XLI, Global Issues II. https://t.co/c0Rypx5dk5 #FRUS https://t.co/8s3XYN3jEY",
-            "truncated": false,
-            "display_text_range": [
-                0,
-                142
-            ],
-            "entities": {
-                "hashtags": [
-                    {
-                        "text": "FRUS",
-                        "indices": [
-                            137,
-                            142
-                        ]
-                    }
-                ],
-                "symbols": [],
-                "user_mentions": [
-                    {
-                        "screen_name": "HistoryAtState",
-                        "name": "HistoryAtState",
-                        "id": 586570880,
-                        "id_str": "586570880",
-                        "indices": [
-                            7,
-                            22
-                        ]
-                    }
-                ],
-                "urls": [
-                    {
-                        "url": "https://t.co/c0Rypx5dk5",
-                        "expanded_url": "https://go.usa.gov/xn92X",
-                        "display_url": "go.usa.gov/xn92X",
-                        "indices": [
-                            113,
-                            136
-                        ]
-                    }
-                ],
-                "media": [
-                    {
-                        "id": 936295559220035584,
-                        "id_str": "936295559220035584",
-                        "indices": [
-                            143,
-                            166
-                        ],
-                        "media_url": "http://pbs.twimg.com/media/DP5j2bQWAAAKcCH.jpg",
-                        "media_url_https": "https://pbs.twimg.com/media/DP5j2bQWAAAKcCH.jpg",
-                        "url": "https://t.co/8s3XYN3jEY",
-                        "display_url": "pic.twitter.com/8s3XYN3jEY",
-                        "expanded_url": "https://twitter.com/StateDept/status/936295565037621249/photo/1",
-                        "type": "photo",
-                        "sizes": {
-                            "large": {
-                                "w": 298,
-                                "h": 447,
-                                "resize": "fit"
-                            },
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
-                            "small": {
-                                "w": 298,
-                                "h": 447,
-                                "resize": "fit"
-                            },
-                            "medium": {
-                                "w": 298,
-                                "h": 447,
-                                "resize": "fit"
-                            }
-                        }
-                    }
-                ]
-            },
-            "extended_entities": {
-                "media": [
-                    {
-                        "id": 936295559220035584,
-                        "id_str": "936295559220035584",
-                        "indices": [
-                            143,
-                            166
-                        ],
-                        "media_url": "http://pbs.twimg.com/media/DP5j2bQWAAAKcCH.jpg",
-                        "media_url_https": "https://pbs.twimg.com/media/DP5j2bQWAAAKcCH.jpg",
-                        "url": "https://t.co/8s3XYN3jEY",
-                        "display_url": "pic.twitter.com/8s3XYN3jEY",
-                        "expanded_url": "https://twitter.com/StateDept/status/936295565037621249/photo/1",
-                        "type": "photo",
-                        "sizes": {
-                            "large": {
-                                "w": 298,
-                                "h": 447,
-                                "resize": "fit"
-                            },
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
-                            "small": {
-                                "w": 298,
-                                "h": 447,
-                                "resize": "fit"
-                            },
-                            "medium": {
-                                "w": 298,
-                                "h": 447,
-                                "resize": "fit"
-                            }
-                        },
-                        "ext_alt_text": null
-                    }
-                ]
-            },
-            "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
-            "user": {
-                "id": 9624742,
-                "id_str": "9624742"
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "is_quote_status": false,
-            "retweet_count": 33,
-            "favorite_count": 51,
-            "favorited": true,
-            "retweeted": true,
-            "possibly_sensitive": false,
-            "lang": "en"
-        },
         "is_quote_status": false,
         "retweet_count": 33,
-        "favorite_count": 0,
+        "favorite_count": 51,
         "favorited": true,
         "retweeted": true,
+        "possibly_sensitive": false,
         "lang": "en"
-    }
-]
+    },
+    "is_quote_status": false,
+    "retweet_count": 33,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "lang": "en"
+}

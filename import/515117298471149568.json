@@ -1,59 +1,57 @@
-[
-    {
-        "created_at": "Thu Sep 25 12:35:09 +0000 2014",
-        "id": 515117298471149568,
-        "id_str": "515117298471149568",
-        "full_text": "Meet Consul-General AM Thackara: from Berlin to Paris in 1913; also had famous father-in-law  http://t.co/B3OPmkthOA http://t.co/eZm691X0cp",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            139
-        ],
-        "entities": {
-            "hashtags": [],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "http://t.co/B3OPmkthOA",
-                    "expanded_url": "http://go.usa.gov/p2hj",
-                    "display_url": "go.usa.gov/p2hj",
-                    "indices": [
-                        94,
-                        116
-                    ]
-                },
-                {
-                    "url": "http://t.co/eZm691X0cp",
-                    "expanded_url": "http://go.usa.gov/pKZ",
-                    "display_url": "go.usa.gov/pKZ",
-                    "indices": [
-                        117,
-                        139
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 1,
-        "favorite_count": 1,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+{
+    "created_at": "Thu Sep 25 12:35:09 +0000 2014",
+    "id": 515117298471149570,
+    "id_str": "515117298471149568",
+    "full_text": "Meet Consul-General AM Thackara: from Berlin to Paris in 1913; also had famous father-in-law  http://t.co/B3OPmkthOA http://t.co/eZm691X0cp",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "http://t.co/B3OPmkthOA",
+                "expanded_url": "http://go.usa.gov/p2hj",
+                "display_url": "go.usa.gov/p2hj",
+                "indices": [
+                    94,
+                    116
+                ]
+            },
+            {
+                "url": "http://t.co/eZm691X0cp",
+                "expanded_url": "http://go.usa.gov/pKZ",
+                "display_url": "go.usa.gov/pKZ",
+                "indices": [
+                    117,
+                    139
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

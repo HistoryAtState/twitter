@@ -1,79 +1,77 @@
-[
-    {
-        "created_at": "Mon Sep 29 12:15:37 +0000 2014",
-        "id": 516561937489227776,
-        "id_str": "516561937489227776",
-        "full_text": "Which U.S. banker played key role in @USEmbassyFrance war relief 1914? http://t.co/xxWOseJPVn http://t.co/Oiy4MIffNs http://t.co/cwzeCiNOpD",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            139
+{
+    "created_at": "Mon Sep 29 12:15:37 +0000 2014",
+    "id": 516561937489227780,
+    "id_str": "516561937489227776",
+    "full_text": "Which U.S. banker played key role in @USEmbassyFrance war relief 1914? http://t.co/xxWOseJPVn http://t.co/Oiy4MIffNs http://t.co/cwzeCiNOpD",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "USEmbassyFrance",
+                "name": "U.S. Embassy France",
+                "id": 72814599,
+                "id_str": "72814599",
+                "indices": [
+                    37,
+                    53
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "USEmbassyFrance",
-                    "name": "U.S. Embassy France",
-                    "id": 72814599,
-                    "id_str": "72814599",
-                    "indices": [
-                        37,
-                        53
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "http://t.co/xxWOseJPVn",
-                    "expanded_url": "http://go.usa.gov/p2hh",
-                    "display_url": "go.usa.gov/p2hh",
-                    "indices": [
-                        71,
-                        93
-                    ]
-                },
-                {
-                    "url": "http://t.co/Oiy4MIffNs",
-                    "expanded_url": "http://go.usa.gov/pKZx",
-                    "display_url": "go.usa.gov/pKZx",
-                    "indices": [
-                        94,
-                        116
-                    ]
-                },
-                {
-                    "url": "http://t.co/cwzeCiNOpD",
-                    "expanded_url": "http://ow.ly/i/6YoMZ",
-                    "display_url": "ow.ly/i/6YoMZ",
-                    "indices": [
-                        117,
-                        139
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 3,
-        "favorite_count": 2,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "urls": [
+            {
+                "url": "http://t.co/xxWOseJPVn",
+                "expanded_url": "http://go.usa.gov/p2hh",
+                "display_url": "go.usa.gov/p2hh",
+                "indices": [
+                    71,
+                    93
+                ]
+            },
+            {
+                "url": "http://t.co/Oiy4MIffNs",
+                "expanded_url": "http://go.usa.gov/pKZx",
+                "display_url": "go.usa.gov/pKZx",
+                "indices": [
+                    94,
+                    116
+                ]
+            },
+            {
+                "url": "http://t.co/cwzeCiNOpD",
+                "expanded_url": "http://ow.ly/i/6YoMZ",
+                "display_url": "ow.ly/i/6YoMZ",
+                "indices": [
+                    117,
+                    139
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

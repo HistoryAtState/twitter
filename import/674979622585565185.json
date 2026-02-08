@@ -1,65 +1,63 @@
-[
-    {
-        "created_at": "Thu Dec 10 15:50:57 +0000 2015",
-        "id": 674979622585565185,
-        "id_str": "674979622585565185",
-        "full_text": "Now available: #FRUS, 1969\u20131976, Soviet Union, October 1970\u2013October 1971, Vol. XIII https://t.co/3MPDtWgU19 #twitterstorians",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            124
+{
+    "created_at": "Thu Dec 10 15:50:57 +0000 2015",
+    "id": 674979622585565180,
+    "id_str": "674979622585565185",
+    "full_text": "Now available: #FRUS, 1969–1976, Soviet Union, October 1970–October 1971, Vol. XIII https://t.co/3MPDtWgU19 #twitterstorians",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        124
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FRUS",
+                "indices": [
+                    15,
+                    20
+                ]
+            },
+            {
+                "text": "twitterstorians",
+                "indices": [
+                    108,
+                    124
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        15,
-                        20
-                    ]
-                },
-                {
-                    "text": "twitterstorians",
-                    "indices": [
-                        108,
-                        124
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "https://t.co/3MPDtWgU19",
-                    "expanded_url": "https://history.state.gov/historicaldocuments/frus1969-76v13",
-                    "display_url": "history.state.gov/historicaldocu\u2026",
-                    "indices": [
-                        84,
-                        107
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 1,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "ca"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/3MPDtWgU19",
+                "expanded_url": "https://history.state.gov/historicaldocuments/frus1969-76v13",
+                "display_url": "history.state.gov/historicaldocu…",
+                "indices": [
+                    84,
+                    107
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ca"
+}

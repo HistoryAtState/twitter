@@ -1,44 +1,102 @@
-[
-    {
-        "created_at": "Fri Apr 17 16:13:27 +0000 2015",
-        "id": 589099361843437569,
-        "id_str": "589099361843437569",
-        "full_text": "RT @icedd_org: Amb. S\u00e9rgio Eduardo Moreira Lima, pres. @FunagBrasil gives self-intro to #icedd2015 next to @HistoryAtState Randolph http://\u2026",
+{
+    "created_at": "Fri Apr 17 16:13:27 +0000 2015",
+    "id": 589099361843437570,
+    "id_str": "589099361843437569",
+    "full_text": "RT @icedd_org: Amb. Sérgio Eduardo Moreira Lima, pres. @FunagBrasil gives self-intro to #icedd2015 next to @HistoryAtState Randolph http://…",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "icedd2015",
+                "indices": [
+                    88,
+                    98
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "icedd_org",
+                "name": "ICEDD",
+                "id": 3131310616,
+                "id_str": "3131310616",
+                "indices": [
+                    3,
+                    13
+                ]
+            },
+            {
+                "screen_name": "funagbrasil",
+                "name": "Fundação Alexandre de Gusmão",
+                "id": 618159340,
+                "id_str": "618159340",
+                "indices": [
+                    55,
+                    67
+                ]
+            },
+            {
+                "screen_name": "HistoryAtState",
+                "name": "HistoryAtState",
+                "id": 586570880,
+                "id_str": "586570880",
+                "indices": [
+                    107,
+                    122
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "source": "&lt;a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"&gt;Twitter for iPad&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Apr 17 15:36:55 +0000 2015",
+        "id": 589090166654033920,
+        "id_str": "589090166654033920",
+        "full_text": "Amb. Sérgio Eduardo Moreira Lima, pres. @FunagBrasil gives self-intro to #icedd2015 next to @HistoryAtState Randolph http://t.co/tJyMvM7IJN",
         "truncated": false,
         "display_text_range": [
             0,
-            140
+            139
         ],
         "entities": {
             "hashtags": [
                 {
                     "text": "icedd2015",
                     "indices": [
-                        88,
-                        98
+                        73,
+                        83
                     ]
                 }
             ],
             "symbols": [],
             "user_mentions": [
                 {
-                    "screen_name": "icedd_org",
-                    "name": "ICEDD",
-                    "id": 3131310616,
-                    "id_str": "3131310616",
-                    "indices": [
-                        3,
-                        13
-                    ]
-                },
-                {
                     "screen_name": "funagbrasil",
-                    "name": "Funda\u00e7\u00e3o Alexandre de Gusm\u00e3o",
+                    "name": "Fundação Alexandre de Gusmão",
                     "id": 618159340,
                     "id_str": "618159340",
                     "indices": [
-                        55,
-                        67
+                        40,
+                        52
                     ]
                 },
                 {
@@ -47,178 +105,118 @@
                     "id": 586570880,
                     "id_str": "586570880",
                     "indices": [
-                        107,
-                        122
+                        92,
+                        107
                     ]
                 }
             ],
-            "urls": []
+            "urls": [],
+            "media": [
+                {
+                    "id": 589089698422902780,
+                    "id_str": "589089698422902784",
+                    "indices": [
+                        117,
+                        139
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CCzd9adW0AAYI0z.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CCzd9adW0AAYI0z.jpg",
+                    "url": "http://t.co/tJyMvM7IJN",
+                    "display_url": "pic.twitter.com/tJyMvM7IJN",
+                    "expanded_url": "https://twitter.com/icedd_org/status/589090166654033920/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 1200,
+                            "h": 858,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1464,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 486,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
         },
-        "source": "\u003ca href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c/a\u003e",
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 589089698422902780,
+                    "id_str": "589089698422902784",
+                    "indices": [
+                        117,
+                        139
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CCzd9adW0AAYI0z.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CCzd9adW0AAYI0z.jpg",
+                    "url": "http://t.co/tJyMvM7IJN",
+                    "display_url": "pic.twitter.com/tJyMvM7IJN",
+                    "expanded_url": "https://twitter.com/icedd_org/status/589090166654033920/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 1200,
+                            "h": 858,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1464,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 486,
+                            "resize": "fit"
+                        }
+                    },
+                    "ext_alt_text": null
+                }
+            ]
+        },
+        "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
         "in_reply_to_screen_name": null,
         "user": {
-            "id": 586570880,
-            "id_str": "586570880"
+            "id": 3131310616,
+            "id_str": "3131310616"
         },
         "geo": null,
         "coordinates": null,
         "place": null,
         "contributors": null,
-        "retweeted_status": {
-            "created_at": "Fri Apr 17 15:36:55 +0000 2015",
-            "id": 589090166654033920,
-            "id_str": "589090166654033920",
-            "full_text": "Amb. S\u00e9rgio Eduardo Moreira Lima, pres. @FunagBrasil gives self-intro to #icedd2015 next to @HistoryAtState Randolph http://t.co/tJyMvM7IJN",
-            "truncated": false,
-            "display_text_range": [
-                0,
-                139
-            ],
-            "entities": {
-                "hashtags": [
-                    {
-                        "text": "icedd2015",
-                        "indices": [
-                            73,
-                            83
-                        ]
-                    }
-                ],
-                "symbols": [],
-                "user_mentions": [
-                    {
-                        "screen_name": "funagbrasil",
-                        "name": "Funda\u00e7\u00e3o Alexandre de Gusm\u00e3o",
-                        "id": 618159340,
-                        "id_str": "618159340",
-                        "indices": [
-                            40,
-                            52
-                        ]
-                    },
-                    {
-                        "screen_name": "HistoryAtState",
-                        "name": "HistoryAtState",
-                        "id": 586570880,
-                        "id_str": "586570880",
-                        "indices": [
-                            92,
-                            107
-                        ]
-                    }
-                ],
-                "urls": [],
-                "media": [
-                    {
-                        "id": 589089698422902784,
-                        "id_str": "589089698422902784",
-                        "indices": [
-                            117,
-                            139
-                        ],
-                        "media_url": "http://pbs.twimg.com/media/CCzd9adW0AAYI0z.jpg",
-                        "media_url_https": "https://pbs.twimg.com/media/CCzd9adW0AAYI0z.jpg",
-                        "url": "http://t.co/tJyMvM7IJN",
-                        "display_url": "pic.twitter.com/tJyMvM7IJN",
-                        "expanded_url": "https://twitter.com/icedd_org/status/589090166654033920/photo/1",
-                        "type": "photo",
-                        "sizes": {
-                            "medium": {
-                                "w": 1200,
-                                "h": 858,
-                                "resize": "fit"
-                            },
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
-                            "large": {
-                                "w": 2048,
-                                "h": 1464,
-                                "resize": "fit"
-                            },
-                            "small": {
-                                "w": 680,
-                                "h": 486,
-                                "resize": "fit"
-                            }
-                        }
-                    }
-                ]
-            },
-            "extended_entities": {
-                "media": [
-                    {
-                        "id": 589089698422902784,
-                        "id_str": "589089698422902784",
-                        "indices": [
-                            117,
-                            139
-                        ],
-                        "media_url": "http://pbs.twimg.com/media/CCzd9adW0AAYI0z.jpg",
-                        "media_url_https": "https://pbs.twimg.com/media/CCzd9adW0AAYI0z.jpg",
-                        "url": "http://t.co/tJyMvM7IJN",
-                        "display_url": "pic.twitter.com/tJyMvM7IJN",
-                        "expanded_url": "https://twitter.com/icedd_org/status/589090166654033920/photo/1",
-                        "type": "photo",
-                        "sizes": {
-                            "medium": {
-                                "w": 1200,
-                                "h": 858,
-                                "resize": "fit"
-                            },
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
-                            "large": {
-                                "w": 2048,
-                                "h": 1464,
-                                "resize": "fit"
-                            },
-                            "small": {
-                                "w": 680,
-                                "h": 486,
-                                "resize": "fit"
-                            }
-                        },
-                        "ext_alt_text": null
-                    }
-                ]
-            },
-            "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
-            "user": {
-                "id": 3131310616,
-                "id_str": "3131310616"
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "is_quote_status": false,
-            "retweet_count": 1,
-            "favorite_count": 1,
-            "favorited": false,
-            "retweeted": true,
-            "possibly_sensitive": false,
-            "lang": "pt"
-        },
         "is_quote_status": false,
         "retweet_count": 1,
-        "favorite_count": 0,
+        "favorite_count": 1,
         "favorited": false,
         "retweeted": true,
+        "possibly_sensitive": false,
         "lang": "pt"
-    }
-]
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "pt"
+}

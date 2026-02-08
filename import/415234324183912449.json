@@ -1,61 +1,59 @@
-[
-    {
-        "created_at": "Mon Dec 23 21:35:52 +0000 2013",
-        "id": 415234324183912449,
-        "id_str": "415234324183912449",
-        "full_text": "Want to know what Henry Kissinger told the HAC about running @StateDept in November 1976? Read a transcript at http://t.co/G9pBhBaPOb",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            133
+{
+    "created_at": "Mon Dec 23 21:35:52 +0000 2013",
+    "id": 415234324183912450,
+    "id_str": "415234324183912449",
+    "full_text": "Want to know what Henry Kissinger told the HAC about running @StateDept in November 1976? Read a transcript at http://t.co/G9pBhBaPOb",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        133
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "StateDept",
+                "name": "Department of State",
+                "id": 9624742,
+                "id_str": "9624742",
+                "indices": [
+                    61,
+                    71
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "StateDept",
-                    "name": "Department of State",
-                    "id": 9624742,
-                    "id_str": "9624742",
-                    "indices": [
-                        61,
-                        71
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "http://t.co/G9pBhBaPOb",
-                    "expanded_url": "http://go.usa.gov/Z2Rw",
-                    "display_url": "go.usa.gov/Z2Rw",
-                    "indices": [
-                        111,
-                        133
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 3,
-        "favorite_count": 1,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "urls": [
+            {
+                "url": "http://t.co/G9pBhBaPOb",
+                "expanded_url": "http://go.usa.gov/Z2Rw",
+                "display_url": "go.usa.gov/Z2Rw",
+                "indices": [
+                    111,
+                    133
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

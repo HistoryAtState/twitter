@@ -1,69 +1,67 @@
-[
-    {
-        "created_at": "Mon May 14 16:45:10 +0000 2018",
-        "id": 996068915477401601,
-        "id_str": "996068915477401601",
-        "full_text": "Ground was broken for the @DiplomacyCenter, a museum and educational center located outside of the main Department of State building in Washington, DC, on September 3, 2014. https://t.co/1Ekyn1Hnoj #twitterstorians",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            214
+{
+    "created_at": "Mon May 14 16:45:10 +0000 2018",
+    "id": 996068915477401600,
+    "id_str": "996068915477401601",
+    "full_text": "Ground was broken for the @DiplomacyCenter, a museum and educational center located outside of the main Department of State building in Washington, DC, on September 3, 2014. https://t.co/1Ekyn1Hnoj #twitterstorians",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        214
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "twitterstorians",
+                "indices": [
+                    198,
+                    214
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "twitterstorians",
-                    "indices": [
-                        198,
-                        214
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "diplomacycenter",
-                    "name": "NMAD Museum",
-                    "id": 1180122509204701186,
-                    "id_str": "1180122509204701186",
-                    "indices": [
-                        26,
-                        42
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "https://t.co/1Ekyn1Hnoj",
-                    "expanded_url": "https://history.state.gov/departmenthistory/timeline/2010-2019",
-                    "display_url": "history.state.gov/departmenthist\u2026",
-                    "indices": [
-                        174,
-                        197
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 0,
-        "favorite_count": 1,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "diplomacycenter",
+                "name": "NMAD Museum",
+                "id": 1180122509204701180,
+                "id_str": "1180122509204701186",
+                "indices": [
+                    26,
+                    42
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/1Ekyn1Hnoj",
+                "expanded_url": "https://history.state.gov/departmenthistory/timeline/2010-2019",
+                "display_url": "history.state.gov/departmenthist…",
+                "indices": [
+                    174,
+                    197
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

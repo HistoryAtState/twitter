@@ -1,50 +1,48 @@
-[
-    {
-        "created_at": "Wed Sep 17 17:23:11 +0000 2014",
-        "id": 512290682699280384,
-        "id_str": "512290682699280384",
-        "full_text": "NEW: Office of the Historian's \u201cViews From the Embassy: The Role of U.S. Diplomatic Community in France, 1914\u201d http://t.co/Oiy4MIffNs",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            133
-        ],
-        "entities": {
-            "hashtags": [],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "http://t.co/Oiy4MIffNs",
-                    "expanded_url": "http://go.usa.gov/pKZx",
-                    "display_url": "go.usa.gov/pKZx",
-                    "indices": [
-                        111,
-                        133
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 5,
-        "favorite_count": 4,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+{
+    "created_at": "Wed Sep 17 17:23:11 +0000 2014",
+    "id": 512290682699280380,
+    "id_str": "512290682699280384",
+    "full_text": "NEW: Office of the Historian's “Views From the Embassy: The Role of U.S. Diplomatic Community in France, 1914” http://t.co/Oiy4MIffNs",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        133
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "http://t.co/Oiy4MIffNs",
+                "expanded_url": "http://go.usa.gov/pKZx",
+                "display_url": "go.usa.gov/pKZx",
+                "indices": [
+                    111,
+                    133
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

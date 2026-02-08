@@ -1,65 +1,63 @@
-[
-    {
-        "created_at": "Thu Nov 19 18:01:39 +0000 2015",
-        "id": 667402369584472064,
-        "id_str": "667402369584472064",
-        "full_text": "How did the U.S. respond to the biological weapons incident at Sverdlovsk in 1979? https://t.co/38ztnv7kz2 #FRUS #twitterstorians",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            129
+{
+    "created_at": "Thu Nov 19 18:01:39 +0000 2015",
+    "id": 667402369584472060,
+    "id_str": "667402369584472064",
+    "full_text": "How did the U.S. respond to the biological weapons incident at Sverdlovsk in 1979? https://t.co/38ztnv7kz2 #FRUS #twitterstorians",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        129
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FRUS",
+                "indices": [
+                    107,
+                    112
+                ]
+            },
+            {
+                "text": "twitterstorians",
+                "indices": [
+                    113,
+                    129
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        107,
-                        112
-                    ]
-                },
-                {
-                    "text": "twitterstorians",
-                    "indices": [
-                        113,
-                        129
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "https://t.co/38ztnv7kz2",
-                    "expanded_url": "http://go.usa.gov/caK64",
-                    "display_url": "go.usa.gov/caK64",
-                    "indices": [
-                        83,
-                        106
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 2,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/38ztnv7kz2",
+                "expanded_url": "http://go.usa.gov/caK64",
+                "display_url": "go.usa.gov/caK64",
+                "indices": [
+                    83,
+                    106
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

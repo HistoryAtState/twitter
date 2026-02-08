@@ -1,69 +1,67 @@
-[
-    {
-        "created_at": "Thu Feb 26 18:35:44 +0000 2015",
-        "id": 571015773768056833,
-        "id_str": "571015773768056833",
-        "full_text": "Happy birthday George H Jackson, fmr consul &amp; president of @ASRofficiel rugby club. Learn more of his story #BHM2015 http://t.co/CYAIEwxuJd",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            143
+{
+    "created_at": "Thu Feb 26 18:35:44 +0000 2015",
+    "id": 571015773768056830,
+    "id_str": "571015773768056833",
+    "full_text": "Happy birthday George H Jackson, fmr consul &amp;amp; president of @ASRofficiel rugby club. Learn more of his story #BHM2015 http://t.co/CYAIEwxuJd",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        143
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "BHM2015",
+                "indices": [
+                    112,
+                    120
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "BHM2015",
-                    "indices": [
-                        112,
-                        120
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "ASRofficiel",
-                    "name": "@ASROfficiel",
-                    "id": 761665643049578496,
-                    "id_str": "761665643049578496",
-                    "indices": [
-                        63,
-                        75
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "http://t.co/CYAIEwxuJd",
-                    "expanded_url": "http://ow.ly/JGYzn",
-                    "display_url": "ow.ly/JGYzn",
-                    "indices": [
-                        121,
-                        143
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 2,
-        "favorite_count": 1,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ASRofficiel",
+                "name": "@ASROfficiel",
+                "id": 761665643049578500,
+                "id_str": "761665643049578496",
+                "indices": [
+                    63,
+                    75
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "http://t.co/CYAIEwxuJd",
+                "expanded_url": "http://ow.ly/JGYzn",
+                "display_url": "ow.ly/JGYzn",
+                "indices": [
+                    121,
+                    143
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

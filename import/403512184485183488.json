@@ -1,58 +1,56 @@
-[
-    {
-        "created_at": "Thu Nov 21 13:16:16 +0000 2013",
-        "id": 403512184485183488,
-        "id_str": "403512184485183488",
-        "full_text": "#FEP focus changed in 1970s. 1st US trade deficit since 1880s/90s was 1971; thus by Carter it was more important http://t.co/NqxmGgpBsb",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            135
+{
+    "created_at": "Thu Nov 21 13:16:16 +0000 2013",
+    "id": 403512184485183490,
+    "id_str": "403512184485183488",
+    "full_text": "#FEP focus changed in 1970s. 1st US trade deficit since 1880s/90s was 1971; thus by Carter it was more important http://t.co/NqxmGgpBsb",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        135
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FEP",
+                "indices": [
+                    0,
+                    4
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "FEP",
-                    "indices": [
-                        0,
-                        4
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "http://t.co/NqxmGgpBsb",
-                    "expanded_url": "http://ow.ly/qYvhb",
-                    "display_url": "ow.ly/qYvhb",
-                    "indices": [
-                        113,
-                        135
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 1,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "http://t.co/NqxmGgpBsb",
+                "expanded_url": "http://ow.ly/qYvhb",
+                "display_url": "ow.ly/qYvhb",
+                "indices": [
+                    113,
+                    135
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

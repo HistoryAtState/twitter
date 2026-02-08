@@ -1,65 +1,63 @@
-[
-    {
-        "created_at": "Wed Aug 31 12:31:41 +0000 2016",
-        "id": 770962259615051776,
-        "id_str": "770962259615051776",
-        "full_text": "Now available: Foreign Relations, 1937, General, Vol. I https://t.co/5WWaYQJj55 #FRUS #twitterstorians",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            102
+{
+    "created_at": "Wed Aug 31 12:31:41 +0000 2016",
+    "id": 770962259615051780,
+    "id_str": "770962259615051776",
+    "full_text": "Now available: Foreign Relations, 1937, General, Vol. I https://t.co/5WWaYQJj55 #FRUS #twitterstorians",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        102
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FRUS",
+                "indices": [
+                    80,
+                    85
+                ]
+            },
+            {
+                "text": "twitterstorians",
+                "indices": [
+                    86,
+                    102
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        80,
-                        85
-                    ]
-                },
-                {
-                    "text": "twitterstorians",
-                    "indices": [
-                        86,
-                        102
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "https://t.co/5WWaYQJj55",
-                    "expanded_url": "http://go.usa.gov/xDeYe",
-                    "display_url": "go.usa.gov/xDeYe",
-                    "indices": [
-                        56,
-                        79
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 2,
-        "favorite_count": 1,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/5WWaYQJj55",
+                "expanded_url": "http://go.usa.gov/xDeYe",
+                "display_url": "go.usa.gov/xDeYe",
+                "indices": [
+                    56,
+                    79
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

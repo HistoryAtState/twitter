@@ -1,47 +1,45 @@
-[
-    {
-        "created_at": "Wed May 30 13:50:33 +0000 2018",
-        "id": 1001823180569366528,
-        "id_str": "1001823180569366528",
-        "full_text": "May 30 President Reagan spoke at the Danilov Monastery in #Moscow: \u201cThere are many ties of faith that bind your country and mine. We have in America many churches, many creeds, that feel a special kinship with their fellow believers here\u2014 (1/2)",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            244
+{
+    "created_at": "Wed May 30 13:50:33 +0000 2018",
+    "id": 1001823180569366530,
+    "id_str": "1001823180569366528",
+    "full_text": "May 30 President Reagan spoke at the Danilov Monastery in #Moscow: “There are many ties of faith that bind your country and mine. We have in America many churches, many creeds, that feel a special kinship with their fellow believers here— (1/2)",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        244
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Moscow",
+                "indices": [
+                    58,
+                    65
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "Moscow",
-                    "indices": [
-                        58,
-                        65
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": []
-        },
-        "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 0,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

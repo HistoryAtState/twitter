@@ -1,70 +1,68 @@
-[
-    {
-        "created_at": "Wed Jul 11 15:30:12 +0000 2018",
-        "id": 1017068548106149889,
-        "id_str": "1017068548106149889",
-        "full_text": "We are searching for virtual interns with XML or TEI coding experience to apply subject tags to the @HistoryAtState Admin Timeline (https://t.co/V8PEwXGrux) https://t.co/Nxz46tHvqH",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            180
+{
+    "created_at": "Wed Jul 11 15:30:12 +0000 2018",
+    "id": 1017068548106149890,
+    "id_str": "1017068548106149889",
+    "full_text": "We are searching for virtual interns with XML or TEI coding experience to apply subject tags to the @HistoryAtState Admin Timeline (https://t.co/V8PEwXGrux) https://t.co/Nxz46tHvqH",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        180
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "HistoryAtState",
+                "name": "HistoryAtState",
+                "id": 586570880,
+                "id_str": "586570880",
+                "indices": [
+                    100,
+                    115
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "HistoryAtState",
-                    "name": "HistoryAtState",
-                    "id": 586570880,
-                    "id_str": "586570880",
-                    "indices": [
-                        100,
-                        115
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "https://t.co/V8PEwXGrux",
-                    "expanded_url": "https://history.state.gov/departmenthistory/timeline",
-                    "display_url": "history.state.gov/departmenthist\u2026",
-                    "indices": [
-                        132,
-                        155
-                    ]
-                },
-                {
-                    "url": "https://t.co/Nxz46tHvqH",
-                    "expanded_url": "https://vsfs.state.gov/projects/view/1307",
-                    "display_url": "vsfs.state.gov/projects/view/\u2026",
-                    "indices": [
-                        157,
-                        180
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 8,
-        "favorite_count": 4,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "urls": [
+            {
+                "url": "https://t.co/V8PEwXGrux",
+                "expanded_url": "https://history.state.gov/departmenthistory/timeline",
+                "display_url": "history.state.gov/departmenthist…",
+                "indices": [
+                    132,
+                    155
+                ]
+            },
+            {
+                "url": "https://t.co/Nxz46tHvqH",
+                "expanded_url": "https://vsfs.state.gov/projects/view/1307",
+                "display_url": "vsfs.state.gov/projects/view/…",
+                "indices": [
+                    157,
+                    180
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

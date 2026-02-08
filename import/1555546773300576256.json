@@ -1,70 +1,68 @@
-[
-    {
-        "created_at": "Fri Aug 05 13:30:26 +0000 2022",
-        "id": 1555546773300576256,
-        "id_str": "1555546773300576256",
-        "full_text": "\ud83d\udcf7 @FDRLibrary \n\u2022 ID #47961214: https://t.co/Ra3A91P9QX\n\u2022 ID #47961812: https://t.co/hFMlwHs3fz\n\n(2/2)",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            101
+{
+    "created_at": "Fri Aug 05 13:30:26 +0000 2022",
+    "id": 1555546773300576260,
+    "id_str": "1555546773300576256",
+    "full_text": "📷 @FDRLibrary \n• ID #47961214: https://t.co/Ra3A91P9QX\n• ID #47961812: https://t.co/hFMlwHs3fz\n\n(2/2)",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        101
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "FDRLibrary",
+                "name": "FDR Library",
+                "id": 293650530,
+                "id_str": "293650530",
+                "indices": [
+                    2,
+                    13
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "FDRLibrary",
-                    "name": "FDR Library",
-                    "id": 293650530,
-                    "id_str": "293650530",
-                    "indices": [
-                        2,
-                        13
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "https://t.co/Ra3A91P9QX",
-                    "expanded_url": "http://ow.ly/eI5i50KbWcw",
-                    "display_url": "ow.ly/eI5i50KbWcw",
-                    "indices": [
-                        31,
-                        54
-                    ]
-                },
-                {
-                    "url": "https://t.co/hFMlwHs3fz",
-                    "expanded_url": "http://ow.ly/EG3h50KbRaI",
-                    "display_url": "ow.ly/EG3h50KbRaI",
-                    "indices": [
-                        71,
-                        94
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 0,
-        "favorite_count": 1,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "urls": [
+            {
+                "url": "https://t.co/Ra3A91P9QX",
+                "expanded_url": "http://ow.ly/eI5i50KbWcw",
+                "display_url": "ow.ly/eI5i50KbWcw",
+                "indices": [
+                    31,
+                    54
+                ]
+            },
+            {
+                "url": "https://t.co/hFMlwHs3fz",
+                "expanded_url": "http://ow.ly/EG3h50KbRaI",
+                "display_url": "ow.ly/EG3h50KbRaI",
+                "indices": [
+                    71,
+                    94
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

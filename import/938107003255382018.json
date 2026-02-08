@@ -1,65 +1,63 @@
-[
-    {
-        "created_at": "Tue Dec 05 18:05:13 +0000 2017",
-        "id": 938107003255382018,
-        "id_str": "938107003255382018",
-        "full_text": "Murrow provides views on role of cultural activities in pursuit of U.S. policy: https://t.co/oV6joyFN3K #FRUS #twitterstorians",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            126
+{
+    "created_at": "Tue Dec 05 18:05:13 +0000 2017",
+    "id": 938107003255382020,
+    "id_str": "938107003255382018",
+    "full_text": "Murrow provides views on role of cultural activities in pursuit of U.S. policy: https://t.co/oV6joyFN3K #FRUS #twitterstorians",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        126
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FRUS",
+                "indices": [
+                    104,
+                    109
+                ]
+            },
+            {
+                "text": "twitterstorians",
+                "indices": [
+                    110,
+                    126
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        104,
-                        109
-                    ]
-                },
-                {
-                    "text": "twitterstorians",
-                    "indices": [
-                        110,
-                        126
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "https://t.co/oV6joyFN3K",
-                    "expanded_url": "https://history.state.gov/historicaldocuments/frus1917-72PubDipv06/d10",
-                    "display_url": "history.state.gov/historicaldocu\u2026",
-                    "indices": [
-                        80,
-                        103
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 3,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/oV6joyFN3K",
+                "expanded_url": "https://history.state.gov/historicaldocuments/frus1917-72PubDipv06/d10",
+                "display_url": "history.state.gov/historicaldocu…",
+                "indices": [
+                    80,
+                    103
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

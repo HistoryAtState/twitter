@@ -1,58 +1,56 @@
-[
-    {
-        "created_at": "Thu Jun 26 10:58:17 +0000 2014",
-        "id": 482115627428360192,
-        "id_str": "482115627428360192",
-        "full_text": "Which US Ambassador was a 49er\u2019s son? Amb. Marye also served in Petrograd on the eve of Revolution #WW1 http://t.co/oqCiOckPWM",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            126
+{
+    "created_at": "Thu Jun 26 10:58:17 +0000 2014",
+    "id": 482115627428360190,
+    "id_str": "482115627428360192",
+    "full_text": "Which US Ambassador was a 49er’s son? Amb. Marye also served in Petrograd on the eve of Revolution #WW1 http://t.co/oqCiOckPWM",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        126
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "WW1",
+                "indices": [
+                    99,
+                    103
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "WW1",
-                    "indices": [
-                        99,
-                        103
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "http://t.co/oqCiOckPWM",
-                    "expanded_url": "http://ow.ly/yte6w",
-                    "display_url": "ow.ly/yte6w",
-                    "indices": [
-                        104,
-                        126
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 2,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "http://t.co/oqCiOckPWM",
+                "expanded_url": "http://ow.ly/yte6w",
+                "display_url": "ow.ly/yte6w",
+                "indices": [
+                    104,
+                    126
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

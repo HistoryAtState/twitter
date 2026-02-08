@@ -1,65 +1,63 @@
-[
-    {
-        "created_at": "Fri Jun 03 14:00:51 +0000 2016",
-        "id": 738732180696924160,
-        "id_str": "738732180696924160",
-        "full_text": "Now available: Foreign Relations, 1940, The Far East, Vol. IV: https://t.co/pvoJ08L1nV #FRUS #twitterstorians",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            109
+{
+    "created_at": "Fri Jun 03 14:00:51 +0000 2016",
+    "id": 738732180696924160,
+    "id_str": "738732180696924160",
+    "full_text": "Now available: Foreign Relations, 1940, The Far East, Vol. IV: https://t.co/pvoJ08L1nV #FRUS #twitterstorians",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        109
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FRUS",
+                "indices": [
+                    87,
+                    92
+                ]
+            },
+            {
+                "text": "twitterstorians",
+                "indices": [
+                    93,
+                    109
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        87,
-                        92
-                    ]
-                },
-                {
-                    "text": "twitterstorians",
-                    "indices": [
-                        93,
-                        109
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "https://t.co/pvoJ08L1nV",
-                    "expanded_url": "https://history.state.gov/historicaldocuments/frus1940v04",
-                    "display_url": "history.state.gov/historicaldocu\u2026",
-                    "indices": [
-                        63,
-                        86
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 4,
-        "favorite_count": 1,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/pvoJ08L1nV",
+                "expanded_url": "https://history.state.gov/historicaldocuments/frus1940v04",
+                "display_url": "history.state.gov/historicaldocu…",
+                "indices": [
+                    63,
+                    86
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

@@ -1,54 +1,52 @@
-[
-    {
-        "created_at": "Fri Sep 15 14:05:10 +0000 2017",
-        "id": 908693174704594945,
-        "id_str": "908693174704594945",
-        "full_text": "There\u2019s no zone like ozone! The 30th anniversary of the #MontrealProtocol is tomorrow. Stay tuned for a #FRUS compilation on the subject!",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            137
+{
+    "created_at": "Fri Sep 15 14:05:10 +0000 2017",
+    "id": 908693174704594940,
+    "id_str": "908693174704594945",
+    "full_text": "There’s no zone like ozone! The 30th anniversary of the #MontrealProtocol is tomorrow. Stay tuned for a #FRUS compilation on the subject!",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        137
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "MontrealProtocol",
+                "indices": [
+                    56,
+                    73
+                ]
+            },
+            {
+                "text": "FRUS",
+                "indices": [
+                    104,
+                    109
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "MontrealProtocol",
-                    "indices": [
-                        56,
-                        73
-                    ]
-                },
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        104,
-                        109
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": []
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 5,
-        "favorite_count": 8,
-        "favorited": false,
-        "retweeted": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

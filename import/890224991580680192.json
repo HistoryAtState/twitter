@@ -1,210 +1,194 @@
-[
-    {
-        "created_at": "Wed Jul 26 14:59:12 +0000 2017",
-        "id": 890224991580680192,
-        "id_str": "890224991580680192",
-        "full_text": "RT @VSFSatState: #applyVSFS by Wednesday, August 2, at 11:59 p.m. EST --&gt; https://t.co/J0zJ8kyBoe https://t.co/xDtA77Gj49",
+{
+    "created_at": "Wed Jul 26 14:59:12 +0000 2017",
+    "id": 890224991580680190,
+    "id_str": "890224991580680192",
+    "full_text": "RT @VSFSatState: #applyVSFS by Wednesday, August 2, at 11:59 p.m. EST --&amp;gt; https://t.co/J0zJ8kyBoe https://t.co/xDtA77Gj49",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        124
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "applyVSFS",
+                "indices": [
+                    17,
+                    27
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "VSFSatState",
+                "name": "Virtual Student Federal Service",
+                "id": 169927909,
+                "id_str": "169927909",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/J0zJ8kyBoe",
+                "expanded_url": "http://go.usa.gov/xN6DF",
+                "display_url": "go.usa.gov/xN6DF",
+                "indices": [
+                    77,
+                    100
+                ]
+            },
+            {
+                "url": "https://t.co/xDtA77Gj49",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/881920784398262274",
+                "display_url": "twitter.com/HistoryAtState…",
+                "indices": [
+                    101,
+                    124
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"&gt;Twitter for iPad&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 25 17:17:44 +0000 2017",
+        "id": 889897466346254340,
+        "id_str": "889897466346254336",
+        "full_text": "#applyVSFS by Wednesday, August 2, at 11:59 p.m. EST --&amp;gt; https://t.co/J0zJ8kyBoe https://t.co/xDtA77Gj49",
         "truncated": false,
         "display_text_range": [
             0,
-            124
+            83
         ],
         "entities": {
             "hashtags": [
                 {
                     "text": "applyVSFS",
                     "indices": [
-                        17,
-                        27
+                        0,
+                        10
                     ]
                 }
             ],
             "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "VSFSatState",
-                    "name": "Virtual Student Federal Service",
-                    "id": 169927909,
-                    "id_str": "169927909",
-                    "indices": [
-                        3,
-                        15
-                    ]
-                }
-            ],
+            "user_mentions": [],
             "urls": [
                 {
                     "url": "https://t.co/J0zJ8kyBoe",
                     "expanded_url": "http://go.usa.gov/xN6DF",
                     "display_url": "go.usa.gov/xN6DF",
                     "indices": [
-                        77,
-                        100
+                        60,
+                        83
                     ]
                 },
                 {
                     "url": "https://t.co/xDtA77Gj49",
                     "expanded_url": "https://twitter.com/HistoryAtState/status/881920784398262274",
-                    "display_url": "twitter.com/HistoryAtState\u2026",
+                    "display_url": "twitter.com/HistoryAtState…",
                     "indices": [
-                        101,
-                        124
+                        84,
+                        107
                     ]
                 }
             ]
         },
-        "source": "\u003ca href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c/a\u003e",
+        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
         "in_reply_to_screen_name": null,
         "user": {
-            "id": 586570880,
-            "id_str": "586570880"
+            "id": 169927909,
+            "id_str": "169927909"
         },
         "geo": null,
         "coordinates": null,
         "place": null,
         "contributors": null,
-        "retweeted_status": {
-            "created_at": "Tue Jul 25 17:17:44 +0000 2017",
-            "id": 889897466346254336,
-            "id_str": "889897466346254336",
-            "full_text": "#applyVSFS by Wednesday, August 2, at 11:59 p.m. EST --&gt; https://t.co/J0zJ8kyBoe https://t.co/xDtA77Gj49",
+        "is_quote_status": true,
+        "quoted_status_id": 881920784398262270,
+        "quoted_status_id_str": "881920784398262274",
+        "quoted_status_permalink": {
+            "url": "https://t.co/xDtA77Gj49",
+            "expanded": "https://twitter.com/HistoryAtState/status/881920784398262274",
+            "display": "twitter.com/HistoryAtState…"
+        },
+        "quoted_status": {
+            "created_at": "Mon Jul 03 17:01:14 +0000 2017",
+            "id": 881920784398262270,
+            "id_str": "881920784398262274",
+            "full_text": "We need history students skilled at research for a timeline of State Dept history: https://t.co/jkXrakeUf6 @VSFSAtState",
             "truncated": false,
             "display_text_range": [
                 0,
-                83
+                119
             ],
             "entities": {
-                "hashtags": [
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
                     {
-                        "text": "applyVSFS",
+                        "screen_name": "VSFSatState",
+                        "name": "Virtual Student Federal Service",
+                        "id": 169927909,
+                        "id_str": "169927909",
                         "indices": [
-                            0,
-                            10
+                            107,
+                            119
                         ]
                     }
                 ],
-                "symbols": [],
-                "user_mentions": [],
                 "urls": [
                     {
-                        "url": "https://t.co/J0zJ8kyBoe",
-                        "expanded_url": "http://go.usa.gov/xN6DF",
-                        "display_url": "go.usa.gov/xN6DF",
+                        "url": "https://t.co/jkXrakeUf6",
+                        "expanded_url": "https://vsfs.state.gov/projects/view/734",
+                        "display_url": "vsfs.state.gov/projects/view/…",
                         "indices": [
-                            60,
-                            83
-                        ]
-                    },
-                    {
-                        "url": "https://t.co/xDtA77Gj49",
-                        "expanded_url": "https://twitter.com/HistoryAtState/status/881920784398262274",
-                        "display_url": "twitter.com/HistoryAtState\u2026",
-                        "indices": [
-                            84,
-                            107
+                            83,
+                            106
                         ]
                     }
                 ]
             },
-            "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
+            "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
             "in_reply_to_status_id": null,
             "in_reply_to_status_id_str": null,
             "in_reply_to_user_id": null,
             "in_reply_to_user_id_str": null,
             "in_reply_to_screen_name": null,
             "user": {
-                "id": 169927909,
-                "id_str": "169927909"
+                "id": 586570880,
+                "id_str": "586570880"
             },
             "geo": null,
             "coordinates": null,
             "place": null,
             "contributors": null,
-            "is_quote_status": true,
-            "quoted_status_id": 881920784398262274,
-            "quoted_status_id_str": "881920784398262274",
-            "quoted_status_permalink": {
-                "url": "https://t.co/xDtA77Gj49",
-                "expanded": "https://twitter.com/HistoryAtState/status/881920784398262274",
-                "display": "twitter.com/HistoryAtState\u2026"
-            },
-            "quoted_status": {
-                "created_at": "Mon Jul 03 17:01:14 +0000 2017",
-                "id": 881920784398262274,
-                "id_str": "881920784398262274",
-                "full_text": "We need history students skilled at research for a timeline of State Dept history: https://t.co/jkXrakeUf6 @VSFSAtState",
-                "truncated": false,
-                "display_text_range": [
-                    0,
-                    119
-                ],
-                "entities": {
-                    "hashtags": [],
-                    "symbols": [],
-                    "user_mentions": [
-                        {
-                            "screen_name": "VSFSatState",
-                            "name": "Virtual Student Federal Service",
-                            "id": 169927909,
-                            "id_str": "169927909",
-                            "indices": [
-                                107,
-                                119
-                            ]
-                        }
-                    ],
-                    "urls": [
-                        {
-                            "url": "https://t.co/jkXrakeUf6",
-                            "expanded_url": "https://vsfs.state.gov/projects/view/734",
-                            "display_url": "vsfs.state.gov/projects/view/\u2026",
-                            "indices": [
-                                83,
-                                106
-                            ]
-                        }
-                    ]
-                },
-                "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-                "in_reply_to_status_id": null,
-                "in_reply_to_status_id_str": null,
-                "in_reply_to_user_id": null,
-                "in_reply_to_user_id_str": null,
-                "in_reply_to_screen_name": null,
-                "user": {
-                    "id": 586570880,
-                    "id_str": "586570880"
-                },
-                "geo": null,
-                "coordinates": null,
-                "place": null,
-                "contributors": null,
-                "is_quote_status": false,
-                "retweet_count": 23,
-                "favorite_count": 14,
-                "favorited": false,
-                "retweeted": false,
-                "possibly_sensitive": false,
-                "lang": "en"
-            },
-            "retweet_count": 2,
-            "favorite_count": 0,
+            "is_quote_status": false,
+            "retweet_count": 23,
+            "favorite_count": 14,
             "favorited": false,
-            "retweeted": true,
+            "retweeted": false,
             "possibly_sensitive": false,
             "lang": "en"
-        },
-        "is_quote_status": true,
-        "quoted_status_id": 881920784398262274,
-        "quoted_status_id_str": "881920784398262274",
-        "quoted_status_permalink": {
-            "url": "https://t.co/xDtA77Gj49",
-            "expanded": "https://twitter.com/HistoryAtState/status/881920784398262274",
-            "display": "twitter.com/HistoryAtState\u2026"
         },
         "retweet_count": 2,
         "favorite_count": 0,
@@ -212,5 +196,19 @@
         "retweeted": true,
         "possibly_sensitive": false,
         "lang": "en"
-    }
-]
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 881920784398262270,
+    "quoted_status_id_str": "881920784398262274",
+    "quoted_status_permalink": {
+        "url": "https://t.co/xDtA77Gj49",
+        "expanded": "https://twitter.com/HistoryAtState/status/881920784398262274",
+        "display": "twitter.com/HistoryAtState…"
+    },
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

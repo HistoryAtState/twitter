@@ -1,65 +1,63 @@
-[
-    {
-        "created_at": "Thu Mar 31 18:02:22 +0000 2016",
-        "id": 715600135699492864,
-        "id_str": "715600135699492864",
-        "full_text": "Read documents on the Nixon administration and conferences on nuclear disarmament, 1969\u201372, here: https://t.co/4A30BgY703 #FRUS #NSS2016",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            136
+{
+    "created_at": "Thu Mar 31 18:02:22 +0000 2016",
+    "id": 715600135699492860,
+    "id_str": "715600135699492864",
+    "full_text": "Read documents on the Nixon administration and conferences on nuclear disarmament, 1969–72, here: https://t.co/4A30BgY703 #FRUS #NSS2016",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        136
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FRUS",
+                "indices": [
+                    122,
+                    127
+                ]
+            },
+            {
+                "text": "NSS2016",
+                "indices": [
+                    128,
+                    136
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        122,
-                        127
-                    ]
-                },
-                {
-                    "text": "NSS2016",
-                    "indices": [
-                        128,
-                        136
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "https://t.co/4A30BgY703",
-                    "expanded_url": "https://history.state.gov/historicaldocuments/frus1969-76ve02/ch5",
-                    "display_url": "history.state.gov/historicaldocu\u2026",
-                    "indices": [
-                        98,
-                        121
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 1,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/4A30BgY703",
+                "expanded_url": "https://history.state.gov/historicaldocuments/frus1969-76ve02/ch5",
+                "display_url": "history.state.gov/historicaldocu…",
+                "indices": [
+                    98,
+                    121
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

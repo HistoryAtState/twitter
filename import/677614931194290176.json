@@ -1,51 +1,146 @@
-[
-    {
-        "created_at": "Thu Dec 17 22:22:43 +0000 2015",
-        "id": 677614931194290176,
-        "id_str": "677614931194290176",
-        "full_text": "RT @SportsDiplomacy: #Sports spotlite on Mal Whitfield, our 1st Sports Envoy, with a @StateDept #DipNote: https://t.co/sToocBriq1! @ECAatSt\u2026",
+{
+    "created_at": "Thu Dec 17 22:22:43 +0000 2015",
+    "id": 677614931194290180,
+    "id_str": "677614931194290176",
+    "full_text": "RT @SportsDiplomacy: #Sports spotlite on Mal Whitfield, our 1st Sports Envoy, with a @StateDept #DipNote: https://t.co/sToocBriq1! @ECAatSt…",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Sports",
+                "indices": [
+                    21,
+                    28
+                ]
+            },
+            {
+                "text": "DipNote",
+                "indices": [
+                    96,
+                    104
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "SportsDiplomacy",
+                "name": "SportsDiplomacy",
+                "id": 263724360,
+                "id_str": "263724360",
+                "indices": [
+                    3,
+                    19
+                ]
+            },
+            {
+                "screen_name": "StateDept",
+                "name": "Department of State",
+                "id": 9624742,
+                "id_str": "9624742",
+                "indices": [
+                    85,
+                    95
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/sToocBriq1",
+                "expanded_url": "http://goo.gl/K4ctaq",
+                "display_url": "goo.gl/K4ctaq",
+                "indices": [
+                    106,
+                    129
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"&gt;Twitter for iPad&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Dec 17 22:19:54 +0000 2015",
+        "id": 677614223174868990,
+        "id_str": "677614223174868993",
+        "full_text": "#Sports spotlite on Mal Whitfield, our 1st Sports Envoy, with a @StateDept #DipNote: https://t.co/sToocBriq1! @ECAatState @USATF @TeamUSA",
         "truncated": false,
         "display_text_range": [
             0,
-            140
+            137
         ],
         "entities": {
             "hashtags": [
                 {
                     "text": "Sports",
                     "indices": [
-                        21,
-                        28
+                        0,
+                        7
                     ]
                 },
                 {
                     "text": "DipNote",
                     "indices": [
-                        96,
-                        104
+                        75,
+                        83
                     ]
                 }
             ],
             "symbols": [],
             "user_mentions": [
                 {
-                    "screen_name": "SportsDiplomacy",
-                    "name": "SportsDiplomacy",
-                    "id": 263724360,
-                    "id_str": "263724360",
-                    "indices": [
-                        3,
-                        19
-                    ]
-                },
-                {
                     "screen_name": "StateDept",
                     "name": "Department of State",
                     "id": 9624742,
                     "id_str": "9624742",
                     "indices": [
-                        85,
-                        95
+                        64,
+                        74
+                    ]
+                },
+                {
+                    "screen_name": "ECAatState",
+                    "name": "Educational &amp; Cultural Affairs—U.S. Dept. of State",
+                    "id": 19006707,
+                    "id_str": "19006707",
+                    "indices": [
+                        110,
+                        121
+                    ]
+                },
+                {
+                    "screen_name": "usatf",
+                    "name": "USATF",
+                    "id": 19302184,
+                    "id_str": "19302184",
+                    "indices": [
+                        122,
+                        128
+                    ]
+                },
+                {
+                    "screen_name": "TeamUSA",
+                    "name": "Team USA",
+                    "id": 21870081,
+                    "id_str": "21870081",
+                    "indices": [
+                        129,
+                        137
                     ]
                 }
             ],
@@ -55,130 +150,26 @@
                     "expanded_url": "http://goo.gl/K4ctaq",
                     "display_url": "goo.gl/K4ctaq",
                     "indices": [
-                        106,
-                        129
+                        85,
+                        108
                     ]
                 }
             ]
         },
-        "source": "\u003ca href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c/a\u003e",
+        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
         "in_reply_to_screen_name": null,
         "user": {
-            "id": 586570880,
-            "id_str": "586570880"
+            "id": 263724360,
+            "id_str": "263724360"
         },
         "geo": null,
         "coordinates": null,
         "place": null,
         "contributors": null,
-        "retweeted_status": {
-            "created_at": "Thu Dec 17 22:19:54 +0000 2015",
-            "id": 677614223174868993,
-            "id_str": "677614223174868993",
-            "full_text": "#Sports spotlite on Mal Whitfield, our 1st Sports Envoy, with a @StateDept #DipNote: https://t.co/sToocBriq1! @ECAatState @USATF @TeamUSA",
-            "truncated": false,
-            "display_text_range": [
-                0,
-                137
-            ],
-            "entities": {
-                "hashtags": [
-                    {
-                        "text": "Sports",
-                        "indices": [
-                            0,
-                            7
-                        ]
-                    },
-                    {
-                        "text": "DipNote",
-                        "indices": [
-                            75,
-                            83
-                        ]
-                    }
-                ],
-                "symbols": [],
-                "user_mentions": [
-                    {
-                        "screen_name": "StateDept",
-                        "name": "Department of State",
-                        "id": 9624742,
-                        "id_str": "9624742",
-                        "indices": [
-                            64,
-                            74
-                        ]
-                    },
-                    {
-                        "screen_name": "ECAatState",
-                        "name": "Educational & Cultural Affairs\u2014U.S. Dept. of State",
-                        "id": 19006707,
-                        "id_str": "19006707",
-                        "indices": [
-                            110,
-                            121
-                        ]
-                    },
-                    {
-                        "screen_name": "usatf",
-                        "name": "USATF",
-                        "id": 19302184,
-                        "id_str": "19302184",
-                        "indices": [
-                            122,
-                            128
-                        ]
-                    },
-                    {
-                        "screen_name": "TeamUSA",
-                        "name": "Team USA",
-                        "id": 21870081,
-                        "id_str": "21870081",
-                        "indices": [
-                            129,
-                            137
-                        ]
-                    }
-                ],
-                "urls": [
-                    {
-                        "url": "https://t.co/sToocBriq1",
-                        "expanded_url": "http://goo.gl/K4ctaq",
-                        "display_url": "goo.gl/K4ctaq",
-                        "indices": [
-                            85,
-                            108
-                        ]
-                    }
-                ]
-            },
-            "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
-            "user": {
-                "id": 263724360,
-                "id_str": "263724360"
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "is_quote_status": false,
-            "retweet_count": 3,
-            "favorite_count": 0,
-            "favorited": false,
-            "retweeted": true,
-            "possibly_sensitive": false,
-            "lang": "en"
-        },
         "is_quote_status": false,
         "retweet_count": 3,
         "favorite_count": 0,
@@ -186,5 +177,12 @@
         "retweeted": true,
         "possibly_sensitive": false,
         "lang": "en"
-    }
-]
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

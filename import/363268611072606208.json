@@ -1,76 +1,74 @@
-[
-    {
-        "created_at": "Fri Aug 02 12:02:40 +0000 2013",
-        "id": 363268611072606208,
-        "id_str": "363268611072606208",
-        "full_text": "#OTD 1924 #SecState Charles Hughes in Belgium; rec\u2019d honorary degrees from Univs of Brussels &amp; Louvain http://t.co/sMjKeVq1k9 @USembbrussels",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            144
+{
+    "created_at": "Fri Aug 02 12:02:40 +0000 2013",
+    "id": 363268611072606210,
+    "id_str": "363268611072606208",
+    "full_text": "#OTD 1924 #SecState Charles Hughes in Belgium; rec’d honorary degrees from Univs of Brussels &amp;amp; Louvain http://t.co/sMjKeVq1k9 @USembbrussels",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        144
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "OTD",
+                "indices": [
+                    0,
+                    4
+                ]
+            },
+            {
+                "text": "SecState",
+                "indices": [
+                    10,
+                    19
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "OTD",
-                    "indices": [
-                        0,
-                        4
-                    ]
-                },
-                {
-                    "text": "SecState",
-                    "indices": [
-                        10,
-                        19
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "usembbrussels",
-                    "name": "US Embassy Brussels",
-                    "id": 19981036,
-                    "id_str": "19981036",
-                    "indices": [
-                        130,
-                        144
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "http://t.co/sMjKeVq1k9",
-                    "expanded_url": "http://go.usa.gov/jNER",
-                    "display_url": "go.usa.gov/jNER",
-                    "indices": [
-                        107,
-                        129
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 1,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "usembbrussels",
+                "name": "US Embassy Brussels",
+                "id": 19981036,
+                "id_str": "19981036",
+                "indices": [
+                    130,
+                    144
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "http://t.co/sMjKeVq1k9",
+                "expanded_url": "http://go.usa.gov/jNER",
+                "display_url": "go.usa.gov/jNER",
+                "indices": [
+                    107,
+                    129
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

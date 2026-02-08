@@ -1,132 +1,130 @@
-[
-    {
-        "created_at": "Thu Jul 27 16:23:38 +0000 2017",
-        "id": 890608629786624000,
-        "id_str": "890608629786624000",
-        "full_text": "RT @StateDeptDSS: DSS protects our SecStates and visiting dignitaries. Meet an agent who took down a gunman: https://t.co/stxWJz7YCD #TBT #\u2026",
+{
+    "created_at": "Thu Jul 27 16:23:38 +0000 2017",
+    "id": 890608629786624000,
+    "id_str": "890608629786624000",
+    "full_text": "RT @StateDeptDSS: DSS protects our SecStates and visiting dignitaries. Meet an agent who took down a gunman: https://t.co/stxWJz7YCD #TBT #…",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "TBT",
+                "indices": [
+                    133,
+                    137
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "StateDeptDSS",
+                "name": "statedeptdss",
+                "id": 834799740546056190,
+                "id_str": "834799740546056194",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/stxWJz7YCD",
+                "expanded_url": "http://ow.ly/TJI330dTNd4",
+                "display_url": "ow.ly/TJI330dTNd4",
+                "indices": [
+                    109,
+                    132
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"&gt;Twitter for iPad&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Jul 27 13:01:14 +0000 2017",
+        "id": 890557692896587780,
+        "id_str": "890557692896587777",
+        "full_text": "DSS protects our SecStates and visiting dignitaries. Meet an agent who took down a gunman: https://t.co/stxWJz7YCD #TBT #AmericanHeroes",
         "truncated": false,
         "display_text_range": [
             0,
-            140
+            135
         ],
         "entities": {
             "hashtags": [
                 {
                     "text": "TBT",
                     "indices": [
-                        133,
-                        137
+                        115,
+                        119
+                    ]
+                },
+                {
+                    "text": "AmericanHeroes",
+                    "indices": [
+                        120,
+                        135
                     ]
                 }
             ],
             "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "StateDeptDSS",
-                    "name": "statedeptdss",
-                    "id": 834799740546056194,
-                    "id_str": "834799740546056194",
-                    "indices": [
-                        3,
-                        16
-                    ]
-                }
-            ],
+            "user_mentions": [],
             "urls": [
                 {
                     "url": "https://t.co/stxWJz7YCD",
                     "expanded_url": "http://ow.ly/TJI330dTNd4",
                     "display_url": "ow.ly/TJI330dTNd4",
                     "indices": [
-                        109,
-                        132
+                        91,
+                        114
                     ]
                 }
             ]
         },
-        "source": "\u003ca href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c/a\u003e",
+        "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
         "in_reply_to_screen_name": null,
         "user": {
-            "id": 586570880,
-            "id_str": "586570880"
+            "id": 834799740546056190,
+            "id_str": "834799740546056194"
         },
         "geo": null,
         "coordinates": null,
         "place": null,
         "contributors": null,
-        "retweeted_status": {
-            "created_at": "Thu Jul 27 13:01:14 +0000 2017",
-            "id": 890557692896587777,
-            "id_str": "890557692896587777",
-            "full_text": "DSS protects our SecStates and visiting dignitaries. Meet an agent who took down a gunman: https://t.co/stxWJz7YCD #TBT #AmericanHeroes",
-            "truncated": false,
-            "display_text_range": [
-                0,
-                135
-            ],
-            "entities": {
-                "hashtags": [
-                    {
-                        "text": "TBT",
-                        "indices": [
-                            115,
-                            119
-                        ]
-                    },
-                    {
-                        "text": "AmericanHeroes",
-                        "indices": [
-                            120,
-                            135
-                        ]
-                    }
-                ],
-                "symbols": [],
-                "user_mentions": [],
-                "urls": [
-                    {
-                        "url": "https://t.co/stxWJz7YCD",
-                        "expanded_url": "http://ow.ly/TJI330dTNd4",
-                        "display_url": "ow.ly/TJI330dTNd4",
-                        "indices": [
-                            91,
-                            114
-                        ]
-                    }
-                ]
-            },
-            "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
-            "user": {
-                "id": 834799740546056194,
-                "id_str": "834799740546056194"
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "is_quote_status": false,
-            "retweet_count": 2,
-            "favorite_count": 8,
-            "favorited": false,
-            "retweeted": true,
-            "possibly_sensitive": false,
-            "lang": "en"
-        },
         "is_quote_status": false,
         "retweet_count": 2,
-        "favorite_count": 0,
+        "favorite_count": 8,
         "favorited": false,
         "retweeted": true,
         "possibly_sensitive": false,
         "lang": "en"
-    }
-]
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

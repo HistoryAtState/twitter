@@ -1,72 +1,70 @@
-[
-    {
-        "created_at": "Thu Feb 22 16:50:05 +0000 2018",
-        "id": 966716735620599808,
-        "id_str": "966716735620599808",
-        "full_text": "Margaritas in #FRUS: Margarita Ayala appointed in #Paraguay as Disbursing Secretary of Colegio Alem\u00e1n https://t.co/fHfwxFwkP9 #NationalMargaritaDay",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            147
+{
+    "created_at": "Thu Feb 22 16:50:05 +0000 2018",
+    "id": 966716735620599810,
+    "id_str": "966716735620599808",
+    "full_text": "Margaritas in #FRUS: Margarita Ayala appointed in #Paraguay as Disbursing Secretary of Colegio Alemán https://t.co/fHfwxFwkP9 #NationalMargaritaDay",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        147
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FRUS",
+                "indices": [
+                    14,
+                    19
+                ]
+            },
+            {
+                "text": "Paraguay",
+                "indices": [
+                    50,
+                    59
+                ]
+            },
+            {
+                "text": "NationalMargaritaDay",
+                "indices": [
+                    126,
+                    147
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        14,
-                        19
-                    ]
-                },
-                {
-                    "text": "Paraguay",
-                    "indices": [
-                        50,
-                        59
-                    ]
-                },
-                {
-                    "text": "NationalMargaritaDay",
-                    "indices": [
-                        126,
-                        147
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "https://t.co/fHfwxFwkP9",
-                    "expanded_url": "https://go.usa.gov/xnMwm",
-                    "display_url": "go.usa.gov/xnMwm",
-                    "indices": [
-                        102,
-                        125
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 0,
-        "favorite_count": 1,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "es"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/fHfwxFwkP9",
+                "expanded_url": "https://go.usa.gov/xnMwm",
+                "display_url": "go.usa.gov/xnMwm",
+                "indices": [
+                    102,
+                    125
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

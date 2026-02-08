@@ -1,58 +1,56 @@
-[
-    {
-        "created_at": "Thu Dec 05 20:59:12 +0000 2019",
-        "id": 1202693930078392329,
-        "id_str": "1202693930078392329",
-        "full_text": "What did financial and monetary economic policy look like in the U.S. from 1961 to 1963? Check out this portion of the newly-digitized #FRUS supplement to find out: https://t.co/EIgrWZz6Ny",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            188
+{
+    "created_at": "Thu Dec 05 20:59:12 +0000 2019",
+    "id": 1202693930078392320,
+    "id_str": "1202693930078392329",
+    "full_text": "What did financial and monetary economic policy look like in the U.S. from 1961 to 1963? Check out this portion of the newly-digitized #FRUS supplement to find out: https://t.co/EIgrWZz6Ny",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        188
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FRUS",
+                "indices": [
+                    135,
+                    140
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        135,
-                        140
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "https://t.co/EIgrWZz6Ny",
-                    "expanded_url": "https://history.state.gov/historicaldocuments/frus1961-63v07-09mSupp/comp4",
-                    "display_url": "history.state.gov/historicaldocu\u2026",
-                    "indices": [
-                        165,
-                        188
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 2,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/EIgrWZz6Ny",
+                "expanded_url": "https://history.state.gov/historicaldocuments/frus1961-63v07-09mSupp/comp4",
+                "display_url": "history.state.gov/historicaldocu…",
+                "indices": [
+                    165,
+                    188
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

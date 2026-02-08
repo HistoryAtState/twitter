@@ -1,58 +1,56 @@
-[
-    {
-        "created_at": "Wed Nov 20 16:55:37 +0000 2013",
-        "id": 403204998039105536,
-        "id_str": "403204998039105536",
-        "full_text": "Foreign Economic Policy made easy: watch Dr Kathleen Rasmussen take the mystery out of #FEP under Carter admin http://t.co/Rw0HO3N1In",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            133
+{
+    "created_at": "Wed Nov 20 16:55:37 +0000 2013",
+    "id": 403204998039105540,
+    "id_str": "403204998039105536",
+    "full_text": "Foreign Economic Policy made easy: watch Dr Kathleen Rasmussen take the mystery out of #FEP under Carter admin http://t.co/Rw0HO3N1In",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        133
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FEP",
+                "indices": [
+                    87,
+                    91
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "FEP",
-                    "indices": [
-                        87,
-                        91
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "http://t.co/Rw0HO3N1In",
-                    "expanded_url": "http://ow.ly/qWY4C",
-                    "display_url": "ow.ly/qWY4C",
-                    "indices": [
-                        111,
-                        133
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 1,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "http://t.co/Rw0HO3N1In",
+                "expanded_url": "http://ow.ly/qWY4C",
+                "display_url": "ow.ly/qWY4C",
+                "indices": [
+                    111,
+                    133
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

@@ -1,106 +1,104 @@
-[
-    {
-        "created_at": "Fri Oct 25 18:15:04 +0000 2019",
-        "id": 1187794722355662850,
-        "id_str": "1187794722355662850",
-        "full_text": "RT @FSIatState: During WWI, U.S. diplomats serving in Europe helped 100,000+ U.S. citizens escape the fighting and return home, facilitated\u2026",
+{
+    "created_at": "Fri Oct 25 18:15:04 +0000 2019",
+    "id": 1187794722355662850,
+    "id_str": "1187794722355662850",
+    "full_text": "RT @FSIatState: During WWI, U.S. diplomats serving in Europe helped 100,000+ U.S. citizens escape the fighting and return home, facilitated…",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "FSIatState",
+                "name": "Foreign Service Institute",
+                "id": 958044239576948740,
+                "id_str": "958044239576948736",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Oct 24 19:30:24 +0000 2019",
+        "id": 1187451290567266300,
+        "id_str": "1187451290567266304",
+        "full_text": "During WWI, U.S. diplomats serving in Europe helped 100,000+ U.S. citizens escape the fighting and return home, facilitated the development and operation of hospitals, and mitigated disputes for prisoners of war. Learn about #HeroesofUSDiplomacy here: https://t.co/4D5leJ3WJC.",
         "truncated": false,
         "display_text_range": [
             0,
-            140
+            276
         ],
         "entities": {
-            "hashtags": [],
-            "symbols": [],
-            "user_mentions": [
+            "hashtags": [
                 {
-                    "screen_name": "FSIatState",
-                    "name": "Foreign Service Institute",
-                    "id": 958044239576948736,
-                    "id_str": "958044239576948736",
+                    "text": "HeroesofUSDiplomacy",
                     "indices": [
-                        3,
-                        14
+                        225,
+                        245
                     ]
                 }
             ],
-            "urls": []
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/4D5leJ3WJC",
+                    "expanded_url": "http://go.usa.gov/xp3FN",
+                    "display_url": "go.usa.gov/xp3FN",
+                    "indices": [
+                        252,
+                        275
+                    ]
+                }
+            ]
         },
-        "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+        "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
         "in_reply_to_screen_name": null,
         "user": {
-            "id": 586570880,
-            "id_str": "586570880"
+            "id": 958044239576948740,
+            "id_str": "958044239576948736"
         },
         "geo": null,
         "coordinates": null,
         "place": null,
         "contributors": null,
-        "retweeted_status": {
-            "created_at": "Thu Oct 24 19:30:24 +0000 2019",
-            "id": 1187451290567266304,
-            "id_str": "1187451290567266304",
-            "full_text": "During WWI, U.S. diplomats serving in Europe helped 100,000+ U.S. citizens escape the fighting and return home, facilitated the development and operation of hospitals, and mitigated disputes for prisoners of war. Learn about #HeroesofUSDiplomacy here: https://t.co/4D5leJ3WJC.",
-            "truncated": false,
-            "display_text_range": [
-                0,
-                276
-            ],
-            "entities": {
-                "hashtags": [
-                    {
-                        "text": "HeroesofUSDiplomacy",
-                        "indices": [
-                            225,
-                            245
-                        ]
-                    }
-                ],
-                "symbols": [],
-                "user_mentions": [],
-                "urls": [
-                    {
-                        "url": "https://t.co/4D5leJ3WJC",
-                        "expanded_url": "http://go.usa.gov/xp3FN",
-                        "display_url": "go.usa.gov/xp3FN",
-                        "indices": [
-                            252,
-                            275
-                        ]
-                    }
-                ]
-            },
-            "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
-            "user": {
-                "id": 958044239576948736,
-                "id_str": "958044239576948736"
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "is_quote_status": false,
-            "retweet_count": 4,
-            "favorite_count": 9,
-            "favorited": false,
-            "retweeted": true,
-            "possibly_sensitive": false,
-            "lang": "en"
-        },
         "is_quote_status": false,
         "retweet_count": 4,
-        "favorite_count": 0,
+        "favorite_count": 9,
         "favorited": false,
         "retweeted": true,
+        "possibly_sensitive": false,
         "lang": "en"
-    }
-]
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "en"
+}

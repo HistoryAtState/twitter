@@ -1,79 +1,77 @@
-[
-    {
-        "created_at": "Fri May 08 12:05:21 +0000 2015",
-        "id": 596647072243306496,
-        "id_str": "596647072243306496",
-        "full_text": "Which former #POTUS did Acting #SecState Grew quote in his May 8 1945 radio address? #VEDay70 #twitterstorians http://t.co/M1DmXPpo9z",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            133
+{
+    "created_at": "Fri May 08 12:05:21 +0000 2015",
+    "id": 596647072243306500,
+    "id_str": "596647072243306496",
+    "full_text": "Which former #POTUS did Acting #SecState Grew quote in his May 8 1945 radio address? #VEDay70 #twitterstorians http://t.co/M1DmXPpo9z",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        133
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "POTUS",
+                "indices": [
+                    13,
+                    19
+                ]
+            },
+            {
+                "text": "SecState",
+                "indices": [
+                    31,
+                    40
+                ]
+            },
+            {
+                "text": "VEDay70",
+                "indices": [
+                    85,
+                    93
+                ]
+            },
+            {
+                "text": "twitterstorians",
+                "indices": [
+                    94,
+                    110
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "POTUS",
-                    "indices": [
-                        13,
-                        19
-                    ]
-                },
-                {
-                    "text": "SecState",
-                    "indices": [
-                        31,
-                        40
-                    ]
-                },
-                {
-                    "text": "VEDay70",
-                    "indices": [
-                        85,
-                        93
-                    ]
-                },
-                {
-                    "text": "twitterstorians",
-                    "indices": [
-                        94,
-                        110
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "http://t.co/M1DmXPpo9z",
-                    "expanded_url": "http://ow.ly/MGCLK",
-                    "display_url": "ow.ly/MGCLK",
-                    "indices": [
-                        111,
-                        133
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 6,
-        "favorite_count": 2,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "http://t.co/M1DmXPpo9z",
+                "expanded_url": "http://ow.ly/MGCLK",
+                "display_url": "ow.ly/MGCLK",
+                "indices": [
+                    111,
+                    133
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

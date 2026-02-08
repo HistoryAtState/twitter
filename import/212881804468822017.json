@@ -1,125 +1,123 @@
-[
-    {
-        "created_at": "Wed Jun 13 12:19:11 +0000 2012",
-        "id": 212881804468822017,
-        "id_str": "212881804468822017",
-        "full_text": "RT @StateDept: #SecClinton announces June 14 as the first ever Global Economic Statecraft Day. http://t.co/kNIxtBN9",
+{
+    "created_at": "Wed Jun 13 12:19:11 +0000 2012",
+    "id": 212881804468822016,
+    "id_str": "212881804468822017",
+    "full_text": "RT @StateDept: #SecClinton announces June 14 as the first ever Global Economic Statecraft Day. http://t.co/kNIxtBN9",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        115
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "SecClinton",
+                "indices": [
+                    15,
+                    26
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "StateDept",
+                "name": "Department of State",
+                "id": 9624742,
+                "id_str": "9624742",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "http://t.co/kNIxtBN9",
+                "expanded_url": "http://youtu.be/y7Ume9PcYZc",
+                "display_url": "youtu.be/y7Ume9PcYZc",
+                "indices": [
+                    95,
+                    115
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jun 13 00:33:38 +0000 2012",
+        "id": 212704243398877184,
+        "id_str": "212704243398877184",
+        "full_text": "#SecClinton announces June 14 as the first ever Global Economic Statecraft Day. http://t.co/kNIxtBN9",
         "truncated": false,
         "display_text_range": [
             0,
-            115
+            100
         ],
         "entities": {
             "hashtags": [
                 {
                     "text": "SecClinton",
                     "indices": [
-                        15,
-                        26
+                        0,
+                        11
                     ]
                 }
             ],
             "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "StateDept",
-                    "name": "Department of State",
-                    "id": 9624742,
-                    "id_str": "9624742",
-                    "indices": [
-                        3,
-                        13
-                    ]
-                }
-            ],
+            "user_mentions": [],
             "urls": [
                 {
                     "url": "http://t.co/kNIxtBN9",
                     "expanded_url": "http://youtu.be/y7Ume9PcYZc",
                     "display_url": "youtu.be/y7Ume9PcYZc",
                     "indices": [
-                        95,
-                        115
+                        80,
+                        100
                     ]
                 }
             ]
         },
-        "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
+        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
         "in_reply_to_screen_name": null,
         "user": {
-            "id": 586570880,
-            "id_str": "586570880"
+            "id": 9624742,
+            "id_str": "9624742"
         },
         "geo": null,
         "coordinates": null,
         "place": null,
         "contributors": null,
-        "retweeted_status": {
-            "created_at": "Wed Jun 13 00:33:38 +0000 2012",
-            "id": 212704243398877184,
-            "id_str": "212704243398877184",
-            "full_text": "#SecClinton announces June 14 as the first ever Global Economic Statecraft Day. http://t.co/kNIxtBN9",
-            "truncated": false,
-            "display_text_range": [
-                0,
-                100
-            ],
-            "entities": {
-                "hashtags": [
-                    {
-                        "text": "SecClinton",
-                        "indices": [
-                            0,
-                            11
-                        ]
-                    }
-                ],
-                "symbols": [],
-                "user_mentions": [],
-                "urls": [
-                    {
-                        "url": "http://t.co/kNIxtBN9",
-                        "expanded_url": "http://youtu.be/y7Ume9PcYZc",
-                        "display_url": "youtu.be/y7Ume9PcYZc",
-                        "indices": [
-                            80,
-                            100
-                        ]
-                    }
-                ]
-            },
-            "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
-            "user": {
-                "id": 9624742,
-                "id_str": "9624742"
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "is_quote_status": false,
-            "retweet_count": 25,
-            "favorite_count": 1,
-            "favorited": false,
-            "retweeted": true,
-            "possibly_sensitive": false,
-            "lang": "en"
-        },
         "is_quote_status": false,
         "retweet_count": 25,
-        "favorite_count": 0,
+        "favorite_count": 1,
         "favorited": false,
         "retweeted": true,
         "possibly_sensitive": false,
         "lang": "en"
-    }
-]
+    },
+    "is_quote_status": false,
+    "retweet_count": 25,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

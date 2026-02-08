@@ -1,58 +1,56 @@
-[
-    {
-        "created_at": "Thu Apr 03 18:00:25 +0000 2014",
-        "id": 451781279608881152,
-        "id_str": "451781279608881152",
-        "full_text": "See how federal agencies meet digital publishing and archival challenges. Come check out the panel at #SHFG2014. http://t.co/77hxJw1x04",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            135
+{
+    "created_at": "Thu Apr 03 18:00:25 +0000 2014",
+    "id": 451781279608881150,
+    "id_str": "451781279608881152",
+    "full_text": "See how federal agencies meet digital publishing and archival challenges. Come check out the panel at #SHFG2014. http://t.co/77hxJw1x04",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        135
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "SHFG2014",
+                "indices": [
+                    102,
+                    111
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "SHFG2014",
-                    "indices": [
-                        102,
-                        111
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "http://t.co/77hxJw1x04",
-                    "expanded_url": "http://bit.ly/1khbSpX",
-                    "display_url": "bit.ly/1khbSpX",
-                    "indices": [
-                        113,
-                        135
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 1,
-        "favorite_count": 3,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "http://t.co/77hxJw1x04",
+                "expanded_url": "http://bit.ly/1khbSpX",
+                "display_url": "bit.ly/1khbSpX",
+                "indices": [
+                    113,
+                    135
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

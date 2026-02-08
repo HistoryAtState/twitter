@@ -1,114 +1,112 @@
-[
-    {
-        "created_at": "Tue Feb 11 12:49:31 +0000 2014",
-        "id": 433221257916862465,
-        "id_str": "433221257916862465",
-        "full_text": "RT @StateDept: Since 1778, U.S. diplomats have played an important role in advancing U.S.-#France relations. Learn more: http://t.co/dFeZVm\u2026",
+{
+    "created_at": "Tue Feb 11 12:49:31 +0000 2014",
+    "id": 433221257916862460,
+    "id_str": "433221257916862465",
+    "full_text": "RT @StateDept: Since 1778, U.S. diplomats have played an important role in advancing U.S.-#France relations. Learn more: http://t.co/dFeZVm…",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "France",
+                "indices": [
+                    90,
+                    97
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "StateDept",
+                "name": "Department of State",
+                "id": 9624742,
+                "id_str": "9624742",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Mon Feb 10 21:50:51 +0000 2014",
+        "id": 432995099757117440,
+        "id_str": "432995099757117441",
+        "full_text": "Since 1778, U.S. diplomats have played an important role in advancing U.S.-#France relations. Learn more: http://t.co/dFeZVmSzYG.",
         "truncated": false,
         "display_text_range": [
             0,
-            140
+            129
         ],
         "entities": {
             "hashtags": [
                 {
                     "text": "France",
                     "indices": [
-                        90,
-                        97
+                        75,
+                        82
                     ]
                 }
             ],
             "symbols": [],
-            "user_mentions": [
+            "user_mentions": [],
+            "urls": [
                 {
-                    "screen_name": "StateDept",
-                    "name": "Department of State",
-                    "id": 9624742,
-                    "id_str": "9624742",
+                    "url": "http://t.co/dFeZVmSzYG",
+                    "expanded_url": "http://go.usa.gov/BnNm",
+                    "display_url": "go.usa.gov/BnNm",
                     "indices": [
-                        3,
-                        13
+                        106,
+                        128
                     ]
                 }
-            ],
-            "urls": []
+            ]
         },
-        "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
+        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
         "in_reply_to_screen_name": null,
         "user": {
-            "id": 586570880,
-            "id_str": "586570880"
+            "id": 9624742,
+            "id_str": "9624742"
         },
         "geo": null,
         "coordinates": null,
         "place": null,
         "contributors": null,
-        "retweeted_status": {
-            "created_at": "Mon Feb 10 21:50:51 +0000 2014",
-            "id": 432995099757117441,
-            "id_str": "432995099757117441",
-            "full_text": "Since 1778, U.S. diplomats have played an important role in advancing U.S.-#France relations. Learn more: http://t.co/dFeZVmSzYG.",
-            "truncated": false,
-            "display_text_range": [
-                0,
-                129
-            ],
-            "entities": {
-                "hashtags": [
-                    {
-                        "text": "France",
-                        "indices": [
-                            75,
-                            82
-                        ]
-                    }
-                ],
-                "symbols": [],
-                "user_mentions": [],
-                "urls": [
-                    {
-                        "url": "http://t.co/dFeZVmSzYG",
-                        "expanded_url": "http://go.usa.gov/BnNm",
-                        "display_url": "go.usa.gov/BnNm",
-                        "indices": [
-                            106,
-                            128
-                        ]
-                    }
-                ]
-            },
-            "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
-            "user": {
-                "id": 9624742,
-                "id_str": "9624742"
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "is_quote_status": false,
-            "retweet_count": 32,
-            "favorite_count": 13,
-            "favorited": false,
-            "retweeted": true,
-            "possibly_sensitive": false,
-            "lang": "en"
-        },
         "is_quote_status": false,
         "retweet_count": 32,
-        "favorite_count": 0,
+        "favorite_count": 13,
         "favorited": false,
         "retweeted": true,
+        "possibly_sensitive": false,
         "lang": "en"
-    }
-]
+    },
+    "is_quote_status": false,
+    "retweet_count": 32,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "en"
+}

@@ -1,69 +1,67 @@
-[
-    {
-        "created_at": "Mon May 14 14:15:10 +0000 2018",
-        "id": 996031168092037121,
-        "id_str": "996031168092037121",
-        "full_text": "Between October 12 and 22, 2001, the @StateDept\u2019s main mail processing center in Sterling, VA, was closed after an anthrax-contaminated letter was routed there after the September 11 terrorist attacks. https://t.co/FpLbQtmjJx #twitterstorians",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            242
+{
+    "created_at": "Mon May 14 14:15:10 +0000 2018",
+    "id": 996031168092037120,
+    "id_str": "996031168092037121",
+    "full_text": "Between October 12 and 22, 2001, the @StateDept’s main mail processing center in Sterling, VA, was closed after an anthrax-contaminated letter was routed there after the September 11 terrorist attacks. https://t.co/FpLbQtmjJx #twitterstorians",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        242
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "twitterstorians",
+                "indices": [
+                    226,
+                    242
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "twitterstorians",
-                    "indices": [
-                        226,
-                        242
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "StateDept",
-                    "name": "Department of State",
-                    "id": 9624742,
-                    "id_str": "9624742",
-                    "indices": [
-                        37,
-                        47
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "https://t.co/FpLbQtmjJx",
-                    "expanded_url": "https://go.usa.gov/xQN6F",
-                    "display_url": "go.usa.gov/xQN6F",
-                    "indices": [
-                        202,
-                        225
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 0,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "StateDept",
+                "name": "Department of State",
+                "id": 9624742,
+                "id_str": "9624742",
+                "indices": [
+                    37,
+                    47
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/FpLbQtmjJx",
+                "expanded_url": "https://go.usa.gov/xQN6F",
+                "display_url": "go.usa.gov/xQN6F",
+                "indices": [
+                    202,
+                    225
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

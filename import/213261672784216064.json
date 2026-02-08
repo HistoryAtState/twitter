@@ -1,72 +1,70 @@
-[
-    {
-        "created_at": "Thu Jun 14 13:28:39 +0000 2012",
-        "id": 213261672784216064,
-        "id_str": "213261672784216064",
-        "full_text": "Study the end of Bretton Woods in #FRUS #ebooks \"Foreign Econ. Policy; Int. Monetary Policy, 1969-1972\" http://t.co/TYCUvsmx #EconDiplomacy",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            139
+{
+    "created_at": "Thu Jun 14 13:28:39 +0000 2012",
+    "id": 213261672784216064,
+    "id_str": "213261672784216064",
+    "full_text": "Study the end of Bretton Woods in #FRUS #ebooks \"Foreign Econ. Policy; Int. Monetary Policy, 1969-1972\" http://t.co/TYCUvsmx #EconDiplomacy",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FRUS",
+                "indices": [
+                    34,
+                    39
+                ]
+            },
+            {
+                "text": "ebooks",
+                "indices": [
+                    40,
+                    47
+                ]
+            },
+            {
+                "text": "EconDiplomacy",
+                "indices": [
+                    125,
+                    139
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        34,
-                        39
-                    ]
-                },
-                {
-                    "text": "ebooks",
-                    "indices": [
-                        40,
-                        47
-                    ]
-                },
-                {
-                    "text": "EconDiplomacy",
-                    "indices": [
-                        125,
-                        139
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "http://t.co/TYCUvsmx",
-                    "expanded_url": "http://go.usa.gov/v3w",
-                    "display_url": "go.usa.gov/v3w",
-                    "indices": [
-                        104,
-                        124
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 3,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "http://t.co/TYCUvsmx",
+                "expanded_url": "http://go.usa.gov/v3w",
+                "display_url": "go.usa.gov/v3w",
+                "indices": [
+                    104,
+                    124
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

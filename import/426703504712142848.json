@@ -1,89 +1,87 @@
-[
-    {
-        "created_at": "Fri Jan 24 13:10:17 +0000 2014",
-        "id": 426703504712142848,
-        "id_str": "426703504712142848",
-        "full_text": "How do tech developments impact future of #FRUS? Join @StateDept The Historian 1/27 @TheWilsonCenter http://t.co/6pJDZbbj9Y @DigiDiplomats",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            138
+{
+    "created_at": "Fri Jan 24 13:10:17 +0000 2014",
+    "id": 426703504712142850,
+    "id_str": "426703504712142848",
+    "full_text": "How do tech developments impact future of #FRUS? Join @StateDept The Historian 1/27 @TheWilsonCenter http://t.co/6pJDZbbj9Y @DigiDiplomats",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        138
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FRUS",
+                "indices": [
+                    42,
+                    47
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        42,
-                        47
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "StateDept",
-                    "name": "Department of State",
-                    "id": 9624742,
-                    "id_str": "9624742",
-                    "indices": [
-                        54,
-                        64
-                    ]
-                },
-                {
-                    "screen_name": "TheWilsonCenter",
-                    "name": "The Wilson Center",
-                    "id": 382129509,
-                    "id_str": "382129509",
-                    "indices": [
-                        84,
-                        100
-                    ]
-                },
-                {
-                    "screen_name": "DigiDiplomats",
-                    "name": "Digital Diplomacy Coalition",
-                    "id": 571194060,
-                    "id_str": "571194060",
-                    "indices": [
-                        124,
-                        138
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "http://t.co/6pJDZbbj9Y",
-                    "expanded_url": "http://ow.ly/sSjML",
-                    "display_url": "ow.ly/sSjML",
-                    "indices": [
-                        101,
-                        123
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 4,
-        "favorite_count": 1,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "StateDept",
+                "name": "Department of State",
+                "id": 9624742,
+                "id_str": "9624742",
+                "indices": [
+                    54,
+                    64
+                ]
+            },
+            {
+                "screen_name": "TheWilsonCenter",
+                "name": "The Wilson Center",
+                "id": 382129509,
+                "id_str": "382129509",
+                "indices": [
+                    84,
+                    100
+                ]
+            },
+            {
+                "screen_name": "DigiDiplomats",
+                "name": "Digital Diplomacy Coalition",
+                "id": 571194060,
+                "id_str": "571194060",
+                "indices": [
+                    124,
+                    138
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "http://t.co/6pJDZbbj9Y",
+                "expanded_url": "http://ow.ly/sSjML",
+                "display_url": "ow.ly/sSjML",
+                "indices": [
+                    101,
+                    123
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

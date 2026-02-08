@@ -1,218 +1,216 @@
-[
-    {
-        "created_at": "Tue Feb 09 23:30:37 +0000 2021",
-        "id": 1359283594829692934,
-        "id_str": "1359283594829692934",
-        "full_text": "RT @FSIatState: #FSI recognizes the career and service of former Secretary of State George P. Shultz. As Secretary of State, Shultz utilize\u2026",
+{
+    "created_at": "Tue Feb 09 23:30:37 +0000 2021",
+    "id": 1359283594829692930,
+    "id_str": "1359283594829692934",
+    "full_text": "RT @FSIatState: #FSI recognizes the career and service of former Secretary of State George P. Shultz. As Secretary of State, Shultz utilize…",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FSI",
+                "indices": [
+                    16,
+                    20
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "FSIatState",
+                "name": "Foreign Service Institute",
+                "id": 958044239576948740,
+                "id_str": "958044239576948736",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Feb 09 22:00:58 +0000 2021",
+        "id": 1359261031139311620,
+        "id_str": "1359261031139311618",
+        "full_text": "#FSI recognizes the career and service of former Secretary of State George P. Shultz. As Secretary of State, Shultz utilized the tools of diplomacy to improve our relations with the Soviet Union. To learn more visit @HistoryAtState #FRUS: https://t.co/XvGFXuRTD8 #FSIremembers https://t.co/hNmJGZCDnw",
         "truncated": false,
         "display_text_range": [
             0,
-            140
+            276
         ],
         "entities": {
             "hashtags": [
                 {
                     "text": "FSI",
                     "indices": [
-                        16,
-                        20
+                        0,
+                        4
+                    ]
+                },
+                {
+                    "text": "FRUS",
+                    "indices": [
+                        232,
+                        237
+                    ]
+                },
+                {
+                    "text": "FSIremembers",
+                    "indices": [
+                        263,
+                        276
                     ]
                 }
             ],
             "symbols": [],
             "user_mentions": [
                 {
-                    "screen_name": "FSIatState",
-                    "name": "Foreign Service Institute",
-                    "id": 958044239576948736,
-                    "id_str": "958044239576948736",
+                    "screen_name": "HistoryAtState",
+                    "name": "HistoryAtState",
+                    "id": 586570880,
+                    "id_str": "586570880",
                     "indices": [
-                        3,
-                        14
+                        216,
+                        231
                     ]
                 }
             ],
-            "urls": []
+            "urls": [
+                {
+                    "url": "https://t.co/XvGFXuRTD8",
+                    "expanded_url": "http://bit.ly/3jtGGJZ",
+                    "display_url": "bit.ly/3jtGGJZ",
+                    "indices": [
+                        239,
+                        262
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1359261027578376190,
+                    "id_str": "1359261027578376192",
+                    "indices": [
+                        277,
+                        300
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/Et0Qs_HXcAAQZs1.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/Et0Qs_HXcAAQZs1.jpg",
+                    "url": "https://t.co/hNmJGZCDnw",
+                    "display_url": "pic.twitter.com/hNmJGZCDnw",
+                    "expanded_url": "https://twitter.com/FSIatState/status/1359261031139311618/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1600,
+                            "h": 900,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
         },
-        "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1359261027578376190,
+                    "id_str": "1359261027578376192",
+                    "indices": [
+                        277,
+                        300
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/Et0Qs_HXcAAQZs1.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/Et0Qs_HXcAAQZs1.jpg",
+                    "url": "https://t.co/hNmJGZCDnw",
+                    "display_url": "pic.twitter.com/hNmJGZCDnw",
+                    "expanded_url": "https://twitter.com/FSIatState/status/1359261031139311618/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1600,
+                            "h": 900,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        }
+                    },
+                    "ext_alt_text": null
+                }
+            ]
+        },
+        "source": "&lt;a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"&gt;Twitter for iPhone&lt;/a&gt;",
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
         "in_reply_to_screen_name": null,
         "user": {
-            "id": 586570880,
-            "id_str": "586570880"
+            "id": 958044239576948740,
+            "id_str": "958044239576948736"
         },
         "geo": null,
         "coordinates": null,
         "place": null,
         "contributors": null,
-        "retweeted_status": {
-            "created_at": "Tue Feb 09 22:00:58 +0000 2021",
-            "id": 1359261031139311618,
-            "id_str": "1359261031139311618",
-            "full_text": "#FSI recognizes the career and service of former Secretary of State George P. Shultz. As Secretary of State, Shultz utilized the tools of diplomacy to improve our relations with the Soviet Union. To learn more visit @HistoryAtState #FRUS: https://t.co/XvGFXuRTD8 #FSIremembers https://t.co/hNmJGZCDnw",
-            "truncated": false,
-            "display_text_range": [
-                0,
-                276
-            ],
-            "entities": {
-                "hashtags": [
-                    {
-                        "text": "FSI",
-                        "indices": [
-                            0,
-                            4
-                        ]
-                    },
-                    {
-                        "text": "FRUS",
-                        "indices": [
-                            232,
-                            237
-                        ]
-                    },
-                    {
-                        "text": "FSIremembers",
-                        "indices": [
-                            263,
-                            276
-                        ]
-                    }
-                ],
-                "symbols": [],
-                "user_mentions": [
-                    {
-                        "screen_name": "HistoryAtState",
-                        "name": "HistoryAtState",
-                        "id": 586570880,
-                        "id_str": "586570880",
-                        "indices": [
-                            216,
-                            231
-                        ]
-                    }
-                ],
-                "urls": [
-                    {
-                        "url": "https://t.co/XvGFXuRTD8",
-                        "expanded_url": "http://bit.ly/3jtGGJZ",
-                        "display_url": "bit.ly/3jtGGJZ",
-                        "indices": [
-                            239,
-                            262
-                        ]
-                    }
-                ],
-                "media": [
-                    {
-                        "id": 1359261027578376192,
-                        "id_str": "1359261027578376192",
-                        "indices": [
-                            277,
-                            300
-                        ],
-                        "media_url": "http://pbs.twimg.com/media/Et0Qs_HXcAAQZs1.jpg",
-                        "media_url_https": "https://pbs.twimg.com/media/Et0Qs_HXcAAQZs1.jpg",
-                        "url": "https://t.co/hNmJGZCDnw",
-                        "display_url": "pic.twitter.com/hNmJGZCDnw",
-                        "expanded_url": "https://twitter.com/FSIatState/status/1359261031139311618/photo/1",
-                        "type": "photo",
-                        "sizes": {
-                            "large": {
-                                "w": 1600,
-                                "h": 900,
-                                "resize": "fit"
-                            },
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
-                            "medium": {
-                                "w": 1200,
-                                "h": 675,
-                                "resize": "fit"
-                            },
-                            "small": {
-                                "w": 680,
-                                "h": 383,
-                                "resize": "fit"
-                            }
-                        }
-                    }
-                ]
-            },
-            "extended_entities": {
-                "media": [
-                    {
-                        "id": 1359261027578376192,
-                        "id_str": "1359261027578376192",
-                        "indices": [
-                            277,
-                            300
-                        ],
-                        "media_url": "http://pbs.twimg.com/media/Et0Qs_HXcAAQZs1.jpg",
-                        "media_url_https": "https://pbs.twimg.com/media/Et0Qs_HXcAAQZs1.jpg",
-                        "url": "https://t.co/hNmJGZCDnw",
-                        "display_url": "pic.twitter.com/hNmJGZCDnw",
-                        "expanded_url": "https://twitter.com/FSIatState/status/1359261031139311618/photo/1",
-                        "type": "photo",
-                        "sizes": {
-                            "large": {
-                                "w": 1600,
-                                "h": 900,
-                                "resize": "fit"
-                            },
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
-                            "medium": {
-                                "w": 1200,
-                                "h": 675,
-                                "resize": "fit"
-                            },
-                            "small": {
-                                "w": 680,
-                                "h": 383,
-                                "resize": "fit"
-                            }
-                        },
-                        "ext_alt_text": null
-                    }
-                ]
-            },
-            "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
-            "user": {
-                "id": 958044239576948736,
-                "id_str": "958044239576948736"
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "is_quote_status": false,
-            "retweet_count": 2,
-            "favorite_count": 11,
-            "favorited": false,
-            "retweeted": true,
-            "possibly_sensitive": false,
-            "lang": "en"
-        },
         "is_quote_status": false,
         "retweet_count": 2,
-        "favorite_count": 0,
+        "favorite_count": 11,
         "favorited": false,
         "retweeted": true,
+        "possibly_sensitive": false,
         "lang": "en"
-    }
-]
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "en"
+}

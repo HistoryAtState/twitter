@@ -1,44 +1,102 @@
-[
-    {
-        "created_at": "Fri Sep 23 13:19:34 +0000 2016",
-        "id": 779309231778430977,
-        "id_str": "779309231778430977",
-        "full_text": "RT @SHFGHistorians: Spread the word! @HistoryAtState #twitterstorians Hewlett Lecture: 100th Anniv of @NatlParkService  DC, Oct 20, 6pm htt\u2026",
+{
+    "created_at": "Fri Sep 23 13:19:34 +0000 2016",
+    "id": 779309231778430980,
+    "id_str": "779309231778430977",
+    "full_text": "RT @SHFGHistorians: Spread the word! @HistoryAtState #twitterstorians Hewlett Lecture: 100th Anniv of @NatlParkService  DC, Oct 20, 6pm htt…",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "twitterstorians",
+                "indices": [
+                    53,
+                    69
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "SHFGHistorians",
+                "name": "SHFGHistorians",
+                "id": 486867266,
+                "id_str": "486867266",
+                "indices": [
+                    3,
+                    18
+                ]
+            },
+            {
+                "screen_name": "HistoryAtState",
+                "name": "HistoryAtState",
+                "id": 586570880,
+                "id_str": "586570880",
+                "indices": [
+                    37,
+                    52
+                ]
+            },
+            {
+                "screen_name": "NatlParkService",
+                "name": "National Park Service",
+                "id": 36771809,
+                "id_str": "36771809",
+                "indices": [
+                    102,
+                    118
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Sep 15 20:07:38 +0000 2016",
+        "id": 776512823816032260,
+        "id_str": "776512823816032256",
+        "full_text": "Spread the word! @HistoryAtState #twitterstorians Hewlett Lecture: 100th Anniv of @NatlParkService  DC, Oct 20, 6pm https://t.co/aAKVELsWvN",
         "truncated": false,
         "display_text_range": [
             0,
-            140
+            139
         ],
         "entities": {
             "hashtags": [
                 {
                     "text": "twitterstorians",
                     "indices": [
-                        53,
-                        69
+                        33,
+                        49
                     ]
                 }
             ],
             "symbols": [],
             "user_mentions": [
                 {
-                    "screen_name": "SHFGHistorians",
-                    "name": "SHFGHistorians",
-                    "id": 486867266,
-                    "id_str": "486867266",
-                    "indices": [
-                        3,
-                        18
-                    ]
-                },
-                {
                     "screen_name": "HistoryAtState",
                     "name": "HistoryAtState",
                     "id": 586570880,
                     "id_str": "586570880",
                     "indices": [
-                        37,
-                        52
+                        17,
+                        32
                     ]
                 },
                 {
@@ -47,109 +105,49 @@
                     "id": 36771809,
                     "id_str": "36771809",
                     "indices": [
-                        102,
-                        118
+                        82,
+                        98
                     ]
                 }
             ],
-            "urls": []
+            "urls": [
+                {
+                    "url": "https://t.co/aAKVELsWvN",
+                    "expanded_url": "http://shfg.wildapricot.org/events",
+                    "display_url": "shfg.wildapricot.org/events",
+                    "indices": [
+                        116,
+                        139
+                    ]
+                }
+            ]
         },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
         "in_reply_to_screen_name": null,
         "user": {
-            "id": 586570880,
-            "id_str": "586570880"
+            "id": 486867266,
+            "id_str": "486867266"
         },
         "geo": null,
         "coordinates": null,
         "place": null,
         "contributors": null,
-        "retweeted_status": {
-            "created_at": "Thu Sep 15 20:07:38 +0000 2016",
-            "id": 776512823816032256,
-            "id_str": "776512823816032256",
-            "full_text": "Spread the word! @HistoryAtState #twitterstorians Hewlett Lecture: 100th Anniv of @NatlParkService  DC, Oct 20, 6pm https://t.co/aAKVELsWvN",
-            "truncated": false,
-            "display_text_range": [
-                0,
-                139
-            ],
-            "entities": {
-                "hashtags": [
-                    {
-                        "text": "twitterstorians",
-                        "indices": [
-                            33,
-                            49
-                        ]
-                    }
-                ],
-                "symbols": [],
-                "user_mentions": [
-                    {
-                        "screen_name": "HistoryAtState",
-                        "name": "HistoryAtState",
-                        "id": 586570880,
-                        "id_str": "586570880",
-                        "indices": [
-                            17,
-                            32
-                        ]
-                    },
-                    {
-                        "screen_name": "NatlParkService",
-                        "name": "National Park Service",
-                        "id": 36771809,
-                        "id_str": "36771809",
-                        "indices": [
-                            82,
-                            98
-                        ]
-                    }
-                ],
-                "urls": [
-                    {
-                        "url": "https://t.co/aAKVELsWvN",
-                        "expanded_url": "http://shfg.wildapricot.org/events",
-                        "display_url": "shfg.wildapricot.org/events",
-                        "indices": [
-                            116,
-                            139
-                        ]
-                    }
-                ]
-            },
-            "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
-            "user": {
-                "id": 486867266,
-                "id_str": "486867266"
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "is_quote_status": false,
-            "retweet_count": 6,
-            "favorite_count": 1,
-            "favorited": false,
-            "retweeted": true,
-            "possibly_sensitive": false,
-            "lang": "en"
-        },
         "is_quote_status": false,
         "retweet_count": 6,
-        "favorite_count": 0,
+        "favorite_count": 1,
         "favorited": false,
         "retweeted": true,
+        "possibly_sensitive": false,
         "lang": "en"
-    }
-]
+    },
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "en"
+}

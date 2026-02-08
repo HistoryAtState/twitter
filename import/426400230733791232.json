@@ -1,86 +1,84 @@
-[
-    {
-        "created_at": "Thu Jan 23 17:05:11 +0000 2014",
-        "id": 426400230733791232,
-        "id_str": "426400230733791232",
-        "full_text": "How has #FRUS changed since 1861? @HistoryAtState Stephen Randolph discusses 1/27 @TheWilsonCenter http://t.co/vldGkMu8BD #Twitterstorians",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            138
+{
+    "created_at": "Thu Jan 23 17:05:11 +0000 2014",
+    "id": 426400230733791230,
+    "id_str": "426400230733791232",
+    "full_text": "How has #FRUS changed since 1861? @HistoryAtState Stephen Randolph discusses 1/27 @TheWilsonCenter http://t.co/vldGkMu8BD #Twitterstorians",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        138
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FRUS",
+                "indices": [
+                    8,
+                    13
+                ]
+            },
+            {
+                "text": "Twitterstorians",
+                "indices": [
+                    122,
+                    138
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        8,
-                        13
-                    ]
-                },
-                {
-                    "text": "Twitterstorians",
-                    "indices": [
-                        122,
-                        138
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "HistoryAtState",
-                    "name": "HistoryAtState",
-                    "id": 586570880,
-                    "id_str": "586570880",
-                    "indices": [
-                        34,
-                        49
-                    ]
-                },
-                {
-                    "screen_name": "TheWilsonCenter",
-                    "name": "The Wilson Center",
-                    "id": 382129509,
-                    "id_str": "382129509",
-                    "indices": [
-                        82,
-                        98
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "http://t.co/vldGkMu8BD",
-                    "expanded_url": "http://ow.ly/sSjtw",
-                    "display_url": "ow.ly/sSjtw",
-                    "indices": [
-                        99,
-                        121
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 4,
-        "favorite_count": 1,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "HistoryAtState",
+                "name": "HistoryAtState",
+                "id": 586570880,
+                "id_str": "586570880",
+                "indices": [
+                    34,
+                    49
+                ]
+            },
+            {
+                "screen_name": "TheWilsonCenter",
+                "name": "The Wilson Center",
+                "id": 382129509,
+                "id_str": "382129509",
+                "indices": [
+                    82,
+                    98
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "http://t.co/vldGkMu8BD",
+                "expanded_url": "http://ow.ly/sSjtw",
+                "display_url": "ow.ly/sSjtw",
+                "indices": [
+                    99,
+                    121
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

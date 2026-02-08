@@ -1,79 +1,77 @@
-[
-    {
-        "created_at": "Thu Mar 27 17:50:10 +0000 2014",
-        "id": 449241984080039936,
-        "id_str": "449241984080039936",
-        "full_text": "Vice Consul Pattie H. Field resigned @ConGenAMS in 1929 to accept a job with @NBC http://t.co/jFw9XbrkVt #WomensHistoryMonth",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            124
+{
+    "created_at": "Thu Mar 27 17:50:10 +0000 2014",
+    "id": 449241984080039940,
+    "id_str": "449241984080039936",
+    "full_text": "Vice Consul Pattie H. Field resigned @ConGenAMS in 1929 to accept a job with @NBC http://t.co/jFw9XbrkVt #WomensHistoryMonth",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        124
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "WomensHistoryMonth",
+                "indices": [
+                    105,
+                    124
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "WomensHistoryMonth",
-                    "indices": [
-                        105,
-                        124
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "ConGenAMS",
-                    "name": "US Consulate General Amsterdam",
-                    "id": 362483649,
-                    "id_str": "362483649",
-                    "indices": [
-                        37,
-                        47
-                    ]
-                },
-                {
-                    "screen_name": "nbc",
-                    "name": "NBC Entertainment",
-                    "id": 26585095,
-                    "id_str": "26585095",
-                    "indices": [
-                        77,
-                        81
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "http://t.co/jFw9XbrkVt",
-                    "expanded_url": "http://go.usa.gov/K2dP",
-                    "display_url": "go.usa.gov/K2dP",
-                    "indices": [
-                        82,
-                        104
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 0,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ConGenAMS",
+                "name": "US Consulate General Amsterdam",
+                "id": 362483649,
+                "id_str": "362483649",
+                "indices": [
+                    37,
+                    47
+                ]
+            },
+            {
+                "screen_name": "nbc",
+                "name": "NBC Entertainment",
+                "id": 26585095,
+                "id_str": "26585095",
+                "indices": [
+                    77,
+                    81
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "http://t.co/jFw9XbrkVt",
+                "expanded_url": "http://go.usa.gov/K2dP",
+                "display_url": "go.usa.gov/K2dP",
+                "indices": [
+                    82,
+                    104
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

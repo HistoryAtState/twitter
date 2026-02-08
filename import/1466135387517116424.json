@@ -1,61 +1,59 @@
-[
-    {
-        "created_at": "Wed Dec 01 20:01:30 +0000 2021",
-        "id": 1466135387517116424,
-        "id_str": "1466135387517116424",
-        "full_text": "Read about a century of @HistoryAtState in STATE magazine: \u201cDocumenting Diplomacy and Writing History: The Office of the Historian at 100\u201d\n\nhttps://t.co/N9PQqkT0Nd",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            163
+{
+    "created_at": "Wed Dec 01 20:01:30 +0000 2021",
+    "id": 1466135387517116420,
+    "id_str": "1466135387517116424",
+    "full_text": "Read about a century of @HistoryAtState in STATE magazine: “Documenting Diplomacy and Writing History: The Office of the Historian at 100”\n\nhttps://t.co/N9PQqkT0Nd",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        163
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "HistoryAtState",
+                "name": "HistoryAtState",
+                "id": 586570880,
+                "id_str": "586570880",
+                "indices": [
+                    24,
+                    39
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "HistoryAtState",
-                    "name": "HistoryAtState",
-                    "id": 586570880,
-                    "id_str": "586570880",
-                    "indices": [
-                        24,
-                        39
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "https://t.co/N9PQqkT0Nd",
-                    "expanded_url": "http://ow.ly/MuAC50H1hm1",
-                    "display_url": "ow.ly/MuAC50H1hm1",
-                    "indices": [
-                        140,
-                        163
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 7,
-        "favorite_count": 8,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "urls": [
+            {
+                "url": "https://t.co/N9PQqkT0Nd",
+                "expanded_url": "http://ow.ly/MuAC50H1hm1",
+                "display_url": "ow.ly/MuAC50H1hm1",
+                "indices": [
+                    140,
+                    163
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

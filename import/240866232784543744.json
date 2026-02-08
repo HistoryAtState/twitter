@@ -1,61 +1,59 @@
-[
-    {
-        "created_at": "Wed Aug 29 17:39:19 +0000 2012",
-        "id": 240866232784543744,
-        "id_str": "240866232784543744",
-        "full_text": "RT @statedept: Advisory Committee on Historical Diplomatic Documentation Notice of Meeting: http://t.co/sqCnjq5q",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            112
+{
+    "created_at": "Wed Aug 29 17:39:19 +0000 2012",
+    "id": 240866232784543744,
+    "id_str": "240866232784543744",
+    "full_text": "RT @statedept: Advisory Committee on Historical Diplomatic Documentation Notice of Meeting: http://t.co/sqCnjq5q",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        112
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "StateDept",
+                "name": "Department of State",
+                "id": 9624742,
+                "id_str": "9624742",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "StateDept",
-                    "name": "Department of State",
-                    "id": 9624742,
-                    "id_str": "9624742",
-                    "indices": [
-                        3,
-                        13
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "http://t.co/sqCnjq5q",
-                    "expanded_url": "http://go.usa.gov/rnB5",
-                    "display_url": "go.usa.gov/rnB5",
-                    "indices": [
-                        92,
-                        112
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 0,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "urls": [
+            {
+                "url": "http://t.co/sqCnjq5q",
+                "expanded_url": "http://go.usa.gov/rnB5",
+                "display_url": "go.usa.gov/rnB5",
+                "indices": [
+                    92,
+                    112
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

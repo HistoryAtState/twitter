@@ -1,203 +1,201 @@
-[
-    {
-        "created_at": "Fri Sep 09 21:01:00 +0000 2022",
-        "id": 1568343737901744128,
-        "id_str": "1568343737901744128",
-        "full_text": "As Ground Zero Week activities gained momentum in April 1982, National Security Council staff prepared this memo, suggesting the White House launch a \u201cpolicy offensive\u201d to counteract the U.S. anti-nuclear movement:\nhttps://t.co/YeFiCMHyLN https://t.co/KiuNAZuVeQ",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            238
+{
+    "created_at": "Fri Sep 09 21:01:00 +0000 2022",
+    "id": 1568343737901744130,
+    "id_str": "1568343737901744128",
+    "full_text": "As Ground Zero Week activities gained momentum in April 1982, National Security Council staff prepared this memo, suggesting the White House launch a “policy offensive” to counteract the U.S. anti-nuclear movement:\nhttps://t.co/YeFiCMHyLN https://t.co/KiuNAZuVeQ",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        238
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/YeFiCMHyLN",
+                "expanded_url": "http://ow.ly/IVxQ50KFm3Y",
+                "display_url": "ow.ly/IVxQ50KFm3Y",
+                "indices": [
+                    215,
+                    238
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "https://t.co/YeFiCMHyLN",
-                    "expanded_url": "http://ow.ly/IVxQ50KFm3Y",
-                    "display_url": "ow.ly/IVxQ50KFm3Y",
-                    "indices": [
-                        215,
-                        238
-                    ]
-                }
-            ],
-            "media": [
-                {
-                    "id": 1568343736358260738,
-                    "id_str": "1568343736358260738",
-                    "indices": [
-                        239,
-                        262
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/FcPgUZtX0AIhFS9.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/FcPgUZtX0AIhFS9.jpg",
-                    "url": "https://t.co/KiuNAZuVeQ",
-                    "display_url": "pic.twitter.com/KiuNAZuVeQ",
-                    "expanded_url": "https://twitter.com/HistoryAtState/status/1568343737901744128/photo/1",
-                    "type": "photo",
-                    "sizes": {
-                        "large": {
-                            "w": 527,
-                            "h": 800,
-                            "resize": "fit"
-                        },
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
-                        },
-                        "medium": {
-                            "w": 527,
-                            "h": 800,
-                            "resize": "fit"
-                        },
-                        "small": {
-                            "w": 448,
-                            "h": 680,
-                            "resize": "fit"
-                        }
+        "media": [
+            {
+                "id": 1568343736358260740,
+                "id_str": "1568343736358260738",
+                "indices": [
+                    239,
+                    262
+                ],
+                "media_url": "http://pbs.twimg.com/media/FcPgUZtX0AIhFS9.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/FcPgUZtX0AIhFS9.jpg",
+                "url": "https://t.co/KiuNAZuVeQ",
+                "display_url": "pic.twitter.com/KiuNAZuVeQ",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1568343737901744128/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 527,
+                        "h": 800,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 527,
+                        "h": 800,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 448,
+                        "h": 680,
+                        "resize": "fit"
                     }
                 }
-            ]
-        },
-        "extended_entities": {
-            "media": [
-                {
-                    "id": 1568343736358260738,
-                    "id_str": "1568343736358260738",
-                    "indices": [
-                        239,
-                        262
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/FcPgUZtX0AIhFS9.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/FcPgUZtX0AIhFS9.jpg",
-                    "url": "https://t.co/KiuNAZuVeQ",
-                    "display_url": "pic.twitter.com/KiuNAZuVeQ",
-                    "expanded_url": "https://twitter.com/HistoryAtState/status/1568343737901744128/photo/1",
-                    "type": "photo",
-                    "sizes": {
-                        "large": {
-                            "w": 527,
-                            "h": 800,
-                            "resize": "fit"
-                        },
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
-                        },
-                        "medium": {
-                            "w": 527,
-                            "h": 800,
-                            "resize": "fit"
-                        },
-                        "small": {
-                            "w": 448,
-                            "h": 680,
-                            "resize": "fit"
-                        }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1568343736358260740,
+                "id_str": "1568343736358260738",
+                "indices": [
+                    239,
+                    262
+                ],
+                "media_url": "http://pbs.twimg.com/media/FcPgUZtX0AIhFS9.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/FcPgUZtX0AIhFS9.jpg",
+                "url": "https://t.co/KiuNAZuVeQ",
+                "display_url": "pic.twitter.com/KiuNAZuVeQ",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1568343737901744128/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 527,
+                        "h": 800,
+                        "resize": "fit"
                     },
-                    "ext_alt_text": "IMAGE 1 Poster for “Ground Zero Week: A nationwide week of non-partisan, community-based discussions and events designed to educate and involve the American people on the issue of nuclear war. April 18–25, 1982” White text on red background with a circular logo (bottom half red earth with white river cutting through; top half black sky; half atom symbol in red at horizon)"
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 527,
+                        "h": 800,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 448,
+                        "h": 680,
+                        "resize": "fit"
+                    }
                 },
-                {
-                    "id": 1568343736475680777,
-                    "id_str": "1568343736475680777",
-                    "indices": [
-                        239,
-                        262
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/FcPgUaJXgAkdqeI.png",
-                    "media_url_https": "https://pbs.twimg.com/media/FcPgUaJXgAkdqeI.png",
-                    "url": "https://t.co/KiuNAZuVeQ",
-                    "display_url": "pic.twitter.com/KiuNAZuVeQ",
-                    "expanded_url": "https://twitter.com/HistoryAtState/status/1568343737901744128/photo/1",
-                    "type": "photo",
-                    "sizes": {
-                        "large": {
-                            "w": 748,
-                            "h": 576,
-                            "resize": "fit"
-                        },
-                        "medium": {
-                            "w": 748,
-                            "h": 576,
-                            "resize": "fit"
-                        },
-                        "small": {
-                            "w": 680,
-                            "h": 524,
-                            "resize": "fit"
-                        },
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
-                        }
+                "ext_alt_text": "IMAGE 1 Poster for “Ground Zero Week: A nationwide week of non-partisan, community-based discussions and events designed to educate and involve the American people on the issue of nuclear war. April 18–25, 1982” White text on red background with a circular logo (bottom half red earth with white river cutting through; top half black sky; half atom symbol in red at horizon)"
+            },
+            {
+                "id": 1568343736475680770,
+                "id_str": "1568343736475680777",
+                "indices": [
+                    239,
+                    262
+                ],
+                "media_url": "http://pbs.twimg.com/media/FcPgUaJXgAkdqeI.png",
+                "media_url_https": "https://pbs.twimg.com/media/FcPgUaJXgAkdqeI.png",
+                "url": "https://t.co/KiuNAZuVeQ",
+                "display_url": "pic.twitter.com/KiuNAZuVeQ",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1568343737901744128/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 748,
+                        "h": 576,
+                        "resize": "fit"
                     },
-                    "ext_alt_text": "Screenshot of “96. Memorandum From the President’s Assistant for National Security Affairs…,” dated April 22, 1982: “Our effort should be directed toward convincing Americans whose anxieties are heightened by this movement that our policy solutions best meet their desire that the United States do something to lessen the prospect of a nuclear holocaust. The time for us to do something is now”"
+                    "medium": {
+                        "w": 748,
+                        "h": 576,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 524,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    }
                 },
-                {
-                    "id": 1568343736303714306,
-                    "id_str": "1568343736303714306",
-                    "indices": [
-                        239,
-                        262
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/FcPgUZgXgAIxFXS.png",
-                    "media_url_https": "https://pbs.twimg.com/media/FcPgUZgXgAIxFXS.png",
-                    "url": "https://t.co/KiuNAZuVeQ",
-                    "display_url": "pic.twitter.com/KiuNAZuVeQ",
-                    "expanded_url": "https://twitter.com/HistoryAtState/status/1568343737901744128/photo/1",
-                    "type": "photo",
-                    "sizes": {
-                        "large": {
-                            "w": 698,
-                            "h": 408,
-                            "resize": "fit"
-                        },
-                        "small": {
-                            "w": 680,
-                            "h": 397,
-                            "resize": "fit"
-                        },
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
-                        },
-                        "medium": {
-                            "w": 698,
-                            "h": 408,
-                            "resize": "fit"
-                        }
+                "ext_alt_text": "Screenshot of “96. Memorandum From the President’s Assistant for National Security Affairs…,” dated April 22, 1982: “Our effort should be directed toward convincing Americans whose anxieties are heightened by this movement that our policy solutions best meet their desire that the United States do something to lessen the prospect of a nuclear holocaust. The time for us to do something is now”"
+            },
+            {
+                "id": 1568343736303714300,
+                "id_str": "1568343736303714306",
+                "indices": [
+                    239,
+                    262
+                ],
+                "media_url": "http://pbs.twimg.com/media/FcPgUZgXgAIxFXS.png",
+                "media_url_https": "https://pbs.twimg.com/media/FcPgUZgXgAIxFXS.png",
+                "url": "https://t.co/KiuNAZuVeQ",
+                "display_url": "pic.twitter.com/KiuNAZuVeQ",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1568343737901744128/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 698,
+                        "h": 408,
+                        "resize": "fit"
                     },
-                    "ext_alt_text": "Screenshot of “96. Memorandum From the President’s Assistant for National Security Affairs…,” dated April 22, 1982: “We should welcome the public’s concern about this issue, as it parallels our own. But we must convince the public that our policies are best for dealing with their newfound concerns”"
-                }
-            ]
-        },
-        "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 2,
-        "favorite_count": 6,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+                    "small": {
+                        "w": 680,
+                        "h": 397,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 698,
+                        "h": 408,
+                        "resize": "fit"
+                    }
+                },
+                "ext_alt_text": "Screenshot of “96. Memorandum From the President’s Assistant for National Security Affairs…,” dated April 22, 1982: “We should welcome the public’s concern about this issue, as it parallels our own. But we must convince the public that our policies are best for dealing with their newfound concerns”"
+            }
+        ]
+    },
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

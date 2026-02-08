@@ -1,65 +1,63 @@
-[
-    {
-        "created_at": "Thu Dec 20 19:15:06 +0000 2018",
-        "id": 1075831978153381893,
-        "id_str": "1075831978153381893",
-        "full_text": "Read about the Brezhnev Doctrine and the limits of Washington\u2019s capacity to coerce Soviet policy in #Afghanistan in 1980 in #FRUS https://t.co/gxOQEhosHJ",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            153
+{
+    "created_at": "Thu Dec 20 19:15:06 +0000 2018",
+    "id": 1075831978153381890,
+    "id_str": "1075831978153381893",
+    "full_text": "Read about the Brezhnev Doctrine and the limits of Washington’s capacity to coerce Soviet policy in #Afghanistan in 1980 in #FRUS https://t.co/gxOQEhosHJ",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        153
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Afghanistan",
+                "indices": [
+                    100,
+                    112
+                ]
+            },
+            {
+                "text": "FRUS",
+                "indices": [
+                    124,
+                    129
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "Afghanistan",
-                    "indices": [
-                        100,
-                        112
-                    ]
-                },
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        124,
-                        129
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "https://t.co/gxOQEhosHJ",
-                    "expanded_url": "https://history.state.gov/historicaldocuments/frus1977-80v12",
-                    "display_url": "history.state.gov/historicaldocu\u2026",
-                    "indices": [
-                        130,
-                        153
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 3,
-        "favorite_count": 4,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/gxOQEhosHJ",
+                "expanded_url": "https://history.state.gov/historicaldocuments/frus1977-80v12",
+                "display_url": "history.state.gov/historicaldocu…",
+                "indices": [
+                    130,
+                    153
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

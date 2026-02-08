@@ -1,65 +1,63 @@
-[
-    {
-        "created_at": "Fri Oct 27 18:30:11 +0000 2017",
-        "id": 923980158037561344,
-        "id_str": "923980158037561344",
-        "full_text": "Teacher: What caused strain in relations btwn Carter administration &amp; King Hassan of #Morocco? #FRUS: *raises hand* https://t.co/3HQq0z0iV4",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            143
+{
+    "created_at": "Fri Oct 27 18:30:11 +0000 2017",
+    "id": 923980158037561340,
+    "id_str": "923980158037561344",
+    "full_text": "Teacher: What caused strain in relations btwn Carter administration &amp;amp; King Hassan of #Morocco? #FRUS: *raises hand* https://t.co/3HQq0z0iV4",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        143
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Morocco",
+                "indices": [
+                    89,
+                    97
+                ]
+            },
+            {
+                "text": "FRUS",
+                "indices": [
+                    99,
+                    104
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "Morocco",
-                    "indices": [
-                        89,
-                        97
-                    ]
-                },
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        99,
-                        104
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "https://t.co/3HQq0z0iV4",
-                    "expanded_url": "https://go.usa.gov/xRSVz",
-                    "display_url": "go.usa.gov/xRSVz",
-                    "indices": [
-                        120,
-                        143
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 1,
-        "favorite_count": 4,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/3HQq0z0iV4",
+                "expanded_url": "https://go.usa.gov/xRSVz",
+                "display_url": "go.usa.gov/xRSVz",
+                "indices": [
+                    120,
+                    143
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

@@ -1,69 +1,67 @@
-[
-    {
-        "created_at": "Tue Jun 11 12:03:28 +0000 2013",
-        "id": 344424642431311874,
-        "id_str": "344424642431311874",
-        "full_text": "Q: Which #SecState served for only 12 days? A: Elihu Washbourne in 1869, he then served as US Min to @USEmbassyFrance http://t.co/C7SMGt2gQK",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            140
+{
+    "created_at": "Tue Jun 11 12:03:28 +0000 2013",
+    "id": 344424642431311870,
+    "id_str": "344424642431311874",
+    "full_text": "Q: Which #SecState served for only 12 days? A: Elihu Washbourne in 1869, he then served as US Min to @USEmbassyFrance http://t.co/C7SMGt2gQK",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "SecState",
+                "indices": [
+                    9,
+                    18
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "SecState",
-                    "indices": [
-                        9,
-                        18
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "USEmbassyFrance",
-                    "name": "U.S. Embassy France",
-                    "id": 72814599,
-                    "id_str": "72814599",
-                    "indices": [
-                        101,
-                        117
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "http://t.co/C7SMGt2gQK",
-                    "expanded_url": "http://go.usa.gov/bBDW",
-                    "display_url": "go.usa.gov/bBDW",
-                    "indices": [
-                        118,
-                        140
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 5,
-        "favorite_count": 1,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "USEmbassyFrance",
+                "name": "U.S. Embassy France",
+                "id": 72814599,
+                "id_str": "72814599",
+                "indices": [
+                    101,
+                    117
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "http://t.co/C7SMGt2gQK",
+                "expanded_url": "http://go.usa.gov/bBDW",
+                "display_url": "go.usa.gov/bBDW",
+                "indices": [
+                    118,
+                    140
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

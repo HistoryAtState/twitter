@@ -1,47 +1,45 @@
-[
-    {
-        "created_at": "Fri Jul 08 11:58:42 +0000 2016",
-        "id": 751385017364787200,
-        "id_str": "751385017364787200",
-        "full_text": "Until 1991, Poland was the host of the Soviet-dominated Warsaw Treaty Organization. #NATOSummit",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            95
+{
+    "created_at": "Fri Jul 08 11:58:42 +0000 2016",
+    "id": 751385017364787200,
+    "id_str": "751385017364787200",
+    "full_text": "Until 1991, Poland was the host of the Soviet-dominated Warsaw Treaty Organization. #NATOSummit",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        95
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "NATOSummit",
+                "indices": [
+                    84,
+                    95
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "NATOSummit",
-                    "indices": [
-                        84,
-                        95
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": []
-        },
-        "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 2,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

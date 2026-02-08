@@ -1,61 +1,59 @@
-[
-    {
-        "created_at": "Wed Jun 12 12:04:39 +0000 2013",
-        "id": 344787326809018368,
-        "id_str": "344787326809018368",
-        "full_text": "The rise of US as a global power in late 19th/early 20th c brought new changes to @StateDept &amp; conduct of diplomacy. http://t.co/fYOjeB50bJ",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            143
+{
+    "created_at": "Wed Jun 12 12:04:39 +0000 2013",
+    "id": 344787326809018370,
+    "id_str": "344787326809018368",
+    "full_text": "The rise of US as a global power in late 19th/early 20th c brought new changes to @StateDept &amp;amp; conduct of diplomacy. http://t.co/fYOjeB50bJ",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        143
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "StateDept",
+                "name": "Department of State",
+                "id": 9624742,
+                "id_str": "9624742",
+                "indices": [
+                    82,
+                    92
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "StateDept",
-                    "name": "Department of State",
-                    "id": 9624742,
-                    "id_str": "9624742",
-                    "indices": [
-                        82,
-                        92
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "http://t.co/fYOjeB50bJ",
-                    "expanded_url": "http://go.usa.gov/bc83",
-                    "display_url": "go.usa.gov/bc83",
-                    "indices": [
-                        121,
-                        143
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 1,
-        "favorite_count": 2,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "urls": [
+            {
+                "url": "http://t.co/fYOjeB50bJ",
+                "expanded_url": "http://go.usa.gov/bc83",
+                "display_url": "go.usa.gov/bc83",
+                "indices": [
+                    121,
+                    143
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

@@ -1,61 +1,59 @@
-[
-    {
-        "created_at": "Mon Jul 01 12:16:22 +0000 2013",
-        "id": 351675648022032385,
-        "id_str": "351675648022032385",
-        "full_text": ".@HistoryAtState seeks grads/undergrads to work in different capacities during 2013-14. Applications open tomorrow! http://t.co/MsIzPmXQ1g",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            138
+{
+    "created_at": "Mon Jul 01 12:16:22 +0000 2013",
+    "id": 351675648022032380,
+    "id_str": "351675648022032385",
+    "full_text": ".@HistoryAtState seeks grads/undergrads to work in different capacities during 2013-14. Applications open tomorrow! http://t.co/MsIzPmXQ1g",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        138
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "HistoryAtState",
+                "name": "HistoryAtState",
+                "id": 586570880,
+                "id_str": "586570880",
+                "indices": [
+                    1,
+                    16
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "HistoryAtState",
-                    "name": "HistoryAtState",
-                    "id": 586570880,
-                    "id_str": "586570880",
-                    "indices": [
-                        1,
-                        16
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "http://t.co/MsIzPmXQ1g",
-                    "expanded_url": "http://go.usa.gov/bvDT",
-                    "display_url": "go.usa.gov/bvDT",
-                    "indices": [
-                        116,
-                        138
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 3,
-        "favorite_count": 1,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "urls": [
+            {
+                "url": "http://t.co/MsIzPmXQ1g",
+                "expanded_url": "http://go.usa.gov/bvDT",
+                "display_url": "go.usa.gov/bvDT",
+                "indices": [
+                    116,
+                    138
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

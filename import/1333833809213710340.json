@@ -1,272 +1,270 @@
-[
-    {
-        "created_at": "Tue Dec 01 18:02:16 +0000 2020",
-        "id": 1333833809213710340,
-        "id_str": "1333833809213710340",
-        "full_text": "RT @USEmbRuPress: The latest volume of the Foreign Relations of the United States is out - and it focuses on a fascinating period in U.S.-S\u2026",
+{
+    "created_at": "Tue Dec 01 18:02:16 +0000 2020",
+    "id": 1333833809213710340,
+    "id_str": "1333833809213710340",
+    "full_text": "RT @USEmbRuPress: The latest volume of the Foreign Relations of the United States is out - and it focuses on a fascinating period in U.S.-S…",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "USEmbRuPress",
+                "name": "Jason P. Rebholz",
+                "id": 780099334104834050,
+                "id_str": "780099334104834048",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Dec 01 17:15:58 +0000 2020",
+        "id": 1333822157504311300,
+        "id_str": "1333822157504311300",
+        "full_text": "The latest volume of the Foreign Relations of the United States is out - and it focuses on a fascinating period in U.S.-Soviet relations... https://t.co/IKXv1UGC1o",
         "truncated": false,
         "display_text_range": [
             0,
-            140
+            139
         ],
         "entities": {
             "hashtags": [],
             "symbols": [],
-            "user_mentions": [
+            "user_mentions": [],
+            "urls": [
                 {
-                    "screen_name": "USEmbRuPress",
-                    "name": "Jason P. Rebholz",
-                    "id": 780099334104834048,
-                    "id_str": "780099334104834048",
+                    "url": "https://t.co/IKXv1UGC1o",
+                    "expanded_url": "https://twitter.com/HistoryAtState/status/1333774666058657793",
+                    "display_url": "twitter.com/HistoryAtState…",
                     "indices": [
-                        3,
-                        16
+                        140,
+                        163
                     ]
                 }
-            ],
-            "urls": []
+            ]
         },
-        "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+        "source": "&lt;a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"&gt;Twitter for iPhone&lt;/a&gt;",
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
         "in_reply_to_screen_name": null,
         "user": {
-            "id": 586570880,
-            "id_str": "586570880"
+            "id": 780099334104834050,
+            "id_str": "780099334104834048"
         },
         "geo": null,
         "coordinates": null,
         "place": null,
         "contributors": null,
-        "retweeted_status": {
-            "created_at": "Tue Dec 01 17:15:58 +0000 2020",
-            "id": 1333822157504311300,
-            "id_str": "1333822157504311300",
-            "full_text": "The latest volume of the Foreign Relations of the United States is out - and it focuses on a fascinating period in U.S.-Soviet relations... https://t.co/IKXv1UGC1o",
+        "is_quote_status": true,
+        "quoted_status_id": 1333774666058657790,
+        "quoted_status_id_str": "1333774666058657793",
+        "quoted_status_permalink": {
+            "url": "https://t.co/IKXv1UGC1o",
+            "expanded": "https://twitter.com/HistoryAtState/status/1333774666058657793",
+            "display": "twitter.com/HistoryAtState…"
+        },
+        "quoted_status": {
+            "created_at": "Tue Dec 01 14:07:15 +0000 2020",
+            "id": 1333774666058657790,
+            "id_str": "1333774666058657793",
+            "full_text": "The Office of the Historian releases Foreign Relations, 1981–1988, Volume V, Soviet Union, March 1985–October 1986:\nhttps://t.co/cdGkzuPLYm\n#FRUS #FRUSRelease #twitterstorians @Reagan_Library https://t.co/JEvpSJNOcF",
             "truncated": false,
             "display_text_range": [
                 0,
-                139
+                191
             ],
             "entities": {
-                "hashtags": [],
-                "symbols": [],
-                "user_mentions": [],
-                "urls": [
+                "hashtags": [
                     {
-                        "url": "https://t.co/IKXv1UGC1o",
-                        "expanded_url": "https://twitter.com/HistoryAtState/status/1333774666058657793",
-                        "display_url": "twitter.com/HistoryAtState\u2026",
+                        "text": "FRUS",
                         "indices": [
                             140,
-                            163
+                            145
                         ]
+                    },
+                    {
+                        "text": "FRUSRelease",
+                        "indices": [
+                            146,
+                            158
+                        ]
+                    },
+                    {
+                        "text": "twitterstorians",
+                        "indices": [
+                            159,
+                            175
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "Reagan_Library",
+                        "name": "RonaldReaganLibrary",
+                        "id": 394351710,
+                        "id_str": "394351710",
+                        "indices": [
+                            176,
+                            191
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/cdGkzuPLYm",
+                        "expanded_url": "https://history.state.gov/historicaldocuments/frus1981-88v05",
+                        "display_url": "history.state.gov/historicaldocu…",
+                        "indices": [
+                            116,
+                            139
+                        ]
+                    }
+                ],
+                "media": [
+                    {
+                        "id": 1333774664636698620,
+                        "id_str": "1333774664636698633",
+                        "indices": [
+                            192,
+                            215
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EoKE_agWEAkUBst.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EoKE_agWEAkUBst.jpg",
+                        "url": "https://t.co/JEvpSJNOcF",
+                        "display_url": "pic.twitter.com/JEvpSJNOcF",
+                        "expanded_url": "https://twitter.com/HistoryAtState/status/1333774666058657793/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 400,
+                                "h": 600,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 400,
+                                "h": 600,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 400,
+                                "h": 600,
+                                "resize": "fit"
+                            }
+                        }
                     }
                 ]
             },
-            "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1333774664636698620,
+                        "id_str": "1333774664636698633",
+                        "indices": [
+                            192,
+                            215
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EoKE_agWEAkUBst.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EoKE_agWEAkUBst.jpg",
+                        "url": "https://t.co/JEvpSJNOcF",
+                        "display_url": "pic.twitter.com/JEvpSJNOcF",
+                        "expanded_url": "https://twitter.com/HistoryAtState/status/1333774666058657793/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 400,
+                                "h": 600,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 400,
+                                "h": 600,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 400,
+                                "h": 600,
+                                "resize": "fit"
+                            }
+                        },
+                        "ext_alt_text": "Volume Cover of Foreign Relations, 1981–1988, Volume V, Soviet Union, March 1985–October 1986"
+                    }
+                ]
+            },
+            "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
             "in_reply_to_status_id": null,
             "in_reply_to_status_id_str": null,
             "in_reply_to_user_id": null,
             "in_reply_to_user_id_str": null,
             "in_reply_to_screen_name": null,
             "user": {
-                "id": 780099334104834048,
-                "id_str": "780099334104834048"
+                "id": 586570880,
+                "id_str": "586570880"
             },
             "geo": null,
             "coordinates": null,
             "place": null,
             "contributors": null,
-            "is_quote_status": true,
-            "quoted_status_id": 1333774666058657793,
-            "quoted_status_id_str": "1333774666058657793",
-            "quoted_status_permalink": {
-                "url": "https://t.co/IKXv1UGC1o",
-                "expanded": "https://twitter.com/HistoryAtState/status/1333774666058657793",
-                "display": "twitter.com/HistoryAtState\u2026"
-            },
-            "quoted_status": {
-                "created_at": "Tue Dec 01 14:07:15 +0000 2020",
-                "id": 1333774666058657793,
-                "id_str": "1333774666058657793",
-                "full_text": "The Office of the Historian releases Foreign Relations, 1981\u20131988, Volume V, Soviet Union, March 1985\u2013October 1986:\nhttps://t.co/cdGkzuPLYm\n#FRUS #FRUSRelease\u202f#twitterstorians @Reagan_Library https://t.co/JEvpSJNOcF",
-                "truncated": false,
-                "display_text_range": [
-                    0,
-                    191
-                ],
-                "entities": {
-                    "hashtags": [
-                        {
-                            "text": "FRUS",
-                            "indices": [
-                                140,
-                                145
-                            ]
-                        },
-                        {
-                            "text": "FRUSRelease",
-                            "indices": [
-                                146,
-                                158
-                            ]
-                        },
-                        {
-                            "text": "twitterstorians",
-                            "indices": [
-                                159,
-                                175
-                            ]
-                        }
-                    ],
-                    "symbols": [],
-                    "user_mentions": [
-                        {
-                            "screen_name": "Reagan_Library",
-                            "name": "RonaldReaganLibrary",
-                            "id": 394351710,
-                            "id_str": "394351710",
-                            "indices": [
-                                176,
-                                191
-                            ]
-                        }
-                    ],
-                    "urls": [
-                        {
-                            "url": "https://t.co/cdGkzuPLYm",
-                            "expanded_url": "https://history.state.gov/historicaldocuments/frus1981-88v05",
-                            "display_url": "history.state.gov/historicaldocu\u2026",
-                            "indices": [
-                                116,
-                                139
-                            ]
-                        }
-                    ],
-                    "media": [
-                        {
-                            "id": 1333774664636698633,
-                            "id_str": "1333774664636698633",
-                            "indices": [
-                                192,
-                                215
-                            ],
-                            "media_url": "http://pbs.twimg.com/media/EoKE_agWEAkUBst.jpg",
-                            "media_url_https": "https://pbs.twimg.com/media/EoKE_agWEAkUBst.jpg",
-                            "url": "https://t.co/JEvpSJNOcF",
-                            "display_url": "pic.twitter.com/JEvpSJNOcF",
-                            "expanded_url": "https://twitter.com/HistoryAtState/status/1333774666058657793/photo/1",
-                            "type": "photo",
-                            "sizes": {
-                                "medium": {
-                                    "w": 400,
-                                    "h": 600,
-                                    "resize": "fit"
-                                },
-                                "thumb": {
-                                    "w": 150,
-                                    "h": 150,
-                                    "resize": "crop"
-                                },
-                                "large": {
-                                    "w": 400,
-                                    "h": 600,
-                                    "resize": "fit"
-                                },
-                                "small": {
-                                    "w": 400,
-                                    "h": 600,
-                                    "resize": "fit"
-                                }
-                            }
-                        }
-                    ]
-                },
-                "extended_entities": {
-                    "media": [
-                        {
-                            "id": 1333774664636698633,
-                            "id_str": "1333774664636698633",
-                            "indices": [
-                                192,
-                                215
-                            ],
-                            "media_url": "http://pbs.twimg.com/media/EoKE_agWEAkUBst.jpg",
-                            "media_url_https": "https://pbs.twimg.com/media/EoKE_agWEAkUBst.jpg",
-                            "url": "https://t.co/JEvpSJNOcF",
-                            "display_url": "pic.twitter.com/JEvpSJNOcF",
-                            "expanded_url": "https://twitter.com/HistoryAtState/status/1333774666058657793/photo/1",
-                            "type": "photo",
-                            "sizes": {
-                                "medium": {
-                                    "w": 400,
-                                    "h": 600,
-                                    "resize": "fit"
-                                },
-                                "thumb": {
-                                    "w": 150,
-                                    "h": 150,
-                                    "resize": "crop"
-                                },
-                                "large": {
-                                    "w": 400,
-                                    "h": 600,
-                                    "resize": "fit"
-                                },
-                                "small": {
-                                    "w": 400,
-                                    "h": 600,
-                                    "resize": "fit"
-                                }
-                            },
-                            "ext_alt_text": "Volume Cover of Foreign Relations, 1981–1988, Volume V, Soviet Union, March 1985–October 1986"
-                        }
-                    ]
-                },
-                "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
-                "in_reply_to_status_id": null,
-                "in_reply_to_status_id_str": null,
-                "in_reply_to_user_id": null,
-                "in_reply_to_user_id_str": null,
-                "in_reply_to_screen_name": null,
-                "user": {
-                    "id": 586570880,
-                    "id_str": "586570880"
-                },
-                "geo": null,
-                "coordinates": null,
-                "place": null,
-                "contributors": null,
-                "is_quote_status": false,
-                "retweet_count": 31,
-                "favorite_count": 72,
-                "favorited": false,
-                "retweeted": false,
-                "possibly_sensitive": false,
-                "lang": "en"
-            },
-            "retweet_count": 3,
-            "favorite_count": 7,
-            "favorited": true,
-            "retweeted": true,
+            "is_quote_status": false,
+            "retweet_count": 31,
+            "favorite_count": 72,
+            "favorited": false,
+            "retweeted": false,
             "possibly_sensitive": false,
             "lang": "en"
         },
-        "is_quote_status": true,
-        "quoted_status_id": 1333774666058657793,
-        "quoted_status_id_str": "1333774666058657793",
-        "quoted_status_permalink": {
-            "url": "https://t.co/IKXv1UGC1o",
-            "expanded": "https://twitter.com/HistoryAtState/status/1333774666058657793",
-            "display": "twitter.com/HistoryAtState\u2026"
-        },
         "retweet_count": 3,
-        "favorite_count": 0,
+        "favorite_count": 7,
         "favorited": true,
         "retweeted": true,
+        "possibly_sensitive": false,
         "lang": "en"
-    }
-]
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1333774666058657790,
+    "quoted_status_id_str": "1333774666058657793",
+    "quoted_status_permalink": {
+        "url": "https://t.co/IKXv1UGC1o",
+        "expanded": "https://twitter.com/HistoryAtState/status/1333774666058657793",
+        "display": "twitter.com/HistoryAtState…"
+    },
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "lang": "en"
+}

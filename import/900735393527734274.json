@@ -1,204 +1,202 @@
-[
-    {
-        "created_at": "Thu Aug 24 15:03:47 +0000 2017",
-        "id": 900735393527734274,
-        "id_str": "900735393527734274",
-        "full_text": "RT @StateDeptDSS: WATCH: Terrorist attacks lead to the 1986 Omnibus Diplomatic Security &amp; Antiterrorism Act, formally creating DSS on 8/27/\u2026",
+{
+    "created_at": "Thu Aug 24 15:03:47 +0000 2017",
+    "id": 900735393527734270,
+    "id_str": "900735393527734274",
+    "full_text": "RT @StateDeptDSS: WATCH: Terrorist attacks lead to the 1986 Omnibus Diplomatic Security &amp;amp; Antiterrorism Act, formally creating DSS on 8/27/…",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        144
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "StateDeptDSS",
+                "name": "statedeptdss",
+                "id": 834799740546056190,
+                "id_str": "834799740546056194",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "source": "&lt;a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"&gt;Twitter for iPad&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Aug 24 13:00:30 +0000 2017",
+        "id": 900704370639204350,
+        "id_str": "900704370639204353",
+        "full_text": "WATCH: Terrorist attacks lead to the 1986 Omnibus Diplomatic Security &amp;amp; Antiterrorism Act, formally creating DSS on 8/27/1986. #TBT https://t.co/O1J6irc3uC",
         "truncated": false,
         "display_text_range": [
             0,
-            144
+            135
         ],
         "entities": {
-            "hashtags": [],
-            "symbols": [],
-            "user_mentions": [
+            "hashtags": [
                 {
-                    "screen_name": "StateDeptDSS",
-                    "name": "statedeptdss",
-                    "id": 834799740546056194,
-                    "id_str": "834799740546056194",
+                    "text": "TBT",
                     "indices": [
-                        3,
-                        16
+                        131,
+                        135
                     ]
                 }
             ],
-            "urls": []
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 900703164168626180,
+                    "id_str": "900703164168626176",
+                    "indices": [
+                        136,
+                        159
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/900703164168626176/pu/img/57IdLVplHCcL-lbq.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/900703164168626176/pu/img/57IdLVplHCcL-lbq.jpg",
+                    "url": "https://t.co/O1J6irc3uC",
+                    "display_url": "pic.twitter.com/O1J6irc3uC",
+                    "expanded_url": "https://twitter.com/StateDeptDSS/status/900704370639204353/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
         },
-        "source": "\u003ca href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c/a\u003e",
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 900703164168626180,
+                    "id_str": "900703164168626176",
+                    "indices": [
+                        136,
+                        159
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/900703164168626176/pu/img/57IdLVplHCcL-lbq.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/900703164168626176/pu/img/57IdLVplHCcL-lbq.jpg",
+                    "url": "https://t.co/O1J6irc3uC",
+                    "display_url": "pic.twitter.com/O1J6irc3uC",
+                    "expanded_url": "https://twitter.com/StateDeptDSS/status/900704370639204353/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            16,
+                            9
+                        ],
+                        "duration_millis": 103470,
+                        "variants": [
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/900703164168626176/pu/pl/cLiVJbH8pijMG4eE.m3u8"
+                            },
+                            {
+                                "bitrate": 256000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/900703164168626176/pu/vid/320x180/g_TTP31NZVCxs0k_.mp4"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/900703164168626176/pu/vid/1280x720/CmOA1tSuGrgCq7n_.mp4"
+                            },
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/900703164168626176/pu/vid/640x360/aBJPhaJ9ImIhLUwt.mp4"
+                            }
+                        ]
+                    },
+                    "ext_alt_text": null,
+                    "additional_media_info": {"monetizable": false}
+                }
+            ]
+        },
+        "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
         "in_reply_to_screen_name": null,
         "user": {
-            "id": 586570880,
-            "id_str": "586570880"
+            "id": 834799740546056190,
+            "id_str": "834799740546056194"
         },
         "geo": null,
         "coordinates": null,
         "place": null,
         "contributors": null,
-        "retweeted_status": {
-            "created_at": "Thu Aug 24 13:00:30 +0000 2017",
-            "id": 900704370639204353,
-            "id_str": "900704370639204353",
-            "full_text": "WATCH: Terrorist attacks lead to the 1986 Omnibus Diplomatic Security &amp; Antiterrorism Act, formally creating DSS on 8/27/1986. #TBT https://t.co/O1J6irc3uC",
-            "truncated": false,
-            "display_text_range": [
-                0,
-                135
-            ],
-            "entities": {
-                "hashtags": [
-                    {
-                        "text": "TBT",
-                        "indices": [
-                            131,
-                            135
-                        ]
-                    }
-                ],
-                "symbols": [],
-                "user_mentions": [],
-                "urls": [],
-                "media": [
-                    {
-                        "id": 900703164168626176,
-                        "id_str": "900703164168626176",
-                        "indices": [
-                            136,
-                            159
-                        ],
-                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/900703164168626176/pu/img/57IdLVplHCcL-lbq.jpg",
-                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/900703164168626176/pu/img/57IdLVplHCcL-lbq.jpg",
-                        "url": "https://t.co/O1J6irc3uC",
-                        "display_url": "pic.twitter.com/O1J6irc3uC",
-                        "expanded_url": "https://twitter.com/StateDeptDSS/status/900704370639204353/video/1",
-                        "type": "photo",
-                        "sizes": {
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
-                            "medium": {
-                                "w": 1200,
-                                "h": 675,
-                                "resize": "fit"
-                            },
-                            "small": {
-                                "w": 680,
-                                "h": 383,
-                                "resize": "fit"
-                            },
-                            "large": {
-                                "w": 1280,
-                                "h": 720,
-                                "resize": "fit"
-                            }
-                        }
-                    }
-                ]
-            },
-            "extended_entities": {
-                "media": [
-                    {
-                        "id": 900703164168626176,
-                        "id_str": "900703164168626176",
-                        "indices": [
-                            136,
-                            159
-                        ],
-                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/900703164168626176/pu/img/57IdLVplHCcL-lbq.jpg",
-                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/900703164168626176/pu/img/57IdLVplHCcL-lbq.jpg",
-                        "url": "https://t.co/O1J6irc3uC",
-                        "display_url": "pic.twitter.com/O1J6irc3uC",
-                        "expanded_url": "https://twitter.com/StateDeptDSS/status/900704370639204353/video/1",
-                        "type": "video",
-                        "sizes": {
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
-                            "medium": {
-                                "w": 1200,
-                                "h": 675,
-                                "resize": "fit"
-                            },
-                            "small": {
-                                "w": 680,
-                                "h": 383,
-                                "resize": "fit"
-                            },
-                            "large": {
-                                "w": 1280,
-                                "h": 720,
-                                "resize": "fit"
-                            }
-                        },
-                        "video_info": {
-                            "aspect_ratio": [
-                                16,
-                                9
-                            ],
-                            "duration_millis": 103470,
-                            "variants": [
-                                {
-                                    "content_type": "application/x-mpegURL",
-                                    "url": "https://video.twimg.com/ext_tw_video/900703164168626176/pu/pl/cLiVJbH8pijMG4eE.m3u8"
-                                },
-                                {
-                                    "bitrate": 256000,
-                                    "content_type": "video/mp4",
-                                    "url": "https://video.twimg.com/ext_tw_video/900703164168626176/pu/vid/320x180/g_TTP31NZVCxs0k_.mp4"
-                                },
-                                {
-                                    "bitrate": 2176000,
-                                    "content_type": "video/mp4",
-                                    "url": "https://video.twimg.com/ext_tw_video/900703164168626176/pu/vid/1280x720/CmOA1tSuGrgCq7n_.mp4"
-                                },
-                                {
-                                    "bitrate": 832000,
-                                    "content_type": "video/mp4",
-                                    "url": "https://video.twimg.com/ext_tw_video/900703164168626176/pu/vid/640x360/aBJPhaJ9ImIhLUwt.mp4"
-                                }
-                            ]
-                        },
-                        "ext_alt_text": null,
-                        "additional_media_info": {"monetizable": false}
-                    }
-                ]
-            },
-            "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
-            "user": {
-                "id": 834799740546056194,
-                "id_str": "834799740546056194"
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "is_quote_status": false,
-            "retweet_count": 7,
-            "favorite_count": 9,
-            "favorited": false,
-            "retweeted": true,
-            "possibly_sensitive": false,
-            "lang": "en"
-        },
         "is_quote_status": false,
         "retweet_count": 7,
-        "favorite_count": 0,
+        "favorite_count": 9,
         "favorited": false,
         "retweeted": true,
+        "possibly_sensitive": false,
         "lang": "en"
-    }
-]
+    },
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "en"
+}

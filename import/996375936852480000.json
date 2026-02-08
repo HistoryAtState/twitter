@@ -1,89 +1,87 @@
-[
-    {
-        "created_at": "Tue May 15 13:05:09 +0000 2018",
-        "id": 996375936852480000,
-        "id_str": "996375936852480000",
-        "full_text": "Students! Apply now to intern in 2019 at the @StateDept Office of the Historian (@HistoryAtState)! https://t.co/Lyor3COWsl @AHAhistorians #twitterstorians",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            154
+{
+    "created_at": "Tue May 15 13:05:09 +0000 2018",
+    "id": 996375936852480000,
+    "id_str": "996375936852480000",
+    "full_text": "Students! Apply now to intern in 2019 at the @StateDept Office of the Historian (@HistoryAtState)! https://t.co/Lyor3COWsl @AHAhistorians #twitterstorians",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        154
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "twitterstorians",
+                "indices": [
+                    138,
+                    154
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "twitterstorians",
-                    "indices": [
-                        138,
-                        154
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "StateDept",
-                    "name": "Department of State",
-                    "id": 9624742,
-                    "id_str": "9624742",
-                    "indices": [
-                        45,
-                        55
-                    ]
-                },
-                {
-                    "screen_name": "HistoryAtState",
-                    "name": "HistoryAtState",
-                    "id": 586570880,
-                    "id_str": "586570880",
-                    "indices": [
-                        81,
-                        96
-                    ]
-                },
-                {
-                    "screen_name": "AHAhistorians",
-                    "name": "American Historical Association",
-                    "id": 76944176,
-                    "id_str": "76944176",
-                    "indices": [
-                        123,
-                        137
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "https://t.co/Lyor3COWsl",
-                    "expanded_url": "https://www.historians.org/news-and-advocacy/calendar/event-detail?eventId=1817",
-                    "display_url": "historians.org/news-and-advoc\u2026",
-                    "indices": [
-                        99,
-                        122
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 12,
-        "favorite_count": 2,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "StateDept",
+                "name": "Department of State",
+                "id": 9624742,
+                "id_str": "9624742",
+                "indices": [
+                    45,
+                    55
+                ]
+            },
+            {
+                "screen_name": "HistoryAtState",
+                "name": "HistoryAtState",
+                "id": 586570880,
+                "id_str": "586570880",
+                "indices": [
+                    81,
+                    96
+                ]
+            },
+            {
+                "screen_name": "AHAhistorians",
+                "name": "American Historical Association",
+                "id": 76944176,
+                "id_str": "76944176",
+                "indices": [
+                    123,
+                    137
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/Lyor3COWsl",
+                "expanded_url": "https://www.historians.org/news-and-advocacy/calendar/event-detail?eventId=1817",
+                "display_url": "historians.org/news-and-advoc…",
+                "indices": [
+                    99,
+                    122
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 12,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

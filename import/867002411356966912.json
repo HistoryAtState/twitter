@@ -1,69 +1,67 @@
-[
-    {
-        "created_at": "Tue May 23 13:00:57 +0000 2017",
-        "id": 867002411356966912,
-        "id_str": "867002411356966912",
-        "full_text": "Kennedy gave his thoughts on public diplomacy in this letter to Edward R. Murrow in 1963: https://t.co/TlNIzVL6Fz #JFK100 @EngageState",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            134
+{
+    "created_at": "Tue May 23 13:00:57 +0000 2017",
+    "id": 867002411356966910,
+    "id_str": "867002411356966912",
+    "full_text": "Kennedy gave his thoughts on public diplomacy in this letter to Edward R. Murrow in 1963: https://t.co/TlNIzVL6Fz #JFK100 @EngageState",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        134
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "JFK100",
+                "indices": [
+                    114,
+                    121
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "JFK100",
-                    "indices": [
-                        114,
-                        121
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "EngageState",
-                    "name": "Engage State",
-                    "id": 128594349,
-                    "id_str": "128594349",
-                    "indices": [
-                        122,
-                        134
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "https://t.co/TlNIzVL6Fz",
-                    "expanded_url": "https://history.state.gov/historicaldocuments/frus1961-63v25/d144",
-                    "display_url": "history.state.gov/historicaldocu\u2026",
-                    "indices": [
-                        90,
-                        113
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 3,
-        "favorite_count": 4,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "EngageState",
+                "name": "Engage State",
+                "id": 128594349,
+                "id_str": "128594349",
+                "indices": [
+                    122,
+                    134
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/TlNIzVL6Fz",
+                "expanded_url": "https://history.state.gov/historicaldocuments/frus1961-63v25/d144",
+                "display_url": "history.state.gov/historicaldocu…",
+                "indices": [
+                    90,
+                    113
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

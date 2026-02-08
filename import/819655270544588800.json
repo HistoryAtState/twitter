@@ -1,72 +1,70 @@
-[
-    {
-        "created_at": "Thu Jan 12 21:20:19 +0000 2017",
-        "id": 819655270544588800,
-        "id_str": "819655270544588800",
-        "full_text": "In 2008 #SecretaryofState Rice signed the 123 Agreement with #India to allow civil nuclear trade https://t.co/O7b139iqu5 #FRUS",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            126
+{
+    "created_at": "Thu Jan 12 21:20:19 +0000 2017",
+    "id": 819655270544588800,
+    "id_str": "819655270544588800",
+    "full_text": "In 2008 #SecretaryofState Rice signed the 123 Agreement with #India to allow civil nuclear trade https://t.co/O7b139iqu5 #FRUS",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        126
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "SecretaryofState",
+                "indices": [
+                    8,
+                    25
+                ]
+            },
+            {
+                "text": "India",
+                "indices": [
+                    61,
+                    67
+                ]
+            },
+            {
+                "text": "FRUS",
+                "indices": [
+                    121,
+                    126
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "SecretaryofState",
-                    "indices": [
-                        8,
-                        25
-                    ]
-                },
-                {
-                    "text": "India",
-                    "indices": [
-                        61,
-                        67
-                    ]
-                },
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        121,
-                        126
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "https://t.co/O7b139iqu5",
-                    "expanded_url": "https://history.state.gov/departmenthistory/people/rice-condoleezza",
-                    "display_url": "history.state.gov/departmenthist\u2026",
-                    "indices": [
-                        97,
-                        120
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 3,
-        "favorite_count": 3,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/O7b139iqu5",
+                "expanded_url": "https://history.state.gov/departmenthistory/people/rice-condoleezza",
+                "display_url": "history.state.gov/departmenthist…",
+                "indices": [
+                    97,
+                    120
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

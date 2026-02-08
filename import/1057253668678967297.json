@@ -1,71 +1,69 @@
-[
-    {
-        "created_at": "Tue Oct 30 12:51:32 +0000 2018",
-        "id": 1057253668678967297,
-        "id_str": "1057253668678967297",
-        "full_text": "The U.S. Diplomatic Courier Service commemorates its centennial this November! @historyatstate celebrates the couriers of the 1950s with a new documentary series. See how they travel the world in the post-war, pre-jet era: https://t.co/Z7rcIJxjU1 @StateDeptDSS",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            260
+{
+    "created_at": "Tue Oct 30 12:51:32 +0000 2018",
+    "id": 1057253668678967300,
+    "id_str": "1057253668678967297",
+    "full_text": "The U.S. Diplomatic Courier Service commemorates its centennial this November! @historyatstate celebrates the couriers of the 1950s with a new documentary series. See how they travel the world in the post-war, pre-jet era: https://t.co/Z7rcIJxjU1 @StateDeptDSS",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        260
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "HistoryAtState",
+                "name": "HistoryAtState",
+                "id": 586570880,
+                "id_str": "586570880",
+                "indices": [
+                    79,
+                    94
+                ]
+            },
+            {
+                "screen_name": "StateDeptDSS",
+                "name": "statedeptdss",
+                "id": 834799740546056190,
+                "id_str": "834799740546056194",
+                "indices": [
+                    247,
+                    260
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "HistoryAtState",
-                    "name": "HistoryAtState",
-                    "id": 586570880,
-                    "id_str": "586570880",
-                    "indices": [
-                        79,
-                        94
-                    ]
-                },
-                {
-                    "screen_name": "StateDeptDSS",
-                    "name": "statedeptdss",
-                    "id": 834799740546056194,
-                    "id_str": "834799740546056194",
-                    "indices": [
-                        247,
-                        260
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "https://t.co/Z7rcIJxjU1",
-                    "expanded_url": "https://go.usa.gov/xPEuX",
-                    "display_url": "go.usa.gov/xPEuX",
-                    "indices": [
-                        223,
-                        246
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 6,
-        "favorite_count": 11,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "urls": [
+            {
+                "url": "https://t.co/Z7rcIJxjU1",
+                "expanded_url": "https://go.usa.gov/xPEuX",
+                "display_url": "go.usa.gov/xPEuX",
+                "indices": [
+                    223,
+                    246
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 11,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

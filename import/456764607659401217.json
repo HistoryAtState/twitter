@@ -1,50 +1,48 @@
-[
-    {
-        "created_at": "Thu Apr 17 12:02:23 +0000 2014",
-        "id": 456764607659401217,
-        "id_str": "456764607659401217",
-        "full_text": "In July 1775, Congress passed \u201cOlive Branch Petition\u201d asking again for reconciliation. The King refused both: http://t.co/6cedy7n0VE",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            132
-        ],
-        "entities": {
-            "hashtags": [],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "http://t.co/6cedy7n0VE",
-                    "expanded_url": "http://go.usa.gov/kaUz",
-                    "display_url": "go.usa.gov/kaUz",
-                    "indices": [
-                        110,
-                        132
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 3,
-        "favorite_count": 1,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+{
+    "created_at": "Thu Apr 17 12:02:23 +0000 2014",
+    "id": 456764607659401220,
+    "id_str": "456764607659401217",
+    "full_text": "In July 1775, Congress passed “Olive Branch Petition” asking again for reconciliation. The King refused both: http://t.co/6cedy7n0VE",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        132
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "http://t.co/6cedy7n0VE",
+                "expanded_url": "http://go.usa.gov/kaUz",
+                "display_url": "go.usa.gov/kaUz",
+                "indices": [
+                    110,
+                    132
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

@@ -1,131 +1,272 @@
-[
-    {
-        "created_at": "Fri Sep 17 18:32:57 +0000 2021",
-        "id": 1438934012672815104,
-        "id_str": "1438934012672815104",
-        "full_text": "Please help us let potential candidates know about the #PMF opportunities at @HistoryAtState! One of our #foreignPolicy / #diplomaticHistory focus areas is #LatinAmerica\n\n@LULAC, @ClahUncc, @TheSouthernSHA, @NAHFEDC, @WCAPSnet, @AHAhistorians https://t.co/L7cMDGphlk",
+{
+    "created_at": "Fri Sep 17 18:32:57 +0000 2021",
+    "id": 1438934012672815100,
+    "id_str": "1438934012672815104",
+    "full_text": "Please help us let potential candidates know about the #PMF opportunities at @HistoryAtState! One of our #foreignPolicy / #diplomaticHistory focus areas is #LatinAmerica\n\n@LULAC, @ClahUncc, @TheSouthernSHA, @NAHFEDC, @WCAPSnet, @AHAhistorians https://t.co/L7cMDGphlk",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        242
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "PMF",
+                "indices": [
+                    55,
+                    59
+                ]
+            },
+            {
+                "text": "foreignPolicy",
+                "indices": [
+                    105,
+                    119
+                ]
+            },
+            {
+                "text": "diplomaticHistory",
+                "indices": [
+                    122,
+                    140
+                ]
+            },
+            {
+                "text": "LatinAmerica",
+                "indices": [
+                    156,
+                    169
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "HistoryAtState",
+                "name": "HistoryAtState",
+                "id": 586570880,
+                "id_str": "586570880",
+                "indices": [
+                    77,
+                    92
+                ]
+            },
+            {
+                "screen_name": "LULAC",
+                "name": "LULAC",
+                "id": 20071932,
+                "id_str": "20071932",
+                "indices": [
+                    171,
+                    177
+                ]
+            },
+            {
+                "screen_name": "ClahUncc",
+                "name": "CLAH",
+                "id": 4818616660,
+                "id_str": "4818616660",
+                "indices": [
+                    179,
+                    188
+                ]
+            },
+            {
+                "screen_name": "TheSouthernSHA",
+                "name": "TheSouthernSHA",
+                "id": 3815757639,
+                "id_str": "3815757639",
+                "indices": [
+                    190,
+                    205
+                ]
+            },
+            {
+                "screen_name": "NAHFEDC",
+                "name": "NAHFEDC",
+                "id": 620260605,
+                "id_str": "620260605",
+                "indices": [
+                    207,
+                    215
+                ]
+            },
+            {
+                "screen_name": "WCAPSnet",
+                "name": "Women of Color Advancing Peace and Security",
+                "id": 896146437263810560,
+                "id_str": "896146437263810560",
+                "indices": [
+                    217,
+                    226
+                ]
+            },
+            {
+                "screen_name": "AHAhistorians",
+                "name": "American Historical Association",
+                "id": 76944176,
+                "id_str": "76944176",
+                "indices": [
+                    228,
+                    242
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/L7cMDGphlk",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1438911146908655616",
+                "display_url": "twitter.com/HistoryAtState…",
+                "indices": [
+                    243,
+                    266
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1438911146908655620,
+    "quoted_status_id_str": "1438911146908655616",
+    "quoted_status_permalink": {
+        "url": "https://t.co/L7cMDGphlk",
+        "expanded": "https://twitter.com/HistoryAtState/status/1438911146908655616",
+        "display": "twitter.com/HistoryAtState…"
+    },
+    "quoted_status": {
+        "created_at": "Fri Sep 17 17:02:05 +0000 2021",
+        "id": 1438911146908655620,
+        "id_str": "1438911146908655616",
+        "full_text": "Current or recent grad student in the history of U.S. relations with Latin America? Interested in promoting transparency? Apply to the Presidential Management Fellows Program to work on the #FRUS series.\n\n#PMF applications open from Sept. 23 to Oct. 12:\nhttps://t.co/9MdLicfclR https://t.co/44HtUaIGOC",
         "truncated": false,
         "display_text_range": [
             0,
-            242
+            277
         ],
         "entities": {
             "hashtags": [
                 {
+                    "text": "FRUS",
+                    "indices": [
+                        190,
+                        195
+                    ]
+                },
+                {
                     "text": "PMF",
                     "indices": [
-                        55,
-                        59
-                    ]
-                },
-                {
-                    "text": "foreignPolicy",
-                    "indices": [
-                        105,
-                        119
-                    ]
-                },
-                {
-                    "text": "diplomaticHistory",
-                    "indices": [
-                        122,
-                        140
-                    ]
-                },
-                {
-                    "text": "LatinAmerica",
-                    "indices": [
-                        156,
-                        169
+                        205,
+                        209
                     ]
                 }
             ],
             "symbols": [],
-            "user_mentions": [
+            "user_mentions": [],
+            "urls": [
                 {
-                    "screen_name": "HistoryAtState",
-                    "name": "HistoryAtState",
-                    "id": 586570880,
-                    "id_str": "586570880",
+                    "url": "https://t.co/9MdLicfclR",
+                    "expanded_url": "https://bit.ly/OH-PMF",
+                    "display_url": "bit.ly/OH-PMF",
                     "indices": [
-                        77,
-                        92
-                    ]
-                },
-                {
-                    "screen_name": "LULAC",
-                    "name": "LULAC",
-                    "id": 20071932,
-                    "id_str": "20071932",
-                    "indices": [
-                        171,
-                        177
-                    ]
-                },
-                {
-                    "screen_name": "ClahUncc",
-                    "name": "CLAH",
-                    "id": 4818616660,
-                    "id_str": "4818616660",
-                    "indices": [
-                        179,
-                        188
-                    ]
-                },
-                {
-                    "screen_name": "TheSouthernSHA",
-                    "name": "TheSouthernSHA",
-                    "id": 3815757639,
-                    "id_str": "3815757639",
-                    "indices": [
-                        190,
-                        205
-                    ]
-                },
-                {
-                    "screen_name": "NAHFEDC",
-                    "name": "NAHFEDC",
-                    "id": 620260605,
-                    "id_str": "620260605",
-                    "indices": [
-                        207,
-                        215
-                    ]
-                },
-                {
-                    "screen_name": "WCAPSnet",
-                    "name": "Women of Color Advancing Peace and Security",
-                    "id": 896146437263810560,
-                    "id_str": "896146437263810560",
-                    "indices": [
-                        217,
-                        226
-                    ]
-                },
-                {
-                    "screen_name": "AHAhistorians",
-                    "name": "American Historical Association",
-                    "id": 76944176,
-                    "id_str": "76944176",
-                    "indices": [
-                        228,
-                        242
+                        254,
+                        277
                     ]
                 }
             ],
-            "urls": [
+            "media": [
                 {
-                    "url": "https://t.co/L7cMDGphlk",
-                    "expanded_url": "https://twitter.com/HistoryAtState/status/1438911146908655616",
-                    "display_url": "twitter.com/HistoryAtState\u2026",
+                    "id": 1438911145549746180,
+                    "id_str": "1438911145549746180",
                     "indices": [
-                        243,
-                        266
-                    ]
+                        278,
+                        301
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E_gKEC3X0AQKQhC.png",
+                    "media_url_https": "https://pbs.twimg.com/media/E_gKEC3X0AQKQhC.png",
+                    "url": "https://t.co/44HtUaIGOC",
+                    "display_url": "pic.twitter.com/44HtUaIGOC",
+                    "expanded_url": "https://twitter.com/HistoryAtState/status/1438911146908655616/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 1024,
+                            "h": 512,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 340,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1024,
+                            "h": 512,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        }
+                    }
                 }
             ]
         },
-        "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1438911145549746180,
+                    "id_str": "1438911145549746180",
+                    "indices": [
+                        278,
+                        301
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E_gKEC3X0AQKQhC.png",
+                    "media_url_https": "https://pbs.twimg.com/media/E_gKEC3X0AQKQhC.png",
+                    "url": "https://t.co/44HtUaIGOC",
+                    "display_url": "pic.twitter.com/44HtUaIGOC",
+                    "expanded_url": "https://twitter.com/HistoryAtState/status/1438911146908655616/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 1024,
+                            "h": 512,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 340,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1024,
+                            "h": 512,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        }
+                    },
+                    "ext_alt_text": "Do you study the history of U.S. relations with Latin American? Apply to be a Presidential Management Fellow, Office of the Historian, U.S. Department of State PMF applications accepted Sept. 28 to Oct. 12: https://bit.ly/OH-PMF"
+                }
+            ]
+        },
+        "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
@@ -139,161 +280,18 @@
         "coordinates": null,
         "place": null,
         "contributors": null,
-        "is_quote_status": true,
-        "quoted_status_id": 1438911146908655616,
-        "quoted_status_id_str": "1438911146908655616",
-        "quoted_status_permalink": {
-            "url": "https://t.co/L7cMDGphlk",
-            "expanded": "https://twitter.com/HistoryAtState/status/1438911146908655616",
-            "display": "twitter.com/HistoryAtState\u2026"
-        },
-        "quoted_status": {
-            "created_at": "Fri Sep 17 17:02:05 +0000 2021",
-            "id": 1438911146908655616,
-            "id_str": "1438911146908655616",
-            "full_text": "Current or recent grad student in the history of U.S. relations with Latin America? Interested in promoting transparency? Apply to the Presidential Management Fellows Program to work on the #FRUS series.\n\n#PMF applications open from Sept. 23 to Oct. 12:\nhttps://t.co/9MdLicfclR https://t.co/44HtUaIGOC",
-            "truncated": false,
-            "display_text_range": [
-                0,
-                277
-            ],
-            "entities": {
-                "hashtags": [
-                    {
-                        "text": "FRUS",
-                        "indices": [
-                            190,
-                            195
-                        ]
-                    },
-                    {
-                        "text": "PMF",
-                        "indices": [
-                            205,
-                            209
-                        ]
-                    }
-                ],
-                "symbols": [],
-                "user_mentions": [],
-                "urls": [
-                    {
-                        "url": "https://t.co/9MdLicfclR",
-                        "expanded_url": "https://bit.ly/OH-PMF",
-                        "display_url": "bit.ly/OH-PMF",
-                        "indices": [
-                            254,
-                            277
-                        ]
-                    }
-                ],
-                "media": [
-                    {
-                        "id": 1438911145549746180,
-                        "id_str": "1438911145549746180",
-                        "indices": [
-                            278,
-                            301
-                        ],
-                        "media_url": "http://pbs.twimg.com/media/E_gKEC3X0AQKQhC.png",
-                        "media_url_https": "https://pbs.twimg.com/media/E_gKEC3X0AQKQhC.png",
-                        "url": "https://t.co/44HtUaIGOC",
-                        "display_url": "pic.twitter.com/44HtUaIGOC",
-                        "expanded_url": "https://twitter.com/HistoryAtState/status/1438911146908655616/photo/1",
-                        "type": "photo",
-                        "sizes": {
-                            "medium": {
-                                "w": 1024,
-                                "h": 512,
-                                "resize": "fit"
-                            },
-                            "small": {
-                                "w": 680,
-                                "h": 340,
-                                "resize": "fit"
-                            },
-                            "large": {
-                                "w": 1024,
-                                "h": 512,
-                                "resize": "fit"
-                            },
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            }
-                        }
-                    }
-                ]
-            },
-            "extended_entities": {
-                "media": [
-                    {
-                        "id": 1438911145549746180,
-                        "id_str": "1438911145549746180",
-                        "indices": [
-                            278,
-                            301
-                        ],
-                        "media_url": "http://pbs.twimg.com/media/E_gKEC3X0AQKQhC.png",
-                        "media_url_https": "https://pbs.twimg.com/media/E_gKEC3X0AQKQhC.png",
-                        "url": "https://t.co/44HtUaIGOC",
-                        "display_url": "pic.twitter.com/44HtUaIGOC",
-                        "expanded_url": "https://twitter.com/HistoryAtState/status/1438911146908655616/photo/1",
-                        "type": "photo",
-                        "sizes": {
-                            "medium": {
-                                "w": 1024,
-                                "h": 512,
-                                "resize": "fit"
-                            },
-                            "small": {
-                                "w": 680,
-                                "h": 340,
-                                "resize": "fit"
-                            },
-                            "large": {
-                                "w": 1024,
-                                "h": 512,
-                                "resize": "fit"
-                            },
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            }
-                        },
-                        "ext_alt_text": "Do you study the history of U.S. relations with Latin American? Apply to be a Presidential Management Fellow, Office of the Historian, U.S. Department of State PMF applications accepted Sept. 28 to Oct. 12: https://bit.ly/OH-PMF"
-                    }
-                ]
-            },
-            "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
-            "user": {
-                "id": 586570880,
-                "id_str": "586570880"
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "is_quote_status": false,
-            "retweet_count": 2,
-            "favorite_count": 3,
-            "favorited": false,
-            "retweeted": false,
-            "possibly_sensitive": false,
-            "lang": "en"
-        },
+        "is_quote_status": false,
         "retweet_count": 2,
-        "favorite_count": 2,
+        "favorite_count": 3,
         "favorited": false,
         "retweeted": false,
         "possibly_sensitive": false,
         "lang": "en"
-    }
-]
+    },
+    "retweet_count": 2,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

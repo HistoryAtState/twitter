@@ -1,69 +1,67 @@
-[
-    {
-        "created_at": "Mon Sep 09 11:02:53 +0000 2013",
-        "id": 377024304728526848,
-        "id_str": "377024304728526848",
-        "full_text": "C.Hughes 1st #SecState to visit @USEmbassyLondon while in office; H.Stimson 1st for official USG business in 1930 http://t.co/vUfdhsDwyg",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            136
+{
+    "created_at": "Mon Sep 09 11:02:53 +0000 2013",
+    "id": 377024304728526850,
+    "id_str": "377024304728526848",
+    "full_text": "C.Hughes 1st #SecState to visit @USEmbassyLondon while in office; H.Stimson 1st for official USG business in 1930 http://t.co/vUfdhsDwyg",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        136
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "SecState",
+                "indices": [
+                    13,
+                    22
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "SecState",
-                    "indices": [
-                        13,
-                        22
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "usembassylondon",
-                    "name": "US Embassy London",
-                    "id": 240302316,
-                    "id_str": "240302316",
-                    "indices": [
-                        32,
-                        48
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "http://t.co/vUfdhsDwyg",
-                    "expanded_url": "http://go.usa.gov/DbJP",
-                    "display_url": "go.usa.gov/DbJP",
-                    "indices": [
-                        114,
-                        136
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 0,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "usembassylondon",
+                "name": "US Embassy London",
+                "id": 240302316,
+                "id_str": "240302316",
+                "indices": [
+                    32,
+                    48
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "http://t.co/vUfdhsDwyg",
+                "expanded_url": "http://go.usa.gov/DbJP",
+                "display_url": "go.usa.gov/DbJP",
+                "indices": [
+                    114,
+                    136
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

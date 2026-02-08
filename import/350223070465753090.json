@@ -1,58 +1,56 @@
-[
-    {
-        "created_at": "Thu Jun 27 12:04:21 +0000 2013",
-        "id": 350223070465753090,
-        "id_str": "350223070465753090",
-        "full_text": "Fun fact: in 1982, Walter Stoessel Jr. became 1st Foreign Service Officer (FSO) to serve as Deputy #SecState http://t.co/X6kZZAeABc",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            131
+{
+    "created_at": "Thu Jun 27 12:04:21 +0000 2013",
+    "id": 350223070465753090,
+    "id_str": "350223070465753090",
+    "full_text": "Fun fact: in 1982, Walter Stoessel Jr. became 1st Foreign Service Officer (FSO) to serve as Deputy #SecState http://t.co/X6kZZAeABc",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        131
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "SecState",
+                "indices": [
+                    99,
+                    108
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "SecState",
-                    "indices": [
-                        99,
-                        108
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "http://t.co/X6kZZAeABc",
-                    "expanded_url": "http://go.usa.gov/bc8A",
-                    "display_url": "go.usa.gov/bc8A",
-                    "indices": [
-                        109,
-                        131
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 2,
-        "favorite_count": 1,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "http://t.co/X6kZZAeABc",
+                "expanded_url": "http://go.usa.gov/bc8A",
+                "display_url": "go.usa.gov/bc8A",
+                "indices": [
+                    109,
+                    131
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

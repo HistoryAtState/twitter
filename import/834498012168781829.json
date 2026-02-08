@@ -1,65 +1,63 @@
-[
-    {
-        "created_at": "Wed Feb 22 20:20:04 +0000 2017",
-        "id": 834498012168781829,
-        "id_str": "834498012168781829",
-        "full_text": "Margaritas in #FRUS: Margarita Ayala appointed in Paraguay as Disbursing Sec of Colegio Alem\u00e1n #NationalMargaritaDay https://t.co/sp9WSBUesK",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            140
+{
+    "created_at": "Wed Feb 22 20:20:04 +0000 2017",
+    "id": 834498012168781820,
+    "id_str": "834498012168781829",
+    "full_text": "Margaritas in #FRUS: Margarita Ayala appointed in Paraguay as Disbursing Sec of Colegio Alemán #NationalMargaritaDay https://t.co/sp9WSBUesK",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FRUS",
+                "indices": [
+                    14,
+                    19
+                ]
+            },
+            {
+                "text": "NationalMargaritaDay",
+                "indices": [
+                    95,
+                    116
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        14,
-                        19
-                    ]
-                },
-                {
-                    "text": "NationalMargaritaDay",
-                    "indices": [
-                        95,
-                        116
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "https://t.co/sp9WSBUesK",
-                    "expanded_url": "http://go.usa.gov/x9Sqk",
-                    "display_url": "go.usa.gov/x9Sqk",
-                    "indices": [
-                        117,
-                        140
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 1,
-        "favorite_count": 1,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "es"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/sp9WSBUesK",
+                "expanded_url": "http://go.usa.gov/x9Sqk",
+                "display_url": "go.usa.gov/x9Sqk",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

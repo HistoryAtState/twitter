@@ -1,65 +1,63 @@
-[
-    {
-        "created_at": "Thu Mar 31 16:05:42 +0000 2016",
-        "id": 715570776297050113,
-        "id_str": "715570776297050113",
-        "full_text": "President Nixon\u2019s nuclear nonproliferation efforts between 1969\u201372 are documented in #FRUS vol. E\u20132: https://t.co/C6Ay37Txna #NSS2016",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            133
+{
+    "created_at": "Thu Mar 31 16:05:42 +0000 2016",
+    "id": 715570776297050110,
+    "id_str": "715570776297050113",
+    "full_text": "President Nixon’s nuclear nonproliferation efforts between 1969–72 are documented in #FRUS vol. E–2: https://t.co/C6Ay37Txna #NSS2016",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        133
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FRUS",
+                "indices": [
+                    85,
+                    90
+                ]
+            },
+            {
+                "text": "NSS2016",
+                "indices": [
+                    125,
+                    133
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        85,
-                        90
-                    ]
-                },
-                {
-                    "text": "NSS2016",
-                    "indices": [
-                        125,
-                        133
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "https://t.co/C6Ay37Txna",
-                    "expanded_url": "https://history.state.gov/historicaldocuments/frus1969-76ve02",
-                    "display_url": "history.state.gov/historicaldocu\u2026",
-                    "indices": [
-                        101,
-                        124
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 3,
-        "favorite_count": 1,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/C6Ay37Txna",
+                "expanded_url": "https://history.state.gov/historicaldocuments/frus1969-76ve02",
+                "display_url": "history.state.gov/historicaldocu…",
+                "indices": [
+                    101,
+                    124
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

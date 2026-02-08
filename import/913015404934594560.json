@@ -1,65 +1,63 @@
-[
-    {
-        "created_at": "Wed Sep 27 12:20:10 +0000 2017",
-        "id": 913015404934594560,
-        "id_str": "913015404934594560",
-        "full_text": "Why did LBJ decide to double US combat troops in #Vietnam in 1966 to 300,000? Explore the docs https://t.co/cFrfkzvaqV #VietnamWarPBS /1",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            136
+{
+    "created_at": "Wed Sep 27 12:20:10 +0000 2017",
+    "id": 913015404934594560,
+    "id_str": "913015404934594560",
+    "full_text": "Why did LBJ decide to double US combat troops in #Vietnam in 1966 to 300,000? Explore the docs https://t.co/cFrfkzvaqV #VietnamWarPBS /1",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        136
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Vietnam",
+                "indices": [
+                    49,
+                    57
+                ]
+            },
+            {
+                "text": "VietnamWarPBS",
+                "indices": [
+                    119,
+                    133
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "Vietnam",
-                    "indices": [
-                        49,
-                        57
-                    ]
-                },
-                {
-                    "text": "VietnamWarPBS",
-                    "indices": [
-                        119,
-                        133
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "https://t.co/cFrfkzvaqV",
-                    "expanded_url": "https://go.usa.gov/xRJxz",
-                    "display_url": "go.usa.gov/xRJxz",
-                    "indices": [
-                        95,
-                        118
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 2,
-        "favorite_count": 6,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/cFrfkzvaqV",
+                "expanded_url": "https://go.usa.gov/xRJxz",
+                "display_url": "go.usa.gov/xRJxz",
+                "indices": [
+                    95,
+                    118
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

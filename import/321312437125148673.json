@@ -1,114 +1,112 @@
-[
-    {
-        "created_at": "Mon Apr 08 17:23:49 +0000 2013",
-        "id": 321312437125148673,
-        "id_str": "321312437125148673",
-        "full_text": "RT @StateDept: #SecKerry on death of Margaret Thatcher: the US has lost a dear friend, world has lost a transformative leader. http://t. ...",
+{
+    "created_at": "Mon Apr 08 17:23:49 +0000 2013",
+    "id": 321312437125148670,
+    "id_str": "321312437125148673",
+    "full_text": "RT @StateDept: #SecKerry on death of Margaret Thatcher: the US has lost a dear friend, world has lost a transformative leader. http://t. ...",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "SecKerry",
+                "indices": [
+                    15,
+                    24
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "StateDept",
+                "name": "Department of State",
+                "id": 9624742,
+                "id_str": "9624742",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Mon Apr 08 16:47:54 +0000 2013",
+        "id": 321303397674414080,
+        "id_str": "321303397674414080",
+        "full_text": "#SecKerry on death of Margaret Thatcher: the US has lost a dear friend, world has lost a transformative leader. http://t.co/N83dgbafWJ",
         "truncated": false,
         "display_text_range": [
             0,
-            140
+            134
         ],
         "entities": {
             "hashtags": [
                 {
                     "text": "SecKerry",
                     "indices": [
-                        15,
-                        24
+                        0,
+                        9
                     ]
                 }
             ],
             "symbols": [],
-            "user_mentions": [
+            "user_mentions": [],
+            "urls": [
                 {
-                    "screen_name": "StateDept",
-                    "name": "Department of State",
-                    "id": 9624742,
-                    "id_str": "9624742",
+                    "url": "http://t.co/N83dgbafWJ",
+                    "expanded_url": "http://go.usa.gov/T39e",
+                    "display_url": "go.usa.gov/T39e",
                     "indices": [
-                        3,
-                        13
+                        112,
+                        134
                     ]
                 }
-            ],
-            "urls": []
+            ]
         },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
         "in_reply_to_screen_name": null,
         "user": {
-            "id": 586570880,
-            "id_str": "586570880"
+            "id": 9624742,
+            "id_str": "9624742"
         },
         "geo": null,
         "coordinates": null,
         "place": null,
         "contributors": null,
-        "retweeted_status": {
-            "created_at": "Mon Apr 08 16:47:54 +0000 2013",
-            "id": 321303397674414080,
-            "id_str": "321303397674414080",
-            "full_text": "#SecKerry on death of Margaret Thatcher: the US has lost a dear friend, world has lost a transformative leader. http://t.co/N83dgbafWJ",
-            "truncated": false,
-            "display_text_range": [
-                0,
-                134
-            ],
-            "entities": {
-                "hashtags": [
-                    {
-                        "text": "SecKerry",
-                        "indices": [
-                            0,
-                            9
-                        ]
-                    }
-                ],
-                "symbols": [],
-                "user_mentions": [],
-                "urls": [
-                    {
-                        "url": "http://t.co/N83dgbafWJ",
-                        "expanded_url": "http://go.usa.gov/T39e",
-                        "display_url": "go.usa.gov/T39e",
-                        "indices": [
-                            112,
-                            134
-                        ]
-                    }
-                ]
-            },
-            "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
-            "user": {
-                "id": 9624742,
-                "id_str": "9624742"
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "is_quote_status": false,
-            "retweet_count": 84,
-            "favorite_count": 9,
-            "favorited": false,
-            "retweeted": true,
-            "possibly_sensitive": false,
-            "lang": "en"
-        },
         "is_quote_status": false,
         "retweet_count": 84,
-        "favorite_count": 0,
+        "favorite_count": 9,
         "favorited": false,
         "retweeted": true,
+        "possibly_sensitive": false,
         "lang": "en"
-    }
-]
+    },
+    "is_quote_status": false,
+    "retweet_count": 84,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "en"
+}

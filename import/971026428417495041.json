@@ -1,50 +1,48 @@
-[
-    {
-        "created_at": "Tue Mar 06 14:15:15 +0000 2018",
-        "id": 971026428417495041,
-        "id_str": "971026428417495041",
-        "full_text": "Now available: Foreign Relations, 1897, With the Annual Message of the President Transmitted to Congress December 6, 1897. https://t.co/TMO15mhOTJ",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            146
-        ],
-        "entities": {
-            "hashtags": [],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "https://t.co/TMO15mhOTJ",
-                    "expanded_url": "https://buff.ly/2FZeJWE",
-                    "display_url": "buff.ly/2FZeJWE",
-                    "indices": [
-                        123,
-                        146
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"https://buffer.com\" rel=\"nofollow\"\u003eBuffer\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 0,
-        "favorite_count": 1,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+{
+    "created_at": "Tue Mar 06 14:15:15 +0000 2018",
+    "id": 971026428417495040,
+    "id_str": "971026428417495041",
+    "full_text": "Now available: Foreign Relations, 1897, With the Annual Message of the President Transmitted to Congress December 6, 1897. https://t.co/TMO15mhOTJ",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        146
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/TMO15mhOTJ",
+                "expanded_url": "https://buff.ly/2FZeJWE",
+                "display_url": "buff.ly/2FZeJWE",
+                "indices": [
+                    123,
+                    146
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"https://buffer.com\" rel=\"nofollow\"&gt;Buffer&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

@@ -1,69 +1,67 @@
-[
-    {
-        "created_at": "Thu Apr 03 12:03:32 +0000 2014",
-        "id": 451691466637967360,
-        "id_str": "451691466637967360",
-        "full_text": "Attending @SMH_Historians conference? Swing by our 4/5 panel \u201cTransforming Legacies: Cooperation, Memory, and #WWI\u201d http://t.co/CqUyPu1F1C",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            138
+{
+    "created_at": "Thu Apr 03 12:03:32 +0000 2014",
+    "id": 451691466637967360,
+    "id_str": "451691466637967360",
+    "full_text": "Attending @SMH_Historians conference? Swing by our 4/5 panel “Transforming Legacies: Cooperation, Memory, and #WWI” http://t.co/CqUyPu1F1C",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        138
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "WWI",
+                "indices": [
+                    110,
+                    114
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "WWI",
-                    "indices": [
-                        110,
-                        114
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "SMH_Historians",
-                    "name": "SMH Historians",
-                    "id": 961631816,
-                    "id_str": "961631816",
-                    "indices": [
-                        10,
-                        25
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "http://t.co/CqUyPu1F1C",
-                    "expanded_url": "http://ow.ly/uZYbZ",
-                    "display_url": "ow.ly/uZYbZ",
-                    "indices": [
-                        116,
-                        138
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 2,
-        "favorite_count": 1,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "SMH_Historians",
+                "name": "SMH Historians",
+                "id": 961631816,
+                "id_str": "961631816",
+                "indices": [
+                    10,
+                    25
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "http://t.co/CqUyPu1F1C",
+                "expanded_url": "http://ow.ly/uZYbZ",
+                "display_url": "ow.ly/uZYbZ",
+                "indices": [
+                    116,
+                    138
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

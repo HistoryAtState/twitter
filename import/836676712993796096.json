@@ -1,214 +1,212 @@
-[
-    {
-        "created_at": "Tue Feb 28 20:37:27 +0000 2017",
-        "id": 836676712993796096,
-        "id_str": "836676712993796096",
-        "full_text": "RT @DiplomacyCenter: Meet Edith Sampson: 1st African American woman member of the @USUN &amp; pioneer who inspired many! #BlackHistoryMonth htt\u2026",
+{
+    "created_at": "Tue Feb 28 20:37:27 +0000 2017",
+    "id": 836676712993796100,
+    "id_str": "836676712993796096",
+    "full_text": "RT @DiplomacyCenter: Meet Edith Sampson: 1st African American woman member of the @USUN &amp;amp; pioneer who inspired many! #BlackHistoryMonth htt…",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        144
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "BlackHistoryMonth",
+                "indices": [
+                    121,
+                    139
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "diplomacycenter",
+                "name": "NMAD Museum",
+                "id": 1180122509204701180,
+                "id_str": "1180122509204701186",
+                "indices": [
+                    3,
+                    19
+                ]
+            },
+            {
+                "screen_name": "USUN",
+                "name": "U.S. Mission to the UN",
+                "id": 249677516,
+                "id_str": "249677516",
+                "indices": [
+                    82,
+                    87
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Feb 28 20:24:35 +0000 2017",
+        "id": 836673475246878720,
+        "id_str": "836673475246878721",
+        "full_text": "Meet Edith Sampson: 1st African American woman member of the @USUN &amp;amp; pioneer who inspired many! #BlackHistoryMonth https://t.co/vaBxPhqwo0 https://t.co/wrsE2VWzVK",
         "truncated": false,
         "display_text_range": [
             0,
-            144
+            142
         ],
         "entities": {
             "hashtags": [
                 {
                     "text": "BlackHistoryMonth",
                     "indices": [
-                        121,
-                        139
+                        100,
+                        118
                     ]
                 }
             ],
             "symbols": [],
             "user_mentions": [
                 {
-                    "screen_name": "diplomacycenter",
-                    "name": "NMAD Museum",
-                    "id": 1180122509204701186,
-                    "id_str": "1180122509204701186",
-                    "indices": [
-                        3,
-                        19
-                    ]
-                },
-                {
                     "screen_name": "USUN",
                     "name": "U.S. Mission to the UN",
                     "id": 249677516,
                     "id_str": "249677516",
                     "indices": [
-                        82,
-                        87
+                        61,
+                        66
                     ]
                 }
             ],
-            "urls": []
+            "urls": [
+                {
+                    "url": "https://t.co/vaBxPhqwo0",
+                    "expanded_url": "http://ow.ly/XKqp309rX7F",
+                    "display_url": "ow.ly/XKqp309rX7F",
+                    "indices": [
+                        119,
+                        142
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 836673346876157950,
+                    "id_str": "836673346876157953",
+                    "indices": [
+                        143,
+                        166
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/C5x1-eGXMAEYGNR.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/C5x1-eGXMAEYGNR.jpg",
+                    "url": "https://t.co/wrsE2VWzVK",
+                    "display_url": "pic.twitter.com/wrsE2VWzVK",
+                    "expanded_url": "https://twitter.com/DiplomacyCenter/status/836673475246878721/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 559,
+                            "h": 441,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 559,
+                            "h": 441,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 559,
+                            "h": 441,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
         },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 836673346876157950,
+                    "id_str": "836673346876157953",
+                    "indices": [
+                        143,
+                        166
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/C5x1-eGXMAEYGNR.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/C5x1-eGXMAEYGNR.jpg",
+                    "url": "https://t.co/wrsE2VWzVK",
+                    "display_url": "pic.twitter.com/wrsE2VWzVK",
+                    "expanded_url": "https://twitter.com/DiplomacyCenter/status/836673475246878721/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 559,
+                            "h": 441,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 559,
+                            "h": 441,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 559,
+                            "h": 441,
+                            "resize": "fit"
+                        }
+                    },
+                    "ext_alt_text": null
+                }
+            ]
+        },
+        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
         "in_reply_to_screen_name": null,
         "user": {
-            "id": 586570880,
-            "id_str": "586570880"
+            "id": 2648849144,
+            "id_str": "2648849144"
         },
         "geo": null,
         "coordinates": null,
         "place": null,
         "contributors": null,
-        "retweeted_status": {
-            "created_at": "Tue Feb 28 20:24:35 +0000 2017",
-            "id": 836673475246878721,
-            "id_str": "836673475246878721",
-            "full_text": "Meet Edith Sampson: 1st African American woman member of the @USUN &amp; pioneer who inspired many! #BlackHistoryMonth https://t.co/vaBxPhqwo0 https://t.co/wrsE2VWzVK",
-            "truncated": false,
-            "display_text_range": [
-                0,
-                142
-            ],
-            "entities": {
-                "hashtags": [
-                    {
-                        "text": "BlackHistoryMonth",
-                        "indices": [
-                            100,
-                            118
-                        ]
-                    }
-                ],
-                "symbols": [],
-                "user_mentions": [
-                    {
-                        "screen_name": "USUN",
-                        "name": "U.S. Mission to the UN",
-                        "id": 249677516,
-                        "id_str": "249677516",
-                        "indices": [
-                            61,
-                            66
-                        ]
-                    }
-                ],
-                "urls": [
-                    {
-                        "url": "https://t.co/vaBxPhqwo0",
-                        "expanded_url": "http://ow.ly/XKqp309rX7F",
-                        "display_url": "ow.ly/XKqp309rX7F",
-                        "indices": [
-                            119,
-                            142
-                        ]
-                    }
-                ],
-                "media": [
-                    {
-                        "id": 836673346876157953,
-                        "id_str": "836673346876157953",
-                        "indices": [
-                            143,
-                            166
-                        ],
-                        "media_url": "http://pbs.twimg.com/media/C5x1-eGXMAEYGNR.jpg",
-                        "media_url_https": "https://pbs.twimg.com/media/C5x1-eGXMAEYGNR.jpg",
-                        "url": "https://t.co/wrsE2VWzVK",
-                        "display_url": "pic.twitter.com/wrsE2VWzVK",
-                        "expanded_url": "https://twitter.com/DiplomacyCenter/status/836673475246878721/photo/1",
-                        "type": "photo",
-                        "sizes": {
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
-                            "large": {
-                                "w": 559,
-                                "h": 441,
-                                "resize": "fit"
-                            },
-                            "medium": {
-                                "w": 559,
-                                "h": 441,
-                                "resize": "fit"
-                            },
-                            "small": {
-                                "w": 559,
-                                "h": 441,
-                                "resize": "fit"
-                            }
-                        }
-                    }
-                ]
-            },
-            "extended_entities": {
-                "media": [
-                    {
-                        "id": 836673346876157953,
-                        "id_str": "836673346876157953",
-                        "indices": [
-                            143,
-                            166
-                        ],
-                        "media_url": "http://pbs.twimg.com/media/C5x1-eGXMAEYGNR.jpg",
-                        "media_url_https": "https://pbs.twimg.com/media/C5x1-eGXMAEYGNR.jpg",
-                        "url": "https://t.co/wrsE2VWzVK",
-                        "display_url": "pic.twitter.com/wrsE2VWzVK",
-                        "expanded_url": "https://twitter.com/DiplomacyCenter/status/836673475246878721/photo/1",
-                        "type": "photo",
-                        "sizes": {
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
-                            "large": {
-                                "w": 559,
-                                "h": 441,
-                                "resize": "fit"
-                            },
-                            "medium": {
-                                "w": 559,
-                                "h": 441,
-                                "resize": "fit"
-                            },
-                            "small": {
-                                "w": 559,
-                                "h": 441,
-                                "resize": "fit"
-                            }
-                        },
-                        "ext_alt_text": null
-                    }
-                ]
-            },
-            "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
-            "user": {
-                "id": 2648849144,
-                "id_str": "2648849144"
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "is_quote_status": false,
-            "retweet_count": 17,
-            "favorite_count": 19,
-            "favorited": false,
-            "retweeted": true,
-            "possibly_sensitive": false,
-            "lang": "en"
-        },
         "is_quote_status": false,
         "retweet_count": 17,
-        "favorite_count": 0,
+        "favorite_count": 19,
         "favorited": false,
         "retweeted": true,
+        "possibly_sensitive": false,
         "lang": "en"
-    }
-]
+    },
+    "is_quote_status": false,
+    "retweet_count": 17,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "en"
+}

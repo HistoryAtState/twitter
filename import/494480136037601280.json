@@ -1,76 +1,74 @@
-[
-    {
-        "created_at": "Wed Jul 30 13:50:26 +0000 2014",
-        "id": 494480136037601280,
-        "id_str": "494480136037601280",
-        "full_text": "#TDiH 1914 Consul-General at Hamburg notified @StateDept \u201cImperator will not sail\u201d #WW1Tweet  http://t.co/rR1knOFSsQ",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            116
+{
+    "created_at": "Wed Jul 30 13:50:26 +0000 2014",
+    "id": 494480136037601280,
+    "id_str": "494480136037601280",
+    "full_text": "#TDiH 1914 Consul-General at Hamburg notified @StateDept “Imperator will not sail” #WW1Tweet  http://t.co/rR1knOFSsQ",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        116
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "TDiH",
+                "indices": [
+                    0,
+                    5
+                ]
+            },
+            {
+                "text": "WW1Tweet",
+                "indices": [
+                    83,
+                    92
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "TDiH",
-                    "indices": [
-                        0,
-                        5
-                    ]
-                },
-                {
-                    "text": "WW1Tweet",
-                    "indices": [
-                        83,
-                        92
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "StateDept",
-                    "name": "Department of State",
-                    "id": 9624742,
-                    "id_str": "9624742",
-                    "indices": [
-                        46,
-                        56
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "http://t.co/rR1knOFSsQ",
-                    "expanded_url": "http://go.usa.gov/5w8B",
-                    "display_url": "go.usa.gov/5w8B",
-                    "indices": [
-                        94,
-                        116
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 0,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "StateDept",
+                "name": "Department of State",
+                "id": 9624742,
+                "id_str": "9624742",
+                "indices": [
+                    46,
+                    56
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "http://t.co/rR1knOFSsQ",
+                "expanded_url": "http://go.usa.gov/5w8B",
+                "display_url": "go.usa.gov/5w8B",
+                "indices": [
+                    94,
+                    116
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

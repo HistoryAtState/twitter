@@ -1,193 +1,191 @@
-[
-    {
-        "created_at": "Tue Feb 28 20:50:38 +0000 2017",
-        "id": 836680027643207686,
-        "id_str": "836680027643207686",
-        "full_text": "RT @DiplomacyCenter: Did you know diplomat Ralph Bunche was the 1st African American to win the Nobel Peace Prize? #BlackHistoryMonth https\u2026",
+{
+    "created_at": "Tue Feb 28 20:50:38 +0000 2017",
+    "id": 836680027643207680,
+    "id_str": "836680027643207686",
+    "full_text": "RT @DiplomacyCenter: Did you know diplomat Ralph Bunche was the 1st African American to win the Nobel Peace Prize? #BlackHistoryMonth https…",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "BlackHistoryMonth",
+                "indices": [
+                    115,
+                    133
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "diplomacycenter",
+                "name": "NMAD Museum",
+                "id": 1180122509204701180,
+                "id_str": "1180122509204701186",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Mon Feb 27 21:48:31 +0000 2017",
+        "id": 836332209741115390,
+        "id_str": "836332209741115392",
+        "full_text": "Did you know diplomat Ralph Bunche was the 1st African American to win the Nobel Peace Prize? #BlackHistoryMonth https://t.co/ZSpM6dz6Zl https://t.co/MgG7OkpdC3",
         "truncated": false,
         "display_text_range": [
             0,
-            140
+            136
         ],
         "entities": {
             "hashtags": [
                 {
                     "text": "BlackHistoryMonth",
                     "indices": [
-                        115,
-                        133
+                        94,
+                        112
                     ]
                 }
             ],
             "symbols": [],
-            "user_mentions": [
+            "user_mentions": [],
+            "urls": [
                 {
-                    "screen_name": "diplomacycenter",
-                    "name": "NMAD Museum",
-                    "id": 1180122509204701186,
-                    "id_str": "1180122509204701186",
+                    "url": "https://t.co/ZSpM6dz6Zl",
+                    "expanded_url": "http://ow.ly/VTtE309pJ10",
+                    "display_url": "ow.ly/VTtE309pJ10",
                     "indices": [
-                        3,
-                        19
+                        113,
+                        136
                     ]
                 }
             ],
-            "urls": []
+            "media": [
+                {
+                    "id": 836325975986057220,
+                    "id_str": "836325975986057218",
+                    "indices": [
+                        137,
+                        160
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/C5s6C0sUsAIfdR7.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/C5s6C0sUsAIfdR7.jpg",
+                    "url": "https://t.co/MgG7OkpdC3",
+                    "display_url": "pic.twitter.com/MgG7OkpdC3",
+                    "expanded_url": "https://twitter.com/DiplomacyCenter/status/836332209741115392/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 800,
+                            "h": 633,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 538,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 800,
+                            "h": 633,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
         },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 836325975986057220,
+                    "id_str": "836325975986057218",
+                    "indices": [
+                        137,
+                        160
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/C5s6C0sUsAIfdR7.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/C5s6C0sUsAIfdR7.jpg",
+                    "url": "https://t.co/MgG7OkpdC3",
+                    "display_url": "pic.twitter.com/MgG7OkpdC3",
+                    "expanded_url": "https://twitter.com/DiplomacyCenter/status/836332209741115392/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 800,
+                            "h": 633,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 538,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 800,
+                            "h": 633,
+                            "resize": "fit"
+                        }
+                    },
+                    "ext_alt_text": null
+                }
+            ]
+        },
+        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
         "in_reply_to_screen_name": null,
         "user": {
-            "id": 586570880,
-            "id_str": "586570880"
+            "id": 2648849144,
+            "id_str": "2648849144"
         },
         "geo": null,
         "coordinates": null,
         "place": null,
         "contributors": null,
-        "retweeted_status": {
-            "created_at": "Mon Feb 27 21:48:31 +0000 2017",
-            "id": 836332209741115392,
-            "id_str": "836332209741115392",
-            "full_text": "Did you know diplomat Ralph Bunche was the 1st African American to win the Nobel Peace Prize? #BlackHistoryMonth https://t.co/ZSpM6dz6Zl https://t.co/MgG7OkpdC3",
-            "truncated": false,
-            "display_text_range": [
-                0,
-                136
-            ],
-            "entities": {
-                "hashtags": [
-                    {
-                        "text": "BlackHistoryMonth",
-                        "indices": [
-                            94,
-                            112
-                        ]
-                    }
-                ],
-                "symbols": [],
-                "user_mentions": [],
-                "urls": [
-                    {
-                        "url": "https://t.co/ZSpM6dz6Zl",
-                        "expanded_url": "http://ow.ly/VTtE309pJ10",
-                        "display_url": "ow.ly/VTtE309pJ10",
-                        "indices": [
-                            113,
-                            136
-                        ]
-                    }
-                ],
-                "media": [
-                    {
-                        "id": 836325975986057218,
-                        "id_str": "836325975986057218",
-                        "indices": [
-                            137,
-                            160
-                        ],
-                        "media_url": "http://pbs.twimg.com/media/C5s6C0sUsAIfdR7.jpg",
-                        "media_url_https": "https://pbs.twimg.com/media/C5s6C0sUsAIfdR7.jpg",
-                        "url": "https://t.co/MgG7OkpdC3",
-                        "display_url": "pic.twitter.com/MgG7OkpdC3",
-                        "expanded_url": "https://twitter.com/DiplomacyCenter/status/836332209741115392/photo/1",
-                        "type": "photo",
-                        "sizes": {
-                            "medium": {
-                                "w": 800,
-                                "h": 633,
-                                "resize": "fit"
-                            },
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
-                            "small": {
-                                "w": 680,
-                                "h": 538,
-                                "resize": "fit"
-                            },
-                            "large": {
-                                "w": 800,
-                                "h": 633,
-                                "resize": "fit"
-                            }
-                        }
-                    }
-                ]
-            },
-            "extended_entities": {
-                "media": [
-                    {
-                        "id": 836325975986057218,
-                        "id_str": "836325975986057218",
-                        "indices": [
-                            137,
-                            160
-                        ],
-                        "media_url": "http://pbs.twimg.com/media/C5s6C0sUsAIfdR7.jpg",
-                        "media_url_https": "https://pbs.twimg.com/media/C5s6C0sUsAIfdR7.jpg",
-                        "url": "https://t.co/MgG7OkpdC3",
-                        "display_url": "pic.twitter.com/MgG7OkpdC3",
-                        "expanded_url": "https://twitter.com/DiplomacyCenter/status/836332209741115392/photo/1",
-                        "type": "photo",
-                        "sizes": {
-                            "medium": {
-                                "w": 800,
-                                "h": 633,
-                                "resize": "fit"
-                            },
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
-                            "small": {
-                                "w": 680,
-                                "h": 538,
-                                "resize": "fit"
-                            },
-                            "large": {
-                                "w": 800,
-                                "h": 633,
-                                "resize": "fit"
-                            }
-                        },
-                        "ext_alt_text": null
-                    }
-                ]
-            },
-            "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
-            "user": {
-                "id": 2648849144,
-                "id_str": "2648849144"
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "is_quote_status": false,
-            "retweet_count": 11,
-            "favorite_count": 13,
-            "favorited": false,
-            "retweeted": true,
-            "possibly_sensitive": false,
-            "lang": "en"
-        },
         "is_quote_status": false,
         "retweet_count": 11,
-        "favorite_count": 0,
+        "favorite_count": 13,
         "favorited": false,
         "retweeted": true,
+        "possibly_sensitive": false,
         "lang": "en"
-    }
-]
+    },
+    "is_quote_status": false,
+    "retweet_count": 11,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "en"
+}

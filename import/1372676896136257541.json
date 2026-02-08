@@ -1,95 +1,93 @@
-[
-    {
-        "created_at": "Thu Mar 18 22:30:49 +0000 2021",
-        "id": 1372676896136257541,
-        "id_str": "1372676896136257541",
-        "full_text": "RT @USEmbassyCairo: Our Embassy community pauses for a moment today to remember Jeannette, a decorated WWII veteran and Foreign Service spe\u2026",
+{
+    "created_at": "Thu Mar 18 22:30:49 +0000 2021",
+    "id": 1372676896136257540,
+    "id_str": "1372676896136257541",
+    "full_text": "RT @USEmbassyCairo: Our Embassy community pauses for a moment today to remember Jeannette, a decorated WWII veteran and Foreign Service spe…",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "USEmbassyCairo",
+                "name": "U.S. Embassy Cairo",
+                "id": 76945884,
+                "id_str": "76945884",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Mar 18 22:03:07 +0000 2021",
+        "id": 1372669923433050110,
+        "id_str": "1372669923433050112",
+        "full_text": "Our Embassy community pauses for a moment today to remember Jeannette, a decorated WWII veteran and Foreign Service specialist, who selflessly served our nation.   #WomensHistoryMonth",
         "truncated": false,
         "display_text_range": [
             0,
-            140
+            183
         ],
         "entities": {
-            "hashtags": [],
-            "symbols": [],
-            "user_mentions": [
+            "hashtags": [
                 {
-                    "screen_name": "USEmbassyCairo",
-                    "name": "U.S. Embassy Cairo",
-                    "id": 76945884,
-                    "id_str": "76945884",
+                    "text": "WomensHistoryMonth",
                     "indices": [
-                        3,
-                        18
+                        164,
+                        183
                     ]
                 }
             ],
+            "symbols": [],
+            "user_mentions": [],
             "urls": []
         },
-        "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
+        "source": "&lt;a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"&gt;Twitter for iPhone&lt;/a&gt;",
+        "in_reply_to_status_id": 1372669921461669890,
+        "in_reply_to_status_id_str": "1372669921461669890",
+        "in_reply_to_user_id": 76945884,
+        "in_reply_to_user_id_str": "76945884",
+        "in_reply_to_screen_name": "USEmbassyCairo",
         "user": {
-            "id": 586570880,
-            "id_str": "586570880"
+            "id": 76945884,
+            "id_str": "76945884"
         },
         "geo": null,
         "coordinates": null,
         "place": null,
         "contributors": null,
-        "retweeted_status": {
-            "created_at": "Thu Mar 18 22:03:07 +0000 2021",
-            "id": 1372669923433050112,
-            "id_str": "1372669923433050112",
-            "full_text": "Our Embassy community pauses for a moment today to remember Jeannette, a decorated WWII veteran and Foreign Service specialist, who selflessly served our nation.   #WomensHistoryMonth",
-            "truncated": false,
-            "display_text_range": [
-                0,
-                183
-            ],
-            "entities": {
-                "hashtags": [
-                    {
-                        "text": "WomensHistoryMonth",
-                        "indices": [
-                            164,
-                            183
-                        ]
-                    }
-                ],
-                "symbols": [],
-                "user_mentions": [],
-                "urls": []
-            },
-            "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
-            "in_reply_to_status_id": 1372669921461669890,
-            "in_reply_to_status_id_str": "1372669921461669890",
-            "in_reply_to_user_id": 76945884,
-            "in_reply_to_user_id_str": "76945884",
-            "in_reply_to_screen_name": "USEmbassyCairo",
-            "user": {
-                "id": 76945884,
-                "id_str": "76945884"
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "is_quote_status": false,
-            "retweet_count": 1,
-            "favorite_count": 9,
-            "favorited": false,
-            "retweeted": true,
-            "lang": "en"
-        },
         "is_quote_status": false,
         "retweet_count": 1,
-        "favorite_count": 0,
+        "favorite_count": 9,
         "favorited": false,
         "retweeted": true,
         "lang": "en"
-    }
-]
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "en"
+}

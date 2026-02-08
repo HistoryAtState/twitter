@@ -1,65 +1,63 @@
-[
-    {
-        "created_at": "Mon Oct 29 14:23:19 +0000 2012",
-        "id": 262922566371516416,
-        "id_str": "262922566371516416",
-        "full_text": "October 29, 1962. Read Schlesinger's recommendations after the resolution of the crisis. http://t.co/vYsKtQ8y #FRUS #cmc",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            120
+{
+    "created_at": "Mon Oct 29 14:23:19 +0000 2012",
+    "id": 262922566371516416,
+    "id_str": "262922566371516416",
+    "full_text": "October 29, 1962. Read Schlesinger's recommendations after the resolution of the crisis. http://t.co/vYsKtQ8y #FRUS #cmc",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        120
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FRUS",
+                "indices": [
+                    110,
+                    115
+                ]
+            },
+            {
+                "text": "cmc",
+                "indices": [
+                    116,
+                    120
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        110,
-                        115
-                    ]
-                },
-                {
-                    "text": "cmc",
-                    "indices": [
-                        116,
-                        120
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "http://t.co/vYsKtQ8y",
-                    "expanded_url": "http://bit.ly/Yeg6nH",
-                    "display_url": "bit.ly/Yeg6nH",
-                    "indices": [
-                        89,
-                        109
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 0,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "http://t.co/vYsKtQ8y",
+                "expanded_url": "http://bit.ly/Yeg6nH",
+                "display_url": "bit.ly/Yeg6nH",
+                "indices": [
+                    89,
+                    109
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

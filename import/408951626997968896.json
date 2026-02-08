@@ -1,65 +1,63 @@
-[
-    {
-        "created_at": "Fri Dec 06 13:30:40 +0000 2013",
-        "id": 408951626997968896,
-        "id_str": "408951626997968896",
-        "full_text": "#FRUS also contains docs frm private papers of individuals involved in formulating US foreign policy http://t.co/In5uxj9Dis #twitterstorians",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            140
+{
+    "created_at": "Fri Dec 06 13:30:40 +0000 2013",
+    "id": 408951626997968900,
+    "id_str": "408951626997968896",
+    "full_text": "#FRUS also contains docs frm private papers of individuals involved in formulating US foreign policy http://t.co/In5uxj9Dis #twitterstorians",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FRUS",
+                "indices": [
+                    0,
+                    5
+                ]
+            },
+            {
+                "text": "twitterstorians",
+                "indices": [
+                    124,
+                    140
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        0,
-                        5
-                    ]
-                },
-                {
-                    "text": "twitterstorians",
-                    "indices": [
-                        124,
-                        140
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "http://t.co/In5uxj9Dis",
-                    "expanded_url": "http://go.usa.gov/Wtx3",
-                    "display_url": "go.usa.gov/Wtx3",
-                    "indices": [
-                        101,
-                        123
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 2,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "http://t.co/In5uxj9Dis",
+                "expanded_url": "http://go.usa.gov/Wtx3",
+                "display_url": "go.usa.gov/Wtx3",
+                "indices": [
+                    101,
+                    123
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

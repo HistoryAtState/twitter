@@ -1,65 +1,63 @@
-[
-    {
-        "created_at": "Wed Oct 19 15:03:03 +0000 2016",
-        "id": 788757358948286464,
-        "id_str": "788757358948286464",
-        "full_text": "Details on #SecState Kissinger\u2019s 1973 attempts to negotiate a stand-still agreement between Egypt and Israel: https://t.co/bHgkaINvCW #FRUS",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            139
+{
+    "created_at": "Wed Oct 19 15:03:03 +0000 2016",
+    "id": 788757358948286460,
+    "id_str": "788757358948286464",
+    "full_text": "Details on #SecState Kissinger’s 1973 attempts to negotiate a stand-still agreement between Egypt and Israel: https://t.co/bHgkaINvCW #FRUS",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "SecState",
+                "indices": [
+                    11,
+                    20
+                ]
+            },
+            {
+                "text": "FRUS",
+                "indices": [
+                    134,
+                    139
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "SecState",
-                    "indices": [
-                        11,
-                        20
-                    ]
-                },
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        134,
-                        139
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "https://t.co/bHgkaINvCW",
-                    "expanded_url": "http://go.usa.gov/xkyvu",
-                    "display_url": "go.usa.gov/xkyvu",
-                    "indices": [
-                        110,
-                        133
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 0,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/bHgkaINvCW",
+                "expanded_url": "http://go.usa.gov/xkyvu",
+                "display_url": "go.usa.gov/xkyvu",
+                "indices": [
+                    110,
+                    133
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

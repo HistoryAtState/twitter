@@ -1,71 +1,69 @@
-[
-    {
-        "created_at": "Fri Nov 02 11:40:11 +0000 2012",
-        "id": 264331065177554945,
-        "id_str": "264331065177554945",
-        "full_text": "Learn how to investigate the documents yourself at @HistoryAtState 11/7 workshop @NYPL! http://t.co/oB9Y15XD",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            108
+{
+    "created_at": "Fri Nov 02 11:40:11 +0000 2012",
+    "id": 264331065177554944,
+    "id_str": "264331065177554945",
+    "full_text": "Learn how to investigate the documents yourself at @HistoryAtState 11/7 workshop @NYPL! http://t.co/oB9Y15XD",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        108
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "HistoryAtState",
+                "name": "HistoryAtState",
+                "id": 586570880,
+                "id_str": "586570880",
+                "indices": [
+                    51,
+                    66
+                ]
+            },
+            {
+                "screen_name": "nypl",
+                "name": "NY Public Library",
+                "id": 17544803,
+                "id_str": "17544803",
+                "indices": [
+                    81,
+                    86
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "HistoryAtState",
-                    "name": "HistoryAtState",
-                    "id": 586570880,
-                    "id_str": "586570880",
-                    "indices": [
-                        51,
-                        66
-                    ]
-                },
-                {
-                    "screen_name": "nypl",
-                    "name": "NY Public Library",
-                    "id": 17544803,
-                    "id_str": "17544803",
-                    "indices": [
-                        81,
-                        86
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "http://t.co/oB9Y15XD",
-                    "expanded_url": "http://on.nypl.org/OZPi9t",
-                    "display_url": "on.nypl.org/OZPi9t",
-                    "indices": [
-                        88,
-                        108
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 3,
-        "favorite_count": 1,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "urls": [
+            {
+                "url": "http://t.co/oB9Y15XD",
+                "expanded_url": "http://on.nypl.org/OZPi9t",
+                "display_url": "on.nypl.org/OZPi9t",
+                "indices": [
+                    88,
+                    108
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

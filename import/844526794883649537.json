@@ -1,72 +1,70 @@
-[
-    {
-        "created_at": "Wed Mar 22 12:30:53 +0000 2017",
-        "id": 844526794883649537,
-        "id_str": "844526794883649537",
-        "full_text": "#SecState Rusk proposed #Water for Peace Office to direct U.S. int\u2019l water-related activities in 1967 #WorldWaterDay https://t.co/dtX8p83MK0",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            140
+{
+    "created_at": "Wed Mar 22 12:30:53 +0000 2017",
+    "id": 844526794883649540,
+    "id_str": "844526794883649537",
+    "full_text": "#SecState Rusk proposed #Water for Peace Office to direct U.S. int’l water-related activities in 1967 #WorldWaterDay https://t.co/dtX8p83MK0",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "SecState",
+                "indices": [
+                    0,
+                    9
+                ]
+            },
+            {
+                "text": "Water",
+                "indices": [
+                    24,
+                    30
+                ]
+            },
+            {
+                "text": "WorldWaterDay",
+                "indices": [
+                    102,
+                    116
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "SecState",
-                    "indices": [
-                        0,
-                        9
-                    ]
-                },
-                {
-                    "text": "Water",
-                    "indices": [
-                        24,
-                        30
-                    ]
-                },
-                {
-                    "text": "WorldWaterDay",
-                    "indices": [
-                        102,
-                        116
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "https://t.co/dtX8p83MK0",
-                    "expanded_url": "http://go.usa.gov/KQ2Y",
-                    "display_url": "go.usa.gov/KQ2Y",
-                    "indices": [
-                        117,
-                        140
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 0,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/dtX8p83MK0",
+                "expanded_url": "http://go.usa.gov/KQ2Y",
+                "display_url": "go.usa.gov/KQ2Y",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

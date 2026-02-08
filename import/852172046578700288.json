@@ -1,79 +1,77 @@
-[
-    {
-        "created_at": "Wed Apr 12 14:50:23 +0000 2017",
-        "id": 852172046578700288,
-        "id_str": "852172046578700288",
-        "full_text": "The President of #CostaRica set aside June 1, 1865, to mourn the #LincolnAssassination https://t.co/plJ1WQmD9i #FRUS #twitterstorians",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            133
+{
+    "created_at": "Wed Apr 12 14:50:23 +0000 2017",
+    "id": 852172046578700290,
+    "id_str": "852172046578700288",
+    "full_text": "The President of #CostaRica set aside June 1, 1865, to mourn the #LincolnAssassination https://t.co/plJ1WQmD9i #FRUS #twitterstorians",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        133
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "CostaRica",
+                "indices": [
+                    17,
+                    27
+                ]
+            },
+            {
+                "text": "LincolnAssassination",
+                "indices": [
+                    65,
+                    86
+                ]
+            },
+            {
+                "text": "FRUS",
+                "indices": [
+                    111,
+                    116
+                ]
+            },
+            {
+                "text": "twitterstorians",
+                "indices": [
+                    117,
+                    133
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "CostaRica",
-                    "indices": [
-                        17,
-                        27
-                    ]
-                },
-                {
-                    "text": "LincolnAssassination",
-                    "indices": [
-                        65,
-                        86
-                    ]
-                },
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        111,
-                        116
-                    ]
-                },
-                {
-                    "text": "twitterstorians",
-                    "indices": [
-                        117,
-                        133
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "https://t.co/plJ1WQmD9i",
-                    "expanded_url": "https://go.usa.gov/xX789",
-                    "display_url": "go.usa.gov/xX789",
-                    "indices": [
-                        87,
-                        110
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 1,
-        "favorite_count": 2,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/plJ1WQmD9i",
+                "expanded_url": "https://go.usa.gov/xX789",
+                "display_url": "go.usa.gov/xX789",
+                "indices": [
+                    87,
+                    110
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

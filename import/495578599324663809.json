@@ -1,65 +1,63 @@
-[
-    {
-        "created_at": "Sat Aug 02 14:35:20 +0000 2014",
-        "id": 495578599324663809,
-        "id_str": "495578599324663809",
-        "full_text": "#TDiH 1914 German charg\u00e9 at Newport RI to WDC: since Aug. 1 \"Germany is in state of war with Russia\" #WW1Tweet http://t.co/wzNsVWSJtm",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            133
+{
+    "created_at": "Sat Aug 02 14:35:20 +0000 2014",
+    "id": 495578599324663810,
+    "id_str": "495578599324663809",
+    "full_text": "#TDiH 1914 German chargé at Newport RI to WDC: since Aug. 1 \"Germany is in state of war with Russia\" #WW1Tweet http://t.co/wzNsVWSJtm",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        133
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "TDiH",
+                "indices": [
+                    0,
+                    5
+                ]
+            },
+            {
+                "text": "WW1Tweet",
+                "indices": [
+                    101,
+                    110
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "TDiH",
-                    "indices": [
-                        0,
-                        5
-                    ]
-                },
-                {
-                    "text": "WW1Tweet",
-                    "indices": [
-                        101,
-                        110
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "http://t.co/wzNsVWSJtm",
-                    "expanded_url": "http://go.usa.gov/5Mqj",
-                    "display_url": "go.usa.gov/5Mqj",
-                    "indices": [
-                        111,
-                        133
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 1,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "http://t.co/wzNsVWSJtm",
+                "expanded_url": "http://go.usa.gov/5Mqj",
+                "display_url": "go.usa.gov/5Mqj",
+                "indices": [
+                    111,
+                    133
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

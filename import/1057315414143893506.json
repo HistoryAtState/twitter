@@ -1,83 +1,81 @@
-[
-    {
-        "created_at": "Tue Oct 30 16:56:53 +0000 2018",
-        "id": 1057315414143893506,
-        "id_str": "1057315414143893506",
-        "full_text": "Just released, a @historyatstate documentary on U.S. diplomatic couriers in the 1950s. Check out what it was like to take the Orient Express from #Vienna to #Bucharest in Behind the Iron Curtain: https://t.co/k3VbG2rN8B #EverythingHasAHistory",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            242
+{
+    "created_at": "Tue Oct 30 16:56:53 +0000 2018",
+    "id": 1057315414143893500,
+    "id_str": "1057315414143893506",
+    "full_text": "Just released, a @historyatstate documentary on U.S. diplomatic couriers in the 1950s. Check out what it was like to take the Orient Express from #Vienna to #Bucharest in Behind the Iron Curtain: https://t.co/k3VbG2rN8B #EverythingHasAHistory",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        242
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Vienna",
+                "indices": [
+                    146,
+                    153
+                ]
+            },
+            {
+                "text": "Bucharest",
+                "indices": [
+                    157,
+                    167
+                ]
+            },
+            {
+                "text": "EverythingHasAHistory",
+                "indices": [
+                    220,
+                    242
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "Vienna",
-                    "indices": [
-                        146,
-                        153
-                    ]
-                },
-                {
-                    "text": "Bucharest",
-                    "indices": [
-                        157,
-                        167
-                    ]
-                },
-                {
-                    "text": "EverythingHasAHistory",
-                    "indices": [
-                        220,
-                        242
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "HistoryAtState",
-                    "name": "HistoryAtState",
-                    "id": 586570880,
-                    "id_str": "586570880",
-                    "indices": [
-                        17,
-                        32
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "https://t.co/k3VbG2rN8B",
-                    "expanded_url": "https://go.usa.gov/xPmG3",
-                    "display_url": "go.usa.gov/xPmG3",
-                    "indices": [
-                        196,
-                        219
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 3,
-        "favorite_count": 3,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "HistoryAtState",
+                "name": "HistoryAtState",
+                "id": 586570880,
+                "id_str": "586570880",
+                "indices": [
+                    17,
+                    32
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/k3VbG2rN8B",
+                "expanded_url": "https://go.usa.gov/xPmG3",
+                "display_url": "go.usa.gov/xPmG3",
+                "indices": [
+                    196,
+                    219
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

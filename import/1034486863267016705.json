@@ -1,58 +1,56 @@
-[
-    {
-        "created_at": "Tue Aug 28 17:04:22 +0000 2018",
-        "id": 1034486863267016705,
-        "id_str": "1034486863267016705",
-        "full_text": "Now available: Foreign Relations, 1873, General Correspondence; and Papers Relating to Naturalization and Expatriation, Part I, Vol. I https://t.co/gqQIBQkncH #FRUS",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            164
+{
+    "created_at": "Tue Aug 28 17:04:22 +0000 2018",
+    "id": 1034486863267016700,
+    "id_str": "1034486863267016705",
+    "full_text": "Now available: Foreign Relations, 1873, General Correspondence; and Papers Relating to Naturalization and Expatriation, Part I, Vol. I https://t.co/gqQIBQkncH #FRUS",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        164
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FRUS",
+                "indices": [
+                    159,
+                    164
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        159,
-                        164
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "https://t.co/gqQIBQkncH",
-                    "expanded_url": "https://history.state.gov/historicaldocuments/frus1873p1v1",
-                    "display_url": "history.state.gov/historicaldocu\u2026",
-                    "indices": [
-                        135,
-                        158
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 0,
-        "favorite_count": 4,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/gqQIBQkncH",
+                "expanded_url": "https://history.state.gov/historicaldocuments/frus1873p1v1",
+                "display_url": "history.state.gov/historicaldocu…",
+                "indices": [
+                    135,
+                    158
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

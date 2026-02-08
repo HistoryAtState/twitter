@@ -1,50 +1,48 @@
-[
-    {
-        "created_at": "Thu Mar 01 20:15:05 +0000 2018",
-        "id": 969305041193635840,
-        "id_str": "969305041193635840",
-        "full_text": "Now available: Foreign Relations, 1890, Transmitted to Congress, With the Annual Message of the President, December 1, 1890. https://t.co/RshDJ7gT9H",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            148
-        ],
-        "entities": {
-            "hashtags": [],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "https://t.co/RshDJ7gT9H",
-                    "expanded_url": "https://history.state.gov/historicaldocuments/frus1890",
-                    "display_url": "history.state.gov/historicaldocu\u2026",
-                    "indices": [
-                        125,
-                        148
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 2,
-        "favorite_count": 7,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+{
+    "created_at": "Thu Mar 01 20:15:05 +0000 2018",
+    "id": 969305041193635840,
+    "id_str": "969305041193635840",
+    "full_text": "Now available: Foreign Relations, 1890, Transmitted to Congress, With the Annual Message of the President, December 1, 1890. https://t.co/RshDJ7gT9H",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        148
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/RshDJ7gT9H",
+                "expanded_url": "https://history.state.gov/historicaldocuments/frus1890",
+                "display_url": "history.state.gov/historicaldocu…",
+                "indices": [
+                    125,
+                    148
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

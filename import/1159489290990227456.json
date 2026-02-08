@@ -1,169 +1,167 @@
-[
-    {
-        "created_at": "Thu Aug 08 15:39:23 +0000 2019",
-        "id": 1159489290990227456,
-        "id_str": "1159489290990227456",
-        "full_text": "The Office of the Historian releases Foreign Relations, 1977\u20131980, Volume XIX, South Asia: https://t.co/hlH57VuHBu #FRUSRelease #FRUS #twitterstorians #SouthAsianHistory @CarterLibrary https://t.co/lOD5nNkGcf",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            184
+{
+    "created_at": "Thu Aug 08 15:39:23 +0000 2019",
+    "id": 1159489290990227460,
+    "id_str": "1159489290990227456",
+    "full_text": "The Office of the Historian releases Foreign Relations, 1977–1980, Volume XIX, South Asia: https://t.co/hlH57VuHBu #FRUSRelease #FRUS #twitterstorians #SouthAsianHistory @CarterLibrary https://t.co/lOD5nNkGcf",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        184
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FRUSRelease",
+                "indices": [
+                    115,
+                    127
+                ]
+            },
+            {
+                "text": "FRUS",
+                "indices": [
+                    128,
+                    133
+                ]
+            },
+            {
+                "text": "twitterstorians",
+                "indices": [
+                    134,
+                    150
+                ]
+            },
+            {
+                "text": "SouthAsianHistory",
+                "indices": [
+                    151,
+                    169
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "FRUSRelease",
-                    "indices": [
-                        115,
-                        127
-                    ]
-                },
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        128,
-                        133
-                    ]
-                },
-                {
-                    "text": "twitterstorians",
-                    "indices": [
-                        134,
-                        150
-                    ]
-                },
-                {
-                    "text": "SouthAsianHistory",
-                    "indices": [
-                        151,
-                        169
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "CarterLibrary",
-                    "name": "Jimmy Carter Presidential Library",
-                    "id": 19660388,
-                    "id_str": "19660388",
-                    "indices": [
-                        170,
-                        184
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "https://t.co/hlH57VuHBu",
-                    "expanded_url": "https://go.usa.gov/xyFfQ",
-                    "display_url": "go.usa.gov/xyFfQ",
-                    "indices": [
-                        91,
-                        114
-                    ]
-                }
-            ],
-            "media": [
-                {
-                    "id": 1159489287399886848,
-                    "id_str": "1159489287399886848",
-                    "indices": [
-                        185,
-                        208
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/EBdVXRhXUAAnRKv.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/EBdVXRhXUAAnRKv.jpg",
-                    "url": "https://t.co/lOD5nNkGcf",
-                    "display_url": "pic.twitter.com/lOD5nNkGcf",
-                    "expanded_url": "https://twitter.com/HistoryAtState/status/1159489290990227456/photo/1",
-                    "type": "photo",
-                    "sizes": {
-                        "medium": {
-                            "w": 400,
-                            "h": 600,
-                            "resize": "fit"
-                        },
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
-                        },
-                        "large": {
-                            "w": 400,
-                            "h": 600,
-                            "resize": "fit"
-                        },
-                        "small": {
-                            "w": 400,
-                            "h": 600,
-                            "resize": "fit"
-                        }
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "CarterLibrary",
+                "name": "Jimmy Carter Presidential Library",
+                "id": 19660388,
+                "id_str": "19660388",
+                "indices": [
+                    170,
+                    184
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/hlH57VuHBu",
+                "expanded_url": "https://go.usa.gov/xyFfQ",
+                "display_url": "go.usa.gov/xyFfQ",
+                "indices": [
+                    91,
+                    114
+                ]
+            }
+        ],
+        "media": [
+            {
+                "id": 1159489287399886850,
+                "id_str": "1159489287399886848",
+                "indices": [
+                    185,
+                    208
+                ],
+                "media_url": "http://pbs.twimg.com/media/EBdVXRhXUAAnRKv.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EBdVXRhXUAAnRKv.jpg",
+                "url": "https://t.co/lOD5nNkGcf",
+                "display_url": "pic.twitter.com/lOD5nNkGcf",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1159489290990227456/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 400,
+                        "h": 600,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 400,
+                        "h": 600,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 400,
+                        "h": 600,
+                        "resize": "fit"
                     }
                 }
-            ]
-        },
-        "extended_entities": {
-            "media": [
-                {
-                    "id": 1159489287399886848,
-                    "id_str": "1159489287399886848",
-                    "indices": [
-                        185,
-                        208
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/EBdVXRhXUAAnRKv.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/EBdVXRhXUAAnRKv.jpg",
-                    "url": "https://t.co/lOD5nNkGcf",
-                    "display_url": "pic.twitter.com/lOD5nNkGcf",
-                    "expanded_url": "https://twitter.com/HistoryAtState/status/1159489290990227456/photo/1",
-                    "type": "photo",
-                    "sizes": {
-                        "medium": {
-                            "w": 400,
-                            "h": 600,
-                            "resize": "fit"
-                        },
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
-                        },
-                        "large": {
-                            "w": 400,
-                            "h": 600,
-                            "resize": "fit"
-                        },
-                        "small": {
-                            "w": 400,
-                            "h": 600,
-                            "resize": "fit"
-                        }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1159489287399886850,
+                "id_str": "1159489287399886848",
+                "indices": [
+                    185,
+                    208
+                ],
+                "media_url": "http://pbs.twimg.com/media/EBdVXRhXUAAnRKv.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EBdVXRhXUAAnRKv.jpg",
+                "url": "https://t.co/lOD5nNkGcf",
+                "display_url": "pic.twitter.com/lOD5nNkGcf",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1159489290990227456/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 400,
+                        "h": 600,
+                        "resize": "fit"
                     },
-                    "ext_alt_text": "Volume cover for Foreign Relations of the United States, 1977-1980, Volume XIX, South Asia"
-                }
-            ]
-        },
-        "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 56,
-        "favorite_count": 87,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 400,
+                        "h": 600,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 400,
+                        "h": 600,
+                        "resize": "fit"
+                    }
+                },
+                "ext_alt_text": "Volume cover for Foreign Relations of the United States, 1977-1980, Volume XIX, South Asia"
+            }
+        ]
+    },
+    "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 56,
+    "favorite_count": 87,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

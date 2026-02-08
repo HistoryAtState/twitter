@@ -1,76 +1,74 @@
-[
-    {
-        "created_at": "Tue Jun 20 16:15:13 +0000 2017",
-        "id": 877198159897931777,
-        "id_str": "877198159897931777",
-        "full_text": "We will be at #SHAFR2017, June 22\u201324!\nhttps://t.co/bYAjsfPfs6 @SHAFRhistorians #twitterstorians",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            95
+{
+    "created_at": "Tue Jun 20 16:15:13 +0000 2017",
+    "id": 877198159897931780,
+    "id_str": "877198159897931777",
+    "full_text": "We will be at #SHAFR2017, June 22–24!\nhttps://t.co/bYAjsfPfs6 @SHAFRhistorians #twitterstorians",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        95
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "SHAFR2017",
+                "indices": [
+                    14,
+                    24
+                ]
+            },
+            {
+                "text": "twitterstorians",
+                "indices": [
+                    79,
+                    95
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "SHAFR2017",
-                    "indices": [
-                        14,
-                        24
-                    ]
-                },
-                {
-                    "text": "twitterstorians",
-                    "indices": [
-                        79,
-                        95
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "SHAFRhistorians",
-                    "name": "SHAFR Historians",
-                    "id": 2169482554,
-                    "id_str": "2169482554",
-                    "indices": [
-                        62,
-                        78
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "https://t.co/bYAjsfPfs6",
-                    "expanded_url": "https://shafr.org/conferences/annual/2017-annual-meeting",
-                    "display_url": "shafr.org/conferences/an\u2026",
-                    "indices": [
-                        38,
-                        61
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 2,
-        "favorite_count": 5,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "SHAFRhistorians",
+                "name": "SHAFR Historians",
+                "id": 2169482554,
+                "id_str": "2169482554",
+                "indices": [
+                    62,
+                    78
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/bYAjsfPfs6",
+                "expanded_url": "https://shafr.org/conferences/annual/2017-annual-meeting",
+                "display_url": "shafr.org/conferences/an…",
+                "indices": [
+                    38,
+                    61
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

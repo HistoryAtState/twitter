@@ -1,65 +1,63 @@
-[
-    {
-        "created_at": "Mon Mar 03 15:33:15 +0000 2014",
-        "id": 440510218427183104,
-        "id_str": "440510218427183104",
-        "full_text": "Do some pre-workshop prep; review our recent #FRUS vol on the Congo 1960-68 \u2013 available online &amp; as #ebook http://t.co/sLkW4yCy5U",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            133
+{
+    "created_at": "Mon Mar 03 15:33:15 +0000 2014",
+    "id": 440510218427183100,
+    "id_str": "440510218427183104",
+    "full_text": "Do some pre-workshop prep; review our recent #FRUS vol on the Congo 1960-68 – available online &amp;amp; as #ebook http://t.co/sLkW4yCy5U",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        133
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FRUS",
+                "indices": [
+                    45,
+                    50
+                ]
+            },
+            {
+                "text": "ebook",
+                "indices": [
+                    104,
+                    110
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        45,
-                        50
-                    ]
-                },
-                {
-                    "text": "ebook",
-                    "indices": [
-                        104,
-                        110
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "http://t.co/sLkW4yCy5U",
-                    "expanded_url": "http://go.usa.gov/ZgyT",
-                    "display_url": "go.usa.gov/ZgyT",
-                    "indices": [
-                        111,
-                        133
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 1,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "http://t.co/sLkW4yCy5U",
+                "expanded_url": "http://go.usa.gov/ZgyT",
+                "display_url": "go.usa.gov/ZgyT",
+                "indices": [
+                    111,
+                    133
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

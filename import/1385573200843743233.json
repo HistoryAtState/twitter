@@ -1,34 +1,113 @@
-[
-    {
-        "created_at": "Fri Apr 23 12:36:08 +0000 2021",
-        "id": 1385573200843743233,
-        "id_str": "1385573200843743233",
-        "full_text": "RT @HistoryAtState: The Office of the Historian releases Foreign Relations, 1981\u20131988, Volume XI, START I:\nhttps://t.co/cFkGPSp5S7\n#FRUS #F\u2026",
+{
+    "created_at": "Fri Apr 23 12:36:08 +0000 2021",
+    "id": 1385573200843743230,
+    "id_str": "1385573200843743233",
+    "full_text": "RT @HistoryAtState: The Office of the Historian releases Foreign Relations, 1981–1988, Volume XI, START I:\nhttps://t.co/cFkGPSp5S7\n#FRUS #F…",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FRUS",
+                "indices": [
+                    131,
+                    136
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "HistoryAtState",
+                "name": "HistoryAtState",
+                "id": 586570880,
+                "id_str": "586570880",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/cFkGPSp5S7",
+                "expanded_url": "https://history.state.gov/historicaldocuments/frus1981-88v11",
+                "display_url": "history.state.gov/historicaldocu…",
+                "indices": [
+                    107,
+                    130
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Apr 22 21:35:03 +0000 2021",
+        "id": 1385346436129230850,
+        "id_str": "1385346436129230851",
+        "full_text": "The Office of the Historian releases Foreign Relations, 1981–1988, Volume XI, START I:\nhttps://t.co/cFkGPSp5S7\n#FRUS #FRUSRelease #STARTtreaty #twitterstorians @Reagan_Library https://t.co/hJwKdxqfoq",
         "truncated": false,
         "display_text_range": [
             0,
-            140
+            175
         ],
         "entities": {
             "hashtags": [
                 {
                     "text": "FRUS",
                     "indices": [
-                        131,
-                        136
+                        111,
+                        116
+                    ]
+                },
+                {
+                    "text": "FRUSRelease",
+                    "indices": [
+                        117,
+                        129
+                    ]
+                },
+                {
+                    "text": "STARTtreaty",
+                    "indices": [
+                        130,
+                        142
+                    ]
+                },
+                {
+                    "text": "twitterstorians",
+                    "indices": [
+                        143,
+                        159
                     ]
                 }
             ],
             "symbols": [],
             "user_mentions": [
                 {
-                    "screen_name": "HistoryAtState",
-                    "name": "HistoryAtState",
-                    "id": 586570880,
-                    "id_str": "586570880",
+                    "screen_name": "Reagan_Library",
+                    "name": "RonaldReaganLibrary",
+                    "id": 394351710,
+                    "id_str": "394351710",
                     "indices": [
-                        3,
-                        18
+                        160,
+                        175
                     ]
                 }
             ],
@@ -36,15 +115,94 @@
                 {
                     "url": "https://t.co/cFkGPSp5S7",
                     "expanded_url": "https://history.state.gov/historicaldocuments/frus1981-88v11",
-                    "display_url": "history.state.gov/historicaldocu\u2026",
+                    "display_url": "history.state.gov/historicaldocu…",
                     "indices": [
-                        107,
-                        130
+                        87,
+                        110
                     ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1385346434757808130,
+                    "id_str": "1385346434757808134",
+                    "indices": [
+                        176,
+                        199
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/Ezm9PhaX0AYZ_7x.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/Ezm9PhaX0AYZ_7x.jpg",
+                    "url": "https://t.co/hJwKdxqfoq",
+                    "display_url": "pic.twitter.com/hJwKdxqfoq",
+                    "expanded_url": "https://twitter.com/HistoryAtState/status/1385346436129230851/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 400,
+                            "h": 600,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 400,
+                            "h": 600,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 400,
+                            "h": 600,
+                            "resize": "fit"
+                        }
+                    }
                 }
             ]
         },
-        "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1385346434757808130,
+                    "id_str": "1385346434757808134",
+                    "indices": [
+                        176,
+                        199
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/Ezm9PhaX0AYZ_7x.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/Ezm9PhaX0AYZ_7x.jpg",
+                    "url": "https://t.co/hJwKdxqfoq",
+                    "display_url": "pic.twitter.com/hJwKdxqfoq",
+                    "expanded_url": "https://twitter.com/HistoryAtState/status/1385346436129230851/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 400,
+                            "h": 600,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 400,
+                            "h": 600,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 400,
+                            "h": 600,
+                            "resize": "fit"
+                        }
+                    },
+                    "ext_alt_text": "Volume Cover of Foreign Relations, 1981–1988, Volume XI, START I"
+                }
+            ]
+        },
+        "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
@@ -58,179 +216,19 @@
         "coordinates": null,
         "place": null,
         "contributors": null,
-        "retweeted_status": {
-            "created_at": "Thu Apr 22 21:35:03 +0000 2021",
-            "id": 1385346436129230851,
-            "id_str": "1385346436129230851",
-            "full_text": "The Office of the Historian releases Foreign Relations, 1981\u20131988, Volume XI, START I:\nhttps://t.co/cFkGPSp5S7\n#FRUS #FRUSRelease #STARTtreaty #twitterstorians @Reagan_Library https://t.co/hJwKdxqfoq",
-            "truncated": false,
-            "display_text_range": [
-                0,
-                175
-            ],
-            "entities": {
-                "hashtags": [
-                    {
-                        "text": "FRUS",
-                        "indices": [
-                            111,
-                            116
-                        ]
-                    },
-                    {
-                        "text": "FRUSRelease",
-                        "indices": [
-                            117,
-                            129
-                        ]
-                    },
-                    {
-                        "text": "STARTtreaty",
-                        "indices": [
-                            130,
-                            142
-                        ]
-                    },
-                    {
-                        "text": "twitterstorians",
-                        "indices": [
-                            143,
-                            159
-                        ]
-                    }
-                ],
-                "symbols": [],
-                "user_mentions": [
-                    {
-                        "screen_name": "Reagan_Library",
-                        "name": "RonaldReaganLibrary",
-                        "id": 394351710,
-                        "id_str": "394351710",
-                        "indices": [
-                            160,
-                            175
-                        ]
-                    }
-                ],
-                "urls": [
-                    {
-                        "url": "https://t.co/cFkGPSp5S7",
-                        "expanded_url": "https://history.state.gov/historicaldocuments/frus1981-88v11",
-                        "display_url": "history.state.gov/historicaldocu\u2026",
-                        "indices": [
-                            87,
-                            110
-                        ]
-                    }
-                ],
-                "media": [
-                    {
-                        "id": 1385346434757808134,
-                        "id_str": "1385346434757808134",
-                        "indices": [
-                            176,
-                            199
-                        ],
-                        "media_url": "http://pbs.twimg.com/media/Ezm9PhaX0AYZ_7x.jpg",
-                        "media_url_https": "https://pbs.twimg.com/media/Ezm9PhaX0AYZ_7x.jpg",
-                        "url": "https://t.co/hJwKdxqfoq",
-                        "display_url": "pic.twitter.com/hJwKdxqfoq",
-                        "expanded_url": "https://twitter.com/HistoryAtState/status/1385346436129230851/photo/1",
-                        "type": "photo",
-                        "sizes": {
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
-                            "medium": {
-                                "w": 400,
-                                "h": 600,
-                                "resize": "fit"
-                            },
-                            "small": {
-                                "w": 400,
-                                "h": 600,
-                                "resize": "fit"
-                            },
-                            "large": {
-                                "w": 400,
-                                "h": 600,
-                                "resize": "fit"
-                            }
-                        }
-                    }
-                ]
-            },
-            "extended_entities": {
-                "media": [
-                    {
-                        "id": 1385346434757808134,
-                        "id_str": "1385346434757808134",
-                        "indices": [
-                            176,
-                            199
-                        ],
-                        "media_url": "http://pbs.twimg.com/media/Ezm9PhaX0AYZ_7x.jpg",
-                        "media_url_https": "https://pbs.twimg.com/media/Ezm9PhaX0AYZ_7x.jpg",
-                        "url": "https://t.co/hJwKdxqfoq",
-                        "display_url": "pic.twitter.com/hJwKdxqfoq",
-                        "expanded_url": "https://twitter.com/HistoryAtState/status/1385346436129230851/photo/1",
-                        "type": "photo",
-                        "sizes": {
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
-                            "medium": {
-                                "w": 400,
-                                "h": 600,
-                                "resize": "fit"
-                            },
-                            "small": {
-                                "w": 400,
-                                "h": 600,
-                                "resize": "fit"
-                            },
-                            "large": {
-                                "w": 400,
-                                "h": 600,
-                                "resize": "fit"
-                            }
-                        },
-                        "ext_alt_text": "Volume Cover of Foreign Relations, 1981–1988, Volume XI, START I"
-                    }
-                ]
-            },
-            "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
-            "user": {
-                "id": 586570880,
-                "id_str": "586570880"
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "is_quote_status": false,
-            "retweet_count": 105,
-            "favorite_count": 234,
-            "favorited": false,
-            "retweeted": true,
-            "possibly_sensitive": false,
-            "lang": "en"
-        },
         "is_quote_status": false,
         "retweet_count": 105,
-        "favorite_count": 0,
+        "favorite_count": 234,
         "favorited": false,
         "retweeted": true,
         "possibly_sensitive": false,
         "lang": "en"
-    }
-]
+    },
+    "is_quote_status": false,
+    "retweet_count": 105,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

@@ -1,72 +1,70 @@
-[
-    {
-        "created_at": "Tue Dec 05 20:45:10 +0000 2017",
-        "id": 938147257987330049,
-        "id_str": "938147257987330049",
-        "full_text": "What did #Soviet audiences think of Steve McQueen in \u201cThe Great Escape?\u201d Read Murrow\u2019s account to President Kennedy https://t.co/6jcSzIBudT #FRUS #twitterstorians",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            162
+{
+    "created_at": "Tue Dec 05 20:45:10 +0000 2017",
+    "id": 938147257987330050,
+    "id_str": "938147257987330049",
+    "full_text": "What did #Soviet audiences think of Steve McQueen in “The Great Escape?” Read Murrow’s account to President Kennedy https://t.co/6jcSzIBudT #FRUS #twitterstorians",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        162
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Soviet",
+                "indices": [
+                    9,
+                    16
+                ]
+            },
+            {
+                "text": "FRUS",
+                "indices": [
+                    140,
+                    145
+                ]
+            },
+            {
+                "text": "twitterstorians",
+                "indices": [
+                    146,
+                    162
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "Soviet",
-                    "indices": [
-                        9,
-                        16
-                    ]
-                },
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        140,
-                        145
-                    ]
-                },
-                {
-                    "text": "twitterstorians",
-                    "indices": [
-                        146,
-                        162
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "https://t.co/6jcSzIBudT",
-                    "expanded_url": "https://history.state.gov/historicaldocuments/frus1917-72PubDipv06/d137",
-                    "display_url": "history.state.gov/historicaldocu\u2026",
-                    "indices": [
-                        116,
-                        139
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 5,
-        "favorite_count": 5,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/6jcSzIBudT",
+                "expanded_url": "https://history.state.gov/historicaldocuments/frus1917-72PubDipv06/d137",
+                "display_url": "history.state.gov/historicaldocu…",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

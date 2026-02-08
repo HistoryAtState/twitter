@@ -1,76 +1,74 @@
-[
-    {
-        "created_at": "Wed Jul 30 13:01:58 +0000 2014",
-        "id": 494467942755876864,
-        "id_str": "494467942755876864",
-        "full_text": "#TDiH 1914 @usbotschaft Amb Gerard cables: \u201cThink Germany\u2019s efforts toward peace fruitless\u201d &amp; \u201cwar certain\u201d #WW1Tweet http://t.co/iYX1F6U9mf",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            144
+{
+    "created_at": "Wed Jul 30 13:01:58 +0000 2014",
+    "id": 494467942755876860,
+    "id_str": "494467942755876864",
+    "full_text": "#TDiH 1914 @usbotschaft Amb Gerard cables: “Think Germany’s efforts toward peace fruitless” &amp;amp; “war certain” #WW1Tweet http://t.co/iYX1F6U9mf",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        144
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "TDiH",
+                "indices": [
+                    0,
+                    5
+                ]
+            },
+            {
+                "text": "WW1Tweet",
+                "indices": [
+                    112,
+                    121
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "TDiH",
-                    "indices": [
-                        0,
-                        5
-                    ]
-                },
-                {
-                    "text": "WW1Tweet",
-                    "indices": [
-                        112,
-                        121
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "usbotschaft",
-                    "name": "US-Botschaft Berlin",
-                    "id": 50965086,
-                    "id_str": "50965086",
-                    "indices": [
-                        11,
-                        23
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "http://t.co/iYX1F6U9mf",
-                    "expanded_url": "http://go.usa.gov/5wk3",
-                    "display_url": "go.usa.gov/5wk3",
-                    "indices": [
-                        122,
-                        144
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 2,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "usbotschaft",
+                "name": "US-Botschaft Berlin",
+                "id": 50965086,
+                "id_str": "50965086",
+                "indices": [
+                    11,
+                    23
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "http://t.co/iYX1F6U9mf",
+                "expanded_url": "http://go.usa.gov/5wk3",
+                "display_url": "go.usa.gov/5wk3",
+                "indices": [
+                    122,
+                    144
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

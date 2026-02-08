@@ -1,61 +1,59 @@
-[
-    {
-        "created_at": "Fri Apr 21 11:15:15 +0000 2017",
-        "id": 855379400040251392,
-        "id_str": "855379400040251392",
-        "full_text": "#FRUS as a declass engine, promoting govt transparency. FRUS vols demonstrate high-level decision making process #ncph2017 #s32 8:30 a.m.",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            137
+{
+    "created_at": "Fri Apr 21 11:15:15 +0000 2017",
+    "id": 855379400040251390,
+    "id_str": "855379400040251392",
+    "full_text": "#FRUS as a declass engine, promoting govt transparency. FRUS vols demonstrate high-level decision making process #ncph2017 #s32 8:30 a.m.",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        137
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FRUS",
+                "indices": [
+                    0,
+                    5
+                ]
+            },
+            {
+                "text": "ncph2017",
+                "indices": [
+                    113,
+                    122
+                ]
+            },
+            {
+                "text": "s32",
+                "indices": [
+                    123,
+                    127
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        0,
-                        5
-                    ]
-                },
-                {
-                    "text": "ncph2017",
-                    "indices": [
-                        113,
-                        122
-                    ]
-                },
-                {
-                    "text": "s32",
-                    "indices": [
-                        123,
-                        127
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": []
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 1,
-        "favorite_count": 1,
-        "favorited": false,
-        "retweeted": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

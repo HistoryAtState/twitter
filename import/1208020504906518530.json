@@ -1,138 +1,136 @@
-[
-    {
-        "created_at": "Fri Dec 20 13:45:06 +0000 2019",
-        "id": 1208020504906518530,
-        "id_str": "1208020504906518530",
-        "full_text": "It\u2019s Day 4 of the #7PhotosOfMyLife Challenge. No people or explanations allowed. Today\u2019s challenge goes to @CarterLibrary https://t.co/X8hlznknKm",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            121
+{
+    "created_at": "Fri Dec 20 13:45:06 +0000 2019",
+    "id": 1208020504906518530,
+    "id_str": "1208020504906518530",
+    "full_text": "It’s Day 4 of the #7PhotosOfMyLife Challenge. No people or explanations allowed. Today’s challenge goes to @CarterLibrary https://t.co/X8hlznknKm",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        121
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "7PhotosOfMyLife",
+                "indices": [
+                    18,
+                    34
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "7PhotosOfMyLife",
-                    "indices": [
-                        18,
-                        34
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "CarterLibrary",
-                    "name": "Jimmy Carter Presidential Library",
-                    "id": 19660388,
-                    "id_str": "19660388",
-                    "indices": [
-                        107,
-                        121
-                    ]
-                }
-            ],
-            "urls": [],
-            "media": [
-                {
-                    "id": 1208020502427656194,
-                    "id_str": "1208020502427656194",
-                    "indices": [
-                        122,
-                        145
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/EMPAPyCW4AIhlfX.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/EMPAPyCW4AIhlfX.jpg",
-                    "url": "https://t.co/X8hlznknKm",
-                    "display_url": "pic.twitter.com/X8hlznknKm",
-                    "expanded_url": "https://twitter.com/HistoryAtState/status/1208020504906518530/photo/1",
-                    "type": "photo",
-                    "sizes": {
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
-                        },
-                        "small": {
-                            "w": 680,
-                            "h": 360,
-                            "resize": "fit"
-                        },
-                        "large": {
-                            "w": 1588,
-                            "h": 840,
-                            "resize": "fit"
-                        },
-                        "medium": {
-                            "w": 1200,
-                            "h": 635,
-                            "resize": "fit"
-                        }
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "CarterLibrary",
+                "name": "Jimmy Carter Presidential Library",
+                "id": 19660388,
+                "id_str": "19660388",
+                "indices": [
+                    107,
+                    121
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1208020502427656190,
+                "id_str": "1208020502427656194",
+                "indices": [
+                    122,
+                    145
+                ],
+                "media_url": "http://pbs.twimg.com/media/EMPAPyCW4AIhlfX.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EMPAPyCW4AIhlfX.jpg",
+                "url": "https://t.co/X8hlznknKm",
+                "display_url": "pic.twitter.com/X8hlznknKm",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1208020504906518530/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 360,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1588,
+                        "h": 840,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 635,
+                        "resize": "fit"
                     }
                 }
-            ]
-        },
-        "extended_entities": {
-            "media": [
-                {
-                    "id": 1208020502427656194,
-                    "id_str": "1208020502427656194",
-                    "indices": [
-                        122,
-                        145
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/EMPAPyCW4AIhlfX.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/EMPAPyCW4AIhlfX.jpg",
-                    "url": "https://t.co/X8hlznknKm",
-                    "display_url": "pic.twitter.com/X8hlznknKm",
-                    "expanded_url": "https://twitter.com/HistoryAtState/status/1208020504906518530/photo/1",
-                    "type": "photo",
-                    "sizes": {
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
-                        },
-                        "small": {
-                            "w": 680,
-                            "h": 360,
-                            "resize": "fit"
-                        },
-                        "large": {
-                            "w": 1588,
-                            "h": 840,
-                            "resize": "fit"
-                        },
-                        "medium": {
-                            "w": 1200,
-                            "h": 635,
-                            "resize": "fit"
-                        }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1208020502427656190,
+                "id_str": "1208020502427656194",
+                "indices": [
+                    122,
+                    145
+                ],
+                "media_url": "http://pbs.twimg.com/media/EMPAPyCW4AIhlfX.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EMPAPyCW4AIhlfX.jpg",
+                "url": "https://t.co/X8hlznknKm",
+                "display_url": "pic.twitter.com/X8hlznknKm",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1208020504906518530/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
                     },
-                    "ext_alt_text": "Screenshot of the history.state.gov Principal Officers and Chiefs of Mission web page"
-                }
-            ]
-        },
-        "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 0,
-        "favorite_count": 2,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+                    "small": {
+                        "w": 680,
+                        "h": 360,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1588,
+                        "h": 840,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 635,
+                        "resize": "fit"
+                    }
+                },
+                "ext_alt_text": "Screenshot of the history.state.gov Principal Officers and Chiefs of Mission web page"
+            }
+        ]
+    },
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

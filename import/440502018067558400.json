@@ -1,69 +1,67 @@
-[
-    {
-        "created_at": "Mon Mar 03 15:00:39 +0000 2014",
-        "id": 440502018067558400,
-        "id_str": "440502018067558400",
-        "full_text": "The @StateDept analyzes the impact of #HumanRights reports on U.S. foreign relations. http://t.co/Reihq9v3Tb",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            108
+{
+    "created_at": "Mon Mar 03 15:00:39 +0000 2014",
+    "id": 440502018067558400,
+    "id_str": "440502018067558400",
+    "full_text": "The @StateDept analyzes the impact of #HumanRights reports on U.S. foreign relations. http://t.co/Reihq9v3Tb",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        108
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "HumanRights",
+                "indices": [
+                    38,
+                    50
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "HumanRights",
-                    "indices": [
-                        38,
-                        50
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "StateDept",
-                    "name": "Department of State",
-                    "id": 9624742,
-                    "id_str": "9624742",
-                    "indices": [
-                        4,
-                        14
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "http://t.co/Reihq9v3Tb",
-                    "expanded_url": "http://go.usa.gov/BsFJ",
-                    "display_url": "go.usa.gov/BsFJ",
-                    "indices": [
-                        86,
-                        108
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 1,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "StateDept",
+                "name": "Department of State",
+                "id": 9624742,
+                "id_str": "9624742",
+                "indices": [
+                    4,
+                    14
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "http://t.co/Reihq9v3Tb",
+                "expanded_url": "http://go.usa.gov/BsFJ",
+                "display_url": "go.usa.gov/BsFJ",
+                "indices": [
+                    86,
+                    108
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

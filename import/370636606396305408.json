@@ -1,58 +1,56 @@
-[
-    {
-        "created_at": "Thu Aug 22 20:00:27 +0000 2013",
-        "id": 370636606396305408,
-        "id_str": "370636606396305408",
-        "full_text": "The Office of the Historian releases Foreign Relations, Human Rights and Humanitarian Affairs, 1977-1980 http://t.co/cw4aMHNKAP #FRUS",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            133
+{
+    "created_at": "Thu Aug 22 20:00:27 +0000 2013",
+    "id": 370636606396305410,
+    "id_str": "370636606396305408",
+    "full_text": "The Office of the Historian releases Foreign Relations, Human Rights and Humanitarian Affairs, 1977-1980 http://t.co/cw4aMHNKAP #FRUS",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        133
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FRUS",
+                "indices": [
+                    128,
+                    133
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        128,
-                        133
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "http://t.co/cw4aMHNKAP",
-                    "expanded_url": "http://go.usa.gov/juXT",
-                    "display_url": "go.usa.gov/juXT",
-                    "indices": [
-                        105,
-                        127
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 5,
-        "favorite_count": 1,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "http://t.co/cw4aMHNKAP",
+                "expanded_url": "http://go.usa.gov/juXT",
+                "display_url": "go.usa.gov/juXT",
+                "indices": [
+                    105,
+                    127
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

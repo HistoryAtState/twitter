@@ -1,65 +1,63 @@
-[
-    {
-        "created_at": "Wed Apr 12 19:50:11 +0000 2017",
-        "id": 852247494809583616,
-        "id_str": "852247494809583616",
-        "full_text": "Pierre Bonaparte, Napoleon\u2019s nephew, expressed \"profound afflication\" on #LincolnAssassination https://t.co/ay0K1Qp9NY #FRUS",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            124
+{
+    "created_at": "Wed Apr 12 19:50:11 +0000 2017",
+    "id": 852247494809583620,
+    "id_str": "852247494809583616",
+    "full_text": "Pierre Bonaparte, Napoleon’s nephew, expressed \"profound afflication\" on #LincolnAssassination https://t.co/ay0K1Qp9NY #FRUS",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        124
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "LincolnAssassination",
+                "indices": [
+                    73,
+                    94
+                ]
+            },
+            {
+                "text": "FRUS",
+                "indices": [
+                    119,
+                    124
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "LincolnAssassination",
-                    "indices": [
-                        73,
-                        94
-                    ]
-                },
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        119,
-                        124
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "https://t.co/ay0K1Qp9NY",
-                    "expanded_url": "https://go.usa.gov/xX75j",
-                    "display_url": "go.usa.gov/xX75j",
-                    "indices": [
-                        95,
-                        118
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 1,
-        "favorite_count": 1,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/ay0K1Qp9NY",
+                "expanded_url": "https://go.usa.gov/xX75j",
+                "display_url": "go.usa.gov/xX75j",
+                "indices": [
+                    95,
+                    118
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

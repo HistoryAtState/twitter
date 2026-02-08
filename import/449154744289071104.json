@@ -1,80 +1,78 @@
-[
-    {
-        "created_at": "Thu Mar 27 12:03:30 +0000 2014",
-        "id": 449154744289071104,
-        "id_str": "449154744289071104",
-        "full_text": "Nifty experiment: compare Wilson\u2019s Rome-Vatican sked http://t.co/MzI3VOME3Q w/original http://t.co/JD4jrikKoL @AmbasciataUSA @USinHolySee",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            137
+{
+    "created_at": "Thu Mar 27 12:03:30 +0000 2014",
+    "id": 449154744289071100,
+    "id_str": "449154744289071104",
+    "full_text": "Nifty experiment: compare Wilson’s Rome-Vatican sked http://t.co/MzI3VOME3Q w/original http://t.co/JD4jrikKoL @AmbasciataUSA @USinHolySee",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        137
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "AmbasciataUSA",
+                "name": "Ambasciata U.S.A.",
+                "id": 36624443,
+                "id_str": "36624443",
+                "indices": [
+                    110,
+                    124
+                ]
+            },
+            {
+                "screen_name": "USinHolySee",
+                "name": "U.S. in Holy See",
+                "id": 947388787,
+                "id_str": "947388787",
+                "indices": [
+                    125,
+                    137
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "AmbasciataUSA",
-                    "name": "Ambasciata U.S.A.",
-                    "id": 36624443,
-                    "id_str": "36624443",
-                    "indices": [
-                        110,
-                        124
-                    ]
-                },
-                {
-                    "screen_name": "USinHolySee",
-                    "name": "U.S. in Holy See",
-                    "id": 947388787,
-                    "id_str": "947388787",
-                    "indices": [
-                        125,
-                        137
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "http://t.co/MzI3VOME3Q",
-                    "expanded_url": "http://ow.ly/uKyIt",
-                    "display_url": "ow.ly/uKyIt",
-                    "indices": [
-                        53,
-                        75
-                    ]
-                },
-                {
-                    "url": "http://t.co/JD4jrikKoL",
-                    "expanded_url": "http://ow.ly/uKyOc",
-                    "display_url": "ow.ly/uKyOc",
-                    "indices": [
-                        87,
-                        109
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 1,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "urls": [
+            {
+                "url": "http://t.co/MzI3VOME3Q",
+                "expanded_url": "http://ow.ly/uKyIt",
+                "display_url": "ow.ly/uKyIt",
+                "indices": [
+                    53,
+                    75
+                ]
+            },
+            {
+                "url": "http://t.co/JD4jrikKoL",
+                "expanded_url": "http://ow.ly/uKyOc",
+                "display_url": "ow.ly/uKyOc",
+                "indices": [
+                    87,
+                    109
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

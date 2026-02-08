@@ -1,183 +1,181 @@
-[
-    {
-        "created_at": "Tue Sep 28 15:02:15 +0000 2021",
-        "id": 1442867253347696640,
-        "id_str": "1442867253347696640",
-        "full_text": "#twitterstorians, spread the word: Presidential Management Fellows Program applications open TODAY\n\nCurrent or recent grad students interested in #diplomaticHistory, #foreignRelations, #natSec, or #digitalHistory, apply to be a #PMF with @HistoryAtState: https://t.co/9MdLibXAXh https://t.co/giWKXfuQph",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            278
+{
+    "created_at": "Tue Sep 28 15:02:15 +0000 2021",
+    "id": 1442867253347696640,
+    "id_str": "1442867253347696640",
+    "full_text": "#twitterstorians, spread the word: Presidential Management Fellows Program applications open TODAY\n\nCurrent or recent grad students interested in #diplomaticHistory, #foreignRelations, #natSec, or #digitalHistory, apply to be a #PMF with @HistoryAtState: https://t.co/9MdLibXAXh https://t.co/giWKXfuQph",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        278
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "twitterstorians",
+                "indices": [
+                    0,
+                    16
+                ]
+            },
+            {
+                "text": "diplomaticHistory",
+                "indices": [
+                    146,
+                    164
+                ]
+            },
+            {
+                "text": "foreignRelations",
+                "indices": [
+                    166,
+                    183
+                ]
+            },
+            {
+                "text": "natSec",
+                "indices": [
+                    185,
+                    192
+                ]
+            },
+            {
+                "text": "digitalHistory",
+                "indices": [
+                    197,
+                    212
+                ]
+            },
+            {
+                "text": "PMF",
+                "indices": [
+                    228,
+                    232
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "twitterstorians",
-                    "indices": [
-                        0,
-                        16
-                    ]
-                },
-                {
-                    "text": "diplomaticHistory",
-                    "indices": [
-                        146,
-                        164
-                    ]
-                },
-                {
-                    "text": "foreignRelations",
-                    "indices": [
-                        166,
-                        183
-                    ]
-                },
-                {
-                    "text": "natSec",
-                    "indices": [
-                        185,
-                        192
-                    ]
-                },
-                {
-                    "text": "digitalHistory",
-                    "indices": [
-                        197,
-                        212
-                    ]
-                },
-                {
-                    "text": "PMF",
-                    "indices": [
-                        228,
-                        232
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "HistoryAtState",
-                    "name": "HistoryAtState",
-                    "id": 586570880,
-                    "id_str": "586570880",
-                    "indices": [
-                        238,
-                        253
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "https://t.co/9MdLibXAXh",
-                    "expanded_url": "https://bit.ly/OH-PMF",
-                    "display_url": "bit.ly/OH-PMF",
-                    "indices": [
-                        255,
-                        278
-                    ]
-                }
-            ],
-            "media": [
-                {
-                    "id": 1442867250784968715,
-                    "id_str": "1442867250784968715",
-                    "indices": [
-                        279,
-                        302
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/FAYYHrUVIAsPeM0.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/FAYYHrUVIAsPeM0.jpg",
-                    "url": "https://t.co/giWKXfuQph",
-                    "display_url": "pic.twitter.com/giWKXfuQph",
-                    "expanded_url": "https://twitter.com/HistoryAtState/status/1442867253347696640/photo/1",
-                    "type": "photo",
-                    "sizes": {
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
-                        },
-                        "medium": {
-                            "w": 1024,
-                            "h": 512,
-                            "resize": "fit"
-                        },
-                        "large": {
-                            "w": 1024,
-                            "h": 512,
-                            "resize": "fit"
-                        },
-                        "small": {
-                            "w": 680,
-                            "h": 340,
-                            "resize": "fit"
-                        }
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "HistoryAtState",
+                "name": "HistoryAtState",
+                "id": 586570880,
+                "id_str": "586570880",
+                "indices": [
+                    238,
+                    253
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/9MdLibXAXh",
+                "expanded_url": "https://bit.ly/OH-PMF",
+                "display_url": "bit.ly/OH-PMF",
+                "indices": [
+                    255,
+                    278
+                ]
+            }
+        ],
+        "media": [
+            {
+                "id": 1442867250784968700,
+                "id_str": "1442867250784968715",
+                "indices": [
+                    279,
+                    302
+                ],
+                "media_url": "http://pbs.twimg.com/media/FAYYHrUVIAsPeM0.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/FAYYHrUVIAsPeM0.jpg",
+                "url": "https://t.co/giWKXfuQph",
+                "display_url": "pic.twitter.com/giWKXfuQph",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1442867253347696640/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1024,
+                        "h": 512,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1024,
+                        "h": 512,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 340,
+                        "resize": "fit"
                     }
                 }
-            ]
-        },
-        "extended_entities": {
-            "media": [
-                {
-                    "id": 1442867250784968715,
-                    "id_str": "1442867250784968715",
-                    "indices": [
-                        279,
-                        302
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/FAYYHrUVIAsPeM0.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/FAYYHrUVIAsPeM0.jpg",
-                    "url": "https://t.co/giWKXfuQph",
-                    "display_url": "pic.twitter.com/giWKXfuQph",
-                    "expanded_url": "https://twitter.com/HistoryAtState/status/1442867253347696640/photo/1",
-                    "type": "photo",
-                    "sizes": {
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
-                        },
-                        "medium": {
-                            "w": 1024,
-                            "h": 512,
-                            "resize": "fit"
-                        },
-                        "large": {
-                            "w": 1024,
-                            "h": 512,
-                            "resize": "fit"
-                        },
-                        "small": {
-                            "w": 680,
-                            "h": 340,
-                            "resize": "fit"
-                        }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1442867250784968700,
+                "id_str": "1442867250784968715",
+                "indices": [
+                    279,
+                    302
+                ],
+                "media_url": "http://pbs.twimg.com/media/FAYYHrUVIAsPeM0.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/FAYYHrUVIAsPeM0.jpg",
+                "url": "https://t.co/giWKXfuQph",
+                "display_url": "pic.twitter.com/giWKXfuQph",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1442867253347696640/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
                     },
-                    "ext_alt_text": "Apply to be a Presidential Management Fellow, Office of the Historian, U.S. Department of State PMF applications are open from September 28 to October 12, 2021: https://bit.ly/OH-PMF"
-                }
-            ]
-        },
-        "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 3,
-        "favorite_count": 3,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+                    "medium": {
+                        "w": 1024,
+                        "h": 512,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1024,
+                        "h": 512,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 340,
+                        "resize": "fit"
+                    }
+                },
+                "ext_alt_text": "Apply to be a Presidential Management Fellow, Office of the Historian, U.S. Department of State PMF applications are open from September 28 to October 12, 2021: https://bit.ly/OH-PMF"
+            }
+        ]
+    },
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

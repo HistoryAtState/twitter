@@ -1,65 +1,63 @@
-[
-    {
-        "created_at": "Thu Jan 26 16:15:24 +0000 2017",
-        "id": 824651963623243777,
-        "id_str": "824651963623243777",
-        "full_text": "\u201cFor citizens of some countries,\u201d #FRUS is \u201ctheir only window into their own nations\u2019 foreign policies.\u201d https://t.co/XhI4CL81Ko #FSJ",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            133
+{
+    "created_at": "Thu Jan 26 16:15:24 +0000 2017",
+    "id": 824651963623243780,
+    "id_str": "824651963623243777",
+    "full_text": "“For citizens of some countries,” #FRUS is “their only window into their own nations’ foreign policies.” https://t.co/XhI4CL81Ko #FSJ",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        133
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FRUS",
+                "indices": [
+                    34,
+                    39
+                ]
+            },
+            {
+                "text": "FSJ",
+                "indices": [
+                    129,
+                    133
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        34,
-                        39
-                    ]
-                },
-                {
-                    "text": "FSJ",
-                    "indices": [
-                        129,
-                        133
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "https://t.co/XhI4CL81Ko",
-                    "expanded_url": "http://bit.ly/1WGHbBe",
-                    "display_url": "bit.ly/1WGHbBe",
-                    "indices": [
-                        105,
-                        128
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 4,
-        "favorite_count": 5,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/XhI4CL81Ko",
+                "expanded_url": "http://bit.ly/1WGHbBe",
+                "display_url": "bit.ly/1WGHbBe",
+                "indices": [
+                    105,
+                    128
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

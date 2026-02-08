@@ -1,65 +1,63 @@
-[
-    {
-        "created_at": "Thu May 26 13:02:01 +0000 2016",
-        "id": 735818270796828672,
-        "id_str": "735818270796828672",
-        "full_text": "Japan first hosted the #G7 summit in June 1979. Minutes of the opening session are here: https://t.co/ap3hKT2wIA #FRUS",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            118
+{
+    "created_at": "Thu May 26 13:02:01 +0000 2016",
+    "id": 735818270796828670,
+    "id_str": "735818270796828672",
+    "full_text": "Japan first hosted the #G7 summit in June 1979. Minutes of the opening session are here: https://t.co/ap3hKT2wIA #FRUS",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        118
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "G7",
+                "indices": [
+                    23,
+                    26
+                ]
+            },
+            {
+                "text": "FRUS",
+                "indices": [
+                    113,
+                    118
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "G7",
-                    "indices": [
-                        23,
-                        26
-                    ]
-                },
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        113,
-                        118
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "https://t.co/ap3hKT2wIA",
-                    "expanded_url": "https://history.state.gov/historicaldocuments/frus1977-80v03/d222",
-                    "display_url": "history.state.gov/historicaldocu\u2026",
-                    "indices": [
-                        89,
-                        112
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 1,
-        "favorite_count": 1,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/ap3hKT2wIA",
+                "expanded_url": "https://history.state.gov/historicaldocuments/frus1977-80v03/d222",
+                "display_url": "history.state.gov/historicaldocu…",
+                "indices": [
+                    89,
+                    112
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

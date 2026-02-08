@@ -1,61 +1,59 @@
-[
-    {
-        "created_at": "Fri Mar 28 11:15:27 +0000 2014",
-        "id": 449505041670746112,
-        "id_str": "449505041670746112",
-        "full_text": "Helen Eugenie Moore Anderson was 1st woman to hold the rank of Ambassador when accredited to @USEmbDenmark 1949 http://t.co/jFw9XbrkVt",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            134
+{
+    "created_at": "Fri Mar 28 11:15:27 +0000 2014",
+    "id": 449505041670746110,
+    "id_str": "449505041670746112",
+    "full_text": "Helen Eugenie Moore Anderson was 1st woman to hold the rank of Ambassador when accredited to @USEmbDenmark 1949 http://t.co/jFw9XbrkVt",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        134
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "usembdenmark",
+                "name": "U.S. Embassy in the Kingdom of Denmark",
+                "id": 19912974,
+                "id_str": "19912974",
+                "indices": [
+                    93,
+                    106
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "usembdenmark",
-                    "name": "U.S. Embassy in the Kingdom of Denmark",
-                    "id": 19912974,
-                    "id_str": "19912974",
-                    "indices": [
-                        93,
-                        106
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "http://t.co/jFw9XbrkVt",
-                    "expanded_url": "http://go.usa.gov/K2dP",
-                    "display_url": "go.usa.gov/K2dP",
-                    "indices": [
-                        112,
-                        134
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 6,
-        "favorite_count": 1,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "urls": [
+            {
+                "url": "http://t.co/jFw9XbrkVt",
+                "expanded_url": "http://go.usa.gov/K2dP",
+                "display_url": "go.usa.gov/K2dP",
+                "indices": [
+                    112,
+                    134
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

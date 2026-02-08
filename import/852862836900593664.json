@@ -1,65 +1,63 @@
-[
-    {
-        "created_at": "Fri Apr 14 12:35:20 +0000 2017",
-        "id": 852862836900593664,
-        "id_str": "852862836900593664",
-        "full_text": "The Italian Parliament voted to drape their flag in mourning for 3 days following #LincolnAssassination: https://t.co/oAlL7aFuHq #FRUS",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            134
+{
+    "created_at": "Fri Apr 14 12:35:20 +0000 2017",
+    "id": 852862836900593660,
+    "id_str": "852862836900593664",
+    "full_text": "The Italian Parliament voted to drape their flag in mourning for 3 days following #LincolnAssassination: https://t.co/oAlL7aFuHq #FRUS",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        134
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "LincolnAssassination",
+                "indices": [
+                    82,
+                    103
+                ]
+            },
+            {
+                "text": "FRUS",
+                "indices": [
+                    129,
+                    134
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "LincolnAssassination",
-                    "indices": [
-                        82,
-                        103
-                    ]
-                },
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        129,
-                        134
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "https://t.co/oAlL7aFuHq",
-                    "expanded_url": "https://go.usa.gov/xX756",
-                    "display_url": "go.usa.gov/xX756",
-                    "indices": [
-                        105,
-                        128
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 2,
-        "favorite_count": 1,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/oAlL7aFuHq",
+                "expanded_url": "https://go.usa.gov/xX756",
+                "display_url": "go.usa.gov/xX756",
+                "indices": [
+                    105,
+                    128
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

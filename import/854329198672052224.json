@@ -1,175 +1,173 @@
-[
-    {
-        "created_at": "Tue Apr 18 13:42:08 +0000 2017",
-        "id": 854329198672052224,
-        "id_str": "854329198672052224",
-        "full_text": "RT @EconAtState: Happy 245th Birthday, David Ricardo! We celebrate the classic economist for his Iron Law of Wages &amp; comparative advantage\u2026",
+{
+    "created_at": "Tue Apr 18 13:42:08 +0000 2017",
+    "id": 854329198672052220,
+    "id_str": "854329198672052224",
+    "full_text": "RT @EconAtState: Happy 245th Birthday, David Ricardo! We celebrate the classic economist for his Iron Law of Wages &amp;amp; comparative advantage…",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        143
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "EconAtState",
+                "name": "EconDiplomacy@State",
+                "id": 211955846,
+                "id_str": "211955846",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "source": "&lt;a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"&gt;Twitter for iPad&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Apr 18 13:00:50 +0000 2017",
+        "id": 854318804335308800,
+        "id_str": "854318804335308805",
+        "full_text": "Happy 245th Birthday, David Ricardo! We celebrate the classic economist for his Iron Law of Wages &amp;amp; comparative advantage theory #OnThisDay https://t.co/jcl9y1Dx9X",
         "truncated": false,
         "display_text_range": [
             0,
             143
         ],
         "entities": {
-            "hashtags": [],
-            "symbols": [],
-            "user_mentions": [
+            "hashtags": [
                 {
-                    "screen_name": "EconAtState",
-                    "name": "EconDiplomacy@State",
-                    "id": 211955846,
-                    "id_str": "211955846",
+                    "text": "OnThisDay",
                     "indices": [
-                        3,
-                        15
+                        133,
+                        143
                     ]
                 }
             ],
-            "urls": []
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 854318509412810750,
+                    "id_str": "854318509412810752",
+                    "indices": [
+                        144,
+                        167
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/C9smKG6XgAACoNi.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/C9smKG6XgAACoNi.jpg",
+                    "url": "https://t.co/jcl9y1Dx9X",
+                    "display_url": "pic.twitter.com/jcl9y1Dx9X",
+                    "expanded_url": "https://twitter.com/EconAtState/status/854318804335308805/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1024,
+                            "h": 512,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1024,
+                            "h": 512,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 340,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
         },
-        "source": "\u003ca href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c/a\u003e",
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 854318509412810750,
+                    "id_str": "854318509412810752",
+                    "indices": [
+                        144,
+                        167
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/C9smKG6XgAACoNi.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/C9smKG6XgAACoNi.jpg",
+                    "url": "https://t.co/jcl9y1Dx9X",
+                    "display_url": "pic.twitter.com/jcl9y1Dx9X",
+                    "expanded_url": "https://twitter.com/EconAtState/status/854318804335308805/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1024,
+                            "h": 512,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1024,
+                            "h": 512,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 340,
+                            "resize": "fit"
+                        }
+                    },
+                    "ext_alt_text": null
+                }
+            ]
+        },
+        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
         "in_reply_to_screen_name": null,
         "user": {
-            "id": 586570880,
-            "id_str": "586570880"
+            "id": 211955846,
+            "id_str": "211955846"
         },
         "geo": null,
         "coordinates": null,
         "place": null,
         "contributors": null,
-        "retweeted_status": {
-            "created_at": "Tue Apr 18 13:00:50 +0000 2017",
-            "id": 854318804335308805,
-            "id_str": "854318804335308805",
-            "full_text": "Happy 245th Birthday, David Ricardo! We celebrate the classic economist for his Iron Law of Wages &amp; comparative advantage theory #OnThisDay https://t.co/jcl9y1Dx9X",
-            "truncated": false,
-            "display_text_range": [
-                0,
-                143
-            ],
-            "entities": {
-                "hashtags": [
-                    {
-                        "text": "OnThisDay",
-                        "indices": [
-                            133,
-                            143
-                        ]
-                    }
-                ],
-                "symbols": [],
-                "user_mentions": [],
-                "urls": [],
-                "media": [
-                    {
-                        "id": 854318509412810752,
-                        "id_str": "854318509412810752",
-                        "indices": [
-                            144,
-                            167
-                        ],
-                        "media_url": "http://pbs.twimg.com/media/C9smKG6XgAACoNi.jpg",
-                        "media_url_https": "https://pbs.twimg.com/media/C9smKG6XgAACoNi.jpg",
-                        "url": "https://t.co/jcl9y1Dx9X",
-                        "display_url": "pic.twitter.com/jcl9y1Dx9X",
-                        "expanded_url": "https://twitter.com/EconAtState/status/854318804335308805/photo/1",
-                        "type": "photo",
-                        "sizes": {
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
-                            "medium": {
-                                "w": 1024,
-                                "h": 512,
-                                "resize": "fit"
-                            },
-                            "large": {
-                                "w": 1024,
-                                "h": 512,
-                                "resize": "fit"
-                            },
-                            "small": {
-                                "w": 680,
-                                "h": 340,
-                                "resize": "fit"
-                            }
-                        }
-                    }
-                ]
-            },
-            "extended_entities": {
-                "media": [
-                    {
-                        "id": 854318509412810752,
-                        "id_str": "854318509412810752",
-                        "indices": [
-                            144,
-                            167
-                        ],
-                        "media_url": "http://pbs.twimg.com/media/C9smKG6XgAACoNi.jpg",
-                        "media_url_https": "https://pbs.twimg.com/media/C9smKG6XgAACoNi.jpg",
-                        "url": "https://t.co/jcl9y1Dx9X",
-                        "display_url": "pic.twitter.com/jcl9y1Dx9X",
-                        "expanded_url": "https://twitter.com/EconAtState/status/854318804335308805/photo/1",
-                        "type": "photo",
-                        "sizes": {
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
-                            "medium": {
-                                "w": 1024,
-                                "h": 512,
-                                "resize": "fit"
-                            },
-                            "large": {
-                                "w": 1024,
-                                "h": 512,
-                                "resize": "fit"
-                            },
-                            "small": {
-                                "w": 680,
-                                "h": 340,
-                                "resize": "fit"
-                            }
-                        },
-                        "ext_alt_text": null
-                    }
-                ]
-            },
-            "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
-            "user": {
-                "id": 211955846,
-                "id_str": "211955846"
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "is_quote_status": false,
-            "retweet_count": 2,
-            "favorite_count": 0,
-            "favorited": false,
-            "retweeted": true,
-            "possibly_sensitive": false,
-            "lang": "en"
-        },
         "is_quote_status": false,
         "retweet_count": 2,
         "favorite_count": 0,
         "favorited": false,
         "retweeted": true,
+        "possibly_sensitive": false,
         "lang": "en"
-    }
-]
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "en"
+}

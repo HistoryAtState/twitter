@@ -1,58 +1,56 @@
-[
-    {
-        "created_at": "Thu Sep 08 19:02:07 +0000 2016",
-        "id": 773959617940455424,
-        "id_str": "773959617940455424",
-        "full_text": "VP Mondale and South African PM Vorster discussed race relations and Alex Hayley\u2019s Roots. Read about it in https://t.co/ePopT1rCUz #FRUS",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            136
+{
+    "created_at": "Thu Sep 08 19:02:07 +0000 2016",
+    "id": 773959617940455420,
+    "id_str": "773959617940455424",
+    "full_text": "VP Mondale and South African PM Vorster discussed race relations and Alex Hayley’s Roots. Read about it in https://t.co/ePopT1rCUz #FRUS",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        136
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FRUS",
+                "indices": [
+                    131,
+                    136
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        131,
-                        136
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "https://t.co/ePopT1rCUz",
-                    "expanded_url": "http://go.usa.gov/xW53m",
-                    "display_url": "go.usa.gov/xW53m",
-                    "indices": [
-                        107,
-                        130
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 1,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/ePopT1rCUz",
+                "expanded_url": "http://go.usa.gov/xW53m",
+                "display_url": "go.usa.gov/xW53m",
+                "indices": [
+                    107,
+                    130
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

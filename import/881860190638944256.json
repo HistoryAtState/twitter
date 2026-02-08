@@ -1,69 +1,67 @@
-[
-    {
-        "created_at": "Mon Jul 03 13:00:28 +0000 2017",
-        "id": 881860190638944256,
-        "id_str": "881860190638944256",
-        "full_text": "The Office of the Historian is seeking VSFS #eInterns for the 2017\u201318 academic year today through @USAJOBS! https://t.co/foh8xZhxfg",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            131
+{
+    "created_at": "Mon Jul 03 13:00:28 +0000 2017",
+    "id": 881860190638944260,
+    "id_str": "881860190638944256",
+    "full_text": "The Office of the Historian is seeking VSFS #eInterns for the 2017–18 academic year today through @USAJOBS! https://t.co/foh8xZhxfg",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        131
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "eInterns",
+                "indices": [
+                    44,
+                    53
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "eInterns",
-                    "indices": [
-                        44,
-                        53
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "USAJOBS",
-                    "name": "USAJOBS",
-                    "id": 96828828,
-                    "id_str": "96828828",
-                    "indices": [
-                        98,
-                        106
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "https://t.co/foh8xZhxfg",
-                    "expanded_url": "https://vsfs.state.gov/",
-                    "display_url": "vsfs.state.gov",
-                    "indices": [
-                        108,
-                        131
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 15,
-        "favorite_count": 8,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "USAJOBS",
+                "name": "USAJOBS",
+                "id": 96828828,
+                "id_str": "96828828",
+                "indices": [
+                    98,
+                    106
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/foh8xZhxfg",
+                "expanded_url": "https://vsfs.state.gov/",
+                "display_url": "vsfs.state.gov",
+                "indices": [
+                    108,
+                    131
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 15,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

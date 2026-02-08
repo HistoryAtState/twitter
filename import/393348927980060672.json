@@ -1,61 +1,59 @@
-[
-    {
-        "created_at": "Thu Oct 24 12:11:07 +0000 2013",
-        "id": 393348927980060672,
-        "id_str": "393348927980060672",
-        "full_text": "How can FRUS be used for non-traditional research? Our workshop covers it 10/29 4pm @CUNYGradCenter Mina Rees Library http://t.co/yKxgFN9wKE",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            140
+{
+    "created_at": "Thu Oct 24 12:11:07 +0000 2013",
+    "id": 393348927980060670,
+    "id_str": "393348927980060672",
+    "full_text": "How can FRUS be used for non-traditional research? Our workshop covers it 10/29 4pm @CUNYGradCenter Mina Rees Library http://t.co/yKxgFN9wKE",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "CUNYGradCenter",
+                "name": "@365",
+                "id": 2387560992,
+                "id_str": "2387560992",
+                "indices": [
+                    84,
+                    99
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "CUNYGradCenter",
-                    "name": "@365",
-                    "id": 2387560992,
-                    "id_str": "2387560992",
-                    "indices": [
-                        84,
-                        99
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "http://t.co/yKxgFN9wKE",
-                    "expanded_url": "http://ow.ly/q60qR",
-                    "display_url": "ow.ly/q60qR",
-                    "indices": [
-                        118,
-                        140
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 7,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "urls": [
+            {
+                "url": "http://t.co/yKxgFN9wKE",
+                "expanded_url": "http://ow.ly/q60qR",
+                "display_url": "ow.ly/q60qR",
+                "indices": [
+                    118,
+                    140
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

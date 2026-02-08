@@ -1,79 +1,77 @@
-[
-    {
-        "created_at": "Tue Nov 11 13:02:43 +0000 2014",
-        "id": 532156466929868800,
-        "id_str": "532156466929868800",
-        "full_text": "For Veteran\u2019s /Armistice Day: NYC tonight @opcofamerica, @lempika7 chats reporter-embassy relations in #WW1 http://t.co/RacC12jdHo",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            130
+{
+    "created_at": "Tue Nov 11 13:02:43 +0000 2014",
+    "id": 532156466929868800,
+    "id_str": "532156466929868800",
+    "full_text": "For Veteran’s /Armistice Day: NYC tonight @opcofamerica, @lempika7 chats reporter-embassy relations in #WW1 http://t.co/RacC12jdHo",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        130
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "WW1",
+                "indices": [
+                    103,
+                    107
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "WW1",
-                    "indices": [
-                        103,
-                        107
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "opcofamerica",
-                    "name": "Overseas Press Club",
-                    "id": 9113942,
-                    "id_str": "9113942",
-                    "indices": [
-                        42,
-                        55
-                    ]
-                },
-                {
-                    "screen_name": "lempika7",
-                    "name": "Dr Lindsay Sarah Krasnoff",
-                    "id": 285687016,
-                    "id_str": "285687016",
-                    "indices": [
-                        57,
-                        66
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "http://t.co/RacC12jdHo",
-                    "expanded_url": "http://ow.ly/DVafI",
-                    "display_url": "ow.ly/DVafI",
-                    "indices": [
-                        108,
-                        130
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 1,
-        "favorite_count": 2,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "opcofamerica",
+                "name": "Overseas Press Club",
+                "id": 9113942,
+                "id_str": "9113942",
+                "indices": [
+                    42,
+                    55
+                ]
+            },
+            {
+                "screen_name": "lempika7",
+                "name": "Dr Lindsay Sarah Krasnoff",
+                "id": 285687016,
+                "id_str": "285687016",
+                "indices": [
+                    57,
+                    66
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "http://t.co/RacC12jdHo",
+                "expanded_url": "http://ow.ly/DVafI",
+                "display_url": "ow.ly/DVafI",
+                "indices": [
+                    108,
+                    130
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

@@ -1,61 +1,59 @@
-[
-    {
-        "created_at": "Thu Nov 01 15:48:53 +0000 2012",
-        "id": 264031266184249345,
-        "id_str": "264031266184249345",
-        "full_text": "Historical data on our site can be useful to historians, teachers, &amp; journalists. Curious? Come to 11/7 @NYPL workshop http://t.co/oB9Y15XD",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            143
+{
+    "created_at": "Thu Nov 01 15:48:53 +0000 2012",
+    "id": 264031266184249344,
+    "id_str": "264031266184249345",
+    "full_text": "Historical data on our site can be useful to historians, teachers, &amp;amp; journalists. Curious? Come to 11/7 @NYPL workshop http://t.co/oB9Y15XD",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        143
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "nypl",
+                "name": "NY Public Library",
+                "id": 17544803,
+                "id_str": "17544803",
+                "indices": [
+                    108,
+                    113
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "nypl",
-                    "name": "NY Public Library",
-                    "id": 17544803,
-                    "id_str": "17544803",
-                    "indices": [
-                        108,
-                        113
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "http://t.co/oB9Y15XD",
-                    "expanded_url": "http://on.nypl.org/OZPi9t",
-                    "display_url": "on.nypl.org/OZPi9t",
-                    "indices": [
-                        123,
-                        143
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 3,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "urls": [
+            {
+                "url": "http://t.co/oB9Y15XD",
+                "expanded_url": "http://on.nypl.org/OZPi9t",
+                "display_url": "on.nypl.org/OZPi9t",
+                "indices": [
+                    123,
+                    143
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

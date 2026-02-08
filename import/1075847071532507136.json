@@ -1,72 +1,70 @@
-[
-    {
-        "created_at": "Thu Dec 20 20:15:04 +0000 2018",
-        "id": 1075847071532507136,
-        "id_str": "1075847071532507136",
-        "full_text": "Did President Jimmy Carter believe he could compel the #Soviets to withdraw from #Afghanistan? Read what the documents have to say in #FRUS https://t.co/gxOQEhosHJ",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            163
+{
+    "created_at": "Thu Dec 20 20:15:04 +0000 2018",
+    "id": 1075847071532507140,
+    "id_str": "1075847071532507136",
+    "full_text": "Did President Jimmy Carter believe he could compel the #Soviets to withdraw from #Afghanistan? Read what the documents have to say in #FRUS https://t.co/gxOQEhosHJ",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        163
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Soviets",
+                "indices": [
+                    55,
+                    63
+                ]
+            },
+            {
+                "text": "Afghanistan",
+                "indices": [
+                    81,
+                    93
+                ]
+            },
+            {
+                "text": "FRUS",
+                "indices": [
+                    134,
+                    139
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "Soviets",
-                    "indices": [
-                        55,
-                        63
-                    ]
-                },
-                {
-                    "text": "Afghanistan",
-                    "indices": [
-                        81,
-                        93
-                    ]
-                },
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        134,
-                        139
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "https://t.co/gxOQEhosHJ",
-                    "expanded_url": "https://history.state.gov/historicaldocuments/frus1977-80v12",
-                    "display_url": "history.state.gov/historicaldocu\u2026",
-                    "indices": [
-                        140,
-                        163
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 2,
-        "favorite_count": 3,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/gxOQEhosHJ",
+                "expanded_url": "https://history.state.gov/historicaldocuments/frus1977-80v12",
+                "display_url": "history.state.gov/historicaldocu…",
+                "indices": [
+                    140,
+                    163
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

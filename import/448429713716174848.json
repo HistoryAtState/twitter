@@ -1,50 +1,48 @@
-[
-    {
-        "created_at": "Tue Mar 25 12:02:29 +0000 2014",
-        "id": 448429713716174848,
-        "id_str": "448429713716174848",
-        "full_text": "George H. W. Bush\u2019s July 1989 visit to The Netherlands included Leiden, point of sail for the Pilgrims http://t.co/UDTNrI6CkB",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            125
-        ],
-        "entities": {
-            "hashtags": [],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "http://t.co/UDTNrI6CkB",
-                    "expanded_url": "http://ow.ly/uKz0p",
-                    "display_url": "ow.ly/uKz0p",
-                    "indices": [
-                        103,
-                        125
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 1,
-        "favorite_count": 2,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+{
+    "created_at": "Tue Mar 25 12:02:29 +0000 2014",
+    "id": 448429713716174850,
+    "id_str": "448429713716174848",
+    "full_text": "George H. W. Bush’s July 1989 visit to The Netherlands included Leiden, point of sail for the Pilgrims http://t.co/UDTNrI6CkB",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        125
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "http://t.co/UDTNrI6CkB",
+                "expanded_url": "http://ow.ly/uKz0p",
+                "display_url": "ow.ly/uKz0p",
+                "indices": [
+                    103,
+                    125
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

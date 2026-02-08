@@ -1,119 +1,117 @@
-[
-    {
-        "created_at": "Thu Aug 10 17:23:01 +0000 2017",
-        "id": 895697003094712320,
-        "id_str": "895697003094712320",
-        "full_text": "RT @StateDeptDSS: A DSS security staffer recounts \u2018good samaritans\u2019 who provided aid after the @USEmbassyKenya bombing in 1998: https://t.c\u2026",
+{
+    "created_at": "Thu Aug 10 17:23:01 +0000 2017",
+    "id": 895697003094712320,
+    "id_str": "895697003094712320",
+    "full_text": "RT @StateDeptDSS: A DSS security staffer recounts ‘good samaritans’ who provided aid after the @USEmbassyKenya bombing in 1998: https://t.c…",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "StateDeptDSS",
+                "name": "statedeptdss",
+                "id": 834799740546056190,
+                "id_str": "834799740546056194",
+                "indices": [
+                    3,
+                    16
+                ]
+            },
+            {
+                "screen_name": "USEmbassyKenya",
+                "name": "U.S. Embassy Nairobi",
+                "id": 70636581,
+                "id_str": "70636581",
+                "indices": [
+                    95,
+                    110
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "source": "&lt;a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"&gt;Twitter for iPad&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Aug 10 16:01:08 +0000 2017",
+        "id": 895676394830745600,
+        "id_str": "895676394830745602",
+        "full_text": "A DSS security staffer recounts ‘good samaritans’ who provided aid after the @USEmbassyKenya bombing in 1998: https://t.co/5YZ4suuoHm",
         "truncated": false,
         "display_text_range": [
             0,
-            140
+            133
         ],
         "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
                 {
-                    "screen_name": "StateDeptDSS",
-                    "name": "statedeptdss",
-                    "id": 834799740546056194,
-                    "id_str": "834799740546056194",
-                    "indices": [
-                        3,
-                        16
-                    ]
-                },
-                {
                     "screen_name": "USEmbassyKenya",
                     "name": "U.S. Embassy Nairobi",
                     "id": 70636581,
                     "id_str": "70636581",
                     "indices": [
-                        95,
-                        110
+                        77,
+                        92
                     ]
                 }
             ],
-            "urls": []
+            "urls": [
+                {
+                    "url": "https://t.co/5YZ4suuoHm",
+                    "expanded_url": "http://ow.ly/2k2530egp54",
+                    "display_url": "ow.ly/2k2530egp54",
+                    "indices": [
+                        110,
+                        133
+                    ]
+                }
+            ]
         },
-        "source": "\u003ca href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c/a\u003e",
+        "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
         "in_reply_to_screen_name": null,
         "user": {
-            "id": 586570880,
-            "id_str": "586570880"
+            "id": 834799740546056190,
+            "id_str": "834799740546056194"
         },
         "geo": null,
         "coordinates": null,
         "place": null,
         "contributors": null,
-        "retweeted_status": {
-            "created_at": "Thu Aug 10 16:01:08 +0000 2017",
-            "id": 895676394830745602,
-            "id_str": "895676394830745602",
-            "full_text": "A DSS security staffer recounts \u2018good samaritans\u2019 who provided aid after the @USEmbassyKenya bombing in 1998: https://t.co/5YZ4suuoHm",
-            "truncated": false,
-            "display_text_range": [
-                0,
-                133
-            ],
-            "entities": {
-                "hashtags": [],
-                "symbols": [],
-                "user_mentions": [
-                    {
-                        "screen_name": "USEmbassyKenya",
-                        "name": "U.S. Embassy Nairobi",
-                        "id": 70636581,
-                        "id_str": "70636581",
-                        "indices": [
-                            77,
-                            92
-                        ]
-                    }
-                ],
-                "urls": [
-                    {
-                        "url": "https://t.co/5YZ4suuoHm",
-                        "expanded_url": "http://ow.ly/2k2530egp54",
-                        "display_url": "ow.ly/2k2530egp54",
-                        "indices": [
-                            110,
-                            133
-                        ]
-                    }
-                ]
-            },
-            "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
-            "user": {
-                "id": 834799740546056194,
-                "id_str": "834799740546056194"
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "is_quote_status": false,
-            "retweet_count": 5,
-            "favorite_count": 8,
-            "favorited": false,
-            "retweeted": true,
-            "possibly_sensitive": false,
-            "lang": "en"
-        },
         "is_quote_status": false,
         "retweet_count": 5,
-        "favorite_count": 0,
+        "favorite_count": 8,
         "favorited": false,
         "retweeted": true,
+        "possibly_sensitive": false,
         "lang": "en"
-    }
-]
+    },
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "en"
+}

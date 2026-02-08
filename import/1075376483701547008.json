@@ -1,65 +1,63 @@
-[
-    {
-        "created_at": "Wed Dec 19 13:05:07 +0000 2018",
-        "id": 1075376483701547008,
-        "id_str": "1075376483701547008",
-        "full_text": "The Carter administration also faced ongoing regional issues in #LatinAmerica, such as territorial disputes, the rise of militant groups, and the struggle to support free and fair elections https://t.co/14ZcsMHLyQ #FRUS",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            219
+{
+    "created_at": "Wed Dec 19 13:05:07 +0000 2018",
+    "id": 1075376483701547010,
+    "id_str": "1075376483701547008",
+    "full_text": "The Carter administration also faced ongoing regional issues in #LatinAmerica, such as territorial disputes, the rise of militant groups, and the struggle to support free and fair elections https://t.co/14ZcsMHLyQ #FRUS",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        219
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "LatinAmerica",
+                "indices": [
+                    64,
+                    77
+                ]
+            },
+            {
+                "text": "FRUS",
+                "indices": [
+                    214,
+                    219
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "LatinAmerica",
-                    "indices": [
-                        64,
-                        77
-                    ]
-                },
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        214,
-                        219
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "https://t.co/14ZcsMHLyQ",
-                    "expanded_url": "https://history.state.gov/historicaldocuments/frus1977-80v24",
-                    "display_url": "history.state.gov/historicaldocu\u2026",
-                    "indices": [
-                        190,
-                        213
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 0,
-        "favorite_count": 2,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/14ZcsMHLyQ",
+                "expanded_url": "https://history.state.gov/historicaldocuments/frus1977-80v24",
+                "display_url": "history.state.gov/historicaldocu…",
+                "indices": [
+                    190,
+                    213
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

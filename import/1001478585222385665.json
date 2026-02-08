@@ -1,58 +1,56 @@
-[
-    {
-        "created_at": "Tue May 29 15:01:15 +0000 2018",
-        "id": 1001478585222385665,
-        "id_str": "1001478585222385665",
-        "full_text": "Reagan recalled \u201cRussian poetess, Irina Ratushinskaya... when in prison, she had smuggled out to him a letter signed by 10 people on a tiny piece of paper. He was still astounded that they were able to write so much on such a small piece of paper.\u201d https://t.co/xS4IT9CAOD #FRUS",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            278
+{
+    "created_at": "Tue May 29 15:01:15 +0000 2018",
+    "id": 1001478585222385660,
+    "id_str": "1001478585222385665",
+    "full_text": "Reagan recalled “Russian poetess, Irina Ratushinskaya... when in prison, she had smuggled out to him a letter signed by 10 people on a tiny piece of paper. He was still astounded that they were able to write so much on such a small piece of paper.” https://t.co/xS4IT9CAOD #FRUS",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        278
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FRUS",
+                "indices": [
+                    273,
+                    278
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        273,
-                        278
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "https://t.co/xS4IT9CAOD",
-                    "expanded_url": "https://buff.ly/2IVg7Kl",
-                    "display_url": "buff.ly/2IVg7Kl",
-                    "indices": [
-                        249,
-                        272
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"https://buffer.com\" rel=\"nofollow\"\u003eBuffer\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 0,
-        "favorite_count": 3,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/xS4IT9CAOD",
+                "expanded_url": "https://buff.ly/2IVg7Kl",
+                "display_url": "buff.ly/2IVg7Kl",
+                "indices": [
+                    249,
+                    272
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"https://buffer.com\" rel=\"nofollow\"&gt;Buffer&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

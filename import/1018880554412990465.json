@@ -1,69 +1,67 @@
-[
-    {
-        "created_at": "Mon Jul 16 15:30:28 +0000 2018",
-        "id": 1018880554412990465,
-        "id_str": "1018880554412990465",
-        "full_text": "If you are interested in the history of U.S. relations with Sub-Saharan Africa, please apply to be a virtual #intern with @HistoryAtState next year: https://t.co/jFmkK2bavA",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            172
+{
+    "created_at": "Mon Jul 16 15:30:28 +0000 2018",
+    "id": 1018880554412990460,
+    "id_str": "1018880554412990465",
+    "full_text": "If you are interested in the history of U.S. relations with Sub-Saharan Africa, please apply to be a virtual #intern with @HistoryAtState next year: https://t.co/jFmkK2bavA",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        172
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "intern",
+                "indices": [
+                    109,
+                    116
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "intern",
-                    "indices": [
-                        109,
-                        116
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "HistoryAtState",
-                    "name": "HistoryAtState",
-                    "id": 586570880,
-                    "id_str": "586570880",
-                    "indices": [
-                        122,
-                        137
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "https://t.co/jFmkK2bavA",
-                    "expanded_url": "https://vsfs.state.gov/projects/view/1264",
-                    "display_url": "vsfs.state.gov/projects/view/\u2026",
-                    "indices": [
-                        149,
-                        172
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 2,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "HistoryAtState",
+                "name": "HistoryAtState",
+                "id": 586570880,
+                "id_str": "586570880",
+                "indices": [
+                    122,
+                    137
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/jFmkK2bavA",
+                "expanded_url": "https://vsfs.state.gov/projects/view/1264",
+                "display_url": "vsfs.state.gov/projects/view/…",
+                "indices": [
+                    149,
+                    172
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

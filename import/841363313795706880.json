@@ -1,58 +1,56 @@
-[
-    {
-        "created_at": "Mon Mar 13 19:00:20 +0000 2017",
-        "id": 841363313795706880,
-        "id_str": "841363313795706880",
-        "full_text": "Envoy to France Ben Franklin wrote in 1784 that rising at sunrise could save Parisians millions #daylightsaving https://t.co/me17bNvbob",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            135
+{
+    "created_at": "Mon Mar 13 19:00:20 +0000 2017",
+    "id": 841363313795706880,
+    "id_str": "841363313795706880",
+    "full_text": "Envoy to France Ben Franklin wrote in 1784 that rising at sunrise could save Parisians millions #daylightsaving https://t.co/me17bNvbob",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        135
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "daylightsaving",
+                "indices": [
+                    96,
+                    111
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "daylightsaving",
-                    "indices": [
-                        96,
-                        111
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "https://t.co/me17bNvbob",
-                    "expanded_url": "http://www.webexhibits.org/daylightsaving/franklin3.html",
-                    "display_url": "webexhibits.org/daylightsaving\u2026",
-                    "indices": [
-                        112,
-                        135
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 1,
-        "favorite_count": 2,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/me17bNvbob",
+                "expanded_url": "http://www.webexhibits.org/daylightsaving/franklin3.html",
+                "display_url": "webexhibits.org/daylightsaving…",
+                "indices": [
+                    112,
+                    135
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

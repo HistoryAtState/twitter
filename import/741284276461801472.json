@@ -1,65 +1,63 @@
-[
-    {
-        "created_at": "Fri Jun 10 15:01:58 +0000 2016",
-        "id": 741284276461801472,
-        "id_str": "741284276461801472",
-        "full_text": "USIA devises an \u201caction plan\u201d for celebrating the U.S. Constitution Bicentennial: https://t.co/M3qyu0co3X #FRUS #twitterstorians",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            128
+{
+    "created_at": "Fri Jun 10 15:01:58 +0000 2016",
+    "id": 741284276461801470,
+    "id_str": "741284276461801472",
+    "full_text": "USIA devises an “action plan” for celebrating the U.S. Constitution Bicentennial: https://t.co/M3qyu0co3X #FRUS #twitterstorians",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        128
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FRUS",
+                "indices": [
+                    106,
+                    111
+                ]
+            },
+            {
+                "text": "twitterstorians",
+                "indices": [
+                    112,
+                    128
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        106,
-                        111
-                    ]
-                },
-                {
-                    "text": "twitterstorians",
-                    "indices": [
-                        112,
-                        128
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "https://t.co/M3qyu0co3X",
-                    "expanded_url": "http://go.usa.gov/cutNW",
-                    "display_url": "go.usa.gov/cutNW",
-                    "indices": [
-                        82,
-                        105
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 2,
-        "favorite_count": 1,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/M3qyu0co3X",
+                "expanded_url": "http://go.usa.gov/cutNW",
+                "display_url": "go.usa.gov/cutNW",
+                "indices": [
+                    82,
+                    105
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

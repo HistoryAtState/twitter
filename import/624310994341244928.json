@@ -1,51 +1,116 @@
-[
-    {
-        "created_at": "Thu Jul 23 20:11:54 +0000 2015",
-        "id": 624310994341244928,
-        "id_str": "624310994341244928",
-        "full_text": "RT @TodaysDocument: What records should @USNatArchives digitize next? Vote on your favorites: http://t.co/xSzdxXTv5t #opengov #socialgov ht\u2026",
+{
+    "created_at": "Thu Jul 23 20:11:54 +0000 2015",
+    "id": 624310994341244930,
+    "id_str": "624310994341244928",
+    "full_text": "RT @TodaysDocument: What records should @USNatArchives digitize next? Vote on your favorites: http://t.co/xSzdxXTv5t #opengov #socialgov ht…",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "opengov",
+                "indices": [
+                    117,
+                    125
+                ]
+            },
+            {
+                "text": "socialgov",
+                "indices": [
+                    126,
+                    136
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "TodaysDocument",
+                "name": "Today's Document",
+                "id": 22656792,
+                "id_str": "22656792",
+                "indices": [
+                    3,
+                    18
+                ]
+            },
+            {
+                "screen_name": "USNatArchives",
+                "name": "US National Archives",
+                "id": 101802390,
+                "id_str": "101802390",
+                "indices": [
+                    40,
+                    54
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "http://t.co/xSzdxXTv5t",
+                "expanded_url": "http://todaysdocument.tumblr.com/post/124847086687/do-you-have-suggestions-for-naras-digitization",
+                "display_url": "todaysdocument.tumblr.com/post/124847086…",
+                "indices": [
+                    94,
+                    116
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Jul 23 17:17:05 +0000 2015",
+        "id": 624266997707198460,
+        "id_str": "624266997707198464",
+        "full_text": "What records should @USNatArchives digitize next? Vote on your favorites: http://t.co/xSzdxXTv5t #opengov #socialgov http://t.co/aLolGCi6rd",
         "truncated": false,
         "display_text_range": [
             0,
-            140
+            139
         ],
         "entities": {
             "hashtags": [
                 {
                     "text": "opengov",
                     "indices": [
-                        117,
-                        125
+                        97,
+                        105
                     ]
                 },
                 {
                     "text": "socialgov",
                     "indices": [
-                        126,
-                        136
+                        106,
+                        116
                     ]
                 }
             ],
             "symbols": [],
             "user_mentions": [
                 {
-                    "screen_name": "TodaysDocument",
-                    "name": "Today's Document",
-                    "id": 22656792,
-                    "id_str": "22656792",
-                    "indices": [
-                        3,
-                        18
-                    ]
-                },
-                {
                     "screen_name": "USNatArchives",
                     "name": "US National Archives",
                     "id": 101802390,
                     "id_str": "101802390",
                     "indices": [
-                        40,
-                        54
+                        20,
+                        34
                     ]
                 }
             ],
@@ -53,233 +118,166 @@
                 {
                     "url": "http://t.co/xSzdxXTv5t",
                     "expanded_url": "http://todaysdocument.tumblr.com/post/124847086687/do-you-have-suggestions-for-naras-digitization",
-                    "display_url": "todaysdocument.tumblr.com/post/124847086\u2026",
+                    "display_url": "todaysdocument.tumblr.com/post/124847086…",
                     "indices": [
-                        94,
-                        116
+                        74,
+                        96
                     ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 624266997296156670,
+                    "id_str": "624266997296156673",
+                    "indices": [
+                        117,
+                        139
+                    ],
+                    "media_url": "http://pbs.twimg.com/tweet_video_thumb/CKnXhsrWUAEUh18.png",
+                    "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CKnXhsrWUAEUh18.png",
+                    "url": "http://t.co/aLolGCi6rd",
+                    "display_url": "pic.twitter.com/aLolGCi6rd",
+                    "expanded_url": "https://twitter.com/TodaysDocument/status/624266997707198464/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 500,
+                            "h": 443,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 500,
+                            "h": 443,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 500,
+                            "h": 443,
+                            "resize": "fit"
+                        }
+                    }
                 }
             ]
         },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 624266997296156670,
+                    "id_str": "624266997296156673",
+                    "indices": [
+                        117,
+                        139
+                    ],
+                    "media_url": "http://pbs.twimg.com/tweet_video_thumb/CKnXhsrWUAEUh18.png",
+                    "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CKnXhsrWUAEUh18.png",
+                    "url": "http://t.co/aLolGCi6rd",
+                    "display_url": "pic.twitter.com/aLolGCi6rd",
+                    "expanded_url": "https://twitter.com/TodaysDocument/status/624266997707198464/photo/1",
+                    "type": "animated_gif",
+                    "sizes": {
+                        "small": {
+                            "w": 500,
+                            "h": 443,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 500,
+                            "h": 443,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 500,
+                            "h": 443,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            500,
+                            443
+                        ],
+                        "variants": [
+                            {
+                                "bitrate": 0,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/tweet_video/CKnXhsrWUAEUh18.mp4"
+                            }
+                        ]
+                    },
+                    "ext_alt_text": null
+                }
+            ]
+        },
+        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
         "in_reply_to_screen_name": null,
         "user": {
-            "id": 586570880,
-            "id_str": "586570880"
+            "id": 22656792,
+            "id_str": "22656792"
         },
         "geo": null,
         "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "retweeted_status": {
-            "created_at": "Thu Jul 23 17:17:05 +0000 2015",
-            "id": 624266997707198464,
-            "id_str": "624266997707198464",
-            "full_text": "What records should @USNatArchives digitize next? Vote on your favorites: http://t.co/xSzdxXTv5t #opengov #socialgov http://t.co/aLolGCi6rd",
-            "truncated": false,
-            "display_text_range": [
-                0,
-                139
-            ],
-            "entities": {
-                "hashtags": [
-                    {
-                        "text": "opengov",
-                        "indices": [
-                            97,
-                            105
-                        ]
-                    },
-                    {
-                        "text": "socialgov",
-                        "indices": [
-                            106,
-                            116
-                        ]
-                    }
-                ],
-                "symbols": [],
-                "user_mentions": [
-                    {
-                        "screen_name": "USNatArchives",
-                        "name": "US National Archives",
-                        "id": 101802390,
-                        "id_str": "101802390",
-                        "indices": [
-                            20,
-                            34
-                        ]
-                    }
-                ],
-                "urls": [
-                    {
-                        "url": "http://t.co/xSzdxXTv5t",
-                        "expanded_url": "http://todaysdocument.tumblr.com/post/124847086687/do-you-have-suggestions-for-naras-digitization",
-                        "display_url": "todaysdocument.tumblr.com/post/124847086\u2026",
-                        "indices": [
-                            74,
-                            96
-                        ]
-                    }
-                ],
-                "media": [
-                    {
-                        "id": 624266997296156673,
-                        "id_str": "624266997296156673",
-                        "indices": [
-                            117,
-                            139
-                        ],
-                        "media_url": "http://pbs.twimg.com/tweet_video_thumb/CKnXhsrWUAEUh18.png",
-                        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CKnXhsrWUAEUh18.png",
-                        "url": "http://t.co/aLolGCi6rd",
-                        "display_url": "pic.twitter.com/aLolGCi6rd",
-                        "expanded_url": "https://twitter.com/TodaysDocument/status/624266997707198464/photo/1",
-                        "type": "photo",
-                        "sizes": {
-                            "small": {
-                                "w": 500,
-                                "h": 443,
-                                "resize": "fit"
-                            },
-                            "medium": {
-                                "w": 500,
-                                "h": 443,
-                                "resize": "fit"
-                            },
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
-                            "large": {
-                                "w": 500,
-                                "h": 443,
-                                "resize": "fit"
-                            }
-                        }
-                    }
-                ]
-            },
-            "extended_entities": {
-                "media": [
-                    {
-                        "id": 624266997296156673,
-                        "id_str": "624266997296156673",
-                        "indices": [
-                            117,
-                            139
-                        ],
-                        "media_url": "http://pbs.twimg.com/tweet_video_thumb/CKnXhsrWUAEUh18.png",
-                        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CKnXhsrWUAEUh18.png",
-                        "url": "http://t.co/aLolGCi6rd",
-                        "display_url": "pic.twitter.com/aLolGCi6rd",
-                        "expanded_url": "https://twitter.com/TodaysDocument/status/624266997707198464/photo/1",
-                        "type": "animated_gif",
-                        "sizes": {
-                            "small": {
-                                "w": 500,
-                                "h": 443,
-                                "resize": "fit"
-                            },
-                            "medium": {
-                                "w": 500,
-                                "h": 443,
-                                "resize": "fit"
-                            },
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
-                            "large": {
-                                "w": 500,
-                                "h": 443,
-                                "resize": "fit"
-                            }
-                        },
-                        "video_info": {
-                            "aspect_ratio": [
-                                500,
-                                443
-                            ],
-                            "variants": [
-                                {
-                                    "bitrate": 0,
-                                    "content_type": "video/mp4",
-                                    "url": "https://video.twimg.com/tweet_video/CKnXhsrWUAEUh18.mp4"
-                                }
-                            ]
-                        },
-                        "ext_alt_text": null
-                    }
-                ]
-            },
-            "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
-            "user": {
-                "id": 22656792,
-                "id_str": "22656792"
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": {
-                "id": "01fbe706f872cb32",
-                "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
-                "place_type": "city",
-                "name": "Washington",
-                "full_name": "Washington, DC",
-                "country_code": "US",
-                "country": "United States",
-                "contained_within": [],
-                "bounding_box": {
-                    "type": "Polygon",
-                    "coordinates": [
+        "place": {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
                         [
-                            [
-                                -77.119401,
-                                38.801826
-                            ],
-                            [
-                                -76.909396,
-                                38.801826
-                            ],
-                            [
-                                -76.909396,
-                                38.9953797
-                            ],
-                            [
-                                -77.119401,
-                                38.9953797
-                            ]
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
                         ]
                     ]
-                },
-                "attributes": {}
+                ]
             },
-            "contributors": null,
-            "is_quote_status": false,
-            "retweet_count": 18,
-            "favorite_count": 10,
-            "favorited": false,
-            "retweeted": true,
-            "possibly_sensitive": false,
-            "lang": "en"
+            "attributes": {}
         },
+        "contributors": null,
         "is_quote_status": false,
         "retweet_count": 18,
-        "favorite_count": 0,
+        "favorite_count": 10,
         "favorited": false,
         "retweeted": true,
         "possibly_sensitive": false,
         "lang": "en"
-    }
-]
+    },
+    "is_quote_status": false,
+    "retweet_count": 18,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

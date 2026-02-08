@@ -1,65 +1,63 @@
-[
-    {
-        "created_at": "Fri Nov 11 18:25:15 +0000 2016",
-        "id": 797143167044878336,
-        "id_str": "797143167044878336",
-        "full_text": "November 11, 1937, prompts consideration of agreement on int\u2019l conduct to maintain peace. https://t.co/7ziBImT3VJ #FRUS #veteransday",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            132
+{
+    "created_at": "Fri Nov 11 18:25:15 +0000 2016",
+    "id": 797143167044878340,
+    "id_str": "797143167044878336",
+    "full_text": "November 11, 1937, prompts consideration of agreement on int’l conduct to maintain peace. https://t.co/7ziBImT3VJ #FRUS #veteransday",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        132
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FRUS",
+                "indices": [
+                    114,
+                    119
+                ]
+            },
+            {
+                "text": "veteransday",
+                "indices": [
+                    120,
+                    132
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        114,
-                        119
-                    ]
-                },
-                {
-                    "text": "veteransday",
-                    "indices": [
-                        120,
-                        132
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "https://t.co/7ziBImT3VJ",
-                    "expanded_url": "http://go.usa.gov/xkp9T",
-                    "display_url": "go.usa.gov/xkp9T",
-                    "indices": [
-                        90,
-                        113
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 2,
-        "favorite_count": 1,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/7ziBImT3VJ",
+                "expanded_url": "http://go.usa.gov/xkp9T",
+                "display_url": "go.usa.gov/xkp9T",
+                "indices": [
+                    90,
+                    113
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

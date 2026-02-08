@@ -1,65 +1,63 @@
-[
-    {
-        "created_at": "Wed Apr 12 17:50:14 +0000 2017",
-        "id": 852217306956673024,
-        "id_str": "852217306956673024",
-        "full_text": "Prince Kung of China was shocked but consoled by the arrest of Booth after #LincolnAssassination https://t.co/b5tGEOEGtY #FRUS",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            126
+{
+    "created_at": "Wed Apr 12 17:50:14 +0000 2017",
+    "id": 852217306956673020,
+    "id_str": "852217306956673024",
+    "full_text": "Prince Kung of China was shocked but consoled by the arrest of Booth after #LincolnAssassination https://t.co/b5tGEOEGtY #FRUS",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        126
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "LincolnAssassination",
+                "indices": [
+                    75,
+                    96
+                ]
+            },
+            {
+                "text": "FRUS",
+                "indices": [
+                    121,
+                    126
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "LincolnAssassination",
-                    "indices": [
-                        75,
-                        96
-                    ]
-                },
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        121,
-                        126
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "https://t.co/b5tGEOEGtY",
-                    "expanded_url": "https://go.usa.gov/xX78R",
-                    "display_url": "go.usa.gov/xX78R",
-                    "indices": [
-                        97,
-                        120
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 1,
-        "favorite_count": 1,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/b5tGEOEGtY",
+                "expanded_url": "https://go.usa.gov/xX78R",
+                "display_url": "go.usa.gov/xX78R",
+                "indices": [
+                    97,
+                    120
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

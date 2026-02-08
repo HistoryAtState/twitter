@@ -1,16 +1,84 @@
-[
-    {
-        "created_at": "Fri Sep 09 14:02:06 +0000 2016",
-        "id": 774246507922984964,
-        "id_str": "774246507922984964",
-        "full_text": "RT @StateDept: Today @StateDept's @HistoryAtState office released Foreign Relations of the U.S.,1977\u20131980, Southern Africa: https://t.co/mS\u2026",
+{
+    "created_at": "Fri Sep 09 14:02:06 +0000 2016",
+    "id": 774246507922984960,
+    "id_str": "774246507922984964",
+    "full_text": "RT @StateDept: Today @StateDept's @HistoryAtState office released Foreign Relations of the U.S.,1977–1980, Southern Africa: https://t.co/mS…",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "StateDept",
+                "name": "Department of State",
+                "id": 9624742,
+                "id_str": "9624742",
+                "indices": [
+                    3,
+                    13
+                ]
+            },
+            {
+                "screen_name": "StateDept",
+                "name": "Department of State",
+                "id": 9624742,
+                "id_str": "9624742",
+                "indices": [
+                    21,
+                    31
+                ]
+            },
+            {
+                "screen_name": "HistoryAtState",
+                "name": "HistoryAtState",
+                "id": 586570880,
+                "id_str": "586570880",
+                "indices": [
+                    34,
+                    49
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "source": "&lt;a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"&gt;Twitter for iPad&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Sep 09 00:29:45 +0000 2016",
+        "id": 774042072659603460,
+        "id_str": "774042072659603457",
+        "full_text": "Today @StateDept's @HistoryAtState office released Foreign Relations of the U.S.,1977–1980, Southern Africa: https://t.co/mSkNgGEEjf #FRUS",
         "truncated": false,
         "display_text_range": [
             0,
-            140
+            138
         ],
         "entities": {
-            "hashtags": [],
+            "hashtags": [
+                {
+                    "text": "FRUS",
+                    "indices": [
+                        133,
+                        138
+                    ]
+                }
+            ],
             "symbols": [],
             "user_mentions": [
                 {
@@ -19,18 +87,8 @@
                     "id": 9624742,
                     "id_str": "9624742",
                     "indices": [
-                        3,
-                        13
-                    ]
-                },
-                {
-                    "screen_name": "StateDept",
-                    "name": "Department of State",
-                    "id": 9624742,
-                    "id_str": "9624742",
-                    "indices": [
-                        21,
-                        31
+                        6,
+                        16
                     ]
                 },
                 {
@@ -39,109 +97,49 @@
                     "id": 586570880,
                     "id_str": "586570880",
                     "indices": [
-                        34,
-                        49
+                        19,
+                        34
                     ]
                 }
             ],
-            "urls": []
+            "urls": [
+                {
+                    "url": "https://t.co/mSkNgGEEjf",
+                    "expanded_url": "http://go.usa.gov/xW53m",
+                    "display_url": "go.usa.gov/xW53m",
+                    "indices": [
+                        109,
+                        132
+                    ]
+                }
+            ]
         },
-        "source": "\u003ca href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c/a\u003e",
+        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
         "in_reply_to_screen_name": null,
         "user": {
-            "id": 586570880,
-            "id_str": "586570880"
+            "id": 9624742,
+            "id_str": "9624742"
         },
         "geo": null,
         "coordinates": null,
         "place": null,
         "contributors": null,
-        "retweeted_status": {
-            "created_at": "Fri Sep 09 00:29:45 +0000 2016",
-            "id": 774042072659603457,
-            "id_str": "774042072659603457",
-            "full_text": "Today @StateDept's @HistoryAtState office released Foreign Relations of the U.S.,1977\u20131980, Southern Africa: https://t.co/mSkNgGEEjf #FRUS",
-            "truncated": false,
-            "display_text_range": [
-                0,
-                138
-            ],
-            "entities": {
-                "hashtags": [
-                    {
-                        "text": "FRUS",
-                        "indices": [
-                            133,
-                            138
-                        ]
-                    }
-                ],
-                "symbols": [],
-                "user_mentions": [
-                    {
-                        "screen_name": "StateDept",
-                        "name": "Department of State",
-                        "id": 9624742,
-                        "id_str": "9624742",
-                        "indices": [
-                            6,
-                            16
-                        ]
-                    },
-                    {
-                        "screen_name": "HistoryAtState",
-                        "name": "HistoryAtState",
-                        "id": 586570880,
-                        "id_str": "586570880",
-                        "indices": [
-                            19,
-                            34
-                        ]
-                    }
-                ],
-                "urls": [
-                    {
-                        "url": "https://t.co/mSkNgGEEjf",
-                        "expanded_url": "http://go.usa.gov/xW53m",
-                        "display_url": "go.usa.gov/xW53m",
-                        "indices": [
-                            109,
-                            132
-                        ]
-                    }
-                ]
-            },
-            "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
-            "user": {
-                "id": 9624742,
-                "id_str": "9624742"
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "is_quote_status": false,
-            "retweet_count": 20,
-            "favorite_count": 33,
-            "favorited": false,
-            "retweeted": true,
-            "possibly_sensitive": false,
-            "lang": "en"
-        },
         "is_quote_status": false,
         "retweet_count": 20,
-        "favorite_count": 0,
+        "favorite_count": 33,
         "favorited": false,
         "retweeted": true,
+        "possibly_sensitive": false,
         "lang": "en"
-    }
-]
+    },
+    "is_quote_status": false,
+    "retweet_count": 20,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "en"
+}

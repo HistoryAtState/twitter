@@ -1,58 +1,56 @@
-[
-    {
-        "created_at": "Thu May 10 13:05:05 +0000 2018",
-        "id": 994563980550078464,
-        "id_str": "994563980550078464",
-        "full_text": "On August 24, 1814, James Monroe became the only Secretary of State to direct U.S. armed forces in combat. https://t.co/eUPCXPOVho #twitterstorians",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            147
+{
+    "created_at": "Thu May 10 13:05:05 +0000 2018",
+    "id": 994563980550078460,
+    "id_str": "994563980550078464",
+    "full_text": "On August 24, 1814, James Monroe became the only Secretary of State to direct U.S. armed forces in combat. https://t.co/eUPCXPOVho #twitterstorians",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        147
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "twitterstorians",
+                "indices": [
+                    131,
+                    147
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "twitterstorians",
-                    "indices": [
-                        131,
-                        147
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "https://t.co/eUPCXPOVho",
-                    "expanded_url": "https://history.state.gov/departmenthistory/timeline/1789-1899",
-                    "display_url": "history.state.gov/departmenthist\u2026",
-                    "indices": [
-                        107,
-                        130
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 3,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/eUPCXPOVho",
+                "expanded_url": "https://history.state.gov/departmenthistory/timeline/1789-1899",
+                "display_url": "history.state.gov/departmenthist…",
+                "indices": [
+                    107,
+                    130
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

@@ -1,58 +1,56 @@
-[
-    {
-        "created_at": "Thu Sep 19 13:00:31 +0000 2013",
-        "id": 380677787310231554,
-        "id_str": "380677787310231554",
-        "full_text": "Check out the economic policy coordination among the industrialized democracies at the July 1978 G-7 summit. http://t.co/tksqT0MB67  #FRUS",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            138
+{
+    "created_at": "Thu Sep 19 13:00:31 +0000 2013",
+    "id": 380677787310231550,
+    "id_str": "380677787310231554",
+    "full_text": "Check out the economic policy coordination among the industrialized democracies at the July 1978 G-7 summit. http://t.co/tksqT0MB67  #FRUS",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        138
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FRUS",
+                "indices": [
+                    133,
+                    138
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        133,
-                        138
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "http://t.co/tksqT0MB67",
-                    "expanded_url": "http://go.usa.gov/DNjk",
-                    "display_url": "go.usa.gov/DNjk",
-                    "indices": [
-                        109,
-                        131
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 1,
-        "favorite_count": 1,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "http://t.co/tksqT0MB67",
+                "expanded_url": "http://go.usa.gov/DNjk",
+                "display_url": "go.usa.gov/DNjk",
+                "indices": [
+                    109,
+                    131
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

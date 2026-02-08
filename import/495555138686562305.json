@@ -1,85 +1,83 @@
-[
-    {
-        "created_at": "Sat Aug 02 13:02:06 +0000 2014",
-        "id": 495555138686562305,
-        "id_str": "495555138686562305",
-        "full_text": "#TDiH 1914 Amb to Italy T. Page \u201cConditions in Paris indescribable\u201d http://t.co/qmU6YFT136 #WW1Tweet http://t.co/QfXYeBwOpr @USEmbassyFrance",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            140
+{
+    "created_at": "Sat Aug 02 13:02:06 +0000 2014",
+    "id": 495555138686562300,
+    "id_str": "495555138686562305",
+    "full_text": "#TDiH 1914 Amb to Italy T. Page “Conditions in Paris indescribable” http://t.co/qmU6YFT136 #WW1Tweet http://t.co/QfXYeBwOpr @USEmbassyFrance",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "TDiH",
+                "indices": [
+                    0,
+                    5
+                ]
+            },
+            {
+                "text": "WW1Tweet",
+                "indices": [
+                    91,
+                    100
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "TDiH",
-                    "indices": [
-                        0,
-                        5
-                    ]
-                },
-                {
-                    "text": "WW1Tweet",
-                    "indices": [
-                        91,
-                        100
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "USEmbassyFrance",
-                    "name": "U.S. Embassy France",
-                    "id": 72814599,
-                    "id_str": "72814599",
-                    "indices": [
-                        124,
-                        140
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "http://t.co/qmU6YFT136",
-                    "expanded_url": "http://ow.ly/zLD2f",
-                    "display_url": "ow.ly/zLD2f",
-                    "indices": [
-                        68,
-                        90
-                    ]
-                },
-                {
-                    "url": "http://t.co/QfXYeBwOpr",
-                    "expanded_url": "http://ow.ly/i/6oPLy",
-                    "display_url": "ow.ly/i/6oPLy",
-                    "indices": [
-                        101,
-                        123
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 3,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "USEmbassyFrance",
+                "name": "U.S. Embassy France",
+                "id": 72814599,
+                "id_str": "72814599",
+                "indices": [
+                    124,
+                    140
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "http://t.co/qmU6YFT136",
+                "expanded_url": "http://ow.ly/zLD2f",
+                "display_url": "ow.ly/zLD2f",
+                "indices": [
+                    68,
+                    90
+                ]
+            },
+            {
+                "url": "http://t.co/QfXYeBwOpr",
+                "expanded_url": "http://ow.ly/i/6oPLy",
+                "display_url": "ow.ly/i/6oPLy",
+                "indices": [
+                    101,
+                    123
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

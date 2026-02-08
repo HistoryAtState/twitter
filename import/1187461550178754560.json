@@ -1,192 +1,190 @@
-[
-    {
-        "created_at": "Thu Oct 24 20:11:10 +0000 2019",
-        "id": 1187461550178754560,
-        "id_str": "1187461550178754560",
-        "full_text": "RT @FSIatState: Proud to recognize the contributions of U.S. diplomats during World War I. Amb Gerard and his staff facilitated American Re\u2026",
+{
+    "created_at": "Thu Oct 24 20:11:10 +0000 2019",
+    "id": 1187461550178754560,
+    "id_str": "1187461550178754560",
+    "full_text": "RT @FSIatState: Proud to recognize the contributions of U.S. diplomats during World War I. Amb Gerard and his staff facilitated American Re…",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "FSIatState",
+                "name": "Foreign Service Institute",
+                "id": 958044239576948740,
+                "id_str": "958044239576948736",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Oct 24 14:05:10 +0000 2019",
+        "id": 1187369445196476420,
+        "id_str": "1187369445196476416",
+        "full_text": "Proud to recognize the contributions of U.S. diplomats during World War I. Amb Gerard and his staff facilitated American Red Cross hospital units’ arrival to treat soldiers behind German lines. Learn more about these #WWI #HeroesofUSDiplomacy here: https://t.co/4D5leJ3WJC. https://t.co/zg3sYLjqMV",
         "truncated": false,
         "display_text_range": [
             0,
-            140
+            273
         ],
         "entities": {
-            "hashtags": [],
-            "symbols": [],
-            "user_mentions": [
+            "hashtags": [
                 {
-                    "screen_name": "FSIatState",
-                    "name": "Foreign Service Institute",
-                    "id": 958044239576948736,
-                    "id_str": "958044239576948736",
+                    "text": "WWI",
                     "indices": [
-                        3,
-                        14
+                        217,
+                        221
+                    ]
+                },
+                {
+                    "text": "HeroesofUSDiplomacy",
+                    "indices": [
+                        222,
+                        242
                     ]
                 }
             ],
-            "urls": []
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/4D5leJ3WJC",
+                    "expanded_url": "http://go.usa.gov/xp3FN",
+                    "display_url": "go.usa.gov/xp3FN",
+                    "indices": [
+                        249,
+                        272
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1187369443317432320,
+                    "id_str": "1187369443317432321",
+                    "indices": [
+                        274,
+                        297
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EHpiN74WwAEo7Hj.png",
+                    "media_url_https": "https://pbs.twimg.com/media/EHpiN74WwAEo7Hj.png",
+                    "url": "https://t.co/zg3sYLjqMV",
+                    "display_url": "pic.twitter.com/zg3sYLjqMV",
+                    "expanded_url": "https://twitter.com/FSIatState/status/1187369445196476416/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 843,
+                            "h": 503,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 843,
+                            "h": 503,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 406,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        }
+                    }
+                }
+            ]
         },
-        "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1187369443317432320,
+                    "id_str": "1187369443317432321",
+                    "indices": [
+                        274,
+                        297
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EHpiN74WwAEo7Hj.png",
+                    "media_url_https": "https://pbs.twimg.com/media/EHpiN74WwAEo7Hj.png",
+                    "url": "https://t.co/zg3sYLjqMV",
+                    "display_url": "pic.twitter.com/zg3sYLjqMV",
+                    "expanded_url": "https://twitter.com/FSIatState/status/1187369445196476416/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 843,
+                            "h": 503,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 843,
+                            "h": 503,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 406,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        }
+                    },
+                    "ext_alt_text": null
+                }
+            ]
+        },
+        "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
         "in_reply_to_screen_name": null,
         "user": {
-            "id": 586570880,
-            "id_str": "586570880"
+            "id": 958044239576948740,
+            "id_str": "958044239576948736"
         },
         "geo": null,
         "coordinates": null,
         "place": null,
         "contributors": null,
-        "retweeted_status": {
-            "created_at": "Thu Oct 24 14:05:10 +0000 2019",
-            "id": 1187369445196476416,
-            "id_str": "1187369445196476416",
-            "full_text": "Proud to recognize the contributions of U.S. diplomats during World War I. Amb Gerard and his staff facilitated American Red Cross hospital units\u2019 arrival to treat soldiers behind German lines. Learn more about these #WWI #HeroesofUSDiplomacy here: https://t.co/4D5leJ3WJC. https://t.co/zg3sYLjqMV",
-            "truncated": false,
-            "display_text_range": [
-                0,
-                273
-            ],
-            "entities": {
-                "hashtags": [
-                    {
-                        "text": "WWI",
-                        "indices": [
-                            217,
-                            221
-                        ]
-                    },
-                    {
-                        "text": "HeroesofUSDiplomacy",
-                        "indices": [
-                            222,
-                            242
-                        ]
-                    }
-                ],
-                "symbols": [],
-                "user_mentions": [],
-                "urls": [
-                    {
-                        "url": "https://t.co/4D5leJ3WJC",
-                        "expanded_url": "http://go.usa.gov/xp3FN",
-                        "display_url": "go.usa.gov/xp3FN",
-                        "indices": [
-                            249,
-                            272
-                        ]
-                    }
-                ],
-                "media": [
-                    {
-                        "id": 1187369443317432321,
-                        "id_str": "1187369443317432321",
-                        "indices": [
-                            274,
-                            297
-                        ],
-                        "media_url": "http://pbs.twimg.com/media/EHpiN74WwAEo7Hj.png",
-                        "media_url_https": "https://pbs.twimg.com/media/EHpiN74WwAEo7Hj.png",
-                        "url": "https://t.co/zg3sYLjqMV",
-                        "display_url": "pic.twitter.com/zg3sYLjqMV",
-                        "expanded_url": "https://twitter.com/FSIatState/status/1187369445196476416/photo/1",
-                        "type": "photo",
-                        "sizes": {
-                            "large": {
-                                "w": 843,
-                                "h": 503,
-                                "resize": "fit"
-                            },
-                            "medium": {
-                                "w": 843,
-                                "h": 503,
-                                "resize": "fit"
-                            },
-                            "small": {
-                                "w": 680,
-                                "h": 406,
-                                "resize": "fit"
-                            },
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            }
-                        }
-                    }
-                ]
-            },
-            "extended_entities": {
-                "media": [
-                    {
-                        "id": 1187369443317432321,
-                        "id_str": "1187369443317432321",
-                        "indices": [
-                            274,
-                            297
-                        ],
-                        "media_url": "http://pbs.twimg.com/media/EHpiN74WwAEo7Hj.png",
-                        "media_url_https": "https://pbs.twimg.com/media/EHpiN74WwAEo7Hj.png",
-                        "url": "https://t.co/zg3sYLjqMV",
-                        "display_url": "pic.twitter.com/zg3sYLjqMV",
-                        "expanded_url": "https://twitter.com/FSIatState/status/1187369445196476416/photo/1",
-                        "type": "photo",
-                        "sizes": {
-                            "large": {
-                                "w": 843,
-                                "h": 503,
-                                "resize": "fit"
-                            },
-                            "medium": {
-                                "w": 843,
-                                "h": 503,
-                                "resize": "fit"
-                            },
-                            "small": {
-                                "w": 680,
-                                "h": 406,
-                                "resize": "fit"
-                            },
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            }
-                        },
-                        "ext_alt_text": null
-                    }
-                ]
-            },
-            "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
-            "user": {
-                "id": 958044239576948736,
-                "id_str": "958044239576948736"
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "is_quote_status": false,
-            "retweet_count": 2,
-            "favorite_count": 2,
-            "favorited": false,
-            "retweeted": true,
-            "possibly_sensitive": false,
-            "lang": "en"
-        },
         "is_quote_status": false,
         "retweet_count": 2,
-        "favorite_count": 0,
+        "favorite_count": 2,
         "favorited": false,
         "retweeted": true,
+        "possibly_sensitive": false,
         "lang": "en"
-    }
-]
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "en"
+}

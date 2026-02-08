@@ -1,34 +1,92 @@
-[
-    {
-        "created_at": "Mon Sep 24 15:09:52 +0000 2012",
-        "id": 250250704734801920,
-        "id_str": "250250704734801920",
-        "full_text": "RT @StateDept: Latest on #DipNote: Combating Modern Slavery 150 Years After the Emancipation Proclamation http://t.co/ilDDVkSb via @JTIP ...",
+{
+    "created_at": "Mon Sep 24 15:09:52 +0000 2012",
+    "id": 250250704734801920,
+    "id_str": "250250704734801920",
+    "full_text": "RT @StateDept: Latest on #DipNote: Combating Modern Slavery 150 Years After the Emancipation Proclamation http://t.co/ilDDVkSb via @JTIP ...",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "DipNote",
+                "indices": [
+                    25,
+                    33
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "StateDept",
+                "name": "Department of State",
+                "id": 9624742,
+                "id_str": "9624742",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "http://t.co/ilDDVkSb",
+                "expanded_url": "http://go.usa.gov/rJBh",
+                "display_url": "go.usa.gov/rJBh",
+                "indices": [
+                    106,
+                    126
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat Sep 22 14:38:30 +0000 2012",
+        "id": 249518035759669248,
+        "id_str": "249518035759669250",
+        "full_text": "Latest on #DipNote: Combating Modern Slavery 150 Years After the Emancipation Proclamation http://t.co/ilDDVkSb via @JTIP_State",
         "truncated": false,
         "display_text_range": [
             0,
-            140
+            127
         ],
         "entities": {
             "hashtags": [
                 {
                     "text": "DipNote",
                     "indices": [
-                        25,
-                        33
+                        10,
+                        18
                     ]
                 }
             ],
             "symbols": [],
             "user_mentions": [
                 {
-                    "screen_name": "StateDept",
-                    "name": "Department of State",
-                    "id": 9624742,
-                    "id_str": "9624742",
+                    "screen_name": "JTIP_State",
+                    "name": "U.S. State Dept. Trafficking in Persons Office",
+                    "id": 105164603,
+                    "id_str": "105164603",
                     "indices": [
-                        3,
-                        13
+                        116,
+                        127
                     ]
                 }
             ],
@@ -38,99 +96,39 @@
                     "expanded_url": "http://go.usa.gov/rJBh",
                     "display_url": "go.usa.gov/rJBh",
                     "indices": [
-                        106,
-                        126
+                        91,
+                        111
                     ]
                 }
             ]
         },
-        "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
+        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
         "in_reply_to_screen_name": null,
         "user": {
-            "id": 586570880,
-            "id_str": "586570880"
+            "id": 9624742,
+            "id_str": "9624742"
         },
         "geo": null,
         "coordinates": null,
         "place": null,
         "contributors": null,
-        "retweeted_status": {
-            "created_at": "Sat Sep 22 14:38:30 +0000 2012",
-            "id": 249518035759669250,
-            "id_str": "249518035759669250",
-            "full_text": "Latest on #DipNote: Combating Modern Slavery 150 Years After the Emancipation Proclamation http://t.co/ilDDVkSb via @JTIP_State",
-            "truncated": false,
-            "display_text_range": [
-                0,
-                127
-            ],
-            "entities": {
-                "hashtags": [
-                    {
-                        "text": "DipNote",
-                        "indices": [
-                            10,
-                            18
-                        ]
-                    }
-                ],
-                "symbols": [],
-                "user_mentions": [
-                    {
-                        "screen_name": "JTIP_State",
-                        "name": "U.S. State Dept. Trafficking in Persons Office",
-                        "id": 105164603,
-                        "id_str": "105164603",
-                        "indices": [
-                            116,
-                            127
-                        ]
-                    }
-                ],
-                "urls": [
-                    {
-                        "url": "http://t.co/ilDDVkSb",
-                        "expanded_url": "http://go.usa.gov/rJBh",
-                        "display_url": "go.usa.gov/rJBh",
-                        "indices": [
-                            91,
-                            111
-                        ]
-                    }
-                ]
-            },
-            "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
-            "user": {
-                "id": 9624742,
-                "id_str": "9624742"
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "is_quote_status": false,
-            "retweet_count": 62,
-            "favorite_count": 12,
-            "favorited": false,
-            "retweeted": true,
-            "possibly_sensitive": false,
-            "lang": "en"
-        },
         "is_quote_status": false,
         "retweet_count": 62,
-        "favorite_count": 0,
+        "favorite_count": 12,
         "favorited": false,
         "retweeted": true,
         "possibly_sensitive": false,
         "lang": "en"
-    }
-]
+    },
+    "is_quote_status": false,
+    "retweet_count": 62,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

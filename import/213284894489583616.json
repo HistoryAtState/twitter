@@ -1,117 +1,115 @@
-[
-    {
-        "created_at": "Thu Jun 14 15:00:56 +0000 2012",
-        "id": 213284894489583616,
-        "id_str": "213284894489583616",
-        "full_text": "RT @StateDept: Today is Global Economic Statecraft Day. Watch a video message from President Barack Obama: http://t.co/py2qQGf9 #EconDip ...",
+{
+    "created_at": "Thu Jun 14 15:00:56 +0000 2012",
+    "id": 213284894489583616,
+    "id_str": "213284894489583616",
+    "full_text": "RT @StateDept: Today is Global Economic Statecraft Day. Watch a video message from President Barack Obama: http://t.co/py2qQGf9 #EconDip ...",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "StateDept",
+                "name": "Department of State",
+                "id": 9624742,
+                "id_str": "9624742",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "http://t.co/py2qQGf9",
+                "expanded_url": "http://youtu.be/1HSIbttjWgg",
+                "display_url": "youtu.be/1HSIbttjWgg",
+                "indices": [
+                    107,
+                    127
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\"&gt;Tweetbot for iOS&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Jun 14 14:47:51 +0000 2012",
+        "id": 213281602875297792,
+        "id_str": "213281602875297792",
+        "full_text": "Today is Global Economic Statecraft Day. Watch a video message from President Barack Obama: http://t.co/py2qQGf9 #EconDiplomacy",
         "truncated": false,
         "display_text_range": [
             0,
-            140
+            127
         ],
         "entities": {
-            "hashtags": [],
-            "symbols": [],
-            "user_mentions": [
+            "hashtags": [
                 {
-                    "screen_name": "StateDept",
-                    "name": "Department of State",
-                    "id": 9624742,
-                    "id_str": "9624742",
+                    "text": "EconDiplomacy",
                     "indices": [
-                        3,
-                        13
+                        113,
+                        127
                     ]
                 }
             ],
+            "symbols": [],
+            "user_mentions": [],
             "urls": [
                 {
                     "url": "http://t.co/py2qQGf9",
                     "expanded_url": "http://youtu.be/1HSIbttjWgg",
                     "display_url": "youtu.be/1HSIbttjWgg",
                     "indices": [
-                        107,
-                        127
+                        92,
+                        112
                     ]
                 }
             ]
         },
-        "source": "\u003ca href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\"\u003eTweetbot for iOS\u003c/a\u003e",
+        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
         "in_reply_to_screen_name": null,
         "user": {
-            "id": 586570880,
-            "id_str": "586570880"
+            "id": 9624742,
+            "id_str": "9624742"
         },
         "geo": null,
         "coordinates": null,
         "place": null,
         "contributors": null,
-        "retweeted_status": {
-            "created_at": "Thu Jun 14 14:47:51 +0000 2012",
-            "id": 213281602875297792,
-            "id_str": "213281602875297792",
-            "full_text": "Today is Global Economic Statecraft Day. Watch a video message from President Barack Obama: http://t.co/py2qQGf9 #EconDiplomacy",
-            "truncated": false,
-            "display_text_range": [
-                0,
-                127
-            ],
-            "entities": {
-                "hashtags": [
-                    {
-                        "text": "EconDiplomacy",
-                        "indices": [
-                            113,
-                            127
-                        ]
-                    }
-                ],
-                "symbols": [],
-                "user_mentions": [],
-                "urls": [
-                    {
-                        "url": "http://t.co/py2qQGf9",
-                        "expanded_url": "http://youtu.be/1HSIbttjWgg",
-                        "display_url": "youtu.be/1HSIbttjWgg",
-                        "indices": [
-                            92,
-                            112
-                        ]
-                    }
-                ]
-            },
-            "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
-            "user": {
-                "id": 9624742,
-                "id_str": "9624742"
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "is_quote_status": false,
-            "retweet_count": 15,
-            "favorite_count": 2,
-            "favorited": false,
-            "retweeted": true,
-            "possibly_sensitive": false,
-            "lang": "en"
-        },
         "is_quote_status": false,
         "retweet_count": 15,
-        "favorite_count": 0,
+        "favorite_count": 2,
         "favorited": false,
         "retweeted": true,
         "possibly_sensitive": false,
         "lang": "en"
-    }
-]
+    },
+    "is_quote_status": false,
+    "retweet_count": 15,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

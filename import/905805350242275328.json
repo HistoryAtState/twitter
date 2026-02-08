@@ -1,289 +1,287 @@
-[
-    {
-        "created_at": "Thu Sep 07 14:49:59 +0000 2017",
-        "id": 905805350242275328,
-        "id_str": "905805350242275328",
-        "full_text": "RT @USEmbVilnius: @StateDept released #interwar period archives. You can learn a lot about #US &amp; #LTU relations from them! #USinLT  https:/\u2026",
+{
+    "created_at": "Thu Sep 07 14:49:59 +0000 2017",
+    "id": 905805350242275330,
+    "id_str": "905805350242275328",
+    "full_text": "RT @USEmbVilnius: @StateDept released #interwar period archives. You can learn a lot about #US &amp;amp; #LTU relations from them! #USinLT  https:/…",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        144
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "interwar",
+                "indices": [
+                    38,
+                    47
+                ]
+            },
+            {
+                "text": "US",
+                "indices": [
+                    91,
+                    94
+                ]
+            },
+            {
+                "text": "LTU",
+                "indices": [
+                    101,
+                    105
+                ]
+            },
+            {
+                "text": "USinLT",
+                "indices": [
+                    127,
+                    134
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "USEmbVilnius",
+                "name": "U.S. Embassy Vilnius",
+                "id": 2498901252,
+                "id_str": "2498901252",
+                "indices": [
+                    3,
+                    16
+                ]
+            },
+            {
+                "screen_name": "StateDept",
+                "name": "Department of State",
+                "id": 9624742,
+                "id_str": "9624742",
+                "indices": [
+                    18,
+                    28
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "source": "&lt;a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"&gt;Twitter for iPad&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Sep 07 12:25:35 +0000 2017",
+        "id": 905769011388002300,
+        "id_str": "905769011388002304",
+        "full_text": "@StateDept released #interwar period archives. You can learn a lot about #US &amp;amp; #LTU relations from them! #USinLT  https://t.co/HBJPWbIddk https://t.co/YAFoeVsuFx",
         "truncated": false,
         "display_text_range": [
             0,
-            144
+            141
         ],
         "entities": {
             "hashtags": [
                 {
                     "text": "interwar",
                     "indices": [
-                        38,
-                        47
+                        20,
+                        29
                     ]
                 },
                 {
                     "text": "US",
                     "indices": [
-                        91,
-                        94
+                        73,
+                        76
                     ]
                 },
                 {
                     "text": "LTU",
                     "indices": [
-                        101,
-                        105
+                        83,
+                        87
                     ]
                 },
                 {
                     "text": "USinLT",
                     "indices": [
-                        127,
-                        134
+                        109,
+                        116
                     ]
                 }
             ],
             "symbols": [],
             "user_mentions": [
                 {
-                    "screen_name": "USEmbVilnius",
-                    "name": "U.S. Embassy Vilnius",
-                    "id": 2498901252,
-                    "id_str": "2498901252",
-                    "indices": [
-                        3,
-                        16
-                    ]
-                },
-                {
                     "screen_name": "StateDept",
                     "name": "Department of State",
                     "id": 9624742,
                     "id_str": "9624742",
                     "indices": [
-                        18,
-                        28
+                        0,
+                        10
                     ]
                 }
             ],
-            "urls": []
+            "urls": [
+                {
+                    "url": "https://t.co/HBJPWbIddk",
+                    "expanded_url": "https://goo.gl/JzqJFp",
+                    "display_url": "goo.gl/JzqJFp",
+                    "indices": [
+                        118,
+                        141
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 905768990533931010,
+                    "id_str": "905768990533931009",
+                    "indices": [
+                        142,
+                        165
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DJHwGRFW0AEaP3O.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DJHwGRFW0AEaP3O.jpg",
+                    "url": "https://t.co/YAFoeVsuFx",
+                    "display_url": "pic.twitter.com/YAFoeVsuFx",
+                    "expanded_url": "https://twitter.com/USEmbVilnius/status/905769011388002304/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 304,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1612,
+                            "h": 720,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 536,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
         },
-        "source": "\u003ca href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c/a\u003e",
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 905768990533931010,
+                    "id_str": "905768990533931009",
+                    "indices": [
+                        142,
+                        165
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DJHwGRFW0AEaP3O.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DJHwGRFW0AEaP3O.jpg",
+                    "url": "https://t.co/YAFoeVsuFx",
+                    "display_url": "pic.twitter.com/YAFoeVsuFx",
+                    "expanded_url": "https://twitter.com/USEmbVilnius/status/905769011388002304/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 304,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1612,
+                            "h": 720,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 536,
+                            "resize": "fit"
+                        }
+                    },
+                    "ext_alt_text": null
+                }
+            ]
+        },
+        "source": "&lt;a href=\"http://twitter.com/download/android\" rel=\"nofollow\"&gt;Twitter for Android&lt;/a&gt;",
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
+        "in_reply_to_user_id": 9624742,
+        "in_reply_to_user_id_str": "9624742",
+        "in_reply_to_screen_name": "StateDept",
         "user": {
-            "id": 586570880,
-            "id_str": "586570880"
+            "id": 2498901252,
+            "id_str": "2498901252"
         },
         "geo": null,
         "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "retweeted_status": {
-            "created_at": "Thu Sep 07 12:25:35 +0000 2017",
-            "id": 905769011388002304,
-            "id_str": "905769011388002304",
-            "full_text": "@StateDept released #interwar period archives. You can learn a lot about #US &amp; #LTU relations from them! #USinLT  https://t.co/HBJPWbIddk https://t.co/YAFoeVsuFx",
-            "truncated": false,
-            "display_text_range": [
-                0,
-                141
-            ],
-            "entities": {
-                "hashtags": [
-                    {
-                        "text": "interwar",
-                        "indices": [
-                            20,
-                            29
-                        ]
-                    },
-                    {
-                        "text": "US",
-                        "indices": [
-                            73,
-                            76
-                        ]
-                    },
-                    {
-                        "text": "LTU",
-                        "indices": [
-                            83,
-                            87
-                        ]
-                    },
-                    {
-                        "text": "USinLT",
-                        "indices": [
-                            109,
-                            116
-                        ]
-                    }
-                ],
-                "symbols": [],
-                "user_mentions": [
-                    {
-                        "screen_name": "StateDept",
-                        "name": "Department of State",
-                        "id": 9624742,
-                        "id_str": "9624742",
-                        "indices": [
-                            0,
-                            10
-                        ]
-                    }
-                ],
-                "urls": [
-                    {
-                        "url": "https://t.co/HBJPWbIddk",
-                        "expanded_url": "https://goo.gl/JzqJFp",
-                        "display_url": "goo.gl/JzqJFp",
-                        "indices": [
-                            118,
-                            141
-                        ]
-                    }
-                ],
-                "media": [
-                    {
-                        "id": 905768990533931009,
-                        "id_str": "905768990533931009",
-                        "indices": [
-                            142,
-                            165
-                        ],
-                        "media_url": "http://pbs.twimg.com/media/DJHwGRFW0AEaP3O.jpg",
-                        "media_url_https": "https://pbs.twimg.com/media/DJHwGRFW0AEaP3O.jpg",
-                        "url": "https://t.co/YAFoeVsuFx",
-                        "display_url": "pic.twitter.com/YAFoeVsuFx",
-                        "expanded_url": "https://twitter.com/USEmbVilnius/status/905769011388002304/photo/1",
-                        "type": "photo",
-                        "sizes": {
-                            "small": {
-                                "w": 680,
-                                "h": 304,
-                                "resize": "fit"
-                            },
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
-                            "large": {
-                                "w": 1612,
-                                "h": 720,
-                                "resize": "fit"
-                            },
-                            "medium": {
-                                "w": 1200,
-                                "h": 536,
-                                "resize": "fit"
-                            }
-                        }
-                    }
-                ]
-            },
-            "extended_entities": {
-                "media": [
-                    {
-                        "id": 905768990533931009,
-                        "id_str": "905768990533931009",
-                        "indices": [
-                            142,
-                            165
-                        ],
-                        "media_url": "http://pbs.twimg.com/media/DJHwGRFW0AEaP3O.jpg",
-                        "media_url_https": "https://pbs.twimg.com/media/DJHwGRFW0AEaP3O.jpg",
-                        "url": "https://t.co/YAFoeVsuFx",
-                        "display_url": "pic.twitter.com/YAFoeVsuFx",
-                        "expanded_url": "https://twitter.com/USEmbVilnius/status/905769011388002304/photo/1",
-                        "type": "photo",
-                        "sizes": {
-                            "small": {
-                                "w": 680,
-                                "h": 304,
-                                "resize": "fit"
-                            },
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
-                            "large": {
-                                "w": 1612,
-                                "h": 720,
-                                "resize": "fit"
-                            },
-                            "medium": {
-                                "w": 1200,
-                                "h": 536,
-                                "resize": "fit"
-                            }
-                        },
-                        "ext_alt_text": null
-                    }
-                ]
-            },
-            "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": 9624742,
-            "in_reply_to_user_id_str": "9624742",
-            "in_reply_to_screen_name": "StateDept",
-            "user": {
-                "id": 2498901252,
-                "id_str": "2498901252"
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": {
-                "id": "01cce83d8638e5f7",
-                "url": "https://api.twitter.com/1.1/geo/id/01cce83d8638e5f7.json",
-                "place_type": "city",
-                "name": "Vilnius",
-                "full_name": "Vilnius, Lithuania",
-                "country_code": "LT",
-                "country": "Lithuania",
-                "contained_within": [],
-                "bounding_box": {
-                    "type": "Polygon",
-                    "coordinates": [
+        "place": {
+            "id": "01cce83d8638e5f7",
+            "url": "https://api.twitter.com/1.1/geo/id/01cce83d8638e5f7.json",
+            "place_type": "city",
+            "name": "Vilnius",
+            "full_name": "Vilnius, Lithuania",
+            "country_code": "LT",
+            "country": "Lithuania",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
                         [
-                            [
-                                25.0245985,
-                                54.5689032
-                            ],
-                            [
-                                25.48146,
-                                54.5689032
-                            ],
-                            [
-                                25.48146,
-                                54.8322118
-                            ],
-                            [
-                                25.0245985,
-                                54.8322118
-                            ]
+                            25.0245985,
+                            54.5689032
+                        ],
+                        [
+                            25.48146,
+                            54.5689032
+                        ],
+                        [
+                            25.48146,
+                            54.8322118
+                        ],
+                        [
+                            25.0245985,
+                            54.8322118
                         ]
                     ]
-                },
-                "attributes": {}
+                ]
             },
-            "contributors": null,
-            "is_quote_status": false,
-            "retweet_count": 12,
-            "favorite_count": 19,
-            "favorited": false,
-            "retweeted": true,
-            "possibly_sensitive": false,
-            "lang": "en"
+            "attributes": {}
         },
+        "contributors": null,
         "is_quote_status": false,
         "retweet_count": 12,
-        "favorite_count": 0,
+        "favorite_count": 19,
         "favorited": false,
         "retweeted": true,
+        "possibly_sensitive": false,
         "lang": "en"
-    }
-]
+    },
+    "is_quote_status": false,
+    "retweet_count": 12,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "en"
+}

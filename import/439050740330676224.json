@@ -1,44 +1,189 @@
-[
-    {
-        "created_at": "Thu Feb 27 14:53:48 +0000 2014",
-        "id": 439050740330676224,
-        "id_str": "439050740330676224",
-        "full_text": "RT @StateDept: Watch @JohnKerry release the 2013 #HumanRights Report at 11:30 a.m. EST live: http://t.co/5KeY5BG2rP http://t.co/ATk9g4QIsh",
+{
+    "created_at": "Thu Feb 27 14:53:48 +0000 2014",
+    "id": 439050740330676220,
+    "id_str": "439050740330676224",
+    "full_text": "RT @StateDept: Watch @JohnKerry release the 2013 #HumanRights Report at 11:30 a.m. EST live: http://t.co/5KeY5BG2rP http://t.co/ATk9g4QIsh",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        138
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "HumanRights",
+                "indices": [
+                    49,
+                    61
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "StateDept",
+                "name": "Department of State",
+                "id": 9624742,
+                "id_str": "9624742",
+                "indices": [
+                    3,
+                    13
+                ]
+            },
+            {
+                "screen_name": "JohnKerry",
+                "name": "John Kerry",
+                "id": 15007149,
+                "id_str": "15007149",
+                "indices": [
+                    21,
+                    31
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "http://t.co/5KeY5BG2rP",
+                "expanded_url": "http://video.state.gov/live/",
+                "display_url": "video.state.gov/live/",
+                "indices": [
+                    93,
+                    115
+                ]
+            }
+        ],
+        "media": [
+            {
+                "id": 438879223516651520,
+                "id_str": "438879223516651520",
+                "indices": [
+                    116,
+                    138
+                ],
+                "media_url": "http://pbs.twimg.com/media/Bhc2VBkCYAAJcdQ.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/Bhc2VBkCYAAJcdQ.jpg",
+                "url": "http://t.co/ATk9g4QIsh",
+                "display_url": "pic.twitter.com/ATk9g4QIsh",
+                "expanded_url": "https://twitter.com/StateDept/status/438879223508262913/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 438879223508262910,
+                "source_status_id_str": "438879223508262913",
+                "source_user_id": 9624742,
+                "source_user_id_str": "9624742"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 438879223516651520,
+                "id_str": "438879223516651520",
+                "indices": [
+                    116,
+                    138
+                ],
+                "media_url": "http://pbs.twimg.com/media/Bhc2VBkCYAAJcdQ.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/Bhc2VBkCYAAJcdQ.jpg",
+                "url": "http://t.co/ATk9g4QIsh",
+                "display_url": "pic.twitter.com/ATk9g4QIsh",
+                "expanded_url": "https://twitter.com/StateDept/status/438879223508262913/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 438879223508262910,
+                "source_status_id_str": "438879223508262913",
+                "source_user_id": 9624742,
+                "source_user_id_str": "9624742",
+                "ext_alt_text": null
+            }
+        ]
+    },
+    "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Feb 27 03:32:15 +0000 2014",
+        "id": 438879223508262910,
+        "id_str": "438879223508262913",
+        "full_text": "Watch @JohnKerry release the 2013 #HumanRights Report at 11:30 a.m. EST live: http://t.co/5KeY5BG2rP http://t.co/ATk9g4QIsh",
         "truncated": false,
         "display_text_range": [
             0,
-            138
+            123
         ],
         "entities": {
             "hashtags": [
                 {
                     "text": "HumanRights",
                     "indices": [
-                        49,
-                        61
+                        34,
+                        46
                     ]
                 }
             ],
             "symbols": [],
             "user_mentions": [
                 {
-                    "screen_name": "StateDept",
-                    "name": "Department of State",
-                    "id": 9624742,
-                    "id_str": "9624742",
-                    "indices": [
-                        3,
-                        13
-                    ]
-                },
-                {
                     "screen_name": "JohnKerry",
                     "name": "John Kerry",
                     "id": 15007149,
                     "id_str": "15007149",
                     "indices": [
-                        21,
-                        31
+                        6,
+                        16
                     ]
                 }
             ],
@@ -48,8 +193,8 @@
                     "expanded_url": "http://video.state.gov/live/",
                     "display_url": "video.state.gov/live/",
                     "indices": [
-                        93,
-                        115
+                        78,
+                        100
                     ]
                 }
             ],
@@ -58,8 +203,8 @@
                     "id": 438879223516651520,
                     "id_str": "438879223516651520",
                     "indices": [
-                        116,
-                        138
+                        101,
+                        123
                     ],
                     "media_url": "http://pbs.twimg.com/media/Bhc2VBkCYAAJcdQ.jpg",
                     "media_url_https": "https://pbs.twimg.com/media/Bhc2VBkCYAAJcdQ.jpg",
@@ -88,11 +233,7 @@
                             "h": 360,
                             "resize": "fit"
                         }
-                    },
-                    "source_status_id": 438879223508262913,
-                    "source_status_id_str": "438879223508262913",
-                    "source_user_id": 9624742,
-                    "source_user_id_str": "9624742"
+                    }
                 }
             ]
         },
@@ -102,8 +243,8 @@
                     "id": 438879223516651520,
                     "id_str": "438879223516651520",
                     "indices": [
-                        116,
-                        138
+                        101,
+                        123
                     ],
                     "media_url": "http://pbs.twimg.com/media/Bhc2VBkCYAAJcdQ.jpg",
                     "media_url_https": "https://pbs.twimg.com/media/Bhc2VBkCYAAJcdQ.jpg",
@@ -133,180 +274,37 @@
                             "resize": "fit"
                         }
                     },
-                    "source_status_id": 438879223508262913,
-                    "source_status_id_str": "438879223508262913",
-                    "source_user_id": 9624742,
-                    "source_user_id_str": "9624742",
                     "ext_alt_text": null
                 }
             ]
         },
-        "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
+        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
         "in_reply_to_screen_name": null,
         "user": {
-            "id": 586570880,
-            "id_str": "586570880"
+            "id": 9624742,
+            "id_str": "9624742"
         },
         "geo": null,
         "coordinates": null,
         "place": null,
         "contributors": null,
-        "retweeted_status": {
-            "created_at": "Thu Feb 27 03:32:15 +0000 2014",
-            "id": 438879223508262913,
-            "id_str": "438879223508262913",
-            "full_text": "Watch @JohnKerry release the 2013 #HumanRights Report at 11:30 a.m. EST live: http://t.co/5KeY5BG2rP http://t.co/ATk9g4QIsh",
-            "truncated": false,
-            "display_text_range": [
-                0,
-                123
-            ],
-            "entities": {
-                "hashtags": [
-                    {
-                        "text": "HumanRights",
-                        "indices": [
-                            34,
-                            46
-                        ]
-                    }
-                ],
-                "symbols": [],
-                "user_mentions": [
-                    {
-                        "screen_name": "JohnKerry",
-                        "name": "John Kerry",
-                        "id": 15007149,
-                        "id_str": "15007149",
-                        "indices": [
-                            6,
-                            16
-                        ]
-                    }
-                ],
-                "urls": [
-                    {
-                        "url": "http://t.co/5KeY5BG2rP",
-                        "expanded_url": "http://video.state.gov/live/",
-                        "display_url": "video.state.gov/live/",
-                        "indices": [
-                            78,
-                            100
-                        ]
-                    }
-                ],
-                "media": [
-                    {
-                        "id": 438879223516651520,
-                        "id_str": "438879223516651520",
-                        "indices": [
-                            101,
-                            123
-                        ],
-                        "media_url": "http://pbs.twimg.com/media/Bhc2VBkCYAAJcdQ.jpg",
-                        "media_url_https": "https://pbs.twimg.com/media/Bhc2VBkCYAAJcdQ.jpg",
-                        "url": "http://t.co/ATk9g4QIsh",
-                        "display_url": "pic.twitter.com/ATk9g4QIsh",
-                        "expanded_url": "https://twitter.com/StateDept/status/438879223508262913/photo/1",
-                        "type": "photo",
-                        "sizes": {
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
-                            "medium": {
-                                "w": 640,
-                                "h": 360,
-                                "resize": "fit"
-                            },
-                            "small": {
-                                "w": 640,
-                                "h": 360,
-                                "resize": "fit"
-                            },
-                            "large": {
-                                "w": 640,
-                                "h": 360,
-                                "resize": "fit"
-                            }
-                        }
-                    }
-                ]
-            },
-            "extended_entities": {
-                "media": [
-                    {
-                        "id": 438879223516651520,
-                        "id_str": "438879223516651520",
-                        "indices": [
-                            101,
-                            123
-                        ],
-                        "media_url": "http://pbs.twimg.com/media/Bhc2VBkCYAAJcdQ.jpg",
-                        "media_url_https": "https://pbs.twimg.com/media/Bhc2VBkCYAAJcdQ.jpg",
-                        "url": "http://t.co/ATk9g4QIsh",
-                        "display_url": "pic.twitter.com/ATk9g4QIsh",
-                        "expanded_url": "https://twitter.com/StateDept/status/438879223508262913/photo/1",
-                        "type": "photo",
-                        "sizes": {
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
-                            "medium": {
-                                "w": 640,
-                                "h": 360,
-                                "resize": "fit"
-                            },
-                            "small": {
-                                "w": 640,
-                                "h": 360,
-                                "resize": "fit"
-                            },
-                            "large": {
-                                "w": 640,
-                                "h": 360,
-                                "resize": "fit"
-                            }
-                        },
-                        "ext_alt_text": null
-                    }
-                ]
-            },
-            "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
-            "user": {
-                "id": 9624742,
-                "id_str": "9624742"
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "is_quote_status": false,
-            "retweet_count": 89,
-            "favorite_count": 31,
-            "favorited": false,
-            "retweeted": true,
-            "possibly_sensitive": false,
-            "lang": "en"
-        },
         "is_quote_status": false,
         "retweet_count": 89,
-        "favorite_count": 0,
+        "favorite_count": 31,
         "favorited": false,
         "retweeted": true,
         "possibly_sensitive": false,
         "lang": "en"
-    }
-]
+    },
+    "is_quote_status": false,
+    "retweet_count": 89,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

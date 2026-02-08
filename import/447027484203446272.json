@@ -1,54 +1,52 @@
-[
-    {
-        "created_at": "Fri Mar 21 15:10:32 +0000 2014",
-        "id": 447027484203446272,
-        "id_str": "447027484203446272",
-        "full_text": "US hosted 1967 Int\u2019l #Water for Peace Conf to address world\u2019s water problems, with reps from 94 countries &amp; 24 int\u2019l orgs #WorldWaterDay",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            140
+{
+    "created_at": "Fri Mar 21 15:10:32 +0000 2014",
+    "id": 447027484203446270,
+    "id_str": "447027484203446272",
+    "full_text": "US hosted 1967 Int’l #Water for Peace Conf to address world’s water problems, with reps from 94 countries &amp;amp; 24 int’l orgs #WorldWaterDay",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Water",
+                "indices": [
+                    21,
+                    27
+                ]
+            },
+            {
+                "text": "WorldWaterDay",
+                "indices": [
+                    126,
+                    140
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "Water",
-                    "indices": [
-                        21,
-                        27
-                    ]
-                },
-                {
-                    "text": "WorldWaterDay",
-                    "indices": [
-                        126,
-                        140
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": []
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 1,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

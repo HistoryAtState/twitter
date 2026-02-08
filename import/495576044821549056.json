@@ -1,76 +1,74 @@
-[
-    {
-        "created_at": "Sat Aug 02 14:25:11 +0000 2014",
-        "id": 495576044821549056,
-        "id_str": "495576044821549056",
-        "full_text": "#TDiH 1914 from Newport RI, Russian Amb Bakhm\u00e9teff  informs @StateDept \u201cGermany has declared war upon us\u201d #WW1Tweet http://t.co/EcswHXFAYH",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            138
+{
+    "created_at": "Sat Aug 02 14:25:11 +0000 2014",
+    "id": 495576044821549060,
+    "id_str": "495576044821549056",
+    "full_text": "#TDiH 1914 from Newport RI, Russian Amb Bakhméteff  informs @StateDept “Germany has declared war upon us” #WW1Tweet http://t.co/EcswHXFAYH",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        138
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "TDiH",
+                "indices": [
+                    0,
+                    5
+                ]
+            },
+            {
+                "text": "WW1Tweet",
+                "indices": [
+                    106,
+                    115
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "TDiH",
-                    "indices": [
-                        0,
-                        5
-                    ]
-                },
-                {
-                    "text": "WW1Tweet",
-                    "indices": [
-                        106,
-                        115
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "StateDept",
-                    "name": "Department of State",
-                    "id": 9624742,
-                    "id_str": "9624742",
-                    "indices": [
-                        60,
-                        70
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "http://t.co/EcswHXFAYH",
-                    "expanded_url": "http://go.usa.gov/5FSm",
-                    "display_url": "go.usa.gov/5FSm",
-                    "indices": [
-                        116,
-                        138
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 0,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "StateDept",
+                "name": "Department of State",
+                "id": 9624742,
+                "id_str": "9624742",
+                "indices": [
+                    60,
+                    70
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "http://t.co/EcswHXFAYH",
+                "expanded_url": "http://go.usa.gov/5FSm",
+                "display_url": "go.usa.gov/5FSm",
+                "indices": [
+                    116,
+                    138
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

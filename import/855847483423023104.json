@@ -1,76 +1,74 @@
-[
-    {
-        "created_at": "Sat Apr 22 18:15:15 +0000 2017",
-        "id": 855847483423023104,
-        "id_str": "855847483423023104",
-        "full_text": "Nixon &amp; @StateDept stressed need for intl coop &amp; DOS accomplishments re environment, 1970 #FRUS #EarthDay @ https://t.co/87xKuSqi0S",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            139
+{
+    "created_at": "Sat Apr 22 18:15:15 +0000 2017",
+    "id": 855847483423023100,
+    "id_str": "855847483423023104",
+    "full_text": "Nixon &amp;amp; @StateDept stressed need for intl coop &amp;amp; DOS accomplishments re environment, 1970 #FRUS #EarthDay @ https://t.co/87xKuSqi0S",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FRUS",
+                "indices": [
+                    98,
+                    103
+                ]
+            },
+            {
+                "text": "EarthDay",
+                "indices": [
+                    104,
+                    113
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        98,
-                        103
-                    ]
-                },
-                {
-                    "text": "EarthDay",
-                    "indices": [
-                        104,
-                        113
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "StateDept",
-                    "name": "Department of State",
-                    "id": 9624742,
-                    "id_str": "9624742",
-                    "indices": [
-                        12,
-                        22
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "https://t.co/87xKuSqi0S",
-                    "expanded_url": "https://go.usa.gov/xXSpf",
-                    "display_url": "go.usa.gov/xXSpf",
-                    "indices": [
-                        116,
-                        139
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 1,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "StateDept",
+                "name": "Department of State",
+                "id": 9624742,
+                "id_str": "9624742",
+                "indices": [
+                    12,
+                    22
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/87xKuSqi0S",
+                "expanded_url": "https://go.usa.gov/xXSpf",
+                "display_url": "go.usa.gov/xXSpf",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

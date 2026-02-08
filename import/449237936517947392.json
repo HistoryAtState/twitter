@@ -1,58 +1,56 @@
-[
-    {
-        "created_at": "Thu Mar 27 17:34:05 +0000 2014",
-        "id": 449237936517947392,
-        "id_str": "449237936517947392",
-        "full_text": "How have the roles of women in the Foreign Service &amp; @StateDept history changed over time? #WomensHistoryMonth",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            114
+{
+    "created_at": "Thu Mar 27 17:34:05 +0000 2014",
+    "id": 449237936517947390,
+    "id_str": "449237936517947392",
+    "full_text": "How have the roles of women in the Foreign Service &amp;amp; @StateDept history changed over time? #WomensHistoryMonth",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        114
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "WomensHistoryMonth",
+                "indices": [
+                    95,
+                    114
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "WomensHistoryMonth",
-                    "indices": [
-                        95,
-                        114
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "StateDept",
-                    "name": "Department of State",
-                    "id": 9624742,
-                    "id_str": "9624742",
-                    "indices": [
-                        57,
-                        67
-                    ]
-                }
-            ],
-            "urls": []
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 0,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "StateDept",
+                "name": "Department of State",
+                "id": 9624742,
+                "id_str": "9624742",
+                "indices": [
+                    57,
+                    67
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

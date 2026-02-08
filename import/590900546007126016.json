@@ -1,76 +1,74 @@
-[
-    {
-        "created_at": "Wed Apr 22 15:30:43 +0000 2015",
-        "id": 590900546007126016,
-        "id_str": "590900546007126016",
-        "full_text": "Come see our presentation on the life cycle of #FRUS volumes at the @SHFGHistorians meeting | http://t.co/606kYs1L3v #SHFG2015",
-        "truncated": false,
-        "display_text_range": [
-            0,
-            126
+{
+    "created_at": "Wed Apr 22 15:30:43 +0000 2015",
+    "id": 590900546007126020,
+    "id_str": "590900546007126016",
+    "full_text": "Come see our presentation on the life cycle of #FRUS volumes at the @SHFGHistorians meeting | http://t.co/606kYs1L3v #SHFG2015",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        126
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FRUS",
+                "indices": [
+                    47,
+                    52
+                ]
+            },
+            {
+                "text": "SHFG2015",
+                "indices": [
+                    117,
+                    126
+                ]
+            }
         ],
-        "entities": {
-            "hashtags": [
-                {
-                    "text": "FRUS",
-                    "indices": [
-                        47,
-                        52
-                    ]
-                },
-                {
-                    "text": "SHFG2015",
-                    "indices": [
-                        117,
-                        126
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "SHFGHistorians",
-                    "name": "SHFGHistorians",
-                    "id": 486867266,
-                    "id_str": "486867266",
-                    "indices": [
-                        68,
-                        83
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "http://t.co/606kYs1L3v",
-                    "expanded_url": "http://shfg.org/shfg/feature-archive/federalist-feature/",
-                    "display_url": "shfg.org/shfg/feature-a\u2026",
-                    "indices": [
-                        94,
-                        116
-                    ]
-                }
-            ]
-        },
-        "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 0,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-    }
-]
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "SHFGHistorians",
+                "name": "SHFGHistorians",
+                "id": 486867266,
+                "id_str": "486867266",
+                "indices": [
+                    68,
+                    83
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "http://t.co/606kYs1L3v",
+                "expanded_url": "http://shfg.org/shfg/feature-archive/federalist-feature/",
+                "display_url": "shfg.org/shfg/feature-a…",
+                "indices": [
+                    94,
+                    116
+                ]
+            }
+        ]
+    },
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

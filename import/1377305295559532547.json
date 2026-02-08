@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Wed Mar 31 17:02:26 +0000 2021",
-    "id": 1377305295559532540,
-    "id_str": "1377305295559532547",
-    "full_text": "Interested in U.S. policy towards Colombia after La Violencia? Read 1961–1963 primary source documents in #FRUS:\nhttps://t.co/oqKR7a0SqX https://t.co/gMSz1Gntge",
-    "truncated": false,
     "display_text_range": [
         0,
         136
@@ -11,28 +9,17 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     106,
                     111
-                ]
-            }
-        ],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
-            {
-                "url": "https://t.co/oqKR7a0SqX",
-                "expanded_url": "https://history.state.gov/historicaldocuments/frus1961-63v10-12mSupp/ch3",
-                "display_url": "history.state.gov/historicaldocu…",
-                "indices": [
-                    113,
-                    136
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "media": [
             {
+                "display_url": "pic.twitter.com/gMSz1Gntge",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1377305295559532547/photo/1",
                 "id": 1377305293655261180,
                 "id_str": "1377305293655261196",
                 "indices": [
@@ -41,38 +28,52 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/Ex0r3geWQAwP0mq.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/Ex0r3geWQAwP0mq.jpg",
-                "url": "https://t.co/gMSz1Gntge",
-                "display_url": "pic.twitter.com/gMSz1Gntge",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1377305295559532547/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
                     "large": {
-                        "w": 1322,
                         "h": 1342,
-                        "resize": "fit"
-                    },
-                    "small": {
-                        "w": 670,
-                        "h": 680,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1322
                     },
                     "medium": {
-                        "w": 1182,
                         "h": 1200,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1182
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 670
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/gMSz1Gntge"
             }
-        ]
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "history.state.gov/historicaldocu…",
+                "expanded_url": "https://history.state.gov/historicaldocuments/frus1961-63v10-12mSupp/ch3",
+                "indices": [
+                    113,
+                    136
+                ],
+                "url": "https://t.co/oqKR7a0SqX"
+            }
+        ],
+        "user_mentions": []
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/gMSz1Gntge",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1377305295559532547/photo/1",
+                "ext_alt_text": "Screenshot of the first page of Chapter 3 “Colombia.” The first document is visible: “47. Memorandum of conversation, February 17, among Rusk, Ambassador Sanz de Santamaria, and U.S. and Colombian officials,” dated February 17, 1961 with the subject line “Various matters of mutual interest to Colombia and the United States”",
                 "id": 1377305293655261180,
                 "id_str": "1377305293655261196",
                 "indices": [
@@ -81,55 +82,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/Ex0r3geWQAwP0mq.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/Ex0r3geWQAwP0mq.jpg",
-                "url": "https://t.co/gMSz1Gntge",
-                "display_url": "pic.twitter.com/gMSz1Gntge",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1377305295559532547/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
                     "large": {
-                        "w": 1322,
                         "h": 1342,
-                        "resize": "fit"
-                    },
-                    "small": {
-                        "w": 670,
-                        "h": 680,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1322
                     },
                     "medium": {
-                        "w": 1182,
                         "h": 1200,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1182
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 670
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": "Screenshot of the first page of Chapter 3 “Colombia.” The first document is visible: “47. Memorandum of conversation, February 17, among Rusk, Ambassador Sanz de Santamaria, and U.S. and Colombian officials,” dated February 17, 1961 with the subject line “Various matters of mutual interest to Colombia and the United States”"
+                "type": "photo",
+                "url": "https://t.co/gMSz1Gntge"
             }
         ]
     },
-    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "favorite_count": 9,
+    "favorited": false,
+    "full_text": "Interested in U.S. policy towards Colombia after La Violencia? Read 1961–1963 primary source documents in #FRUS:\nhttps://t.co/oqKR7a0SqX https://t.co/gMSz1Gntge",
+    "geo": null,
+    "id": 1377305295559532540,
+    "id_str": "1377305295559532547",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4,
+    "retweeted": false,
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 9,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

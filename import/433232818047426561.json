@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Feb 11 13:35:27 +0000 2014",
-    "id": 433232818047426560,
-    "id_str": "433232818047426561",
-    "full_text": "Vincent Auriol was 1st French President to make a formal visit to the United States in Spring 1951. @franceintheus http://t.co/a3NKhptnog",
-    "truncated": false,
     "display_text_range": [
         0,
         137
@@ -11,49 +9,51 @@
     "entities": {
         "hashtags": [],
         "symbols": [],
+        "urls": [
+            {
+                "display_url": "ow.ly/tvppD",
+                "expanded_url": "http://ow.ly/tvppD",
+                "indices": [
+                    115,
+                    137
+                ],
+                "url": "http://t.co/a3NKhptnog"
+            }
+        ],
         "user_mentions": [
             {
-                "screen_name": "franceintheus",
-                "name": "French Embassy U.S.",
                 "id": 43914724,
                 "id_str": "43914724",
                 "indices": [
                     100,
                     114
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "http://t.co/a3NKhptnog",
-                "expanded_url": "http://ow.ly/tvppD",
-                "display_url": "ow.ly/tvppD",
-                "indices": [
-                    115,
-                    137
-                ]
+                ],
+                "name": "French Embassy U.S.",
+                "screen_name": "franceintheus"
             }
         ]
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "Vincent Auriol was 1st French President to make a formal visit to the United States in Spring 1951. @franceintheus http://t.co/a3NKhptnog",
+    "geo": null,
+    "id": 433232818047426560,
+    "id_str": "433232818047426561",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

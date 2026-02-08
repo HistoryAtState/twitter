@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Jun 08 12:01:38 +0000 2015",
-    "id": 607880160285753340,
-    "id_str": "607880160285753344",
-    "full_text": "16 newly-digitized #FRUS volumes covering events that took place between 1944 and 1951 now available http://t.co/qzyyzVz1WY #twitterstorians",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,53 +9,55 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     19,
                     24
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "twitterstorians",
                 "indices": [
                     124,
                     140
-                ]
+                ],
+                "text": "twitterstorians"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/qzyyzVz1WY",
-                "expanded_url": "http://bit.ly/1H504Fq",
                 "display_url": "bit.ly/1H504Fq",
+                "expanded_url": "http://bit.ly/1H504Fq",
                 "indices": [
                     101,
                     123
-                ]
+                ],
+                "url": "http://t.co/qzyyzVz1WY"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "16 newly-digitized #FRUS volumes covering events that took place between 1944 and 1951 now available http://t.co/qzyyzVz1WY #twitterstorians",
+    "geo": null,
+    "id": 607880160285753340,
+    "id_str": "607880160285753344",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

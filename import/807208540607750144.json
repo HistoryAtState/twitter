@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Fri Dec 09 13:01:27 +0000 2016",
-    "id": 807208540607750140,
-    "id_str": "807208540607750144",
-    "full_text": "Now available: Foreign Relations, 1933, General, Vol. I https://t.co/LpEwA4n9CO",
-    "truncated": false,
     "display_text_range": [
         0,
         79
@@ -11,38 +9,40 @@
     "entities": {
         "hashtags": [],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "https://t.co/LpEwA4n9CO",
-                "expanded_url": "https://history.state.gov/historicaldocuments/frus1933v01",
                 "display_url": "history.state.gov/historicaldocu…",
+                "expanded_url": "https://history.state.gov/historicaldocuments/frus1933v01",
                 "indices": [
                     56,
                     79
-                ]
+                ],
+                "url": "https://t.co/LpEwA4n9CO"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "Now available: Foreign Relations, 1933, General, Vol. I https://t.co/LpEwA4n9CO",
+    "geo": null,
+    "id": 807208540607750140,
+    "id_str": "807208540607750144",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

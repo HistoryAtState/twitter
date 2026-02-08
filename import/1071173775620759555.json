@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Fri Dec 07 22:45:04 +0000 2018",
-    "id": 1071173775620759550,
-    "id_str": "1071173775620759555",
-    "full_text": "What role did #PublicDiplomacy and #USIA play in the Vietnam War?  Learn more about #USIA at war #FRUS https://t.co/IRzGOIb4oY",
-    "truncated": false,
     "display_text_range": [
         0,
         126
@@ -11,67 +9,69 @@
     "entities": {
         "hashtags": [
             {
-                "text": "PublicDiplomacy",
                 "indices": [
                     14,
                     30
-                ]
+                ],
+                "text": "PublicDiplomacy"
             },
             {
-                "text": "USIA",
                 "indices": [
                     35,
                     40
-                ]
+                ],
+                "text": "USIA"
             },
             {
-                "text": "USIA",
                 "indices": [
                     84,
                     89
-                ]
+                ],
+                "text": "USIA"
             },
             {
-                "text": "FRUS",
                 "indices": [
                     97,
                     102
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "https://t.co/IRzGOIb4oY",
-                "expanded_url": "https://history.state.gov/historicaldocuments/frus1917-72PubDipv07/d37",
                 "display_url": "history.state.gov/historicaldocu…",
+                "expanded_url": "https://history.state.gov/historicaldocuments/frus1917-72PubDipv07/d37",
                 "indices": [
                     103,
                     126
-                ]
+                ],
+                "url": "https://t.co/IRzGOIb4oY"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "favorite_count": 1,
+    "favorited": false,
+    "full_text": "What role did #PublicDiplomacy and #USIA play in the Vietnam War?  Learn more about #USIA at war #FRUS https://t.co/IRzGOIb4oY",
+    "geo": null,
+    "id": 1071173775620759550,
+    "id_str": "1071173775620759555",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3,
+    "retweeted": false,
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 1,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

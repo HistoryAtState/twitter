@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Jun 05 12:51:03 +0000 2012",
-    "id": 209990717467131904,
-    "id_str": "209990717467131904",
-    "full_text": "Peruse records of a Greek coup and US efforts to placate fractious allies: #FRUS \"Cyprus; Greece; Turkey, 1964-1968\" http://t.co/B2csjUI9",
-    "truncated": false,
     "display_text_range": [
         0,
         137
@@ -11,46 +9,48 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     75,
                     80
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/B2csjUI9",
-                "expanded_url": "http://history.state.gov/historicaldocuments/frus1964-68v16",
                 "display_url": "history.state.gov/historicaldocu…",
+                "expanded_url": "http://history.state.gov/historicaldocuments/frus1964-68v16",
                 "indices": [
                     117,
                     137
-                ]
+                ],
+                "url": "http://t.co/B2csjUI9"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "Peruse records of a Greek coup and US efforts to placate fractious allies: #FRUS \"Cyprus; Greece; Turkey, 1964-1968\" http://t.co/B2csjUI9",
+    "geo": null,
+    "id": 209990717467131904,
+    "id_str": "209990717467131904",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

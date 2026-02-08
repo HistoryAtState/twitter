@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Oct 27 19:10:14 +0000 2016",
-    "id": 791718668015177730,
-    "id_str": "791718668015177728",
-    "full_text": "How did John Wayne help wrangle the Panama Canal treaties? Read about it here: https://t.co/EVwqNmSoY1 #FRUS #twitterstorians",
-    "truncated": false,
     "display_text_range": [
         0,
         125
@@ -11,53 +9,55 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     103,
                     108
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "twitterstorians",
                 "indices": [
                     109,
                     125
-                ]
+                ],
+                "text": "twitterstorians"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "https://t.co/EVwqNmSoY1",
-                "expanded_url": "http://go.usa.gov/xks8G",
                 "display_url": "go.usa.gov/xks8G",
+                "expanded_url": "http://go.usa.gov/xks8G",
                 "indices": [
                     79,
                     102
-                ]
+                ],
+                "url": "https://t.co/EVwqNmSoY1"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 2,
+    "favorited": false,
+    "full_text": "How did John Wayne help wrangle the Panama Canal treaties? Read about it here: https://t.co/EVwqNmSoY1 #FRUS #twitterstorians",
+    "geo": null,
+    "id": 791718668015177730,
+    "id_str": "791718668015177728",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 2,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

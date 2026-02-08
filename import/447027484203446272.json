@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Fri Mar 21 15:10:32 +0000 2014",
-    "id": 447027484203446270,
-    "id_str": "447027484203446272",
-    "full_text": "US hosted 1967 Int’l #Water for Peace Conf to address world’s water problems, with reps from 94 countries &amp;amp; 24 int’l orgs #WorldWaterDay",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,42 +9,44 @@
     "entities": {
         "hashtags": [
             {
-                "text": "Water",
                 "indices": [
                     21,
                     27
-                ]
+                ],
+                "text": "Water"
             },
             {
-                "text": "WorldWaterDay",
                 "indices": [
                     126,
                     140
-                ]
+                ],
+                "text": "WorldWaterDay"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
-        "urls": []
+        "urls": [],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "US hosted 1967 Int’l #Water for Peace Conf to address world’s water problems, with reps from 94 countries &amp;amp; 24 int’l orgs #WorldWaterDay",
+    "geo": null,
+    "id": 447027484203446270,
+    "id_str": "447027484203446272",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "lang": "en"
+    }
 }

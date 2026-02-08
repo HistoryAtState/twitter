@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Oct 01 13:38:51 +0000 2018",
-    "id": 1046756330218946560,
-    "id_str": "1046756330218946561",
-    "full_text": "Frank Shakespeare created the Young Officers’ Policy Panel in 1969. Read about it in #FRUS https://t.co/TPt3HXZ8nv",
-    "truncated": false,
     "display_text_range": [
         0,
         114
@@ -11,46 +9,48 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     85,
                     90
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "https://t.co/TPt3HXZ8nv",
-                "expanded_url": "https://www.history.state.gov/historicaldocuments/frus1917-72PubDipv08/d9",
                 "display_url": "history.state.gov/historicaldocu…",
+                "expanded_url": "https://www.history.state.gov/historicaldocuments/frus1917-72PubDipv08/d9",
                 "indices": [
                     91,
                     114
-                ]
+                ],
+                "url": "https://t.co/TPt3HXZ8nv"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 2,
+    "favorited": false,
+    "full_text": "Frank Shakespeare created the Young Officers’ Policy Panel in 1969. Read about it in #FRUS https://t.co/TPt3HXZ8nv",
+    "geo": null,
+    "id": 1046756330218946560,
+    "id_str": "1046756330218946561",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 2,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

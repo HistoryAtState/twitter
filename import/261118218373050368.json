@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Wed Oct 24 14:53:29 +0000 2012",
-    "id": 261118218373050368,
-    "id_str": "261118218373050368",
-    "full_text": "October 24, 1962. Kennedy awaits word on whether Soviet transport ships reach quarantine line. http://t.co/eWTDXAN8 #FRUS #cmc",
-    "truncated": false,
     "display_text_range": [
         0,
         126
@@ -11,53 +9,55 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     116,
                     121
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "cmc",
                 "indices": [
                     122,
                     126
-                ]
+                ],
+                "text": "cmc"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/eWTDXAN8",
-                "expanded_url": "http://bit.ly/SimoBg",
                 "display_url": "bit.ly/SimoBg",
+                "expanded_url": "http://bit.ly/SimoBg",
                 "indices": [
                     95,
                     115
-                ]
+                ],
+                "url": "http://t.co/eWTDXAN8"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "October 24, 1962. Kennedy awaits word on whether Soviet transport ships reach quarantine line. http://t.co/eWTDXAN8 #FRUS #cmc",
+    "geo": null,
+    "id": 261118218373050368,
+    "id_str": "261118218373050368",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

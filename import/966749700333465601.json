@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Feb 22 19:01:04 +0000 2018",
-    "id": 966749700333465600,
-    "id_str": "966749700333465601",
-    "full_text": "Margarita Osipova married USN Ensign Byron Uskievich and renounced her Soviet citizenship in 1945 https://t.co/fkYbHLCEDE #FRUS #NationalMargaritaDay",
-    "truncated": false,
     "display_text_range": [
         0,
         149
@@ -11,53 +9,55 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     122,
                     127
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "NationalMargaritaDay",
                 "indices": [
                     128,
                     149
-                ]
+                ],
+                "text": "NationalMargaritaDay"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "https://t.co/fkYbHLCEDE",
-                "expanded_url": "https://go.usa.gov/xnMws",
                 "display_url": "go.usa.gov/xnMws",
+                "expanded_url": "https://go.usa.gov/xnMws",
                 "indices": [
                     98,
                     121
-                ]
+                ],
+                "url": "https://t.co/fkYbHLCEDE"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 3,
+    "favorited": false,
+    "full_text": "Margarita Osipova married USN Ensign Byron Uskievich and renounced her Soviet citizenship in 1945 https://t.co/fkYbHLCEDE #FRUS #NationalMargaritaDay",
+    "geo": null,
+    "id": 966749700333465600,
+    "id_str": "966749700333465601",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 3,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

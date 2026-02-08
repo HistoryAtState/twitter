@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Fri May 15 15:23:27 +0000 2020",
-    "id": 1261316271309836290,
-    "id_str": "1261316271309836289",
-    "full_text": "RT @librarycongress: Bike commuter, the 1914 edition: Alvey Augustus Adee, the 2nd Assistant Secretary of State, on his way to work. Image…",
-    "truncated": false,
     "display_text_range": [
         0,
         139
@@ -11,61 +9,50 @@
     "entities": {
         "hashtags": [],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "librarycongress",
-                "name": "Library of Congress",
                 "id": 7152572,
                 "id_str": "7152572",
                 "indices": [
                     3,
                     19
-                ]
+                ],
+                "name": "Library of Congress",
+                "screen_name": "librarycongress"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": true,
+    "full_text": "RT @librarycongress: Bike commuter, the 1914 edition: Alvey Augustus Adee, the 2nd Assistant Secretary of State, on his way to work. Image…",
+    "geo": null,
+    "id": 1261316271309836290,
+    "id_str": "1261316271309836289",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "retweet_count": 27,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Fri May 15 14:01:59 +0000 2020",
-        "id": 1261295769706954750,
-        "id_str": "1261295769706954752",
-        "full_text": "Bike commuter, the 1914 edition: Alvey Augustus Adee, the 2nd Assistant Secretary of State, on his way to work. Image (detail): Adee, Alvey Augustus. Assistant Secretary of State. Glass-plate negative by Harris &amp;amp; Ewing, 1914. Prints &amp;amp; Photographs Division. https://t.co/oK5saE8UHB https://t.co/RLwPhYOdy6",
-        "truncated": false,
         "display_text_range": [
             0,
             288
         ],
         "entities": {
             "hashtags": [],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "https://t.co/oK5saE8UHB",
-                    "expanded_url": "https://www.loc.gov/item/2016865337/?loclr=twloc",
-                    "display_url": "loc.gov/item/201686533…",
-                    "indices": [
-                        265,
-                        288
-                    ]
-                }
-            ],
             "media": [
                 {
+                    "display_url": "pic.twitter.com/RLwPhYOdy6",
+                    "expanded_url": "https://twitter.com/librarycongress/status/1261295769706954752/photo/1",
                     "id": 1261295768289370110,
                     "id_str": "1261295768289370113",
                     "indices": [
@@ -74,38 +61,52 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/EYEF0ZGXYAELa-o.jpg",
                     "media_url_https": "https://pbs.twimg.com/media/EYEF0ZGXYAELa-o.jpg",
-                    "url": "https://t.co/RLwPhYOdy6",
-                    "display_url": "pic.twitter.com/RLwPhYOdy6",
-                    "expanded_url": "https://twitter.com/librarycongress/status/1261295769706954752/photo/1",
-                    "type": "photo",
                     "sizes": {
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
+                        "large": {
+                            "h": 684,
+                            "resize": "fit",
+                            "w": 684
                         },
                         "medium": {
-                            "w": 684,
                             "h": 684,
-                            "resize": "fit"
-                        },
-                        "large": {
-                            "w": 684,
-                            "h": 684,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 684
                         },
                         "small": {
-                            "w": 680,
                             "h": 680,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
                         }
-                    }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/RLwPhYOdy6"
                 }
-            ]
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "loc.gov/item/201686533…",
+                    "expanded_url": "https://www.loc.gov/item/2016865337/?loclr=twloc",
+                    "indices": [
+                        265,
+                        288
+                    ],
+                    "url": "https://t.co/oK5saE8UHB"
+                }
+            ],
+            "user_mentions": []
         },
         "extended_entities": {
             "media": [
                 {
+                    "display_url": "pic.twitter.com/RLwPhYOdy6",
+                    "expanded_url": "https://twitter.com/librarycongress/status/1261295769706954752/photo/1",
+                    "ext_alt_text": null,
                     "id": 1261295768289370110,
                     "id_str": "1261295768289370113",
                     "indices": [
@@ -114,62 +115,61 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/EYEF0ZGXYAELa-o.jpg",
                     "media_url_https": "https://pbs.twimg.com/media/EYEF0ZGXYAELa-o.jpg",
-                    "url": "https://t.co/RLwPhYOdy6",
-                    "display_url": "pic.twitter.com/RLwPhYOdy6",
-                    "expanded_url": "https://twitter.com/librarycongress/status/1261295769706954752/photo/1",
-                    "type": "photo",
                     "sizes": {
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
+                        "large": {
+                            "h": 684,
+                            "resize": "fit",
+                            "w": 684
                         },
                         "medium": {
-                            "w": 684,
                             "h": 684,
-                            "resize": "fit"
-                        },
-                        "large": {
-                            "w": 684,
-                            "h": 684,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 684
                         },
                         "small": {
-                            "w": 680,
                             "h": 680,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
                         }
                     },
-                    "ext_alt_text": null
+                    "type": "photo",
+                    "url": "https://t.co/RLwPhYOdy6"
                 }
             ]
         },
-        "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+        "favorite_count": 101,
+        "favorited": true,
+        "full_text": "Bike commuter, the 1914 edition: Alvey Augustus Adee, the 2nd Assistant Secretary of State, on his way to work. Image (detail): Adee, Alvey Augustus. Assistant Secretary of State. Glass-plate negative by Harris &amp;amp; Ewing, 1914. Prints &amp;amp; Photographs Division. https://t.co/oK5saE8UHB https://t.co/RLwPhYOdy6",
+        "geo": null,
+        "id": 1261295769706954750,
+        "id_str": "1261295769706954752",
+        "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 27,
+        "retweeted": true,
+        "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+        "truncated": false,
         "user": {
             "id": 7152572,
             "id_str": "7152572"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 27,
-        "favorite_count": 101,
-        "favorited": true,
-        "retweeted": true,
-        "possibly_sensitive": false,
-        "lang": "en"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 27,
-    "favorite_count": 0,
-    "favorited": true,
-    "retweeted": true,
-    "lang": "en"
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

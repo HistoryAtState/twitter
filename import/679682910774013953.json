@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Wed Dec 23 15:20:08 +0000 2015",
-    "id": 679682910774013950,
-    "id_str": "679682910774013953",
-    "full_text": "The Office of the Historian releases #FRUS, 1981-88, South Atlantic Conflict, 1981-84 https://t.co/cRWjRgLwva #twitterstorians",
-    "truncated": false,
     "display_text_range": [
         0,
         126
@@ -11,53 +9,55 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     37,
                     42
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "twitterstorians",
                 "indices": [
                     110,
                     126
-                ]
+                ],
+                "text": "twitterstorians"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "https://t.co/cRWjRgLwva",
-                "expanded_url": "http://go.usa.gov/cbJm9",
                 "display_url": "go.usa.gov/cbJm9",
+                "expanded_url": "http://go.usa.gov/cbJm9",
                 "indices": [
                     86,
                     109
-                ]
+                ],
+                "url": "https://t.co/cRWjRgLwva"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 4,
+    "favorited": false,
+    "full_text": "The Office of the Historian releases #FRUS, 1981-88, South Atlantic Conflict, 1981-84 https://t.co/cRWjRgLwva #twitterstorians",
+    "geo": null,
+    "id": 679682910774013950,
+    "id_str": "679682910774013953",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 14,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 14,
-    "favorite_count": 4,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

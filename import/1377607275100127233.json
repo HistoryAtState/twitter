@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Apr 01 13:02:23 +0000 2021",
-    "id": 1377607275100127230,
-    "id_str": "1377607275100127233",
-    "full_text": "What did Latin American leaders think about the Alliance for Progress? Peruse these #FRUS documents, 1961–1963: \nhttps://t.co/EtSx30cMTU\n\n📷 @JFKLibrary https://t.co/c9gDzd9DvT",
-    "truncated": false,
     "display_text_range": [
         0,
         151
@@ -11,39 +9,17 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     84,
                     89
-                ]
-            }
-        ],
-        "symbols": [],
-        "user_mentions": [
-            {
-                "screen_name": "JFKLibrary",
-                "name": "JFK Library",
-                "id": 32520240,
-                "id_str": "32520240",
-                "indices": [
-                    140,
-                    151
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "https://t.co/EtSx30cMTU",
-                "expanded_url": "https://history.state.gov/search?q=%22Alliance+for+Progress%22&amp;volume-id=frus1961-63v10-12mSupp",
-                "display_url": "history.state.gov/search?q=%22Al…",
-                "indices": [
-                    113,
-                    136
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "media": [
             {
+                "display_url": "pic.twitter.com/c9gDzd9DvT",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1377607275100127233/photo/1",
                 "id": 1377607273133002750,
                 "id_str": "1377607273133002755",
                 "indices": [
@@ -52,38 +28,63 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/Ex4-hBsWUAMLPbr.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/Ex4-hBsWUAMLPbr.jpg",
-                "url": "https://t.co/c9gDzd9DvT",
-                "display_url": "pic.twitter.com/c9gDzd9DvT",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1377607275100127233/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
-                    "small": {
-                        "w": 680,
-                        "h": 537,
-                        "resize": "fit"
+                    "large": {
+                        "h": 789,
+                        "resize": "fit",
+                        "w": 1000
                     },
                     "medium": {
-                        "w": 1000,
                         "h": 789,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1000
                     },
-                    "large": {
-                        "w": 1000,
-                        "h": 789,
-                        "resize": "fit"
+                    "small": {
+                        "h": 537,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/c9gDzd9DvT"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "history.state.gov/search?q=%22Al…",
+                "expanded_url": "https://history.state.gov/search?q=%22Alliance+for+Progress%22&amp;volume-id=frus1961-63v10-12mSupp",
+                "indices": [
+                    113,
+                    136
+                ],
+                "url": "https://t.co/EtSx30cMTU"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 32520240,
+                "id_str": "32520240",
+                "indices": [
+                    140,
+                    151
+                ],
+                "name": "JFK Library",
+                "screen_name": "JFKLibrary"
             }
         ]
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/c9gDzd9DvT",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1377607275100127233/photo/1",
+                "ext_alt_text": "Photograph: President John F. Kennedy visits with Alliance for Progress (La Alianza para el Progreso) representatives from Latin America in the Fish Room, White House, Washington, D.C. on August 20, 1963. Left to right: Teodoro Moscoso, Argenil Plazas García; two unidentified, President Kennedy; Gonzalo J. Facio Segreda, and Dr. José Mora. (JFK Library: AR8079-F)",
                 "id": 1377607273133002750,
                 "id_str": "1377607273133002755",
                 "indices": [
@@ -92,55 +93,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/Ex4-hBsWUAMLPbr.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/Ex4-hBsWUAMLPbr.jpg",
-                "url": "https://t.co/c9gDzd9DvT",
-                "display_url": "pic.twitter.com/c9gDzd9DvT",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1377607275100127233/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
-                    "small": {
-                        "w": 680,
-                        "h": 537,
-                        "resize": "fit"
+                    "large": {
+                        "h": 789,
+                        "resize": "fit",
+                        "w": 1000
                     },
                     "medium": {
-                        "w": 1000,
                         "h": 789,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1000
                     },
-                    "large": {
-                        "w": 1000,
-                        "h": 789,
-                        "resize": "fit"
+                    "small": {
+                        "h": 537,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": "Photograph: President John F. Kennedy visits with Alliance for Progress (La Alianza para el Progreso) representatives from Latin America in the Fish Room, White House, Washington, D.C. on August 20, 1963. Left to right: Teodoro Moscoso, Argenil Plazas García; two unidentified, President Kennedy; Gonzalo J. Facio Segreda, and Dr. José Mora. (JFK Library: AR8079-F)"
+                "type": "photo",
+                "url": "https://t.co/c9gDzd9DvT"
             }
         ]
     },
-    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "favorite_count": 29,
+    "favorited": false,
+    "full_text": "What did Latin American leaders think about the Alliance for Progress? Peruse these #FRUS documents, 1961–1963: \nhttps://t.co/EtSx30cMTU\n\n📷 @JFKLibrary https://t.co/c9gDzd9DvT",
+    "geo": null,
+    "id": 1377607275100127230,
+    "id_str": "1377607275100127233",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 6,
+    "retweeted": false,
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 29,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

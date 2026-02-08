@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Aug 15 13:11:30 +0000 2016",
-    "id": 765174074876301310,
-    "id_str": "765174074876301312",
-    "full_text": "The HAC is meeting in open session: 11 am, Aug. 29, at the Dept. of State—Info on attending: https://t.co/0ILczPZ0Tr  #FRUS #twitterstorians",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,53 +9,55 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     118,
                     123
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "twitterstorians",
                 "indices": [
                     124,
                     140
-                ]
+                ],
+                "text": "twitterstorians"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "https://t.co/0ILczPZ0Tr",
-                "expanded_url": "http://history.state.gov/about/hac",
                 "display_url": "history.state.gov/about/hac",
+                "expanded_url": "http://history.state.gov/about/hac",
                 "indices": [
                     93,
                     116
-                ]
+                ],
+                "url": "https://t.co/0ILczPZ0Tr"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "The HAC is meeting in open session: 11 am, Aug. 29, at the Dept. of State—Info on attending: https://t.co/0ILczPZ0Tr  #FRUS #twitterstorians",
+    "geo": null,
+    "id": 765174074876301310,
+    "id_str": "765174074876301312",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

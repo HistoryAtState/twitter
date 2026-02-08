@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Dec 12 19:41:54 +0000 2017",
-    "id": 940668048809299970,
-    "id_str": "940668048809299969",
-    "full_text": "RT @ClementsCenter: Congratulations to Steve Randolph (Historian @StateDept) on his retirement! Dr. Randolph was the General Editor of #FRU…",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,50 +9,50 @@
     "entities": {
         "hashtags": [],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "ClementsCenter",
-                "name": "Clements Center",
                 "id": 1112380602,
                 "id_str": "1112380602",
                 "indices": [
                     3,
                     18
-                ]
+                ],
+                "name": "Clements Center",
+                "screen_name": "ClementsCenter"
             },
             {
-                "screen_name": "StateDept",
-                "name": "Department of State",
                 "id": 9624742,
                 "id_str": "9624742",
                 "indices": [
                     65,
                     75
-                ]
+                ],
+                "name": "Department of State",
+                "screen_name": "StateDept"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": true,
+    "full_text": "RT @ClementsCenter: Congratulations to Steve Randolph (Historian @StateDept) on his retirement! Dr. Randolph was the General Editor of #FRU…",
+    "geo": null,
+    "id": 940668048809299970,
+    "id_str": "940668048809299969",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "retweet_count": 7,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Tue Dec 12 18:36:04 +0000 2017",
-        "id": 940651480964624380,
-        "id_str": "940651480964624385",
-        "full_text": "Congratulations to Steve Randolph (Historian @StateDept) on his retirement! Dr. Randolph was the General Editor of #FRUS &amp;amp; served as Historian from 2011-2017! \n\nWe had the pleasure of hosting Dr. Randolph last fall for \"Rise and Fall of Detente\" Conference (w/ @HistoryAtState) https://t.co/Ur3McWpHix",
-        "truncated": false,
         "display_text_range": [
             0,
             281
@@ -62,39 +60,17 @@
         "entities": {
             "hashtags": [
                 {
-                    "text": "FRUS",
                     "indices": [
                         115,
                         120
-                    ]
+                    ],
+                    "text": "FRUS"
                 }
             ],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "StateDept",
-                    "name": "Department of State",
-                    "id": 9624742,
-                    "id_str": "9624742",
-                    "indices": [
-                        45,
-                        55
-                    ]
-                },
-                {
-                    "screen_name": "HistoryAtState",
-                    "name": "HistoryAtState",
-                    "id": 586570880,
-                    "id_str": "586570880",
-                    "indices": [
-                        265,
-                        280
-                    ]
-                }
-            ],
-            "urls": [],
             "media": [
                 {
+                    "display_url": "pic.twitter.com/Ur3McWpHix",
+                    "expanded_url": "https://twitter.com/ClementsCenter/status/940651480964624385/photo/1",
                     "id": 940650844826898430,
                     "id_str": "940650844826898432",
                     "indices": [
@@ -103,38 +79,63 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/DQ3c9aeUEAAFiO8.jpg",
                     "media_url_https": "https://pbs.twimg.com/media/DQ3c9aeUEAAFiO8.jpg",
-                    "url": "https://t.co/Ur3McWpHix",
-                    "display_url": "pic.twitter.com/Ur3McWpHix",
-                    "expanded_url": "https://twitter.com/ClementsCenter/status/940651480964624385/photo/1",
-                    "type": "photo",
                     "sizes": {
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
-                        },
-                        "small": {
-                            "w": 640,
+                        "large": {
                             "h": 436,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 640
                         },
                         "medium": {
-                            "w": 640,
                             "h": 436,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 640
                         },
-                        "large": {
-                            "w": 640,
+                        "small": {
                             "h": 436,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 640
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
                         }
-                    }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/Ur3McWpHix"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 9624742,
+                    "id_str": "9624742",
+                    "indices": [
+                        45,
+                        55
+                    ],
+                    "name": "Department of State",
+                    "screen_name": "StateDept"
+                },
+                {
+                    "id": 586570880,
+                    "id_str": "586570880",
+                    "indices": [
+                        265,
+                        280
+                    ],
+                    "name": "HistoryAtState",
+                    "screen_name": "HistoryAtState"
                 }
             ]
         },
         "extended_entities": {
             "media": [
                 {
+                    "display_url": "pic.twitter.com/Ur3McWpHix",
+                    "expanded_url": "https://twitter.com/ClementsCenter/status/940651480964624385/photo/1",
+                    "ext_alt_text": null,
                     "id": 940650844826898430,
                     "id_str": "940650844826898432",
                     "indices": [
@@ -143,59 +144,49 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/DQ3c9aeUEAAFiO8.jpg",
                     "media_url_https": "https://pbs.twimg.com/media/DQ3c9aeUEAAFiO8.jpg",
-                    "url": "https://t.co/Ur3McWpHix",
-                    "display_url": "pic.twitter.com/Ur3McWpHix",
-                    "expanded_url": "https://twitter.com/ClementsCenter/status/940651480964624385/photo/1",
-                    "type": "photo",
                     "sizes": {
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
-                        },
-                        "small": {
-                            "w": 640,
+                        "large": {
                             "h": 436,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 640
                         },
                         "medium": {
-                            "w": 640,
                             "h": 436,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 640
                         },
-                        "large": {
-                            "w": 640,
+                        "small": {
                             "h": 436,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 640
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
                         }
                     },
-                    "ext_alt_text": null
+                    "type": "photo",
+                    "url": "https://t.co/Ur3McWpHix"
                 }
             ]
         },
-        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+        "favorite_count": 16,
+        "favorited": true,
+        "full_text": "Congratulations to Steve Randolph (Historian @StateDept) on his retirement! Dr. Randolph was the General Editor of #FRUS &amp;amp; served as Historian from 2011-2017! \n\nWe had the pleasure of hosting Dr. Randolph last fall for \"Rise and Fall of Detente\" Conference (w/ @HistoryAtState) https://t.co/Ur3McWpHix",
+        "geo": null,
+        "id": 940651480964624380,
+        "id_str": "940651480964624385",
+        "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 1112380602,
-            "id_str": "1112380602"
-        },
-        "geo": null,
-        "coordinates": null,
+        "is_quote_status": false,
+        "lang": "en",
         "place": {
-            "id": "c3f37afa9efcf94b",
-            "url": "https://api.twitter.com/1.1/geo/id/c3f37afa9efcf94b.json",
-            "place_type": "city",
-            "name": "Austin",
-            "full_name": "Austin, TX",
-            "country_code": "US",
-            "country": "United States",
-            "contained_within": [],
+            "attributes": {},
             "bounding_box": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -215,23 +206,32 @@
                             30.5187994
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "attributes": {}
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Austin, TX",
+            "id": "c3f37afa9efcf94b",
+            "name": "Austin",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/c3f37afa9efcf94b.json"
         },
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 7,
-        "favorite_count": 16,
-        "favorited": true,
-        "retweeted": true,
         "possibly_sensitive": false,
-        "lang": "en"
+        "retweet_count": 7,
+        "retweeted": true,
+        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+        "truncated": false,
+        "user": {
+            "id": 1112380602,
+            "id_str": "1112380602"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 7,
-    "favorite_count": 0,
-    "favorited": true,
-    "retweeted": true,
-    "lang": "en"
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

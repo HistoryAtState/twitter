@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Wed Dec 10 14:34:56 +0000 2014",
-    "id": 542688922397327360,
-    "id_str": "542688922397327360",
-    "full_text": "Acting #SecState Lansing to diplomats 1914: cooperate “in the proper way” w/delivery of “Christmas Ship” gifts #WW1 http://t.co/jq40XeiMra",
-    "truncated": false,
     "display_text_range": [
         0,
         138
@@ -11,53 +9,55 @@
     "entities": {
         "hashtags": [
             {
-                "text": "SecState",
                 "indices": [
                     7,
                     16
-                ]
+                ],
+                "text": "SecState"
             },
             {
-                "text": "WW1",
                 "indices": [
                     111,
                     115
-                ]
+                ],
+                "text": "WW1"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/jq40XeiMra",
-                "expanded_url": "http://ow.ly/FFqJ8",
                 "display_url": "ow.ly/FFqJ8",
+                "expanded_url": "http://ow.ly/FFqJ8",
                 "indices": [
                     116,
                     138
-                ]
+                ],
+                "url": "http://t.co/jq40XeiMra"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "Acting #SecState Lansing to diplomats 1914: cooperate “in the proper way” w/delivery of “Christmas Ship” gifts #WW1 http://t.co/jq40XeiMra",
+    "geo": null,
+    "id": 542688922397327360,
+    "id_str": "542688922397327360",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

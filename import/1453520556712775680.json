@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Oct 28 00:34:40 +0000 2021",
-    "id": 1453520556712775680,
-    "id_str": "1453520556712775680",
-    "full_text": "RT @EEditiones: In case you missed it: #TEI2021 talk by @wolfgangm and @joewiz: \"Flexible, Browser Based Annotations for TEI\" https://t.co/…",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,68 +9,68 @@
     "entities": {
         "hashtags": [
             {
-                "text": "TEI2021",
                 "indices": [
                     39,
                     47
-                ]
+                ],
+                "text": "TEI2021"
             }
         ],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "EEditiones",
-                "name": "e-editiones.org",
                 "id": 1257338310453755900,
                 "id_str": "1257338310453755911",
                 "indices": [
                     3,
                     14
-                ]
+                ],
+                "name": "e-editiones.org",
+                "screen_name": "EEditiones"
             },
             {
-                "screen_name": "wolfgangm",
-                "name": "Wolfgang Meier",
                 "id": 19152814,
                 "id_str": "19152814",
                 "indices": [
                     56,
                     66
-                ]
+                ],
+                "name": "Wolfgang Meier",
+                "screen_name": "wolfgangm"
             },
             {
-                "screen_name": "joewiz",
-                "name": "Joe Wicentowski 魏思達",
                 "id": 3550661,
                 "id_str": "3550661",
                 "indices": [
                     71,
                     78
-                ]
+                ],
+                "name": "Joe Wicentowski 魏思達",
+                "screen_name": "joewiz"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "RT @EEditiones: In case you missed it: #TEI2021 talk by @wolfgangm and @joewiz: \"Flexible, Browser Based Annotations for TEI\" https://t.co/…",
+    "geo": null,
+    "id": 1453520556712775680,
+    "id_str": "1453520556712775680",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "retweet_count": 24,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Tue Oct 26 07:37:27 +0000 2021",
-        "id": 1452902178541252610,
-        "id_str": "1452902178541252616",
-        "full_text": "In case you missed it: #TEI2021 talk by @wolfgangm and @joewiz: \"Flexible, Browser Based Annotations for TEI\" https://t.co/XwZkXJQBYF @tei_publisher @HistoryAtState",
-        "truncated": false,
         "display_text_range": [
             0,
             164
@@ -80,94 +78,96 @@
         "entities": {
             "hashtags": [
                 {
-                    "text": "TEI2021",
                     "indices": [
                         23,
                         31
-                    ]
+                    ],
+                    "text": "TEI2021"
                 }
             ],
             "symbols": [],
+            "urls": [
+                {
+                    "display_url": "youtu.be/5eVilDacrtA",
+                    "expanded_url": "https://youtu.be/5eVilDacrtA",
+                    "indices": [
+                        110,
+                        133
+                    ],
+                    "url": "https://t.co/XwZkXJQBYF"
+                }
+            ],
             "user_mentions": [
                 {
-                    "screen_name": "wolfgangm",
-                    "name": "Wolfgang Meier",
                     "id": 19152814,
                     "id_str": "19152814",
                     "indices": [
                         40,
                         50
-                    ]
+                    ],
+                    "name": "Wolfgang Meier",
+                    "screen_name": "wolfgangm"
                 },
                 {
-                    "screen_name": "joewiz",
-                    "name": "Joe Wicentowski 魏思達",
                     "id": 3550661,
                     "id_str": "3550661",
                     "indices": [
                         55,
                         62
-                    ]
+                    ],
+                    "name": "Joe Wicentowski 魏思達",
+                    "screen_name": "joewiz"
                 },
                 {
-                    "screen_name": "tei_publisher",
-                    "name": "TEI Publisher",
                     "id": 1227642241570820100,
                     "id_str": "1227642241570820103",
                     "indices": [
                         134,
                         148
-                    ]
+                    ],
+                    "name": "TEI Publisher",
+                    "screen_name": "tei_publisher"
                 },
                 {
-                    "screen_name": "HistoryAtState",
-                    "name": "HistoryAtState",
                     "id": 586570880,
                     "id_str": "586570880",
                     "indices": [
                         149,
                         164
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "https://t.co/XwZkXJQBYF",
-                    "expanded_url": "https://youtu.be/5eVilDacrtA",
-                    "display_url": "youtu.be/5eVilDacrtA",
-                    "indices": [
-                        110,
-                        133
-                    ]
+                    ],
+                    "name": "HistoryAtState",
+                    "screen_name": "HistoryAtState"
                 }
             ]
         },
-        "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+        "favorite_count": 34,
+        "favorited": false,
+        "full_text": "In case you missed it: #TEI2021 talk by @wolfgangm and @joewiz: \"Flexible, Browser Based Annotations for TEI\" https://t.co/XwZkXJQBYF @tei_publisher @HistoryAtState",
+        "geo": null,
+        "id": 1452902178541252610,
+        "id_str": "1452902178541252616",
+        "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 24,
+        "retweeted": true,
+        "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+        "truncated": false,
         "user": {
             "id": 1257338310453755900,
             "id_str": "1257338310453755911"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 24,
-        "favorite_count": 34,
-        "favorited": false,
-        "retweeted": true,
-        "possibly_sensitive": false,
-        "lang": "en"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 24,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": true,
-    "lang": "en"
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

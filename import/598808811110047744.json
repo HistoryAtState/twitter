@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu May 14 11:15:20 +0000 2015",
-    "id": 598808811110047740,
-    "id_str": "598808811110047744",
-    "full_text": "Which friend of @USAinUK Minister Lawrence saved US exhibits in 1851 &amp;amp; threw 4hr post-expo dinner? http://t.co/AtvVhHVDgY #expo2015",
-    "truncated": false,
     "display_text_range": [
         0,
         135
@@ -11,57 +9,59 @@
     "entities": {
         "hashtags": [
             {
-                "text": "expo2015",
                 "indices": [
                     126,
                     135
-                ]
+                ],
+                "text": "expo2015"
             }
         ],
         "symbols": [],
+        "urls": [
+            {
+                "display_url": "ow.ly/MV2Py",
+                "expanded_url": "http://ow.ly/MV2Py",
+                "indices": [
+                    103,
+                    125
+                ],
+                "url": "http://t.co/AtvVhHVDgY"
+            }
+        ],
         "user_mentions": [
             {
-                "screen_name": "USAinUK",
-                "name": "U.S. Embassy London",
                 "id": 14856951,
                 "id_str": "14856951",
                 "indices": [
                     16,
                     24
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "http://t.co/AtvVhHVDgY",
-                "expanded_url": "http://ow.ly/MV2Py",
-                "display_url": "ow.ly/MV2Py",
-                "indices": [
-                    103,
-                    125
-                ]
+                ],
+                "name": "U.S. Embassy London",
+                "screen_name": "USAinUK"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "Which friend of @USAinUK Minister Lawrence saved US exhibits in 1851 &amp;amp; threw 4hr post-expo dinner? http://t.co/AtvVhHVDgY #expo2015",
+    "geo": null,
+    "id": 598808811110047740,
+    "id_str": "598808811110047744",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

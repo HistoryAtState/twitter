@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Wed Jul 06 17:31:13 +0000 2016",
-    "id": 750743920385073150,
-    "id_str": "750743920385073152",
-    "full_text": "Enjoy Twitter? Of course! Why not help create social media for the Office of the Historian? https://t.co/CVNm83FjP0",
-    "truncated": false,
     "display_text_range": [
         0,
         115
@@ -11,38 +9,40 @@
     "entities": {
         "hashtags": [],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "https://t.co/CVNm83FjP0",
-                "expanded_url": "http://vsfs.state.gov/projects/view/118",
                 "display_url": "vsfs.state.gov/projects/view/…",
+                "expanded_url": "http://vsfs.state.gov/projects/view/118",
                 "indices": [
                     92,
                     115
-                ]
+                ],
+                "url": "https://t.co/CVNm83FjP0"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 5,
+    "favorited": false,
+    "full_text": "Enjoy Twitter? Of course! Why not help create social media for the Office of the Historian? https://t.co/CVNm83FjP0",
+    "geo": null,
+    "id": 750743920385073150,
+    "id_str": "750743920385073152",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 5,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 5,
-    "favorite_count": 5,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

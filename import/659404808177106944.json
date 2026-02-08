@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Wed Oct 28 16:22:12 +0000 2015",
-    "id": 659404808177106940,
-    "id_str": "659404808177106944",
-    "full_text": "RT @DiplomacyCenter: One hour to go! The Google Hangout on the #BerlinWall is at 1:00 PM ET. Tweet us questions using #USDCBerlinWall https…",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,55 +9,55 @@
     "entities": {
         "hashtags": [
             {
-                "text": "BerlinWall",
                 "indices": [
                     63,
                     74
-                ]
+                ],
+                "text": "BerlinWall"
             },
             {
-                "text": "USDCBerlinWall",
                 "indices": [
                     118,
                     133
-                ]
+                ],
+                "text": "USDCBerlinWall"
             }
         ],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "diplomacycenter",
-                "name": "NMAD Museum",
                 "id": 1180122509204701180,
                 "id_str": "1180122509204701186",
                 "indices": [
                     3,
                     19
-                ]
+                ],
+                "name": "NMAD Museum",
+                "screen_name": "diplomacycenter"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "RT @DiplomacyCenter: One hour to go! The Google Hangout on the #BerlinWall is at 1:00 PM ET. Tweet us questions using #USDCBerlinWall https…",
+    "geo": null,
+    "id": 659404808177106940,
+    "id_str": "659404808177106944",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "retweet_count": 14,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Wed Oct 28 16:16:37 +0000 2015",
-        "id": 659403406646317060,
-        "id_str": "659403406646317056",
-        "full_text": "One hour to go! The Google Hangout on the #BerlinWall is at 1:00 PM ET. Tweet us questions using #USDCBerlinWall https://t.co/M9npYtK9ED",
-        "truncated": false,
         "display_text_range": [
             0,
             136
@@ -67,60 +65,62 @@
         "entities": {
             "hashtags": [
                 {
-                    "text": "BerlinWall",
                     "indices": [
                         42,
                         53
-                    ]
+                    ],
+                    "text": "BerlinWall"
                 },
                 {
-                    "text": "USDCBerlinWall",
                     "indices": [
                         97,
                         112
-                    ]
+                    ],
+                    "text": "USDCBerlinWall"
                 }
             ],
             "symbols": [],
-            "user_mentions": [],
             "urls": [
                 {
-                    "url": "https://t.co/M9npYtK9ED",
-                    "expanded_url": "http://goo.gl/Nk3Ne3",
                     "display_url": "goo.gl/Nk3Ne3",
+                    "expanded_url": "http://goo.gl/Nk3Ne3",
                     "indices": [
                         113,
                         136
-                    ]
+                    ],
+                    "url": "https://t.co/M9npYtK9ED"
                 }
-            ]
+            ],
+            "user_mentions": []
         },
-        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+        "favorite_count": 11,
+        "favorited": false,
+        "full_text": "One hour to go! The Google Hangout on the #BerlinWall is at 1:00 PM ET. Tweet us questions using #USDCBerlinWall https://t.co/M9npYtK9ED",
+        "geo": null,
+        "id": 659403406646317060,
+        "id_str": "659403406646317056",
+        "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 14,
+        "retweeted": true,
+        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+        "truncated": false,
         "user": {
             "id": 2648849144,
             "id_str": "2648849144"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 14,
-        "favorite_count": 11,
-        "favorited": false,
-        "retweeted": true,
-        "possibly_sensitive": false,
-        "lang": "en"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 14,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": true,
-    "lang": "en"
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

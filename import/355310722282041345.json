@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Jul 11 13:00:52 +0000 2013",
-    "id": 355310722282041340,
-    "id_str": "355310722282041345",
-    "full_text": "7/11/1863 Seward “These brilliant and important victories are as yet unknown in Europe” #FRUS #CivilWar http://t.co/egADl5TWNC",
-    "truncated": false,
     "display_text_range": [
         0,
         126
@@ -11,53 +9,55 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     88,
                     93
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "CivilWar",
                 "indices": [
                     94,
                     103
-                ]
+                ],
+                "text": "CivilWar"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/egADl5TWNC",
-                "expanded_url": "http://bit.ly/14gLFQf",
                 "display_url": "bit.ly/14gLFQf",
+                "expanded_url": "http://bit.ly/14gLFQf",
                 "indices": [
                     104,
                     126
-                ]
+                ],
+                "url": "http://t.co/egADl5TWNC"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "7/11/1863 Seward “These brilliant and important victories are as yet unknown in Europe” #FRUS #CivilWar http://t.co/egADl5TWNC",
+    "geo": null,
+    "id": 355310722282041340,
+    "id_str": "355310722282041345",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

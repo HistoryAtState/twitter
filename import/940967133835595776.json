@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Wed Dec 13 15:30:21 +0000 2017",
-    "id": 940967133835595780,
-    "id_str": "940967133835595776",
-    "full_text": "Our gift to you: a new search interface that lets you search and sort #FRUS documents by date! Happy holidays: https://t.co/1ECc9ulUnu https://t.co/eLKTSnJwim",
-    "truncated": false,
     "display_text_range": [
         0,
         134
@@ -11,28 +9,17 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     70,
                     75
-                ]
-            }
-        ],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
-            {
-                "url": "https://t.co/1ECc9ulUnu",
-                "expanded_url": "https://history.state.gov/search",
-                "display_url": "history.state.gov/search",
-                "indices": [
-                    111,
-                    134
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "media": [
             {
+                "display_url": "pic.twitter.com/eLKTSnJwim",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/940967133835595776/photo/1",
                 "id": 940967130341740540,
                 "id_str": "940967130341740544",
                 "indices": [
@@ -41,38 +28,52 @@
                 ],
                 "media_url": "http://pbs.twimg.com/tweet_video_thumb/DQ78np1WkAAKqPA.jpg",
                 "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DQ78np1WkAAKqPA.jpg",
-                "url": "https://t.co/eLKTSnJwim",
-                "display_url": "pic.twitter.com/eLKTSnJwim",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/940967133835595776/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "medium": {
-                        "w": 480,
+                    "large": {
                         "h": 270,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 480
                     },
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
+                    "medium": {
+                        "h": 270,
+                        "resize": "fit",
+                        "w": 480
                     },
                     "small": {
-                        "w": 480,
                         "h": 270,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 480
                     },
-                    "large": {
-                        "w": 480,
-                        "h": 270,
-                        "resize": "fit"
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/eLKTSnJwim"
             }
-        ]
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "history.state.gov/search",
+                "expanded_url": "https://history.state.gov/search",
+                "indices": [
+                    111,
+                    134
+                ],
+                "url": "https://t.co/1ECc9ulUnu"
+            }
+        ],
+        "user_mentions": []
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/eLKTSnJwim",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/940967133835595776/photo/1",
+                "ext_alt_text": null,
                 "id": 940967130341740540,
                 "id_str": "940967130341740544",
                 "indices": [
@@ -81,32 +82,30 @@
                 ],
                 "media_url": "http://pbs.twimg.com/tweet_video_thumb/DQ78np1WkAAKqPA.jpg",
                 "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DQ78np1WkAAKqPA.jpg",
-                "url": "https://t.co/eLKTSnJwim",
-                "display_url": "pic.twitter.com/eLKTSnJwim",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/940967133835595776/photo/1",
-                "type": "animated_gif",
                 "sizes": {
-                    "medium": {
-                        "w": 480,
+                    "large": {
                         "h": 270,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 480
                     },
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
+                    "medium": {
+                        "h": 270,
+                        "resize": "fit",
+                        "w": 480
                     },
                     "small": {
-                        "w": 480,
                         "h": 270,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 480
                     },
-                    "large": {
-                        "w": 480,
-                        "h": 270,
-                        "resize": "fit"
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
+                "type": "animated_gif",
+                "url": "https://t.co/eLKTSnJwim",
                 "video_info": {
                     "aspect_ratio": [
                         16,
@@ -119,30 +118,31 @@
                             "url": "https://video.twimg.com/tweet_video/DQ78np1WkAAKqPA.mp4"
                         }
                     ]
-                },
-                "ext_alt_text": null
+                }
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 62,
+    "favorited": false,
+    "full_text": "Our gift to you: a new search interface that lets you search and sort #FRUS documents by date! Happy holidays: https://t.co/1ECc9ulUnu https://t.co/eLKTSnJwim",
+    "geo": null,
+    "id": 940967133835595780,
+    "id_str": "940967133835595776",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 49,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 49,
-    "favorite_count": 62,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

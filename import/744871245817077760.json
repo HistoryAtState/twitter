@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Jun 20 12:35:18 +0000 2016",
-    "id": 744871245817077760,
-    "id_str": "744871245817077760",
-    "full_text": "Tracy Whittington on @HistoryAtState and #FRUS: “Diplomatic History Lessons:A Model of Government Transparency” https://t.co/XhI4CLpCBW #FSJ",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,64 +9,66 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     41,
                     46
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "FSJ",
                 "indices": [
                     136,
                     140
-                ]
+                ],
+                "text": "FSJ"
             }
         ],
         "symbols": [],
+        "urls": [
+            {
+                "display_url": "bit.ly/1WGHbBe",
+                "expanded_url": "http://bit.ly/1WGHbBe",
+                "indices": [
+                    112,
+                    135
+                ],
+                "url": "https://t.co/XhI4CLpCBW"
+            }
+        ],
         "user_mentions": [
             {
-                "screen_name": "HistoryAtState",
-                "name": "HistoryAtState",
                 "id": 586570880,
                 "id_str": "586570880",
                 "indices": [
                     21,
                     36
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "https://t.co/XhI4CLpCBW",
-                "expanded_url": "http://bit.ly/1WGHbBe",
-                "display_url": "bit.ly/1WGHbBe",
-                "indices": [
-                    112,
-                    135
-                ]
+                ],
+                "name": "HistoryAtState",
+                "screen_name": "HistoryAtState"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 1,
+    "favorited": false,
+    "full_text": "Tracy Whittington on @HistoryAtState and #FRUS: “Diplomatic History Lessons:A Model of Government Transparency” https://t.co/XhI4CLpCBW #FSJ",
+    "geo": null,
+    "id": 744871245817077760,
+    "id_str": "744871245817077760",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 1,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

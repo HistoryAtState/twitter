@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Sun Mar 04 18:05:06 +0000 2018",
-    "id": 970359495472791550,
-    "id_str": "970359495472791552",
-    "full_text": "1971: National Security Adviser Henry Kissinger forsakes grammar for diplomacy in Beijing talks: “I don’t mind being accused of using bad grammar. It’s no problem.” https://t.co/zX0IvZRPPf #NationalGrammarDay #FRUS https://t.co/MgguzaEt2k",
-    "truncated": false,
     "display_text_range": [
         0,
         214
@@ -11,35 +9,24 @@
     "entities": {
         "hashtags": [
             {
-                "text": "NationalGrammarDay",
                 "indices": [
                     189,
                     208
-                ]
+                ],
+                "text": "NationalGrammarDay"
             },
             {
-                "text": "FRUS",
                 "indices": [
                     209,
                     214
-                ]
-            }
-        ],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
-            {
-                "url": "https://t.co/zX0IvZRPPf",
-                "expanded_url": "https://go.usa.gov/xn69x",
-                "display_url": "go.usa.gov/xn69x",
-                "indices": [
-                    165,
-                    188
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "media": [
             {
+                "display_url": "pic.twitter.com/MgguzaEt2k",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/970359495472791552/photo/1",
                 "id": 970359491345698820,
                 "id_str": "970359491345698817",
                 "indices": [
@@ -48,38 +35,52 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/DXdo0PIW0AEm3tA.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DXdo0PIW0AEm3tA.jpg",
-                "url": "https://t.co/MgguzaEt2k",
-                "display_url": "pic.twitter.com/MgguzaEt2k",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/970359495472791552/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
+                    "large": {
+                        "h": 268,
+                        "resize": "fit",
+                        "w": 384
                     },
                     "medium": {
-                        "w": 384,
                         "h": 268,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 384
                     },
                     "small": {
-                        "w": 384,
                         "h": 268,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 384
                     },
-                    "large": {
-                        "w": 384,
-                        "h": 268,
-                        "resize": "fit"
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/MgguzaEt2k"
             }
-        ]
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "go.usa.gov/xn69x",
+                "expanded_url": "https://go.usa.gov/xn69x",
+                "indices": [
+                    165,
+                    188
+                ],
+                "url": "https://t.co/zX0IvZRPPf"
+            }
+        ],
+        "user_mentions": []
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/MgguzaEt2k",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/970359495472791552/photo/1",
+                "ext_alt_text": null,
                 "id": 970359491345698820,
                 "id_str": "970359491345698817",
                 "indices": [
@@ -88,55 +89,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/DXdo0PIW0AEm3tA.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DXdo0PIW0AEm3tA.jpg",
-                "url": "https://t.co/MgguzaEt2k",
-                "display_url": "pic.twitter.com/MgguzaEt2k",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/970359495472791552/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
+                    "large": {
+                        "h": 268,
+                        "resize": "fit",
+                        "w": 384
                     },
                     "medium": {
-                        "w": 384,
                         "h": 268,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 384
                     },
                     "small": {
-                        "w": 384,
                         "h": 268,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 384
                     },
-                    "large": {
-                        "w": 384,
-                        "h": 268,
-                        "resize": "fit"
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": null
+                "type": "photo",
+                "url": "https://t.co/MgguzaEt2k"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 7,
+    "favorited": false,
+    "full_text": "1971: National Security Adviser Henry Kissinger forsakes grammar for diplomacy in Beijing talks: “I don’t mind being accused of using bad grammar. It’s no problem.” https://t.co/zX0IvZRPPf #NationalGrammarDay #FRUS https://t.co/MgguzaEt2k",
+    "geo": null,
+    "id": 970359495472791550,
+    "id_str": "970359495472791552",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 7,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 7,
-    "favorite_count": 7,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

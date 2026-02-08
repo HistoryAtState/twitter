@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Fri Aug 23 17:00:29 +0000 2013",
-    "id": 370953703252979710,
-    "id_str": "370953703252979712",
-    "full_text": "Read how the U.S. Government organized to engage on global human rights issues during the Carter admin. http://t.co/cw4aMHNKAP #FRUS",
-    "truncated": false,
     "display_text_range": [
         0,
         132
@@ -11,46 +9,48 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     127,
                     132
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/cw4aMHNKAP",
-                "expanded_url": "http://go.usa.gov/juXT",
                 "display_url": "go.usa.gov/juXT",
+                "expanded_url": "http://go.usa.gov/juXT",
                 "indices": [
                     104,
                     126
-                ]
+                ],
+                "url": "http://t.co/cw4aMHNKAP"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "Read how the U.S. Government organized to engage on global human rights issues during the Carter admin. http://t.co/cw4aMHNKAP #FRUS",
+    "geo": null,
+    "id": 370953703252979710,
+    "id_str": "370953703252979712",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

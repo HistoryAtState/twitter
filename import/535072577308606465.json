@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Wed Nov 19 14:10:18 +0000 2014",
-    "id": 535072577308606460,
-    "id_str": "535072577308606465",
-    "full_text": "See visualizations created with #FRUS data using @HDStanford Palladio at: http://t.co/LaJlYHI8Nt #dh #twitterstorians http://t.co/mZJxhEuhlw",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,53 +9,31 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     32,
                     37
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "dh",
                 "indices": [
                     97,
                     100
-                ]
+                ],
+                "text": "dh"
             },
             {
-                "text": "twitterstorians",
                 "indices": [
                     101,
                     117
-                ]
-            }
-        ],
-        "symbols": [],
-        "user_mentions": [
-            {
-                "screen_name": "HDStanford",
-                "name": "Humanities + Design",
-                "id": 2307268194,
-                "id_str": "2307268194",
-                "indices": [
-                    49,
-                    60
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "http://t.co/LaJlYHI8Nt",
-                "expanded_url": "http://historyatstate.tumblr.com/",
-                "display_url": "historyatstate.tumblr.com",
-                "indices": [
-                    74,
-                    96
-                ]
+                ],
+                "text": "twitterstorians"
             }
         ],
         "media": [
             {
+                "display_url": "pic.twitter.com/mZJxhEuhlw",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/535072577308606465/photo/1",
                 "id": 535072576352317440,
                 "id_str": "535072576352317440",
                 "indices": [
@@ -66,38 +42,63 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/B2z1rFqIcAAIjt1.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/B2z1rFqIcAAIjt1.jpg",
-                "url": "http://t.co/mZJxhEuhlw",
-                "display_url": "pic.twitter.com/mZJxhEuhlw",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/535072577308606465/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
+                    "large": {
+                        "h": 784,
+                        "resize": "fit",
+                        "w": 978
                     },
                     "medium": {
-                        "w": 978,
                         "h": 784,
-                        "resize": "fit"
-                    },
-                    "large": {
-                        "w": 978,
-                        "h": 784,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 978
                     },
                     "small": {
-                        "w": 680,
                         "h": 545,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "http://t.co/mZJxhEuhlw"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "historyatstate.tumblr.com",
+                "expanded_url": "http://historyatstate.tumblr.com/",
+                "indices": [
+                    74,
+                    96
+                ],
+                "url": "http://t.co/LaJlYHI8Nt"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 2307268194,
+                "id_str": "2307268194",
+                "indices": [
+                    49,
+                    60
+                ],
+                "name": "Humanities + Design",
+                "screen_name": "HDStanford"
             }
         ]
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/mZJxhEuhlw",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/535072577308606465/photo/1",
+                "ext_alt_text": null,
                 "id": 535072576352317440,
                 "id_str": "535072576352317440",
                 "indices": [
@@ -106,55 +107,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/B2z1rFqIcAAIjt1.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/B2z1rFqIcAAIjt1.jpg",
-                "url": "http://t.co/mZJxhEuhlw",
-                "display_url": "pic.twitter.com/mZJxhEuhlw",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/535072577308606465/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
+                    "large": {
+                        "h": 784,
+                        "resize": "fit",
+                        "w": 978
                     },
                     "medium": {
-                        "w": 978,
                         "h": 784,
-                        "resize": "fit"
-                    },
-                    "large": {
-                        "w": 978,
-                        "h": 784,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 978
                     },
                     "small": {
-                        "w": 680,
                         "h": 545,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": null
+                "type": "photo",
+                "url": "http://t.co/mZJxhEuhlw"
             }
         ]
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 6,
+    "favorited": false,
+    "full_text": "See visualizations created with #FRUS data using @HDStanford Palladio at: http://t.co/LaJlYHI8Nt #dh #twitterstorians http://t.co/mZJxhEuhlw",
+    "geo": null,
+    "id": 535072577308606460,
+    "id_str": "535072577308606465",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 9,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 9,
-    "favorite_count": 6,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

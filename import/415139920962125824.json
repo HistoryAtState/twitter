@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Dec 23 15:20:44 +0000 2013",
-    "id": 415139920962125820,
-    "id_str": "415139920962125824",
-    "full_text": "Follow the implementation of the #FRUS statute in the 1990s http://t.co/P3SQkjbrAY",
-    "truncated": false,
     "display_text_range": [
         0,
         82
@@ -11,46 +9,48 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     33,
                     38
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/P3SQkjbrAY",
-                "expanded_url": "http://go.usa.gov/WS7z",
                 "display_url": "go.usa.gov/WS7z",
+                "expanded_url": "http://go.usa.gov/WS7z",
                 "indices": [
                     60,
                     82
-                ]
+                ],
+                "url": "http://t.co/P3SQkjbrAY"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "Follow the implementation of the #FRUS statute in the 1990s http://t.co/P3SQkjbrAY",
+    "geo": null,
+    "id": 415139920962125820,
+    "id_str": "415139920962125824",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

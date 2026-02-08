@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Nov 19 15:59:15 +0000 2013",
-    "id": 402828424525643780,
-    "id_str": "402828424525643776",
-    "full_text": "Who are @HistoryAtState historians &amp;amp; what do they do? The Historian Stephen Randolph discusses w/ @cspanvl http://t.co/QpHpEoNru5",
-    "truncated": false,
     "display_text_range": [
         0,
         133
@@ -11,59 +9,61 @@
     "entities": {
         "hashtags": [],
         "symbols": [],
+        "urls": [
+            {
+                "display_url": "ow.ly/qWUae",
+                "expanded_url": "http://ow.ly/qWUae",
+                "indices": [
+                    111,
+                    133
+                ],
+                "url": "http://t.co/QpHpEoNru5"
+            }
+        ],
         "user_mentions": [
             {
-                "screen_name": "HistoryAtState",
-                "name": "HistoryAtState",
                 "id": 586570880,
                 "id_str": "586570880",
                 "indices": [
                     8,
                     23
-                ]
+                ],
+                "name": "HistoryAtState",
+                "screen_name": "HistoryAtState"
             },
             {
-                "screen_name": "cspanvl",
-                "name": "C-SPAN Video Library",
                 "id": 62807483,
                 "id_str": "62807483",
                 "indices": [
                     102,
                     110
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "http://t.co/QpHpEoNru5",
-                "expanded_url": "http://ow.ly/qWUae",
-                "display_url": "ow.ly/qWUae",
-                "indices": [
-                    111,
-                    133
-                ]
+                ],
+                "name": "C-SPAN Video Library",
+                "screen_name": "cspanvl"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 1,
+    "favorited": false,
+    "full_text": "Who are @HistoryAtState historians &amp;amp; what do they do? The Historian Stephen Randolph discusses w/ @cspanvl http://t.co/QpHpEoNru5",
+    "geo": null,
+    "id": 402828424525643780,
+    "id_str": "402828424525643776",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 1,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Oct 31 18:02:27 +0000 2016",
-    "id": 793151162774151170,
-    "id_str": "793151162774151169",
-    "full_text": "“Candy boxes containing grenades” were a trick of treats in 1967 Saigon: https://t.co/b3jfuK6cIH #FRUS #halloween #twitterstorians",
-    "truncated": false,
     "display_text_range": [
         0,
         130
@@ -11,60 +9,62 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     97,
                     102
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "halloween",
                 "indices": [
                     103,
                     113
-                ]
+                ],
+                "text": "halloween"
             },
             {
-                "text": "twitterstorians",
                 "indices": [
                     114,
                     130
-                ]
+                ],
+                "text": "twitterstorians"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "https://t.co/b3jfuK6cIH",
-                "expanded_url": "http://go.usa.gov/xkAW9",
                 "display_url": "go.usa.gov/xkAW9",
+                "expanded_url": "http://go.usa.gov/xkAW9",
                 "indices": [
                     73,
                     96
-                ]
+                ],
+                "url": "https://t.co/b3jfuK6cIH"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 1,
+    "favorited": false,
+    "full_text": "“Candy boxes containing grenades” were a trick of treats in 1967 Saigon: https://t.co/b3jfuK6cIH #FRUS #halloween #twitterstorians",
+    "geo": null,
+    "id": 793151162774151170,
+    "id_str": "793151162774151169",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 1,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

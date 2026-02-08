@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu May 31 16:43:39 +0000 2018",
-    "id": 1002229130220490750,
-    "id_str": "1002229130220490752",
-    "full_text": "Seven newly-released documents are included in Foreign Relations, 1977-80, Arab-Israeli Dispute 1978-80, Second, Revised Edition. See the new volume at https://t.co/B60OHLCS5D  #FRUS",
-    "truncated": false,
     "display_text_range": [
         0,
         182
@@ -11,46 +9,48 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     177,
                     182
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "https://t.co/B60OHLCS5D",
-                "expanded_url": "http://www.history.state.gov/historicaldocuments/frus1977-80v09Ed2",
                 "display_url": "history.state.gov/historicaldocu…",
+                "expanded_url": "http://www.history.state.gov/historicaldocuments/frus1977-80v09Ed2",
                 "indices": [
                     152,
                     175
-                ]
+                ],
+                "url": "https://t.co/B60OHLCS5D"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "Seven newly-released documents are included in Foreign Relations, 1977-80, Arab-Israeli Dispute 1978-80, Second, Revised Edition. See the new volume at https://t.co/B60OHLCS5D  #FRUS",
+    "geo": null,
+    "id": 1002229130220490750,
+    "id_str": "1002229130220490752",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 6,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

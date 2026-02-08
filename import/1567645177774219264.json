@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Wed Sep 07 22:45:10 +0000 2022",
-    "id": 1567645177774219260,
-    "id_str": "1567645177774219264",
-    "full_text": "To read more memcons of the Malta Summit, please visit:\n\n• https://t.co/foaYyhV9WW\n• https://t.co/s2crikZWAl\n• https://t.co/s6iGXyfVcB\n• https://t.co/lv0Osf9Plt\n• https://t.co/bbsg1nnmuI\n \n(4/4)",
-    "truncated": false,
     "display_text_range": [
         0,
         194
@@ -11,74 +9,76 @@
     "entities": {
         "hashtags": [],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "https://t.co/foaYyhV9WW",
-                "expanded_url": "http://ow.ly/B4ju50KCysi",
                 "display_url": "ow.ly/B4ju50KCysi",
+                "expanded_url": "http://ow.ly/B4ju50KCysi",
                 "indices": [
                     59,
                     82
-                ]
+                ],
+                "url": "https://t.co/foaYyhV9WW"
             },
             {
-                "url": "https://t.co/s2crikZWAl",
-                "expanded_url": "http://ow.ly/sg0650KCysj",
                 "display_url": "ow.ly/sg0650KCysj",
+                "expanded_url": "http://ow.ly/sg0650KCysj",
                 "indices": [
                     85,
                     108
-                ]
+                ],
+                "url": "https://t.co/s2crikZWAl"
             },
             {
-                "url": "https://t.co/s6iGXyfVcB",
-                "expanded_url": "http://ow.ly/m75c50KCysk",
                 "display_url": "ow.ly/m75c50KCysk",
+                "expanded_url": "http://ow.ly/m75c50KCysk",
                 "indices": [
                     111,
                     134
-                ]
+                ],
+                "url": "https://t.co/s6iGXyfVcB"
             },
             {
-                "url": "https://t.co/lv0Osf9Plt",
-                "expanded_url": "http://ow.ly/Nxoi50KCysh",
                 "display_url": "ow.ly/Nxoi50KCysh",
+                "expanded_url": "http://ow.ly/Nxoi50KCysh",
                 "indices": [
                     137,
                     160
-                ]
+                ],
+                "url": "https://t.co/lv0Osf9Plt"
             },
             {
-                "url": "https://t.co/bbsg1nnmuI",
-                "expanded_url": "http://ow.ly/zwzj50KCysg",
                 "display_url": "ow.ly/zwzj50KCysg",
+                "expanded_url": "http://ow.ly/zwzj50KCysg",
                 "indices": [
                     163,
                     186
-                ]
+                ],
+                "url": "https://t.co/bbsg1nnmuI"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "favorite_count": 3,
+    "favorited": false,
+    "full_text": "To read more memcons of the Malta Summit, please visit:\n\n• https://t.co/foaYyhV9WW\n• https://t.co/s2crikZWAl\n• https://t.co/s6iGXyfVcB\n• https://t.co/lv0Osf9Plt\n• https://t.co/bbsg1nnmuI\n \n(4/4)",
+    "geo": null,
+    "id": 1567645177774219260,
+    "id_str": "1567645177774219264",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 3,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Dec 19 17:30:29 +0000 2022",
-    "id": 1604891935927373820,
-    "id_str": "1604891935927373829",
-    "full_text": "This electronic offering is the third microfiche supplement released as part of the @HistoryAtState initiative to digitize the entire #FRUS series. \n\nRead the first two microfiche supplements: \n1. https://t.co/uzgJftCUPh\n2. https://t.co/ejwhbecaWf\n\n(2/2)",
-    "truncated": false,
     "display_text_range": [
         0,
         254
@@ -11,66 +9,68 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     134,
                     139
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "symbols": [],
+        "urls": [
+            {
+                "display_url": "ow.ly/9UPw50M7jnN",
+                "expanded_url": "http://ow.ly/9UPw50M7jnN",
+                "indices": [
+                    197,
+                    220
+                ],
+                "url": "https://t.co/uzgJftCUPh"
+            },
+            {
+                "display_url": "ow.ly/OKOH50M7jfy",
+                "expanded_url": "http://ow.ly/OKOH50M7jfy",
+                "indices": [
+                    224,
+                    247
+                ],
+                "url": "https://t.co/ejwhbecaWf"
+            }
+        ],
         "user_mentions": [
             {
-                "screen_name": "HistoryAtState",
-                "name": "HistoryAtState",
                 "id": 586570880,
                 "id_str": "586570880",
                 "indices": [
                     84,
                     99
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "https://t.co/uzgJftCUPh",
-                "expanded_url": "http://ow.ly/9UPw50M7jnN",
-                "display_url": "ow.ly/9UPw50M7jnN",
-                "indices": [
-                    197,
-                    220
-                ]
-            },
-            {
-                "url": "https://t.co/ejwhbecaWf",
-                "expanded_url": "http://ow.ly/OKOH50M7jfy",
-                "display_url": "ow.ly/OKOH50M7jfy",
-                "indices": [
-                    224,
-                    247
-                ]
+                ],
+                "name": "HistoryAtState",
+                "screen_name": "HistoryAtState"
             }
         ]
     },
-    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "favorite_count": 3,
+    "favorited": false,
+    "full_text": "This electronic offering is the third microfiche supplement released as part of the @HistoryAtState initiative to digitize the entire #FRUS series. \n\nRead the first two microfiche supplements: \n1. https://t.co/uzgJftCUPh\n2. https://t.co/ejwhbecaWf\n\n(2/2)",
+    "geo": null,
+    "id": 1604891935927373820,
+    "id_str": "1604891935927373829",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 3,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Fri Apr 21 11:45:14 +0000 2017",
-    "id": 855386945266102270,
-    "id_str": "855386945266102273",
-    "full_text": "For every doc in #FRUS there are prob 10-15 related docs still in archives.  FRUS docs are tip of the iceberg #ncph2017 #s32 #DontMissThis",
-    "truncated": false,
     "display_text_range": [
         0,
         138
@@ -11,56 +9,58 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     17,
                     22
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "ncph2017",
                 "indices": [
                     110,
                     119
-                ]
+                ],
+                "text": "ncph2017"
             },
             {
-                "text": "s32",
                 "indices": [
                     120,
                     124
-                ]
+                ],
+                "text": "s32"
             },
             {
-                "text": "DontMissThis",
                 "indices": [
                     125,
                     138
-                ]
+                ],
+                "text": "DontMissThis"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
-        "urls": []
+        "urls": [],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 2,
+    "favorited": false,
+    "full_text": "For every doc in #FRUS there are prob 10-15 related docs still in archives.  FRUS docs are tip of the iceberg #ncph2017 #s32 #DontMissThis",
+    "geo": null,
+    "id": 855386945266102270,
+    "id_str": "855386945266102273",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 2,
-    "favorited": false,
-    "retweeted": false,
-    "lang": "en"
+    }
 }

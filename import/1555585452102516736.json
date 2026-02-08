@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Fri Aug 05 16:04:07 +0000 2022",
-    "id": 1555585452102516740,
-    "id_str": "1555585452102516736",
-    "full_text": "Sec. John Kerry became the first Secretary of State and highest-ranking U.S. official to visit Antarctica with his 2016 trip to the McMurdo Station and the Amundsen-Scott South Pole Station:\nhttps://t.co/xAG4MAGZk6\n\n#ArchivesPostcard\n(1/2) https://t.co/j6j4yVUHHR",
-    "truncated": false,
     "display_text_range": [
         0,
         239
@@ -11,28 +9,17 @@
     "entities": {
         "hashtags": [
             {
-                "text": "ArchivesPostcard",
                 "indices": [
                     216,
                     233
-                ]
-            }
-        ],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
-            {
-                "url": "https://t.co/xAG4MAGZk6",
-                "expanded_url": "http://ow.ly/2VJF50KbTgp",
-                "display_url": "ow.ly/2VJF50KbTgp",
-                "indices": [
-                    191,
-                    214
-                ]
+                ],
+                "text": "ArchivesPostcard"
             }
         ],
         "media": [
             {
+                "display_url": "pic.twitter.com/j6j4yVUHHR",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1555585452102516736/photo/1",
                 "id": 1555585449162416130,
                 "id_str": "1555585449162416129",
                 "indices": [
@@ -41,38 +28,52 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/FZaMuWMXoAEVhIw.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/FZaMuWMXoAEVhIw.jpg",
-                "url": "https://t.co/j6j4yVUHHR",
-                "display_url": "pic.twitter.com/j6j4yVUHHR",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1555585452102516736/photo/1",
-                "type": "photo",
                 "sizes": {
                     "large": {
-                        "w": 1024,
                         "h": 512,
-                        "resize": "fit"
-                    },
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
+                        "resize": "fit",
+                        "w": 1024
                     },
                     "medium": {
-                        "w": 1024,
                         "h": 512,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1024
                     },
                     "small": {
-                        "w": 680,
                         "h": 340,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/j6j4yVUHHR"
             }
-        ]
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "ow.ly/2VJF50KbTgp",
+                "expanded_url": "http://ow.ly/2VJF50KbTgp",
+                "indices": [
+                    191,
+                    214
+                ],
+                "url": "https://t.co/xAG4MAGZk6"
+            }
+        ],
+        "user_mentions": []
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/j6j4yVUHHR",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1555585452102516736/photo/1",
+                "ext_alt_text": "Text overlays a color photograph of Sec. John Kerry following a guide through an icy path with an aqua flag marker in the background: “Greetings from the South Pole, November 2016; #ArchivesPostcard @HistoryAtState”",
                 "id": 1555585449162416130,
                 "id_str": "1555585449162416129",
                 "indices": [
@@ -81,55 +82,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/FZaMuWMXoAEVhIw.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/FZaMuWMXoAEVhIw.jpg",
-                "url": "https://t.co/j6j4yVUHHR",
-                "display_url": "pic.twitter.com/j6j4yVUHHR",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1555585452102516736/photo/1",
-                "type": "photo",
                 "sizes": {
                     "large": {
-                        "w": 1024,
                         "h": 512,
-                        "resize": "fit"
-                    },
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
+                        "resize": "fit",
+                        "w": 1024
                     },
                     "medium": {
-                        "w": 1024,
                         "h": 512,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1024
                     },
                     "small": {
-                        "w": 680,
                         "h": 340,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": "Text overlays a color photograph of Sec. John Kerry following a guide through an icy path with an aqua flag marker in the background: “Greetings from the South Pole, November 2016; #ArchivesPostcard @HistoryAtState”"
+                "type": "photo",
+                "url": "https://t.co/j6j4yVUHHR"
             }
         ]
     },
-    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "favorite_count": 9,
+    "favorited": false,
+    "full_text": "Sec. John Kerry became the first Secretary of State and highest-ranking U.S. official to visit Antarctica with his 2016 trip to the McMurdo Station and the Amundsen-Scott South Pole Station:\nhttps://t.co/xAG4MAGZk6\n\n#ArchivesPostcard\n(1/2) https://t.co/j6j4yVUHHR",
+    "geo": null,
+    "id": 1555585452102516740,
+    "id_str": "1555585452102516736",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 9,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

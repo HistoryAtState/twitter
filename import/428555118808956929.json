@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Wed Jan 29 15:47:57 +0000 2014",
-    "id": 428555118808956930,
-    "id_str": "428555118808956929",
-    "full_text": "RT @PDCommission: Read @HistoryAtState's Seth Center's insights on the evolution of #publicdiplomacy @StateDept since 1999: http://t.co/cKc…",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,68 +9,68 @@
     "entities": {
         "hashtags": [
             {
-                "text": "publicdiplomacy",
                 "indices": [
                     84,
                     100
-                ]
+                ],
+                "text": "publicdiplomacy"
             }
         ],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "PDCommission",
-                "name": "PD Commission",
                 "id": 301134122,
                 "id_str": "301134122",
                 "indices": [
                     3,
                     16
-                ]
+                ],
+                "name": "PD Commission",
+                "screen_name": "PDCommission"
             },
             {
-                "screen_name": "HistoryAtState",
-                "name": "HistoryAtState",
                 "id": 586570880,
                 "id_str": "586570880",
                 "indices": [
                     23,
                     38
-                ]
+                ],
+                "name": "HistoryAtState",
+                "screen_name": "HistoryAtState"
             },
             {
-                "screen_name": "StateDept",
-                "name": "Department of State",
                 "id": 9624742,
                 "id_str": "9624742",
                 "indices": [
                     101,
                     111
-                ]
+                ],
+                "name": "Department of State",
+                "screen_name": "StateDept"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "RT @PDCommission: Read @HistoryAtState's Seth Center's insights on the evolution of #publicdiplomacy @StateDept since 1999: http://t.co/cKc…",
+    "geo": null,
+    "id": 428555118808956930,
+    "id_str": "428555118808956929",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "retweet_count": 9,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Tue Jan 28 22:54:17 +0000 2014",
-        "id": 428300021138591740,
-        "id_str": "428300021138591744",
-        "full_text": "Read @HistoryAtState's Seth Center's insights on the evolution of #publicdiplomacy @StateDept since 1999: http://t.co/cKcDZbm2OM",
-        "truncated": false,
         "display_text_range": [
             0,
             128
@@ -80,74 +78,76 @@
         "entities": {
             "hashtags": [
                 {
-                    "text": "publicdiplomacy",
                     "indices": [
                         66,
                         82
-                    ]
+                    ],
+                    "text": "publicdiplomacy"
                 }
             ],
             "symbols": [],
+            "urls": [
+                {
+                    "display_url": "state.gov/pdcommission/m…",
+                    "expanded_url": "http://www.state.gov/pdcommission/meetings/218815.htm",
+                    "indices": [
+                        106,
+                        128
+                    ],
+                    "url": "http://t.co/cKcDZbm2OM"
+                }
+            ],
             "user_mentions": [
                 {
-                    "screen_name": "HistoryAtState",
-                    "name": "HistoryAtState",
                     "id": 586570880,
                     "id_str": "586570880",
                     "indices": [
                         5,
                         20
-                    ]
+                    ],
+                    "name": "HistoryAtState",
+                    "screen_name": "HistoryAtState"
                 },
                 {
-                    "screen_name": "StateDept",
-                    "name": "Department of State",
                     "id": 9624742,
                     "id_str": "9624742",
                     "indices": [
                         83,
                         93
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "http://t.co/cKcDZbm2OM",
-                    "expanded_url": "http://www.state.gov/pdcommission/meetings/218815.htm",
-                    "display_url": "state.gov/pdcommission/m…",
-                    "indices": [
-                        106,
-                        128
-                    ]
+                    ],
+                    "name": "Department of State",
+                    "screen_name": "StateDept"
                 }
             ]
         },
-        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+        "favorite_count": 2,
+        "favorited": false,
+        "full_text": "Read @HistoryAtState's Seth Center's insights on the evolution of #publicdiplomacy @StateDept since 1999: http://t.co/cKcDZbm2OM",
+        "geo": null,
+        "id": 428300021138591740,
+        "id_str": "428300021138591744",
+        "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 9,
+        "retweeted": true,
+        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+        "truncated": false,
         "user": {
             "id": 301134122,
             "id_str": "301134122"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 9,
-        "favorite_count": 2,
-        "favorited": false,
-        "retweeted": true,
-        "possibly_sensitive": false,
-        "lang": "en"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 9,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": true,
-    "lang": "en"
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

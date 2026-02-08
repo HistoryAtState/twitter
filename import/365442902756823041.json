@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Aug 08 12:02:32 +0000 2013",
-    "id": 365442902756823040,
-    "id_str": "365442902756823041",
-    "full_text": "As #SecState Dean Rusk attended 18 @NATO/@USNATO ministerials combined in Paris &amp;amp; Brussels http://t.co/4OGHllnGUy",
-    "truncated": false,
     "display_text_range": [
         0,
         117
@@ -11,67 +9,69 @@
     "entities": {
         "hashtags": [
             {
-                "text": "SecState",
                 "indices": [
                     3,
                     12
-                ]
+                ],
+                "text": "SecState"
             }
         ],
         "symbols": [],
+        "urls": [
+            {
+                "display_url": "go.usa.gov/jNm9",
+                "expanded_url": "http://go.usa.gov/jNm9",
+                "indices": [
+                    95,
+                    117
+                ],
+                "url": "http://t.co/4OGHllnGUy"
+            }
+        ],
         "user_mentions": [
             {
-                "screen_name": "NATO",
-                "name": "NATO",
                 "id": 83795099,
                 "id_str": "83795099",
                 "indices": [
                     35,
                     40
-                ]
+                ],
+                "name": "NATO",
+                "screen_name": "NATO"
             },
             {
-                "screen_name": "USNATO",
-                "name": "US Mission to NATO",
                 "id": 472830024,
                 "id_str": "472830024",
                 "indices": [
                     41,
                     48
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "http://t.co/4OGHllnGUy",
-                "expanded_url": "http://go.usa.gov/jNm9",
-                "display_url": "go.usa.gov/jNm9",
-                "indices": [
-                    95,
-                    117
-                ]
+                ],
+                "name": "US Mission to NATO",
+                "screen_name": "USNATO"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "As #SecState Dean Rusk attended 18 @NATO/@USNATO ministerials combined in Paris &amp;amp; Brussels http://t.co/4OGHllnGUy",
+    "geo": null,
+    "id": 365442902756823040,
+    "id_str": "365442902756823041",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

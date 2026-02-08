@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Wed Jul 31 22:29:00 +0000 2013",
-    "id": 362701457532796930,
-    "id_str": "362701457532796928",
-    "full_text": "We’ll mix in fun facts on how #SecState travels changed since 19th century with On This Day (#OTD) milestones from former #SecState trips.",
-    "truncated": false,
     "display_text_range": [
         0,
         138
@@ -11,49 +9,51 @@
     "entities": {
         "hashtags": [
             {
-                "text": "SecState",
                 "indices": [
                     30,
                     39
-                ]
+                ],
+                "text": "SecState"
             },
             {
-                "text": "OTD",
                 "indices": [
                     93,
                     97
-                ]
+                ],
+                "text": "OTD"
             },
             {
-                "text": "SecState",
                 "indices": [
                     122,
                     131
-                ]
+                ],
+                "text": "SecState"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
-        "urls": []
+        "urls": [],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "We’ll mix in fun facts on how #SecState travels changed since 19th century with On This Day (#OTD) milestones from former #SecState trips.",
+    "geo": null,
+    "id": 362701457532796930,
+    "id_str": "362701457532796928",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "lang": "en"
+    }
 }

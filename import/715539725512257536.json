@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Mar 31 14:02:19 +0000 2016",
-    "id": 715539725512257540,
-    "id_str": "715539725512257536",
-    "full_text": "Documents on SALT II negotiations, which extended across 3 presidential administrations, are here: https://t.co/KeK1pJ2wub #FRUS #NSS2016",
-    "truncated": false,
     "display_text_range": [
         0,
         137
@@ -11,53 +9,55 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     123,
                     128
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "NSS2016",
                 "indices": [
                     129,
                     137
-                ]
+                ],
+                "text": "NSS2016"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "https://t.co/KeK1pJ2wub",
-                "expanded_url": "https://history.state.gov/historicaldocuments/frus1969-76v33",
                 "display_url": "history.state.gov/historicaldocu…",
+                "expanded_url": "https://history.state.gov/historicaldocuments/frus1969-76v33",
                 "indices": [
                     99,
                     122
-                ]
+                ],
+                "url": "https://t.co/KeK1pJ2wub"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 1,
+    "favorited": false,
+    "full_text": "Documents on SALT II negotiations, which extended across 3 presidential administrations, are here: https://t.co/KeK1pJ2wub #FRUS #NSS2016",
+    "geo": null,
+    "id": 715539725512257540,
+    "id_str": "715539725512257536",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 1,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

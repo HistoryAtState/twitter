@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Oct 01 18:55:32 +0000 2018",
-    "id": 1046836026348584960,
-    "id_str": "1046836026348584963",
-    "full_text": "Read about tennis stars Arthur Ashe and Stanley Smith touring #Africa in 1970 in our latest #FRUS volume https://t.co/c8DGzL8CKw",
-    "truncated": false,
     "display_text_range": [
         0,
         128
@@ -11,53 +9,55 @@
     "entities": {
         "hashtags": [
             {
-                "text": "Africa",
                 "indices": [
                     62,
                     69
-                ]
+                ],
+                "text": "Africa"
             },
             {
-                "text": "FRUS",
                 "indices": [
                     92,
                     97
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "https://t.co/c8DGzL8CKw",
-                "expanded_url": "https://www.history.state.gov/historicaldocuments/frus1917-72PubDipv08/d122",
                 "display_url": "history.state.gov/historicaldocu…",
+                "expanded_url": "https://www.history.state.gov/historicaldocuments/frus1917-72PubDipv08/d122",
                 "indices": [
                     105,
                     128
-                ]
+                ],
+                "url": "https://t.co/c8DGzL8CKw"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "Read about tennis stars Arthur Ashe and Stanley Smith touring #Africa in 1970 in our latest #FRUS volume https://t.co/c8DGzL8CKw",
+    "geo": null,
+    "id": 1046836026348584960,
+    "id_str": "1046836026348584963",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

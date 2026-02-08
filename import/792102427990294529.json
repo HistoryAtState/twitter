@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Fri Oct 28 20:35:10 +0000 2016",
-    "id": 792102427990294530,
-    "id_str": "792102427990294529",
-    "full_text": "U.S. Amb. Heath talks Lao and Khmer “ghost governments” with Vietnamese delegation in Geneva in 1954: https://t.co/rTL2EMzz6k #FRUS",
-    "truncated": false,
     "display_text_range": [
         0,
         131
@@ -11,46 +9,48 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     126,
                     131
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "https://t.co/rTL2EMzz6k",
-                "expanded_url": "http://go.usa.gov/xkAYP",
                 "display_url": "go.usa.gov/xkAYP",
+                "expanded_url": "http://go.usa.gov/xkAYP",
                 "indices": [
                     102,
                     125
-                ]
+                ],
+                "url": "https://t.co/rTL2EMzz6k"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 2,
+    "favorited": false,
+    "full_text": "U.S. Amb. Heath talks Lao and Khmer “ghost governments” with Vietnamese delegation in Geneva in 1954: https://t.co/rTL2EMzz6k #FRUS",
+    "geo": null,
+    "id": 792102427990294530,
+    "id_str": "792102427990294529",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 2,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

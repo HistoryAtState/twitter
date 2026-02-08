@@ -1,51 +1,17 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Mar 31 15:45:06 +0000 2022",
-    "id": 1509557407281827840,
-    "id_str": "1509557407281827841",
-    "full_text": "Albright majored in political science at @Wellesley, writing her honors thesis on Czechoslovakian prime minister Zdeněk Fierlinger. She later studied International Relations and Russian at @SAISHopkins.\n\nhttps://t.co/1EEW3iD4zQ https://t.co/fRPiHnSwBK",
-    "truncated": false,
     "display_text_range": [
         0,
         227
     ],
     "entities": {
         "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-            {
-                "screen_name": "Wellesley",
-                "name": "Wellesley College",
-                "id": 42889581,
-                "id_str": "42889581",
-                "indices": [
-                    41,
-                    51
-                ]
-            },
-            {
-                "screen_name": "SAISHopkins",
-                "name": "Johns Hopkins SAIS",
-                "id": 14659030,
-                "id_str": "14659030",
-                "indices": [
-                    189,
-                    201
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "https://t.co/1EEW3iD4zQ",
-                "expanded_url": "http://ow.ly/84sp50IwEEE",
-                "display_url": "ow.ly/84sp50IwEEE",
-                "indices": [
-                    204,
-                    227
-                ]
-            }
-        ],
         "media": [
             {
+                "display_url": "pic.twitter.com/fRPiHnSwBK",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1509557407281827841/photo/1",
                 "id": 1509557405805338620,
                 "id_str": "1509557405805338626",
                 "indices": [
@@ -54,38 +20,73 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/FPMGdm0WYAIxnWS.png",
                 "media_url_https": "https://pbs.twimg.com/media/FPMGdm0WYAIxnWS.png",
-                "url": "https://t.co/fRPiHnSwBK",
-                "display_url": "pic.twitter.com/fRPiHnSwBK",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1509557407281827841/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "small": {
-                        "w": 680,
-                        "h": 318,
-                        "resize": "fit"
-                    },
                     "large": {
-                        "w": 894,
                         "h": 418,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 894
                     },
                     "medium": {
-                        "w": 894,
                         "h": 418,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 894
+                    },
+                    "small": {
+                        "h": 318,
+                        "resize": "fit",
+                        "w": 680
                     },
                     "thumb": {
-                        "w": 150,
                         "h": 150,
-                        "resize": "crop"
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/fRPiHnSwBK"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "ow.ly/84sp50IwEEE",
+                "expanded_url": "http://ow.ly/84sp50IwEEE",
+                "indices": [
+                    204,
+                    227
+                ],
+                "url": "https://t.co/1EEW3iD4zQ"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 42889581,
+                "id_str": "42889581",
+                "indices": [
+                    41,
+                    51
+                ],
+                "name": "Wellesley College",
+                "screen_name": "Wellesley"
+            },
+            {
+                "id": 14659030,
+                "id_str": "14659030",
+                "indices": [
+                    189,
+                    201
+                ],
+                "name": "Johns Hopkins SAIS",
+                "screen_name": "SAISHopkins"
             }
         ]
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/fRPiHnSwBK",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1509557407281827841/photo/1",
+                "ext_alt_text": "Screenshot of WorldCat catalog record for Madeleine Albright’s 1959 honors thesis, Zdeněk Fierlinger's Role in the Communization of Czechoslovakia: The Profile of a Fellow Traveler.",
                 "id": 1509557405805338620,
                 "id_str": "1509557405805338626",
                 "indices": [
@@ -94,55 +95,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/FPMGdm0WYAIxnWS.png",
                 "media_url_https": "https://pbs.twimg.com/media/FPMGdm0WYAIxnWS.png",
-                "url": "https://t.co/fRPiHnSwBK",
-                "display_url": "pic.twitter.com/fRPiHnSwBK",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1509557407281827841/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "small": {
-                        "w": 680,
-                        "h": 318,
-                        "resize": "fit"
-                    },
                     "large": {
-                        "w": 894,
                         "h": 418,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 894
                     },
                     "medium": {
-                        "w": 894,
                         "h": 418,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 894
+                    },
+                    "small": {
+                        "h": 318,
+                        "resize": "fit",
+                        "w": 680
                     },
                     "thumb": {
-                        "w": 150,
                         "h": 150,
-                        "resize": "crop"
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": "Screenshot of WorldCat catalog record for Madeleine Albright’s 1959 honors thesis, Zdeněk Fierlinger's Role in the Communization of Czechoslovakia: The Profile of a Fellow Traveler."
+                "type": "photo",
+                "url": "https://t.co/fRPiHnSwBK"
             }
         ]
     },
-    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "favorite_count": 1,
+    "favorited": false,
+    "full_text": "Albright majored in political science at @Wellesley, writing her honors thesis on Czechoslovakian prime minister Zdeněk Fierlinger. She later studied International Relations and Russian at @SAISHopkins.\n\nhttps://t.co/1EEW3iD4zQ https://t.co/fRPiHnSwBK",
+    "geo": null,
+    "id": 1509557407281827840,
+    "id_str": "1509557407281827841",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 1,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

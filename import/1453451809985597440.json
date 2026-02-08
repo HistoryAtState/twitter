@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Wed Oct 27 20:01:29 +0000 2021",
-    "id": 1453451809985597440,
-    "id_str": "1453451809985597440",
-    "full_text": "No #FavoriteFRUS list would be complete without one of our earliest volumes: the compilation of worldwide condolences sent to the United States on the assassination of Pres. Lincoln:\nhttps://t.co/G2LB10Fybz\n\n(1/2) https://t.co/chV6y2aSmo",
-    "truncated": false,
     "display_text_range": [
         0,
         213
@@ -11,28 +9,17 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FavoriteFRUS",
                 "indices": [
                     3,
                     16
-                ]
-            }
-        ],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
-            {
-                "url": "https://t.co/G2LB10Fybz",
-                "expanded_url": "http://ow.ly/4yxe50GtS66",
-                "display_url": "ow.ly/4yxe50GtS66",
-                "indices": [
-                    183,
-                    206
-                ]
+                ],
+                "text": "FavoriteFRUS"
             }
         ],
         "media": [
             {
+                "display_url": "pic.twitter.com/chV6y2aSmo",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1453451809985597440/photo/1",
                 "id": 1453451808026861570,
                 "id_str": "1453451808026861571",
                 "indices": [
@@ -41,38 +28,52 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/FCuyt_uXIAMyPMI.png",
                 "media_url_https": "https://pbs.twimg.com/media/FCuyt_uXIAMyPMI.png",
-                "url": "https://t.co/chV6y2aSmo",
-                "display_url": "pic.twitter.com/chV6y2aSmo",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1453451809985597440/photo/1",
-                "type": "photo",
                 "sizes": {
                     "large": {
-                        "w": 964,
                         "h": 1508,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 964
                     },
                     "medium": {
-                        "w": 767,
                         "h": 1200,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 767
                     },
                     "small": {
-                        "w": 435,
                         "h": 680,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 435
                     },
                     "thumb": {
-                        "w": 150,
                         "h": 150,
-                        "resize": "crop"
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/chV6y2aSmo"
             }
-        ]
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "ow.ly/4yxe50GtS66",
+                "expanded_url": "http://ow.ly/4yxe50GtS66",
+                "indices": [
+                    183,
+                    206
+                ],
+                "url": "https://t.co/G2LB10Fybz"
+            }
+        ],
+        "user_mentions": []
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/chV6y2aSmo",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1453451809985597440/photo/1",
+                "ext_alt_text": "Screenshot of title page of the “Appendix to Diplomatic Correspondence of 1865: The Assassination of Abraham Lincoln, Late President of the United States of America…,” dated 1866.",
                 "id": 1453451808026861570,
                 "id_str": "1453451808026861571",
                 "indices": [
@@ -81,55 +82,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/FCuyt_uXIAMyPMI.png",
                 "media_url_https": "https://pbs.twimg.com/media/FCuyt_uXIAMyPMI.png",
-                "url": "https://t.co/chV6y2aSmo",
-                "display_url": "pic.twitter.com/chV6y2aSmo",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1453451809985597440/photo/1",
-                "type": "photo",
                 "sizes": {
                     "large": {
-                        "w": 964,
                         "h": 1508,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 964
                     },
                     "medium": {
-                        "w": 767,
                         "h": 1200,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 767
                     },
                     "small": {
-                        "w": 435,
                         "h": 680,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 435
                     },
                     "thumb": {
-                        "w": 150,
                         "h": 150,
-                        "resize": "crop"
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": "Screenshot of title page of the “Appendix to Diplomatic Correspondence of 1865: The Assassination of Abraham Lincoln, Late President of the United States of America…,” dated 1866."
+                "type": "photo",
+                "url": "https://t.co/chV6y2aSmo"
             }
         ]
     },
-    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "favorite_count": 8,
+    "favorited": false,
+    "full_text": "No #FavoriteFRUS list would be complete without one of our earliest volumes: the compilation of worldwide condolences sent to the United States on the assassination of Pres. Lincoln:\nhttps://t.co/G2LB10Fybz\n\n(1/2) https://t.co/chV6y2aSmo",
+    "geo": null,
+    "id": 1453451809985597440,
+    "id_str": "1453451809985597440",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4,
+    "retweeted": false,
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 8,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

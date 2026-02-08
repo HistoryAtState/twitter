@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Fri Jun 07 12:03:44 +0000 2013",
-    "id": 342975156848832510,
-    "id_str": "342975156848832512",
-    "full_text": "Did you know: until 1830s, most US missions were in Europe &amp;amp; Latin America? Expanded to China (1843) and Japan (1859) http://t.co/KM5UJd1D0c",
-    "truncated": false,
     "display_text_range": [
         0,
         144
@@ -11,38 +9,40 @@
     "entities": {
         "hashtags": [],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/KM5UJd1D0c",
-                "expanded_url": "http://go.usa.gov/bckd",
                 "display_url": "go.usa.gov/bckd",
+                "expanded_url": "http://go.usa.gov/bckd",
                 "indices": [
                     122,
                     144
-                ]
+                ],
+                "url": "http://t.co/KM5UJd1D0c"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 1,
+    "favorited": false,
+    "full_text": "Did you know: until 1830s, most US missions were in Europe &amp;amp; Latin America? Expanded to China (1843) and Japan (1859) http://t.co/KM5UJd1D0c",
+    "geo": null,
+    "id": 342975156848832510,
+    "id_str": "342975156848832512",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 1,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

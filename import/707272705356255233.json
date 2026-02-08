@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Mar 08 18:32:08 +0000 2016",
-    "id": 707272705356255230,
-    "id_str": "707272705356255233",
-    "full_text": "Now available: Foreign Relations: Diplomatic Papers, 1943, Europe, Vol. II: https://t.co/A6nmYl6yOw #FRUS #twitterstorians",
-    "truncated": false,
     "display_text_range": [
         0,
         122
@@ -11,53 +9,55 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     100,
                     105
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "twitterstorians",
                 "indices": [
                     106,
                     122
-                ]
+                ],
+                "text": "twitterstorians"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "https://t.co/A6nmYl6yOw",
-                "expanded_url": "https://history.state.gov/historicaldocuments/frus1943v02",
                 "display_url": "history.state.gov/historicaldocu…",
+                "expanded_url": "https://history.state.gov/historicaldocuments/frus1943v02",
                 "indices": [
                     76,
                     99
-                ]
+                ],
+                "url": "https://t.co/A6nmYl6yOw"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "Now available: Foreign Relations: Diplomatic Papers, 1943, Europe, Vol. II: https://t.co/A6nmYl6yOw #FRUS #twitterstorians",
+    "geo": null,
+    "id": 707272705356255230,
+    "id_str": "707272705356255233",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

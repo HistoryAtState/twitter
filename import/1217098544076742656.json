@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Jan 14 14:58:00 +0000 2020",
-    "id": 1217098544076742660,
-    "id_str": "1217098544076742656",
-    "full_text": "RT @FSIatState: We’re thrilled that #FSI showed the largest increase across the entire federal government in @RPublicService’s annual surve…",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,48 +9,48 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FSI",
                 "indices": [
                     36,
                     40
-                ]
+                ],
+                "text": "FSI"
             }
         ],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "FSIatState",
-                "name": "Foreign Service Institute",
                 "id": 958044239576948740,
                 "id_str": "958044239576948736",
                 "indices": [
                     3,
                     14
-                ]
+                ],
+                "name": "Foreign Service Institute",
+                "screen_name": "FSIatState"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": true,
+    "full_text": "RT @FSIatState: We’re thrilled that #FSI showed the largest increase across the entire federal government in @RPublicService’s annual surve…",
+    "geo": null,
+    "id": 1217098544076742660,
+    "id_str": "1217098544076742656",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "retweet_count": 2,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Mon Jan 13 14:05:26 +0000 2020",
-        "id": 1216722929003659260,
-        "id_str": "1216722929003659270",
-        "full_text": "We’re thrilled that #FSI showed the largest increase across the entire federal government in @RPublicService’s annual survey of “Best Places to Work.” We moved up more than 200 spots in the rankings! So proud of the dedication of our Institute’s staff &amp;amp; instructors. #FEDBPTW https://t.co/xLUMImZ38x",
-        "truncated": false,
         "display_text_range": [
             0,
             279
@@ -60,25 +58,24 @@
         "entities": {
             "hashtags": [
                 {
-                    "text": "FSI",
                     "indices": [
                         20,
                         24
-                    ]
+                    ],
+                    "text": "FSI"
                 },
                 {
-                    "text": "FEDBPTW",
                     "indices": [
                         271,
                         279
-                    ]
+                    ],
+                    "text": "FEDBPTW"
                 }
             ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [],
             "media": [
                 {
+                    "display_url": "pic.twitter.com/xLUMImZ38x",
+                    "expanded_url": "https://twitter.com/FSIatState/status/1216722929003659270/photo/1",
                     "id": 1216722917234487300,
                     "id_str": "1216722917234487297",
                     "indices": [
@@ -87,38 +84,42 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/EOKrC_fWsAEeAyk.jpg",
                     "media_url_https": "https://pbs.twimg.com/media/EOKrC_fWsAEeAyk.jpg",
-                    "url": "https://t.co/xLUMImZ38x",
-                    "display_url": "pic.twitter.com/xLUMImZ38x",
-                    "expanded_url": "https://twitter.com/FSIatState/status/1216722929003659270/photo/1",
-                    "type": "photo",
                     "sizes": {
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
+                        "large": {
+                            "h": 1692,
+                            "resize": "fit",
+                            "w": 2048
                         },
                         "medium": {
-                            "w": 1200,
                             "h": 992,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 1200
                         },
                         "small": {
-                            "w": 680,
                             "h": 562,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 680
                         },
-                        "large": {
-                            "w": 2048,
-                            "h": 1692,
-                            "resize": "fit"
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
                         }
-                    }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/xLUMImZ38x"
                 }
-            ]
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
         },
         "extended_entities": {
             "media": [
                 {
+                    "display_url": "pic.twitter.com/xLUMImZ38x",
+                    "expanded_url": "https://twitter.com/FSIatState/status/1216722929003659270/photo/1",
+                    "ext_alt_text": null,
                     "id": 1216722917234487300,
                     "id_str": "1216722917234487297",
                     "indices": [
@@ -127,35 +128,35 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/EOKrC_fWsAEeAyk.jpg",
                     "media_url_https": "https://pbs.twimg.com/media/EOKrC_fWsAEeAyk.jpg",
-                    "url": "https://t.co/xLUMImZ38x",
-                    "display_url": "pic.twitter.com/xLUMImZ38x",
-                    "expanded_url": "https://twitter.com/FSIatState/status/1216722929003659270/photo/1",
-                    "type": "photo",
                     "sizes": {
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
+                        "large": {
+                            "h": 1692,
+                            "resize": "fit",
+                            "w": 2048
                         },
                         "medium": {
-                            "w": 1200,
                             "h": 992,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 1200
                         },
                         "small": {
-                            "w": 680,
                             "h": 562,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 680
                         },
-                        "large": {
-                            "w": 2048,
-                            "h": 1692,
-                            "resize": "fit"
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
                         }
                     },
-                    "ext_alt_text": null
+                    "type": "photo",
+                    "url": "https://t.co/xLUMImZ38x"
                 },
                 {
+                    "display_url": "pic.twitter.com/xLUMImZ38x",
+                    "expanded_url": "https://twitter.com/FSIatState/status/1216722929003659270/photo/1",
+                    "ext_alt_text": null,
                     "id": 1216722917284859900,
                     "id_str": "1216722917284859906",
                     "indices": [
@@ -164,35 +165,35 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/EOKrC_rXUAIHqXY.jpg",
                     "media_url_https": "https://pbs.twimg.com/media/EOKrC_rXUAIHqXY.jpg",
-                    "url": "https://t.co/xLUMImZ38x",
-                    "display_url": "pic.twitter.com/xLUMImZ38x",
-                    "expanded_url": "https://twitter.com/FSIatState/status/1216722929003659270/photo/1",
-                    "type": "photo",
                     "sizes": {
                         "large": {
-                            "w": 2048,
                             "h": 1406,
-                            "resize": "fit"
-                        },
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
+                            "resize": "fit",
+                            "w": 2048
                         },
                         "medium": {
-                            "w": 1200,
                             "h": 824,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 1200
                         },
                         "small": {
-                            "w": 680,
                             "h": 467,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
                         }
                     },
-                    "ext_alt_text": null
+                    "type": "photo",
+                    "url": "https://t.co/xLUMImZ38x"
                 },
                 {
+                    "display_url": "pic.twitter.com/xLUMImZ38x",
+                    "expanded_url": "https://twitter.com/FSIatState/status/1216722929003659270/photo/1",
+                    "ext_alt_text": null,
                     "id": 1216722917284876290,
                     "id_str": "1216722917284876290",
                     "indices": [
@@ -201,62 +202,61 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/EOKrC_rXkAIsmjd.jpg",
                     "media_url_https": "https://pbs.twimg.com/media/EOKrC_rXkAIsmjd.jpg",
-                    "url": "https://t.co/xLUMImZ38x",
-                    "display_url": "pic.twitter.com/xLUMImZ38x",
-                    "expanded_url": "https://twitter.com/FSIatState/status/1216722929003659270/photo/1",
-                    "type": "photo",
                     "sizes": {
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
+                        "large": {
+                            "h": 1536,
+                            "resize": "fit",
+                            "w": 2048
                         },
                         "medium": {
-                            "w": 1200,
                             "h": 900,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 1200
                         },
                         "small": {
-                            "w": 680,
                             "h": 510,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 680
                         },
-                        "large": {
-                            "w": 2048,
-                            "h": 1536,
-                            "resize": "fit"
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
                         }
                     },
-                    "ext_alt_text": null
+                    "type": "photo",
+                    "url": "https://t.co/xLUMImZ38x"
                 }
             ]
         },
-        "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+        "favorite_count": 7,
+        "favorited": true,
+        "full_text": "We’re thrilled that #FSI showed the largest increase across the entire federal government in @RPublicService’s annual survey of “Best Places to Work.” We moved up more than 200 spots in the rankings! So proud of the dedication of our Institute’s staff &amp;amp; instructors. #FEDBPTW https://t.co/xLUMImZ38x",
+        "geo": null,
+        "id": 1216722929003659260,
+        "id_str": "1216722929003659270",
+        "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 2,
+        "retweeted": true,
+        "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+        "truncated": false,
         "user": {
             "id": 958044239576948740,
             "id_str": "958044239576948736"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 2,
-        "favorite_count": 7,
-        "favorited": true,
-        "retweeted": true,
-        "possibly_sensitive": false,
-        "lang": "en"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 0,
-    "favorited": true,
-    "retweeted": true,
-    "lang": "en"
+    "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

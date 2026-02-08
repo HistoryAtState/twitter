@@ -1,30 +1,17 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Sat Dec 17 17:02:11 +0000 2016",
-    "id": 810168223408803840,
-    "id_str": "810168223408803844",
-    "full_text": "The Treaty of Ghent, ending the War of 1812, was negotiated by SecState Adams: https://t.co/I3zUSHzhMB https://t.co/6xge7W46tb",
-    "truncated": false,
     "display_text_range": [
         0,
         102
     ],
     "entities": {
         "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
-            {
-                "url": "https://t.co/I3zUSHzhMB",
-                "expanded_url": "http://go.usa.gov/x8WGv",
-                "display_url": "go.usa.gov/x8WGv",
-                "indices": [
-                    79,
-                    102
-                ]
-            }
-        ],
         "media": [
             {
+                "display_url": "pic.twitter.com/6xge7W46tb",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/810168223408803844/photo/1",
                 "id": 810168220371955710,
                 "id_str": "810168220371955712",
                 "indices": [
@@ -33,38 +20,52 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/Cz5LtDeUsAArcnh.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/Cz5LtDeUsAArcnh.jpg",
-                "url": "https://t.co/6xge7W46tb",
-                "display_url": "pic.twitter.com/6xge7W46tb",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/810168223408803844/photo/1",
-                "type": "photo",
                 "sizes": {
                     "large": {
-                        "w": 1400,
                         "h": 967,
-                        "resize": "fit"
-                    },
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
-                    "small": {
-                        "w": 680,
-                        "h": 470,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1400
                     },
                     "medium": {
-                        "w": 1200,
                         "h": 829,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1200
+                    },
+                    "small": {
+                        "h": 470,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/6xge7W46tb"
             }
-        ]
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "go.usa.gov/x8WGv",
+                "expanded_url": "http://go.usa.gov/x8WGv",
+                "indices": [
+                    79,
+                    102
+                ],
+                "url": "https://t.co/I3zUSHzhMB"
+            }
+        ],
+        "user_mentions": []
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/6xge7W46tb",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/810168223408803844/photo/1",
+                "ext_alt_text": null,
                 "id": 810168220371955710,
                 "id_str": "810168220371955712",
                 "indices": [
@@ -73,55 +74,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/Cz5LtDeUsAArcnh.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/Cz5LtDeUsAArcnh.jpg",
-                "url": "https://t.co/6xge7W46tb",
-                "display_url": "pic.twitter.com/6xge7W46tb",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/810168223408803844/photo/1",
-                "type": "photo",
                 "sizes": {
                     "large": {
-                        "w": 1400,
                         "h": 967,
-                        "resize": "fit"
-                    },
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
-                    "small": {
-                        "w": 680,
-                        "h": 470,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1400
                     },
                     "medium": {
-                        "w": 1200,
                         "h": 829,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1200
+                    },
+                    "small": {
+                        "h": 470,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": null
+                "type": "photo",
+                "url": "https://t.co/6xge7W46tb"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 1,
+    "favorited": false,
+    "full_text": "The Treaty of Ghent, ending the War of 1812, was negotiated by SecState Adams: https://t.co/I3zUSHzhMB https://t.co/6xge7W46tb",
+    "geo": null,
+    "id": 810168223408803840,
+    "id_str": "810168223408803844",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 1,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

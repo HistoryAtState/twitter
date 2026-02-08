@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Wed Apr 02 14:00:24 +0000 2014",
-    "id": 451358488308903940,
-    "id_str": "451358488308903937",
-    "full_text": "Interested in how the Office is transitioning to a digital publishing model? Visit us at #SHFG2014. http://t.co/77hxJw1x04  #twitterstorians",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,53 +9,55 @@
     "entities": {
         "hashtags": [
             {
-                "text": "SHFG2014",
                 "indices": [
                     89,
                     98
-                ]
+                ],
+                "text": "SHFG2014"
             },
             {
-                "text": "twitterstorians",
                 "indices": [
                     124,
                     140
-                ]
+                ],
+                "text": "twitterstorians"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/77hxJw1x04",
-                "expanded_url": "http://bit.ly/1khbSpX",
                 "display_url": "bit.ly/1khbSpX",
+                "expanded_url": "http://bit.ly/1khbSpX",
                 "indices": [
                     100,
                     122
-                ]
+                ],
+                "url": "http://t.co/77hxJw1x04"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "Interested in how the Office is transitioning to a digital publishing model? Visit us at #SHFG2014. http://t.co/77hxJw1x04  #twitterstorians",
+    "geo": null,
+    "id": 451358488308903940,
+    "id_str": "451358488308903937",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

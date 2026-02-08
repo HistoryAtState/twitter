@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Jun 15 21:00:15 +0000 2017",
-    "id": 875457953058488320,
-    "id_str": "875457953058488320",
-    "full_text": "16 newly-digitized #FRUS volumes on events in 1919 now available: https://t.co/GnsAD0ZzWz https://t.co/rIsFIx1gOT",
-    "truncated": false,
     "display_text_range": [
         0,
         89
@@ -11,28 +9,17 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     19,
                     24
-                ]
-            }
-        ],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
-            {
-                "url": "https://t.co/GnsAD0ZzWz",
-                "expanded_url": "https://history.state.gov/historicaldocuments/quarterly-releases/2017-q2",
-                "display_url": "history.state.gov/historicaldocu…",
-                "indices": [
-                    66,
-                    89
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "media": [
             {
+                "display_url": "pic.twitter.com/rIsFIx1gOT",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/875457953058488320/photo/1",
                 "id": 875457950453833730,
                 "id_str": "875457950453833729",
                 "indices": [
@@ -41,38 +28,52 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/DCZAXhiXoAEfzWd.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DCZAXhiXoAEfzWd.jpg",
-                "url": "https://t.co/rIsFIx1gOT",
-                "display_url": "pic.twitter.com/rIsFIx1gOT",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/875457953058488320/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
                     "large": {
-                        "w": 400,
                         "h": 600,
-                        "resize": "fit"
-                    },
-                    "small": {
-                        "w": 400,
-                        "h": 600,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 400
                     },
                     "medium": {
-                        "w": 400,
                         "h": 600,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 400
+                    },
+                    "small": {
+                        "h": 600,
+                        "resize": "fit",
+                        "w": 400
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/rIsFIx1gOT"
             }
-        ]
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "history.state.gov/historicaldocu…",
+                "expanded_url": "https://history.state.gov/historicaldocuments/quarterly-releases/2017-q2",
+                "indices": [
+                    66,
+                    89
+                ],
+                "url": "https://t.co/GnsAD0ZzWz"
+            }
+        ],
+        "user_mentions": []
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/rIsFIx1gOT",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/875457953058488320/photo/1",
+                "ext_alt_text": null,
                 "id": 875457950453833730,
                 "id_str": "875457950453833729",
                 "indices": [
@@ -81,55 +82,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/DCZAXhiXoAEfzWd.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DCZAXhiXoAEfzWd.jpg",
-                "url": "https://t.co/rIsFIx1gOT",
-                "display_url": "pic.twitter.com/rIsFIx1gOT",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/875457953058488320/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
                     "large": {
-                        "w": 400,
                         "h": 600,
-                        "resize": "fit"
-                    },
-                    "small": {
-                        "w": 400,
-                        "h": 600,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 400
                     },
                     "medium": {
-                        "w": 400,
                         "h": 600,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 400
+                    },
+                    "small": {
+                        "h": 600,
+                        "resize": "fit",
+                        "w": 400
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": null
+                "type": "photo",
+                "url": "https://t.co/rIsFIx1gOT"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 8,
+    "favorited": false,
+    "full_text": "16 newly-digitized #FRUS volumes on events in 1919 now available: https://t.co/GnsAD0ZzWz https://t.co/rIsFIx1gOT",
+    "geo": null,
+    "id": 875457953058488320,
+    "id_str": "875457953058488320",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 8,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 8,
-    "favorite_count": 8,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

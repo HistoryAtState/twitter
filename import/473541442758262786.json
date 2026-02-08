@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Jun 02 19:07:32 +0000 2014",
-    "id": 473541442758262780,
-    "id_str": "473541442758262786",
-    "full_text": "RT @vsfsAtState: Want to be a technical editor for @HistoryAtState? Apply for VSFS July 2-22! #VSFSProjectSpotlight #eInternship http://t.c…",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,65 +9,65 @@
     "entities": {
         "hashtags": [
             {
-                "text": "VSFSProjectSpotlight",
                 "indices": [
                     94,
                     115
-                ]
+                ],
+                "text": "VSFSProjectSpotlight"
             },
             {
-                "text": "eInternship",
                 "indices": [
                     116,
                     128
-                ]
+                ],
+                "text": "eInternship"
             }
         ],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "VSFSatState",
-                "name": "Virtual Student Federal Service",
                 "id": 169927909,
                 "id_str": "169927909",
                 "indices": [
                     3,
                     15
-                ]
+                ],
+                "name": "Virtual Student Federal Service",
+                "screen_name": "VSFSatState"
             },
             {
-                "screen_name": "HistoryAtState",
-                "name": "HistoryAtState",
                 "id": 586570880,
                 "id_str": "586570880",
                 "indices": [
                     51,
                     66
-                ]
+                ],
+                "name": "HistoryAtState",
+                "screen_name": "HistoryAtState"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "RT @vsfsAtState: Want to be a technical editor for @HistoryAtState? Apply for VSFS July 2-22! #VSFSProjectSpotlight #eInternship http://t.c…",
+    "geo": null,
+    "id": 473541442758262780,
+    "id_str": "473541442758262786",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "retweet_count": 4,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Mon Jun 02 18:13:05 +0000 2014",
-        "id": 473527740189380610,
-        "id_str": "473527740189380608",
-        "full_text": "Want to be a technical editor for @HistoryAtState? Apply for VSFS July 2-22! #VSFSProjectSpotlight #eInternship http://t.co/HsZsxb3BGo",
-        "truncated": false,
         "display_text_range": [
             0,
             134
@@ -77,36 +75,24 @@
         "entities": {
             "hashtags": [
                 {
-                    "text": "VSFSProjectSpotlight",
                     "indices": [
                         77,
                         98
-                    ]
+                    ],
+                    "text": "VSFSProjectSpotlight"
                 },
                 {
-                    "text": "eInternship",
                     "indices": [
                         99,
                         111
-                    ]
+                    ],
+                    "text": "eInternship"
                 }
             ],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "HistoryAtState",
-                    "name": "HistoryAtState",
-                    "id": 586570880,
-                    "id_str": "586570880",
-                    "indices": [
-                        34,
-                        49
-                    ]
-                }
-            ],
-            "urls": [],
             "media": [
                 {
+                    "display_url": "pic.twitter.com/HsZsxb3BGo",
+                    "expanded_url": "https://twitter.com/vsfsAtState/status/473527740189380608/photo/1",
                     "id": 473527740013232130,
                     "id_str": "473527740013232130",
                     "indices": [
@@ -115,38 +101,53 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/BpJO-H7IQAICuWU.png",
                     "media_url_https": "https://pbs.twimg.com/media/BpJO-H7IQAICuWU.png",
-                    "url": "http://t.co/HsZsxb3BGo",
-                    "display_url": "pic.twitter.com/HsZsxb3BGo",
-                    "expanded_url": "https://twitter.com/vsfsAtState/status/473527740189380608/photo/1",
-                    "type": "photo",
                     "sizes": {
-                        "small": {
-                            "w": 500,
-                            "h": 500,
-                            "resize": "fit"
-                        },
                         "large": {
-                            "w": 500,
                             "h": 500,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 500
                         },
                         "medium": {
-                            "w": 500,
                             "h": 500,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 500
+                        },
+                        "small": {
+                            "h": 500,
+                            "resize": "fit",
+                            "w": 500
                         },
                         "thumb": {
-                            "w": 150,
                             "h": 150,
-                            "resize": "crop"
+                            "resize": "crop",
+                            "w": 150
                         }
-                    }
+                    },
+                    "type": "photo",
+                    "url": "http://t.co/HsZsxb3BGo"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 586570880,
+                    "id_str": "586570880",
+                    "indices": [
+                        34,
+                        49
+                    ],
+                    "name": "HistoryAtState",
+                    "screen_name": "HistoryAtState"
                 }
             ]
         },
         "extended_entities": {
             "media": [
                 {
+                    "display_url": "pic.twitter.com/HsZsxb3BGo",
+                    "expanded_url": "https://twitter.com/vsfsAtState/status/473527740189380608/photo/1",
+                    "ext_alt_text": null,
                     "id": 473527740013232130,
                     "id_str": "473527740013232130",
                     "indices": [
@@ -155,62 +156,61 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/BpJO-H7IQAICuWU.png",
                     "media_url_https": "https://pbs.twimg.com/media/BpJO-H7IQAICuWU.png",
-                    "url": "http://t.co/HsZsxb3BGo",
-                    "display_url": "pic.twitter.com/HsZsxb3BGo",
-                    "expanded_url": "https://twitter.com/vsfsAtState/status/473527740189380608/photo/1",
-                    "type": "photo",
                     "sizes": {
-                        "small": {
-                            "w": 500,
-                            "h": 500,
-                            "resize": "fit"
-                        },
                         "large": {
-                            "w": 500,
                             "h": 500,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 500
                         },
                         "medium": {
-                            "w": 500,
                             "h": 500,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 500
+                        },
+                        "small": {
+                            "h": 500,
+                            "resize": "fit",
+                            "w": 500
                         },
                         "thumb": {
-                            "w": 150,
                             "h": 150,
-                            "resize": "crop"
+                            "resize": "crop",
+                            "w": 150
                         }
                     },
-                    "ext_alt_text": null
+                    "type": "photo",
+                    "url": "http://t.co/HsZsxb3BGo"
                 }
             ]
         },
-        "source": "&lt;a href=\"http://measuredvoice.com/\" rel=\"nofollow\"&gt;Measured Voice&lt;/a&gt;",
+        "favorite_count": 1,
+        "favorited": false,
+        "full_text": "Want to be a technical editor for @HistoryAtState? Apply for VSFS July 2-22! #VSFSProjectSpotlight #eInternship http://t.co/HsZsxb3BGo",
+        "geo": null,
+        "id": 473527740189380610,
+        "id_str": "473527740189380608",
+        "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 4,
+        "retweeted": true,
+        "source": "&lt;a href=\"http://measuredvoice.com/\" rel=\"nofollow\"&gt;Measured Voice&lt;/a&gt;",
+        "truncated": false,
         "user": {
             "id": 169927909,
             "id_str": "169927909"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 4,
-        "favorite_count": 1,
-        "favorited": false,
-        "retweeted": true,
-        "possibly_sensitive": false,
-        "lang": "en"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": true,
-    "lang": "en"
+    "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

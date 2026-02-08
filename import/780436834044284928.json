@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Sep 26 16:00:15 +0000 2016",
-    "id": 780436834044284930,
-    "id_str": "780436834044284928",
-    "full_text": "RT @usembvienna: In eigener geschichtl. Sache :-) : Am 26.9.1789 wurde #ThomasJefferson zum 1. US-Außenmin. ernannt: https://t.co/eGi5W3KQ9…",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,48 +9,48 @@
     "entities": {
         "hashtags": [
             {
-                "text": "ThomasJefferson",
                 "indices": [
                     71,
                     87
-                ]
+                ],
+                "text": "ThomasJefferson"
             }
         ],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "usembvienna",
-                "name": "U.S. Embassy Vienna",
                 "id": 86029229,
                 "id_str": "86029229",
                 "indices": [
                     3,
                     15
-                ]
+                ],
+                "name": "U.S. Embassy Vienna",
+                "screen_name": "usembvienna"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "RT @usembvienna: In eigener geschichtl. Sache :-) : Am 26.9.1789 wurde #ThomasJefferson zum 1. US-Außenmin. ernannt: https://t.co/eGi5W3KQ9…",
+    "geo": null,
+    "id": 780436834044284930,
+    "id_str": "780436834044284928",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "de",
     "place": null,
-    "contributors": null,
+    "retweet_count": 3,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Mon Sep 26 13:26:02 +0000 2016",
-        "id": 780398022500945920,
-        "id_str": "780398022500945920",
-        "full_text": "In eigener geschichtl. Sache :-) : Am 26.9.1789 wurde #ThomasJefferson zum 1. US-Außenmin. ernannt: https://t.co/eGi5W3KQ9q @HistoryAtState https://t.co/16NBc90JtY",
-        "truncated": false,
         "display_text_range": [
             0,
             139
@@ -60,39 +58,17 @@
         "entities": {
             "hashtags": [
                 {
-                    "text": "ThomasJefferson",
                     "indices": [
                         54,
                         70
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "HistoryAtState",
-                    "name": "HistoryAtState",
-                    "id": 586570880,
-                    "id_str": "586570880",
-                    "indices": [
-                        124,
-                        139
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "https://t.co/eGi5W3KQ9q",
-                    "expanded_url": "http://1.usa.gov/o11AKb",
-                    "display_url": "1.usa.gov/o11AKb",
-                    "indices": [
-                        100,
-                        123
-                    ]
+                    ],
+                    "text": "ThomasJefferson"
                 }
             ],
             "media": [
                 {
+                    "display_url": "pic.twitter.com/16NBc90JtY",
+                    "expanded_url": "https://twitter.com/usembvienna/status/780398022500945920/photo/1",
                     "id": 780398020097630210,
                     "id_str": "780398020097630208",
                     "indices": [
@@ -101,38 +77,63 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/CtSH3VNWYAAnj8i.jpg",
                     "media_url_https": "https://pbs.twimg.com/media/CtSH3VNWYAAnj8i.jpg",
-                    "url": "https://t.co/16NBc90JtY",
-                    "display_url": "pic.twitter.com/16NBc90JtY",
-                    "expanded_url": "https://twitter.com/usembvienna/status/780398022500945920/photo/1",
-                    "type": "photo",
                     "sizes": {
-                        "small": {
-                            "w": 680,
-                            "h": 340,
-                            "resize": "fit"
-                        },
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
-                        },
                         "large": {
-                            "w": 960,
                             "h": 480,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 960
                         },
                         "medium": {
-                            "w": 960,
                             "h": 480,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 960
+                        },
+                        "small": {
+                            "h": 340,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
                         }
-                    }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/16NBc90JtY"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "1.usa.gov/o11AKb",
+                    "expanded_url": "http://1.usa.gov/o11AKb",
+                    "indices": [
+                        100,
+                        123
+                    ],
+                    "url": "https://t.co/eGi5W3KQ9q"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 586570880,
+                    "id_str": "586570880",
+                    "indices": [
+                        124,
+                        139
+                    ],
+                    "name": "HistoryAtState",
+                    "screen_name": "HistoryAtState"
                 }
             ]
         },
         "extended_entities": {
             "media": [
                 {
+                    "display_url": "pic.twitter.com/16NBc90JtY",
+                    "expanded_url": "https://twitter.com/usembvienna/status/780398022500945920/photo/1",
+                    "ext_alt_text": null,
                     "id": 780398020097630210,
                     "id_str": "780398020097630208",
                     "indices": [
@@ -141,62 +142,61 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/CtSH3VNWYAAnj8i.jpg",
                     "media_url_https": "https://pbs.twimg.com/media/CtSH3VNWYAAnj8i.jpg",
-                    "url": "https://t.co/16NBc90JtY",
-                    "display_url": "pic.twitter.com/16NBc90JtY",
-                    "expanded_url": "https://twitter.com/usembvienna/status/780398022500945920/photo/1",
-                    "type": "photo",
                     "sizes": {
-                        "small": {
-                            "w": 680,
-                            "h": 340,
-                            "resize": "fit"
-                        },
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
-                        },
                         "large": {
-                            "w": 960,
                             "h": 480,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 960
                         },
                         "medium": {
-                            "w": 960,
                             "h": 480,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 960
+                        },
+                        "small": {
+                            "h": 340,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
                         }
                     },
-                    "ext_alt_text": null
+                    "type": "photo",
+                    "url": "https://t.co/16NBc90JtY"
                 }
             ]
         },
-        "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+        "favorite_count": 0,
+        "favorited": false,
+        "full_text": "In eigener geschichtl. Sache :-) : Am 26.9.1789 wurde #ThomasJefferson zum 1. US-Außenmin. ernannt: https://t.co/eGi5W3KQ9q @HistoryAtState https://t.co/16NBc90JtY",
+        "geo": null,
+        "id": 780398022500945920,
+        "id_str": "780398022500945920",
+        "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "lang": "de",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 3,
+        "retweeted": true,
+        "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+        "truncated": false,
         "user": {
             "id": 86029229,
             "id_str": "86029229"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 3,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": true,
-        "possibly_sensitive": false,
-        "lang": "de"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": true,
-    "lang": "de"
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

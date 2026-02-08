@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Jun 05 13:05:10 +0000 2018",
-    "id": 1003986086182424580,
-    "id_str": "1003986086182424578",
-    "full_text": "Now available: Foreign Relations, 1883, Transmitted to Congress, With the Annual Message of the President, December 4, 1883 https://t.co/WPPNjskRf7 #FRUS",
-    "truncated": false,
     "display_text_range": [
         0,
         153
@@ -11,46 +9,48 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     148,
                     153
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "https://t.co/WPPNjskRf7",
-                "expanded_url": "https://history.state.gov/historicaldocuments/frus1883",
                 "display_url": "history.state.gov/historicaldocu…",
+                "expanded_url": "https://history.state.gov/historicaldocuments/frus1883",
                 "indices": [
                     124,
                     147
-                ]
+                ],
+                "url": "https://t.co/WPPNjskRf7"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 1,
+    "favorited": false,
+    "full_text": "Now available: Foreign Relations, 1883, Transmitted to Congress, With the Annual Message of the President, December 4, 1883 https://t.co/WPPNjskRf7 #FRUS",
+    "geo": null,
+    "id": 1003986086182424580,
+    "id_str": "1003986086182424578",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 1,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

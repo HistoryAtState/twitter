@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Mar 06 16:15:21 +0000 2018",
-    "id": 971056648746881020,
-    "id_str": "971056648746881024",
-    "full_text": "Now available: Foreign Relations, 1899, With the Annual Message of the President Transmitted to Congress December 5, 1899. https://t.co/peoNL1tHCD",
-    "truncated": false,
     "display_text_range": [
         0,
         146
@@ -11,38 +9,40 @@
     "entities": {
         "hashtags": [],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "https://t.co/peoNL1tHCD",
-                "expanded_url": "https://buff.ly/2oTlKQt",
                 "display_url": "buff.ly/2oTlKQt",
+                "expanded_url": "https://buff.ly/2oTlKQt",
                 "indices": [
                     123,
                     146
-                ]
+                ],
+                "url": "https://t.co/peoNL1tHCD"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"https://buffer.com\" rel=\"nofollow\"&gt;Buffer&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "Now available: Foreign Relations, 1899, With the Annual Message of the President Transmitted to Congress December 5, 1899. https://t.co/peoNL1tHCD",
+    "geo": null,
+    "id": 971056648746881020,
+    "id_str": "971056648746881024",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"https://buffer.com\" rel=\"nofollow\"&gt;Buffer&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

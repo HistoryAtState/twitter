@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Dec 20 16:00:48 +0000 2016",
-    "id": 811239940080148480,
-    "id_str": "811239940080148485",
-    "full_text": "Rapprochement and hostility with Cuba, explained: #FRUS, 1977-80, Vol. XXIII, #Mexico, #Cuba, and the #Caribbean, https://t.co/SM7r9Itd5t",
-    "truncated": false,
     "display_text_range": [
         0,
         137
@@ -11,67 +9,69 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     50,
                     55
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "Mexico",
                 "indices": [
                     78,
                     85
-                ]
+                ],
+                "text": "Mexico"
             },
             {
-                "text": "Cuba",
                 "indices": [
                     87,
                     92
-                ]
+                ],
+                "text": "Cuba"
             },
             {
-                "text": "Caribbean",
                 "indices": [
                     102,
                     112
-                ]
+                ],
+                "text": "Caribbean"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "https://t.co/SM7r9Itd5t",
-                "expanded_url": "https://history.state.gov/historicaldocuments/frus1977-80v23",
                 "display_url": "history.state.gov/historicaldocu…",
+                "expanded_url": "https://history.state.gov/historicaldocuments/frus1977-80v23",
                 "indices": [
                     114,
                     137
-                ]
+                ],
+                "url": "https://t.co/SM7r9Itd5t"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "Rapprochement and hostility with Cuba, explained: #FRUS, 1977-80, Vol. XXIII, #Mexico, #Cuba, and the #Caribbean, https://t.co/SM7r9Itd5t",
+    "geo": null,
+    "id": 811239940080148480,
+    "id_str": "811239940080148485",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

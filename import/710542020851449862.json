@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Mar 17 19:03:13 +0000 2016",
-    "id": 710542020851449860,
-    "id_str": "710542020851449862",
-    "full_text": "We’ll be talking about First Ladies at the @SHFGHistorians #ncph2016 panel at 3:30. Hope to see you there! #twitterstorians @FLOTUS",
-    "truncated": false,
     "display_text_range": [
         0,
         131
@@ -11,63 +9,65 @@
     "entities": {
         "hashtags": [
             {
-                "text": "ncph2016",
                 "indices": [
                     59,
                     68
-                ]
+                ],
+                "text": "ncph2016"
             },
             {
-                "text": "twitterstorians",
                 "indices": [
                     107,
                     123
-                ]
+                ],
+                "text": "twitterstorians"
             }
         ],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "SHFGHistorians",
-                "name": "SHFGHistorians",
                 "id": 486867266,
                 "id_str": "486867266",
                 "indices": [
                     43,
                     58
-                ]
+                ],
+                "name": "SHFGHistorians",
+                "screen_name": "SHFGHistorians"
             },
             {
-                "screen_name": "FLOTUS",
-                "name": "Jill Biden",
                 "id": 1349154719386775550,
                 "id_str": "1349154719386775552",
                 "indices": [
                     124,
                     131
-                ]
+                ],
+                "name": "Jill Biden",
+                "screen_name": "FLOTUS"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "We’ll be talking about First Ladies at the @SHFGHistorians #ncph2016 panel at 3:30. Hope to see you there! #twitterstorians @FLOTUS",
+    "geo": null,
+    "id": 710542020851449860,
+    "id_str": "710542020851449862",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "lang": "en"
+    }
 }

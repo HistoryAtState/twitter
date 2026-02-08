@@ -1,41 +1,17 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Feb 11 18:45:13 +0000 2021",
-    "id": 1359936543801151490,
-    "id_str": "1359936543801151497",
-    "full_text": "Moscow, April 1987: Soviet Chairman of the Council of Ministers Ryzhkov noted that Sec. Shultz “was a well-known economist,” holding a Ph.D. in Industrial Economics from @MIT. Shultz and Ryzhkov then discussed the global economy and other bilateral issues:\nhttps://t.co/dOAfagcotk https://t.co/Eypuxi5kiT",
-    "truncated": false,
     "display_text_range": [
         0,
         280
     ],
     "entities": {
         "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-            {
-                "screen_name": "MIT",
-                "name": "Massachusetts Institute of Technology (MIT)",
-                "id": 15460048,
-                "id_str": "15460048",
-                "indices": [
-                    170,
-                    174
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "https://t.co/dOAfagcotk",
-                "expanded_url": "https://history.state.gov/historicaldocuments/frus1981-88v06/d41",
-                "display_url": "history.state.gov/historicaldocu…",
-                "indices": [
-                    257,
-                    280
-                ]
-            }
-        ],
         "media": [
             {
+                "display_url": "pic.twitter.com/Eypuxi5kiT",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1359936543801151497/photo/1",
                 "id": 1359936542190559230,
                 "id_str": "1359936542190559236",
                 "indices": [
@@ -44,38 +20,63 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/Et93FHJXYAQe0nB.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/Et93FHJXYAQe0nB.jpg",
-                "url": "https://t.co/Eypuxi5kiT",
-                "display_url": "pic.twitter.com/Eypuxi5kiT",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1359936543801151497/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
                     "large": {
-                        "w": 1116,
                         "h": 492,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1116
                     },
                     "medium": {
-                        "w": 1116,
                         "h": 492,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1116
                     },
                     "small": {
-                        "w": 680,
                         "h": 300,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/Eypuxi5kiT"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "history.state.gov/historicaldocu…",
+                "expanded_url": "https://history.state.gov/historicaldocuments/frus1981-88v06/d41",
+                "indices": [
+                    257,
+                    280
+                ],
+                "url": "https://t.co/dOAfagcotk"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 15460048,
+                "id_str": "15460048",
+                "indices": [
+                    170,
+                    174
+                ],
+                "name": "Massachusetts Institute of Technology (MIT)",
+                "screen_name": "MIT"
             }
         ]
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/Eypuxi5kiT",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1359936543801151497/photo/1",
+                "ext_alt_text": "Screenshot of an excerpt from “41. Memorandum of Conversation,” dated April 14, 1987 with the subject line “Secretary’s Meeting with Chairman of the Council of Ministers Ryzhkov…” Ryzhkov remarked, Shultz “was a well-known economist, a doctor of economic sciences who had considerable practical experience in economic affairs” and proposed “they exchange views, in particular regarding global economic matters”",
                 "id": 1359936542190559230,
                 "id_str": "1359936542190559236",
                 "indices": [
@@ -84,55 +85,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/Et93FHJXYAQe0nB.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/Et93FHJXYAQe0nB.jpg",
-                "url": "https://t.co/Eypuxi5kiT",
-                "display_url": "pic.twitter.com/Eypuxi5kiT",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1359936543801151497/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
                     "large": {
-                        "w": 1116,
                         "h": 492,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1116
                     },
                     "medium": {
-                        "w": 1116,
                         "h": 492,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1116
                     },
                     "small": {
-                        "w": 680,
                         "h": 300,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": "Screenshot of an excerpt from “41. Memorandum of Conversation,” dated April 14, 1987 with the subject line “Secretary’s Meeting with Chairman of the Council of Ministers Ryzhkov…” Ryzhkov remarked, Shultz “was a well-known economist, a doctor of economic sciences who had considerable practical experience in economic affairs” and proposed “they exchange views, in particular regarding global economic matters”"
+                "type": "photo",
+                "url": "https://t.co/Eypuxi5kiT"
             }
         ]
     },
-    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "favorite_count": 3,
+    "favorited": false,
+    "full_text": "Moscow, April 1987: Soviet Chairman of the Council of Ministers Ryzhkov noted that Sec. Shultz “was a well-known economist,” holding a Ph.D. in Industrial Economics from @MIT. Shultz and Ryzhkov then discussed the global economy and other bilateral issues:\nhttps://t.co/dOAfagcotk https://t.co/Eypuxi5kiT",
+    "geo": null,
+    "id": 1359936543801151490,
+    "id_str": "1359936543801151497",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 3,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

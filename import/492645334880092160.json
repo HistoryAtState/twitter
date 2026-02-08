@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Fri Jul 25 12:19:35 +0000 2014",
-    "id": 492645334880092160,
-    "id_str": "492645334880092160",
-    "full_text": "Read Amb. Gerard’s description of the presentation of his credentials in Berlin 1913 @usbotschaft #WW1Tweet http://t.co/3XF8QDW63M",
-    "truncated": false,
     "display_text_range": [
         0,
         130
@@ -11,57 +9,59 @@
     "entities": {
         "hashtags": [
             {
-                "text": "WW1Tweet",
                 "indices": [
                     98,
                     107
-                ]
+                ],
+                "text": "WW1Tweet"
             }
         ],
         "symbols": [],
+        "urls": [
+            {
+                "display_url": "ow.ly/zzDSJ",
+                "expanded_url": "http://ow.ly/zzDSJ",
+                "indices": [
+                    108,
+                    130
+                ],
+                "url": "http://t.co/3XF8QDW63M"
+            }
+        ],
         "user_mentions": [
             {
-                "screen_name": "usbotschaft",
-                "name": "US-Botschaft Berlin",
                 "id": 50965086,
                 "id_str": "50965086",
                 "indices": [
                     85,
                     97
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "http://t.co/3XF8QDW63M",
-                "expanded_url": "http://ow.ly/zzDSJ",
-                "display_url": "ow.ly/zzDSJ",
-                "indices": [
-                    108,
-                    130
-                ]
+                ],
+                "name": "US-Botschaft Berlin",
+                "screen_name": "usbotschaft"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "Read Amb. Gerard’s description of the presentation of his credentials in Berlin 1913 @usbotschaft #WW1Tweet http://t.co/3XF8QDW63M",
+    "geo": null,
+    "id": 492645334880092160,
+    "id_str": "492645334880092160",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

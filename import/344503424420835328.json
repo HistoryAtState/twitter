@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Jun 11 17:16:31 +0000 2013",
-    "id": 344503424420835330,
-    "id_str": "344503424420835328",
-    "full_text": "In 1875 the Dept of State moved into a new home at 17th St &amp;amp; Pennsylvania Ave - adjacent to the White House http://t.co/fYOjeB50bJ",
-    "truncated": false,
     "display_text_range": [
         0,
         134
@@ -11,38 +9,40 @@
     "entities": {
         "hashtags": [],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/fYOjeB50bJ",
-                "expanded_url": "http://go.usa.gov/bc83",
                 "display_url": "go.usa.gov/bc83",
+                "expanded_url": "http://go.usa.gov/bc83",
                 "indices": [
                     112,
                     134
-                ]
+                ],
+                "url": "http://t.co/fYOjeB50bJ"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "In 1875 the Dept of State moved into a new home at 17th St &amp;amp; Pennsylvania Ave - adjacent to the White House http://t.co/fYOjeB50bJ",
+    "geo": null,
+    "id": 344503424420835330,
+    "id_str": "344503424420835328",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

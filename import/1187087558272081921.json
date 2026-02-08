@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Wed Oct 23 19:25:03 +0000 2019",
-    "id": 1187087558272081920,
-    "id_str": "1187087558272081921",
-    "full_text": "How did President Nixon’s foreign policy advisers view the Middle East on the eve of the 1973 war? See https://t.co/oqJQ5SKI98 #FRUS @NixonLibrary",
-    "truncated": false,
     "display_text_range": [
         0,
         146
@@ -11,57 +9,59 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     127,
                     132
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "symbols": [],
+        "urls": [
+            {
+                "display_url": "history.state.gov/historicaldocu…",
+                "expanded_url": "https://history.state.gov/historicaldocuments/frus1969-76ve09p2/d13",
+                "indices": [
+                    103,
+                    126
+                ],
+                "url": "https://t.co/oqJQ5SKI98"
+            }
+        ],
         "user_mentions": [
             {
-                "screen_name": "NixonLibrary",
-                "name": "RichardNixonLibrary",
                 "id": 4276158575,
                 "id_str": "4276158575",
                 "indices": [
                     133,
                     146
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "https://t.co/oqJQ5SKI98",
-                "expanded_url": "https://history.state.gov/historicaldocuments/frus1969-76ve09p2/d13",
-                "display_url": "history.state.gov/historicaldocu…",
-                "indices": [
-                    103,
-                    126
-                ]
+                ],
+                "name": "RichardNixonLibrary",
+                "screen_name": "NixonLibrary"
             }
         ]
     },
-    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "How did President Nixon’s foreign policy advisers view the Middle East on the eve of the 1973 war? See https://t.co/oqJQ5SKI98 #FRUS @NixonLibrary",
+    "geo": null,
+    "id": 1187087558272081920,
+    "id_str": "1187087558272081921",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Fri Apr 17 16:13:27 +0000 2015",
-    "id": 589099361843437570,
-    "id_str": "589099361843437569",
-    "full_text": "RT @icedd_org: Amb. Sérgio Eduardo Moreira Lima, pres. @FunagBrasil gives self-intro to #icedd2015 next to @HistoryAtState Randolph http://…",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,68 +9,68 @@
     "entities": {
         "hashtags": [
             {
-                "text": "icedd2015",
                 "indices": [
                     88,
                     98
-                ]
+                ],
+                "text": "icedd2015"
             }
         ],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "icedd_org",
-                "name": "ICEDD",
                 "id": 3131310616,
                 "id_str": "3131310616",
                 "indices": [
                     3,
                     13
-                ]
+                ],
+                "name": "ICEDD",
+                "screen_name": "icedd_org"
             },
             {
-                "screen_name": "funagbrasil",
-                "name": "Fundação Alexandre de Gusmão",
                 "id": 618159340,
                 "id_str": "618159340",
                 "indices": [
                     55,
                     67
-                ]
+                ],
+                "name": "Fundação Alexandre de Gusmão",
+                "screen_name": "funagbrasil"
             },
             {
-                "screen_name": "HistoryAtState",
-                "name": "HistoryAtState",
                 "id": 586570880,
                 "id_str": "586570880",
                 "indices": [
                     107,
                     122
-                ]
+                ],
+                "name": "HistoryAtState",
+                "screen_name": "HistoryAtState"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"&gt;Twitter for iPad&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "RT @icedd_org: Amb. Sérgio Eduardo Moreira Lima, pres. @FunagBrasil gives self-intro to #icedd2015 next to @HistoryAtState Randolph http://…",
+    "geo": null,
+    "id": 589099361843437570,
+    "id_str": "589099361843437569",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "pt",
     "place": null,
-    "contributors": null,
+    "retweet_count": 1,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Fri Apr 17 15:36:55 +0000 2015",
-        "id": 589090166654033920,
-        "id_str": "589090166654033920",
-        "full_text": "Amb. Sérgio Eduardo Moreira Lima, pres. @FunagBrasil gives self-intro to #icedd2015 next to @HistoryAtState Randolph http://t.co/tJyMvM7IJN",
-        "truncated": false,
         "display_text_range": [
             0,
             139
@@ -80,39 +78,17 @@
         "entities": {
             "hashtags": [
                 {
-                    "text": "icedd2015",
                     "indices": [
                         73,
                         83
-                    ]
+                    ],
+                    "text": "icedd2015"
                 }
             ],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "funagbrasil",
-                    "name": "Fundação Alexandre de Gusmão",
-                    "id": 618159340,
-                    "id_str": "618159340",
-                    "indices": [
-                        40,
-                        52
-                    ]
-                },
-                {
-                    "screen_name": "HistoryAtState",
-                    "name": "HistoryAtState",
-                    "id": 586570880,
-                    "id_str": "586570880",
-                    "indices": [
-                        92,
-                        107
-                    ]
-                }
-            ],
-            "urls": [],
             "media": [
                 {
+                    "display_url": "pic.twitter.com/tJyMvM7IJN",
+                    "expanded_url": "https://twitter.com/icedd_org/status/589090166654033920/photo/1",
                     "id": 589089698422902780,
                     "id_str": "589089698422902784",
                     "indices": [
@@ -121,38 +97,63 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/CCzd9adW0AAYI0z.jpg",
                     "media_url_https": "https://pbs.twimg.com/media/CCzd9adW0AAYI0z.jpg",
-                    "url": "http://t.co/tJyMvM7IJN",
-                    "display_url": "pic.twitter.com/tJyMvM7IJN",
-                    "expanded_url": "https://twitter.com/icedd_org/status/589090166654033920/photo/1",
-                    "type": "photo",
                     "sizes": {
-                        "medium": {
-                            "w": 1200,
-                            "h": 858,
-                            "resize": "fit"
-                        },
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
-                        },
                         "large": {
-                            "w": 2048,
                             "h": 1464,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 2048
+                        },
+                        "medium": {
+                            "h": 858,
+                            "resize": "fit",
+                            "w": 1200
                         },
                         "small": {
-                            "w": 680,
                             "h": 486,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
                         }
-                    }
+                    },
+                    "type": "photo",
+                    "url": "http://t.co/tJyMvM7IJN"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 618159340,
+                    "id_str": "618159340",
+                    "indices": [
+                        40,
+                        52
+                    ],
+                    "name": "Fundação Alexandre de Gusmão",
+                    "screen_name": "funagbrasil"
+                },
+                {
+                    "id": 586570880,
+                    "id_str": "586570880",
+                    "indices": [
+                        92,
+                        107
+                    ],
+                    "name": "HistoryAtState",
+                    "screen_name": "HistoryAtState"
                 }
             ]
         },
         "extended_entities": {
             "media": [
                 {
+                    "display_url": "pic.twitter.com/tJyMvM7IJN",
+                    "expanded_url": "https://twitter.com/icedd_org/status/589090166654033920/photo/1",
+                    "ext_alt_text": null,
                     "id": 589089698422902780,
                     "id_str": "589089698422902784",
                     "indices": [
@@ -161,62 +162,61 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/CCzd9adW0AAYI0z.jpg",
                     "media_url_https": "https://pbs.twimg.com/media/CCzd9adW0AAYI0z.jpg",
-                    "url": "http://t.co/tJyMvM7IJN",
-                    "display_url": "pic.twitter.com/tJyMvM7IJN",
-                    "expanded_url": "https://twitter.com/icedd_org/status/589090166654033920/photo/1",
-                    "type": "photo",
                     "sizes": {
-                        "medium": {
-                            "w": 1200,
-                            "h": 858,
-                            "resize": "fit"
-                        },
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
-                        },
                         "large": {
-                            "w": 2048,
                             "h": 1464,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 2048
+                        },
+                        "medium": {
+                            "h": 858,
+                            "resize": "fit",
+                            "w": 1200
                         },
                         "small": {
-                            "w": 680,
                             "h": 486,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
                         }
                     },
-                    "ext_alt_text": null
+                    "type": "photo",
+                    "url": "http://t.co/tJyMvM7IJN"
                 }
             ]
         },
-        "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
+        "favorite_count": 1,
+        "favorited": false,
+        "full_text": "Amb. Sérgio Eduardo Moreira Lima, pres. @FunagBrasil gives self-intro to #icedd2015 next to @HistoryAtState Randolph http://t.co/tJyMvM7IJN",
+        "geo": null,
+        "id": 589090166654033920,
+        "id_str": "589090166654033920",
+        "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "lang": "pt",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 1,
+        "retweeted": true,
+        "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
+        "truncated": false,
         "user": {
             "id": 3131310616,
             "id_str": "3131310616"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 1,
-        "favorite_count": 1,
-        "favorited": false,
-        "retweeted": true,
-        "possibly_sensitive": false,
-        "lang": "pt"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": true,
-    "lang": "pt"
+    "source": "&lt;a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"&gt;Twitter for iPad&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

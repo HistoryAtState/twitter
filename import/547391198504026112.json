@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Dec 23 14:00:06 +0000 2014",
-    "id": 547391198504026110,
-    "id_str": "547391198504026112",
-    "full_text": "How did other late-1970s foreign-policy crises influence the Carter admin’s handling of the peace process?  http://t.co/PCkfqE76dn #FRUS",
-    "truncated": false,
     "display_text_range": [
         0,
         136
@@ -11,46 +9,48 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     131,
                     136
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/PCkfqE76dn",
-                "expanded_url": "http://go.usa.gov/FT6z",
                 "display_url": "go.usa.gov/FT6z",
+                "expanded_url": "http://go.usa.gov/FT6z",
                 "indices": [
                     108,
                     130
-                ]
+                ],
+                "url": "http://t.co/PCkfqE76dn"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "How did other late-1970s foreign-policy crises influence the Carter admin’s handling of the peace process?  http://t.co/PCkfqE76dn #FRUS",
+    "geo": null,
+    "id": 547391198504026110,
+    "id_str": "547391198504026112",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

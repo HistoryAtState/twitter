@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Apr 13 12:42:40 +0000 2015",
-    "id": 587596766528188420,
-    "id_str": "587596766528188417",
-    "full_text": "Proud to co-host #icedd2015 with the Historical Section of @Canada_Trade this week: http://t.co/UlSDu3ywTg @icedd_org #twitterstorians",
-    "truncated": false,
     "display_text_range": [
         0,
         134
@@ -11,74 +9,76 @@
     "entities": {
         "hashtags": [
             {
-                "text": "icedd2015",
                 "indices": [
                     17,
                     27
-                ]
+                ],
+                "text": "icedd2015"
             },
             {
-                "text": "twitterstorians",
                 "indices": [
                     118,
                     134
-                ]
+                ],
+                "text": "twitterstorians"
             }
         ],
         "symbols": [],
+        "urls": [
+            {
+                "display_url": "diplomatic-documents.org/washington-2015",
+                "expanded_url": "http://diplomatic-documents.org/washington-2015",
+                "indices": [
+                    84,
+                    106
+                ],
+                "url": "http://t.co/UlSDu3ywTg"
+            }
+        ],
         "user_mentions": [
             {
-                "screen_name": "Canada_Trade",
-                "name": "Canada Trade",
                 "id": 3149266733,
                 "id_str": "3149266733",
                 "indices": [
                     59,
                     72
-                ]
+                ],
+                "name": "Canada Trade",
+                "screen_name": "Canada_Trade"
             },
             {
-                "screen_name": "icedd_org",
-                "name": "ICEDD",
                 "id": 3131310616,
                 "id_str": "3131310616",
                 "indices": [
                     107,
                     117
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "http://t.co/UlSDu3ywTg",
-                "expanded_url": "http://diplomatic-documents.org/washington-2015",
-                "display_url": "diplomatic-documents.org/washington-2015",
-                "indices": [
-                    84,
-                    106
-                ]
+                ],
+                "name": "ICEDD",
+                "screen_name": "icedd_org"
             }
         ]
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 4,
+    "favorited": false,
+    "full_text": "Proud to co-host #icedd2015 with the Historical Section of @Canada_Trade this week: http://t.co/UlSDu3ywTg @icedd_org #twitterstorians",
+    "geo": null,
+    "id": 587596766528188420,
+    "id_str": "587596766528188417",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 4,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

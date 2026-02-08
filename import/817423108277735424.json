@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Fri Jan 06 17:30:30 +0000 2017",
-    "id": 817423108277735420,
-    "id_str": "817423108277735424",
-    "full_text": ".@StateDept Office of the Historian represents @AHAhistorians ! #FindFRUS #everythinghasahistory #aha2017 #twitterstorians https://t.co/kuuJMRevKC",
-    "truncated": false,
     "display_text_range": [
         0,
         122
@@ -11,60 +9,38 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FindFRUS",
                 "indices": [
                     64,
                     73
-                ]
+                ],
+                "text": "FindFRUS"
             },
             {
-                "text": "everythinghasahistory",
                 "indices": [
                     74,
                     96
-                ]
+                ],
+                "text": "everythinghasahistory"
             },
             {
-                "text": "aha2017",
                 "indices": [
                     97,
                     105
-                ]
+                ],
+                "text": "aha2017"
             },
             {
-                "text": "twitterstorians",
                 "indices": [
                     106,
                     122
-                ]
+                ],
+                "text": "twitterstorians"
             }
         ],
-        "symbols": [],
-        "user_mentions": [
-            {
-                "screen_name": "StateDept",
-                "name": "Department of State",
-                "id": 9624742,
-                "id_str": "9624742",
-                "indices": [
-                    1,
-                    11
-                ]
-            },
-            {
-                "screen_name": "AHAhistorians",
-                "name": "American Historical Association",
-                "id": 76944176,
-                "id_str": "76944176",
-                "indices": [
-                    47,
-                    61
-                ]
-            }
-        ],
-        "urls": [],
         "media": [
             {
+                "display_url": "pic.twitter.com/kuuJMRevKC",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/817423108277735424/photo/1",
                 "id": 817423105899433980,
                 "id_str": "817423105899433984",
                 "indices": [
@@ -73,38 +49,63 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/C1gR--JVEAAiMc_.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/C1gR--JVEAAiMc_.jpg",
-                "url": "https://t.co/kuuJMRevKC",
-                "display_url": "pic.twitter.com/kuuJMRevKC",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/817423108277735424/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
                     "large": {
-                        "w": 175,
                         "h": 232,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 175
                     },
                     "medium": {
-                        "w": 175,
                         "h": 232,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 175
                     },
                     "small": {
-                        "w": 175,
                         "h": 232,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 175
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/kuuJMRevKC"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 9624742,
+                "id_str": "9624742",
+                "indices": [
+                    1,
+                    11
+                ],
+                "name": "Department of State",
+                "screen_name": "StateDept"
+            },
+            {
+                "id": 76944176,
+                "id_str": "76944176",
+                "indices": [
+                    47,
+                    61
+                ],
+                "name": "American Historical Association",
+                "screen_name": "AHAhistorians"
             }
         ]
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/kuuJMRevKC",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/817423108277735424/photo/1",
+                "ext_alt_text": null,
                 "id": 817423105899433980,
                 "id_str": "817423105899433984",
                 "indices": [
@@ -113,55 +114,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/C1gR--JVEAAiMc_.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/C1gR--JVEAAiMc_.jpg",
-                "url": "https://t.co/kuuJMRevKC",
-                "display_url": "pic.twitter.com/kuuJMRevKC",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/817423108277735424/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
                     "large": {
-                        "w": 175,
                         "h": 232,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 175
                     },
                     "medium": {
-                        "w": 175,
                         "h": 232,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 175
                     },
                     "small": {
-                        "w": 175,
                         "h": 232,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 175
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": null
+                "type": "photo",
+                "url": "https://t.co/kuuJMRevKC"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 2,
+    "favorited": false,
+    "full_text": ".@StateDept Office of the Historian represents @AHAhistorians ! #FindFRUS #everythinghasahistory #aha2017 #twitterstorians https://t.co/kuuJMRevKC",
+    "geo": null,
+    "id": 817423108277735420,
+    "id_str": "817423108277735424",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 2,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

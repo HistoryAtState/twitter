@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Nov 21 13:01:24 +0000 2016",
-    "id": 800685545034752000,
-    "id_str": "800685545034752000",
-    "full_text": "How did the Carter administration seal the deal on the Panama Canal? https://t.co/M9mdIdF1CJ #FRUS #twitterstorians",
-    "truncated": false,
     "display_text_range": [
         0,
         115
@@ -11,53 +9,55 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     93,
                     98
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "twitterstorians",
                 "indices": [
                     99,
                     115
-                ]
+                ],
+                "text": "twitterstorians"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "https://t.co/M9mdIdF1CJ",
-                "expanded_url": "http://go.usa.gov/xkQPQ",
                 "display_url": "go.usa.gov/xkQPQ",
+                "expanded_url": "http://go.usa.gov/xkQPQ",
                 "indices": [
                     69,
                     92
-                ]
+                ],
+                "url": "https://t.co/M9mdIdF1CJ"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "How did the Carter administration seal the deal on the Panama Canal? https://t.co/M9mdIdF1CJ #FRUS #twitterstorians",
+    "geo": null,
+    "id": 800685545034752000,
+    "id_str": "800685545034752000",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

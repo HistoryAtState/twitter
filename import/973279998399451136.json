@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Mar 12 19:30:08 +0000 2018",
-    "id": 973279998399451140,
-    "id_str": "973279998399451136",
-    "full_text": "January 1979: Mary Hanley and Barbara Good work at @StateDept to “better respond to the rights of #women.” https://t.co/fSmREB6HsO #FRUS #WomensHistoryMonth",
-    "truncated": false,
     "display_text_range": [
         0,
         156
@@ -11,71 +9,73 @@
     "entities": {
         "hashtags": [
             {
-                "text": "women",
                 "indices": [
                     98,
                     104
-                ]
+                ],
+                "text": "women"
             },
             {
-                "text": "FRUS",
                 "indices": [
                     131,
                     136
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "WomensHistoryMonth",
                 "indices": [
                     137,
                     156
-                ]
+                ],
+                "text": "WomensHistoryMonth"
             }
         ],
         "symbols": [],
+        "urls": [
+            {
+                "display_url": "go.usa.gov/xnHRH",
+                "expanded_url": "https://go.usa.gov/xnHRH",
+                "indices": [
+                    107,
+                    130
+                ],
+                "url": "https://t.co/fSmREB6HsO"
+            }
+        ],
         "user_mentions": [
             {
-                "screen_name": "StateDept",
-                "name": "Department of State",
                 "id": 9624742,
                 "id_str": "9624742",
                 "indices": [
                     51,
                     61
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "https://t.co/fSmREB6HsO",
-                "expanded_url": "https://go.usa.gov/xnHRH",
-                "display_url": "go.usa.gov/xnHRH",
-                "indices": [
-                    107,
-                    130
-                ]
+                ],
+                "name": "Department of State",
+                "screen_name": "StateDept"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "January 1979: Mary Hanley and Barbara Good work at @StateDept to “better respond to the rights of #women.” https://t.co/fSmREB6HsO #FRUS #WomensHistoryMonth",
+    "geo": null,
+    "id": 973279998399451140,
+    "id_str": "973279998399451136",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Oct 20 14:35:27 +0000 2014",
-    "id": 524207270981541890,
-    "id_str": "524207270981541888",
-    "full_text": "Attending the @TEIconsortium conference? Come see our presentation on “The State of TEI at Foggy Bottom” #TEIConf2014 http://t.co/7amYRPh1aZ",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,57 +9,59 @@
     "entities": {
         "hashtags": [
             {
-                "text": "TEIConf2014",
                 "indices": [
                     105,
                     117
-                ]
+                ],
+                "text": "TEIConf2014"
             }
         ],
         "symbols": [],
+        "urls": [
+            {
+                "display_url": "tei.northwestern.edu/papers/",
+                "expanded_url": "http://tei.northwestern.edu/papers/",
+                "indices": [
+                    118,
+                    140
+                ],
+                "url": "http://t.co/7amYRPh1aZ"
+            }
+        ],
         "user_mentions": [
             {
-                "screen_name": "TEIconsortium",
-                "name": "TEI Consortium",
                 "id": 167142337,
                 "id_str": "167142337",
                 "indices": [
                     14,
                     28
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "http://t.co/7amYRPh1aZ",
-                "expanded_url": "http://tei.northwestern.edu/papers/",
-                "display_url": "tei.northwestern.edu/papers/",
-                "indices": [
-                    118,
-                    140
-                ]
+                ],
+                "name": "TEI Consortium",
+                "screen_name": "TEIconsortium"
             }
         ]
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "Attending the @TEIconsortium conference? Come see our presentation on “The State of TEI at Foggy Bottom” #TEIConf2014 http://t.co/7amYRPh1aZ",
+    "geo": null,
+    "id": 524207270981541890,
+    "id_str": "524207270981541888",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

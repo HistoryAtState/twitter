@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Mar 17 13:31:38 +0000 2016",
-    "id": 710458573399199740,
-    "id_str": "710458573399199746",
-    "full_text": "We will be discussing #FRUS at Methods of Digital Archiving and Biography today at 10:30: https://t.co/gTZbYET7e5 #dh #ncph2016",
-    "truncated": false,
     "display_text_range": [
         0,
         127
@@ -11,60 +9,62 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     22,
                     27
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "dh",
                 "indices": [
                     114,
                     117
-                ]
+                ],
+                "text": "dh"
             },
             {
-                "text": "ncph2016",
                 "indices": [
                     118,
                     127
-                ]
+                ],
+                "text": "ncph2016"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "https://t.co/gTZbYET7e5",
-                "expanded_url": "http://ncph.org/conference/2016-annual-meeting/",
                 "display_url": "ncph.org/conference/201…",
+                "expanded_url": "http://ncph.org/conference/2016-annual-meeting/",
                 "indices": [
                     90,
                     113
-                ]
+                ],
+                "url": "https://t.co/gTZbYET7e5"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 1,
+    "favorited": false,
+    "full_text": "We will be discussing #FRUS at Methods of Digital Archiving and Biography today at 10:30: https://t.co/gTZbYET7e5 #dh #ncph2016",
+    "geo": null,
+    "id": 710458573399199740,
+    "id_str": "710458573399199746",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 1,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

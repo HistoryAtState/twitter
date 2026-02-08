@@ -1,31 +1,17 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Sep 13 16:30:30 +0000 2022",
-    "id": 1569725217768980480,
-    "id_str": "1569725217768980480",
-    "full_text": "From February 26 to March 7, 1983, Queen Elizabeth and Prince Philip visited the United States. They visited the Reagans’ Rancho Del Cielo in early March.\n\n📷 @Reagan_Library (IDs: C13149-6A and C13153-6A) https://t.co/Zs1cA9qiIL",
-    "truncated": false,
     "display_text_range": [
         0,
         204
     ],
     "entities": {
         "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-            {
-                "screen_name": "Reagan_Library",
-                "name": "RonaldReaganLibrary",
-                "id": 394351710,
-                "id_str": "394351710",
-                "indices": [
-                    158,
-                    173
-                ]
-            }
-        ],
-        "urls": [],
         "media": [
             {
+                "display_url": "pic.twitter.com/Zs1cA9qiIL",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1569725217768980480/photo/1",
                 "id": 1569725216208601090,
                 "id_str": "1569725216208601090",
                 "indices": [
@@ -34,38 +20,53 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/FcjIxHMWQAIpggs.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/FcjIxHMWQAIpggs.jpg",
-                "url": "https://t.co/Zs1cA9qiIL",
-                "display_url": "pic.twitter.com/Zs1cA9qiIL",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1569725217768980480/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "small": {
-                        "w": 680,
-                        "h": 447,
-                        "resize": "fit"
-                    },
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
                     "large": {
-                        "w": 750,
                         "h": 493,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 750
                     },
                     "medium": {
-                        "w": 750,
                         "h": 493,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 750
+                    },
+                    "small": {
+                        "h": 447,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/Zs1cA9qiIL"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 394351710,
+                "id_str": "394351710",
+                "indices": [
+                    158,
+                    173
+                ],
+                "name": "RonaldReaganLibrary",
+                "screen_name": "Reagan_Library"
             }
         ]
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/Zs1cA9qiIL",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1569725217768980480/photo/1",
+                "ext_alt_text": "“Arrival of Queen Elizabeth II of United Kingdom for Lunch at Rancho Del Cielo.” March 1, 1983. (Reagan Presidential Library ID: C13149-6A)",
                 "id": 1569725216208601090,
                 "id_str": "1569725216208601090",
                 "indices": [
@@ -74,35 +75,35 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/FcjIxHMWQAIpggs.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/FcjIxHMWQAIpggs.jpg",
-                "url": "https://t.co/Zs1cA9qiIL",
-                "display_url": "pic.twitter.com/Zs1cA9qiIL",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1569725217768980480/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "small": {
-                        "w": 680,
-                        "h": 447,
-                        "resize": "fit"
-                    },
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
                     "large": {
-                        "w": 750,
                         "h": 493,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 750
                     },
                     "medium": {
-                        "w": 750,
                         "h": 493,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 750
+                    },
+                    "small": {
+                        "h": 447,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": "“Arrival of Queen Elizabeth II of United Kingdom for Lunch at Rancho Del Cielo.” March 1, 1983. (Reagan Presidential Library ID: C13149-6A)"
+                "type": "photo",
+                "url": "https://t.co/Zs1cA9qiIL"
             },
             {
+                "display_url": "pic.twitter.com/Zs1cA9qiIL",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1569725217768980480/photo/1",
+                "ext_alt_text": "“President Reagan and Nancy Reagan posing with Queen Elizabeth II and Prince Philip of the United Kingdom outside Rancho Del Cielo.” March 1, 1983. (Reagan Presidential Library ID: C13153-6A)",
                 "id": 1569725216212877310,
                 "id_str": "1569725216212877314",
                 "indices": [
@@ -111,55 +112,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/FcjIxHNXgAI8NaZ.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/FcjIxHNXgAI8NaZ.jpg",
-                "url": "https://t.co/Zs1cA9qiIL",
-                "display_url": "pic.twitter.com/Zs1cA9qiIL",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1569725217768980480/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
                     "large": {
-                        "w": 750,
                         "h": 503,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 750
                     },
                     "medium": {
-                        "w": 750,
                         "h": 503,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 750
                     },
                     "small": {
-                        "w": 680,
                         "h": 456,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": "“President Reagan and Nancy Reagan posing with Queen Elizabeth II and Prince Philip of the United Kingdom outside Rancho Del Cielo.” March 1, 1983. (Reagan Presidential Library ID: C13153-6A)"
+                "type": "photo",
+                "url": "https://t.co/Zs1cA9qiIL"
             }
         ]
     },
-    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "favorite_count": 3,
+    "favorited": false,
+    "full_text": "From February 26 to March 7, 1983, Queen Elizabeth and Prince Philip visited the United States. They visited the Reagans’ Rancho Del Cielo in early March.\n\n📷 @Reagan_Library (IDs: C13149-6A and C13153-6A) https://t.co/Zs1cA9qiIL",
+    "geo": null,
+    "id": 1569725217768980480,
+    "id_str": "1569725217768980480",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3,
+    "retweeted": false,
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 3,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

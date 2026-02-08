@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Wed Mar 15 12:30:44 +0000 2017",
-    "id": 841990042629341180,
-    "id_str": "841990042629341184",
-    "full_text": "#FRUS docs discuss assassinations of Lincoln &amp;amp; Caesar and #Ides of #March: https://t.co/XlOdh193Lr &amp;amp; https://t.co/VwRWfrSG31 https://t.co/ijSNJ4v3Sk",
-    "truncated": false,
     "display_text_range": [
         0,
         132
@@ -11,51 +9,31 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     0,
                     5
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "Ides",
                 "indices": [
                     62,
                     67
-                ]
+                ],
+                "text": "Ides"
             },
             {
-                "text": "March",
                 "indices": [
                     71,
                     77
-                ]
-            }
-        ],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
-            {
-                "url": "https://t.co/XlOdh193Lr",
-                "expanded_url": "https://go.usa.gov/xXrPJ",
-                "display_url": "go.usa.gov/xXrPJ",
-                "indices": [
-                    79,
-                    102
-                ]
-            },
-            {
-                "url": "https://t.co/VwRWfrSG31",
-                "expanded_url": "https://go.usa.gov/xXrEc",
-                "display_url": "go.usa.gov/xXrEc",
-                "indices": [
-                    109,
-                    132
-                ]
+                ],
+                "text": "March"
             }
         ],
         "media": [
             {
+                "display_url": "pic.twitter.com/ijSNJ4v3Sk",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/841990042629341184/photo/1",
                 "id": 841990038456016900,
                 "id_str": "841990038456016896",
                 "indices": [
@@ -64,38 +42,61 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/C69ZepqWoAAnJI5.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/C69ZepqWoAAnJI5.jpg",
-                "url": "https://t.co/ijSNJ4v3Sk",
-                "display_url": "pic.twitter.com/ijSNJ4v3Sk",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/841990042629341184/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
                     "large": {
-                        "w": 1560,
                         "h": 2048,
-                        "resize": "fit"
-                    },
-                    "small": {
-                        "w": 518,
-                        "h": 680,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1560
                     },
                     "medium": {
-                        "w": 914,
                         "h": 1200,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 914
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 518
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/ijSNJ4v3Sk"
             }
-        ]
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "go.usa.gov/xXrPJ",
+                "expanded_url": "https://go.usa.gov/xXrPJ",
+                "indices": [
+                    79,
+                    102
+                ],
+                "url": "https://t.co/XlOdh193Lr"
+            },
+            {
+                "display_url": "go.usa.gov/xXrEc",
+                "expanded_url": "https://go.usa.gov/xXrEc",
+                "indices": [
+                    109,
+                    132
+                ],
+                "url": "https://t.co/VwRWfrSG31"
+            }
+        ],
+        "user_mentions": []
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/ijSNJ4v3Sk",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/841990042629341184/photo/1",
+                "ext_alt_text": null,
                 "id": 841990038456016900,
                 "id_str": "841990038456016896",
                 "indices": [
@@ -104,55 +105,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/C69ZepqWoAAnJI5.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/C69ZepqWoAAnJI5.jpg",
-                "url": "https://t.co/ijSNJ4v3Sk",
-                "display_url": "pic.twitter.com/ijSNJ4v3Sk",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/841990042629341184/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
                     "large": {
-                        "w": 1560,
                         "h": 2048,
-                        "resize": "fit"
-                    },
-                    "small": {
-                        "w": 518,
-                        "h": 680,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1560
                     },
                     "medium": {
-                        "w": 914,
                         "h": 1200,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 914
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 518
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": null
+                "type": "photo",
+                "url": "https://t.co/ijSNJ4v3Sk"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 2,
+    "favorited": false,
+    "full_text": "#FRUS docs discuss assassinations of Lincoln &amp;amp; Caesar and #Ides of #March: https://t.co/XlOdh193Lr &amp;amp; https://t.co/VwRWfrSG31 https://t.co/ijSNJ4v3Sk",
+    "geo": null,
+    "id": 841990042629341180,
+    "id_str": "841990042629341184",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 2,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

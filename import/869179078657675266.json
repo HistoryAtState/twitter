@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon May 29 13:10:15 +0000 2017",
-    "id": 869179078657675260,
-    "id_str": "869179078657675266",
-    "full_text": "On the eve of WW2, Amb to France Bullitt proposes a #MemorialDay ceremony to call for peace in Europe https://t.co/3LdlNW70Yx",
-    "truncated": false,
     "display_text_range": [
         0,
         125
@@ -11,46 +9,48 @@
     "entities": {
         "hashtags": [
             {
-                "text": "MemorialDay",
                 "indices": [
                     52,
                     64
-                ]
+                ],
+                "text": "MemorialDay"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "https://t.co/3LdlNW70Yx",
-                "expanded_url": "https://go.usa.gov/xN993",
                 "display_url": "go.usa.gov/xN993",
+                "expanded_url": "https://go.usa.gov/xN993",
                 "indices": [
                     102,
                     125
-                ]
+                ],
+                "url": "https://t.co/3LdlNW70Yx"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 2,
+    "favorited": false,
+    "full_text": "On the eve of WW2, Amb to France Bullitt proposes a #MemorialDay ceremony to call for peace in Europe https://t.co/3LdlNW70Yx",
+    "geo": null,
+    "id": 869179078657675260,
+    "id_str": "869179078657675266",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 2,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

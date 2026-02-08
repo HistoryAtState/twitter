@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Fri Sep 09 16:15:24 +0000 2022",
-    "id": 1568271865822470140,
-    "id_str": "1568271865822470146",
-    "full_text": "#Twitterstorians, stay tuned for document highlights and memorable moments related to the newly released #FRUS, 1981–1988, Volume I, Foundations of Foreign Policy.\nhttps://t.co/K5DJpKJ7cK https://t.co/v741QkLlZ6",
-    "truncated": false,
     "display_text_range": [
         0,
         187
@@ -11,35 +9,24 @@
     "entities": {
         "hashtags": [
             {
-                "text": "Twitterstorians",
                 "indices": [
                     0,
                     16
-                ]
+                ],
+                "text": "Twitterstorians"
             },
             {
-                "text": "FRUS",
                 "indices": [
                     105,
                     110
-                ]
-            }
-        ],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
-            {
-                "url": "https://t.co/K5DJpKJ7cK",
-                "expanded_url": "http://ow.ly/nXgJ50KBKrW",
-                "display_url": "ow.ly/nXgJ50KBKrW",
-                "indices": [
-                    164,
-                    187
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "media": [
             {
+                "display_url": "pic.twitter.com/v741QkLlZ6",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1568271865822470146/photo/1",
                 "id": 1568271863956049920,
                 "id_str": "1568271863956049922",
                 "indices": [
@@ -48,38 +35,52 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/FcOe84JXEAI5aft.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/FcOe84JXEAI5aft.jpg",
-                "url": "https://t.co/v741QkLlZ6",
-                "display_url": "pic.twitter.com/v741QkLlZ6",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1568271865822470146/photo/1",
-                "type": "photo",
                 "sizes": {
                     "large": {
-                        "w": 1048,
                         "h": 1536,
-                        "resize": "fit"
-                    },
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
-                    "small": {
-                        "w": 464,
-                        "h": 680,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1048
                     },
                     "medium": {
-                        "w": 819,
                         "h": 1200,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 819
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 464
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/v741QkLlZ6"
             }
-        ]
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "ow.ly/nXgJ50KBKrW",
+                "expanded_url": "http://ow.ly/nXgJ50KBKrW",
+                "indices": [
+                    164,
+                    187
+                ],
+                "url": "https://t.co/K5DJpKJ7cK"
+            }
+        ],
+        "user_mentions": []
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/v741QkLlZ6",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1568271865822470146/photo/1",
+                "ext_alt_text": "Screenshot of title page: “Foreign Relations of the United States, 1981–1988, Volume I, Foundations of Foreign Policy” | Editor: Kristin L. Ahlberg | General Editory: Kathleen B. Rasmussen | United States Government Publishing Office | Washington | 2021”",
                 "id": 1568271863956049920,
                 "id_str": "1568271863956049922",
                 "indices": [
@@ -88,55 +89,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/FcOe84JXEAI5aft.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/FcOe84JXEAI5aft.jpg",
-                "url": "https://t.co/v741QkLlZ6",
-                "display_url": "pic.twitter.com/v741QkLlZ6",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1568271865822470146/photo/1",
-                "type": "photo",
                 "sizes": {
                     "large": {
-                        "w": 1048,
                         "h": 1536,
-                        "resize": "fit"
-                    },
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
-                    "small": {
-                        "w": 464,
-                        "h": 680,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1048
                     },
                     "medium": {
-                        "w": 819,
                         "h": 1200,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 819
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 464
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": "Screenshot of title page: “Foreign Relations of the United States, 1981–1988, Volume I, Foundations of Foreign Policy” | Editor: Kristin L. Ahlberg | General Editory: Kathleen B. Rasmussen | United States Government Publishing Office | Washington | 2021”"
+                "type": "photo",
+                "url": "https://t.co/v741QkLlZ6"
             }
         ]
     },
-    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "favorite_count": 9,
+    "favorited": false,
+    "full_text": "#Twitterstorians, stay tuned for document highlights and memorable moments related to the newly released #FRUS, 1981–1988, Volume I, Foundations of Foreign Policy.\nhttps://t.co/K5DJpKJ7cK https://t.co/v741QkLlZ6",
+    "geo": null,
+    "id": 1568271865822470140,
+    "id_str": "1568271865822470146",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 9,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

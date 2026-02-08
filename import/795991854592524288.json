@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Nov 08 14:10:21 +0000 2016",
-    "id": 795991854592524290,
-    "id_str": "795991854592524288",
-    "full_text": "Soviets react to Reagan’s 1980 win: https://t.co/ZS5kCFRT59 #FRUS #twitterstorians #election2016",
-    "truncated": false,
     "display_text_range": [
         0,
         96
@@ -11,60 +9,62 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     60,
                     65
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "twitterstorians",
                 "indices": [
                     66,
                     82
-                ]
+                ],
+                "text": "twitterstorians"
             },
             {
-                "text": "election2016",
                 "indices": [
                     83,
                     96
-                ]
+                ],
+                "text": "election2016"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "https://t.co/ZS5kCFRT59",
-                "expanded_url": "http://go.usa.gov/xksEr",
                 "display_url": "go.usa.gov/xksEr",
+                "expanded_url": "http://go.usa.gov/xksEr",
                 "indices": [
                     36,
                     59
-                ]
+                ],
+                "url": "https://t.co/ZS5kCFRT59"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 2,
+    "favorited": false,
+    "full_text": "Soviets react to Reagan’s 1980 win: https://t.co/ZS5kCFRT59 #FRUS #twitterstorians #election2016",
+    "geo": null,
+    "id": 795991854592524290,
+    "id_str": "795991854592524288",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 2,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

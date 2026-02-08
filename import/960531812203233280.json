@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Feb 05 15:13:24 +0000 2018",
-    "id": 960531812203233280,
-    "id_str": "960531812203233280",
-    "full_text": "Political disputes led to intense pressure on @StateDept to release Yalta records in the early 1950s, well before normal declassification processes. https://t.co/RwLav9SxdM",
-    "truncated": false,
     "display_text_range": [
         0,
         172
@@ -11,49 +9,51 @@
     "entities": {
         "hashtags": [],
         "symbols": [],
+        "urls": [
+            {
+                "display_url": "history.state.gov/historicaldocu…",
+                "expanded_url": "https://history.state.gov/historicaldocuments/frus-history/chapter-7",
+                "indices": [
+                    149,
+                    172
+                ],
+                "url": "https://t.co/RwLav9SxdM"
+            }
+        ],
         "user_mentions": [
             {
-                "screen_name": "StateDept",
-                "name": "Department of State",
                 "id": 9624742,
                 "id_str": "9624742",
                 "indices": [
                     46,
                     56
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "https://t.co/RwLav9SxdM",
-                "expanded_url": "https://history.state.gov/historicaldocuments/frus-history/chapter-7",
-                "display_url": "history.state.gov/historicaldocu…",
-                "indices": [
-                    149,
-                    172
-                ]
+                ],
+                "name": "Department of State",
+                "screen_name": "StateDept"
             }
         ]
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 1,
+    "favorited": false,
+    "full_text": "Political disputes led to intense pressure on @StateDept to release Yalta records in the early 1950s, well before normal declassification processes. https://t.co/RwLav9SxdM",
+    "geo": null,
+    "id": 960531812203233280,
+    "id_str": "960531812203233280",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 1,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

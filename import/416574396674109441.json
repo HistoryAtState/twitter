@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Fri Dec 27 14:20:50 +0000 2013",
-    "id": 416574396674109440,
-    "id_str": "416574396674109441",
-    "full_text": "Discover why #FRUS acceleration fizzled in the 1980s http://t.co/rEhGQW49Bs",
-    "truncated": false,
     "display_text_range": [
         0,
         75
@@ -11,46 +9,48 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     13,
                     18
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/rEhGQW49Bs",
-                "expanded_url": "http://go.usa.gov/WS7P",
                 "display_url": "go.usa.gov/WS7P",
+                "expanded_url": "http://go.usa.gov/WS7P",
                 "indices": [
                     53,
                     75
-                ]
+                ],
+                "url": "http://t.co/rEhGQW49Bs"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 1,
+    "favorited": false,
+    "full_text": "Discover why #FRUS acceleration fizzled in the 1980s http://t.co/rEhGQW49Bs",
+    "geo": null,
+    "id": 416574396674109440,
+    "id_str": "416574396674109441",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 1,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

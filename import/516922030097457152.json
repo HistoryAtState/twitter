@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Sep 30 12:06:30 +0000 2014",
-    "id": 516922030097457150,
-    "id_str": "516922030097457152",
-    "full_text": "25-yr old student Eric Fisher Wood volunteered as @USEmbassyFrance attaché 1914 http://t.co/mY6QYRd6tf http://t.co/Oiy4MIffNs",
-    "truncated": false,
     "display_text_range": [
         0,
         125
@@ -11,58 +9,60 @@
     "entities": {
         "hashtags": [],
         "symbols": [],
+        "urls": [
+            {
+                "display_url": "go.usa.gov/p2SQ",
+                "expanded_url": "http://go.usa.gov/p2SQ",
+                "indices": [
+                    80,
+                    102
+                ],
+                "url": "http://t.co/mY6QYRd6tf"
+            },
+            {
+                "display_url": "go.usa.gov/pKZx",
+                "expanded_url": "http://go.usa.gov/pKZx",
+                "indices": [
+                    103,
+                    125
+                ],
+                "url": "http://t.co/Oiy4MIffNs"
+            }
+        ],
         "user_mentions": [
             {
-                "screen_name": "USEmbassyFrance",
-                "name": "U.S. Embassy France",
                 "id": 72814599,
                 "id_str": "72814599",
                 "indices": [
                     50,
                     66
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "http://t.co/mY6QYRd6tf",
-                "expanded_url": "http://go.usa.gov/p2SQ",
-                "display_url": "go.usa.gov/p2SQ",
-                "indices": [
-                    80,
-                    102
-                ]
-            },
-            {
-                "url": "http://t.co/Oiy4MIffNs",
-                "expanded_url": "http://go.usa.gov/pKZx",
-                "display_url": "go.usa.gov/pKZx",
-                "indices": [
-                    103,
-                    125
-                ]
+                ],
+                "name": "U.S. Embassy France",
+                "screen_name": "USEmbassyFrance"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "25-yr old student Eric Fisher Wood volunteered as @USEmbassyFrance attaché 1914 http://t.co/mY6QYRd6tf http://t.co/Oiy4MIffNs",
+    "geo": null,
+    "id": 516922030097457150,
+    "id_str": "516922030097457152",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

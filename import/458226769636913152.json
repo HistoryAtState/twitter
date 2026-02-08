@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Apr 21 12:52:29 +0000 2014",
-    "id": 458226769636913150,
-    "id_str": "458226769636913152",
-    "full_text": "Follow us this #EarthDay and check out our resources on the history of US diplomacy and the environment http://t.co/q1o9VX8urT",
-    "truncated": false,
     "display_text_range": [
         0,
         126
@@ -11,46 +9,48 @@
     "entities": {
         "hashtags": [
             {
-                "text": "EarthDay",
                 "indices": [
                     15,
                     24
-                ]
+                ],
+                "text": "EarthDay"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/q1o9VX8urT",
-                "expanded_url": "http://go.usa.gov/kK6T",
                 "display_url": "go.usa.gov/kK6T",
+                "expanded_url": "http://go.usa.gov/kK6T",
                 "indices": [
                     104,
                     126
-                ]
+                ],
+                "url": "http://t.co/q1o9VX8urT"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "Follow us this #EarthDay and check out our resources on the history of US diplomacy and the environment http://t.co/q1o9VX8urT",
+    "geo": null,
+    "id": 458226769636913150,
+    "id_str": "458226769636913152",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

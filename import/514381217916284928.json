@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Sep 23 11:50:13 +0000 2014",
-    "id": 514381217916284930,
-    "id_str": "514381217916284928",
-    "full_text": "Career diplomat JW Garrett was Special Agent @USEmbassyFrance 1914-17 http://t.co/Z8HJQHmiqD http://t.co/Oiy4MIffNs http://t.co/GykIyKd4kT",
-    "truncated": false,
     "display_text_range": [
         0,
         138
@@ -11,67 +9,69 @@
     "entities": {
         "hashtags": [],
         "symbols": [],
+        "urls": [
+            {
+                "display_url": "go.usa.gov/pTcT",
+                "expanded_url": "http://go.usa.gov/pTcT",
+                "indices": [
+                    70,
+                    92
+                ],
+                "url": "http://t.co/Z8HJQHmiqD"
+            },
+            {
+                "display_url": "go.usa.gov/pKZx",
+                "expanded_url": "http://go.usa.gov/pKZx",
+                "indices": [
+                    93,
+                    115
+                ],
+                "url": "http://t.co/Oiy4MIffNs"
+            },
+            {
+                "display_url": "ow.ly/i/6Y5A4",
+                "expanded_url": "http://ow.ly/i/6Y5A4",
+                "indices": [
+                    116,
+                    138
+                ],
+                "url": "http://t.co/GykIyKd4kT"
+            }
+        ],
         "user_mentions": [
             {
-                "screen_name": "USEmbassyFrance",
-                "name": "U.S. Embassy France",
                 "id": 72814599,
                 "id_str": "72814599",
                 "indices": [
                     45,
                     61
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "http://t.co/Z8HJQHmiqD",
-                "expanded_url": "http://go.usa.gov/pTcT",
-                "display_url": "go.usa.gov/pTcT",
-                "indices": [
-                    70,
-                    92
-                ]
-            },
-            {
-                "url": "http://t.co/Oiy4MIffNs",
-                "expanded_url": "http://go.usa.gov/pKZx",
-                "display_url": "go.usa.gov/pKZx",
-                "indices": [
-                    93,
-                    115
-                ]
-            },
-            {
-                "url": "http://t.co/GykIyKd4kT",
-                "expanded_url": "http://ow.ly/i/6Y5A4",
-                "display_url": "ow.ly/i/6Y5A4",
-                "indices": [
-                    116,
-                    138
-                ]
+                ],
+                "name": "U.S. Embassy France",
+                "screen_name": "USEmbassyFrance"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 1,
+    "favorited": false,
+    "full_text": "Career diplomat JW Garrett was Special Agent @USEmbassyFrance 1914-17 http://t.co/Z8HJQHmiqD http://t.co/Oiy4MIffNs http://t.co/GykIyKd4kT",
+    "geo": null,
+    "id": 514381217916284930,
+    "id_str": "514381217916284928",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 1,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Fri Oct 25 15:42:52 +0000 2019",
-    "id": 1187756418432163840,
-    "id_str": "1187756418432163840",
-    "full_text": "RT @FSIatState: The spouses of U.S. diplomats in Europe played instrumental roles during WWI. Carolyn Herrick, married to Amb. Myron Herric…",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,40 +9,40 @@
     "entities": {
         "hashtags": [],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "FSIatState",
-                "name": "Foreign Service Institute",
                 "id": 958044239576948740,
                 "id_str": "958044239576948736",
                 "indices": [
                     3,
                     14
-                ]
+                ],
+                "name": "Foreign Service Institute",
+                "screen_name": "FSIatState"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "RT @FSIatState: The spouses of U.S. diplomats in Europe played instrumental roles during WWI. Carolyn Herrick, married to Amb. Myron Herric…",
+    "geo": null,
+    "id": 1187756418432163840,
+    "id_str": "1187756418432163840",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "retweet_count": 3,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Thu Oct 24 16:10:12 +0000 2019",
-        "id": 1187400910546391040,
-        "id_str": "1187400910546391040",
-        "full_text": "The spouses of U.S. diplomats in Europe played instrumental roles during WWI. Carolyn Herrick, married to Amb. Myron Herrick, served as President of American Ambulance Women’s Committee &amp;amp; fundraised for relief efforts. Learn about #HeroesofUSDiplomacy: https://t.co/4D5leJ3WJC. https://t.co/yHQGjq3ONs",
-        "truncated": false,
         "display_text_range": [
             0,
             281
@@ -52,28 +50,17 @@
         "entities": {
             "hashtags": [
                 {
-                    "text": "HeroesofUSDiplomacy",
                     "indices": [
                         235,
                         255
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "https://t.co/4D5leJ3WJC",
-                    "expanded_url": "http://go.usa.gov/xp3FN",
-                    "display_url": "go.usa.gov/xp3FN",
-                    "indices": [
-                        257,
-                        280
-                    ]
+                    ],
+                    "text": "HeroesofUSDiplomacy"
                 }
             ],
             "media": [
                 {
+                    "display_url": "pic.twitter.com/yHQGjq3ONs",
+                    "expanded_url": "https://twitter.com/FSIatState/status/1187400910546391040/photo/1",
                     "id": 1187400908700823550,
                     "id_str": "1187400908700823553",
                     "indices": [
@@ -82,38 +69,52 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/EHp-1dkWsAEqS-K.png",
                     "media_url_https": "https://pbs.twimg.com/media/EHp-1dkWsAEqS-K.png",
-                    "url": "https://t.co/yHQGjq3ONs",
-                    "display_url": "pic.twitter.com/yHQGjq3ONs",
-                    "expanded_url": "https://twitter.com/FSIatState/status/1187400910546391040/photo/1",
-                    "type": "photo",
                     "sizes": {
                         "large": {
-                            "w": 843,
                             "h": 503,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 843
                         },
                         "medium": {
-                            "w": 843,
                             "h": 503,
-                            "resize": "fit"
-                        },
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
+                            "resize": "fit",
+                            "w": 843
                         },
                         "small": {
-                            "w": 680,
                             "h": 406,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
                         }
-                    }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/yHQGjq3ONs"
                 }
-            ]
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "go.usa.gov/xp3FN",
+                    "expanded_url": "http://go.usa.gov/xp3FN",
+                    "indices": [
+                        257,
+                        280
+                    ],
+                    "url": "https://t.co/4D5leJ3WJC"
+                }
+            ],
+            "user_mentions": []
         },
         "extended_entities": {
             "media": [
                 {
+                    "display_url": "pic.twitter.com/yHQGjq3ONs",
+                    "expanded_url": "https://twitter.com/FSIatState/status/1187400910546391040/photo/1",
+                    "ext_alt_text": null,
                     "id": 1187400908700823550,
                     "id_str": "1187400908700823553",
                     "indices": [
@@ -122,62 +123,61 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/EHp-1dkWsAEqS-K.png",
                     "media_url_https": "https://pbs.twimg.com/media/EHp-1dkWsAEqS-K.png",
-                    "url": "https://t.co/yHQGjq3ONs",
-                    "display_url": "pic.twitter.com/yHQGjq3ONs",
-                    "expanded_url": "https://twitter.com/FSIatState/status/1187400910546391040/photo/1",
-                    "type": "photo",
                     "sizes": {
                         "large": {
-                            "w": 843,
                             "h": 503,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 843
                         },
                         "medium": {
-                            "w": 843,
                             "h": 503,
-                            "resize": "fit"
-                        },
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
+                            "resize": "fit",
+                            "w": 843
                         },
                         "small": {
-                            "w": 680,
                             "h": 406,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
                         }
                     },
-                    "ext_alt_text": null
+                    "type": "photo",
+                    "url": "https://t.co/yHQGjq3ONs"
                 }
             ]
         },
-        "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+        "favorite_count": 2,
+        "favorited": false,
+        "full_text": "The spouses of U.S. diplomats in Europe played instrumental roles during WWI. Carolyn Herrick, married to Amb. Myron Herrick, served as President of American Ambulance Women’s Committee &amp;amp; fundraised for relief efforts. Learn about #HeroesofUSDiplomacy: https://t.co/4D5leJ3WJC. https://t.co/yHQGjq3ONs",
+        "geo": null,
+        "id": 1187400910546391040,
+        "id_str": "1187400910546391040",
+        "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 3,
+        "retweeted": true,
+        "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+        "truncated": false,
         "user": {
             "id": 958044239576948740,
             "id_str": "958044239576948736"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 3,
-        "favorite_count": 2,
-        "favorited": false,
-        "retweeted": true,
-        "possibly_sensitive": false,
-        "lang": "en"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": true,
-    "lang": "en"
+    "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

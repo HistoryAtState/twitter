@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Jul 03 18:54:53 +0000 2018",
-    "id": 1014220952698224640,
-    "id_str": "1014220952698224647",
-    "full_text": "RT @VSFSatState: Will you be a federal eIntern this academic year? There's only one way to find out! Search for your dream project on https…",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,40 +9,47 @@
     "entities": {
         "hashtags": [],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "VSFSatState",
-                "name": "Virtual Student Federal Service",
                 "id": 169927909,
                 "id_str": "169927909",
                 "indices": [
                     3,
                     15
-                ]
+                ],
+                "name": "Virtual Student Federal Service",
+                "screen_name": "VSFSatState"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "RT @VSFSatState: Will you be a federal eIntern this academic year? There's only one way to find out! Search for your dream project on https…",
+    "geo": null,
+    "id": 1014220952698224640,
+    "id_str": "1014220952698224647",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": true,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "quoted_status_id": 1013844761168343040,
+    "quoted_status_id_str": "1013844761168343040",
+    "quoted_status_permalink": {
+        "display": "twitter.com/YPIA_DC/status…",
+        "expanded": "https://twitter.com/YPIA_DC/status/1013844761168343040",
+        "url": "https://t.co/iTzyel7Pz8"
+    },
+    "retweet_count": 4,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Tue Jul 03 17:05:30 +0000 2018",
-        "id": 1014193426705928190,
-        "id_str": "1014193426705928194",
-        "full_text": "Will you be a federal eIntern this academic year? There's only one way to find out! Search for your dream project on https://t.co/TgBw5DDDkw and #ApplyinJuly on @USAJOBS 👍 https://t.co/iTzyel7Pz8",
-        "truncated": false,
         "display_text_range": [
             0,
             171
@@ -52,75 +57,66 @@
         "entities": {
             "hashtags": [
                 {
-                    "text": "ApplyinJuly",
                     "indices": [
                         145,
                         157
-                    ]
+                    ],
+                    "text": "ApplyinJuly"
                 }
             ],
             "symbols": [],
+            "urls": [
+                {
+                    "display_url": "VSFS.state.com",
+                    "expanded_url": "http://VSFS.state.com",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/TgBw5DDDkw"
+                },
+                {
+                    "display_url": "twitter.com/YPIA_DC/status…",
+                    "expanded_url": "https://twitter.com/YPIA_DC/status/1013844761168343040",
+                    "indices": [
+                        172,
+                        195
+                    ],
+                    "url": "https://t.co/iTzyel7Pz8"
+                }
+            ],
             "user_mentions": [
                 {
-                    "screen_name": "USAJOBS",
-                    "name": "USAJOBS",
                     "id": 96828828,
                     "id_str": "96828828",
                     "indices": [
                         161,
                         169
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "https://t.co/TgBw5DDDkw",
-                    "expanded_url": "http://VSFS.state.com",
-                    "display_url": "VSFS.state.com",
-                    "indices": [
-                        117,
-                        140
-                    ]
-                },
-                {
-                    "url": "https://t.co/iTzyel7Pz8",
-                    "expanded_url": "https://twitter.com/YPIA_DC/status/1013844761168343040",
-                    "display_url": "twitter.com/YPIA_DC/status…",
-                    "indices": [
-                        172,
-                        195
-                    ]
+                    ],
+                    "name": "USAJOBS",
+                    "screen_name": "USAJOBS"
                 }
             ]
         },
-        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+        "favorite_count": 3,
+        "favorited": false,
+        "full_text": "Will you be a federal eIntern this academic year? There's only one way to find out! Search for your dream project on https://t.co/TgBw5DDDkw and #ApplyinJuly on @USAJOBS 👍 https://t.co/iTzyel7Pz8",
+        "geo": null,
+        "id": 1014193426705928190,
+        "id_str": "1014193426705928194",
+        "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 169927909,
-            "id_str": "169927909"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
         "is_quote_status": true,
-        "quoted_status_id": 1013844761168343040,
-        "quoted_status_id_str": "1013844761168343040",
-        "quoted_status_permalink": {
-            "url": "https://t.co/iTzyel7Pz8",
-            "expanded": "https://twitter.com/YPIA_DC/status/1013844761168343040",
-            "display": "twitter.com/YPIA_DC/status…"
-        },
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
         "quoted_status": {
+            "contributors": null,
+            "coordinates": null,
             "created_at": "Mon Jul 02 18:00:02 +0000 2018",
-            "id": 1013844761168343040,
-            "id_str": "1013844761168343040",
-            "full_text": "The Virtual Student Federal Service program (@VSFSatState) is now accepting applications! Apply to be an e-intern for one of 200+ projects at @StateDept. The deadline is July 31. https://t.co/VWOLBfm39z\n\n#Careers #Jobs #ApplyinJuly https://t.co/laAOWHgQ4u",
-            "truncated": false,
             "display_text_range": [
                 0,
                 231
@@ -128,63 +124,31 @@
             "entities": {
                 "hashtags": [
                     {
-                        "text": "Careers",
                         "indices": [
                             204,
                             212
-                        ]
+                        ],
+                        "text": "Careers"
                     },
                     {
-                        "text": "Jobs",
                         "indices": [
                             213,
                             218
-                        ]
+                        ],
+                        "text": "Jobs"
                     },
                     {
-                        "text": "ApplyinJuly",
                         "indices": [
                             219,
                             231
-                        ]
-                    }
-                ],
-                "symbols": [],
-                "user_mentions": [
-                    {
-                        "screen_name": "VSFSatState",
-                        "name": "Virtual Student Federal Service",
-                        "id": 169927909,
-                        "id_str": "169927909",
-                        "indices": [
-                            45,
-                            57
-                        ]
-                    },
-                    {
-                        "screen_name": "StateDept",
-                        "name": "Department of State",
-                        "id": 9624742,
-                        "id_str": "9624742",
-                        "indices": [
-                            142,
-                            152
-                        ]
-                    }
-                ],
-                "urls": [
-                    {
-                        "url": "https://t.co/VWOLBfm39z",
-                        "expanded_url": "https://www.usajobs.gov/GetJob/ViewDetails/503976200",
-                        "display_url": "usajobs.gov/GetJob/ViewDet…",
-                        "indices": [
-                            179,
-                            202
-                        ]
+                        ],
+                        "text": "ApplyinJuly"
                     }
                 ],
                 "media": [
                     {
+                        "display_url": "pic.twitter.com/laAOWHgQ4u",
+                        "expanded_url": "https://twitter.com/YPIA_DC/status/1013844761168343040/photo/1",
                         "id": 1013839084169637890,
                         "id_str": "1013839084169637888",
                         "indices": [
@@ -193,38 +157,73 @@
                         ],
                         "media_url": "http://pbs.twimg.com/media/DhHhRodWsAACDnZ.jpg",
                         "media_url_https": "https://pbs.twimg.com/media/DhHhRodWsAACDnZ.jpg",
-                        "url": "https://t.co/laAOWHgQ4u",
-                        "display_url": "pic.twitter.com/laAOWHgQ4u",
-                        "expanded_url": "https://twitter.com/YPIA_DC/status/1013844761168343040/photo/1",
-                        "type": "photo",
                         "sizes": {
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
-                            "small": {
-                                "w": 384,
-                                "h": 192,
-                                "resize": "fit"
-                            },
                             "large": {
-                                "w": 384,
                                 "h": 192,
-                                "resize": "fit"
+                                "resize": "fit",
+                                "w": 384
                             },
                             "medium": {
-                                "w": 384,
                                 "h": 192,
-                                "resize": "fit"
+                                "resize": "fit",
+                                "w": 384
+                            },
+                            "small": {
+                                "h": 192,
+                                "resize": "fit",
+                                "w": 384
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
                             }
-                        }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/laAOWHgQ4u"
+                    }
+                ],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "usajobs.gov/GetJob/ViewDet…",
+                        "expanded_url": "https://www.usajobs.gov/GetJob/ViewDetails/503976200",
+                        "indices": [
+                            179,
+                            202
+                        ],
+                        "url": "https://t.co/VWOLBfm39z"
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "id": 169927909,
+                        "id_str": "169927909",
+                        "indices": [
+                            45,
+                            57
+                        ],
+                        "name": "Virtual Student Federal Service",
+                        "screen_name": "VSFSatState"
+                    },
+                    {
+                        "id": 9624742,
+                        "id_str": "9624742",
+                        "indices": [
+                            142,
+                            152
+                        ],
+                        "name": "Department of State",
+                        "screen_name": "StateDept"
                     }
                 ]
             },
             "extended_entities": {
                 "media": [
                     {
+                        "display_url": "pic.twitter.com/laAOWHgQ4u",
+                        "expanded_url": "https://twitter.com/YPIA_DC/status/1013844761168343040/photo/1",
+                        "ext_alt_text": null,
                         "id": 1013839084169637890,
                         "id_str": "1013839084169637888",
                         "indices": [
@@ -233,76 +232,77 @@
                         ],
                         "media_url": "http://pbs.twimg.com/media/DhHhRodWsAACDnZ.jpg",
                         "media_url_https": "https://pbs.twimg.com/media/DhHhRodWsAACDnZ.jpg",
-                        "url": "https://t.co/laAOWHgQ4u",
-                        "display_url": "pic.twitter.com/laAOWHgQ4u",
-                        "expanded_url": "https://twitter.com/YPIA_DC/status/1013844761168343040/photo/1",
-                        "type": "photo",
                         "sizes": {
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
-                            "small": {
-                                "w": 384,
-                                "h": 192,
-                                "resize": "fit"
-                            },
                             "large": {
-                                "w": 384,
                                 "h": 192,
-                                "resize": "fit"
+                                "resize": "fit",
+                                "w": 384
                             },
                             "medium": {
-                                "w": 384,
                                 "h": 192,
-                                "resize": "fit"
+                                "resize": "fit",
+                                "w": 384
+                            },
+                            "small": {
+                                "h": 192,
+                                "resize": "fit",
+                                "w": 384
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
                             }
                         },
-                        "ext_alt_text": null
+                        "type": "photo",
+                        "url": "https://t.co/laAOWHgQ4u"
                     }
                 ]
             },
-            "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
+            "favorite_count": 3,
+            "favorited": false,
+            "full_text": "The Virtual Student Federal Service program (@VSFSatState) is now accepting applications! Apply to be an e-intern for one of 200+ projects at @StateDept. The deadline is July 31. https://t.co/VWOLBfm39z\n\n#Careers #Jobs #ApplyinJuly https://t.co/laAOWHgQ4u",
+            "geo": null,
+            "id": 1013844761168343040,
+            "id_str": "1013844761168343040",
+            "in_reply_to_screen_name": null,
             "in_reply_to_status_id": null,
             "in_reply_to_status_id_str": null,
             "in_reply_to_user_id": null,
             "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
+            "is_quote_status": false,
+            "lang": "en",
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 0,
+            "retweeted": false,
+            "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
+            "truncated": false,
             "user": {
                 "id": 2470401494,
                 "id_str": "2470401494"
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "is_quote_status": false,
-            "retweet_count": 0,
-            "favorite_count": 3,
-            "favorited": false,
-            "retweeted": false,
-            "possibly_sensitive": false,
-            "lang": "en"
+            }
+        },
+        "quoted_status_id": 1013844761168343040,
+        "quoted_status_id_str": "1013844761168343040",
+        "quoted_status_permalink": {
+            "display": "twitter.com/YPIA_DC/status…",
+            "expanded": "https://twitter.com/YPIA_DC/status/1013844761168343040",
+            "url": "https://t.co/iTzyel7Pz8"
         },
         "retweet_count": 4,
-        "favorite_count": 3,
-        "favorited": false,
         "retweeted": true,
-        "possibly_sensitive": false,
-        "lang": "en"
+        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+        "truncated": false,
+        "user": {
+            "id": 169927909,
+            "id_str": "169927909"
+        }
     },
-    "is_quote_status": true,
-    "quoted_status_id": 1013844761168343040,
-    "quoted_status_id_str": "1013844761168343040",
-    "quoted_status_permalink": {
-        "url": "https://t.co/iTzyel7Pz8",
-        "expanded": "https://twitter.com/YPIA_DC/status/1013844761168343040",
-        "display": "twitter.com/YPIA_DC/status…"
-    },
-    "retweet_count": 4,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": true,
-    "lang": "en"
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

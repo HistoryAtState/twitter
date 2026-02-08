@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Oct 15 15:51:38 +0000 2019",
-    "id": 1184134748530270210,
-    "id_str": "1184134748530270209",
-    "full_text": "RT @SHFGHistorians: 2019 Hewlett Lecture: Celebrating SHFG at 40! Panel of past presidents &amp;amp; SHFG founding members discuss the evolution of…",
-    "truncated": false,
     "display_text_range": [
         0,
         144
@@ -11,40 +9,40 @@
     "entities": {
         "hashtags": [],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "SHFGHistorians",
-                "name": "SHFGHistorians",
                 "id": 486867266,
                 "id_str": "486867266",
                 "indices": [
                     3,
                     18
-                ]
+                ],
+                "name": "SHFGHistorians",
+                "screen_name": "SHFGHistorians"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "RT @SHFGHistorians: 2019 Hewlett Lecture: Celebrating SHFG at 40! Panel of past presidents &amp;amp; SHFG founding members discuss the evolution of…",
+    "geo": null,
+    "id": 1184134748530270210,
+    "id_str": "1184134748530270209",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "retweet_count": 2,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Thu Oct 10 12:12:06 +0000 2019",
-        "id": 1182267560135446530,
-        "id_str": "1182267560135446529",
-        "full_text": "2019 Hewlett Lecture: Celebrating SHFG at 40! Panel of past presidents &amp;amp; SHFG founding members discuss the evolution of federal history &amp;amp; SHFG on Oct 24. DC area \n#Twitterstorians join us for a great event! RSVP- https://t.co/8zXnufdUp1 #History #publichistory #Federal #swag https://t.co/pOBDLyHUuH",
-        "truncated": false,
         "display_text_range": [
             0,
             283
@@ -52,56 +50,45 @@
         "entities": {
             "hashtags": [
                 {
-                    "text": "Twitterstorians",
                     "indices": [
                         171,
                         187
-                    ]
+                    ],
+                    "text": "Twitterstorians"
                 },
                 {
-                    "text": "History",
                     "indices": [
                         245,
                         253
-                    ]
+                    ],
+                    "text": "History"
                 },
                 {
-                    "text": "publichistory",
                     "indices": [
                         254,
                         268
-                    ]
+                    ],
+                    "text": "publichistory"
                 },
                 {
-                    "text": "Federal",
                     "indices": [
                         269,
                         277
-                    ]
+                    ],
+                    "text": "Federal"
                 },
                 {
-                    "text": "swag",
                     "indices": [
                         278,
                         283
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "https://t.co/8zXnufdUp1",
-                    "expanded_url": "http://shfg.wildapricot.org/Hewlett-Lecture",
-                    "display_url": "shfg.wildapricot.org/Hewlett-Lecture",
-                    "indices": [
-                        221,
-                        244
-                    ]
+                    ],
+                    "text": "swag"
                 }
             ],
             "media": [
                 {
+                    "display_url": "pic.twitter.com/pOBDLyHUuH",
+                    "expanded_url": "https://twitter.com/SHFGHistorians/status/1182267560135446529/photo/1",
                     "id": 1182267554254983170,
                     "id_str": "1182267554254983173",
                     "indices": [
@@ -110,38 +97,52 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/EGhCE6DWkAUxoAs.jpg",
                     "media_url_https": "https://pbs.twimg.com/media/EGhCE6DWkAUxoAs.jpg",
-                    "url": "https://t.co/pOBDLyHUuH",
-                    "display_url": "pic.twitter.com/pOBDLyHUuH",
-                    "expanded_url": "https://twitter.com/SHFGHistorians/status/1182267560135446529/photo/1",
-                    "type": "photo",
                     "sizes": {
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
-                        },
                         "large": {
-                            "w": 1498,
                             "h": 2048,
-                            "resize": "fit"
-                        },
-                        "small": {
-                            "w": 497,
-                            "h": 680,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 1498
                         },
                         "medium": {
-                            "w": 878,
                             "h": 1200,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 878
+                        },
+                        "small": {
+                            "h": 680,
+                            "resize": "fit",
+                            "w": 497
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
                         }
-                    }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/pOBDLyHUuH"
                 }
-            ]
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "shfg.wildapricot.org/Hewlett-Lecture",
+                    "expanded_url": "http://shfg.wildapricot.org/Hewlett-Lecture",
+                    "indices": [
+                        221,
+                        244
+                    ],
+                    "url": "https://t.co/8zXnufdUp1"
+                }
+            ],
+            "user_mentions": []
         },
         "extended_entities": {
             "media": [
                 {
+                    "display_url": "pic.twitter.com/pOBDLyHUuH",
+                    "expanded_url": "https://twitter.com/SHFGHistorians/status/1182267560135446529/photo/1",
+                    "ext_alt_text": null,
                     "id": 1182267554254983170,
                     "id_str": "1182267554254983173",
                     "indices": [
@@ -150,62 +151,61 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/EGhCE6DWkAUxoAs.jpg",
                     "media_url_https": "https://pbs.twimg.com/media/EGhCE6DWkAUxoAs.jpg",
-                    "url": "https://t.co/pOBDLyHUuH",
-                    "display_url": "pic.twitter.com/pOBDLyHUuH",
-                    "expanded_url": "https://twitter.com/SHFGHistorians/status/1182267560135446529/photo/1",
-                    "type": "photo",
                     "sizes": {
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
-                        },
                         "large": {
-                            "w": 1498,
                             "h": 2048,
-                            "resize": "fit"
-                        },
-                        "small": {
-                            "w": 497,
-                            "h": 680,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 1498
                         },
                         "medium": {
-                            "w": 878,
                             "h": 1200,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 878
+                        },
+                        "small": {
+                            "h": 680,
+                            "resize": "fit",
+                            "w": 497
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
                         }
                     },
-                    "ext_alt_text": null
+                    "type": "photo",
+                    "url": "https://t.co/pOBDLyHUuH"
                 }
             ]
         },
-        "source": "&lt;a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"&gt;Twitter for iPhone&lt;/a&gt;",
+        "favorite_count": 8,
+        "favorited": false,
+        "full_text": "2019 Hewlett Lecture: Celebrating SHFG at 40! Panel of past presidents &amp;amp; SHFG founding members discuss the evolution of federal history &amp;amp; SHFG on Oct 24. DC area \n#Twitterstorians join us for a great event! RSVP- https://t.co/8zXnufdUp1 #History #publichistory #Federal #swag https://t.co/pOBDLyHUuH",
+        "geo": null,
+        "id": 1182267560135446530,
+        "id_str": "1182267560135446529",
+        "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 2,
+        "retweeted": true,
+        "source": "&lt;a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"&gt;Twitter for iPhone&lt;/a&gt;",
+        "truncated": false,
         "user": {
             "id": 486867266,
             "id_str": "486867266"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 2,
-        "favorite_count": 8,
-        "favorited": false,
-        "retweeted": true,
-        "possibly_sensitive": false,
-        "lang": "en"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": true,
-    "lang": "en"
+    "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

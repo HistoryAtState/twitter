@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Nov 30 14:28:39 +0000 2015",
-    "id": 671335034855555070,
-    "id_str": "671335034855555072",
-    "full_text": "Office of the Historian releases #FRUS, 1977-80, Eastern Europe. Read it at: https://t.co/1YlbzaUDfG #twitterstorians",
-    "truncated": false,
     "display_text_range": [
         0,
         117
@@ -11,53 +9,55 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     33,
                     38
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "twitterstorians",
                 "indices": [
                     101,
                     117
-                ]
+                ],
+                "text": "twitterstorians"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "https://t.co/1YlbzaUDfG",
-                "expanded_url": "http://go.usa.gov/cgEAV",
                 "display_url": "go.usa.gov/cgEAV",
+                "expanded_url": "http://go.usa.gov/cgEAV",
                 "indices": [
                     77,
                     100
-                ]
+                ],
+                "url": "https://t.co/1YlbzaUDfG"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "Office of the Historian releases #FRUS, 1977-80, Eastern Europe. Read it at: https://t.co/1YlbzaUDfG #twitterstorians",
+    "geo": null,
+    "id": 671335034855555070,
+    "id_str": "671335034855555072",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 7,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 7,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

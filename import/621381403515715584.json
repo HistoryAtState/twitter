@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Wed Jul 15 18:10:45 +0000 2015",
-    "id": 621381403515715580,
-    "id_str": "621381403515715584",
-    "full_text": "What was early evaluation of Eisenhower’s July 1954 Public Law 480 (eventually became Food for Peace)? #FRUSFoodIs http://t.co/FUdA1vkrpt",
-    "truncated": false,
     "display_text_range": [
         0,
         137
@@ -11,46 +9,48 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUSFoodIs",
                 "indices": [
                     103,
                     114
-                ]
+                ],
+                "text": "FRUSFoodIs"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/FUdA1vkrpt",
-                "expanded_url": "http://go.usa.gov/3fJw4",
                 "display_url": "go.usa.gov/3fJw4",
+                "expanded_url": "http://go.usa.gov/3fJw4",
                 "indices": [
                     115,
                     137
-                ]
+                ],
+                "url": "http://t.co/FUdA1vkrpt"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "What was early evaluation of Eisenhower’s July 1954 Public Law 480 (eventually became Food for Peace)? #FRUSFoodIs http://t.co/FUdA1vkrpt",
+    "geo": null,
+    "id": 621381403515715580,
+    "id_str": "621381403515715584",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

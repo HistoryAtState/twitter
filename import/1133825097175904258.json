@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Wed May 29 19:59:03 +0000 2019",
-    "id": 1133825097175904260,
-    "id_str": "1133825097175904258",
-    "full_text": "The Office of the Historian is excited to announce that we are joining @FSIatState! Thank you to Ambassadors Smith &amp;amp; Noyes and all of #FSI for the warm welcome! We look forward to many years of collaboration with the energetic and innovative people of FSI! #FRUS #twitterstorians",
-    "truncated": false,
     "display_text_range": [
         0,
         283
@@ -11,60 +9,62 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FSI",
                 "indices": [
                     138,
                     142
-                ]
+                ],
+                "text": "FSI"
             },
             {
-                "text": "FRUS",
                 "indices": [
                     261,
                     266
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "twitterstorians",
                 "indices": [
                     267,
                     283
-                ]
+                ],
+                "text": "twitterstorians"
             }
         ],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "FSIatState",
-                "name": "Foreign Service Institute",
                 "id": 958044239576948740,
                 "id_str": "958044239576948736",
                 "indices": [
                     71,
                     82
-                ]
+                ],
+                "name": "Foreign Service Institute",
+                "screen_name": "FSIatState"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 13,
+    "favorited": false,
+    "full_text": "The Office of the Historian is excited to announce that we are joining @FSIatState! Thank you to Ambassadors Smith &amp;amp; Noyes and all of #FSI for the warm welcome! We look forward to many years of collaboration with the energetic and innovative people of FSI! #FRUS #twitterstorians",
+    "geo": null,
+    "id": 1133825097175904260,
+    "id_str": "1133825097175904258",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 7,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 7,
-    "favorite_count": 13,
-    "favorited": false,
-    "retweeted": false,
-    "lang": "en"
+    }
 }

@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Sep 08 19:02:07 +0000 2016",
-    "id": 773959617940455420,
-    "id_str": "773959617940455424",
-    "full_text": "VP Mondale and South African PM Vorster discussed race relations and Alex Hayley’s Roots. Read about it in https://t.co/ePopT1rCUz #FRUS",
-    "truncated": false,
     "display_text_range": [
         0,
         136
@@ -11,46 +9,48 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     131,
                     136
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "https://t.co/ePopT1rCUz",
-                "expanded_url": "http://go.usa.gov/xW53m",
                 "display_url": "go.usa.gov/xW53m",
+                "expanded_url": "http://go.usa.gov/xW53m",
                 "indices": [
                     107,
                     130
-                ]
+                ],
+                "url": "https://t.co/ePopT1rCUz"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "VP Mondale and South African PM Vorster discussed race relations and Alex Hayley’s Roots. Read about it in https://t.co/ePopT1rCUz #FRUS",
+    "geo": null,
+    "id": 773959617940455420,
+    "id_str": "773959617940455424",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

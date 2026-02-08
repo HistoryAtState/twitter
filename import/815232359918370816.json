@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Sat Dec 31 16:25:15 +0000 2016",
-    "id": 815232359918370820,
-    "id_str": "815232359918370816",
-    "full_text": "1968 #NYE celebrations in the #DominicanRepublic hint @ “redemption” &amp;amp; “liberation” https://t.co/u1nGhLY43W #FRUS @EmbajadaUSAenRD https://t.co/f8ZHojxUYP",
-    "truncated": false,
     "display_text_range": [
         0,
         134
@@ -11,53 +9,31 @@
     "entities": {
         "hashtags": [
             {
-                "text": "NYE",
                 "indices": [
                     5,
                     9
-                ]
+                ],
+                "text": "NYE"
             },
             {
-                "text": "DominicanRepublic",
                 "indices": [
                     30,
                     48
-                ]
+                ],
+                "text": "DominicanRepublic"
             },
             {
-                "text": "FRUS",
                 "indices": [
                     112,
                     117
-                ]
-            }
-        ],
-        "symbols": [],
-        "user_mentions": [
-            {
-                "screen_name": "EmbajadaUSAenRD",
-                "name": "EmbajadaUSAenRD",
-                "id": 35727265,
-                "id_str": "35727265",
-                "indices": [
-                    118,
-                    134
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "https://t.co/u1nGhLY43W",
-                "expanded_url": "http://go.usa.gov/x9YMY",
-                "display_url": "go.usa.gov/x9YMY",
-                "indices": [
-                    88,
-                    111
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "media": [
             {
+                "display_url": "pic.twitter.com/f8ZHojxUYP",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/815232359918370816/photo/1",
                 "id": 815232357972279300,
                 "id_str": "815232357972279296",
                 "indices": [
@@ -66,38 +42,63 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/C1BJgqJXgAAe_YQ.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/C1BJgqJXgAAe_YQ.jpg",
-                "url": "https://t.co/f8ZHojxUYP",
-                "display_url": "pic.twitter.com/f8ZHojxUYP",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/815232359918370816/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
-                    "small": {
-                        "w": 680,
-                        "h": 453,
-                        "resize": "fit"
+                    "large": {
+                        "h": 500,
+                        "resize": "fit",
+                        "w": 750
                     },
                     "medium": {
-                        "w": 750,
                         "h": 500,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 750
                     },
-                    "large": {
-                        "w": 750,
-                        "h": 500,
-                        "resize": "fit"
+                    "small": {
+                        "h": 453,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/f8ZHojxUYP"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "go.usa.gov/x9YMY",
+                "expanded_url": "http://go.usa.gov/x9YMY",
+                "indices": [
+                    88,
+                    111
+                ],
+                "url": "https://t.co/u1nGhLY43W"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 35727265,
+                "id_str": "35727265",
+                "indices": [
+                    118,
+                    134
+                ],
+                "name": "EmbajadaUSAenRD",
+                "screen_name": "EmbajadaUSAenRD"
             }
         ]
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/f8ZHojxUYP",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/815232359918370816/photo/1",
+                "ext_alt_text": null,
                 "id": 815232357972279300,
                 "id_str": "815232357972279296",
                 "indices": [
@@ -106,55 +107,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/C1BJgqJXgAAe_YQ.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/C1BJgqJXgAAe_YQ.jpg",
-                "url": "https://t.co/f8ZHojxUYP",
-                "display_url": "pic.twitter.com/f8ZHojxUYP",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/815232359918370816/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
-                    "small": {
-                        "w": 680,
-                        "h": 453,
-                        "resize": "fit"
+                    "large": {
+                        "h": 500,
+                        "resize": "fit",
+                        "w": 750
                     },
                     "medium": {
-                        "w": 750,
                         "h": 500,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 750
                     },
-                    "large": {
-                        "w": 750,
-                        "h": 500,
-                        "resize": "fit"
+                    "small": {
+                        "h": 453,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": null
+                "type": "photo",
+                "url": "https://t.co/f8ZHojxUYP"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "1968 #NYE celebrations in the #DominicanRepublic hint @ “redemption” &amp;amp; “liberation” https://t.co/u1nGhLY43W #FRUS @EmbajadaUSAenRD https://t.co/f8ZHojxUYP",
+    "geo": null,
+    "id": 815232359918370820,
+    "id_str": "815232359918370816",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

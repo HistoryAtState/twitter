@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Jan 23 15:32:33 +0000 2014",
-    "id": 426376919245139970,
-    "id_str": "426376919245139968",
-    "full_text": "Listen to @StateDept’s The Historian on “The Past &amp;amp; Future of the #FRUS Series” Monday 1/27 @ Wilson Ctr http://t.co/WPh0TLqPJR",
-    "truncated": false,
     "display_text_range": [
         0,
         131
@@ -11,57 +9,59 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     70,
                     75
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "symbols": [],
+        "urls": [
+            {
+                "display_url": "ow.ly/sQSqD",
+                "expanded_url": "http://ow.ly/sQSqD",
+                "indices": [
+                    109,
+                    131
+                ],
+                "url": "http://t.co/WPh0TLqPJR"
+            }
+        ],
         "user_mentions": [
             {
-                "screen_name": "StateDept",
-                "name": "Department of State",
                 "id": 9624742,
                 "id_str": "9624742",
                 "indices": [
                     10,
                     20
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "http://t.co/WPh0TLqPJR",
-                "expanded_url": "http://ow.ly/sQSqD",
-                "display_url": "ow.ly/sQSqD",
-                "indices": [
-                    109,
-                    131
-                ]
+                ],
+                "name": "Department of State",
+                "screen_name": "StateDept"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "Listen to @StateDept’s The Historian on “The Past &amp;amp; Future of the #FRUS Series” Monday 1/27 @ Wilson Ctr http://t.co/WPh0TLqPJR",
+    "geo": null,
+    "id": 426376919245139970,
+    "id_str": "426376919245139968",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

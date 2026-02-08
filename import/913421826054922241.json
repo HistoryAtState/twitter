@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Sep 28 15:15:08 +0000 2017",
-    "id": 913421826054922240,
-    "id_str": "913421826054922241",
-    "full_text": "Now available: Foreign Relations, Southeast Asia and the Pacific, 1977–1980 #FRUS #twitterstorians https://t.co/LtBeGCQ8Vz https://t.co/WmJq8l3PTX",
-    "truncated": false,
     "display_text_range": [
         0,
         122
@@ -11,35 +9,24 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     76,
                     81
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "twitterstorians",
                 "indices": [
                     82,
                     98
-                ]
-            }
-        ],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
-            {
-                "url": "https://t.co/LtBeGCQ8Vz",
-                "expanded_url": "https://go.usa.gov/xRh6D",
-                "display_url": "go.usa.gov/xRh6D",
-                "indices": [
-                    99,
-                    122
-                ]
+                ],
+                "text": "twitterstorians"
             }
         ],
         "media": [
             {
+                "display_url": "pic.twitter.com/WmJq8l3PTX",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/913421826054922241/photo/1",
                 "id": 913421823886454780,
                 "id_str": "913421823886454790",
                 "indices": [
@@ -48,38 +35,52 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/DK0gTy7XcAYaGwJ.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DK0gTy7XcAYaGwJ.jpg",
-                "url": "https://t.co/WmJq8l3PTX",
-                "display_url": "pic.twitter.com/WmJq8l3PTX",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/913421826054922241/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
-                    "small": {
-                        "w": 400,
-                        "h": 600,
-                        "resize": "fit"
-                    },
                     "large": {
-                        "w": 400,
                         "h": 600,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 400
                     },
                     "medium": {
-                        "w": 400,
                         "h": 600,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 400
+                    },
+                    "small": {
+                        "h": 600,
+                        "resize": "fit",
+                        "w": 400
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/WmJq8l3PTX"
             }
-        ]
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "go.usa.gov/xRh6D",
+                "expanded_url": "https://go.usa.gov/xRh6D",
+                "indices": [
+                    99,
+                    122
+                ],
+                "url": "https://t.co/LtBeGCQ8Vz"
+            }
+        ],
+        "user_mentions": []
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/WmJq8l3PTX",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/913421826054922241/photo/1",
+                "ext_alt_text": null,
                 "id": 913421823886454780,
                 "id_str": "913421823886454790",
                 "indices": [
@@ -88,55 +89,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/DK0gTy7XcAYaGwJ.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DK0gTy7XcAYaGwJ.jpg",
-                "url": "https://t.co/WmJq8l3PTX",
-                "display_url": "pic.twitter.com/WmJq8l3PTX",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/913421826054922241/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
-                    "small": {
-                        "w": 400,
-                        "h": 600,
-                        "resize": "fit"
-                    },
                     "large": {
-                        "w": 400,
                         "h": 600,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 400
                     },
                     "medium": {
-                        "w": 400,
                         "h": 600,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 400
+                    },
+                    "small": {
+                        "h": 600,
+                        "resize": "fit",
+                        "w": 400
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": null
+                "type": "photo",
+                "url": "https://t.co/WmJq8l3PTX"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 68,
+    "favorited": false,
+    "full_text": "Now available: Foreign Relations, Southeast Asia and the Pacific, 1977–1980 #FRUS #twitterstorians https://t.co/LtBeGCQ8Vz https://t.co/WmJq8l3PTX",
+    "geo": null,
+    "id": 913421826054922240,
+    "id_str": "913421826054922241",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 67,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 67,
-    "favorite_count": 68,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

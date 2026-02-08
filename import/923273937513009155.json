@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Wed Oct 25 19:43:54 +0000 2017",
-    "id": 923273937513009150,
-    "id_str": "923273937513009155",
-    "full_text": "RT @StateDept: .@HistoryAtState releases Foreign Relations of the US, 1977-1980, Volume XXIV, #SouthAmerica; #LatinAmerica. https://t.co/u8…",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,65 +9,65 @@
     "entities": {
         "hashtags": [
             {
-                "text": "SouthAmerica",
                 "indices": [
                     94,
                     107
-                ]
+                ],
+                "text": "SouthAmerica"
             },
             {
-                "text": "LatinAmerica",
                 "indices": [
                     109,
                     122
-                ]
+                ],
+                "text": "LatinAmerica"
             }
         ],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "StateDept",
-                "name": "Department of State",
                 "id": 9624742,
                 "id_str": "9624742",
                 "indices": [
                     3,
                     13
-                ]
+                ],
+                "name": "Department of State",
+                "screen_name": "StateDept"
             },
             {
-                "screen_name": "HistoryAtState",
-                "name": "HistoryAtState",
                 "id": 586570880,
                 "id_str": "586570880",
                 "indices": [
                     16,
                     31
-                ]
+                ],
+                "name": "HistoryAtState",
+                "screen_name": "HistoryAtState"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "RT @StateDept: .@HistoryAtState releases Foreign Relations of the US, 1977-1980, Volume XXIV, #SouthAmerica; #LatinAmerica. https://t.co/u8…",
+    "geo": null,
+    "id": 923273937513009150,
+    "id_str": "923273937513009155",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "retweet_count": 30,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Wed Oct 25 18:25:18 +0000 2017",
-        "id": 923254153404669950,
-        "id_str": "923254153404669953",
-        "full_text": ".@HistoryAtState releases Foreign Relations of the US, 1977-1980, Volume XXIV, #SouthAmerica; #LatinAmerica. https://t.co/u8U7CwqOHg #FRUS",
-        "truncated": false,
         "display_text_range": [
             0,
             138
@@ -77,78 +75,80 @@
         "entities": {
             "hashtags": [
                 {
-                    "text": "SouthAmerica",
                     "indices": [
                         79,
                         92
-                    ]
+                    ],
+                    "text": "SouthAmerica"
                 },
                 {
-                    "text": "LatinAmerica",
                     "indices": [
                         94,
                         107
-                    ]
+                    ],
+                    "text": "LatinAmerica"
                 },
                 {
-                    "text": "FRUS",
                     "indices": [
                         133,
                         138
-                    ]
+                    ],
+                    "text": "FRUS"
                 }
             ],
             "symbols": [],
+            "urls": [
+                {
+                    "display_url": "go.usa.gov/xngZh",
+                    "expanded_url": "https://go.usa.gov/xngZh",
+                    "indices": [
+                        109,
+                        132
+                    ],
+                    "url": "https://t.co/u8U7CwqOHg"
+                }
+            ],
             "user_mentions": [
                 {
-                    "screen_name": "HistoryAtState",
-                    "name": "HistoryAtState",
                     "id": 586570880,
                     "id_str": "586570880",
                     "indices": [
                         1,
                         16
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "https://t.co/u8U7CwqOHg",
-                    "expanded_url": "https://go.usa.gov/xngZh",
-                    "display_url": "go.usa.gov/xngZh",
-                    "indices": [
-                        109,
-                        132
-                    ]
+                    ],
+                    "name": "HistoryAtState",
+                    "screen_name": "HistoryAtState"
                 }
             ]
         },
-        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+        "favorite_count": 74,
+        "favorited": false,
+        "full_text": ".@HistoryAtState releases Foreign Relations of the US, 1977-1980, Volume XXIV, #SouthAmerica; #LatinAmerica. https://t.co/u8U7CwqOHg #FRUS",
+        "geo": null,
+        "id": 923254153404669950,
+        "id_str": "923254153404669953",
+        "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 30,
+        "retweeted": true,
+        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+        "truncated": false,
         "user": {
             "id": 9624742,
             "id_str": "9624742"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 30,
-        "favorite_count": 74,
-        "favorited": false,
-        "retweeted": true,
-        "possibly_sensitive": false,
-        "lang": "en"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 30,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": true,
-    "lang": "en"
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

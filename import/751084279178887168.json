@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Jul 07 16:03:41 +0000 2016",
-    "id": 751084279178887170,
-    "id_str": "751084279178887168",
-    "full_text": "RT @statedeptspox: Had a great tour of the @HistoryAtState office &amp;amp; visit with the hardworking team. Check out their fascinating work: http…",
-    "truncated": false,
     "display_text_range": [
         0,
         144
@@ -11,50 +9,50 @@
     "entities": {
         "hashtags": [],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "StateDeptSpox",
-                "name": "Ned Price",
                 "id": 1967216306,
                 "id_str": "1967216306",
                 "indices": [
                     3,
                     17
-                ]
+                ],
+                "name": "Ned Price",
+                "screen_name": "StateDeptSpox"
             },
             {
-                "screen_name": "HistoryAtState",
-                "name": "HistoryAtState",
                 "id": 586570880,
                 "id_str": "586570880",
                 "indices": [
                     43,
                     58
-                ]
+                ],
+                "name": "HistoryAtState",
+                "screen_name": "HistoryAtState"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "RT @statedeptspox: Had a great tour of the @HistoryAtState office &amp;amp; visit with the hardworking team. Check out their fascinating work: http…",
+    "geo": null,
+    "id": 751084279178887170,
+    "id_str": "751084279178887168",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "retweet_count": 8,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Thu Jul 07 15:41:40 +0000 2016",
-        "id": 751078739849519100,
-        "id_str": "751078739849519104",
-        "full_text": "Had a great tour of the @HistoryAtState office &amp;amp; visit with the hardworking team. Check out their fascinating work: https://t.co/3NzQqbayDY",
-        "truncated": false,
         "display_text_range": [
             0,
             143
@@ -62,56 +60,58 @@
         "entities": {
             "hashtags": [],
             "symbols": [],
+            "urls": [
+                {
+                    "display_url": "history.state.gov",
+                    "expanded_url": "https://history.state.gov/",
+                    "indices": [
+                        120,
+                        143
+                    ],
+                    "url": "https://t.co/3NzQqbayDY"
+                }
+            ],
             "user_mentions": [
                 {
-                    "screen_name": "HistoryAtState",
-                    "name": "HistoryAtState",
                     "id": 586570880,
                     "id_str": "586570880",
                     "indices": [
                         24,
                         39
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "https://t.co/3NzQqbayDY",
-                    "expanded_url": "https://history.state.gov/",
-                    "display_url": "history.state.gov",
-                    "indices": [
-                        120,
-                        143
-                    ]
+                    ],
+                    "name": "HistoryAtState",
+                    "screen_name": "HistoryAtState"
                 }
             ]
         },
-        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+        "favorite_count": 6,
+        "favorited": false,
+        "full_text": "Had a great tour of the @HistoryAtState office &amp;amp; visit with the hardworking team. Check out their fascinating work: https://t.co/3NzQqbayDY",
+        "geo": null,
+        "id": 751078739849519100,
+        "id_str": "751078739849519104",
+        "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 8,
+        "retweeted": true,
+        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+        "truncated": false,
         "user": {
             "id": 1967216306,
             "id_str": "1967216306"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 8,
-        "favorite_count": 6,
-        "favorited": false,
-        "retweeted": true,
-        "possibly_sensitive": false,
-        "lang": "en"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 8,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": true,
-    "lang": "en"
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

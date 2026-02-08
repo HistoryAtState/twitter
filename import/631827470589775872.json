@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Aug 13 13:59:42 +0000 2015",
-    "id": 631827470589775870,
-    "id_str": "631827470589775872",
-    "full_text": "RT @USConsLeipzig: RT @SamGonzales: Segment of the #BerlinWall in #DC \n#BeyondBerlinWall http://t.co/lnKpSeRL2Y",
-    "truncated": false,
     "display_text_range": [
         0,
         111
@@ -11,53 +9,31 @@
     "entities": {
         "hashtags": [
             {
-                "text": "BerlinWall",
                 "indices": [
                     51,
                     62
-                ]
+                ],
+                "text": "BerlinWall"
             },
             {
-                "text": "DC",
                 "indices": [
                     66,
                     69
-                ]
+                ],
+                "text": "DC"
             },
             {
-                "text": "BeyondBerlinWall",
                 "indices": [
                     71,
                     88
-                ]
+                ],
+                "text": "BeyondBerlinWall"
             }
         ],
-        "symbols": [],
-        "user_mentions": [
-            {
-                "screen_name": "USConsLeipzig",
-                "name": "US Consulate Leipzig",
-                "id": 73867813,
-                "id_str": "73867813",
-                "indices": [
-                    3,
-                    17
-                ]
-            },
-            {
-                "screen_name": "SamGonzales",
-                "name": "Sam",
-                "id": 6657,
-                "id_str": "6657",
-                "indices": [
-                    22,
-                    34
-                ]
-            }
-        ],
-        "urls": [],
         "media": [
             {
+                "display_url": "pic.twitter.com/lnKpSeRL2Y",
+                "expanded_url": "https://twitter.com/SamGonzales/status/631825757526994944/photo/1",
                 "id": 631825330244751360,
                 "id_str": "631825330244751360",
                 "indices": [
@@ -66,104 +42,127 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/CMSxylFVEAAVqz5.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/CMSxylFVEAAVqz5.jpg",
-                "url": "http://t.co/lnKpSeRL2Y",
-                "display_url": "pic.twitter.com/lnKpSeRL2Y",
-                "expanded_url": "https://twitter.com/SamGonzales/status/631825757526994944/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
                     "large": {
-                        "w": 1024,
                         "h": 1024,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1024
                     },
                     "medium": {
-                        "w": 1024,
                         "h": 1024,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1024
                     },
                     "small": {
-                        "w": 680,
                         "h": 680,
-                        "resize": "fit"
-                    }
-                },
-                "source_status_id": 631825757526994940,
-                "source_status_id_str": "631825757526994944",
-                "source_user_id": 6657,
-                "source_user_id_str": "6657"
-            }
-        ]
-    },
-    "extended_entities": {
-        "media": [
-            {
-                "id": 631825330244751360,
-                "id_str": "631825330244751360",
-                "indices": [
-                    89,
-                    111
-                ],
-                "media_url": "http://pbs.twimg.com/media/CMSxylFVEAAVqz5.jpg",
-                "media_url_https": "https://pbs.twimg.com/media/CMSxylFVEAAVqz5.jpg",
-                "url": "http://t.co/lnKpSeRL2Y",
-                "display_url": "pic.twitter.com/lnKpSeRL2Y",
-                "expanded_url": "https://twitter.com/SamGonzales/status/631825757526994944/photo/1",
-                "type": "photo",
-                "sizes": {
+                        "resize": "fit",
+                        "w": 680
+                    },
                     "thumb": {
-                        "w": 150,
                         "h": 150,
-                        "resize": "crop"
-                    },
-                    "large": {
-                        "w": 1024,
-                        "h": 1024,
-                        "resize": "fit"
-                    },
-                    "medium": {
-                        "w": 1024,
-                        "h": 1024,
-                        "resize": "fit"
-                    },
-                    "small": {
-                        "w": 680,
-                        "h": 680,
-                        "resize": "fit"
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
                 "source_status_id": 631825757526994940,
                 "source_status_id_str": "631825757526994944",
                 "source_user_id": 6657,
                 "source_user_id_str": "6657",
-                "ext_alt_text": null
+                "type": "photo",
+                "url": "http://t.co/lnKpSeRL2Y"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 73867813,
+                "id_str": "73867813",
+                "indices": [
+                    3,
+                    17
+                ],
+                "name": "US Consulate Leipzig",
+                "screen_name": "USConsLeipzig"
+            },
+            {
+                "id": 6657,
+                "id_str": "6657",
+                "indices": [
+                    22,
+                    34
+                ],
+                "name": "Sam",
+                "screen_name": "SamGonzales"
             }
         ]
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/lnKpSeRL2Y",
+                "expanded_url": "https://twitter.com/SamGonzales/status/631825757526994944/photo/1",
+                "ext_alt_text": null,
+                "id": 631825330244751360,
+                "id_str": "631825330244751360",
+                "indices": [
+                    89,
+                    111
+                ],
+                "media_url": "http://pbs.twimg.com/media/CMSxylFVEAAVqz5.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CMSxylFVEAAVqz5.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 631825757526994940,
+                "source_status_id_str": "631825757526994944",
+                "source_user_id": 6657,
+                "source_user_id_str": "6657",
+                "type": "photo",
+                "url": "http://t.co/lnKpSeRL2Y"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "RT @USConsLeipzig: RT @SamGonzales: Segment of the #BerlinWall in #DC \n#BeyondBerlinWall http://t.co/lnKpSeRL2Y",
+    "geo": null,
+    "id": 631827470589775870,
+    "id_str": "631827470589775872",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "possibly_sensitive": false,
+    "retweet_count": 20,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Thu Aug 13 13:57:14 +0000 2015",
-        "id": 631826850130587650,
-        "id_str": "631826850130587648",
-        "full_text": "RT @SamGonzales: Segment of the #BerlinWall in #DC \n#BeyondBerlinWall http://t.co/lnKpSeRL2Y",
-        "truncated": false,
         "display_text_range": [
             0,
             92
@@ -171,43 +170,31 @@
         "entities": {
             "hashtags": [
                 {
-                    "text": "BerlinWall",
                     "indices": [
                         32,
                         43
-                    ]
+                    ],
+                    "text": "BerlinWall"
                 },
                 {
-                    "text": "DC",
                     "indices": [
                         47,
                         50
-                    ]
+                    ],
+                    "text": "DC"
                 },
                 {
-                    "text": "BeyondBerlinWall",
                     "indices": [
                         52,
                         69
-                    ]
+                    ],
+                    "text": "BeyondBerlinWall"
                 }
             ],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "SamGonzales",
-                    "name": "Sam",
-                    "id": 6657,
-                    "id_str": "6657",
-                    "indices": [
-                        3,
-                        15
-                    ]
-                }
-            ],
-            "urls": [],
             "media": [
                 {
+                    "display_url": "pic.twitter.com/lnKpSeRL2Y",
+                    "expanded_url": "https://twitter.com/SamGonzales/status/631825757526994944/photo/1",
                     "id": 631825330244751360,
                     "id_str": "631825330244751360",
                     "indices": [
@@ -216,111 +203,124 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/CMSxylFVEAAVqz5.jpg",
                     "media_url_https": "https://pbs.twimg.com/media/CMSxylFVEAAVqz5.jpg",
-                    "url": "http://t.co/lnKpSeRL2Y",
-                    "display_url": "pic.twitter.com/lnKpSeRL2Y",
-                    "expanded_url": "https://twitter.com/SamGonzales/status/631825757526994944/photo/1",
-                    "type": "photo",
                     "sizes": {
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
-                        },
                         "large": {
-                            "w": 1024,
                             "h": 1024,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 1024
                         },
                         "medium": {
-                            "w": 1024,
                             "h": 1024,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 1024
                         },
                         "small": {
-                            "w": 680,
                             "h": 680,
-                            "resize": "fit"
-                        }
-                    },
-                    "source_status_id": 631825757526994940,
-                    "source_status_id_str": "631825757526994944",
-                    "source_user_id": 6657,
-                    "source_user_id_str": "6657"
-                }
-            ]
-        },
-        "extended_entities": {
-            "media": [
-                {
-                    "id": 631825330244751360,
-                    "id_str": "631825330244751360",
-                    "indices": [
-                        70,
-                        92
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/CMSxylFVEAAVqz5.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/CMSxylFVEAAVqz5.jpg",
-                    "url": "http://t.co/lnKpSeRL2Y",
-                    "display_url": "pic.twitter.com/lnKpSeRL2Y",
-                    "expanded_url": "https://twitter.com/SamGonzales/status/631825757526994944/photo/1",
-                    "type": "photo",
-                    "sizes": {
+                            "resize": "fit",
+                            "w": 680
+                        },
                         "thumb": {
-                            "w": 150,
                             "h": 150,
-                            "resize": "crop"
-                        },
-                        "large": {
-                            "w": 1024,
-                            "h": 1024,
-                            "resize": "fit"
-                        },
-                        "medium": {
-                            "w": 1024,
-                            "h": 1024,
-                            "resize": "fit"
-                        },
-                        "small": {
-                            "w": 680,
-                            "h": 680,
-                            "resize": "fit"
+                            "resize": "crop",
+                            "w": 150
                         }
                     },
                     "source_status_id": 631825757526994940,
                     "source_status_id_str": "631825757526994944",
                     "source_user_id": 6657,
                     "source_user_id_str": "6657",
-                    "ext_alt_text": null
+                    "type": "photo",
+                    "url": "http://t.co/lnKpSeRL2Y"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 6657,
+                    "id_str": "6657",
+                    "indices": [
+                        3,
+                        15
+                    ],
+                    "name": "Sam",
+                    "screen_name": "SamGonzales"
                 }
             ]
         },
-        "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+        "extended_entities": {
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/lnKpSeRL2Y",
+                    "expanded_url": "https://twitter.com/SamGonzales/status/631825757526994944/photo/1",
+                    "ext_alt_text": null,
+                    "id": 631825330244751360,
+                    "id_str": "631825330244751360",
+                    "indices": [
+                        70,
+                        92
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CMSxylFVEAAVqz5.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CMSxylFVEAAVqz5.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 1024,
+                            "resize": "fit",
+                            "w": 1024
+                        },
+                        "medium": {
+                            "h": 1024,
+                            "resize": "fit",
+                            "w": 1024
+                        },
+                        "small": {
+                            "h": 680,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "source_status_id": 631825757526994940,
+                    "source_status_id_str": "631825757526994944",
+                    "source_user_id": 6657,
+                    "source_user_id_str": "6657",
+                    "type": "photo",
+                    "url": "http://t.co/lnKpSeRL2Y"
+                }
+            ]
+        },
+        "favorite_count": 10,
+        "favorited": false,
+        "full_text": "RT @SamGonzales: Segment of the #BerlinWall in #DC \n#BeyondBerlinWall http://t.co/lnKpSeRL2Y",
+        "geo": null,
+        "id": 631826850130587650,
+        "id_str": "631826850130587648",
+        "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 20,
+        "retweeted": true,
+        "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+        "truncated": false,
         "user": {
             "id": 73867813,
             "id_str": "73867813"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 20,
-        "favorite_count": 10,
-        "favorited": false,
-        "retweeted": true,
-        "possibly_sensitive": false,
-        "lang": "en"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 20,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": true,
-    "possibly_sensitive": false,
-    "lang": "en"
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

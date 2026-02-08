@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Sep 12 20:02:27 +0000 2022",
-    "id": 1569416167835443200,
-    "id_str": "1569416167835443200",
-    "full_text": "“This is THE SUPER BOWL,” Secretary Shultz wrote to President Reagan of the U.S.-Soviet Geneva Summit of 1985. 🏈\n\nRead Shultz’s enthusiasm for these historic talks on the nuclear arms race in #FRUS:\nhttps://t.co/G2SRCOLCFc\n\n📷 @Reagan_Library  (NARA ID: 75854473) https://t.co/9SyY3b7Xo4",
-    "truncated": false,
     "display_text_range": [
         0,
         262
@@ -11,39 +9,17 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     192,
                     197
-                ]
-            }
-        ],
-        "symbols": [],
-        "user_mentions": [
-            {
-                "screen_name": "Reagan_Library",
-                "name": "RonaldReaganLibrary",
-                "id": 394351710,
-                "id_str": "394351710",
-                "indices": [
-                    226,
-                    241
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "https://t.co/G2SRCOLCFc",
-                "expanded_url": "http://ow.ly/2yl750KCYs5",
-                "display_url": "ow.ly/2yl750KCYs5",
-                "indices": [
-                    199,
-                    222
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "media": [
             {
+                "display_url": "pic.twitter.com/9SyY3b7Xo4",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1569416167835443200/photo/1",
                 "id": 1569416165566435330,
                 "id_str": "1569416165566435328",
                 "indices": [
@@ -52,38 +28,63 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/Fcevr_1X0AAfl7u.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/Fcevr_1X0AAfl7u.jpg",
-                "url": "https://t.co/9SyY3b7Xo4",
-                "display_url": "pic.twitter.com/9SyY3b7Xo4",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1569416167835443200/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
+                    "large": {
+                        "h": 665,
+                        "resize": "fit",
+                        "w": 1000
                     },
                     "medium": {
-                        "w": 1000,
                         "h": 665,
-                        "resize": "fit"
-                    },
-                    "large": {
-                        "w": 1000,
-                        "h": 665,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1000
                     },
                     "small": {
-                        "w": 680,
                         "h": 452,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/9SyY3b7Xo4"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "ow.ly/2yl750KCYs5",
+                "expanded_url": "http://ow.ly/2yl750KCYs5",
+                "indices": [
+                    199,
+                    222
+                ],
+                "url": "https://t.co/G2SRCOLCFc"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 394351710,
+                "id_str": "394351710",
+                "indices": [
+                    226,
+                    241
+                ],
+                "name": "RonaldReaganLibrary",
+                "screen_name": "Reagan_Library"
             }
         ]
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/9SyY3b7Xo4",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1569416167835443200/photo/1",
+                "ext_alt_text": "Color photograph: “President Ronald Reagan Meeting with Soviet General Secretary Gorbachev at Maison De Saussure During The Geneva Summit” Reagan and Gorbachev seated on a red sofa, with male staffers standing and kneeling around them (NARA ID 75854473)",
                 "id": 1569416165566435330,
                 "id_str": "1569416165566435328",
                 "indices": [
@@ -92,55 +93,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/Fcevr_1X0AAfl7u.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/Fcevr_1X0AAfl7u.jpg",
-                "url": "https://t.co/9SyY3b7Xo4",
-                "display_url": "pic.twitter.com/9SyY3b7Xo4",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1569416167835443200/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
+                    "large": {
+                        "h": 665,
+                        "resize": "fit",
+                        "w": 1000
                     },
                     "medium": {
-                        "w": 1000,
                         "h": 665,
-                        "resize": "fit"
-                    },
-                    "large": {
-                        "w": 1000,
-                        "h": 665,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1000
                     },
                     "small": {
-                        "w": 680,
                         "h": 452,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": "Color photograph: “President Ronald Reagan Meeting with Soviet General Secretary Gorbachev at Maison De Saussure During The Geneva Summit” Reagan and Gorbachev seated on a red sofa, with male staffers standing and kneeling around them (NARA ID 75854473)"
+                "type": "photo",
+                "url": "https://t.co/9SyY3b7Xo4"
             }
         ]
     },
-    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "favorite_count": 3,
+    "favorited": false,
+    "full_text": "“This is THE SUPER BOWL,” Secretary Shultz wrote to President Reagan of the U.S.-Soviet Geneva Summit of 1985. 🏈\n\nRead Shultz’s enthusiasm for these historic talks on the nuclear arms race in #FRUS:\nhttps://t.co/G2SRCOLCFc\n\n📷 @Reagan_Library  (NARA ID: 75854473) https://t.co/9SyY3b7Xo4",
+    "geo": null,
+    "id": 1569416167835443200,
+    "id_str": "1569416167835443200",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4,
+    "retweeted": false,
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 3,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

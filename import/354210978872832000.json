@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Jul 08 12:10:52 +0000 2013",
-    "id": 354210978872832000,
-    "id_str": "354210978872832000",
-    "full_text": "Improve research, analytical, &amp;amp; editing skills by eInterning with us. Apply now http://t.co/MsIzPmXQ1g @HistoryAtState descriptions RT’d now",
-    "truncated": false,
     "display_text_range": [
         0,
         144
@@ -11,49 +9,51 @@
     "entities": {
         "hashtags": [],
         "symbols": [],
+        "urls": [
+            {
+                "display_url": "go.usa.gov/bvDT",
+                "expanded_url": "http://go.usa.gov/bvDT",
+                "indices": [
+                    84,
+                    106
+                ],
+                "url": "http://t.co/MsIzPmXQ1g"
+            }
+        ],
         "user_mentions": [
             {
-                "screen_name": "HistoryAtState",
-                "name": "HistoryAtState",
                 "id": 586570880,
                 "id_str": "586570880",
                 "indices": [
                     107,
                     122
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "http://t.co/MsIzPmXQ1g",
-                "expanded_url": "http://go.usa.gov/bvDT",
-                "display_url": "go.usa.gov/bvDT",
-                "indices": [
-                    84,
-                    106
-                ]
+                ],
+                "name": "HistoryAtState",
+                "screen_name": "HistoryAtState"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "Improve research, analytical, &amp;amp; editing skills by eInterning with us. Apply now http://t.co/MsIzPmXQ1g @HistoryAtState descriptions RT’d now",
+    "geo": null,
+    "id": 354210978872832000,
+    "id_str": "354210978872832000",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

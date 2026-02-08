@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Jul 03 14:07:07 +0000 2014",
-    "id": 484699864140636160,
-    "id_str": "484699864140636160",
-    "full_text": "Not just an Amb’s wife, Marie Marye help to nurse the wounded and needy and won the Czarina’s praise http://t.co/VHYy7Z4tf6 #WW1",
-    "truncated": false,
     "display_text_range": [
         0,
         128
@@ -11,46 +9,48 @@
     "entities": {
         "hashtags": [
             {
-                "text": "WW1",
                 "indices": [
                     124,
                     128
-                ]
+                ],
+                "text": "WW1"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/VHYy7Z4tf6",
-                "expanded_url": "http://ow.ly/yK5Kk",
                 "display_url": "ow.ly/yK5Kk",
+                "expanded_url": "http://ow.ly/yK5Kk",
                 "indices": [
                     101,
                     123
-                ]
+                ],
+                "url": "http://t.co/VHYy7Z4tf6"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 1,
+    "favorited": false,
+    "full_text": "Not just an Amb’s wife, Marie Marye help to nurse the wounded and needy and won the Czarina’s praise http://t.co/VHYy7Z4tf6 #WW1",
+    "geo": null,
+    "id": 484699864140636160,
+    "id_str": "484699864140636160",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 1,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

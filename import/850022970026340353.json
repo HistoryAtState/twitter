@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Apr 06 16:30:43 +0000 2017",
-    "id": 850022970026340350,
-    "id_str": "850022970026340353",
-    "full_text": "NOW: Papers Relating to #ForeignRelations, w/ @POTUS Addy to #Congress, #1914 https://t.co/6JDQaF7tMO #FRUS #WWI #history @librarycongress",
-    "truncated": false,
     "display_text_range": [
         0,
         138
@@ -11,95 +9,97 @@
     "entities": {
         "hashtags": [
             {
-                "text": "ForeignRelations",
                 "indices": [
                     24,
                     41
-                ]
+                ],
+                "text": "ForeignRelations"
             },
             {
-                "text": "Congress",
                 "indices": [
                     61,
                     70
-                ]
+                ],
+                "text": "Congress"
             },
             {
-                "text": "FRUS",
                 "indices": [
                     102,
                     107
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "WWI",
                 "indices": [
                     108,
                     112
-                ]
+                ],
+                "text": "WWI"
             },
             {
-                "text": "history",
                 "indices": [
                     113,
                     121
-                ]
+                ],
+                "text": "history"
             }
         ],
         "symbols": [],
+        "urls": [
+            {
+                "display_url": "go.usa.gov/xXR6S",
+                "expanded_url": "https://go.usa.gov/xXR6S",
+                "indices": [
+                    78,
+                    101
+                ],
+                "url": "https://t.co/6JDQaF7tMO"
+            }
+        ],
         "user_mentions": [
             {
-                "screen_name": "POTUS",
-                "name": "President Biden",
                 "id": 1349149096909668350,
                 "id_str": "1349149096909668363",
                 "indices": [
                     46,
                     52
-                ]
+                ],
+                "name": "President Biden",
+                "screen_name": "POTUS"
             },
             {
-                "screen_name": "librarycongress",
-                "name": "Library of Congress",
                 "id": 7152572,
                 "id_str": "7152572",
                 "indices": [
                     122,
                     138
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "https://t.co/6JDQaF7tMO",
-                "expanded_url": "https://go.usa.gov/xXR6S",
-                "display_url": "go.usa.gov/xXR6S",
-                "indices": [
-                    78,
-                    101
-                ]
+                ],
+                "name": "Library of Congress",
+                "screen_name": "librarycongress"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "NOW: Papers Relating to #ForeignRelations, w/ @POTUS Addy to #Congress, #1914 https://t.co/6JDQaF7tMO #FRUS #WWI #history @librarycongress",
+    "geo": null,
+    "id": 850022970026340350,
+    "id_str": "850022970026340353",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

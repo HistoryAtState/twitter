@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Wed Jul 03 17:00:27 +0000 2013",
-    "id": 352471913144135680,
-    "id_str": "352471913144135681",
-    "full_text": "Think your network connection is slow? Check out communications latency in this  #CivilWar diplomacy timeline! #FRUS http://t.co/wyhBrW80Qa",
-    "truncated": false,
     "display_text_range": [
         0,
         139
@@ -11,53 +9,55 @@
     "entities": {
         "hashtags": [
             {
-                "text": "CivilWar",
                 "indices": [
                     81,
                     90
-                ]
+                ],
+                "text": "CivilWar"
             },
             {
-                "text": "FRUS",
                 "indices": [
                     111,
                     116
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/wyhBrW80Qa",
-                "expanded_url": "http://go.usa.gov/bhVj",
                 "display_url": "go.usa.gov/bhVj",
+                "expanded_url": "http://go.usa.gov/bhVj",
                 "indices": [
                     117,
                     139
-                ]
+                ],
+                "url": "http://t.co/wyhBrW80Qa"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "Think your network connection is slow? Check out communications latency in this  #CivilWar diplomacy timeline! #FRUS http://t.co/wyhBrW80Qa",
+    "geo": null,
+    "id": 352471913144135680,
+    "id_str": "352471913144135681",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

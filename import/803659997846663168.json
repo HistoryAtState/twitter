@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Nov 29 18:00:49 +0000 2016",
-    "id": 803659997846663170,
-    "id_str": "803659997846663168",
-    "full_text": "#SecState Dulles weighs #POTUS meet w #Castro @ 1959 US visit: https://t.co/FPrSaqTh0C #FRUS @WhiteHouseHstry @IkeLibrary #twitterstorians https://t.co/bpyEHtN95u",
-    "truncated": false,
     "display_text_range": [
         0,
         138
@@ -11,77 +9,45 @@
     "entities": {
         "hashtags": [
             {
-                "text": "SecState",
                 "indices": [
                     0,
                     9
-                ]
+                ],
+                "text": "SecState"
             },
             {
-                "text": "POTUS",
                 "indices": [
                     24,
                     30
-                ]
+                ],
+                "text": "POTUS"
             },
             {
-                "text": "Castro",
                 "indices": [
                     38,
                     45
-                ]
+                ],
+                "text": "Castro"
             },
             {
-                "text": "FRUS",
                 "indices": [
                     87,
                     92
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "twitterstorians",
                 "indices": [
                     122,
                     138
-                ]
-            }
-        ],
-        "symbols": [],
-        "user_mentions": [
-            {
-                "screen_name": "WhiteHouseHstry",
-                "name": "White House History",
-                "id": 106448460,
-                "id_str": "106448460",
-                "indices": [
-                    93,
-                    109
-                ]
-            },
-            {
-                "screen_name": "IkeLibrary",
-                "name": "Eisenhower Library",
-                "id": 126086206,
-                "id_str": "126086206",
-                "indices": [
-                    110,
-                    121
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "https://t.co/FPrSaqTh0C",
-                "expanded_url": "http://go.usa.gov/x8Njf",
-                "display_url": "go.usa.gov/x8Njf",
-                "indices": [
-                    63,
-                    86
-                ]
+                ],
+                "text": "twitterstorians"
             }
         ],
         "media": [
             {
+                "display_url": "pic.twitter.com/bpyEHtN95u",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/803659997846663168/photo/1",
                 "id": 803659992154849280,
                 "id_str": "803659992154849280",
                 "indices": [
@@ -90,38 +56,73 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/CycsgUCVQAArBO_.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/CycsgUCVQAArBO_.jpg",
-                "url": "https://t.co/bpyEHtN95u",
-                "display_url": "pic.twitter.com/bpyEHtN95u",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/803659997846663168/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "medium": {
-                        "w": 900,
-                        "h": 1200,
-                        "resize": "fit"
-                    },
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
                     "large": {
-                        "w": 1536,
                         "h": 2048,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1536
+                    },
+                    "medium": {
+                        "h": 1200,
+                        "resize": "fit",
+                        "w": 900
                     },
                     "small": {
-                        "w": 510,
                         "h": 680,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 510
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/bpyEHtN95u"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "go.usa.gov/x8Njf",
+                "expanded_url": "http://go.usa.gov/x8Njf",
+                "indices": [
+                    63,
+                    86
+                ],
+                "url": "https://t.co/FPrSaqTh0C"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 106448460,
+                "id_str": "106448460",
+                "indices": [
+                    93,
+                    109
+                ],
+                "name": "White House History",
+                "screen_name": "WhiteHouseHstry"
+            },
+            {
+                "id": 126086206,
+                "id_str": "126086206",
+                "indices": [
+                    110,
+                    121
+                ],
+                "name": "Eisenhower Library",
+                "screen_name": "IkeLibrary"
             }
         ]
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/bpyEHtN95u",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/803659997846663168/photo/1",
+                "ext_alt_text": null,
                 "id": 803659992154849280,
                 "id_str": "803659992154849280",
                 "indices": [
@@ -130,55 +131,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/CycsgUCVQAArBO_.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/CycsgUCVQAArBO_.jpg",
-                "url": "https://t.co/bpyEHtN95u",
-                "display_url": "pic.twitter.com/bpyEHtN95u",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/803659997846663168/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "medium": {
-                        "w": 900,
-                        "h": 1200,
-                        "resize": "fit"
-                    },
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
                     "large": {
-                        "w": 1536,
                         "h": 2048,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1536
+                    },
+                    "medium": {
+                        "h": 1200,
+                        "resize": "fit",
+                        "w": 900
                     },
                     "small": {
-                        "w": 510,
                         "h": 680,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 510
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": null
+                "type": "photo",
+                "url": "https://t.co/bpyEHtN95u"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "#SecState Dulles weighs #POTUS meet w #Castro @ 1959 US visit: https://t.co/FPrSaqTh0C #FRUS @WhiteHouseHstry @IkeLibrary #twitterstorians https://t.co/bpyEHtN95u",
+    "geo": null,
+    "id": 803659997846663170,
+    "id_str": "803659997846663168",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

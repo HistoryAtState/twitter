@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Wed Mar 16 18:54:03 +0000 2016",
-    "id": 710177326840020990,
-    "id_str": "710177326840020992",
-    "full_text": "On 1/17/83, Ronald #Reagan signed NSDD–75, “US Relations with the USSR.” Read more in #FRUS Soviet Union, 1/81–1/83: https://t.co/nNWTxUxzuO",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,53 +9,55 @@
     "entities": {
         "hashtags": [
             {
-                "text": "Reagan",
                 "indices": [
                     19,
                     26
-                ]
+                ],
+                "text": "Reagan"
             },
             {
-                "text": "FRUS",
                 "indices": [
                     86,
                     91
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "https://t.co/nNWTxUxzuO",
-                "expanded_url": "http://go.usa.gov/cGQCJ",
                 "display_url": "go.usa.gov/cGQCJ",
+                "expanded_url": "http://go.usa.gov/cGQCJ",
                 "indices": [
                     117,
                     140
-                ]
+                ],
+                "url": "https://t.co/nNWTxUxzuO"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 1,
+    "favorited": false,
+    "full_text": "On 1/17/83, Ronald #Reagan signed NSDD–75, “US Relations with the USSR.” Read more in #FRUS Soviet Union, 1/81–1/83: https://t.co/nNWTxUxzuO",
+    "geo": null,
+    "id": 710177326840020990,
+    "id_str": "710177326840020992",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 1,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

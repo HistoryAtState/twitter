@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Fri Aug 13 15:37:37 +0000 2021",
-    "id": 1426206313843994620,
-    "id_str": "1426206313843994634",
-    "full_text": "RT @tei_publisher: Special thanks to @HistoryAtState for spearheading and funding the efforts which resulted in the annotation editor!\n\nAnd…",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,92 +9,60 @@
     "entities": {
         "hashtags": [],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "tei_publisher",
-                "name": "TEI Publisher",
                 "id": 1227642241570820100,
                 "id_str": "1227642241570820103",
                 "indices": [
                     3,
                     17
-                ]
+                ],
+                "name": "TEI Publisher",
+                "screen_name": "tei_publisher"
             },
             {
-                "screen_name": "HistoryAtState",
-                "name": "HistoryAtState",
                 "id": 586570880,
                 "id_str": "586570880",
                 "indices": [
                     37,
                     52
-                ]
+                ],
+                "name": "HistoryAtState",
+                "screen_name": "HistoryAtState"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": true,
+    "full_text": "RT @tei_publisher: Special thanks to @HistoryAtState for spearheading and funding the efforts which resulted in the annotation editor!\n\nAnd…",
+    "geo": null,
+    "id": 1426206313843994620,
+    "id_str": "1426206313843994634",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "retweet_count": 11,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Wed Aug 11 20:18:30 +0000 2021",
-        "id": 1425552224462180350,
-        "id_str": "1425552224462180362",
-        "full_text": "Special thanks to @HistoryAtState for spearheading and funding the efforts which resulted in the annotation editor!\n\nAnd big thanks to Bernoulli-Euler Zentrum @UniBasel for sponsoring the Math feature! \n\nInterested in sponsoring a release? Get in contact with @EEditiones https://t.co/7bPAFzNOwD",
-        "truncated": false,
         "display_text_range": [
             0,
             271
         ],
         "entities": {
             "hashtags": [],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "HistoryAtState",
-                    "name": "HistoryAtState",
-                    "id": 586570880,
-                    "id_str": "586570880",
-                    "indices": [
-                        18,
-                        33
-                    ]
-                },
-                {
-                    "screen_name": "UniBasel",
-                    "name": "Universität Basel",
-                    "id": 141164574,
-                    "id_str": "141164574",
-                    "indices": [
-                        159,
-                        168
-                    ]
-                },
-                {
-                    "screen_name": "EEditiones",
-                    "name": "e-editiones.org",
-                    "id": 1257338310453755900,
-                    "id_str": "1257338310453755911",
-                    "indices": [
-                        260,
-                        271
-                    ]
-                }
-            ],
-            "urls": [],
             "media": [
                 {
+                    "display_url": "pic.twitter.com/7bPAFzNOwD",
+                    "expanded_url": "https://twitter.com/tei_publisher/status/1425552224462180362/photo/1",
                     "id": 1425552216543354880,
                     "id_str": "1425552216543354887",
                     "indices": [
@@ -105,38 +71,73 @@
                     ],
                     "media_url": "http://pbs.twimg.com/tweet_video_thumb/E8iUMCPWYAclw6n.jpg",
                     "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E8iUMCPWYAclw6n.jpg",
-                    "url": "https://t.co/7bPAFzNOwD",
-                    "display_url": "pic.twitter.com/7bPAFzNOwD",
-                    "expanded_url": "https://twitter.com/tei_publisher/status/1425552224462180362/photo/1",
-                    "type": "photo",
                     "sizes": {
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
-                        },
                         "large": {
-                            "w": 498,
                             "h": 498,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 498
                         },
                         "medium": {
-                            "w": 498,
                             "h": 498,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 498
                         },
                         "small": {
-                            "w": 498,
                             "h": 498,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 498
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
                         }
-                    }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/7bPAFzNOwD"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 586570880,
+                    "id_str": "586570880",
+                    "indices": [
+                        18,
+                        33
+                    ],
+                    "name": "HistoryAtState",
+                    "screen_name": "HistoryAtState"
+                },
+                {
+                    "id": 141164574,
+                    "id_str": "141164574",
+                    "indices": [
+                        159,
+                        168
+                    ],
+                    "name": "Universität Basel",
+                    "screen_name": "UniBasel"
+                },
+                {
+                    "id": 1257338310453755900,
+                    "id_str": "1257338310453755911",
+                    "indices": [
+                        260,
+                        271
+                    ],
+                    "name": "e-editiones.org",
+                    "screen_name": "EEditiones"
                 }
             ]
         },
         "extended_entities": {
             "media": [
                 {
+                    "display_url": "pic.twitter.com/7bPAFzNOwD",
+                    "expanded_url": "https://twitter.com/tei_publisher/status/1425552224462180362/photo/1",
+                    "ext_alt_text": "Thank You Sending AVery Big Thank You GIF",
                     "id": 1425552216543354880,
                     "id_str": "1425552216543354887",
                     "indices": [
@@ -145,32 +146,30 @@
                     ],
                     "media_url": "http://pbs.twimg.com/tweet_video_thumb/E8iUMCPWYAclw6n.jpg",
                     "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E8iUMCPWYAclw6n.jpg",
-                    "url": "https://t.co/7bPAFzNOwD",
-                    "display_url": "pic.twitter.com/7bPAFzNOwD",
-                    "expanded_url": "https://twitter.com/tei_publisher/status/1425552224462180362/photo/1",
-                    "type": "animated_gif",
                     "sizes": {
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
-                        },
                         "large": {
-                            "w": 498,
                             "h": 498,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 498
                         },
                         "medium": {
-                            "w": 498,
                             "h": 498,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 498
                         },
                         "small": {
-                            "w": 498,
                             "h": 498,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 498
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
                         }
                     },
+                    "type": "animated_gif",
+                    "url": "https://t.co/7bPAFzNOwD",
                     "video_info": {
                         "aspect_ratio": [
                             1,
@@ -183,37 +182,38 @@
                                 "url": "https://video.twimg.com/tweet_video/E8iUMCPWYAclw6n.mp4"
                             }
                         ]
-                    },
-                    "ext_alt_text": "Thank You Sending AVery Big Thank You GIF"
+                    }
                 }
             ]
         },
-        "source": "&lt;a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"&gt;Twitter for iPhone&lt;/a&gt;",
+        "favorite_count": 14,
+        "favorited": true,
+        "full_text": "Special thanks to @HistoryAtState for spearheading and funding the efforts which resulted in the annotation editor!\n\nAnd big thanks to Bernoulli-Euler Zentrum @UniBasel for sponsoring the Math feature! \n\nInterested in sponsoring a release? Get in contact with @EEditiones https://t.co/7bPAFzNOwD",
+        "geo": null,
+        "id": 1425552224462180350,
+        "id_str": "1425552224462180362",
+        "in_reply_to_screen_name": "tei_publisher",
         "in_reply_to_status_id": 1425186060556963840,
         "in_reply_to_status_id_str": "1425186060556963842",
         "in_reply_to_user_id": 1227642241570820100,
         "in_reply_to_user_id_str": "1227642241570820103",
-        "in_reply_to_screen_name": "tei_publisher",
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 11,
+        "retweeted": true,
+        "source": "&lt;a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"&gt;Twitter for iPhone&lt;/a&gt;",
+        "truncated": false,
         "user": {
             "id": 1227642241570820100,
             "id_str": "1227642241570820103"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 11,
-        "favorite_count": 14,
-        "favorited": true,
-        "retweeted": true,
-        "possibly_sensitive": false,
-        "lang": "en"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 11,
-    "favorite_count": 0,
-    "favorited": true,
-    "retweeted": true,
-    "lang": "en"
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

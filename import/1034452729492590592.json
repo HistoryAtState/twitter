@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Aug 28 14:48:44 +0000 2018",
-    "id": 1034452729492590590,
-    "id_str": "1034452729492590592",
-    "full_text": "Now available: Foreign Relations, 1872, Papers Relating to the Treaty of Washington, Part II, Vol. IV https://t.co/4q93oikDcb #FRUS",
-    "truncated": false,
     "display_text_range": [
         0,
         131
@@ -11,46 +9,48 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     126,
                     131
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "https://t.co/4q93oikDcb",
-                "expanded_url": "https://history.state.gov/historicaldocuments/frus1872p2v4",
                 "display_url": "history.state.gov/historicaldocu…",
+                "expanded_url": "https://history.state.gov/historicaldocuments/frus1872p2v4",
                 "indices": [
                     102,
                     125
-                ]
+                ],
+                "url": "https://t.co/4q93oikDcb"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 5,
+    "favorited": false,
+    "full_text": "Now available: Foreign Relations, 1872, Papers Relating to the Treaty of Washington, Part II, Vol. IV https://t.co/4q93oikDcb #FRUS",
+    "geo": null,
+    "id": 1034452729492590590,
+    "id_str": "1034452729492590592",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 5,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

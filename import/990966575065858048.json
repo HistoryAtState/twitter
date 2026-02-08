@@ -1,51 +1,17 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Apr 30 14:50:17 +0000 2018",
-    "id": 990966575065858050,
-    "id_str": "990966575065858048",
-    "full_text": "In April 1947, President Harry S. Truman officially opened the @WhiteHouse bowling alley. Historians from the @StateDept Office of the Historian (@HistoryAtState) rolled a few strikes there in 2016. https://t.co/TCJnm53H9q",
-    "truncated": false,
     "display_text_range": [
         0,
         198
     ],
     "entities": {
         "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-            {
-                "screen_name": "WhiteHouse",
-                "name": "The White House",
-                "id": 1323730225067339780,
-                "id_str": "1323730225067339784",
-                "indices": [
-                    63,
-                    74
-                ]
-            },
-            {
-                "screen_name": "StateDept",
-                "name": "Department of State",
-                "id": 9624742,
-                "id_str": "9624742",
-                "indices": [
-                    110,
-                    120
-                ]
-            },
-            {
-                "screen_name": "HistoryAtState",
-                "name": "HistoryAtState",
-                "id": 586570880,
-                "id_str": "586570880",
-                "indices": [
-                    146,
-                    161
-                ]
-            }
-        ],
-        "urls": [],
         "media": [
             {
+                "display_url": "pic.twitter.com/TCJnm53H9q",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/990966575065858048/photo/1",
                 "id": 990966075385839620,
                 "id_str": "990966075385839618",
                 "indices": [
@@ -54,38 +20,73 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/DcCeZSvWAAIb9n_.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DcCeZSvWAAIb9n_.jpg",
-                "url": "https://t.co/TCJnm53H9q",
-                "display_url": "pic.twitter.com/TCJnm53H9q",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/990966575065858048/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
-                    "small": {
-                        "w": 389,
+                    "large": {
                         "h": 250,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 389
                     },
                     "medium": {
-                        "w": 389,
                         "h": 250,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 389
                     },
-                    "large": {
-                        "w": 389,
+                    "small": {
                         "h": 250,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 389
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/TCJnm53H9q"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1323730225067339780,
+                "id_str": "1323730225067339784",
+                "indices": [
+                    63,
+                    74
+                ],
+                "name": "The White House",
+                "screen_name": "WhiteHouse"
+            },
+            {
+                "id": 9624742,
+                "id_str": "9624742",
+                "indices": [
+                    110,
+                    120
+                ],
+                "name": "Department of State",
+                "screen_name": "StateDept"
+            },
+            {
+                "id": 586570880,
+                "id_str": "586570880",
+                "indices": [
+                    146,
+                    161
+                ],
+                "name": "HistoryAtState",
+                "screen_name": "HistoryAtState"
             }
         ]
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/TCJnm53H9q",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/990966575065858048/photo/1",
+                "ext_alt_text": null,
                 "id": 990966075385839620,
                 "id_str": "990966075385839618",
                 "indices": [
@@ -94,35 +95,35 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/DcCeZSvWAAIb9n_.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DcCeZSvWAAIb9n_.jpg",
-                "url": "https://t.co/TCJnm53H9q",
-                "display_url": "pic.twitter.com/TCJnm53H9q",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/990966575065858048/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
-                    "small": {
-                        "w": 389,
+                    "large": {
                         "h": 250,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 389
                     },
                     "medium": {
-                        "w": 389,
                         "h": 250,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 389
                     },
-                    "large": {
-                        "w": 389,
+                    "small": {
                         "h": 250,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 389
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": null
+                "type": "photo",
+                "url": "https://t.co/TCJnm53H9q"
             },
             {
+                "display_url": "pic.twitter.com/TCJnm53H9q",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/990966575065858048/photo/1",
+                "ext_alt_text": null,
                 "id": 990966141328809980,
                 "id_str": "990966141328809984",
                 "indices": [
@@ -131,35 +132,35 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/DcCedIZX4AABGy_.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DcCedIZX4AABGy_.jpg",
-                "url": "https://t.co/TCJnm53H9q",
-                "display_url": "pic.twitter.com/TCJnm53H9q",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/990966575065858048/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
+                    "large": {
+                        "h": 1535,
+                        "resize": "fit",
+                        "w": 2048
                     },
                     "medium": {
-                        "w": 1200,
                         "h": 900,
-                        "resize": "fit"
-                    },
-                    "large": {
-                        "w": 2048,
-                        "h": 1535,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1200
                     },
                     "small": {
-                        "w": 680,
                         "h": 510,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": null
+                "type": "photo",
+                "url": "https://t.co/TCJnm53H9q"
             },
             {
+                "display_url": "pic.twitter.com/TCJnm53H9q",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/990966575065858048/photo/1",
+                "ext_alt_text": null,
                 "id": 990966184626540540,
                 "id_str": "990966184626540544",
                 "indices": [
@@ -168,35 +169,35 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/DcCefpsW0AAmTqs.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DcCefpsW0AAmTqs.jpg",
-                "url": "https://t.co/TCJnm53H9q",
-                "display_url": "pic.twitter.com/TCJnm53H9q",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/990966575065858048/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
-                    "small": {
-                        "w": 510,
-                        "h": 680,
-                        "resize": "fit"
-                    },
                     "large": {
-                        "w": 960,
                         "h": 1280,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 960
                     },
                     "medium": {
-                        "w": 900,
                         "h": 1200,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 900
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 510
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": null
+                "type": "photo",
+                "url": "https://t.co/TCJnm53H9q"
             },
             {
+                "display_url": "pic.twitter.com/TCJnm53H9q",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/990966575065858048/photo/1",
+                "ext_alt_text": null,
                 "id": 990966222140444670,
                 "id_str": "990966222140444672",
                 "indices": [
@@ -205,55 +206,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/DcCeh1cXkAALDsy.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DcCeh1cXkAALDsy.jpg",
-                "url": "https://t.co/TCJnm53H9q",
-                "display_url": "pic.twitter.com/TCJnm53H9q",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/990966575065858048/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
+                    "large": {
+                        "h": 320,
+                        "resize": "fit",
+                        "w": 240
                     },
                     "medium": {
-                        "w": 240,
                         "h": 320,
-                        "resize": "fit"
-                    },
-                    "large": {
-                        "w": 240,
-                        "h": 320,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 240
                     },
                     "small": {
-                        "w": 240,
                         "h": 320,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 240
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": null
+                "type": "photo",
+                "url": "https://t.co/TCJnm53H9q"
             }
         ]
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 18,
+    "favorited": false,
+    "full_text": "In April 1947, President Harry S. Truman officially opened the @WhiteHouse bowling alley. Historians from the @StateDept Office of the Historian (@HistoryAtState) rolled a few strikes there in 2016. https://t.co/TCJnm53H9q",
+    "geo": null,
+    "id": 990966575065858050,
+    "id_str": "990966575065858048",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 18,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

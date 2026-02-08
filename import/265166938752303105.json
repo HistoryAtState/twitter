@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Sun Nov 04 19:01:39 +0000 2012",
-    "id": 265166938752303104,
-    "id_str": "265166938752303105",
-    "full_text": "Are you a writer of historical fiction? Join us on 11/7 @NYPL to jump start your historical research using #FRUS http://t.co/oB9Y15XD",
-    "truncated": false,
     "display_text_range": [
         0,
         133
@@ -11,57 +9,59 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     107,
                     112
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "symbols": [],
+        "urls": [
+            {
+                "display_url": "on.nypl.org/OZPi9t",
+                "expanded_url": "http://on.nypl.org/OZPi9t",
+                "indices": [
+                    113,
+                    133
+                ],
+                "url": "http://t.co/oB9Y15XD"
+            }
+        ],
         "user_mentions": [
             {
-                "screen_name": "nypl",
-                "name": "NY Public Library",
                 "id": 17544803,
                 "id_str": "17544803",
                 "indices": [
                     56,
                     61
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "http://t.co/oB9Y15XD",
-                "expanded_url": "http://on.nypl.org/OZPi9t",
-                "display_url": "on.nypl.org/OZPi9t",
-                "indices": [
-                    113,
-                    133
-                ]
+                ],
+                "name": "NY Public Library",
+                "screen_name": "nypl"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "Are you a writer of historical fiction? Join us on 11/7 @NYPL to jump start your historical research using #FRUS http://t.co/oB9Y15XD",
+    "geo": null,
+    "id": 265166938752303104,
+    "id_str": "265166938752303105",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

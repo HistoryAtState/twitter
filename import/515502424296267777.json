@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Fri Sep 26 14:05:30 +0000 2014",
-    "id": 515502424296267780,
-    "id_str": "515502424296267777",
-    "full_text": "How did William H. Hunt, US Consul #St.Etienne 1914 1st meet his good friend Gen. Gallieni? http://t.co/LE2OYcA4vD http://t.co/Oiy4MIffNs",
-    "truncated": false,
     "display_text_range": [
         0,
         137
@@ -11,55 +9,57 @@
     "entities": {
         "hashtags": [
             {
-                "text": "St",
                 "indices": [
                     35,
                     38
-                ]
+                ],
+                "text": "St"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/LE2OYcA4vD",
-                "expanded_url": "http://go.usa.gov/pT3C",
                 "display_url": "go.usa.gov/pT3C",
+                "expanded_url": "http://go.usa.gov/pT3C",
                 "indices": [
                     92,
                     114
-                ]
+                ],
+                "url": "http://t.co/LE2OYcA4vD"
             },
             {
-                "url": "http://t.co/Oiy4MIffNs",
-                "expanded_url": "http://go.usa.gov/pKZx",
                 "display_url": "go.usa.gov/pKZx",
+                "expanded_url": "http://go.usa.gov/pKZx",
                 "indices": [
                     115,
                     137
-                ]
+                ],
+                "url": "http://t.co/Oiy4MIffNs"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "How did William H. Hunt, US Consul #St.Etienne 1914 1st meet his good friend Gen. Gallieni? http://t.co/LE2OYcA4vD http://t.co/Oiy4MIffNs",
+    "geo": null,
+    "id": 515502424296267780,
+    "id_str": "515502424296267777",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

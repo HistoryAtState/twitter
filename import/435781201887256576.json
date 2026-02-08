@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Feb 18 14:21:49 +0000 2014",
-    "id": 435781201887256580,
-    "id_str": "435781201887256576",
-    "full_text": "In 1844 William Leidesdorff became 1st #AfricanAmerican consul; he was appointed vice consul in Yerba Buena (now San Francisco). #BHM2014",
-    "truncated": false,
     "display_text_range": [
         0,
         137
@@ -11,42 +9,44 @@
     "entities": {
         "hashtags": [
             {
-                "text": "AfricanAmerican",
                 "indices": [
                     39,
                     55
-                ]
+                ],
+                "text": "AfricanAmerican"
             },
             {
-                "text": "BHM2014",
                 "indices": [
                     129,
                     137
-                ]
+                ],
+                "text": "BHM2014"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
-        "urls": []
+        "urls": [],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "In 1844 William Leidesdorff became 1st #AfricanAmerican consul; he was appointed vice consul in Yerba Buena (now San Francisco). #BHM2014",
+    "geo": null,
+    "id": 435781201887256580,
+    "id_str": "435781201887256576",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 3,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "lang": "en"
+    }
 }

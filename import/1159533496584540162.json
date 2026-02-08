@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Aug 08 18:35:03 +0000 2019",
-    "id": 1159533496584540160,
-    "id_str": "1159533496584540162",
-    "full_text": "Follow the unfolding story of the 1979 attack on the U.S. Embassy in Islamabad: https://t.co/goVUqM4Y9A #FRUS @usembislamabad",
-    "truncated": false,
     "display_text_range": [
         0,
         125
@@ -11,57 +9,59 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     104,
                     109
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "symbols": [],
+        "urls": [
+            {
+                "display_url": "go.usa.gov/xyFfd",
+                "expanded_url": "https://go.usa.gov/xyFfd",
+                "indices": [
+                    80,
+                    103
+                ],
+                "url": "https://t.co/goVUqM4Y9A"
+            }
+        ],
         "user_mentions": [
             {
-                "screen_name": "usembislamabad",
-                "name": "U.S. Embassy Islamabad",
                 "id": 218443914,
                 "id_str": "218443914",
                 "indices": [
                     110,
                     125
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "https://t.co/goVUqM4Y9A",
-                "expanded_url": "https://go.usa.gov/xyFfd",
-                "display_url": "go.usa.gov/xyFfd",
-                "indices": [
-                    80,
-                    103
-                ]
+                ],
+                "name": "U.S. Embassy Islamabad",
+                "screen_name": "usembislamabad"
             }
         ]
     },
-    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "favorite_count": 2,
+    "favorited": false,
+    "full_text": "Follow the unfolding story of the 1979 attack on the U.S. Embassy in Islamabad: https://t.co/goVUqM4Y9A #FRUS @usembislamabad",
+    "geo": null,
+    "id": 1159533496584540160,
+    "id_str": "1159533496584540162",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 2,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

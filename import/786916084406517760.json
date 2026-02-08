@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Fri Oct 14 13:06:29 +0000 2016",
-    "id": 786916084406517760,
-    "id_str": "786916084406517760",
-    "full_text": "King Bhumibol Adulyadej discussing Thailand’s trade interests with President Eisenhower in 1960: https://t.co/9rmw2xGaFT #FRUS",
-    "truncated": false,
     "display_text_range": [
         0,
         126
@@ -11,46 +9,48 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     121,
                     126
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "https://t.co/9rmw2xGaFT",
-                "expanded_url": "http://go.usa.gov/xkVrP",
                 "display_url": "go.usa.gov/xkVrP",
+                "expanded_url": "http://go.usa.gov/xkVrP",
                 "indices": [
                     97,
                     120
-                ]
+                ],
+                "url": "https://t.co/9rmw2xGaFT"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "King Bhumibol Adulyadej discussing Thailand’s trade interests with President Eisenhower in 1960: https://t.co/9rmw2xGaFT #FRUS",
+    "geo": null,
+    "id": 786916084406517760,
+    "id_str": "786916084406517760",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

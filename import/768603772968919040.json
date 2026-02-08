@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Aug 25 00:19:54 +0000 2016",
-    "id": 768603772968919040,
-    "id_str": "768603772968919040",
-    "full_text": "RT @CIA: 2,500 intel docs, no longer for just the President’s eyes only.\n\nThe #PDB: Delivering Intel to Nixon and Ford:\n\nhttps://t.co/HgvyO…",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,48 +9,48 @@
     "entities": {
         "hashtags": [
             {
-                "text": "PDB",
                 "indices": [
                     78,
                     82
-                ]
+                ],
+                "text": "PDB"
             }
         ],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "CIA",
-                "name": "CIA",
                 "id": 2359926157,
                 "id_str": "2359926157",
                 "indices": [
                     3,
                     7
-                ]
+                ],
+                "name": "CIA",
+                "screen_name": "CIA"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"&gt;Twitter for iPad&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "RT @CIA: 2,500 intel docs, no longer for just the President’s eyes only.\n\nThe #PDB: Delivering Intel to Nixon and Ford:\n\nhttps://t.co/HgvyO…",
+    "geo": null,
+    "id": 768603772968919040,
+    "id_str": "768603772968919040",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "retweet_count": 113,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Wed Aug 24 23:27:48 +0000 2016",
-        "id": 768590661218144260,
-        "id_str": "768590661218144256",
-        "full_text": "2,500 intel docs, no longer for just the President’s eyes only.\n\nThe #PDB: Delivering Intel to Nixon and Ford:\n\nhttps://t.co/HgvyOjcWV5",
-        "truncated": false,
         "display_text_range": [
             0,
             135
@@ -60,53 +58,55 @@
         "entities": {
             "hashtags": [
                 {
-                    "text": "PDB",
                     "indices": [
                         69,
                         73
-                    ]
+                    ],
+                    "text": "PDB"
                 }
             ],
             "symbols": [],
-            "user_mentions": [],
             "urls": [
                 {
-                    "url": "https://t.co/HgvyOjcWV5",
-                    "expanded_url": "http://bit.ly/2biPIEP",
                     "display_url": "bit.ly/2biPIEP",
+                    "expanded_url": "http://bit.ly/2biPIEP",
                     "indices": [
                         112,
                         135
-                    ]
+                    ],
+                    "url": "https://t.co/HgvyOjcWV5"
                 }
-            ]
+            ],
+            "user_mentions": []
         },
-        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+        "favorite_count": 166,
+        "favorited": false,
+        "full_text": "2,500 intel docs, no longer for just the President’s eyes only.\n\nThe #PDB: Delivering Intel to Nixon and Ford:\n\nhttps://t.co/HgvyOjcWV5",
+        "geo": null,
+        "id": 768590661218144260,
+        "id_str": "768590661218144256",
+        "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 113,
+        "retweeted": true,
+        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+        "truncated": false,
         "user": {
             "id": 2359926157,
             "id_str": "2359926157"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 113,
-        "favorite_count": 166,
-        "favorited": false,
-        "retweeted": true,
-        "possibly_sensitive": false,
-        "lang": "en"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 113,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": true,
-    "lang": "en"
+    "source": "&lt;a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"&gt;Twitter for iPad&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

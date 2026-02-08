@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Apr 25 18:55:03 +0000 2019",
-    "id": 1121487805870428160,
-    "id_str": "1121487805870428160",
-    "full_text": "RT @SHFGHistorians: Panel I on internships starts at 3pm! Led by Carl Ashley @HistoryAtState\n#SHFG2019 #Twitterstorians #FederalHistory htt…",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,72 +9,72 @@
     "entities": {
         "hashtags": [
             {
-                "text": "SHFG2019",
                 "indices": [
                     93,
                     102
-                ]
+                ],
+                "text": "SHFG2019"
             },
             {
-                "text": "Twitterstorians",
                 "indices": [
                     103,
                     119
-                ]
+                ],
+                "text": "Twitterstorians"
             },
             {
-                "text": "FederalHistory",
                 "indices": [
                     120,
                     135
-                ]
+                ],
+                "text": "FederalHistory"
             }
         ],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "SHFGHistorians",
-                "name": "SHFGHistorians",
                 "id": 486867266,
                 "id_str": "486867266",
                 "indices": [
                     3,
                     18
-                ]
+                ],
+                "name": "SHFGHistorians",
+                "screen_name": "SHFGHistorians"
             },
             {
-                "screen_name": "HistoryAtState",
-                "name": "HistoryAtState",
                 "id": 586570880,
                 "id_str": "586570880",
                 "indices": [
                     77,
                     92
-                ]
+                ],
+                "name": "HistoryAtState",
+                "screen_name": "HistoryAtState"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "RT @SHFGHistorians: Panel I on internships starts at 3pm! Led by Carl Ashley @HistoryAtState\n#SHFG2019 #Twitterstorians #FederalHistory htt…",
+    "geo": null,
+    "id": 1121487805870428160,
+    "id_str": "1121487805870428160",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "retweet_count": 2,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Thu Apr 25 18:35:00 +0000 2019",
-        "id": 1121482758302392320,
-        "id_str": "1121482758302392321",
-        "full_text": "Panel I on internships starts at 3pm! Led by Carl Ashley @HistoryAtState\n#SHFG2019 #Twitterstorians #FederalHistory https://t.co/ezCuJ2Q4Vw",
-        "truncated": false,
         "display_text_range": [
             0,
             115
@@ -84,43 +82,31 @@
         "entities": {
             "hashtags": [
                 {
-                    "text": "SHFG2019",
                     "indices": [
                         73,
                         82
-                    ]
+                    ],
+                    "text": "SHFG2019"
                 },
                 {
-                    "text": "Twitterstorians",
                     "indices": [
                         83,
                         99
-                    ]
+                    ],
+                    "text": "Twitterstorians"
                 },
                 {
-                    "text": "FederalHistory",
                     "indices": [
                         100,
                         115
-                    ]
+                    ],
+                    "text": "FederalHistory"
                 }
             ],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "HistoryAtState",
-                    "name": "HistoryAtState",
-                    "id": 586570880,
-                    "id_str": "586570880",
-                    "indices": [
-                        57,
-                        72
-                    ]
-                }
-            ],
-            "urls": [],
             "media": [
                 {
+                    "display_url": "pic.twitter.com/ezCuJ2Q4Vw",
+                    "expanded_url": "https://twitter.com/SHFGHistorians/status/1121482758302392321/photo/1",
                     "id": 1120748300548833280,
                     "id_str": "1120748300548833281",
                     "indices": [
@@ -129,38 +115,53 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/D42ypDDWAAEoZKh.jpg",
                     "media_url_https": "https://pbs.twimg.com/media/D42ypDDWAAEoZKh.jpg",
-                    "url": "https://t.co/ezCuJ2Q4Vw",
-                    "display_url": "pic.twitter.com/ezCuJ2Q4Vw",
-                    "expanded_url": "https://twitter.com/SHFGHistorians/status/1121482758302392321/photo/1",
-                    "type": "photo",
                     "sizes": {
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
-                        },
                         "large": {
-                            "w": 2048,
                             "h": 999,
-                            "resize": "fit"
-                        },
-                        "small": {
-                            "w": 680,
-                            "h": 332,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 2048
                         },
                         "medium": {
-                            "w": 1200,
                             "h": 585,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 1200
+                        },
+                        "small": {
+                            "h": 332,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
                         }
-                    }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/ezCuJ2Q4Vw"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 586570880,
+                    "id_str": "586570880",
+                    "indices": [
+                        57,
+                        72
+                    ],
+                    "name": "HistoryAtState",
+                    "screen_name": "HistoryAtState"
                 }
             ]
         },
         "extended_entities": {
             "media": [
                 {
+                    "display_url": "pic.twitter.com/ezCuJ2Q4Vw",
+                    "expanded_url": "https://twitter.com/SHFGHistorians/status/1121482758302392321/photo/1",
+                    "ext_alt_text": null,
                     "id": 1120748300548833280,
                     "id_str": "1120748300548833281",
                     "indices": [
@@ -169,62 +170,61 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/D42ypDDWAAEoZKh.jpg",
                     "media_url_https": "https://pbs.twimg.com/media/D42ypDDWAAEoZKh.jpg",
-                    "url": "https://t.co/ezCuJ2Q4Vw",
-                    "display_url": "pic.twitter.com/ezCuJ2Q4Vw",
-                    "expanded_url": "https://twitter.com/SHFGHistorians/status/1121482758302392321/photo/1",
-                    "type": "photo",
                     "sizes": {
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
-                        },
                         "large": {
-                            "w": 2048,
                             "h": 999,
-                            "resize": "fit"
-                        },
-                        "small": {
-                            "w": 680,
-                            "h": 332,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 2048
                         },
                         "medium": {
-                            "w": 1200,
                             "h": 585,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 1200
+                        },
+                        "small": {
+                            "h": 332,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
                         }
                     },
-                    "ext_alt_text": null
+                    "type": "photo",
+                    "url": "https://t.co/ezCuJ2Q4Vw"
                 }
             ]
         },
-        "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
+        "favorite_count": 2,
+        "favorited": false,
+        "full_text": "Panel I on internships starts at 3pm! Led by Carl Ashley @HistoryAtState\n#SHFG2019 #Twitterstorians #FederalHistory https://t.co/ezCuJ2Q4Vw",
+        "geo": null,
+        "id": 1121482758302392320,
+        "id_str": "1121482758302392321",
+        "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 2,
+        "retweeted": true,
+        "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
+        "truncated": false,
         "user": {
             "id": 486867266,
             "id_str": "486867266"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 2,
-        "favorite_count": 2,
-        "favorited": false,
-        "retweeted": true,
-        "possibly_sensitive": false,
-        "lang": "en"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": true,
-    "lang": "en"
+    "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

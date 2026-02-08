@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Wed Apr 15 10:45:21 +0000 2015",
-    "id": 588292017316372480,
-    "id_str": "588292017316372480",
-    "full_text": "Bring your coffee &amp;amp; #WW1Diplomacy questions to our Google Hangout today @ 9am EDT http://t.co/53mbFcec1H @WW1CC @USEmbassyFrance",
-    "truncated": false,
     "display_text_range": [
         0,
         132
@@ -11,67 +9,69 @@
     "entities": {
         "hashtags": [
             {
-                "text": "WW1Diplomacy",
                 "indices": [
                     24,
                     37
-                ]
+                ],
+                "text": "WW1Diplomacy"
             }
         ],
         "symbols": [],
+        "urls": [
+            {
+                "display_url": "goo.gl/J7nfZR",
+                "expanded_url": "http://goo.gl/J7nfZR",
+                "indices": [
+                    86,
+                    108
+                ],
+                "url": "http://t.co/53mbFcec1H"
+            }
+        ],
         "user_mentions": [
             {
-                "screen_name": "WW1CC",
-                "name": "WW1 Centennial - Doughboy Foundation",
                 "id": 1732881642,
                 "id_str": "1732881642",
                 "indices": [
                     109,
                     115
-                ]
+                ],
+                "name": "WW1 Centennial - Doughboy Foundation",
+                "screen_name": "WW1CC"
             },
             {
-                "screen_name": "USEmbassyFrance",
-                "name": "U.S. Embassy France",
                 "id": 72814599,
                 "id_str": "72814599",
                 "indices": [
                     116,
                     132
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "http://t.co/53mbFcec1H",
-                "expanded_url": "http://goo.gl/J7nfZR",
-                "display_url": "goo.gl/J7nfZR",
-                "indices": [
-                    86,
-                    108
-                ]
+                ],
+                "name": "U.S. Embassy France",
+                "screen_name": "USEmbassyFrance"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 3,
+    "favorited": false,
+    "full_text": "Bring your coffee &amp;amp; #WW1Diplomacy questions to our Google Hangout today @ 9am EDT http://t.co/53mbFcec1H @WW1CC @USEmbassyFrance",
+    "geo": null,
+    "id": 588292017316372480,
+    "id_str": "588292017316372480",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 3,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

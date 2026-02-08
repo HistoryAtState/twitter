@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Apr 11 14:06:30 +0000 2017",
-    "id": 851798615987290110,
-    "id_str": "851798615987290113",
-    "full_text": "105 yrs ago the RMS #Titanic sank after colliding w/ iceberg. Read international correspondence post-disaster: #FRUS https://t.co/jwngGjPxFq https://t.co/zgrNWjelVI",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,35 +9,24 @@
     "entities": {
         "hashtags": [
             {
-                "text": "Titanic",
                 "indices": [
                     20,
                     28
-                ]
+                ],
+                "text": "Titanic"
             },
             {
-                "text": "FRUS",
                 "indices": [
                     111,
                     116
-                ]
-            }
-        ],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
-            {
-                "url": "https://t.co/jwngGjPxFq",
-                "expanded_url": "https://go.usa.gov/xX7gJ",
-                "display_url": "go.usa.gov/xX7gJ",
-                "indices": [
-                    117,
-                    140
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "media": [
             {
+                "display_url": "pic.twitter.com/zgrNWjelVI",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/851798615987290113/photo/1",
                 "id": 851798613240029180,
                 "id_str": "851798613240029184",
                 "indices": [
@@ -48,38 +35,52 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/C9IyU2JXoAA8eoQ.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/C9IyU2JXoAA8eoQ.jpg",
-                "url": "https://t.co/zgrNWjelVI",
-                "display_url": "pic.twitter.com/zgrNWjelVI",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/851798615987290113/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
                     "large": {
-                        "w": 800,
                         "h": 545,
-                        "resize": "fit"
-                    },
-                    "small": {
-                        "w": 680,
-                        "h": 463,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 800
                     },
                     "medium": {
-                        "w": 800,
                         "h": 545,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 800
+                    },
+                    "small": {
+                        "h": 463,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/zgrNWjelVI"
             }
-        ]
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "go.usa.gov/xX7gJ",
+                "expanded_url": "https://go.usa.gov/xX7gJ",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/jwngGjPxFq"
+            }
+        ],
+        "user_mentions": []
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/zgrNWjelVI",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/851798615987290113/photo/1",
+                "ext_alt_text": null,
                 "id": 851798613240029180,
                 "id_str": "851798613240029184",
                 "indices": [
@@ -88,55 +89,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/C9IyU2JXoAA8eoQ.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/C9IyU2JXoAA8eoQ.jpg",
-                "url": "https://t.co/zgrNWjelVI",
-                "display_url": "pic.twitter.com/zgrNWjelVI",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/851798615987290113/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
                     "large": {
-                        "w": 800,
                         "h": 545,
-                        "resize": "fit"
-                    },
-                    "small": {
-                        "w": 680,
-                        "h": 463,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 800
                     },
                     "medium": {
-                        "w": 800,
                         "h": 545,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 800
+                    },
+                    "small": {
+                        "h": 463,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": null
+                "type": "photo",
+                "url": "https://t.co/zgrNWjelVI"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 9,
+    "favorited": false,
+    "full_text": "105 yrs ago the RMS #Titanic sank after colliding w/ iceberg. Read international correspondence post-disaster: #FRUS https://t.co/jwngGjPxFq https://t.co/zgrNWjelVI",
+    "geo": null,
+    "id": 851798615987290110,
+    "id_str": "851798615987290113",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 8,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 8,
-    "favorite_count": 9,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

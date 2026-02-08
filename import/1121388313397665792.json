@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Apr 25 12:19:42 +0000 2019",
-    "id": 1121388313397665790,
-    "id_str": "1121388313397665792",
-    "full_text": "RT @SHFGHistorians: Today is the day! Annual meeting begins @USNatArchives at 9am w the Federal Jobs Workshop- followed by some excellent p…",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,50 +9,50 @@
     "entities": {
         "hashtags": [],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "SHFGHistorians",
-                "name": "SHFGHistorians",
                 "id": 486867266,
                 "id_str": "486867266",
                 "indices": [
                     3,
                     18
-                ]
+                ],
+                "name": "SHFGHistorians",
+                "screen_name": "SHFGHistorians"
             },
             {
-                "screen_name": "USNatArchives",
-                "name": "US National Archives",
                 "id": 101802390,
                 "id_str": "101802390",
                 "indices": [
                     60,
                     74
-                ]
+                ],
+                "name": "US National Archives",
+                "screen_name": "USNatArchives"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "RT @SHFGHistorians: Today is the day! Annual meeting begins @USNatArchives at 9am w the Federal Jobs Workshop- followed by some excellent p…",
+    "geo": null,
+    "id": 1121388313397665790,
+    "id_str": "1121388313397665792",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "retweet_count": 2,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Thu Apr 25 10:17:05 +0000 2019",
-        "id": 1121357454435147780,
-        "id_str": "1121357454435147776",
-        "full_text": "Today is the day! Annual meeting begins @USNatArchives at 9am w the Federal Jobs Workshop- followed by some excellent panels on why Federal History Matters, oral History workshop, and more! https://t.co/d4LXvgNmZK follow us at #SHFG2019 #twitterstorians #FederalHistory",
-        "truncated": false,
         "display_text_range": [
             0,
             269
@@ -62,75 +60,68 @@
         "entities": {
             "hashtags": [
                 {
-                    "text": "SHFG2019",
                     "indices": [
                         227,
                         236
-                    ]
+                    ],
+                    "text": "SHFG2019"
                 },
                 {
-                    "text": "twitterstorians",
                     "indices": [
                         237,
                         253
-                    ]
+                    ],
+                    "text": "twitterstorians"
                 },
                 {
-                    "text": "FederalHistory",
                     "indices": [
                         254,
                         269
-                    ]
+                    ],
+                    "text": "FederalHistory"
                 }
             ],
             "symbols": [],
+            "urls": [
+                {
+                    "display_url": "shfg.wildapricot.org/admin/website",
+                    "expanded_url": "http://shfg.wildapricot.org/admin/website",
+                    "indices": [
+                        190,
+                        213
+                    ],
+                    "url": "https://t.co/d4LXvgNmZK"
+                }
+            ],
             "user_mentions": [
                 {
-                    "screen_name": "USNatArchives",
-                    "name": "US National Archives",
                     "id": 101802390,
                     "id_str": "101802390",
                     "indices": [
                         40,
                         54
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "https://t.co/d4LXvgNmZK",
-                    "expanded_url": "http://shfg.wildapricot.org/admin/website",
-                    "display_url": "shfg.wildapricot.org/admin/website",
-                    "indices": [
-                        190,
-                        213
-                    ]
+                    ],
+                    "name": "US National Archives",
+                    "screen_name": "USNatArchives"
                 }
             ]
         },
-        "source": "&lt;a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"&gt;Twitter for iPhone&lt;/a&gt;",
+        "favorite_count": 10,
+        "favorited": false,
+        "full_text": "Today is the day! Annual meeting begins @USNatArchives at 9am w the Federal Jobs Workshop- followed by some excellent panels on why Federal History Matters, oral History workshop, and more! https://t.co/d4LXvgNmZK follow us at #SHFG2019 #twitterstorians #FederalHistory",
+        "geo": null,
+        "id": 1121357454435147780,
+        "id_str": "1121357454435147776",
+        "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 486867266,
-            "id_str": "486867266"
-        },
-        "geo": null,
-        "coordinates": null,
+        "is_quote_status": false,
+        "lang": "en",
         "place": {
-            "id": "d6819fe60643ebc1",
-            "url": "https://api.twitter.com/1.1/geo/id/d6819fe60643ebc1.json",
-            "place_type": "city",
-            "name": "Alexandria",
-            "full_name": "Alexandria, VA",
-            "country_code": "US",
-            "country": "United States",
-            "contained_within": [],
+            "attributes": {},
             "bounding_box": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -150,23 +141,32 @@
                             38.8448531
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "attributes": {}
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Alexandria, VA",
+            "id": "d6819fe60643ebc1",
+            "name": "Alexandria",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/d6819fe60643ebc1.json"
         },
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 2,
-        "favorite_count": 10,
-        "favorited": false,
-        "retweeted": true,
         "possibly_sensitive": false,
-        "lang": "en"
+        "retweet_count": 2,
+        "retweeted": true,
+        "source": "&lt;a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"&gt;Twitter for iPhone&lt;/a&gt;",
+        "truncated": false,
+        "user": {
+            "id": 486867266,
+            "id_str": "486867266"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": true,
-    "lang": "en"
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

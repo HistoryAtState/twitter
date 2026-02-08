@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Wed Jan 29 18:05:13 +0000 2014",
-    "id": 428589662891147260,
-    "id_str": "428589662891147264",
-    "full_text": "When Churchill grumbled about publishing records of WWI peace conference, FDR intervened to delay #FRUS during WWII http://t.co/eS5Tzba3lJ",
-    "truncated": false,
     "display_text_range": [
         0,
         138
@@ -11,46 +9,48 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     98,
                     103
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/eS5Tzba3lJ",
-                "expanded_url": "http://go.usa.gov/ZUhQ",
                 "display_url": "go.usa.gov/ZUhQ",
+                "expanded_url": "http://go.usa.gov/ZUhQ",
                 "indices": [
                     116,
                     138
-                ]
+                ],
+                "url": "http://t.co/eS5Tzba3lJ"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "When Churchill grumbled about publishing records of WWI peace conference, FDR intervened to delay #FRUS during WWII http://t.co/eS5Tzba3lJ",
+    "geo": null,
+    "id": 428589662891147260,
+    "id_str": "428589662891147264",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

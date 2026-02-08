@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Fri Aug 05 15:02:10 +0000 2022",
-    "id": 1555569860033351680,
-    "id_str": "1555569860033351680",
-    "full_text": "Sec. James Baker’s visits to Potsdam (1989) and East Berlin (1990) made him the first and only U.S. Secretary of State to visit the German Democratic Republic on official travel:\nhttps://t.co/EWS1CQNCVt\n\n#ArchivesPostcard\n(1/2) https://t.co/PJwY5opKmx",
-    "truncated": false,
     "display_text_range": [
         0,
         227
@@ -11,28 +9,17 @@
     "entities": {
         "hashtags": [
             {
-                "text": "ArchivesPostcard",
                 "indices": [
                     204,
                     221
-                ]
-            }
-        ],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
-            {
-                "url": "https://t.co/EWS1CQNCVt",
-                "expanded_url": "http://ow.ly/POvp50KbTaC",
-                "display_url": "ow.ly/POvp50KbTaC",
-                "indices": [
-                    179,
-                    202
-                ]
+                ],
+                "text": "ArchivesPostcard"
             }
         ],
         "media": [
             {
+                "display_url": "pic.twitter.com/PJwY5opKmx",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1555569860033351680/photo/1",
                 "id": 1555569857961365500,
                 "id_str": "1555569857961365506",
                 "indices": [
@@ -41,38 +28,52 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/FZZ-i0cXkAISOPJ.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/FZZ-i0cXkAISOPJ.jpg",
-                "url": "https://t.co/PJwY5opKmx",
-                "display_url": "pic.twitter.com/PJwY5opKmx",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1555569860033351680/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
-                    "small": {
-                        "w": 680,
-                        "h": 340,
-                        "resize": "fit"
+                    "large": {
+                        "h": 512,
+                        "resize": "fit",
+                        "w": 1024
                     },
                     "medium": {
-                        "w": 1024,
                         "h": 512,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1024
                     },
-                    "large": {
-                        "w": 1024,
-                        "h": 512,
-                        "resize": "fit"
+                    "small": {
+                        "h": 340,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/PJwY5opKmx"
             }
-        ]
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "ow.ly/POvp50KbTaC",
+                "expanded_url": "http://ow.ly/POvp50KbTaC",
+                "indices": [
+                    179,
+                    202
+                ],
+                "url": "https://t.co/EWS1CQNCVt"
+            }
+        ],
+        "user_mentions": []
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/PJwY5opKmx",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1555569860033351680/photo/1",
+                "ext_alt_text": "Text overlays a color photograph of East German demonstrators holding a German flag and a giant banner calling for reunification: “Greetings from East Germany, 1989–1990; #ArchivesPostcard @HistoryAtState”",
                 "id": 1555569857961365500,
                 "id_str": "1555569857961365506",
                 "indices": [
@@ -81,55 +82,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/FZZ-i0cXkAISOPJ.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/FZZ-i0cXkAISOPJ.jpg",
-                "url": "https://t.co/PJwY5opKmx",
-                "display_url": "pic.twitter.com/PJwY5opKmx",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1555569860033351680/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
-                    "small": {
-                        "w": 680,
-                        "h": 340,
-                        "resize": "fit"
+                    "large": {
+                        "h": 512,
+                        "resize": "fit",
+                        "w": 1024
                     },
                     "medium": {
-                        "w": 1024,
                         "h": 512,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1024
                     },
-                    "large": {
-                        "w": 1024,
-                        "h": 512,
-                        "resize": "fit"
+                    "small": {
+                        "h": 340,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": "Text overlays a color photograph of East German demonstrators holding a German flag and a giant banner calling for reunification: “Greetings from East Germany, 1989–1990; #ArchivesPostcard @HistoryAtState”"
+                "type": "photo",
+                "url": "https://t.co/PJwY5opKmx"
             }
         ]
     },
-    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "favorite_count": 8,
+    "favorited": false,
+    "full_text": "Sec. James Baker’s visits to Potsdam (1989) and East Berlin (1990) made him the first and only U.S. Secretary of State to visit the German Democratic Republic on official travel:\nhttps://t.co/EWS1CQNCVt\n\n#ArchivesPostcard\n(1/2) https://t.co/PJwY5opKmx",
+    "geo": null,
+    "id": 1555569860033351680,
+    "id_str": "1555569860033351680",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 8,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

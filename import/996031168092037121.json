@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon May 14 14:15:10 +0000 2018",
-    "id": 996031168092037120,
-    "id_str": "996031168092037121",
-    "full_text": "Between October 12 and 22, 2001, the @StateDept’s main mail processing center in Sterling, VA, was closed after an anthrax-contaminated letter was routed there after the September 11 terrorist attacks. https://t.co/FpLbQtmjJx #twitterstorians",
-    "truncated": false,
     "display_text_range": [
         0,
         242
@@ -11,57 +9,59 @@
     "entities": {
         "hashtags": [
             {
-                "text": "twitterstorians",
                 "indices": [
                     226,
                     242
-                ]
+                ],
+                "text": "twitterstorians"
             }
         ],
         "symbols": [],
+        "urls": [
+            {
+                "display_url": "go.usa.gov/xQN6F",
+                "expanded_url": "https://go.usa.gov/xQN6F",
+                "indices": [
+                    202,
+                    225
+                ],
+                "url": "https://t.co/FpLbQtmjJx"
+            }
+        ],
         "user_mentions": [
             {
-                "screen_name": "StateDept",
-                "name": "Department of State",
                 "id": 9624742,
                 "id_str": "9624742",
                 "indices": [
                     37,
                     47
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "https://t.co/FpLbQtmjJx",
-                "expanded_url": "https://go.usa.gov/xQN6F",
-                "display_url": "go.usa.gov/xQN6F",
-                "indices": [
-                    202,
-                    225
-                ]
+                ],
+                "name": "Department of State",
+                "screen_name": "StateDept"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "Between October 12 and 22, 2001, the @StateDept’s main mail processing center in Sterling, VA, was closed after an anthrax-contaminated letter was routed there after the September 11 terrorist attacks. https://t.co/FpLbQtmjJx #twitterstorians",
+    "geo": null,
+    "id": 996031168092037120,
+    "id_str": "996031168092037121",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

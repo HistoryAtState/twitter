@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Jun 14 13:28:39 +0000 2012",
-    "id": 213261672784216064,
-    "id_str": "213261672784216064",
-    "full_text": "Study the end of Bretton Woods in #FRUS #ebooks \"Foreign Econ. Policy; Int. Monetary Policy, 1969-1972\" http://t.co/TYCUvsmx #EconDiplomacy",
-    "truncated": false,
     "display_text_range": [
         0,
         139
@@ -11,60 +9,62 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     34,
                     39
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "ebooks",
                 "indices": [
                     40,
                     47
-                ]
+                ],
+                "text": "ebooks"
             },
             {
-                "text": "EconDiplomacy",
                 "indices": [
                     125,
                     139
-                ]
+                ],
+                "text": "EconDiplomacy"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/TYCUvsmx",
-                "expanded_url": "http://go.usa.gov/v3w",
                 "display_url": "go.usa.gov/v3w",
+                "expanded_url": "http://go.usa.gov/v3w",
                 "indices": [
                     104,
                     124
-                ]
+                ],
+                "url": "http://t.co/TYCUvsmx"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "Study the end of Bretton Woods in #FRUS #ebooks \"Foreign Econ. Policy; Int. Monetary Policy, 1969-1972\" http://t.co/TYCUvsmx #EconDiplomacy",
+    "geo": null,
+    "id": 213261672784216064,
+    "id_str": "213261672784216064",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Wed Jan 14 15:27:31 +0000 2015",
-    "id": 555385729292201980,
-    "id_str": "555385729292201986",
-    "full_text": "RT @USNatArchives: The story of William Hunt, US Consul in St. Etienne, France, 1914  http://t.co/RxLy8sN7D2 @StateDept #blackhistory http:…",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,68 +9,69 @@
     "entities": {
         "hashtags": [
             {
-                "text": "blackhistory",
                 "indices": [
                     120,
                     133
-                ]
+                ],
+                "text": "blackhistory"
             }
         ],
         "symbols": [],
+        "urls": [
+            {
+                "display_url": "go.usa.gov/z5Y4",
+                "expanded_url": "http://go.usa.gov/z5Y4",
+                "indices": [
+                    86,
+                    108
+                ],
+                "url": "http://t.co/RxLy8sN7D2"
+            }
+        ],
         "user_mentions": [
             {
-                "screen_name": "USNatArchives",
-                "name": "US National Archives",
                 "id": 101802390,
                 "id_str": "101802390",
                 "indices": [
                     3,
                     17
-                ]
+                ],
+                "name": "US National Archives",
+                "screen_name": "USNatArchives"
             },
             {
-                "screen_name": "StateDept",
-                "name": "Department of State",
                 "id": 9624742,
                 "id_str": "9624742",
                 "indices": [
                     109,
                     119
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "http://t.co/RxLy8sN7D2",
-                "expanded_url": "http://go.usa.gov/z5Y4",
-                "display_url": "go.usa.gov/z5Y4",
-                "indices": [
-                    86,
-                    108
-                ]
+                ],
+                "name": "Department of State",
+                "screen_name": "StateDept"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "RT @USNatArchives: The story of William Hunt, US Consul in St. Etienne, France, 1914  http://t.co/RxLy8sN7D2 @StateDept #blackhistory http:…",
+    "geo": null,
+    "id": 555385729292201980,
+    "id_str": "555385729292201986",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "possibly_sensitive": false,
+    "retweet_count": 9,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Wed Jan 14 13:20:10 +0000 2015",
-        "id": 555353681919770620,
-        "id_str": "555353681919770624",
-        "full_text": "The story of William Hunt, US Consul in St. Etienne, France, 1914  http://t.co/RxLy8sN7D2 @StateDept #blackhistory http://t.co/FT1zFoxfhY",
-        "truncated": false,
         "display_text_range": [
             0,
             137
@@ -80,39 +79,17 @@
         "entities": {
             "hashtags": [
                 {
-                    "text": "blackhistory",
                     "indices": [
                         101,
                         114
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "StateDept",
-                    "name": "Department of State",
-                    "id": 9624742,
-                    "id_str": "9624742",
-                    "indices": [
-                        90,
-                        100
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "http://t.co/RxLy8sN7D2",
-                    "expanded_url": "http://go.usa.gov/z5Y4",
-                    "display_url": "go.usa.gov/z5Y4",
-                    "indices": [
-                        67,
-                        89
-                    ]
+                    ],
+                    "text": "blackhistory"
                 }
             ],
             "media": [
                 {
+                    "display_url": "pic.twitter.com/FT1zFoxfhY",
+                    "expanded_url": "https://twitter.com/USNatArchives/status/555104016989163521/photo/1",
                     "id": 555104015588290560,
                     "id_str": "555104015588290561",
                     "indices": [
@@ -121,111 +98,134 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/B7QgKT6IcAES9NM.jpg",
                     "media_url_https": "https://pbs.twimg.com/media/B7QgKT6IcAES9NM.jpg",
-                    "url": "http://t.co/FT1zFoxfhY",
-                    "display_url": "pic.twitter.com/FT1zFoxfhY",
-                    "expanded_url": "https://twitter.com/USNatArchives/status/555104016989163521/photo/1",
-                    "type": "photo",
                     "sizes": {
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
+                        "large": {
+                            "h": 1024,
+                            "resize": "fit",
+                            "w": 795
                         },
                         "medium": {
-                            "w": 795,
                             "h": 1024,
-                            "resize": "fit"
-                        },
-                        "large": {
-                            "w": 795,
-                            "h": 1024,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 795
                         },
                         "small": {
-                            "w": 528,
                             "h": 680,
-                            "resize": "fit"
-                        }
-                    },
-                    "source_status_id": 555104016989163520,
-                    "source_status_id_str": "555104016989163521",
-                    "source_user_id": 101802390,
-                    "source_user_id_str": "101802390"
-                }
-            ]
-        },
-        "extended_entities": {
-            "media": [
-                {
-                    "id": 555104015588290560,
-                    "id_str": "555104015588290561",
-                    "indices": [
-                        115,
-                        137
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/B7QgKT6IcAES9NM.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/B7QgKT6IcAES9NM.jpg",
-                    "url": "http://t.co/FT1zFoxfhY",
-                    "display_url": "pic.twitter.com/FT1zFoxfhY",
-                    "expanded_url": "https://twitter.com/USNatArchives/status/555104016989163521/photo/1",
-                    "type": "photo",
-                    "sizes": {
+                            "resize": "fit",
+                            "w": 528
+                        },
                         "thumb": {
-                            "w": 150,
                             "h": 150,
-                            "resize": "crop"
-                        },
-                        "medium": {
-                            "w": 795,
-                            "h": 1024,
-                            "resize": "fit"
-                        },
-                        "large": {
-                            "w": 795,
-                            "h": 1024,
-                            "resize": "fit"
-                        },
-                        "small": {
-                            "w": 528,
-                            "h": 680,
-                            "resize": "fit"
+                            "resize": "crop",
+                            "w": 150
                         }
                     },
                     "source_status_id": 555104016989163520,
                     "source_status_id_str": "555104016989163521",
                     "source_user_id": 101802390,
                     "source_user_id_str": "101802390",
-                    "ext_alt_text": null
+                    "type": "photo",
+                    "url": "http://t.co/FT1zFoxfhY"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "go.usa.gov/z5Y4",
+                    "expanded_url": "http://go.usa.gov/z5Y4",
+                    "indices": [
+                        67,
+                        89
+                    ],
+                    "url": "http://t.co/RxLy8sN7D2"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 9624742,
+                    "id_str": "9624742",
+                    "indices": [
+                        90,
+                        100
+                    ],
+                    "name": "Department of State",
+                    "screen_name": "StateDept"
                 }
             ]
         },
-        "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+        "extended_entities": {
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/FT1zFoxfhY",
+                    "expanded_url": "https://twitter.com/USNatArchives/status/555104016989163521/photo/1",
+                    "ext_alt_text": null,
+                    "id": 555104015588290560,
+                    "id_str": "555104015588290561",
+                    "indices": [
+                        115,
+                        137
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/B7QgKT6IcAES9NM.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/B7QgKT6IcAES9NM.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 1024,
+                            "resize": "fit",
+                            "w": 795
+                        },
+                        "medium": {
+                            "h": 1024,
+                            "resize": "fit",
+                            "w": 795
+                        },
+                        "small": {
+                            "h": 680,
+                            "resize": "fit",
+                            "w": 528
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "source_status_id": 555104016989163520,
+                    "source_status_id_str": "555104016989163521",
+                    "source_user_id": 101802390,
+                    "source_user_id_str": "101802390",
+                    "type": "photo",
+                    "url": "http://t.co/FT1zFoxfhY"
+                }
+            ]
+        },
+        "favorite_count": 7,
+        "favorited": false,
+        "full_text": "The story of William Hunt, US Consul in St. Etienne, France, 1914  http://t.co/RxLy8sN7D2 @StateDept #blackhistory http://t.co/FT1zFoxfhY",
+        "geo": null,
+        "id": 555353681919770620,
+        "id_str": "555353681919770624",
+        "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 9,
+        "retweeted": true,
+        "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+        "truncated": false,
         "user": {
             "id": 101802390,
             "id_str": "101802390"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 9,
-        "favorite_count": 7,
-        "favorited": false,
-        "retweeted": true,
-        "possibly_sensitive": false,
-        "lang": "en"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 9,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": true,
-    "possibly_sensitive": false,
-    "lang": "en"
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

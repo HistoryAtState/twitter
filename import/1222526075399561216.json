@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Wed Jan 29 14:25:04 +0000 2020",
-    "id": 1222526075399561220,
-    "id_str": "1222526075399561216",
-    "full_text": "Read more of the #WWI stories featured as part of the Department’s #HeroesofUSDiplomacy series in “War, Neutrality, and Humanitarian Relief:” https://t.co/k59pQNw2Yw https://t.co/FkPkqbCyPg",
-    "truncated": false,
     "display_text_range": [
         0,
         165
@@ -11,35 +9,24 @@
     "entities": {
         "hashtags": [
             {
-                "text": "WWI",
                 "indices": [
                     17,
                     21
-                ]
+                ],
+                "text": "WWI"
             },
             {
-                "text": "HeroesofUSDiplomacy",
                 "indices": [
                     67,
                     87
-                ]
-            }
-        ],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
-            {
-                "url": "https://t.co/k59pQNw2Yw",
-                "expanded_url": "https://history.state.gov/departmenthistory/wwi",
-                "display_url": "history.state.gov/departmenthist…",
-                "indices": [
-                    142,
-                    165
-                ]
+                ],
+                "text": "HeroesofUSDiplomacy"
             }
         ],
         "media": [
             {
+                "display_url": "pic.twitter.com/FkPkqbCyPg",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1222526075399561216/photo/1",
                 "id": 1222526073948311550,
                 "id_str": "1222526073948311553",
                 "indices": [
@@ -48,38 +35,52 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/EPdI_K5XkAEXy2a.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/EPdI_K5XkAEXy2a.jpg",
-                "url": "https://t.co/FkPkqbCyPg",
-                "display_url": "pic.twitter.com/FkPkqbCyPg",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1222526075399561216/photo/1",
-                "type": "photo",
                 "sizes": {
                     "large": {
-                        "w": 400,
                         "h": 599,
-                        "resize": "fit"
-                    },
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
-                    "small": {
-                        "w": 400,
-                        "h": 599,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 400
                     },
                     "medium": {
-                        "w": 400,
                         "h": 599,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 400
+                    },
+                    "small": {
+                        "h": 599,
+                        "resize": "fit",
+                        "w": 400
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/FkPkqbCyPg"
             }
-        ]
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "history.state.gov/departmenthist…",
+                "expanded_url": "https://history.state.gov/departmenthistory/wwi",
+                "indices": [
+                    142,
+                    165
+                ],
+                "url": "https://t.co/k59pQNw2Yw"
+            }
+        ],
+        "user_mentions": []
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/FkPkqbCyPg",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1222526075399561216/photo/1",
+                "ext_alt_text": "Cover Image with blue text on a white background, reading: War, Neutrality, and Humanitarian Relief: The Expansion of U.S. Diplomatic Activity during the Great War, 1914-1917. The Department of State seal is in the top left, with the Office of the Historian Letterhead, also in blue.",
                 "id": 1222526073948311550,
                 "id_str": "1222526073948311553",
                 "indices": [
@@ -88,55 +89,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/EPdI_K5XkAEXy2a.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/EPdI_K5XkAEXy2a.jpg",
-                "url": "https://t.co/FkPkqbCyPg",
-                "display_url": "pic.twitter.com/FkPkqbCyPg",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1222526075399561216/photo/1",
-                "type": "photo",
                 "sizes": {
                     "large": {
-                        "w": 400,
                         "h": 599,
-                        "resize": "fit"
-                    },
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
-                    "small": {
-                        "w": 400,
-                        "h": 599,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 400
                     },
                     "medium": {
-                        "w": 400,
                         "h": 599,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 400
+                    },
+                    "small": {
+                        "h": 599,
+                        "resize": "fit",
+                        "w": 400
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": "Cover Image with blue text on a white background, reading: War, Neutrality, and Humanitarian Relief: The Expansion of U.S. Diplomatic Activity during the Great War, 1914-1917. The Department of State seal is in the top left, with the Office of the Historian Letterhead, also in blue."
+                "type": "photo",
+                "url": "https://t.co/FkPkqbCyPg"
             }
         ]
     },
-    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "favorite_count": 13,
+    "favorited": false,
+    "full_text": "Read more of the #WWI stories featured as part of the Department’s #HeroesofUSDiplomacy series in “War, Neutrality, and Humanitarian Relief:” https://t.co/k59pQNw2Yw https://t.co/FkPkqbCyPg",
+    "geo": null,
+    "id": 1222526075399561220,
+    "id_str": "1222526075399561216",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 6,
+    "retweeted": false,
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 13,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

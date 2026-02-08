@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Fri Mar 27 18:20:22 +0000 2015",
-    "id": 581521158257926140,
-    "id_str": "581521158257926145",
-    "full_text": "NSC staffers debated the history of the #FRUS series in 1987. Did they get it right? @Reagan_Library http://t.co/9wSmv54h8T",
-    "truncated": false,
     "display_text_range": [
         0,
         123
@@ -11,57 +9,59 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     40,
                     45
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "symbols": [],
+        "urls": [
+            {
+                "display_url": "historyatstate.tumblr.com/post/114770549…",
+                "expanded_url": "http://historyatstate.tumblr.com/post/114770549643/frus-history-reagan-nsc",
+                "indices": [
+                    101,
+                    123
+                ],
+                "url": "http://t.co/9wSmv54h8T"
+            }
+        ],
         "user_mentions": [
             {
-                "screen_name": "Reagan_Library",
-                "name": "RonaldReaganLibrary",
                 "id": 394351710,
                 "id_str": "394351710",
                 "indices": [
                     85,
                     100
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "http://t.co/9wSmv54h8T",
-                "expanded_url": "http://historyatstate.tumblr.com/post/114770549643/frus-history-reagan-nsc",
-                "display_url": "historyatstate.tumblr.com/post/114770549…",
-                "indices": [
-                    101,
-                    123
-                ]
+                ],
+                "name": "RonaldReaganLibrary",
+                "screen_name": "Reagan_Library"
             }
         ]
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "NSC staffers debated the history of the #FRUS series in 1987. Did they get it right? @Reagan_Library http://t.co/9wSmv54h8T",
+    "geo": null,
+    "id": 581521158257926140,
+    "id_str": "581521158257926145",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 5,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 5,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

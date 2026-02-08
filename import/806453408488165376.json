@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Wed Dec 07 11:00:50 +0000 2016",
-    "id": 806453408488165380,
-    "id_str": "806453408488165376",
-    "full_text": "Amb Joseph Clark Grew warned of #PearlHarbor attacks in Jan 1941: https://t.co/XWWOxo443V #FRUS #OTD #twitterstorians #WWII @USNHistory https://t.co/M6eGoeAhn2",
-    "truncated": false,
     "display_text_range": [
         0,
         135
@@ -11,67 +9,45 @@
     "entities": {
         "hashtags": [
             {
-                "text": "PearlHarbor",
                 "indices": [
                     32,
                     44
-                ]
+                ],
+                "text": "PearlHarbor"
             },
             {
-                "text": "FRUS",
                 "indices": [
                     90,
                     95
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "OTD",
                 "indices": [
                     96,
                     100
-                ]
+                ],
+                "text": "OTD"
             },
             {
-                "text": "twitterstorians",
                 "indices": [
                     101,
                     117
-                ]
+                ],
+                "text": "twitterstorians"
             },
             {
-                "text": "WWII",
                 "indices": [
                     118,
                     123
-                ]
-            }
-        ],
-        "symbols": [],
-        "user_mentions": [
-            {
-                "screen_name": "USNHistory",
-                "name": "U.S. Naval History",
-                "id": 37940492,
-                "id_str": "37940492",
-                "indices": [
-                    124,
-                    135
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "https://t.co/XWWOxo443V",
-                "expanded_url": "http://go.usa.gov/x8m4s",
-                "display_url": "go.usa.gov/x8m4s",
-                "indices": [
-                    66,
-                    89
-                ]
+                ],
+                "text": "WWII"
             }
         ],
         "media": [
             {
+                "display_url": "pic.twitter.com/M6eGoeAhn2",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/806453408488165376/photo/1",
                 "id": 806453406533648380,
                 "id_str": "806453406533648384",
                 "indices": [
@@ -80,38 +56,63 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/CzEZGbhXgAAB8A1.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/CzEZGbhXgAAB8A1.jpg",
-                "url": "https://t.co/M6eGoeAhn2",
-                "display_url": "pic.twitter.com/M6eGoeAhn2",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/806453408488165376/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
                     "large": {
-                        "w": 489,
                         "h": 599,
-                        "resize": "fit"
-                    },
-                    "small": {
-                        "w": 489,
-                        "h": 599,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 489
                     },
                     "medium": {
-                        "w": 489,
                         "h": 599,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 489
+                    },
+                    "small": {
+                        "h": 599,
+                        "resize": "fit",
+                        "w": 489
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/M6eGoeAhn2"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "go.usa.gov/x8m4s",
+                "expanded_url": "http://go.usa.gov/x8m4s",
+                "indices": [
+                    66,
+                    89
+                ],
+                "url": "https://t.co/XWWOxo443V"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 37940492,
+                "id_str": "37940492",
+                "indices": [
+                    124,
+                    135
+                ],
+                "name": "U.S. Naval History",
+                "screen_name": "USNHistory"
             }
         ]
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/M6eGoeAhn2",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/806453408488165376/photo/1",
+                "ext_alt_text": null,
                 "id": 806453406533648380,
                 "id_str": "806453406533648384",
                 "indices": [
@@ -120,55 +121,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/CzEZGbhXgAAB8A1.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/CzEZGbhXgAAB8A1.jpg",
-                "url": "https://t.co/M6eGoeAhn2",
-                "display_url": "pic.twitter.com/M6eGoeAhn2",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/806453408488165376/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
                     "large": {
-                        "w": 489,
                         "h": 599,
-                        "resize": "fit"
-                    },
-                    "small": {
-                        "w": 489,
-                        "h": 599,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 489
                     },
                     "medium": {
-                        "w": 489,
                         "h": 599,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 489
+                    },
+                    "small": {
+                        "h": 599,
+                        "resize": "fit",
+                        "w": 489
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": null
+                "type": "photo",
+                "url": "https://t.co/M6eGoeAhn2"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 6,
+    "favorited": false,
+    "full_text": "Amb Joseph Clark Grew warned of #PearlHarbor attacks in Jan 1941: https://t.co/XWWOxo443V #FRUS #OTD #twitterstorians #WWII @USNHistory https://t.co/M6eGoeAhn2",
+    "geo": null,
+    "id": 806453408488165380,
+    "id_str": "806453408488165376",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 6,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 6,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

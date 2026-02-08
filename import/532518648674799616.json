@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Wed Nov 12 13:01:54 +0000 2014",
-    "id": 532518648674799620,
-    "id_str": "532518648674799616",
-    "full_text": "Good morning NYC! @bottsywattsy &amp;amp; @lempika7 are geared up to discuss non-traditional uses of #FRUS today w/@intlworldhist",
-    "truncated": false,
     "display_text_range": [
         0,
         125
@@ -11,66 +9,68 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     97,
                     102
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "bottsywattsy",
-                "name": "Josh Botts",
                 "id": 299329454,
                 "id_str": "299329454",
                 "indices": [
                     18,
                     31
-                ]
+                ],
+                "name": "Josh Botts",
+                "screen_name": "bottsywattsy"
             },
             {
-                "screen_name": "lempika7",
-                "name": "Dr Lindsay Sarah Krasnoff",
                 "id": 285687016,
                 "id_str": "285687016",
                 "indices": [
                     38,
                     47
-                ]
+                ],
+                "name": "Dr Lindsay Sarah Krasnoff",
+                "screen_name": "lempika7"
             },
             {
-                "screen_name": "intlworldhist",
-                "name": "Columbia-LSE MA/MSc",
                 "id": 234906483,
                 "id_str": "234906483",
                 "indices": [
                     111,
                     125
-                ]
+                ],
+                "name": "Columbia-LSE MA/MSc",
+                "screen_name": "intlworldhist"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 3,
+    "favorited": false,
+    "full_text": "Good morning NYC! @bottsywattsy &amp;amp; @lempika7 are geared up to discuss non-traditional uses of #FRUS today w/@intlworldhist",
+    "geo": null,
+    "id": 532518648674799620,
+    "id_str": "532518648674799616",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 4,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 3,
-    "favorited": false,
-    "retweeted": false,
-    "lang": "en"
+    }
 }

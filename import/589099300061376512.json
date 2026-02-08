@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Fri Apr 17 16:13:12 +0000 2015",
-    "id": 589099300061376510,
-    "id_str": "589099300061376512",
-    "full_text": "RT @icedd_org: Assistant Secretary of State Doug Frantz gives keynote address to #icedd2015, alongside #lincoln150 #FRUS volume http://t.co…",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,62 +9,62 @@
     "entities": {
         "hashtags": [
             {
-                "text": "icedd2015",
                 "indices": [
                     81,
                     91
-                ]
+                ],
+                "text": "icedd2015"
             },
             {
-                "text": "lincoln150",
                 "indices": [
                     103,
                     114
-                ]
+                ],
+                "text": "lincoln150"
             },
             {
-                "text": "FRUS",
                 "indices": [
                     115,
                     120
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "icedd_org",
-                "name": "ICEDD",
                 "id": 3131310616,
                 "id_str": "3131310616",
                 "indices": [
                     3,
                     13
-                ]
+                ],
+                "name": "ICEDD",
+                "screen_name": "icedd_org"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"&gt;Twitter for iPad&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "RT @icedd_org: Assistant Secretary of State Doug Frantz gives keynote address to #icedd2015, alongside #lincoln150 #FRUS volume http://t.co…",
+    "geo": null,
+    "id": 589099300061376510,
+    "id_str": "589099300061376512",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "retweet_count": 2,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Fri Apr 17 15:32:37 +0000 2015",
-        "id": 589089087732260860,
-        "id_str": "589089087732260864",
-        "full_text": "Assistant Secretary of State Doug Frantz gives keynote address to #icedd2015, alongside #lincoln150 #FRUS volume http://t.co/I7RNP5MSV5",
-        "truncated": false,
         "display_text_range": [
             0,
             135
@@ -74,32 +72,31 @@
         "entities": {
             "hashtags": [
                 {
-                    "text": "icedd2015",
                     "indices": [
                         66,
                         76
-                    ]
+                    ],
+                    "text": "icedd2015"
                 },
                 {
-                    "text": "lincoln150",
                     "indices": [
                         88,
                         99
-                    ]
+                    ],
+                    "text": "lincoln150"
                 },
                 {
-                    "text": "FRUS",
                     "indices": [
                         100,
                         105
-                    ]
+                    ],
+                    "text": "FRUS"
                 }
             ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [],
             "media": [
                 {
+                    "display_url": "pic.twitter.com/I7RNP5MSV5",
+                    "expanded_url": "https://twitter.com/icedd_org/status/589089087732260864/photo/1",
                     "id": 589088776967819260,
                     "id_str": "589088776967819264",
                     "indices": [
@@ -108,38 +105,42 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/CCzdHxxWEAAQ0Qk.jpg",
                     "media_url_https": "https://pbs.twimg.com/media/CCzdHxxWEAAQ0Qk.jpg",
-                    "url": "http://t.co/I7RNP5MSV5",
-                    "display_url": "pic.twitter.com/I7RNP5MSV5",
-                    "expanded_url": "https://twitter.com/icedd_org/status/589089087732260864/photo/1",
-                    "type": "photo",
                     "sizes": {
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
+                        "large": {
+                            "h": 1463,
+                            "resize": "fit",
+                            "w": 2048
                         },
                         "medium": {
-                            "w": 1200,
                             "h": 857,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 1200
                         },
                         "small": {
-                            "w": 680,
                             "h": 486,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 680
                         },
-                        "large": {
-                            "w": 2048,
-                            "h": 1463,
-                            "resize": "fit"
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
                         }
-                    }
+                    },
+                    "type": "photo",
+                    "url": "http://t.co/I7RNP5MSV5"
                 }
-            ]
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
         },
         "extended_entities": {
             "media": [
                 {
+                    "display_url": "pic.twitter.com/I7RNP5MSV5",
+                    "expanded_url": "https://twitter.com/icedd_org/status/589089087732260864/photo/1",
+                    "ext_alt_text": null,
                     "id": 589088776967819260,
                     "id_str": "589088776967819264",
                     "indices": [
@@ -148,62 +149,61 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/CCzdHxxWEAAQ0Qk.jpg",
                     "media_url_https": "https://pbs.twimg.com/media/CCzdHxxWEAAQ0Qk.jpg",
-                    "url": "http://t.co/I7RNP5MSV5",
-                    "display_url": "pic.twitter.com/I7RNP5MSV5",
-                    "expanded_url": "https://twitter.com/icedd_org/status/589089087732260864/photo/1",
-                    "type": "photo",
                     "sizes": {
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
+                        "large": {
+                            "h": 1463,
+                            "resize": "fit",
+                            "w": 2048
                         },
                         "medium": {
-                            "w": 1200,
                             "h": 857,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 1200
                         },
                         "small": {
-                            "w": 680,
                             "h": 486,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 680
                         },
-                        "large": {
-                            "w": 2048,
-                            "h": 1463,
-                            "resize": "fit"
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
                         }
                     },
-                    "ext_alt_text": null
+                    "type": "photo",
+                    "url": "http://t.co/I7RNP5MSV5"
                 }
             ]
         },
-        "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
+        "favorite_count": 0,
+        "favorited": false,
+        "full_text": "Assistant Secretary of State Doug Frantz gives keynote address to #icedd2015, alongside #lincoln150 #FRUS volume http://t.co/I7RNP5MSV5",
+        "geo": null,
+        "id": 589089087732260860,
+        "id_str": "589089087732260864",
+        "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 2,
+        "retweeted": true,
+        "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
+        "truncated": false,
         "user": {
             "id": 3131310616,
             "id_str": "3131310616"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 2,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": true,
-        "possibly_sensitive": false,
-        "lang": "en"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": true,
-    "lang": "en"
+    "source": "&lt;a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"&gt;Twitter for iPad&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

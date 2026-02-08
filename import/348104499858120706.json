@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Fri Jun 21 15:45:54 +0000 2013",
-    "id": 348104499858120700,
-    "id_str": "348104499858120706",
-    "full_text": "Questions about the @StateDept VSFS program? See eInternship FAQ http://t.co/zyUUP1PAJS Student applications open July 2nd #Twitterstorians",
-    "truncated": false,
     "display_text_range": [
         0,
         139
@@ -11,57 +9,59 @@
     "entities": {
         "hashtags": [
             {
-                "text": "Twitterstorians",
                 "indices": [
                     123,
                     139
-                ]
+                ],
+                "text": "Twitterstorians"
             }
         ],
         "symbols": [],
+        "urls": [
+            {
+                "display_url": "go.usa.gov/bvDJ",
+                "expanded_url": "http://go.usa.gov/bvDJ",
+                "indices": [
+                    65,
+                    87
+                ],
+                "url": "http://t.co/zyUUP1PAJS"
+            }
+        ],
         "user_mentions": [
             {
-                "screen_name": "StateDept",
-                "name": "Department of State",
                 "id": 9624742,
                 "id_str": "9624742",
                 "indices": [
                     20,
                     30
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "http://t.co/zyUUP1PAJS",
-                "expanded_url": "http://go.usa.gov/bvDJ",
-                "display_url": "go.usa.gov/bvDJ",
-                "indices": [
-                    65,
-                    87
-                ]
+                ],
+                "name": "Department of State",
+                "screen_name": "StateDept"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 1,
+    "favorited": false,
+    "full_text": "Questions about the @StateDept VSFS program? See eInternship FAQ http://t.co/zyUUP1PAJS Student applications open July 2nd #Twitterstorians",
+    "geo": null,
+    "id": 348104499858120700,
+    "id_str": "348104499858120706",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 1,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

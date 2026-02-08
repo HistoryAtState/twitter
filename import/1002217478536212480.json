@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu May 31 15:57:21 +0000 2018",
-    "id": 1002217478536212480,
-    "id_str": "1002217478536212480",
-    "full_text": "The Office of the Historian releases a revised edition of Foreign Relations, 1977-80, Arab-Israeli Dispute 1978-80, with additional documentation \nhttps://t.co/JEg1neTKtI #FRUS #Twitterstorians https://t.co/GraFsXJpNn",
-    "truncated": false,
     "display_text_range": [
         0,
         193
@@ -11,35 +9,24 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     171,
                     176
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "Twitterstorians",
                 "indices": [
                     177,
                     193
-                ]
-            }
-        ],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
-            {
-                "url": "https://t.co/JEg1neTKtI",
-                "expanded_url": "http://www.history.state.gov/historicaldocuments/frus1977-80v09Ed2/pressrelease",
-                "display_url": "history.state.gov/historicaldocu…",
-                "indices": [
-                    147,
-                    170
-                ]
+                ],
+                "text": "Twitterstorians"
             }
         ],
         "media": [
             {
+                "display_url": "pic.twitter.com/GraFsXJpNn",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1002217478536212480/photo/1",
                 "id": 1002217345585238020,
                 "id_str": "1002217345585238018",
                 "indices": [
@@ -48,38 +35,52 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/DeiXXadX0AIQRox.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DeiXXadX0AIQRox.jpg",
-                "url": "https://t.co/GraFsXJpNn",
-                "display_url": "pic.twitter.com/GraFsXJpNn",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1002217478536212480/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
+                    "large": {
+                        "h": 600,
+                        "resize": "fit",
+                        "w": 400
                     },
                     "medium": {
-                        "w": 400,
                         "h": 600,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 400
                     },
                     "small": {
-                        "w": 400,
                         "h": 600,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 400
                     },
-                    "large": {
-                        "w": 400,
-                        "h": 600,
-                        "resize": "fit"
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/GraFsXJpNn"
             }
-        ]
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "history.state.gov/historicaldocu…",
+                "expanded_url": "http://www.history.state.gov/historicaldocuments/frus1977-80v09Ed2/pressrelease",
+                "indices": [
+                    147,
+                    170
+                ],
+                "url": "https://t.co/JEg1neTKtI"
+            }
+        ],
+        "user_mentions": []
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/GraFsXJpNn",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1002217478536212480/photo/1",
+                "ext_alt_text": "Word cloud image of documents released in volume",
                 "id": 1002217345585238020,
                 "id_str": "1002217345585238018",
                 "indices": [
@@ -88,55 +89,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/DeiXXadX0AIQRox.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DeiXXadX0AIQRox.jpg",
-                "url": "https://t.co/GraFsXJpNn",
-                "display_url": "pic.twitter.com/GraFsXJpNn",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1002217478536212480/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
+                    "large": {
+                        "h": 600,
+                        "resize": "fit",
+                        "w": 400
                     },
                     "medium": {
-                        "w": 400,
                         "h": 600,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 400
                     },
                     "small": {
-                        "w": 400,
                         "h": 600,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 400
                     },
-                    "large": {
-                        "w": 400,
-                        "h": 600,
-                        "resize": "fit"
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": "Word cloud image of documents released in volume"
+                "type": "photo",
+                "url": "https://t.co/GraFsXJpNn"
             }
         ]
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 58,
+    "favorited": false,
+    "full_text": "The Office of the Historian releases a revised edition of Foreign Relations, 1977-80, Arab-Israeli Dispute 1978-80, with additional documentation \nhttps://t.co/JEg1neTKtI #FRUS #Twitterstorians https://t.co/GraFsXJpNn",
+    "geo": null,
+    "id": 1002217478536212480,
+    "id_str": "1002217478536212480",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 29,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 29,
-    "favorite_count": 58,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

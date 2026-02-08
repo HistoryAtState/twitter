@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Jun 21 13:31:12 +0000 2016",
-    "id": 745247699990118400,
-    "id_str": "745247699990118400",
-    "full_text": "#FRUS is “a model of responsible government transparency and accessibility that has endured more than 150 yrs” https://t.co/XhI4CL81Ko #FSJ",
-    "truncated": false,
     "display_text_range": [
         0,
         139
@@ -11,53 +9,55 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     0,
                     5
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "FSJ",
                 "indices": [
                     135,
                     139
-                ]
+                ],
+                "text": "FSJ"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "https://t.co/XhI4CL81Ko",
-                "expanded_url": "http://bit.ly/1WGHbBe",
                 "display_url": "bit.ly/1WGHbBe",
+                "expanded_url": "http://bit.ly/1WGHbBe",
                 "indices": [
                     111,
                     134
-                ]
+                ],
+                "url": "https://t.co/XhI4CL81Ko"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 1,
+    "favorited": false,
+    "full_text": "#FRUS is “a model of responsible government transparency and accessibility that has endured more than 150 yrs” https://t.co/XhI4CL81Ko #FSJ",
+    "geo": null,
+    "id": 745247699990118400,
+    "id_str": "745247699990118400",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 1,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

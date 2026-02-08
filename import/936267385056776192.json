@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Nov 30 16:15:14 +0000 2017",
-    "id": 936267385056776190,
-    "id_str": "936267385056776192",
-    "full_text": "What did #Reagan policy makers do about #famine in #Africa? See Foreign Relations, 81–88, Vol. XLI, Global Issues II #hunger https://t.co/M8w0Wc3Wm9 #FRUS",
-    "truncated": false,
     "display_text_range": [
         0,
         154
@@ -11,74 +9,76 @@
     "entities": {
         "hashtags": [
             {
-                "text": "Reagan",
                 "indices": [
                     9,
                     16
-                ]
+                ],
+                "text": "Reagan"
             },
             {
-                "text": "famine",
                 "indices": [
                     40,
                     47
-                ]
+                ],
+                "text": "famine"
             },
             {
-                "text": "Africa",
                 "indices": [
                     51,
                     58
-                ]
+                ],
+                "text": "Africa"
             },
             {
-                "text": "hunger",
                 "indices": [
                     117,
                     124
-                ]
+                ],
+                "text": "hunger"
             },
             {
-                "text": "FRUS",
                 "indices": [
                     149,
                     154
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "https://t.co/M8w0Wc3Wm9",
-                "expanded_url": "https://go.usa.gov/xnWzr",
                 "display_url": "go.usa.gov/xnWzr",
+                "expanded_url": "https://go.usa.gov/xnWzr",
                 "indices": [
                     125,
                     148
-                ]
+                ],
+                "url": "https://t.co/M8w0Wc3Wm9"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "What did #Reagan policy makers do about #famine in #Africa? See Foreign Relations, 81–88, Vol. XLI, Global Issues II #hunger https://t.co/M8w0Wc3Wm9 #FRUS",
+    "geo": null,
+    "id": 936267385056776190,
+    "id_str": "936267385056776192",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Sep 09 11:02:50 +0000 2013",
-    "id": 377024291470340100,
-    "id_str": "377024291470340096",
-    "full_text": "Since Stimson, 21 other #SecStates have visited UK territory (including Kerry) http://t.co/vUfdhsDwyg",
-    "truncated": false,
     "display_text_range": [
         0,
         101
@@ -11,46 +9,48 @@
     "entities": {
         "hashtags": [
             {
-                "text": "SecStates",
                 "indices": [
                     24,
                     34
-                ]
+                ],
+                "text": "SecStates"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/vUfdhsDwyg",
-                "expanded_url": "http://go.usa.gov/DbJP",
                 "display_url": "go.usa.gov/DbJP",
+                "expanded_url": "http://go.usa.gov/DbJP",
                 "indices": [
                     79,
                     101
-                ]
+                ],
+                "url": "http://t.co/vUfdhsDwyg"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "Since Stimson, 21 other #SecStates have visited UK territory (including Kerry) http://t.co/vUfdhsDwyg",
+    "geo": null,
+    "id": 377024291470340100,
+    "id_str": "377024291470340096",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Dec 19 14:45:13 +0000 2013",
-    "id": 413681429898223620,
-    "id_str": "413681429898223617",
-    "full_text": "How did HO broaden (and attempt to accelerate) #FRUS coverage during the Cold War? http://t.co/GrjA4nhv1K",
-    "truncated": false,
     "display_text_range": [
         0,
         105
@@ -11,46 +9,48 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     47,
                     52
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/GrjA4nhv1K",
-                "expanded_url": "http://go.usa.gov/WSGV",
                 "display_url": "go.usa.gov/WSGV",
+                "expanded_url": "http://go.usa.gov/WSGV",
                 "indices": [
                     83,
                     105
-                ]
+                ],
+                "url": "http://t.co/GrjA4nhv1K"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "How did HO broaden (and attempt to accelerate) #FRUS coverage during the Cold War? http://t.co/GrjA4nhv1K",
+    "geo": null,
+    "id": 413681429898223620,
+    "id_str": "413681429898223617",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

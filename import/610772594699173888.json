@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Jun 16 11:35:08 +0000 2015",
-    "id": 610772594699173890,
-    "id_str": "610772594699173888",
-    "full_text": "1958 #WorldExpo: fmr #POTUS Hoover recalled @USEmbBrussels #WW1 aid “pioneered methods of relief of great famines” http://t.co/TUnlTXUwO3",
-    "truncated": false,
     "display_text_range": [
         0,
         137
@@ -11,71 +9,73 @@
     "entities": {
         "hashtags": [
             {
-                "text": "WorldExpo",
                 "indices": [
                     5,
                     15
-                ]
+                ],
+                "text": "WorldExpo"
             },
             {
-                "text": "POTUS",
                 "indices": [
                     21,
                     27
-                ]
+                ],
+                "text": "POTUS"
             },
             {
-                "text": "WW1",
                 "indices": [
                     59,
                     63
-                ]
+                ],
+                "text": "WW1"
             }
         ],
         "symbols": [],
+        "urls": [
+            {
+                "display_url": "ow.ly/OmgGT",
+                "expanded_url": "http://ow.ly/OmgGT",
+                "indices": [
+                    115,
+                    137
+                ],
+                "url": "http://t.co/TUnlTXUwO3"
+            }
+        ],
         "user_mentions": [
             {
-                "screen_name": "usembbrussels",
-                "name": "US Embassy Brussels",
                 "id": 19981036,
                 "id_str": "19981036",
                 "indices": [
                     44,
                     58
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "http://t.co/TUnlTXUwO3",
-                "expanded_url": "http://ow.ly/OmgGT",
-                "display_url": "ow.ly/OmgGT",
-                "indices": [
-                    115,
-                    137
-                ]
+                ],
+                "name": "US Embassy Brussels",
+                "screen_name": "usembbrussels"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 2,
+    "favorited": false,
+    "full_text": "1958 #WorldExpo: fmr #POTUS Hoover recalled @USEmbBrussels #WW1 aid “pioneered methods of relief of great famines” http://t.co/TUnlTXUwO3",
+    "geo": null,
+    "id": 610772594699173890,
+    "id_str": "610772594699173888",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 2,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

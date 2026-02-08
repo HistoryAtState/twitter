@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Wed Dec 18 14:00:46 +0000 2013",
-    "id": 413307854729142270,
-    "id_str": "413307854729142273",
-    "full_text": "The Office of the Historian released today Foreign Relations, 1964–1968, Volume XXIII, Congo, 1960–1968. http://t.co/Nm8U0E93Ff #FRUS",
-    "truncated": false,
     "display_text_range": [
         0,
         133
@@ -11,46 +9,48 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     128,
                     133
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/Nm8U0E93Ff",
-                "expanded_url": "http://go.usa.gov/ZgyT",
                 "display_url": "go.usa.gov/ZgyT",
+                "expanded_url": "http://go.usa.gov/ZgyT",
                 "indices": [
                     105,
                     127
-                ]
+                ],
+                "url": "http://t.co/Nm8U0E93Ff"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
+    "favorite_count": 1,
+    "favorited": false,
+    "full_text": "The Office of the Historian released today Foreign Relations, 1964–1968, Volume XXIII, Congo, 1960–1968. http://t.co/Nm8U0E93Ff #FRUS",
+    "geo": null,
+    "id": 413307854729142270,
+    "id_str": "413307854729142273",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 5,
+    "retweeted": false,
+    "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 5,
-    "favorite_count": 1,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

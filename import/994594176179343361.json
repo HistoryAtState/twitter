@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu May 10 15:05:04 +0000 2018",
-    "id": 994594176179343360,
-    "id_str": "994594176179343361",
-    "full_text": "Between January 1 and 28, 1866, William H. Seward became the first Secretary of State to travel outside the United States while in office. https://t.co/eUPCXPOVho #twitterstorians",
-    "truncated": false,
     "display_text_range": [
         0,
         179
@@ -11,46 +9,48 @@
     "entities": {
         "hashtags": [
             {
-                "text": "twitterstorians",
                 "indices": [
                     163,
                     179
-                ]
+                ],
+                "text": "twitterstorians"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "https://t.co/eUPCXPOVho",
-                "expanded_url": "https://history.state.gov/departmenthistory/timeline/1789-1899",
                 "display_url": "history.state.gov/departmenthist…",
+                "expanded_url": "https://history.state.gov/departmenthistory/timeline/1789-1899",
                 "indices": [
                     139,
                     162
-                ]
+                ],
+                "url": "https://t.co/eUPCXPOVho"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 1,
+    "favorited": false,
+    "full_text": "Between January 1 and 28, 1866, William H. Seward became the first Secretary of State to travel outside the United States while in office. https://t.co/eUPCXPOVho #twitterstorians",
+    "geo": null,
+    "id": 994594176179343360,
+    "id_str": "994594176179343361",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 1,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

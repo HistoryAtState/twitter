@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Mar 18 22:30:47 +0000 2021",
-    "id": 1372676888456482820,
-    "id_str": "1372676888456482824",
-    "full_text": "RT @USEmbassyCairo: The Embassy's Marine Security Guard Detachment lowered and folded the U.S. flag in honor of Jeannette Lafrance, an Offi…",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,51 +9,50 @@
     "entities": {
         "hashtags": [],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "USEmbassyCairo",
-                "name": "U.S. Embassy Cairo",
                 "id": 76945884,
                 "id_str": "76945884",
                 "indices": [
                     3,
                     18
-                ]
+                ],
+                "name": "U.S. Embassy Cairo",
+                "screen_name": "USEmbassyCairo"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "RT @USEmbassyCairo: The Embassy's Marine Security Guard Detachment lowered and folded the U.S. flag in honor of Jeannette Lafrance, an Offi…",
+    "geo": null,
+    "id": 1372676888456482820,
+    "id_str": "1372676888456482824",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "retweet_count": 5,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Thu Mar 18 22:03:06 +0000 2021",
-        "id": 1372669921461669890,
-        "id_str": "1372669921461669890",
-        "full_text": "The Embassy's Marine Security Guard Detachment lowered and folded the U.S. flag in honor of Jeannette Lafrance, an Office Management Specialist at U.S. Embassy Cairo who tragically died 67 years ago today. We will present this flag to Jeannette's sister Alice Plautz in Wisconsin. https://t.co/hxXJ3m2azK",
-        "truncated": false,
         "display_text_range": [
             0,
             280
         ],
         "entities": {
             "hashtags": [],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [],
             "media": [
                 {
+                    "display_url": "pic.twitter.com/hxXJ3m2azK",
+                    "expanded_url": "https://twitter.com/USEmbassyCairo/status/1372669921461669890/photo/1",
                     "id": 1372669916143362050,
                     "id_str": "1372669916143362052",
                     "indices": [
@@ -64,38 +61,42 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/Ewy0BBmXIAQGavV.jpg",
                     "media_url_https": "https://pbs.twimg.com/media/Ewy0BBmXIAQGavV.jpg",
-                    "url": "https://t.co/hxXJ3m2azK",
-                    "display_url": "pic.twitter.com/hxXJ3m2azK",
-                    "expanded_url": "https://twitter.com/USEmbassyCairo/status/1372669921461669890/photo/1",
-                    "type": "photo",
                     "sizes": {
-                        "medium": {
-                            "w": 213,
-                            "h": 320,
-                            "resize": "fit"
-                        },
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
-                        },
                         "large": {
-                            "w": 213,
                             "h": 320,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 213
+                        },
+                        "medium": {
+                            "h": 320,
+                            "resize": "fit",
+                            "w": 213
                         },
                         "small": {
-                            "w": 213,
                             "h": 320,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 213
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
                         }
-                    }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/hxXJ3m2azK"
                 }
-            ]
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
         },
         "extended_entities": {
             "media": [
                 {
+                    "display_url": "pic.twitter.com/hxXJ3m2azK",
+                    "expanded_url": "https://twitter.com/USEmbassyCairo/status/1372669921461669890/photo/1",
+                    "ext_alt_text": null,
                     "id": 1372669916143362050,
                     "id_str": "1372669916143362052",
                     "indices": [
@@ -104,35 +105,35 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/Ewy0BBmXIAQGavV.jpg",
                     "media_url_https": "https://pbs.twimg.com/media/Ewy0BBmXIAQGavV.jpg",
-                    "url": "https://t.co/hxXJ3m2azK",
-                    "display_url": "pic.twitter.com/hxXJ3m2azK",
-                    "expanded_url": "https://twitter.com/USEmbassyCairo/status/1372669921461669890/photo/1",
-                    "type": "photo",
                     "sizes": {
-                        "medium": {
-                            "w": 213,
-                            "h": 320,
-                            "resize": "fit"
-                        },
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
-                        },
                         "large": {
-                            "w": 213,
                             "h": 320,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 213
+                        },
+                        "medium": {
+                            "h": 320,
+                            "resize": "fit",
+                            "w": 213
                         },
                         "small": {
-                            "w": 213,
                             "h": 320,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 213
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
                         }
                     },
-                    "ext_alt_text": null
+                    "type": "photo",
+                    "url": "https://t.co/hxXJ3m2azK"
                 },
                 {
+                    "display_url": "pic.twitter.com/hxXJ3m2azK",
+                    "expanded_url": "https://twitter.com/USEmbassyCairo/status/1372669921461669890/photo/1",
+                    "ext_alt_text": null,
                     "id": 1372669916143304700,
                     "id_str": "1372669916143304704",
                     "indices": [
@@ -141,35 +142,35 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/Ewy0BBmWQAA6Kmv.jpg",
                     "media_url_https": "https://pbs.twimg.com/media/Ewy0BBmWQAA6Kmv.jpg",
-                    "url": "https://t.co/hxXJ3m2azK",
-                    "display_url": "pic.twitter.com/hxXJ3m2azK",
-                    "expanded_url": "https://twitter.com/USEmbassyCairo/status/1372669921461669890/photo/1",
-                    "type": "photo",
                     "sizes": {
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
+                        "large": {
+                            "h": 213,
+                            "resize": "fit",
+                            "w": 320
                         },
                         "medium": {
-                            "w": 320,
                             "h": 213,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 320
                         },
                         "small": {
-                            "w": 320,
                             "h": 213,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 320
                         },
-                        "large": {
-                            "w": 320,
-                            "h": 213,
-                            "resize": "fit"
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
                         }
                     },
-                    "ext_alt_text": null
+                    "type": "photo",
+                    "url": "https://t.co/hxXJ3m2azK"
                 },
                 {
+                    "display_url": "pic.twitter.com/hxXJ3m2azK",
+                    "expanded_url": "https://twitter.com/USEmbassyCairo/status/1372669921461669890/photo/1",
+                    "ext_alt_text": null,
                     "id": 1372669916298481660,
                     "id_str": "1372669916298481666",
                     "indices": [
@@ -178,62 +179,61 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/Ewy0BCLWEAIX2X4.jpg",
                     "media_url_https": "https://pbs.twimg.com/media/Ewy0BCLWEAIX2X4.jpg",
-                    "url": "https://t.co/hxXJ3m2azK",
-                    "display_url": "pic.twitter.com/hxXJ3m2azK",
-                    "expanded_url": "https://twitter.com/USEmbassyCairo/status/1372669921461669890/photo/1",
-                    "type": "photo",
                     "sizes": {
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
-                        },
                         "large": {
-                            "w": 320,
                             "h": 213,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 320
                         },
                         "medium": {
-                            "w": 320,
                             "h": 213,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 320
                         },
                         "small": {
-                            "w": 320,
                             "h": 213,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 320
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
                         }
                     },
-                    "ext_alt_text": null
+                    "type": "photo",
+                    "url": "https://t.co/hxXJ3m2azK"
                 }
             ]
         },
-        "source": "&lt;a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"&gt;Twitter for iPhone&lt;/a&gt;",
+        "favorite_count": 33,
+        "favorited": false,
+        "full_text": "The Embassy's Marine Security Guard Detachment lowered and folded the U.S. flag in honor of Jeannette Lafrance, an Office Management Specialist at U.S. Embassy Cairo who tragically died 67 years ago today. We will present this flag to Jeannette's sister Alice Plautz in Wisconsin. https://t.co/hxXJ3m2azK",
+        "geo": null,
+        "id": 1372669921461669890,
+        "id_str": "1372669921461669890",
+        "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 5,
+        "retweeted": true,
+        "source": "&lt;a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"&gt;Twitter for iPhone&lt;/a&gt;",
+        "truncated": false,
         "user": {
             "id": 76945884,
             "id_str": "76945884"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 5,
-        "favorite_count": 33,
-        "favorited": false,
-        "retweeted": true,
-        "possibly_sensitive": false,
-        "lang": "en"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 5,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": true,
-    "lang": "en"
+    "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

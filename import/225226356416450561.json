@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Jul 17 13:52:02 +0000 2012",
-    "id": 225226356416450560,
-    "id_str": "225226356416450561",
-    "full_text": "Last chance to apply for the VSFS program! Applications close July 20.  http://t.co/wzTwn0ZQ #twitterstorians",
-    "truncated": false,
     "display_text_range": [
         0,
         109
@@ -11,46 +9,48 @@
     "entities": {
         "hashtags": [
             {
-                "text": "twitterstorians",
                 "indices": [
                     93,
                     109
-                ]
+                ],
+                "text": "twitterstorians"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/wzTwn0ZQ",
-                "expanded_url": "http://go.usa.gov/vzp",
                 "display_url": "go.usa.gov/vzp",
+                "expanded_url": "http://go.usa.gov/vzp",
                 "indices": [
                     72,
                     92
-                ]
+                ],
+                "url": "http://t.co/wzTwn0ZQ"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 1,
+    "favorited": false,
+    "full_text": "Last chance to apply for the VSFS program! Applications close July 20.  http://t.co/wzTwn0ZQ #twitterstorians",
+    "geo": null,
+    "id": 225226356416450560,
+    "id_str": "225226356416450561",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 12,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 12,
-    "favorite_count": 1,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

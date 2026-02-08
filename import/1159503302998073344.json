@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Aug 08 16:35:04 +0000 2019",
-    "id": 1159503302998073340,
-    "id_str": "1159503302998073344",
-    "full_text": "What did the U.S. do to stop Pakistan’s nuclear weapons program from 1977 to 1980? Find out in #FRUS: https://t.co/xRzNv70P1d @usembislamabad @USCGLahore @usconsulatekhi @USCGPeshawar",
-    "truncated": false,
     "display_text_range": [
         0,
         183
@@ -11,87 +9,89 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     95,
                     100
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "symbols": [],
+        "urls": [
+            {
+                "display_url": "go.usa.gov/xyFfE",
+                "expanded_url": "https://go.usa.gov/xyFfE",
+                "indices": [
+                    102,
+                    125
+                ],
+                "url": "https://t.co/xRzNv70P1d"
+            }
+        ],
         "user_mentions": [
             {
-                "screen_name": "usembislamabad",
-                "name": "U.S. Embassy Islamabad",
                 "id": 218443914,
                 "id_str": "218443914",
                 "indices": [
                     126,
                     141
-                ]
+                ],
+                "name": "U.S. Embassy Islamabad",
+                "screen_name": "usembislamabad"
             },
             {
-                "screen_name": "USCGLahore",
-                "name": "U.S. Consulate General Lahore",
                 "id": 211464439,
                 "id_str": "211464439",
                 "indices": [
                     142,
                     153
-                ]
+                ],
+                "name": "U.S. Consulate General Lahore",
+                "screen_name": "USCGLahore"
             },
             {
-                "screen_name": "usconsulatekhi",
-                "name": "US Consulate Karachi",
                 "id": 77445267,
                 "id_str": "77445267",
                 "indices": [
                     154,
                     169
-                ]
+                ],
+                "name": "US Consulate Karachi",
+                "screen_name": "usconsulatekhi"
             },
             {
-                "screen_name": "USCGPeshawar",
-                "name": "U.S. Consulate Peshawar",
                 "id": 1200410402,
                 "id_str": "1200410402",
                 "indices": [
                     170,
                     183
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "https://t.co/xRzNv70P1d",
-                "expanded_url": "https://go.usa.gov/xyFfE",
-                "display_url": "go.usa.gov/xyFfE",
-                "indices": [
-                    102,
-                    125
-                ]
+                ],
+                "name": "U.S. Consulate Peshawar",
+                "screen_name": "USCGPeshawar"
             }
         ]
     },
-    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "What did the U.S. do to stop Pakistan’s nuclear weapons program from 1977 to 1980? Find out in #FRUS: https://t.co/xRzNv70P1d @usembislamabad @USCGLahore @usconsulatekhi @USCGPeshawar",
+    "geo": null,
+    "id": 1159503302998073340,
+    "id_str": "1159503302998073344",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

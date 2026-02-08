@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Jun 24 12:03:28 +0000 2013",
-    "id": 349135685829160960,
-    "id_str": "349135685829160960",
-    "full_text": "At Kennedy Administration’s urging, Congress established separate Agency for International Development (AID) in 1961 http://t.co/rlTAb3mYWy",
-    "truncated": false,
     "display_text_range": [
         0,
         139
@@ -11,38 +9,40 @@
     "entities": {
         "hashtags": [],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/rlTAb3mYWy",
-                "expanded_url": "http://go.usa.gov/bc8m",
                 "display_url": "go.usa.gov/bc8m",
+                "expanded_url": "http://go.usa.gov/bc8m",
                 "indices": [
                     117,
                     139
-                ]
+                ],
+                "url": "http://t.co/rlTAb3mYWy"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "At Kennedy Administration’s urging, Congress established separate Agency for International Development (AID) in 1961 http://t.co/rlTAb3mYWy",
+    "geo": null,
+    "id": 349135685829160960,
+    "id_str": "349135685829160960",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

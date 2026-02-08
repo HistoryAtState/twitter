@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Dec 15 01:21:46 +0000 2020",
-    "id": 1338655458316443650,
-    "id_str": "1338655458316443648",
-    "full_text": "RT @FSIatState: #DYK that the Foreign Service Institute Training Center located in Arlington, Virginia was named after George P. Shultz - A…",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,48 +9,55 @@
     "entities": {
         "hashtags": [
             {
-                "text": "DYK",
                 "indices": [
                     16,
                     20
-                ]
+                ],
+                "text": "DYK"
             }
         ],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "FSIatState",
-                "name": "Foreign Service Institute",
                 "id": 958044239576948740,
                 "id_str": "958044239576948736",
                 "indices": [
                     3,
                     14
-                ]
+                ],
+                "name": "Foreign Service Institute",
+                "screen_name": "FSIatState"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": true,
+    "full_text": "RT @FSIatState: #DYK that the Foreign Service Institute Training Center located in Arlington, Virginia was named after George P. Shultz - A…",
+    "geo": null,
+    "id": 1338655458316443650,
+    "id_str": "1338655458316443648",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": true,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "quoted_status_id": 1338167248545001470,
+    "quoted_status_id_str": "1338167248545001479",
+    "quoted_status_permalink": {
+        "display": "twitter.com/HistoryAtState…",
+        "expanded": "https://twitter.com/HistoryAtState/status/1338167248545001479",
+        "url": "https://t.co/Adba337N8i"
+    },
+    "retweet_count": 2,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Mon Dec 14 22:02:20 +0000 2020",
-        "id": 1338605267907452930,
-        "id_str": "1338605267907452930",
-        "full_text": "#DYK that the Foreign Service Institute Training Center located in Arlington, Virginia was named after George P. Shultz - A four-time cabinet member, WWII combat veteran, an avid supporter of foreign affairs training, and a superb diplomat! #FSI #Shultz100 https://t.co/Adba337N8i",
-        "truncated": false,
         "display_text_range": [
             0,
             256
@@ -60,69 +65,60 @@
         "entities": {
             "hashtags": [
                 {
-                    "text": "DYK",
                     "indices": [
                         0,
                         4
-                    ]
+                    ],
+                    "text": "DYK"
                 },
                 {
-                    "text": "FSI",
                     "indices": [
                         241,
                         245
-                    ]
+                    ],
+                    "text": "FSI"
                 },
                 {
-                    "text": "Shultz100",
                     "indices": [
                         246,
                         256
-                    ]
+                    ],
+                    "text": "Shultz100"
                 }
             ],
             "symbols": [],
-            "user_mentions": [],
             "urls": [
                 {
-                    "url": "https://t.co/Adba337N8i",
-                    "expanded_url": "https://twitter.com/HistoryAtState/status/1338167248545001479",
                     "display_url": "twitter.com/HistoryAtState…",
+                    "expanded_url": "https://twitter.com/HistoryAtState/status/1338167248545001479",
                     "indices": [
                         257,
                         280
-                    ]
+                    ],
+                    "url": "https://t.co/Adba337N8i"
                 }
-            ]
+            ],
+            "user_mentions": []
         },
-        "source": "&lt;a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"&gt;Twitter for iPhone&lt;/a&gt;",
+        "favorite_count": 8,
+        "favorited": true,
+        "full_text": "#DYK that the Foreign Service Institute Training Center located in Arlington, Virginia was named after George P. Shultz - A four-time cabinet member, WWII combat veteran, an avid supporter of foreign affairs training, and a superb diplomat! #FSI #Shultz100 https://t.co/Adba337N8i",
+        "geo": null,
+        "id": 1338605267907452930,
+        "id_str": "1338605267907452930",
+        "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 958044239576948740,
-            "id_str": "958044239576948736"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
         "is_quote_status": true,
-        "quoted_status_id": 1338167248545001470,
-        "quoted_status_id_str": "1338167248545001479",
-        "quoted_status_permalink": {
-            "url": "https://t.co/Adba337N8i",
-            "expanded": "https://twitter.com/HistoryAtState/status/1338167248545001479",
-            "display": "twitter.com/HistoryAtState…"
-        },
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
         "quoted_status": {
+            "contributors": null,
+            "coordinates": null,
             "created_at": "Sun Dec 13 17:01:48 +0000 2020",
-            "id": 1338167248545001470,
-            "id_str": "1338167248545001479",
-            "full_text": "George P. Shultz, who turns 100 today, served as U.S. Secretary of State during the 1985 Geneva and 1986 Reykjavik summits between Ronald Reagan and Mikhail Gorbachev.\nExplore this period in our recently released #FRUS volume:\nhttps://t.co/cdGkzuPLYm\n@Reagan_Library @HooverInst https://t.co/1aOkLBimKp",
-            "truncated": false,
             "display_text_range": [
                 0,
                 278
@@ -130,49 +126,17 @@
             "entities": {
                 "hashtags": [
                     {
-                        "text": "FRUS",
                         "indices": [
                             213,
                             218
-                        ]
-                    }
-                ],
-                "symbols": [],
-                "user_mentions": [
-                    {
-                        "screen_name": "Reagan_Library",
-                        "name": "RonaldReaganLibrary",
-                        "id": 394351710,
-                        "id_str": "394351710",
-                        "indices": [
-                            251,
-                            266
-                        ]
-                    },
-                    {
-                        "screen_name": "HooverInst",
-                        "name": "Hoover Institution",
-                        "id": 86364947,
-                        "id_str": "86364947",
-                        "indices": [
-                            267,
-                            278
-                        ]
-                    }
-                ],
-                "urls": [
-                    {
-                        "url": "https://t.co/cdGkzuPLYm",
-                        "expanded_url": "https://history.state.gov/historicaldocuments/frus1981-88v05",
-                        "display_url": "history.state.gov/historicaldocu…",
-                        "indices": [
-                            227,
-                            250
-                        ]
+                        ],
+                        "text": "FRUS"
                     }
                 ],
                 "media": [
                     {
+                        "display_url": "pic.twitter.com/1aOkLBimKp",
+                        "expanded_url": "https://twitter.com/HistoryAtState/status/1338167248545001479/photo/1",
                         "id": 1338167246489784320,
                         "id_str": "1338167246489784320",
                         "indices": [
@@ -181,38 +145,73 @@
                         ],
                         "media_url": "http://pbs.twimg.com/media/EpIgBVEWEAAjLTn.jpg",
                         "media_url_https": "https://pbs.twimg.com/media/EpIgBVEWEAAjLTn.jpg",
-                        "url": "https://t.co/1aOkLBimKp",
-                        "display_url": "pic.twitter.com/1aOkLBimKp",
-                        "expanded_url": "https://twitter.com/HistoryAtState/status/1338167248545001479/photo/1",
-                        "type": "photo",
                         "sizes": {
-                            "medium": {
-                                "w": 775,
-                                "h": 1029,
-                                "resize": "fit"
-                            },
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
                             "large": {
-                                "w": 775,
                                 "h": 1029,
-                                "resize": "fit"
+                                "resize": "fit",
+                                "w": 775
+                            },
+                            "medium": {
+                                "h": 1029,
+                                "resize": "fit",
+                                "w": 775
                             },
                             "small": {
-                                "w": 512,
                                 "h": 680,
-                                "resize": "fit"
+                                "resize": "fit",
+                                "w": 512
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
                             }
-                        }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/1aOkLBimKp"
+                    }
+                ],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "history.state.gov/historicaldocu…",
+                        "expanded_url": "https://history.state.gov/historicaldocuments/frus1981-88v05",
+                        "indices": [
+                            227,
+                            250
+                        ],
+                        "url": "https://t.co/cdGkzuPLYm"
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "id": 394351710,
+                        "id_str": "394351710",
+                        "indices": [
+                            251,
+                            266
+                        ],
+                        "name": "RonaldReaganLibrary",
+                        "screen_name": "Reagan_Library"
+                    },
+                    {
+                        "id": 86364947,
+                        "id_str": "86364947",
+                        "indices": [
+                            267,
+                            278
+                        ],
+                        "name": "Hoover Institution",
+                        "screen_name": "HooverInst"
                     }
                 ]
             },
             "extended_entities": {
                 "media": [
                     {
+                        "display_url": "pic.twitter.com/1aOkLBimKp",
+                        "expanded_url": "https://twitter.com/HistoryAtState/status/1338167248545001479/photo/1",
+                        "ext_alt_text": "Official portrait painting of George Shultz as U.S. Secretary of State (1982 to 1989), cropped close to face and shoulders",
                         "id": 1338167246489784320,
                         "id_str": "1338167246489784320",
                         "indices": [
@@ -221,35 +220,35 @@
                         ],
                         "media_url": "http://pbs.twimg.com/media/EpIgBVEWEAAjLTn.jpg",
                         "media_url_https": "https://pbs.twimg.com/media/EpIgBVEWEAAjLTn.jpg",
-                        "url": "https://t.co/1aOkLBimKp",
-                        "display_url": "pic.twitter.com/1aOkLBimKp",
-                        "expanded_url": "https://twitter.com/HistoryAtState/status/1338167248545001479/photo/1",
-                        "type": "photo",
                         "sizes": {
-                            "medium": {
-                                "w": 775,
-                                "h": 1029,
-                                "resize": "fit"
-                            },
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
                             "large": {
-                                "w": 775,
                                 "h": 1029,
-                                "resize": "fit"
+                                "resize": "fit",
+                                "w": 775
+                            },
+                            "medium": {
+                                "h": 1029,
+                                "resize": "fit",
+                                "w": 775
                             },
                             "small": {
-                                "w": 512,
                                 "h": 680,
-                                "resize": "fit"
+                                "resize": "fit",
+                                "w": 512
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
                             }
                         },
-                        "ext_alt_text": "Official portrait painting of George Shultz as U.S. Secretary of State (1982 to 1989), cropped close to face and shoulders"
+                        "type": "photo",
+                        "url": "https://t.co/1aOkLBimKp"
                     },
                     {
+                        "display_url": "pic.twitter.com/1aOkLBimKp",
+                        "expanded_url": "https://twitter.com/HistoryAtState/status/1338167248545001479/photo/1",
+                        "ext_alt_text": "Volume Cover of Foreign Relations, 1981–1988, Volume V, Soviet Union, March 1985–October 1986",
                         "id": 1338167245898452990,
                         "id_str": "1338167245898452996",
                         "indices": [
@@ -258,76 +257,77 @@
                         ],
                         "media_url": "http://pbs.twimg.com/media/EpIgBS3XEAQna_9.jpg",
                         "media_url_https": "https://pbs.twimg.com/media/EpIgBS3XEAQna_9.jpg",
-                        "url": "https://t.co/1aOkLBimKp",
-                        "display_url": "pic.twitter.com/1aOkLBimKp",
-                        "expanded_url": "https://twitter.com/HistoryAtState/status/1338167248545001479/photo/1",
-                        "type": "photo",
                         "sizes": {
-                            "medium": {
-                                "w": 400,
-                                "h": 600,
-                                "resize": "fit"
-                            },
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
                             "large": {
-                                "w": 400,
                                 "h": 600,
-                                "resize": "fit"
+                                "resize": "fit",
+                                "w": 400
+                            },
+                            "medium": {
+                                "h": 600,
+                                "resize": "fit",
+                                "w": 400
                             },
                             "small": {
-                                "w": 400,
                                 "h": 600,
-                                "resize": "fit"
+                                "resize": "fit",
+                                "w": 400
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
                             }
                         },
-                        "ext_alt_text": "Volume Cover of Foreign Relations, 1981–1988, Volume V, Soviet Union, March 1985–October 1986"
+                        "type": "photo",
+                        "url": "https://t.co/1aOkLBimKp"
                     }
                 ]
             },
-            "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+            "favorite_count": 114,
+            "favorited": false,
+            "full_text": "George P. Shultz, who turns 100 today, served as U.S. Secretary of State during the 1985 Geneva and 1986 Reykjavik summits between Ronald Reagan and Mikhail Gorbachev.\nExplore this period in our recently released #FRUS volume:\nhttps://t.co/cdGkzuPLYm\n@Reagan_Library @HooverInst https://t.co/1aOkLBimKp",
+            "geo": null,
+            "id": 1338167248545001470,
+            "id_str": "1338167248545001479",
+            "in_reply_to_screen_name": null,
             "in_reply_to_status_id": null,
             "in_reply_to_status_id_str": null,
             "in_reply_to_user_id": null,
             "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
+            "is_quote_status": false,
+            "lang": "en",
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 20,
+            "retweeted": false,
+            "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+            "truncated": false,
             "user": {
                 "id": 586570880,
                 "id_str": "586570880"
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "is_quote_status": false,
-            "retweet_count": 20,
-            "favorite_count": 114,
-            "favorited": false,
-            "retweeted": false,
-            "possibly_sensitive": false,
-            "lang": "en"
+            }
+        },
+        "quoted_status_id": 1338167248545001470,
+        "quoted_status_id_str": "1338167248545001479",
+        "quoted_status_permalink": {
+            "display": "twitter.com/HistoryAtState…",
+            "expanded": "https://twitter.com/HistoryAtState/status/1338167248545001479",
+            "url": "https://t.co/Adba337N8i"
         },
         "retweet_count": 2,
-        "favorite_count": 8,
-        "favorited": true,
         "retweeted": true,
-        "possibly_sensitive": false,
-        "lang": "en"
+        "source": "&lt;a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"&gt;Twitter for iPhone&lt;/a&gt;",
+        "truncated": false,
+        "user": {
+            "id": 958044239576948740,
+            "id_str": "958044239576948736"
+        }
     },
-    "is_quote_status": true,
-    "quoted_status_id": 1338167248545001470,
-    "quoted_status_id_str": "1338167248545001479",
-    "quoted_status_permalink": {
-        "url": "https://t.co/Adba337N8i",
-        "expanded": "https://twitter.com/HistoryAtState/status/1338167248545001479",
-        "display": "twitter.com/HistoryAtState…"
-    },
-    "retweet_count": 2,
-    "favorite_count": 0,
-    "favorited": true,
-    "retweeted": true,
-    "lang": "en"
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

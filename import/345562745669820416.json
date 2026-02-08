@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Fri Jun 14 15:25:53 +0000 2013",
-    "id": 345562745669820420,
-    "id_str": "345562745669820416",
-    "full_text": "Prior to 1917 US entry into WWI, US missions in belligerent countries acted as caretakers for warring countries http://t.co/lmWNq7Slvu",
-    "truncated": false,
     "display_text_range": [
         0,
         134
@@ -11,38 +9,40 @@
     "entities": {
         "hashtags": [],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/lmWNq7Slvu",
-                "expanded_url": "http://go.usa.gov/bc8T",
                 "display_url": "go.usa.gov/bc8T",
+                "expanded_url": "http://go.usa.gov/bc8T",
                 "indices": [
                     112,
                     134
-                ]
+                ],
+                "url": "http://t.co/lmWNq7Slvu"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 3,
+    "favorited": false,
+    "full_text": "Prior to 1917 US entry into WWI, US missions in belligerent countries acted as caretakers for warring countries http://t.co/lmWNq7Slvu",
+    "geo": null,
+    "id": 345562745669820420,
+    "id_str": "345562745669820416",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 3,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

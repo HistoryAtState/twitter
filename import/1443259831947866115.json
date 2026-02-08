@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Wed Sep 29 17:02:13 +0000 2021",
-    "id": 1443259831947866110,
-    "id_str": "1443259831947866115",
-    "full_text": "Are you a current or recent grad student in the history of U.S. foreign relations with Africa? Apply to the Presidential Management Fellows Program for a chance to work on the #FRUS series.\n\n#PMF applications accepted until Oct. 12\nhttps://t.co/9MdLicfclR https://t.co/bpfG0HnSl6",
-    "truncated": false,
     "display_text_range": [
         0,
         255
@@ -11,35 +9,24 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     176,
                     181
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "PMF",
                 "indices": [
                     191,
                     195
-                ]
-            }
-        ],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
-            {
-                "url": "https://t.co/9MdLicfclR",
-                "expanded_url": "https://bit.ly/OH-PMF",
-                "display_url": "bit.ly/OH-PMF",
-                "indices": [
-                    232,
-                    255
-                ]
+                ],
+                "text": "PMF"
             }
         ],
         "media": [
             {
+                "display_url": "pic.twitter.com/bpfG0HnSl6",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1443259831947866115/photo/1",
                 "id": 1443259829984927740,
                 "id_str": "1443259829984927746",
                 "indices": [
@@ -48,38 +35,52 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/FAd9KyzXoAIKR3b.png",
                 "media_url_https": "https://pbs.twimg.com/media/FAd9KyzXoAIKR3b.png",
-                "url": "https://t.co/bpfG0HnSl6",
-                "display_url": "pic.twitter.com/bpfG0HnSl6",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1443259831947866115/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "small": {
-                        "w": 680,
-                        "h": 340,
-                        "resize": "fit"
+                    "large": {
+                        "h": 512,
+                        "resize": "fit",
+                        "w": 1024
                     },
                     "medium": {
-                        "w": 1024,
                         "h": 512,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "small": {
+                        "h": 340,
+                        "resize": "fit",
+                        "w": 680
                     },
                     "thumb": {
-                        "w": 150,
                         "h": 150,
-                        "resize": "crop"
-                    },
-                    "large": {
-                        "w": 1024,
-                        "h": 512,
-                        "resize": "fit"
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/bpfG0HnSl6"
             }
-        ]
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "bit.ly/OH-PMF",
+                "expanded_url": "https://bit.ly/OH-PMF",
+                "indices": [
+                    232,
+                    255
+                ],
+                "url": "https://t.co/9MdLicfclR"
+            }
+        ],
+        "user_mentions": []
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/bpfG0HnSl6",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1443259831947866115/photo/1",
+                "ext_alt_text": "[overlaid on graphic of African continent] Do you study the history of U.S. foreign relations with Africa?  Apply to be a Presidential Management Fellow, Office of the Historian, U.S. Department of State PMF applications are open from September 28 to October 12, 2021: https://bit.ly/OH-PMF",
                 "id": 1443259829984927740,
                 "id_str": "1443259829984927746",
                 "indices": [
@@ -88,55 +89,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/FAd9KyzXoAIKR3b.png",
                 "media_url_https": "https://pbs.twimg.com/media/FAd9KyzXoAIKR3b.png",
-                "url": "https://t.co/bpfG0HnSl6",
-                "display_url": "pic.twitter.com/bpfG0HnSl6",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1443259831947866115/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "small": {
-                        "w": 680,
-                        "h": 340,
-                        "resize": "fit"
+                    "large": {
+                        "h": 512,
+                        "resize": "fit",
+                        "w": 1024
                     },
                     "medium": {
-                        "w": 1024,
                         "h": 512,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "small": {
+                        "h": 340,
+                        "resize": "fit",
+                        "w": 680
                     },
                     "thumb": {
-                        "w": 150,
                         "h": 150,
-                        "resize": "crop"
-                    },
-                    "large": {
-                        "w": 1024,
-                        "h": 512,
-                        "resize": "fit"
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": "[overlaid on graphic of African continent] Do you study the history of U.S. foreign relations with Africa?  Apply to be a Presidential Management Fellow, Office of the Historian, U.S. Department of State PMF applications are open from September 28 to October 12, 2021: https://bit.ly/OH-PMF"
+                "type": "photo",
+                "url": "https://t.co/bpfG0HnSl6"
             }
         ]
     },
-    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "favorite_count": 3,
+    "favorited": false,
+    "full_text": "Are you a current or recent grad student in the history of U.S. foreign relations with Africa? Apply to the Presidential Management Fellows Program for a chance to work on the #FRUS series.\n\n#PMF applications accepted until Oct. 12\nhttps://t.co/9MdLicfclR https://t.co/bpfG0HnSl6",
+    "geo": null,
+    "id": 1443259831947866110,
+    "id_str": "1443259831947866115",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 3,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

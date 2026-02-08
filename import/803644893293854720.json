@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Nov 29 17:00:48 +0000 2016",
-    "id": 803644893293854720,
-    "id_str": "803644893293854720",
-    "full_text": ".@StateDept archived letter from young #Castro to #POTUS in 1940: https://t.co/lwkeGdhQdv  @USNatArchives #FRUS #twitterstorians @FDRLibrary https://t.co/nBBsdvtoZY",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,80 +9,38 @@
     "entities": {
         "hashtags": [
             {
-                "text": "Castro",
                 "indices": [
                     39,
                     46
-                ]
+                ],
+                "text": "Castro"
             },
             {
-                "text": "POTUS",
                 "indices": [
                     50,
                     56
-                ]
+                ],
+                "text": "POTUS"
             },
             {
-                "text": "FRUS",
                 "indices": [
                     106,
                     111
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "twitterstorians",
                 "indices": [
                     112,
                     128
-                ]
-            }
-        ],
-        "symbols": [],
-        "user_mentions": [
-            {
-                "screen_name": "StateDept",
-                "name": "Department of State",
-                "id": 9624742,
-                "id_str": "9624742",
-                "indices": [
-                    1,
-                    11
-                ]
-            },
-            {
-                "screen_name": "USNatArchives",
-                "name": "US National Archives",
-                "id": 101802390,
-                "id_str": "101802390",
-                "indices": [
-                    91,
-                    105
-                ]
-            },
-            {
-                "screen_name": "FDRLibrary",
-                "name": "FDR Library",
-                "id": 293650530,
-                "id_str": "293650530",
-                "indices": [
-                    129,
-                    140
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "https://t.co/lwkeGdhQdv",
-                "expanded_url": "http://go.usa.gov/x8NjA",
-                "display_url": "go.usa.gov/x8NjA",
-                "indices": [
-                    66,
-                    89
-                ]
+                ],
+                "text": "twitterstorians"
             }
         ],
         "media": [
             {
+                "display_url": "pic.twitter.com/nBBsdvtoZY",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/803644893293854720/photo/1",
                 "id": 803644890806677500,
                 "id_str": "803644890806677505",
                 "indices": [
@@ -93,38 +49,83 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/CycexTIW8AEddkT.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/CycexTIW8AEddkT.jpg",
-                "url": "https://t.co/nBBsdvtoZY",
-                "display_url": "pic.twitter.com/nBBsdvtoZY",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/803644893293854720/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
+                    "large": {
+                        "h": 472,
+                        "resize": "fit",
+                        "w": 600
                     },
                     "medium": {
-                        "w": 600,
                         "h": 472,
-                        "resize": "fit"
-                    },
-                    "large": {
-                        "w": 600,
-                        "h": 472,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 600
                     },
                     "small": {
-                        "w": 600,
                         "h": 472,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/nBBsdvtoZY"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "go.usa.gov/x8NjA",
+                "expanded_url": "http://go.usa.gov/x8NjA",
+                "indices": [
+                    66,
+                    89
+                ],
+                "url": "https://t.co/lwkeGdhQdv"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 9624742,
+                "id_str": "9624742",
+                "indices": [
+                    1,
+                    11
+                ],
+                "name": "Department of State",
+                "screen_name": "StateDept"
+            },
+            {
+                "id": 101802390,
+                "id_str": "101802390",
+                "indices": [
+                    91,
+                    105
+                ],
+                "name": "US National Archives",
+                "screen_name": "USNatArchives"
+            },
+            {
+                "id": 293650530,
+                "id_str": "293650530",
+                "indices": [
+                    129,
+                    140
+                ],
+                "name": "FDR Library",
+                "screen_name": "FDRLibrary"
             }
         ]
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/nBBsdvtoZY",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/803644893293854720/photo/1",
+                "ext_alt_text": null,
                 "id": 803644890806677500,
                 "id_str": "803644890806677505",
                 "indices": [
@@ -133,55 +134,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/CycexTIW8AEddkT.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/CycexTIW8AEddkT.jpg",
-                "url": "https://t.co/nBBsdvtoZY",
-                "display_url": "pic.twitter.com/nBBsdvtoZY",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/803644893293854720/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
+                    "large": {
+                        "h": 472,
+                        "resize": "fit",
+                        "w": 600
                     },
                     "medium": {
-                        "w": 600,
                         "h": 472,
-                        "resize": "fit"
-                    },
-                    "large": {
-                        "w": 600,
-                        "h": 472,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 600
                     },
                     "small": {
-                        "w": 600,
                         "h": 472,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": null
+                "type": "photo",
+                "url": "https://t.co/nBBsdvtoZY"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": ".@StateDept archived letter from young #Castro to #POTUS in 1940: https://t.co/lwkeGdhQdv  @USNatArchives #FRUS #twitterstorians @FDRLibrary https://t.co/nBBsdvtoZY",
+    "geo": null,
+    "id": 803644893293854720,
+    "id_str": "803644893293854720",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

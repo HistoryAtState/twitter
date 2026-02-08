@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Oct 26 19:01:27 +0000 2021",
-    "id": 1453074310487318530,
-    "id_str": "1453074310487318528",
-    "full_text": "In this 1963 #FavoriteFRUS, Pres. Kennedy outlines USIA objectives to director Edward R. Murrow, providing a rare statement from a U.S. president on the purpose and goals of U.S. public diplomacy:\nhttps://t.co/Y2ZyukJMWe\n\n📷 @JFKLibrary https://t.co/08tr3NXFFU",
-    "truncated": false,
     "display_text_range": [
         0,
         235
@@ -11,39 +9,17 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FavoriteFRUS",
                 "indices": [
                     13,
                     26
-                ]
-            }
-        ],
-        "symbols": [],
-        "user_mentions": [
-            {
-                "screen_name": "JFKLibrary",
-                "name": "JFK Library",
-                "id": 32520240,
-                "id_str": "32520240",
-                "indices": [
-                    224,
-                    235
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "https://t.co/Y2ZyukJMWe",
-                "expanded_url": "http://ow.ly/tiv850GtS3J",
-                "display_url": "ow.ly/tiv850GtS3J",
-                "indices": [
-                    197,
-                    220
-                ]
+                ],
+                "text": "FavoriteFRUS"
             }
         ],
         "media": [
             {
+                "display_url": "pic.twitter.com/08tr3NXFFU",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1453074310487318528/photo/1",
                 "id": 1453074308511715330,
                 "id_str": "1453074308511715328",
                 "indices": [
@@ -52,38 +28,63 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/FCpbYocWUAALUxO.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/FCpbYocWUAALUxO.jpg",
-                "url": "https://t.co/08tr3NXFFU",
-                "display_url": "pic.twitter.com/08tr3NXFFU",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1453074310487318528/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
-                    "small": {
-                        "w": 562,
-                        "h": 680,
-                        "resize": "fit"
-                    },
                     "large": {
-                        "w": 1026,
                         "h": 1242,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1026
                     },
                     "medium": {
-                        "w": 991,
                         "h": 1200,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 991
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 562
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/08tr3NXFFU"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "ow.ly/tiv850GtS3J",
+                "expanded_url": "http://ow.ly/tiv850GtS3J",
+                "indices": [
+                    197,
+                    220
+                ],
+                "url": "https://t.co/Y2ZyukJMWe"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 32520240,
+                "id_str": "32520240",
+                "indices": [
+                    224,
+                    235
+                ],
+                "name": "JFK Library",
+                "screen_name": "JFKLibrary"
             }
         ]
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/08tr3NXFFU",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1453074310487318528/photo/1",
+                "ext_alt_text": "Screenshot of “109. Memorandum From President Kennedy to the Director of the United States Information Agency (Murrow),” dated January 25, 1963: “Agency activities should (a) encourage constructive public support abroad for the goal of a “peaceful world community of free and independent states, free to choose their own future and their own system so long as it does not threaten the freedom of others”",
                 "id": 1453074308511715330,
                 "id_str": "1453074308511715328",
                 "indices": [
@@ -92,35 +93,35 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/FCpbYocWUAALUxO.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/FCpbYocWUAALUxO.jpg",
-                "url": "https://t.co/08tr3NXFFU",
-                "display_url": "pic.twitter.com/08tr3NXFFU",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1453074310487318528/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
-                    "small": {
-                        "w": 562,
-                        "h": 680,
-                        "resize": "fit"
-                    },
                     "large": {
-                        "w": 1026,
                         "h": 1242,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1026
                     },
                     "medium": {
-                        "w": 991,
                         "h": 1200,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 991
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 562
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": "Screenshot of “109. Memorandum From President Kennedy to the Director of the United States Information Agency (Murrow),” dated January 25, 1963: “Agency activities should (a) encourage constructive public support abroad for the goal of a “peaceful world community of free and independent states, free to choose their own future and their own system so long as it does not threaten the freedom of others”"
+                "type": "photo",
+                "url": "https://t.co/08tr3NXFFU"
             },
             {
+                "display_url": "pic.twitter.com/08tr3NXFFU",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1453074310487318528/photo/1",
+                "ext_alt_text": "Photograph: “Swearing-in ceremony for Edward R. Murrow as Director of the United States Information Agency (USIA). White House Administrative Officer, Frank K. Sanderson, administers oath to Edward R. Murrow; President John F. Kennedy and Janet Brewster Murrow stand at left. Oval Office, White House, Washington, D.C.” (John F. Kennedy Presidential Library, AR6443-A)",
                 "id": 1453074309078032380,
                 "id_str": "1453074309078032385",
                 "indices": [
@@ -129,55 +130,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/FCpbYqjXoAEwjg5.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/FCpbYqjXoAEwjg5.jpg",
-                "url": "https://t.co/08tr3NXFFU",
-                "display_url": "pic.twitter.com/08tr3NXFFU",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1453074310487318528/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
+                    "large": {
+                        "h": 786,
+                        "resize": "fit",
+                        "w": 1000
                     },
                     "medium": {
-                        "w": 1000,
                         "h": 786,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1000
                     },
                     "small": {
-                        "w": 680,
                         "h": 534,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 680
                     },
-                    "large": {
-                        "w": 1000,
-                        "h": 786,
-                        "resize": "fit"
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": "Photograph: “Swearing-in ceremony for Edward R. Murrow as Director of the United States Information Agency (USIA). White House Administrative Officer, Frank K. Sanderson, administers oath to Edward R. Murrow; President John F. Kennedy and Janet Brewster Murrow stand at left. Oval Office, White House, Washington, D.C.” (John F. Kennedy Presidential Library, AR6443-A)"
+                "type": "photo",
+                "url": "https://t.co/08tr3NXFFU"
             }
         ]
     },
-    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "favorite_count": 41,
+    "favorited": false,
+    "full_text": "In this 1963 #FavoriteFRUS, Pres. Kennedy outlines USIA objectives to director Edward R. Murrow, providing a rare statement from a U.S. president on the purpose and goals of U.S. public diplomacy:\nhttps://t.co/Y2ZyukJMWe\n\n📷 @JFKLibrary https://t.co/08tr3NXFFU",
+    "geo": null,
+    "id": 1453074310487318530,
+    "id_str": "1453074310487318528",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 11,
+    "retweeted": false,
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 11,
-    "favorite_count": 41,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

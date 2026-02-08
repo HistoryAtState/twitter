@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Fri Apr 21 16:01:47 +0000 2017",
-    "id": 855451508246183940,
-    "id_str": "855451508246183938",
-    "full_text": "Don’t miss: “Public Historians at Mid-Career: Looking Back, Looking Forward” at 3:30 p.m. #ncph2017 #s52",
-    "truncated": false,
     "display_text_range": [
         0,
         104
@@ -11,42 +9,44 @@
     "entities": {
         "hashtags": [
             {
-                "text": "ncph2017",
                 "indices": [
                     90,
                     99
-                ]
+                ],
+                "text": "ncph2017"
             },
             {
-                "text": "s52",
                 "indices": [
                     100,
                     104
-                ]
+                ],
+                "text": "s52"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
-        "urls": []
+        "urls": [],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 1,
+    "favorited": false,
+    "full_text": "Don’t miss: “Public Historians at Mid-Career: Looking Back, Looking Forward” at 3:30 p.m. #ncph2017 #s52",
+    "geo": null,
+    "id": 855451508246183940,
+    "id_str": "855451508246183938",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 1,
-    "favorited": false,
-    "retweeted": false,
-    "lang": "en"
+    }
 }

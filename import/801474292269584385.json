@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Wed Nov 23 17:15:36 +0000 2016",
-    "id": 801474292269584380,
-    "id_str": "801474292269584385",
-    "full_text": "#Thanksgiving, 1967. Rep. Ullman cites sterling crisis for holiday tax hike. https://t.co/tjDmSxgci6 @USHouseHistory #FRUS #twitterstorians",
-    "truncated": false,
     "display_text_range": [
         0,
         139
@@ -11,71 +9,73 @@
     "entities": {
         "hashtags": [
             {
-                "text": "Thanksgiving",
                 "indices": [
                     0,
                     13
-                ]
+                ],
+                "text": "Thanksgiving"
             },
             {
-                "text": "FRUS",
                 "indices": [
                     117,
                     122
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "twitterstorians",
                 "indices": [
                     123,
                     139
-                ]
+                ],
+                "text": "twitterstorians"
             }
         ],
         "symbols": [],
+        "urls": [
+            {
+                "display_url": "go.usa.gov/xkJbK",
+                "expanded_url": "http://go.usa.gov/xkJbK",
+                "indices": [
+                    77,
+                    100
+                ],
+                "url": "https://t.co/tjDmSxgci6"
+            }
+        ],
         "user_mentions": [
             {
-                "screen_name": "USHouseHistory",
-                "name": "U.S. House History",
                 "id": 906782533,
                 "id_str": "906782533",
                 "indices": [
                     101,
                     116
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "https://t.co/tjDmSxgci6",
-                "expanded_url": "http://go.usa.gov/xkJbK",
-                "display_url": "go.usa.gov/xkJbK",
-                "indices": [
-                    77,
-                    100
-                ]
+                ],
+                "name": "U.S. House History",
+                "screen_name": "USHouseHistory"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 1,
+    "favorited": false,
+    "full_text": "#Thanksgiving, 1967. Rep. Ullman cites sterling crisis for holiday tax hike. https://t.co/tjDmSxgci6 @USHouseHistory #FRUS #twitterstorians",
+    "geo": null,
+    "id": 801474292269584380,
+    "id_str": "801474292269584385",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 1,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

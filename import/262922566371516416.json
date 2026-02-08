@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Oct 29 14:23:19 +0000 2012",
-    "id": 262922566371516416,
-    "id_str": "262922566371516416",
-    "full_text": "October 29, 1962. Read Schlesinger's recommendations after the resolution of the crisis. http://t.co/vYsKtQ8y #FRUS #cmc",
-    "truncated": false,
     "display_text_range": [
         0,
         120
@@ -11,53 +9,55 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     110,
                     115
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "cmc",
                 "indices": [
                     116,
                     120
-                ]
+                ],
+                "text": "cmc"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/vYsKtQ8y",
-                "expanded_url": "http://bit.ly/Yeg6nH",
                 "display_url": "bit.ly/Yeg6nH",
+                "expanded_url": "http://bit.ly/Yeg6nH",
                 "indices": [
                     89,
                     109
-                ]
+                ],
+                "url": "http://t.co/vYsKtQ8y"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "October 29, 1962. Read Schlesinger's recommendations after the resolution of the crisis. http://t.co/vYsKtQ8y #FRUS #cmc",
+    "geo": null,
+    "id": 262922566371516416,
+    "id_str": "262922566371516416",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

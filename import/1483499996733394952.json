@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Jan 18 18:02:15 +0000 2022",
-    "id": 1483499996733394940,
-    "id_str": "1483499996733394952",
-    "full_text": "We mourn the passing of David C. Humphrey, who contributed to the Foreign Relations series as @USNatArchives archivist with @LBJLibrary and historian at @HistoryAtState.\n\nHumphrey has been acknowledged in #FRUS volumes and #HAC meetings:\nhttps://t.co/Z64f2pQrmi https://t.co/K7JqtLCmpR",
-    "truncated": false,
     "display_text_range": [
         0,
         261
@@ -11,66 +9,24 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     205,
                     210
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "HAC",
                 "indices": [
                     223,
                     227
-                ]
-            }
-        ],
-        "symbols": [],
-        "user_mentions": [
-            {
-                "screen_name": "USNatArchives",
-                "name": "US National Archives",
-                "id": 101802390,
-                "id_str": "101802390",
-                "indices": [
-                    94,
-                    108
-                ]
-            },
-            {
-                "screen_name": "LBJLibrary",
-                "name": "LBJ Library",
-                "id": 113729414,
-                "id_str": "113729414",
-                "indices": [
-                    124,
-                    135
-                ]
-            },
-            {
-                "screen_name": "HistoryAtState",
-                "name": "HistoryAtState",
-                "id": 586570880,
-                "id_str": "586570880",
-                "indices": [
-                    153,
-                    168
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "https://t.co/Z64f2pQrmi",
-                "expanded_url": "http://ow.ly/RuAc50HwZtM",
-                "display_url": "ow.ly/RuAc50HwZtM",
-                "indices": [
-                    238,
-                    261
-                ]
+                ],
+                "text": "HAC"
             }
         ],
         "media": [
             {
+                "display_url": "pic.twitter.com/K7JqtLCmpR",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1483499996733394952/photo/1",
                 "id": 1483499995558989820,
                 "id_str": "1483499995558989826",
                 "indices": [
@@ -79,38 +35,83 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/FJZzYtOWUAI4tVe.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/FJZzYtOWUAI4tVe.jpg",
-                "url": "https://t.co/K7JqtLCmpR",
-                "display_url": "pic.twitter.com/K7JqtLCmpR",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1483499996733394952/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
+                    "large": {
                         "h": 150,
-                        "resize": "crop"
-                    },
-                    "small": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 150
                     },
                     "medium": {
-                        "w": 150,
                         "h": 150,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 150
                     },
-                    "large": {
-                        "w": 150,
+                    "small": {
                         "h": 150,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 150
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/K7JqtLCmpR"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "ow.ly/RuAc50HwZtM",
+                "expanded_url": "http://ow.ly/RuAc50HwZtM",
+                "indices": [
+                    238,
+                    261
+                ],
+                "url": "https://t.co/Z64f2pQrmi"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 101802390,
+                "id_str": "101802390",
+                "indices": [
+                    94,
+                    108
+                ],
+                "name": "US National Archives",
+                "screen_name": "USNatArchives"
+            },
+            {
+                "id": 113729414,
+                "id_str": "113729414",
+                "indices": [
+                    124,
+                    135
+                ],
+                "name": "LBJ Library",
+                "screen_name": "LBJLibrary"
+            },
+            {
+                "id": 586570880,
+                "id_str": "586570880",
+                "indices": [
+                    153,
+                    168
+                ],
+                "name": "HistoryAtState",
+                "screen_name": "HistoryAtState"
             }
         ]
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/K7JqtLCmpR",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1483499996733394952/photo/1",
+                "ext_alt_text": "Black-and-white headshot of David C. Humphrey, with white beard and glasses and in a suit and tie. Source: Legacy.com obituary",
                 "id": 1483499995558989820,
                 "id_str": "1483499995558989826",
                 "indices": [
@@ -119,55 +120,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/FJZzYtOWUAI4tVe.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/FJZzYtOWUAI4tVe.jpg",
-                "url": "https://t.co/K7JqtLCmpR",
-                "display_url": "pic.twitter.com/K7JqtLCmpR",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1483499996733394952/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
+                    "large": {
                         "h": 150,
-                        "resize": "crop"
-                    },
-                    "small": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 150
                     },
                     "medium": {
-                        "w": 150,
                         "h": 150,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 150
                     },
-                    "large": {
-                        "w": 150,
+                    "small": {
                         "h": 150,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 150
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": "Black-and-white headshot of David C. Humphrey, with white beard and glasses and in a suit and tie. Source: Legacy.com obituary"
+                "type": "photo",
+                "url": "https://t.co/K7JqtLCmpR"
             }
         ]
     },
-    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "favorite_count": 6,
+    "favorited": false,
+    "full_text": "We mourn the passing of David C. Humphrey, who contributed to the Foreign Relations series as @USNatArchives archivist with @LBJLibrary and historian at @HistoryAtState.\n\nHumphrey has been acknowledged in #FRUS volumes and #HAC meetings:\nhttps://t.co/Z64f2pQrmi https://t.co/K7JqtLCmpR",
+    "geo": null,
+    "id": 1483499996733394940,
+    "id_str": "1483499996733394952",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3,
+    "retweeted": false,
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 6,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

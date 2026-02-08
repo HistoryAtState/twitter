@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Fri Sep 15 12:30:13 +0000 2017",
-    "id": 908669282028068860,
-    "id_str": "908669282028068864",
-    "full_text": "9/16 is Int’l Day for Preservation of Ozone Layer! Look for upcoming docs on #ozone protection: #FRUS 1981–1988, Vol. XLI, Global Issues II https://t.co/pmysRh5BHS",
-    "truncated": false,
     "display_text_range": [
         0,
         139
@@ -11,25 +9,24 @@
     "entities": {
         "hashtags": [
             {
-                "text": "ozone",
                 "indices": [
                     77,
                     83
-                ]
+                ],
+                "text": "ozone"
             },
             {
-                "text": "FRUS",
                 "indices": [
                     96,
                     101
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [],
         "media": [
             {
+                "display_url": "pic.twitter.com/pmysRh5BHS",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/908669282028068864/photo/1",
                 "id": 908669279222067200,
                 "id_str": "908669279222067200",
                 "indices": [
@@ -38,38 +35,42 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/DJw95SZXcAAcYN7.png",
                 "media_url_https": "https://pbs.twimg.com/media/DJw95SZXcAAcYN7.png",
-                "url": "https://t.co/pmysRh5BHS",
-                "display_url": "pic.twitter.com/pmysRh5BHS",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/908669282028068864/photo/1",
-                "type": "photo",
                 "sizes": {
                     "large": {
-                        "w": 448,
                         "h": 448,
-                        "resize": "fit"
-                    },
-                    "small": {
-                        "w": 448,
-                        "h": 448,
-                        "resize": "fit"
-                    },
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
+                        "resize": "fit",
+                        "w": 448
                     },
                     "medium": {
-                        "w": 448,
                         "h": 448,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 448
+                    },
+                    "small": {
+                        "h": 448,
+                        "resize": "fit",
+                        "w": 448
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/pmysRh5BHS"
             }
-        ]
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/pmysRh5BHS",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/908669282028068864/photo/1",
+                "ext_alt_text": null,
                 "id": 908669279222067200,
                 "id_str": "908669279222067200",
                 "indices": [
@@ -78,55 +79,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/DJw95SZXcAAcYN7.png",
                 "media_url_https": "https://pbs.twimg.com/media/DJw95SZXcAAcYN7.png",
-                "url": "https://t.co/pmysRh5BHS",
-                "display_url": "pic.twitter.com/pmysRh5BHS",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/908669282028068864/photo/1",
-                "type": "photo",
                 "sizes": {
                     "large": {
-                        "w": 448,
                         "h": 448,
-                        "resize": "fit"
-                    },
-                    "small": {
-                        "w": 448,
-                        "h": 448,
-                        "resize": "fit"
-                    },
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
+                        "resize": "fit",
+                        "w": 448
                     },
                     "medium": {
-                        "w": 448,
                         "h": 448,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 448
+                    },
+                    "small": {
+                        "h": 448,
+                        "resize": "fit",
+                        "w": 448
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": null
+                "type": "photo",
+                "url": "https://t.co/pmysRh5BHS"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 4,
+    "favorited": false,
+    "full_text": "9/16 is Int’l Day for Preservation of Ozone Layer! Look for upcoming docs on #ozone protection: #FRUS 1981–1988, Vol. XLI, Global Issues II https://t.co/pmysRh5BHS",
+    "geo": null,
+    "id": 908669282028068860,
+    "id_str": "908669282028068864",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 4,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Wed Jun 08 18:01:00 +0000 2016",
-    "id": 740604555126267900,
-    "id_str": "740604555126267904",
-    "full_text": "Learn more about Embassy Warsaw’s 1977 showing of One Flew Over the Cuckoo’s Nest at https://t.co/M3qyu0co3X #FRUS #twitterstorians",
-    "truncated": false,
     "display_text_range": [
         0,
         131
@@ -11,53 +9,55 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     109,
                     114
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "twitterstorians",
                 "indices": [
                     115,
                     131
-                ]
+                ],
+                "text": "twitterstorians"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "https://t.co/M3qyu0co3X",
-                "expanded_url": "http://go.usa.gov/cutNW",
                 "display_url": "go.usa.gov/cutNW",
+                "expanded_url": "http://go.usa.gov/cutNW",
                 "indices": [
                     85,
                     108
-                ]
+                ],
+                "url": "https://t.co/M3qyu0co3X"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "Learn more about Embassy Warsaw’s 1977 showing of One Flew Over the Cuckoo’s Nest at https://t.co/M3qyu0co3X #FRUS #twitterstorians",
+    "geo": null,
+    "id": 740604555126267900,
+    "id_str": "740604555126267904",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Nov 29 15:31:11 +0000 2016",
-    "id": 803622343289532420,
-    "id_str": "803622343289532416",
-    "full_text": "Read the “thorough, accurate, and reliable” history of #FRUS here: https://t.co/HITwUbAb61 #twitterstorians #everythinghasahistory https://t.co/U609UTObvC",
-    "truncated": false,
     "display_text_range": [
         0,
         130
@@ -11,42 +9,31 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     55,
                     60
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "twitterstorians",
                 "indices": [
                     91,
                     107
-                ]
+                ],
+                "text": "twitterstorians"
             },
             {
-                "text": "everythinghasahistory",
                 "indices": [
                     108,
                     130
-                ]
-            }
-        ],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
-            {
-                "url": "https://t.co/HITwUbAb61",
-                "expanded_url": "http://go.usa.gov/x8Nnq",
-                "display_url": "go.usa.gov/x8Nnq",
-                "indices": [
-                    67,
-                    90
-                ]
+                ],
+                "text": "everythinghasahistory"
             }
         ],
         "media": [
             {
+                "display_url": "pic.twitter.com/U609UTObvC",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/803622343289532416/photo/1",
                 "id": 803622340689072130,
                 "id_str": "803622340689072128",
                 "indices": [
@@ -55,38 +42,52 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/CycKQtZXEAAkI6J.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/CycKQtZXEAAkI6J.jpg",
-                "url": "https://t.co/U609UTObvC",
-                "display_url": "pic.twitter.com/U609UTObvC",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/803622343289532416/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "small": {
-                        "w": 112,
+                    "large": {
                         "h": 168,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 112
                     },
                     "medium": {
-                        "w": 112,
                         "h": 168,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 112
                     },
-                    "large": {
-                        "w": 112,
+                    "small": {
                         "h": 168,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 112
                     },
                     "thumb": {
-                        "w": 112,
                         "h": 112,
-                        "resize": "crop"
+                        "resize": "crop",
+                        "w": 112
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/U609UTObvC"
             }
-        ]
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "go.usa.gov/x8Nnq",
+                "expanded_url": "http://go.usa.gov/x8Nnq",
+                "indices": [
+                    67,
+                    90
+                ],
+                "url": "https://t.co/HITwUbAb61"
+            }
+        ],
+        "user_mentions": []
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/U609UTObvC",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/803622343289532416/photo/1",
+                "ext_alt_text": null,
                 "id": 803622340689072130,
                 "id_str": "803622340689072128",
                 "indices": [
@@ -95,55 +96,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/CycKQtZXEAAkI6J.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/CycKQtZXEAAkI6J.jpg",
-                "url": "https://t.co/U609UTObvC",
-                "display_url": "pic.twitter.com/U609UTObvC",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/803622343289532416/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "small": {
-                        "w": 112,
+                    "large": {
                         "h": 168,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 112
                     },
                     "medium": {
-                        "w": 112,
                         "h": 168,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 112
                     },
-                    "large": {
-                        "w": 112,
+                    "small": {
                         "h": 168,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 112
                     },
                     "thumb": {
-                        "w": 112,
                         "h": 112,
-                        "resize": "crop"
+                        "resize": "crop",
+                        "w": 112
                     }
                 },
-                "ext_alt_text": null
+                "type": "photo",
+                "url": "https://t.co/U609UTObvC"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 6,
+    "favorited": false,
+    "full_text": "Read the “thorough, accurate, and reliable” history of #FRUS here: https://t.co/HITwUbAb61 #twitterstorians #everythinghasahistory https://t.co/U609UTObvC",
+    "geo": null,
+    "id": 803622343289532420,
+    "id_str": "803622343289532416",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 6,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 6,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

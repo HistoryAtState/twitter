@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Dec 01 12:10:16 +0000 2014",
-    "id": 539391025467645950,
-    "id_str": "539391025467645952",
-    "full_text": "The HAC is meeting in open session, 11 am Dec. 8, at the Dept of State. Info on attending: http://t.co/0ILczQgC1v #FRUS #twitterstorians",
-    "truncated": false,
     "display_text_range": [
         0,
         136
@@ -11,53 +9,55 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     114,
                     119
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "twitterstorians",
                 "indices": [
                     120,
                     136
-                ]
+                ],
+                "text": "twitterstorians"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/0ILczQgC1v",
-                "expanded_url": "http://history.state.gov/about/hac",
                 "display_url": "history.state.gov/about/hac",
+                "expanded_url": "http://history.state.gov/about/hac",
                 "indices": [
                     91,
                     113
-                ]
+                ],
+                "url": "http://t.co/0ILczQgC1v"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "The HAC is meeting in open session, 11 am Dec. 8, at the Dept of State. Info on attending: http://t.co/0ILczQgC1v #FRUS #twitterstorians",
+    "geo": null,
+    "id": 539391025467645950,
+    "id_str": "539391025467645952",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

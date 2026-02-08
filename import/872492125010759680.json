@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Wed Jun 07 16:35:07 +0000 2017",
-    "id": 872492125010759680,
-    "id_str": "872492125010759680",
-    "full_text": "Daniel #Ortega and the #Sandinistas visit the #Carter White House in September #1979: https://t.co/nF05zmYomK #everythinghasahistory #FRUS https://t.co/xzOkLkt3Yw",
-    "truncated": false,
     "display_text_range": [
         0,
         138
@@ -11,56 +9,45 @@
     "entities": {
         "hashtags": [
             {
-                "text": "Ortega",
                 "indices": [
                     7,
                     14
-                ]
+                ],
+                "text": "Ortega"
             },
             {
-                "text": "Sandinistas",
                 "indices": [
                     23,
                     35
-                ]
+                ],
+                "text": "Sandinistas"
             },
             {
-                "text": "Carter",
                 "indices": [
                     46,
                     53
-                ]
+                ],
+                "text": "Carter"
             },
             {
-                "text": "everythinghasahistory",
                 "indices": [
                     110,
                     132
-                ]
+                ],
+                "text": "everythinghasahistory"
             },
             {
-                "text": "FRUS",
                 "indices": [
                     133,
                     138
-                ]
-            }
-        ],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
-            {
-                "url": "https://t.co/nF05zmYomK",
-                "expanded_url": "https://go.usa.gov/x56c2",
-                "display_url": "go.usa.gov/x56c2",
-                "indices": [
-                    86,
-                    109
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "media": [
             {
+                "display_url": "pic.twitter.com/xzOkLkt3Yw",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/872492125010759680/photo/1",
                 "id": 872492122779340800,
                 "id_str": "872492122779340800",
                 "indices": [
@@ -69,38 +56,52 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/DBu29oeW0AAE6At.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DBu29oeW0AAE6At.jpg",
-                "url": "https://t.co/xzOkLkt3Yw",
-                "display_url": "pic.twitter.com/xzOkLkt3Yw",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/872492125010759680/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
                     "large": {
-                        "w": 400,
                         "h": 600,
-                        "resize": "fit"
-                    },
-                    "small": {
-                        "w": 400,
-                        "h": 600,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 400
                     },
                     "medium": {
-                        "w": 400,
                         "h": 600,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 400
+                    },
+                    "small": {
+                        "h": 600,
+                        "resize": "fit",
+                        "w": 400
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/xzOkLkt3Yw"
             }
-        ]
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "go.usa.gov/x56c2",
+                "expanded_url": "https://go.usa.gov/x56c2",
+                "indices": [
+                    86,
+                    109
+                ],
+                "url": "https://t.co/nF05zmYomK"
+            }
+        ],
+        "user_mentions": []
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/xzOkLkt3Yw",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/872492125010759680/photo/1",
+                "ext_alt_text": null,
                 "id": 872492122779340800,
                 "id_str": "872492122779340800",
                 "indices": [
@@ -109,55 +110,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/DBu29oeW0AAE6At.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DBu29oeW0AAE6At.jpg",
-                "url": "https://t.co/xzOkLkt3Yw",
-                "display_url": "pic.twitter.com/xzOkLkt3Yw",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/872492125010759680/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
                     "large": {
-                        "w": 400,
                         "h": 600,
-                        "resize": "fit"
-                    },
-                    "small": {
-                        "w": 400,
-                        "h": 600,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 400
                     },
                     "medium": {
-                        "w": 400,
                         "h": 600,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 400
+                    },
+                    "small": {
+                        "h": 600,
+                        "resize": "fit",
+                        "w": 400
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": null
+                "type": "photo",
+                "url": "https://t.co/xzOkLkt3Yw"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 2,
+    "favorited": false,
+    "full_text": "Daniel #Ortega and the #Sandinistas visit the #Carter White House in September #1979: https://t.co/nF05zmYomK #everythinghasahistory #FRUS https://t.co/xzOkLkt3Yw",
+    "geo": null,
+    "id": 872492125010759680,
+    "id_str": "872492125010759680",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 2,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

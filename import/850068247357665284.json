@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Apr 06 19:30:38 +0000 2017",
-    "id": 850068247357665280,
-    "id_str": "850068247357665284",
-    "full_text": "NOW: Papers Relating to #FRUS, #1918, #Russia, Vols. 1–3 https://t.co/uOut2dSSSA https://t.co/AiYBUGMLTR https://t.co/x1lCkYkMe1 #WWI",
-    "truncated": false,
     "display_text_range": [
         0,
         133
@@ -11,78 +9,80 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     24,
                     29
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "Russia",
                 "indices": [
                     38,
                     45
-                ]
+                ],
+                "text": "Russia"
             },
             {
-                "text": "WWI",
                 "indices": [
                     129,
                     133
-                ]
+                ],
+                "text": "WWI"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "https://t.co/uOut2dSSSA",
-                "expanded_url": "https://go.usa.gov/xXRMr",
                 "display_url": "go.usa.gov/xXRMr",
+                "expanded_url": "https://go.usa.gov/xXRMr",
                 "indices": [
                     57,
                     80
-                ]
+                ],
+                "url": "https://t.co/uOut2dSSSA"
             },
             {
-                "url": "https://t.co/AiYBUGMLTR",
-                "expanded_url": "https://go.usa.gov/xXRMT",
                 "display_url": "go.usa.gov/xXRMT",
+                "expanded_url": "https://go.usa.gov/xXRMT",
                 "indices": [
                     81,
                     104
-                ]
+                ],
+                "url": "https://t.co/AiYBUGMLTR"
             },
             {
-                "url": "https://t.co/x1lCkYkMe1",
-                "expanded_url": "https://go.usa.gov/xXRMW",
                 "display_url": "go.usa.gov/xXRMW",
+                "expanded_url": "https://go.usa.gov/xXRMW",
                 "indices": [
                     105,
                     128
-                ]
+                ],
+                "url": "https://t.co/x1lCkYkMe1"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 2,
+    "favorited": false,
+    "full_text": "NOW: Papers Relating to #FRUS, #1918, #Russia, Vols. 1–3 https://t.co/uOut2dSSSA https://t.co/AiYBUGMLTR https://t.co/x1lCkYkMe1 #WWI",
+    "geo": null,
+    "id": 850068247357665280,
+    "id_str": "850068247357665284",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 2,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

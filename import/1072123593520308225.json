@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Dec 10 13:39:18 +0000 2018",
-    "id": 1072123593520308220,
-    "id_str": "1072123593520308225",
-    "full_text": "The latest release of newly-digitized #FRUS volumes completes the largest phase of our project to digitize the entire Foreign Relations series. All 511 printed volumes released since 1861 are available and keyword and date-searchable online at https://t.co/L2Rj45aLre",
-    "truncated": false,
     "display_text_range": [
         0,
         267
@@ -11,46 +9,48 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     38,
                     43
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "https://t.co/L2Rj45aLre",
-                "expanded_url": "https://history.state.gov/",
                 "display_url": "history.state.gov",
+                "expanded_url": "https://history.state.gov/",
                 "indices": [
                     244,
                     267
-                ]
+                ],
+                "url": "https://t.co/L2Rj45aLre"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 17,
+    "favorited": false,
+    "full_text": "The latest release of newly-digitized #FRUS volumes completes the largest phase of our project to digitize the entire Foreign Relations series. All 511 printed volumes released since 1861 are available and keyword and date-searchable online at https://t.co/L2Rj45aLre",
+    "geo": null,
+    "id": 1072123593520308220,
+    "id_str": "1072123593520308225",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 8,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 8,
-    "favorite_count": 17,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Sat Jan 05 20:01:22 +0000 2013",
-    "id": 287650013214015488,
-    "id_str": "287650013214015488",
-    "full_text": "Join us at #AHA2013 as we discuss the Office's recent launch of #FRUS as #ebooks. http://t.co/OCSuvQjU #twitterstorians",
-    "truncated": false,
     "display_text_range": [
         0,
         119
@@ -11,67 +9,69 @@
     "entities": {
         "hashtags": [
             {
-                "text": "AHA2013",
                 "indices": [
                     11,
                     19
-                ]
+                ],
+                "text": "AHA2013"
             },
             {
-                "text": "FRUS",
                 "indices": [
                     64,
                     69
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "ebooks",
                 "indices": [
                     73,
                     80
-                ]
+                ],
+                "text": "ebooks"
             },
             {
-                "text": "twitterstorians",
                 "indices": [
                     103,
                     119
-                ]
+                ],
+                "text": "twitterstorians"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/OCSuvQjU",
-                "expanded_url": "http://bit.ly/URLiqy",
                 "display_url": "bit.ly/URLiqy",
+                "expanded_url": "http://bit.ly/URLiqy",
                 "indices": [
                     82,
                     102
-                ]
+                ],
+                "url": "http://t.co/OCSuvQjU"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "Join us at #AHA2013 as we discuss the Office's recent launch of #FRUS as #ebooks. http://t.co/OCSuvQjU #twitterstorians",
+    "geo": null,
+    "id": 287650013214015488,
+    "id_str": "287650013214015488",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

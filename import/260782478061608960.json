@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Oct 23 16:39:22 +0000 2012",
-    "id": 260782478061608960,
-    "id_str": "260782478061608960",
-    "full_text": "October 23, 1962. Kennedy consults with Congressional leadership about the Cuban missile crisis. http://t.co/Ap4XIPrQ #FRUS #cmc",
-    "truncated": false,
     "display_text_range": [
         0,
         128
@@ -11,53 +9,55 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     118,
                     123
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "cmc",
                 "indices": [
                     124,
                     128
-                ]
+                ],
+                "text": "cmc"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/Ap4XIPrQ",
-                "expanded_url": "http://bit.ly/RTHcft",
                 "display_url": "bit.ly/RTHcft",
+                "expanded_url": "http://bit.ly/RTHcft",
                 "indices": [
                     97,
                     117
-                ]
+                ],
+                "url": "http://t.co/Ap4XIPrQ"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 3,
+    "favorited": false,
+    "full_text": "October 23, 1962. Kennedy consults with Congressional leadership about the Cuban missile crisis. http://t.co/Ap4XIPrQ #FRUS #cmc",
+    "geo": null,
+    "id": 260782478061608960,
+    "id_str": "260782478061608960",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 19,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 19,
-    "favorite_count": 3,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Mar 20 17:15:54 +0000 2014",
-    "id": 446696648841101310,
-    "id_str": "446696648841101312",
-    "full_text": "Join us as we celebrate .@UNW_WWD &amp;amp; the history of US role in promoting sustainable use of world’s #water resources #WorldWaterDay",
-    "truncated": false,
     "display_text_range": [
         0,
         134
@@ -11,53 +9,55 @@
     "entities": {
         "hashtags": [
             {
-                "text": "water",
                 "indices": [
                     103,
                     109
-                ]
+                ],
+                "text": "water"
             },
             {
-                "text": "WorldWaterDay",
                 "indices": [
                     120,
                     134
-                ]
+                ],
+                "text": "WorldWaterDay"
             }
         ],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "UNW_WWD",
-                "name": "Jerome Edwards",
                 "id": 758841228687388670,
                 "id_str": "758841228687388675",
                 "indices": [
                     25,
                     33
-                ]
+                ],
+                "name": "Jerome Edwards",
+                "screen_name": "UNW_WWD"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "Join us as we celebrate .@UNW_WWD &amp;amp; the history of US role in promoting sustainable use of world’s #water resources #WorldWaterDay",
+    "geo": null,
+    "id": 446696648841101310,
+    "id_str": "446696648841101312",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "lang": "en"
+    }
 }

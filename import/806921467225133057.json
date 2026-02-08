@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Dec 08 18:00:44 +0000 2016",
-    "id": 806921467225133060,
-    "id_str": "806921467225133057",
-    "full_text": "Now available: Foreign Relations, 1932, General, Vol. I https://t.co/1J2hTFKkLe #twitterstorians",
-    "truncated": false,
     "display_text_range": [
         0,
         96
@@ -11,46 +9,48 @@
     "entities": {
         "hashtags": [
             {
-                "text": "twitterstorians",
                 "indices": [
                     80,
                     96
-                ]
+                ],
+                "text": "twitterstorians"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "https://t.co/1J2hTFKkLe",
-                "expanded_url": "https://history.state.gov/historicaldocuments/frus1932v01",
                 "display_url": "history.state.gov/historicaldocu…",
+                "expanded_url": "https://history.state.gov/historicaldocuments/frus1932v01",
                 "indices": [
                     56,
                     79
-                ]
+                ],
+                "url": "https://t.co/1J2hTFKkLe"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 2,
+    "favorited": false,
+    "full_text": "Now available: Foreign Relations, 1932, General, Vol. I https://t.co/1J2hTFKkLe #twitterstorians",
+    "geo": null,
+    "id": 806921467225133060,
+    "id_str": "806921467225133057",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 2,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

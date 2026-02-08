@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Feb 14 19:05:16 +0000 2017",
-    "id": 831580083278245890,
-    "id_str": "831580083278245889",
-    "full_text": "Cocoa beans and the #chocolate industry were a topic of conversation at the UN in 1965 #FRUS #ValentinesDay https://t.co/1conbmiSQq",
-    "truncated": false,
     "display_text_range": [
         0,
         131
@@ -11,60 +9,62 @@
     "entities": {
         "hashtags": [
             {
-                "text": "chocolate",
                 "indices": [
                     20,
                     30
-                ]
+                ],
+                "text": "chocolate"
             },
             {
-                "text": "FRUS",
                 "indices": [
                     87,
                     92
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "ValentinesDay",
                 "indices": [
                     93,
                     107
-                ]
+                ],
+                "text": "ValentinesDay"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "https://t.co/1conbmiSQq",
-                "expanded_url": "http://go.usa.gov/x9Mwp",
                 "display_url": "go.usa.gov/x9Mwp",
+                "expanded_url": "http://go.usa.gov/x9Mwp",
                 "indices": [
                     108,
                     131
-                ]
+                ],
+                "url": "https://t.co/1conbmiSQq"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 1,
+    "favorited": false,
+    "full_text": "Cocoa beans and the #chocolate industry were a topic of conversation at the UN in 1965 #FRUS #ValentinesDay https://t.co/1conbmiSQq",
+    "geo": null,
+    "id": 831580083278245890,
+    "id_str": "831580083278245889",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 1,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

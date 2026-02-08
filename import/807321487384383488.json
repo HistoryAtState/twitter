@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Fri Dec 09 20:30:16 +0000 2016",
-    "id": 807321487384383490,
-    "id_str": "807321487384383488",
-    "full_text": "Glenn’s 1962 flight &amp;amp; Khrushchev ltr prompted Kennedy to send Khrushchev 2 ltrs abt space coop #RIPJohnGlenn #FRUS https://t.co/5TuwNWzA4m https://t.co/vcznbNmMLR",
-    "truncated": false,
     "display_text_range": [
         0,
         142
@@ -11,35 +9,24 @@
     "entities": {
         "hashtags": [
             {
-                "text": "RIPJohnGlenn",
                 "indices": [
                     99,
                     112
-                ]
+                ],
+                "text": "RIPJohnGlenn"
             },
             {
-                "text": "FRUS",
                 "indices": [
                     113,
                     118
-                ]
-            }
-        ],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
-            {
-                "url": "https://t.co/5TuwNWzA4m",
-                "expanded_url": "http://go.usa.gov/x8pK3",
-                "display_url": "go.usa.gov/x8pK3",
-                "indices": [
-                    119,
-                    142
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "media": [
             {
+                "display_url": "pic.twitter.com/vcznbNmMLR",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/807321487384383488/photo/1",
                 "id": 807321485056610300,
                 "id_str": "807321485056610308",
                 "indices": [
@@ -48,38 +35,52 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/CzQunQBXEAQAnxf.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/CzQunQBXEAQAnxf.jpg",
-                "url": "https://t.co/vcznbNmMLR",
-                "display_url": "pic.twitter.com/vcznbNmMLR",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/807321487384383488/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
+                    "large": {
+                        "h": 412,
+                        "resize": "fit",
+                        "w": 600
                     },
                     "medium": {
-                        "w": 600,
                         "h": 412,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 600
                     },
                     "small": {
-                        "w": 600,
                         "h": 412,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 600
                     },
-                    "large": {
-                        "w": 600,
-                        "h": 412,
-                        "resize": "fit"
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/vcznbNmMLR"
             }
-        ]
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "go.usa.gov/x8pK3",
+                "expanded_url": "http://go.usa.gov/x8pK3",
+                "indices": [
+                    119,
+                    142
+                ],
+                "url": "https://t.co/5TuwNWzA4m"
+            }
+        ],
+        "user_mentions": []
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/vcznbNmMLR",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/807321487384383488/photo/1",
+                "ext_alt_text": null,
                 "id": 807321485056610300,
                 "id_str": "807321485056610308",
                 "indices": [
@@ -88,55 +89,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/CzQunQBXEAQAnxf.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/CzQunQBXEAQAnxf.jpg",
-                "url": "https://t.co/vcznbNmMLR",
-                "display_url": "pic.twitter.com/vcznbNmMLR",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/807321487384383488/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
+                    "large": {
+                        "h": 412,
+                        "resize": "fit",
+                        "w": 600
                     },
                     "medium": {
-                        "w": 600,
                         "h": 412,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 600
                     },
                     "small": {
-                        "w": 600,
                         "h": 412,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 600
                     },
-                    "large": {
-                        "w": 600,
-                        "h": 412,
-                        "resize": "fit"
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": null
+                "type": "photo",
+                "url": "https://t.co/vcznbNmMLR"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 7,
+    "favorited": false,
+    "full_text": "Glenn’s 1962 flight &amp;amp; Khrushchev ltr prompted Kennedy to send Khrushchev 2 ltrs abt space coop #RIPJohnGlenn #FRUS https://t.co/5TuwNWzA4m https://t.co/vcznbNmMLR",
+    "geo": null,
+    "id": 807321487384383490,
+    "id_str": "807321487384383488",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 7,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

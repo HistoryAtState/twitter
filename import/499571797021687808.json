@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Wed Aug 13 15:02:52 +0000 2014",
-    "id": 499571797021687810,
-    "id_str": "499571797021687808",
-    "full_text": "RT @usbotschaft: .@HistoryAtState: On the morning of August 13, 1961, Berliners awoke to discover that a barbed wire fence had gone up http…",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,50 +9,50 @@
     "entities": {
         "hashtags": [],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "usbotschaft",
-                "name": "US-Botschaft Berlin",
                 "id": 50965086,
                 "id_str": "50965086",
                 "indices": [
                     3,
                     15
-                ]
+                ],
+                "name": "US-Botschaft Berlin",
+                "screen_name": "usbotschaft"
             },
             {
-                "screen_name": "HistoryAtState",
-                "name": "HistoryAtState",
                 "id": 586570880,
                 "id_str": "586570880",
                 "indices": [
                     18,
                     33
-                ]
+                ],
+                "name": "HistoryAtState",
+                "screen_name": "HistoryAtState"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "RT @usbotschaft: .@HistoryAtState: On the morning of August 13, 1961, Berliners awoke to discover that a barbed wire fence had gone up http…",
+    "geo": null,
+    "id": 499571797021687810,
+    "id_str": "499571797021687808",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "retweet_count": 4,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Wed Aug 13 10:49:58 +0000 2014",
-        "id": 499508150383689730,
-        "id_str": "499508150383689728",
-        "full_text": ".@HistoryAtState: On the morning of August 13, 1961, Berliners awoke to discover that a barbed wire fence had gone up http://t.co/m1ZYsin7k4",
-        "truncated": false,
         "display_text_range": [
             0,
             140
@@ -62,56 +60,58 @@
         "entities": {
             "hashtags": [],
             "symbols": [],
+            "urls": [
+                {
+                    "display_url": "ow.ly/AgZJt",
+                    "expanded_url": "http://ow.ly/AgZJt",
+                    "indices": [
+                        118,
+                        140
+                    ],
+                    "url": "http://t.co/m1ZYsin7k4"
+                }
+            ],
             "user_mentions": [
                 {
-                    "screen_name": "HistoryAtState",
-                    "name": "HistoryAtState",
                     "id": 586570880,
                     "id_str": "586570880",
                     "indices": [
                         1,
                         16
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "http://t.co/m1ZYsin7k4",
-                    "expanded_url": "http://ow.ly/AgZJt",
-                    "display_url": "ow.ly/AgZJt",
-                    "indices": [
-                        118,
-                        140
-                    ]
+                    ],
+                    "name": "HistoryAtState",
+                    "screen_name": "HistoryAtState"
                 }
             ]
         },
-        "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+        "favorite_count": 4,
+        "favorited": false,
+        "full_text": ".@HistoryAtState: On the morning of August 13, 1961, Berliners awoke to discover that a barbed wire fence had gone up http://t.co/m1ZYsin7k4",
+        "geo": null,
+        "id": 499508150383689730,
+        "id_str": "499508150383689728",
+        "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 4,
+        "retweeted": true,
+        "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+        "truncated": false,
         "user": {
             "id": 50965086,
             "id_str": "50965086"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 4,
-        "favorite_count": 4,
-        "favorited": false,
-        "retweeted": true,
-        "possibly_sensitive": false,
-        "lang": "en"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": true,
-    "lang": "en"
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

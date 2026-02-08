@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Wed Nov 20 18:03:49 +0000 2013",
-    "id": 403222159872761860,
-    "id_str": "403222159872761856",
-    "full_text": "How many pages do @HistoryAtState historians review to select those that make it into #FRUS vols? http://t.co/Rw0HO3N1In via @cspanvl",
-    "truncated": false,
     "display_text_range": [
         0,
         133
@@ -11,67 +9,69 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     86,
                     91
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "symbols": [],
+        "urls": [
+            {
+                "display_url": "ow.ly/qWY4C",
+                "expanded_url": "http://ow.ly/qWY4C",
+                "indices": [
+                    98,
+                    120
+                ],
+                "url": "http://t.co/Rw0HO3N1In"
+            }
+        ],
         "user_mentions": [
             {
-                "screen_name": "HistoryAtState",
-                "name": "HistoryAtState",
                 "id": 586570880,
                 "id_str": "586570880",
                 "indices": [
                     18,
                     33
-                ]
+                ],
+                "name": "HistoryAtState",
+                "screen_name": "HistoryAtState"
             },
             {
-                "screen_name": "cspanvl",
-                "name": "C-SPAN Video Library",
                 "id": 62807483,
                 "id_str": "62807483",
                 "indices": [
                     125,
                     133
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "http://t.co/Rw0HO3N1In",
-                "expanded_url": "http://ow.ly/qWY4C",
-                "display_url": "ow.ly/qWY4C",
-                "indices": [
-                    98,
-                    120
-                ]
+                ],
+                "name": "C-SPAN Video Library",
+                "screen_name": "cspanvl"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "How many pages do @HistoryAtState historians review to select those that make it into #FRUS vols? http://t.co/Rw0HO3N1In via @cspanvl",
+    "geo": null,
+    "id": 403222159872761860,
+    "id_str": "403222159872761856",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

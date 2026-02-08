@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Dec 05 18:05:13 +0000 2017",
-    "id": 938107003255382020,
-    "id_str": "938107003255382018",
-    "full_text": "Murrow provides views on role of cultural activities in pursuit of U.S. policy: https://t.co/oV6joyFN3K #FRUS #twitterstorians",
-    "truncated": false,
     "display_text_range": [
         0,
         126
@@ -11,53 +9,55 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     104,
                     109
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "twitterstorians",
                 "indices": [
                     110,
                     126
-                ]
+                ],
+                "text": "twitterstorians"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "https://t.co/oV6joyFN3K",
-                "expanded_url": "https://history.state.gov/historicaldocuments/frus1917-72PubDipv06/d10",
                 "display_url": "history.state.gov/historicaldocu…",
+                "expanded_url": "https://history.state.gov/historicaldocuments/frus1917-72PubDipv06/d10",
                 "indices": [
                     80,
                     103
-                ]
+                ],
+                "url": "https://t.co/oV6joyFN3K"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "Murrow provides views on role of cultural activities in pursuit of U.S. policy: https://t.co/oV6joyFN3K #FRUS #twitterstorians",
+    "geo": null,
+    "id": 938107003255382020,
+    "id_str": "938107003255382018",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

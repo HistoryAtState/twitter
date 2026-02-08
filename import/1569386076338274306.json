@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Sep 12 18:02:53 +0000 2022",
-    "id": 1569386076338274300,
-    "id_str": "1569386076338274306",
-    "full_text": "In a February 1981 meeting with UK Prime Minister Margaret Thatcher, President Reagan explained the origins of his jelly bean enthusiasm—as well as his least favorite flavor. Identify the offending bean in #FRUS:\nhttps://t.co/ey5Z5jfnzj\n\n(1/2) https://t.co/P8zUR270eM",
-    "truncated": false,
     "display_text_range": [
         0,
         243
@@ -11,28 +9,17 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     206,
                     211
-                ]
-            }
-        ],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
-            {
-                "url": "https://t.co/ey5Z5jfnzj",
-                "expanded_url": "http://ow.ly/CFc650KCYp1",
-                "display_url": "ow.ly/CFc650KCYp1",
-                "indices": [
-                    213,
-                    236
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "media": [
             {
+                "display_url": "pic.twitter.com/P8zUR270eM",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1569386076338274306/photo/1",
                 "id": 1569386071116374020,
                 "id_str": "1569386071116374016",
                 "indices": [
@@ -41,38 +28,52 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/FceUURRWYAA9IjO.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/FceUURRWYAA9IjO.jpg",
-                "url": "https://t.co/P8zUR270eM",
-                "display_url": "pic.twitter.com/P8zUR270eM",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1569386076338274306/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
                     "large": {
-                        "w": 982,
                         "h": 718,
-                        "resize": "fit"
-                    },
-                    "small": {
-                        "w": 680,
-                        "h": 497,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 982
                     },
                     "medium": {
-                        "w": 982,
                         "h": 718,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 982
+                    },
+                    "small": {
+                        "h": 497,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/P8zUR270eM"
             }
-        ]
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "ow.ly/CFc650KCYp1",
+                "expanded_url": "http://ow.ly/CFc650KCYp1",
+                "indices": [
+                    213,
+                    236
+                ],
+                "url": "https://t.co/ey5Z5jfnzj"
+            }
+        ],
+        "user_mentions": []
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/P8zUR270eM",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1569386076338274306/photo/1",
+                "ext_alt_text": "Screenshot of “30. Memorandum of Conversation,” dated February 26, 1981: “The President concluded the meeting by inviting his British guests to help themselves to the jar of jellybeans on the Cabinet Room table… Jellybeans helped him give up smoking…They then caught on as kind of a trademark… there was even a peanut butter flavor… he would of course remove that particular flavor (laughter).”",
                 "id": 1569386071116374020,
                 "id_str": "1569386071116374016",
                 "indices": [
@@ -81,35 +82,35 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/FceUURRWYAA9IjO.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/FceUURRWYAA9IjO.jpg",
-                "url": "https://t.co/P8zUR270eM",
-                "display_url": "pic.twitter.com/P8zUR270eM",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1569386076338274306/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
                     "large": {
-                        "w": 982,
                         "h": 718,
-                        "resize": "fit"
-                    },
-                    "small": {
-                        "w": 680,
-                        "h": 497,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 982
                     },
                     "medium": {
-                        "w": 982,
                         "h": 718,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 982
+                    },
+                    "small": {
+                        "h": 497,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": "Screenshot of “30. Memorandum of Conversation,” dated February 26, 1981: “The President concluded the meeting by inviting his British guests to help themselves to the jar of jellybeans on the Cabinet Room table… Jellybeans helped him give up smoking…They then caught on as kind of a trademark… there was even a peanut butter flavor… he would of course remove that particular flavor (laughter).”"
+                "type": "photo",
+                "url": "https://t.co/P8zUR270eM"
             },
             {
+                "display_url": "pic.twitter.com/P8zUR270eM",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1569386076338274306/photo/1",
+                "ext_alt_text": "A seated, suited, and smiling President Reagan has his left hand in a jar of jelly beans and loose jelly beans near his right hand. (NARA ID 75854371)",
                 "id": 1569386071430991870,
                 "id_str": "1569386071430991874",
                 "indices": [
@@ -118,55 +119,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/FceUUScXEAIDwIS.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/FceUUScXEAIDwIS.jpg",
-                "url": "https://t.co/P8zUR270eM",
-                "display_url": "pic.twitter.com/P8zUR270eM",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1569386076338274306/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
-                    "small": {
-                        "w": 632,
-                        "h": 680,
-                        "resize": "fit"
-                    },
                     "large": {
-                        "w": 1902,
                         "h": 2048,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1902
                     },
                     "medium": {
-                        "w": 1115,
                         "h": 1200,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1115
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 632
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": "A seated, suited, and smiling President Reagan has his left hand in a jar of jelly beans and loose jelly beans near his right hand. (NARA ID 75854371)"
+                "type": "photo",
+                "url": "https://t.co/P8zUR270eM"
             }
         ]
     },
-    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "favorite_count": 3,
+    "favorited": false,
+    "full_text": "In a February 1981 meeting with UK Prime Minister Margaret Thatcher, President Reagan explained the origins of his jelly bean enthusiasm—as well as his least favorite flavor. Identify the offending bean in #FRUS:\nhttps://t.co/ey5Z5jfnzj\n\n(1/2) https://t.co/P8zUR270eM",
+    "geo": null,
+    "id": 1569386076338274300,
+    "id_str": "1569386076338274306",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 3,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

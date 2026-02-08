@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Apr 17 17:48:33 +0000 2018",
-    "id": 986300394887438340,
-    "id_str": "986300394887438336",
-    "full_text": "#BarbaraBush accompanied President George H.W. Bush throughout his career, as a partner offering advice and support over their 73 years of marriage. \n📷 @Bush41Library https://t.co/GSGyx4Qr2A",
-    "truncated": false,
     "display_text_range": [
         0,
         166
@@ -11,29 +9,17 @@
     "entities": {
         "hashtags": [
             {
-                "text": "BarbaraBush",
                 "indices": [
                     0,
                     12
-                ]
+                ],
+                "text": "BarbaraBush"
             }
         ],
-        "symbols": [],
-        "user_mentions": [
-            {
-                "screen_name": "Bush41Library",
-                "name": "Bush Library",
-                "id": 133456403,
-                "id_str": "133456403",
-                "indices": [
-                    152,
-                    166
-                ]
-            }
-        ],
-        "urls": [],
         "media": [
             {
+                "display_url": "pic.twitter.com/GSGyx4Qr2A",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/986300394887438336/photo/1",
                 "id": 986299296000638980,
                 "id_str": "986299296000638977",
                 "indices": [
@@ -42,38 +28,53 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/DbAJ--xWAAEy3oa.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DbAJ--xWAAEy3oa.jpg",
-                "url": "https://t.co/GSGyx4Qr2A",
-                "display_url": "pic.twitter.com/GSGyx4Qr2A",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/986300394887438336/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
+                    "large": {
+                        "h": 354,
+                        "resize": "fit",
+                        "w": 600
                     },
                     "medium": {
-                        "w": 600,
                         "h": 354,
-                        "resize": "fit"
-                    },
-                    "large": {
-                        "w": 600,
-                        "h": 354,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 600
                     },
                     "small": {
-                        "w": 600,
                         "h": 354,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/GSGyx4Qr2A"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 133456403,
+                "id_str": "133456403",
+                "indices": [
+                    152,
+                    166
+                ],
+                "name": "Bush Library",
+                "screen_name": "Bush41Library"
             }
         ]
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/GSGyx4Qr2A",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/986300394887438336/photo/1",
+                "ext_alt_text": "Young George and Barbara Bush",
                 "id": 986299296000638980,
                 "id_str": "986299296000638977",
                 "indices": [
@@ -82,35 +83,35 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/DbAJ--xWAAEy3oa.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DbAJ--xWAAEy3oa.jpg",
-                "url": "https://t.co/GSGyx4Qr2A",
-                "display_url": "pic.twitter.com/GSGyx4Qr2A",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/986300394887438336/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
+                    "large": {
+                        "h": 354,
+                        "resize": "fit",
+                        "w": 600
                     },
                     "medium": {
-                        "w": 600,
                         "h": 354,
-                        "resize": "fit"
-                    },
-                    "large": {
-                        "w": 600,
-                        "h": 354,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 600
                     },
                     "small": {
-                        "w": 600,
                         "h": 354,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": "Young George and Barbara Bush"
+                "type": "photo",
+                "url": "https://t.co/GSGyx4Qr2A"
             },
             {
+                "display_url": "pic.twitter.com/GSGyx4Qr2A",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/986300394887438336/photo/1",
+                "ext_alt_text": "George and Barbara Bush standing in front of a George Bush for Congress sign",
                 "id": 986299328129110020,
                 "id_str": "986299328129110016",
                 "indices": [
@@ -119,35 +120,35 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/DbAKA2dXkAApGk_.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DbAKA2dXkAApGk_.jpg",
-                "url": "https://t.co/GSGyx4Qr2A",
-                "display_url": "pic.twitter.com/GSGyx4Qr2A",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/986300394887438336/photo/1",
-                "type": "photo",
                 "sizes": {
                     "large": {
-                        "w": 600,
                         "h": 476,
-                        "resize": "fit"
-                    },
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
-                    "small": {
-                        "w": 600,
-                        "h": 476,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 600
                     },
                     "medium": {
-                        "w": 600,
                         "h": 476,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 476,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": "George and Barbara Bush standing in front of a George Bush for Congress sign"
+                "type": "photo",
+                "url": "https://t.co/GSGyx4Qr2A"
             },
             {
+                "display_url": "pic.twitter.com/GSGyx4Qr2A",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/986300394887438336/photo/1",
+                "ext_alt_text": "Barbara Bush visiting a sick child with her husband",
                 "id": 986299351248105470,
                 "id_str": "986299351248105472",
                 "indices": [
@@ -156,35 +157,35 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/DbAKCMlXcAAvMM9.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DbAKCMlXcAAvMM9.jpg",
-                "url": "https://t.co/GSGyx4Qr2A",
-                "display_url": "pic.twitter.com/GSGyx4Qr2A",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/986300394887438336/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
-                    "small": {
-                        "w": 680,
-                        "h": 453,
-                        "resize": "fit"
-                    },
                     "large": {
-                        "w": 700,
                         "h": 466,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 700
                     },
                     "medium": {
-                        "w": 700,
                         "h": 466,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 700
+                    },
+                    "small": {
+                        "h": 453,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": "Barbara Bush visiting a sick child with her husband"
+                "type": "photo",
+                "url": "https://t.co/GSGyx4Qr2A"
             },
             {
+                "display_url": "pic.twitter.com/GSGyx4Qr2A",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/986300394887438336/photo/1",
+                "ext_alt_text": "George and Barbara Bush with Pope John Paul II",
                 "id": 986299397561602050,
                 "id_str": "986299397561602048",
                 "indices": [
@@ -193,55 +194,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/DbAKE5HXUAA0L3J.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DbAKE5HXUAA0L3J.jpg",
-                "url": "https://t.co/GSGyx4Qr2A",
-                "display_url": "pic.twitter.com/GSGyx4Qr2A",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/986300394887438336/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
-                    "small": {
-                        "w": 600,
-                        "h": 403,
-                        "resize": "fit"
-                    },
                     "large": {
-                        "w": 600,
                         "h": 403,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 600
                     },
                     "medium": {
-                        "w": 600,
                         "h": 403,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 403,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": "George and Barbara Bush with Pope John Paul II"
+                "type": "photo",
+                "url": "https://t.co/GSGyx4Qr2A"
             }
         ]
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 8,
+    "favorited": false,
+    "full_text": "#BarbaraBush accompanied President George H.W. Bush throughout his career, as a partner offering advice and support over their 73 years of marriage. \n📷 @Bush41Library https://t.co/GSGyx4Qr2A",
+    "geo": null,
+    "id": 986300394887438340,
+    "id_str": "986300394887438336",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2,
+    "retweeted": true,
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 8,
-    "favorited": false,
-    "retweeted": true,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

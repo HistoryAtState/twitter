@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Jun 13 13:02:49 +0000 2016",
-    "id": 742341453096099840,
-    "id_str": "742341453096099840",
-    "full_text": "We will be at @usdpeace for #SHAFR2016, June 23–25! https://t.co/o13ud2fz1Y @SHAFRhistorians #twitterstorians",
-    "truncated": false,
     "display_text_range": [
         0,
         109
@@ -11,74 +9,76 @@
     "entities": {
         "hashtags": [
             {
-                "text": "SHAFR2016",
                 "indices": [
                     28,
                     38
-                ]
+                ],
+                "text": "SHAFR2016"
             },
             {
-                "text": "twitterstorians",
                 "indices": [
                     93,
                     109
-                ]
+                ],
+                "text": "twitterstorians"
             }
         ],
         "symbols": [],
+        "urls": [
+            {
+                "display_url": "shafr.org/conferences/an…",
+                "expanded_url": "https://shafr.org/conferences/annual/2016-annual-meeting",
+                "indices": [
+                    52,
+                    75
+                ],
+                "url": "https://t.co/o13ud2fz1Y"
+            }
+        ],
         "user_mentions": [
             {
-                "screen_name": "usdpeace",
-                "name": "kam",
                 "id": 853159740863463420,
                 "id_str": "853159740863463424",
                 "indices": [
                     14,
                     23
-                ]
+                ],
+                "name": "kam",
+                "screen_name": "usdpeace"
             },
             {
-                "screen_name": "SHAFRhistorians",
-                "name": "SHAFR Historians",
                 "id": 2169482554,
                 "id_str": "2169482554",
                 "indices": [
                     76,
                     92
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "https://t.co/o13ud2fz1Y",
-                "expanded_url": "https://shafr.org/conferences/annual/2016-annual-meeting",
-                "display_url": "shafr.org/conferences/an…",
-                "indices": [
-                    52,
-                    75
-                ]
+                ],
+                "name": "SHAFR Historians",
+                "screen_name": "SHAFRhistorians"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "We will be at @usdpeace for #SHAFR2016, June 23–25! https://t.co/o13ud2fz1Y @SHAFRhistorians #twitterstorians",
+    "geo": null,
+    "id": 742341453096099840,
+    "id_str": "742341453096099840",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

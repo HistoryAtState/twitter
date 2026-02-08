@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Jun 02 12:02:02 +0000 2022",
-    "id": 1532331706119819260,
-    "id_str": "1532331706119819265",
-    "full_text": "🚨 DUE TODAY 🚨\nApply to be a HISTORIAN in the AFRICA &amp;amp; AMERICAS Division of @HistoryAtState. Research and compile historical foreign policy documents for #FRUS and @StateDept \n\nhttps://t.co/jZcBgeuJrl https://t.co/HDOtEb3ssG",
-    "truncated": false,
     "display_text_range": [
         0,
         203
@@ -11,49 +9,17 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     157,
                     162
-                ]
-            }
-        ],
-        "symbols": [],
-        "user_mentions": [
-            {
-                "screen_name": "HistoryAtState",
-                "name": "HistoryAtState",
-                "id": 586570880,
-                "id_str": "586570880",
-                "indices": [
-                    79,
-                    94
-                ]
-            },
-            {
-                "screen_name": "StateDept",
-                "name": "Department of State",
-                "id": 9624742,
-                "id_str": "9624742",
-                "indices": [
-                    167,
-                    177
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "https://t.co/jZcBgeuJrl",
-                "expanded_url": "http://ow.ly/rSVI50JfPt3",
-                "display_url": "ow.ly/rSVI50JfPt3",
-                "indices": [
-                    180,
-                    203
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "media": [
             {
+                "display_url": "pic.twitter.com/HDOtEb3ssG",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1532331706119819265/photo/1",
                 "id": 1532331704496672770,
                 "id_str": "1532331704496672768",
                 "indices": [
@@ -62,38 +28,73 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/FUPvkQyX0AAaEjV.png",
                 "media_url_https": "https://pbs.twimg.com/media/FUPvkQyX0AAaEjV.png",
-                "url": "https://t.co/HDOtEb3ssG",
-                "display_url": "pic.twitter.com/HDOtEb3ssG",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1532331706119819265/photo/1",
-                "type": "photo",
                 "sizes": {
                     "large": {
-                        "w": 1024,
                         "h": 512,
-                        "resize": "fit"
-                    },
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
-                    "small": {
-                        "w": 680,
-                        "h": 340,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1024
                     },
                     "medium": {
-                        "w": 1024,
                         "h": 512,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "small": {
+                        "h": 340,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/HDOtEb3ssG"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "ow.ly/rSVI50JfPt3",
+                "expanded_url": "http://ow.ly/rSVI50JfPt3",
+                "indices": [
+                    180,
+                    203
+                ],
+                "url": "https://t.co/jZcBgeuJrl"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 586570880,
+                "id_str": "586570880",
+                "indices": [
+                    79,
+                    94
+                ],
+                "name": "HistoryAtState",
+                "screen_name": "HistoryAtState"
+            },
+            {
+                "id": 9624742,
+                "id_str": "9624742",
+                "indices": [
+                    167,
+                    177
+                ],
+                "name": "Department of State",
+                "screen_name": "StateDept"
             }
         ]
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/HDOtEb3ssG",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1532331706119819265/photo/1",
+                "ext_alt_text": "Apply to be Historian, Africa and Americas Division, Office of the Historian, U.S. Department of State. DUE TODAY. https://www.usajobs.gov/job/655096100",
                 "id": 1532331704496672770,
                 "id_str": "1532331704496672768",
                 "indices": [
@@ -102,55 +103,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/FUPvkQyX0AAaEjV.png",
                 "media_url_https": "https://pbs.twimg.com/media/FUPvkQyX0AAaEjV.png",
-                "url": "https://t.co/HDOtEb3ssG",
-                "display_url": "pic.twitter.com/HDOtEb3ssG",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1532331706119819265/photo/1",
-                "type": "photo",
                 "sizes": {
                     "large": {
-                        "w": 1024,
                         "h": 512,
-                        "resize": "fit"
-                    },
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
-                    "small": {
-                        "w": 680,
-                        "h": 340,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1024
                     },
                     "medium": {
-                        "w": 1024,
                         "h": 512,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "small": {
+                        "h": 340,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": "Apply to be Historian, Africa and Americas Division, Office of the Historian, U.S. Department of State. DUE TODAY. https://www.usajobs.gov/job/655096100"
+                "type": "photo",
+                "url": "https://t.co/HDOtEb3ssG"
             }
         ]
     },
-    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "favorite_count": 1,
+    "favorited": false,
+    "full_text": "🚨 DUE TODAY 🚨\nApply to be a HISTORIAN in the AFRICA &amp;amp; AMERICAS Division of @HistoryAtState. Research and compile historical foreign policy documents for #FRUS and @StateDept \n\nhttps://t.co/jZcBgeuJrl https://t.co/HDOtEb3ssG",
+    "geo": null,
+    "id": 1532331706119819260,
+    "id_str": "1532331706119819265",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 1,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

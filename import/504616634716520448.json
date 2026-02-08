@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Wed Aug 27 13:09:15 +0000 2014",
-    "id": 504616634716520450,
-    "id_str": "504616634716520448",
-    "full_text": "RT @StateDept: Instead of heading #backtoschool, why not #studyabroad? Learn about high school exchange programs with this video: http://t.…",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,55 +9,55 @@
     "entities": {
         "hashtags": [
             {
-                "text": "backtoschool",
                 "indices": [
                     34,
                     47
-                ]
+                ],
+                "text": "backtoschool"
             },
             {
-                "text": "studyabroad",
                 "indices": [
                     57,
                     69
-                ]
+                ],
+                "text": "studyabroad"
             }
         ],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "StateDept",
-                "name": "Department of State",
                 "id": 9624742,
                 "id_str": "9624742",
                 "indices": [
                     3,
                     13
-                ]
+                ],
+                "name": "Department of State",
+                "screen_name": "StateDept"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "RT @StateDept: Instead of heading #backtoschool, why not #studyabroad? Learn about high school exchange programs with this video: http://t.…",
+    "geo": null,
+    "id": 504616634716520450,
+    "id_str": "504616634716520448",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "retweet_count": 65,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Wed Aug 27 12:42:10 +0000 2014",
-        "id": 504609816824659970,
-        "id_str": "504609816824659968",
-        "full_text": "Instead of heading #backtoschool, why not #studyabroad? Learn about high school exchange programs with this video: http://t.co/xELmx8JlQC",
-        "truncated": false,
         "display_text_range": [
             0,
             137
@@ -67,60 +65,62 @@
         "entities": {
             "hashtags": [
                 {
-                    "text": "backtoschool",
                     "indices": [
                         19,
                         32
-                    ]
+                    ],
+                    "text": "backtoschool"
                 },
                 {
-                    "text": "studyabroad",
                     "indices": [
                         42,
                         54
-                    ]
+                    ],
+                    "text": "studyabroad"
                 }
             ],
             "symbols": [],
-            "user_mentions": [],
             "urls": [
                 {
-                    "url": "http://t.co/xELmx8JlQC",
-                    "expanded_url": "http://youtu.be/SMlf5Mg22NA",
                     "display_url": "youtu.be/SMlf5Mg22NA",
+                    "expanded_url": "http://youtu.be/SMlf5Mg22NA",
                     "indices": [
                         115,
                         137
-                    ]
+                    ],
+                    "url": "http://t.co/xELmx8JlQC"
                 }
-            ]
+            ],
+            "user_mentions": []
         },
-        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+        "favorite_count": 31,
+        "favorited": false,
+        "full_text": "Instead of heading #backtoschool, why not #studyabroad? Learn about high school exchange programs with this video: http://t.co/xELmx8JlQC",
+        "geo": null,
+        "id": 504609816824659970,
+        "id_str": "504609816824659968",
+        "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 65,
+        "retweeted": true,
+        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+        "truncated": false,
         "user": {
             "id": 9624742,
             "id_str": "9624742"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 65,
-        "favorite_count": 31,
-        "favorited": false,
-        "retweeted": true,
-        "possibly_sensitive": false,
-        "lang": "en"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 65,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": true,
-    "lang": "en"
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

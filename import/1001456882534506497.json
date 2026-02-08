@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue May 29 13:35:01 +0000 2018",
-    "id": 1001456882534506500,
-    "id_str": "1001456882534506497",
-    "full_text": "President Reagan and the First Lady visited #Russia for Moscow Summit May 29 to June 1, 1988, culminating in an exchange of documents with Soviet General Secretary Gorbachev and ratifying the Intermediate-Range Nuclear Forces Treaty. https://t.co/rzFCaqYiaF #FRUS @Reagan_Library",
-    "truncated": false,
     "display_text_range": [
         0,
         279
@@ -11,64 +9,66 @@
     "entities": {
         "hashtags": [
             {
-                "text": "Russia",
                 "indices": [
                     44,
                     51
-                ]
+                ],
+                "text": "Russia"
             },
             {
-                "text": "FRUS",
                 "indices": [
                     258,
                     263
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "symbols": [],
+        "urls": [
+            {
+                "display_url": "buff.ly/2IY1Lcv",
+                "expanded_url": "https://buff.ly/2IY1Lcv",
+                "indices": [
+                    234,
+                    257
+                ],
+                "url": "https://t.co/rzFCaqYiaF"
+            }
+        ],
         "user_mentions": [
             {
-                "screen_name": "Reagan_Library",
-                "name": "RonaldReaganLibrary",
                 "id": 394351710,
                 "id_str": "394351710",
                 "indices": [
                     264,
                     279
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "https://t.co/rzFCaqYiaF",
-                "expanded_url": "https://buff.ly/2IY1Lcv",
-                "display_url": "buff.ly/2IY1Lcv",
-                "indices": [
-                    234,
-                    257
-                ]
+                ],
+                "name": "RonaldReaganLibrary",
+                "screen_name": "Reagan_Library"
             }
         ]
     },
-    "source": "&lt;a href=\"https://buffer.com\" rel=\"nofollow\"&gt;Buffer&lt;/a&gt;",
+    "favorite_count": 6,
+    "favorited": false,
+    "full_text": "President Reagan and the First Lady visited #Russia for Moscow Summit May 29 to June 1, 1988, culminating in an exchange of documents with Soviet General Secretary Gorbachev and ratifying the Intermediate-Range Nuclear Forces Treaty. https://t.co/rzFCaqYiaF #FRUS @Reagan_Library",
+    "geo": null,
+    "id": 1001456882534506500,
+    "id_str": "1001456882534506497",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "&lt;a href=\"https://buffer.com\" rel=\"nofollow\"&gt;Buffer&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 6,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

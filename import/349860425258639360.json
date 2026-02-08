@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Wed Jun 26 12:03:20 +0000 2013",
-    "id": 349860425258639360,
-    "id_str": "349860425258639360",
-    "full_text": "1st vol of Country Reports on Human Rights Practices (1977) was 300 pgs. 2011 report is thousands of pgs http://t.co/rlTAb3mYWy",
-    "truncated": false,
     "display_text_range": [
         0,
         127
@@ -11,38 +9,40 @@
     "entities": {
         "hashtags": [],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/rlTAb3mYWy",
-                "expanded_url": "http://go.usa.gov/bc8m",
                 "display_url": "go.usa.gov/bc8m",
+                "expanded_url": "http://go.usa.gov/bc8m",
                 "indices": [
                     105,
                     127
-                ]
+                ],
+                "url": "http://t.co/rlTAb3mYWy"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "1st vol of Country Reports on Human Rights Practices (1977) was 300 pgs. 2011 report is thousands of pgs http://t.co/rlTAb3mYWy",
+    "geo": null,
+    "id": 349860425258639360,
+    "id_str": "349860425258639360",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Mar 31 19:01:38 +0000 2022",
-    "id": 1509606863993778180,
-    "id_str": "1509606863993778177",
-    "full_text": "In 2012, Secretary Albright received the Presidential Medal of Freedom from President Barack Obama.\n“In my professional life, what I am really proudest of is what we did in Kosovo. I was very concerned about what was happening in the Balkans.”\nhttps://t.co/G2tJwUlG21",
-    "truncated": false,
     "display_text_range": [
         0,
         267
@@ -11,38 +9,40 @@
     "entities": {
         "hashtags": [],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "https://t.co/G2tJwUlG21",
-                "expanded_url": "http://ow.ly/oakA50IwEjA",
                 "display_url": "ow.ly/oakA50IwEjA",
+                "expanded_url": "http://ow.ly/oakA50IwEjA",
                 "indices": [
                     244,
                     267
-                ]
+                ],
+                "url": "https://t.co/G2tJwUlG21"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "favorite_count": 1,
+    "favorited": false,
+    "full_text": "In 2012, Secretary Albright received the Presidential Medal of Freedom from President Barack Obama.\n“In my professional life, what I am really proudest of is what we did in Kosovo. I was very concerned about what was happening in the Balkans.”\nhttps://t.co/G2tJwUlG21",
+    "geo": null,
+    "id": 1509606863993778180,
+    "id_str": "1509606863993778177",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 1,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

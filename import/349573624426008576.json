@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Jun 25 17:03:41 +0000 2013",
-    "id": 349573624426008580,
-    "id_str": "349573624426008576",
-    "full_text": ".@HistoryAtState seeks grad/undergrad eInterns for the 2013-14 academic year. Descriptions tomorrow, Thurs &amp;amp; Friday #Twitterstorians",
-    "truncated": false,
     "display_text_range": [
         0,
         136
@@ -11,46 +9,48 @@
     "entities": {
         "hashtags": [
             {
-                "text": "Twitterstorians",
                 "indices": [
                     120,
                     136
-                ]
+                ],
+                "text": "Twitterstorians"
             }
         ],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "HistoryAtState",
-                "name": "HistoryAtState",
                 "id": 586570880,
                 "id_str": "586570880",
                 "indices": [
                     1,
                     16
-                ]
+                ],
+                "name": "HistoryAtState",
+                "screen_name": "HistoryAtState"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 2,
+    "favorited": false,
+    "full_text": ".@HistoryAtState seeks grad/undergrad eInterns for the 2013-14 academic year. Descriptions tomorrow, Thurs &amp;amp; Friday #Twitterstorians",
+    "geo": null,
+    "id": 349573624426008580,
+    "id_str": "349573624426008576",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 2,
-    "favorited": false,
-    "retweeted": false,
-    "lang": "en"
+    }
 }

@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Dec 05 16:00:13 +0000 2019",
-    "id": 1202618687448080380,
-    "id_str": "1202618687448080384",
-    "full_text": "Digitization complete on #FRUS Microfiche Supplement, 1961–1963, vols. VII, VIII, IX, Arms Control; National Security Policy; Foreign Economic Policy. Now keyword- and date-searchable online and downloadable as ebooks: https://t.co/Szh52kZi6z",
-    "truncated": false,
     "display_text_range": [
         0,
         242
@@ -11,46 +9,48 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     25,
                     30
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "https://t.co/Szh52kZi6z",
-                "expanded_url": "https://history.state.gov/historicaldocuments/frus1961-63v07-09mSupp",
                 "display_url": "history.state.gov/historicaldocu…",
+                "expanded_url": "https://history.state.gov/historicaldocuments/frus1961-63v07-09mSupp",
                 "indices": [
                     219,
                     242
-                ]
+                ],
+                "url": "https://t.co/Szh52kZi6z"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+    "favorite_count": 16,
+    "favorited": false,
+    "full_text": "Digitization complete on #FRUS Microfiche Supplement, 1961–1963, vols. VII, VIII, IX, Arms Control; National Security Policy; Foreign Economic Policy. Now keyword- and date-searchable online and downloadable as ebooks: https://t.co/Szh52kZi6z",
+    "geo": null,
+    "id": 1202618687448080380,
+    "id_str": "1202618687448080384",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 6,
+    "retweeted": false,
+    "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 16,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

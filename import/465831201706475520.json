@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon May 12 12:29:47 +0000 2014",
-    "id": 465831201706475520,
-    "id_str": "465831201706475520",
-    "full_text": "See how Fairfax County, VA nearly caused a rift in international relations over Concorde at http://t.co/33VO2Dz7am #FRUS #twitterstorians",
-    "truncated": false,
     "display_text_range": [
         0,
         137
@@ -11,53 +9,55 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     115,
                     120
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "twitterstorians",
                 "indices": [
                     121,
                     137
-                ]
+                ],
+                "text": "twitterstorians"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/33VO2Dz7am",
-                "expanded_url": "http://go.usa.gov/KmE5",
                 "display_url": "go.usa.gov/KmE5",
+                "expanded_url": "http://go.usa.gov/KmE5",
                 "indices": [
                     92,
                     114
-                ]
+                ],
+                "url": "http://t.co/33VO2Dz7am"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 1,
+    "favorited": false,
+    "full_text": "See how Fairfax County, VA nearly caused a rift in international relations over Concorde at http://t.co/33VO2Dz7am #FRUS #twitterstorians",
+    "geo": null,
+    "id": 465831201706475520,
+    "id_str": "465831201706475520",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 1,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Fri Apr 21 11:01:21 +0000 2017",
-    "id": 855375902523498500,
-    "id_str": "855375902523498496",
-    "full_text": "Wake up with discussion of goals of HO and HO compilers as well as tips for researchers at 8:30 a.m. #ncph2017 #s32 #OurPanelsRock",
-    "truncated": false,
     "display_text_range": [
         0,
         130
@@ -11,49 +9,51 @@
     "entities": {
         "hashtags": [
             {
-                "text": "ncph2017",
                 "indices": [
                     101,
                     110
-                ]
+                ],
+                "text": "ncph2017"
             },
             {
-                "text": "s32",
                 "indices": [
                     111,
                     115
-                ]
+                ],
+                "text": "s32"
             },
             {
-                "text": "OurPanelsRock",
                 "indices": [
                     116,
                     130
-                ]
+                ],
+                "text": "OurPanelsRock"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
-        "urls": []
+        "urls": [],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 1,
+    "favorited": false,
+    "full_text": "Wake up with discussion of goals of HO and HO compilers as well as tips for researchers at 8:30 a.m. #ncph2017 #s32 #OurPanelsRock",
+    "geo": null,
+    "id": 855375902523498500,
+    "id_str": "855375902523498496",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 1,
-    "favorited": false,
-    "retweeted": false,
-    "lang": "en"
+    }
 }

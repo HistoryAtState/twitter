@@ -1,41 +1,17 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Sep 13 13:30:35 +0000 2022",
-    "id": 1569679941674967040,
-    "id_str": "1569679941674967042",
-    "full_text": "In October 1951, then-Princess Elizabeth, paid her first official visit to Washington, D.C. President Truman met her and Prince Philip at National Airport.\n\n📷 @TrumanLibrary (ID: 2005-14):\nhttps://t.co/wt6AQzGtzk https://t.co/KoR7C6TFOw",
-    "truncated": false,
     "display_text_range": [
         0,
         212
     ],
     "entities": {
         "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-            {
-                "screen_name": "TrumanLibrary",
-                "name": "Truman Library",
-                "id": 44657902,
-                "id_str": "44657902",
-                "indices": [
-                    159,
-                    173
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "https://t.co/wt6AQzGtzk",
-                "expanded_url": "http://ow.ly/GgPN50KHvAf",
-                "display_url": "ow.ly/GgPN50KHvAf",
-                "indices": [
-                    189,
-                    212
-                ]
-            }
-        ],
         "media": [
             {
+                "display_url": "pic.twitter.com/KoR7C6TFOw",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1569679941674967042/photo/1",
                 "id": 1569679939183562750,
                 "id_str": "1569679939183562760",
                 "indices": [
@@ -44,38 +20,63 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/FciflpIX0AgGbdU.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/FciflpIX0AgGbdU.jpg",
-                "url": "https://t.co/KoR7C6TFOw",
-                "display_url": "pic.twitter.com/KoR7C6TFOw",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1569679941674967042/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
-                    "small": {
-                        "w": 680,
-                        "h": 513,
-                        "resize": "fit"
-                    },
                     "large": {
-                        "w": 800,
                         "h": 603,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 800
                     },
                     "medium": {
-                        "w": 800,
                         "h": 603,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 800
+                    },
+                    "small": {
+                        "h": 513,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/KoR7C6TFOw"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "ow.ly/GgPN50KHvAf",
+                "expanded_url": "http://ow.ly/GgPN50KHvAf",
+                "indices": [
+                    189,
+                    212
+                ],
+                "url": "https://t.co/wt6AQzGtzk"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 44657902,
+                "id_str": "44657902",
+                "indices": [
+                    159,
+                    173
+                ],
+                "name": "Truman Library",
+                "screen_name": "TrumanLibrary"
             }
         ]
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/KoR7C6TFOw",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1569679941674967042/photo/1",
+                "ext_alt_text": "“Princess Elizabeth of England and her Prince Consort, Philip, Duke of Edinburgh, arrive at MATS Terminal, Washington National Airport. From left to right are: U.S. State Department Protocol Chief John F. Simmons, President Harry S. Truman, Princess Elizabeth, Prince Philip, Mrs. Bess Wallace Truman, and Margaret Truman.” October 31, 1951 (Truman Presidential Library ID: 2005-14)",
                 "id": 1569679939183562750,
                 "id_str": "1569679939183562760",
                 "indices": [
@@ -84,55 +85,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/FciflpIX0AgGbdU.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/FciflpIX0AgGbdU.jpg",
-                "url": "https://t.co/KoR7C6TFOw",
-                "display_url": "pic.twitter.com/KoR7C6TFOw",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1569679941674967042/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
-                    "small": {
-                        "w": 680,
-                        "h": 513,
-                        "resize": "fit"
-                    },
                     "large": {
-                        "w": 800,
                         "h": 603,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 800
                     },
                     "medium": {
-                        "w": 800,
                         "h": 603,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 800
+                    },
+                    "small": {
+                        "h": 513,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": "“Princess Elizabeth of England and her Prince Consort, Philip, Duke of Edinburgh, arrive at MATS Terminal, Washington National Airport. From left to right are: U.S. State Department Protocol Chief John F. Simmons, President Harry S. Truman, Princess Elizabeth, Prince Philip, Mrs. Bess Wallace Truman, and Margaret Truman.” October 31, 1951 (Truman Presidential Library ID: 2005-14)"
+                "type": "photo",
+                "url": "https://t.co/KoR7C6TFOw"
             }
         ]
     },
-    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "favorite_count": 3,
+    "favorited": false,
+    "full_text": "In October 1951, then-Princess Elizabeth, paid her first official visit to Washington, D.C. President Truman met her and Prince Philip at National Airport.\n\n📷 @TrumanLibrary (ID: 2005-14):\nhttps://t.co/wt6AQzGtzk https://t.co/KoR7C6TFOw",
+    "geo": null,
+    "id": 1569679941674967040,
+    "id_str": "1569679941674967042",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 3,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

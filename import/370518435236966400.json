@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Aug 22 12:10:53 +0000 2013",
-    "id": 370518435236966400,
-    "id_str": "370518435236966400",
-    "full_text": "#SecState Knox 1st to travel to Asia. #OTD 1912 left for Japan to attend funeral ceremony for Emperor Mutsuhito http://t.co/ffQgPjj7HM",
-    "truncated": false,
     "display_text_range": [
         0,
         134
@@ -11,53 +9,55 @@
     "entities": {
         "hashtags": [
             {
-                "text": "SecState",
                 "indices": [
                     0,
                     9
-                ]
+                ],
+                "text": "SecState"
             },
             {
-                "text": "OTD",
                 "indices": [
                     38,
                     42
-                ]
+                ],
+                "text": "OTD"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/ffQgPjj7HM",
-                "expanded_url": "http://go.usa.gov/jNdC",
                 "display_url": "go.usa.gov/jNdC",
+                "expanded_url": "http://go.usa.gov/jNdC",
                 "indices": [
                     112,
                     134
-                ]
+                ],
+                "url": "http://t.co/ffQgPjj7HM"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "#SecState Knox 1st to travel to Asia. #OTD 1912 left for Japan to attend funeral ceremony for Emperor Mutsuhito http://t.co/ffQgPjj7HM",
+    "geo": null,
+    "id": 370518435236966400,
+    "id_str": "370518435236966400",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Feb 14 18:05:27 +0000 2017",
-    "id": 831565029904416770,
-    "id_str": "831565029904416769",
-    "full_text": "Read #FRUS about #Valentine (Valetin) Gubichev, Soviet diplomat arrested in U.S. &amp;amp; found guilty of espionage 1949-50 https://t.co/jrE0vVwYVb",
-    "truncated": false,
     "display_text_range": [
         0,
         144
@@ -11,53 +9,55 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     5,
                     10
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "Valentine",
                 "indices": [
                     17,
                     27
-                ]
+                ],
+                "text": "Valentine"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "https://t.co/jrE0vVwYVb",
-                "expanded_url": "http://go.usa.gov/x9MwY",
                 "display_url": "go.usa.gov/x9MwY",
+                "expanded_url": "http://go.usa.gov/x9MwY",
                 "indices": [
                     121,
                     144
-                ]
+                ],
+                "url": "https://t.co/jrE0vVwYVb"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "Read #FRUS about #Valentine (Valetin) Gubichev, Soviet diplomat arrested in U.S. &amp;amp; found guilty of espionage 1949-50 https://t.co/jrE0vVwYVb",
+    "geo": null,
+    "id": 831565029904416770,
+    "id_str": "831565029904416769",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

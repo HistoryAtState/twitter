@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Oct 24 14:46:19 +0000 2019",
-    "id": 1187379798768783360,
-    "id_str": "1187379798768783361",
-    "full_text": "RT @FSIatState: Meet Consul Hunt, the longest serving African American consul in Europe at the time. Representing a neutral nation, he acqu…",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,40 +9,40 @@
     "entities": {
         "hashtags": [],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "FSIatState",
-                "name": "Foreign Service Institute",
                 "id": 958044239576948740,
                 "id_str": "958044239576948736",
                 "indices": [
                     3,
                     14
-                ]
+                ],
+                "name": "Foreign Service Institute",
+                "screen_name": "FSIatState"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "RT @FSIatState: Meet Consul Hunt, the longest serving African American consul in Europe at the time. Representing a neutral nation, he acqu…",
+    "geo": null,
+    "id": 1187379798768783360,
+    "id_str": "1187379798768783361",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "retweet_count": 2,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Wed Oct 23 18:13:12 +0000 2019",
-        "id": 1187069474463080450,
-        "id_str": "1187069474463080448",
-        "full_text": "Meet Consul Hunt, the longest serving African American consul in Europe at the time. Representing a neutral nation, he acquired responsibility for German, Austro-Hungarian, &amp;amp; Turkish subjects, visiting POW camps. Learn about WWI #HeroesofUSDiplomacy here: https://t.co/4D5leIMll2. https://t.co/fAKMfMsh0Q",
-        "truncated": false,
         "display_text_range": [
             0,
             284
@@ -52,28 +50,17 @@
         "entities": {
             "hashtags": [
                 {
-                    "text": "HeroesofUSDiplomacy",
                     "indices": [
                         233,
                         253
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "https://t.co/4D5leIMll2",
-                    "expanded_url": "http://go.usa.gov/xp3FN",
-                    "display_url": "go.usa.gov/xp3FN",
-                    "indices": [
-                        260,
-                        283
-                    ]
+                    ],
+                    "text": "HeroesofUSDiplomacy"
                 }
             ],
             "media": [
                 {
+                    "display_url": "pic.twitter.com/fAKMfMsh0Q",
+                    "expanded_url": "https://twitter.com/FSIatState/status/1187069474463080448/photo/1",
                     "id": 1187069470780645380,
                     "id_str": "1187069470780645376",
                     "indices": [
@@ -82,38 +69,52 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/EHlRZPGXYAA6qdZ.png",
                     "media_url_https": "https://pbs.twimg.com/media/EHlRZPGXYAA6qdZ.png",
-                    "url": "https://t.co/fAKMfMsh0Q",
-                    "display_url": "pic.twitter.com/fAKMfMsh0Q",
-                    "expanded_url": "https://twitter.com/FSIatState/status/1187069474463080448/photo/1",
-                    "type": "photo",
                     "sizes": {
-                        "small": {
-                            "w": 680,
-                            "h": 406,
-                            "resize": "fit"
-                        },
                         "large": {
-                            "w": 843,
                             "h": 503,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 843
                         },
                         "medium": {
-                            "w": 843,
                             "h": 503,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 843
+                        },
+                        "small": {
+                            "h": 406,
+                            "resize": "fit",
+                            "w": 680
                         },
                         "thumb": {
-                            "w": 150,
                             "h": 150,
-                            "resize": "crop"
+                            "resize": "crop",
+                            "w": 150
                         }
-                    }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/fAKMfMsh0Q"
                 }
-            ]
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "go.usa.gov/xp3FN",
+                    "expanded_url": "http://go.usa.gov/xp3FN",
+                    "indices": [
+                        260,
+                        283
+                    ],
+                    "url": "https://t.co/4D5leIMll2"
+                }
+            ],
+            "user_mentions": []
         },
         "extended_entities": {
             "media": [
                 {
+                    "display_url": "pic.twitter.com/fAKMfMsh0Q",
+                    "expanded_url": "https://twitter.com/FSIatState/status/1187069474463080448/photo/1",
+                    "ext_alt_text": null,
                     "id": 1187069470780645380,
                     "id_str": "1187069470780645376",
                     "indices": [
@@ -122,62 +123,61 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/EHlRZPGXYAA6qdZ.png",
                     "media_url_https": "https://pbs.twimg.com/media/EHlRZPGXYAA6qdZ.png",
-                    "url": "https://t.co/fAKMfMsh0Q",
-                    "display_url": "pic.twitter.com/fAKMfMsh0Q",
-                    "expanded_url": "https://twitter.com/FSIatState/status/1187069474463080448/photo/1",
-                    "type": "photo",
                     "sizes": {
-                        "small": {
-                            "w": 680,
-                            "h": 406,
-                            "resize": "fit"
-                        },
                         "large": {
-                            "w": 843,
                             "h": 503,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 843
                         },
                         "medium": {
-                            "w": 843,
                             "h": 503,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 843
+                        },
+                        "small": {
+                            "h": 406,
+                            "resize": "fit",
+                            "w": 680
                         },
                         "thumb": {
-                            "w": 150,
                             "h": 150,
-                            "resize": "crop"
+                            "resize": "crop",
+                            "w": 150
                         }
                     },
-                    "ext_alt_text": null
+                    "type": "photo",
+                    "url": "https://t.co/fAKMfMsh0Q"
                 }
             ]
         },
-        "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+        "favorite_count": 4,
+        "favorited": false,
+        "full_text": "Meet Consul Hunt, the longest serving African American consul in Europe at the time. Representing a neutral nation, he acquired responsibility for German, Austro-Hungarian, &amp;amp; Turkish subjects, visiting POW camps. Learn about WWI #HeroesofUSDiplomacy here: https://t.co/4D5leIMll2. https://t.co/fAKMfMsh0Q",
+        "geo": null,
+        "id": 1187069474463080450,
+        "id_str": "1187069474463080448",
+        "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 2,
+        "retweeted": true,
+        "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+        "truncated": false,
         "user": {
             "id": 958044239576948740,
             "id_str": "958044239576948736"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 2,
-        "favorite_count": 4,
-        "favorited": false,
-        "retweeted": true,
-        "possibly_sensitive": false,
-        "lang": "en"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": true,
-    "lang": "en"
+    "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

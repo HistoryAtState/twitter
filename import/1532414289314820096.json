@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Jun 02 17:30:12 +0000 2022",
-    "id": 1532414289314820100,
-    "id_str": "1532414289314820096",
-    "full_text": "At the #HAC meeting, Rotramel will focus on 1) the India compilation of the #FRUS volume Foreign Relations of the United States, 1977–1980, Volume XIX, South Asia…\nhttps://t.co/t50Phth7pY\n\n(3/4) https://t.co/VY1yXUmzKY",
-    "truncated": false,
     "display_text_range": [
         0,
         194
@@ -11,35 +9,24 @@
     "entities": {
         "hashtags": [
             {
-                "text": "HAC",
                 "indices": [
                     7,
                     11
-                ]
+                ],
+                "text": "HAC"
             },
             {
-                "text": "FRUS",
                 "indices": [
                     76,
                     81
-                ]
-            }
-        ],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
-            {
-                "url": "https://t.co/t50Phth7pY",
-                "expanded_url": "http://ow.ly/QbwB50JombL",
-                "display_url": "ow.ly/QbwB50JombL",
-                "indices": [
-                    164,
-                    187
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "media": [
             {
+                "display_url": "pic.twitter.com/VY1yXUmzKY",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1532414289314820096/photo/1",
                 "id": 1532414286471090180,
                 "id_str": "1532414286471090178",
                 "indices": [
@@ -48,38 +35,52 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/FUQ6rKnX0AIHSvu.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/FUQ6rKnX0AIHSvu.jpg",
-                "url": "https://t.co/VY1yXUmzKY",
-                "display_url": "pic.twitter.com/VY1yXUmzKY",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1532414289314820096/photo/1",
-                "type": "photo",
                 "sizes": {
                     "large": {
-                        "w": 1942,
                         "h": 1508,
-                        "resize": "fit"
-                    },
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
-                    "small": {
-                        "w": 680,
-                        "h": 528,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1942
                     },
                     "medium": {
-                        "w": 1200,
                         "h": 932,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1200
+                    },
+                    "small": {
+                        "h": 528,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/VY1yXUmzKY"
             }
-        ]
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "ow.ly/QbwB50JombL",
+                "expanded_url": "http://ow.ly/QbwB50JombL",
+                "indices": [
+                    164,
+                    187
+                ],
+                "url": "https://t.co/t50Phth7pY"
+            }
+        ],
+        "user_mentions": []
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/VY1yXUmzKY",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1532414289314820096/photo/1",
+                "ext_alt_text": "Screenshot of the landing page for the India compilation, showing a document listing, including 59. Telegram From the Embassy in India to the Department of State, January 19, 1977; 60. Telegram From the Embassy in India to the Department of State, January 28, 1977; and 61. Telegram From the Embassy in India to the Department of State",
                 "id": 1532414286471090180,
                 "id_str": "1532414286471090178",
                 "indices": [
@@ -88,55 +89,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/FUQ6rKnX0AIHSvu.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/FUQ6rKnX0AIHSvu.jpg",
-                "url": "https://t.co/VY1yXUmzKY",
-                "display_url": "pic.twitter.com/VY1yXUmzKY",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1532414289314820096/photo/1",
-                "type": "photo",
                 "sizes": {
                     "large": {
-                        "w": 1942,
                         "h": 1508,
-                        "resize": "fit"
-                    },
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
-                    "small": {
-                        "w": 680,
-                        "h": 528,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1942
                     },
                     "medium": {
-                        "w": 1200,
                         "h": 932,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1200
+                    },
+                    "small": {
+                        "h": 528,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": "Screenshot of the landing page for the India compilation, showing a document listing, including 59. Telegram From the Embassy in India to the Department of State, January 19, 1977; 60. Telegram From the Embassy in India to the Department of State, January 28, 1977; and 61. Telegram From the Embassy in India to the Department of State"
+                "type": "photo",
+                "url": "https://t.co/VY1yXUmzKY"
             }
         ]
     },
-    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "favorite_count": 4,
+    "favorited": false,
+    "full_text": "At the #HAC meeting, Rotramel will focus on 1) the India compilation of the #FRUS volume Foreign Relations of the United States, 1977–1980, Volume XIX, South Asia…\nhttps://t.co/t50Phth7pY\n\n(3/4) https://t.co/VY1yXUmzKY",
+    "geo": null,
+    "id": 1532414289314820100,
+    "id_str": "1532414289314820096",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 4,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Fri Apr 17 16:12:08 +0000 2015",
-    "id": 589099029688164350,
-    "id_str": "589099029688164352",
-    "full_text": "RT @icedd_org: .@joewiz: Our primary tools for editing, publishing TEI @HistoryAtState: oXygen XML Editor @oxygenxml and eXist-db @existdb …",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,80 +9,80 @@
     "entities": {
         "hashtags": [],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "icedd_org",
-                "name": "ICEDD",
                 "id": 3131310616,
                 "id_str": "3131310616",
                 "indices": [
                     3,
                     13
-                ]
+                ],
+                "name": "ICEDD",
+                "screen_name": "icedd_org"
             },
             {
-                "screen_name": "joewiz",
-                "name": "Joe Wicentowski 魏思達",
                 "id": 3550661,
                 "id_str": "3550661",
                 "indices": [
                     16,
                     23
-                ]
+                ],
+                "name": "Joe Wicentowski 魏思達",
+                "screen_name": "joewiz"
             },
             {
-                "screen_name": "HistoryAtState",
-                "name": "HistoryAtState",
                 "id": 586570880,
                 "id_str": "586570880",
                 "indices": [
                     71,
                     86
-                ]
+                ],
+                "name": "HistoryAtState",
+                "screen_name": "HistoryAtState"
             },
             {
-                "screen_name": "oxygenxml",
-                "name": "Oxygen XML Editor",
                 "id": 28643856,
                 "id_str": "28643856",
                 "indices": [
                     106,
                     116
-                ]
+                ],
+                "name": "Oxygen XML Editor",
+                "screen_name": "oxygenxml"
             },
             {
-                "screen_name": "existdb",
-                "name": "eXist-db XML Database",
                 "id": 19550027,
                 "id_str": "19550027",
                 "indices": [
                     130,
                     138
-                ]
+                ],
+                "name": "eXist-db XML Database",
+                "screen_name": "existdb"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"&gt;Twitter for iPad&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "RT @icedd_org: .@joewiz: Our primary tools for editing, publishing TEI @HistoryAtState: oXygen XML Editor @oxygenxml and eXist-db @existdb …",
+    "geo": null,
+    "id": 589099029688164350,
+    "id_str": "589099029688164352",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "retweet_count": 3,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Fri Apr 17 15:03:34 +0000 2015",
-        "id": 589081775403577340,
-        "id_str": "589081775403577346",
-        "full_text": ".@joewiz: Our primary tools for editing, publishing TEI @HistoryAtState: oXygen XML Editor @oxygenxml and eXist-db @existdb #icedd2015",
-        "truncated": false,
         "display_text_range": [
             0,
             134
@@ -92,83 +90,85 @@
         "entities": {
             "hashtags": [
                 {
-                    "text": "icedd2015",
                     "indices": [
                         124,
                         134
-                    ]
+                    ],
+                    "text": "icedd2015"
                 }
             ],
             "symbols": [],
+            "urls": [],
             "user_mentions": [
                 {
-                    "screen_name": "joewiz",
-                    "name": "Joe Wicentowski 魏思達",
                     "id": 3550661,
                     "id_str": "3550661",
                     "indices": [
                         1,
                         8
-                    ]
+                    ],
+                    "name": "Joe Wicentowski 魏思達",
+                    "screen_name": "joewiz"
                 },
                 {
-                    "screen_name": "HistoryAtState",
-                    "name": "HistoryAtState",
                     "id": 586570880,
                     "id_str": "586570880",
                     "indices": [
                         56,
                         71
-                    ]
+                    ],
+                    "name": "HistoryAtState",
+                    "screen_name": "HistoryAtState"
                 },
                 {
-                    "screen_name": "oxygenxml",
-                    "name": "Oxygen XML Editor",
                     "id": 28643856,
                     "id_str": "28643856",
                     "indices": [
                         91,
                         101
-                    ]
+                    ],
+                    "name": "Oxygen XML Editor",
+                    "screen_name": "oxygenxml"
                 },
                 {
-                    "screen_name": "existdb",
-                    "name": "eXist-db XML Database",
                     "id": 19550027,
                     "id_str": "19550027",
                     "indices": [
                         115,
                         123
-                    ]
+                    ],
+                    "name": "eXist-db XML Database",
+                    "screen_name": "existdb"
                 }
-            ],
-            "urls": []
+            ]
         },
-        "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
+        "favorite_count": 2,
+        "favorited": false,
+        "full_text": ".@joewiz: Our primary tools for editing, publishing TEI @HistoryAtState: oXygen XML Editor @oxygenxml and eXist-db @existdb #icedd2015",
+        "geo": null,
+        "id": 589081775403577340,
+        "id_str": "589081775403577346",
+        "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "retweet_count": 3,
+        "retweeted": true,
+        "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
+        "truncated": false,
         "user": {
             "id": 3131310616,
             "id_str": "3131310616"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 3,
-        "favorite_count": 2,
-        "favorited": false,
-        "retweeted": true,
-        "lang": "en"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": true,
-    "lang": "en"
+    "source": "&lt;a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"&gt;Twitter for iPad&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Mar 18 22:30:22 +0000 2021",
-    "id": 1372676782361604100,
-    "id_str": "1372676782361604099",
-    "full_text": "RT @USEmbassyCairo: The Ambassador noted that Jeannette was a trailblazer for women in public service and that he was inspired to hear abou…",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,51 +9,50 @@
     "entities": {
         "hashtags": [],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "USEmbassyCairo",
-                "name": "U.S. Embassy Cairo",
                 "id": 76945884,
                 "id_str": "76945884",
                 "indices": [
                     3,
                     18
-                ]
+                ],
+                "name": "U.S. Embassy Cairo",
+                "screen_name": "USEmbassyCairo"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "RT @USEmbassyCairo: The Ambassador noted that Jeannette was a trailblazer for women in public service and that he was inspired to hear abou…",
+    "geo": null,
+    "id": 1372676782361604100,
+    "id_str": "1372676782361604099",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "retweet_count": 1,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Thu Mar 18 21:49:45 +0000 2021",
-        "id": 1372666558607204350,
-        "id_str": "1372666558607204352",
-        "full_text": "The Ambassador noted that Jeannette was a trailblazer for women in public service and that he was inspired to hear about Jeannette's incredible life and achievements. He thanked Mrs. Plautz for sharing her sister's story with the Embassy. https://t.co/jZ0cA52WiS",
-        "truncated": false,
         "display_text_range": [
             0,
             238
         ],
         "entities": {
             "hashtags": [],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [],
             "media": [
                 {
+                    "display_url": "pic.twitter.com/jZ0cA52WiS",
+                    "expanded_url": "https://twitter.com/USEmbassyCairo/status/1372666558607204352/photo/1",
                     "id": 1372666553569787900,
                     "id_str": "1372666553569787913",
                     "indices": [
@@ -64,38 +61,42 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/Ewyw9TCWQAk9OO8.jpg",
                     "media_url_https": "https://pbs.twimg.com/media/Ewyw9TCWQAk9OO8.jpg",
-                    "url": "https://t.co/jZ0cA52WiS",
-                    "display_url": "pic.twitter.com/jZ0cA52WiS",
-                    "expanded_url": "https://twitter.com/USEmbassyCairo/status/1372666558607204352/photo/1",
-                    "type": "photo",
                     "sizes": {
-                        "medium": {
-                            "w": 320,
+                        "large": {
                             "h": 213,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 320
                         },
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
+                        "medium": {
+                            "h": 213,
+                            "resize": "fit",
+                            "w": 320
                         },
                         "small": {
-                            "w": 320,
                             "h": 213,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 320
                         },
-                        "large": {
-                            "w": 320,
-                            "h": 213,
-                            "resize": "fit"
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
                         }
-                    }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/jZ0cA52WiS"
                 }
-            ]
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
         },
         "extended_entities": {
             "media": [
                 {
+                    "display_url": "pic.twitter.com/jZ0cA52WiS",
+                    "expanded_url": "https://twitter.com/USEmbassyCairo/status/1372666558607204352/photo/1",
+                    "ext_alt_text": null,
                     "id": 1372666553569787900,
                     "id_str": "1372666553569787913",
                     "indices": [
@@ -104,62 +105,61 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/Ewyw9TCWQAk9OO8.jpg",
                     "media_url_https": "https://pbs.twimg.com/media/Ewyw9TCWQAk9OO8.jpg",
-                    "url": "https://t.co/jZ0cA52WiS",
-                    "display_url": "pic.twitter.com/jZ0cA52WiS",
-                    "expanded_url": "https://twitter.com/USEmbassyCairo/status/1372666558607204352/photo/1",
-                    "type": "photo",
                     "sizes": {
-                        "medium": {
-                            "w": 320,
+                        "large": {
                             "h": 213,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 320
                         },
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
+                        "medium": {
+                            "h": 213,
+                            "resize": "fit",
+                            "w": 320
                         },
                         "small": {
-                            "w": 320,
                             "h": 213,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 320
                         },
-                        "large": {
-                            "w": 320,
-                            "h": 213,
-                            "resize": "fit"
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
                         }
                     },
-                    "ext_alt_text": null
+                    "type": "photo",
+                    "url": "https://t.co/jZ0cA52WiS"
                 }
             ]
         },
-        "source": "&lt;a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"&gt;Twitter for iPhone&lt;/a&gt;",
+        "favorite_count": 6,
+        "favorited": false,
+        "full_text": "The Ambassador noted that Jeannette was a trailblazer for women in public service and that he was inspired to hear about Jeannette's incredible life and achievements. He thanked Mrs. Plautz for sharing her sister's story with the Embassy. https://t.co/jZ0cA52WiS",
+        "geo": null,
+        "id": 1372666558607204350,
+        "id_str": "1372666558607204352",
+        "in_reply_to_screen_name": "USEmbassyCairo",
         "in_reply_to_status_id": 1372666551439126530,
         "in_reply_to_status_id_str": "1372666551439126531",
         "in_reply_to_user_id": 76945884,
         "in_reply_to_user_id_str": "76945884",
-        "in_reply_to_screen_name": "USEmbassyCairo",
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 1,
+        "retweeted": true,
+        "source": "&lt;a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"&gt;Twitter for iPhone&lt;/a&gt;",
+        "truncated": false,
         "user": {
             "id": 76945884,
             "id_str": "76945884"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 1,
-        "favorite_count": 6,
-        "favorited": false,
-        "retweeted": true,
-        "possibly_sensitive": false,
-        "lang": "en"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": true,
-    "lang": "en"
+    "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

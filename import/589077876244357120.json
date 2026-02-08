@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Fri Apr 17 14:48:04 +0000 2015",
-    "id": 589077876244357120,
-    "id_str": "589077876244357120",
-    "full_text": "RT @icedd_org: Advisory Committees can play important roles for diplomatic history offices: verify objectivity, communicate w public &amp;amp; agen…",
-    "truncated": false,
     "display_text_range": [
         0,
         144
@@ -11,40 +9,40 @@
     "entities": {
         "hashtags": [],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "icedd_org",
-                "name": "ICEDD",
                 "id": 3131310616,
                 "id_str": "3131310616",
                 "indices": [
                     3,
                     13
-                ]
+                ],
+                "name": "ICEDD",
+                "screen_name": "icedd_org"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"&gt;Twitter for iPad&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "RT @icedd_org: Advisory Committees can play important roles for diplomatic history offices: verify objectivity, communicate w public &amp;amp; agen…",
+    "geo": null,
+    "id": 589077876244357120,
+    "id_str": "589077876244357120",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "retweet_count": 1,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Fri Apr 17 14:11:50 +0000 2015",
-        "id": 589068754664947710,
-        "id_str": "589068754664947713",
-        "full_text": "Advisory Committees can play important roles for diplomatic history offices: verify objectivity, communicate w public &amp;amp; agencies #icedd2015",
-        "truncated": false,
         "display_text_range": [
             0,
             143
@@ -52,42 +50,44 @@
         "entities": {
             "hashtags": [
                 {
-                    "text": "icedd2015",
                     "indices": [
                         133,
                         143
-                    ]
+                    ],
+                    "text": "icedd2015"
                 }
             ],
             "symbols": [],
-            "user_mentions": [],
-            "urls": []
+            "urls": [],
+            "user_mentions": []
         },
-        "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
+        "favorite_count": 1,
+        "favorited": false,
+        "full_text": "Advisory Committees can play important roles for diplomatic history offices: verify objectivity, communicate w public &amp;amp; agencies #icedd2015",
+        "geo": null,
+        "id": 589068754664947710,
+        "id_str": "589068754664947713",
+        "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "retweet_count": 1,
+        "retweeted": true,
+        "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
+        "truncated": false,
         "user": {
             "id": 3131310616,
             "id_str": "3131310616"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 1,
-        "favorite_count": 1,
-        "favorited": false,
-        "retweeted": true,
-        "lang": "en"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": true,
-    "lang": "en"
+    "source": "&lt;a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"&gt;Twitter for iPad&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

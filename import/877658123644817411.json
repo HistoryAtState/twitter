@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Wed Jun 21 22:42:57 +0000 2017",
-    "id": 877658123644817410,
-    "id_str": "877658123644817411",
-    "full_text": "RT @DiplomacyCenter: State historians @jamegramwilson &amp;amp; Elizabeth Charles compiled 4 Soviet #FRUS volumes https://t.co/57Z5hJbLhI #Discover…",
-    "truncated": false,
     "display_text_range": [
         0,
         144
@@ -11,40 +9,40 @@
     "entities": {
         "hashtags": [],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "diplomacycenter",
-                "name": "NMAD Museum",
                 "id": 1180122509204701180,
                 "id_str": "1180122509204701186",
                 "indices": [
                     3,
                     19
-                ]
+                ],
+                "name": "NMAD Museum",
+                "screen_name": "diplomacycenter"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"&gt;Twitter for iPad&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "RT @DiplomacyCenter: State historians @jamegramwilson &amp;amp; Elizabeth Charles compiled 4 Soviet #FRUS volumes https://t.co/57Z5hJbLhI #Discover…",
+    "geo": null,
+    "id": 877658123644817410,
+    "id_str": "877658123644817411",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "retweet_count": 3,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Wed Jun 21 19:14:09 +0000 2017",
-        "id": 877605578767335420,
-        "id_str": "877605578767335424",
-        "full_text": "State historians @jamegramwilson &amp;amp; Elizabeth Charles compiled 4 Soviet #FRUS volumes https://t.co/57Z5hJbLhI #DiscoverDiplomacy https://t.co/5xJj4RAFyq",
-        "truncated": false,
         "display_text_range": [
             0,
             131
@@ -52,35 +50,24 @@
         "entities": {
             "hashtags": [
                 {
-                    "text": "FRUS",
                     "indices": [
                         75,
                         80
-                    ]
+                    ],
+                    "text": "FRUS"
                 },
                 {
-                    "text": "DiscoverDiplomacy",
                     "indices": [
                         113,
                         131
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "https://t.co/57Z5hJbLhI",
-                    "expanded_url": "http://ow.ly/getC30cMimf",
-                    "display_url": "ow.ly/getC30cMimf",
-                    "indices": [
-                        89,
-                        112
-                    ]
+                    ],
+                    "text": "DiscoverDiplomacy"
                 }
             ],
             "media": [
                 {
+                    "display_url": "pic.twitter.com/5xJj4RAFyq",
+                    "expanded_url": "https://twitter.com/DiplomacyCenter/status/877605578767335424/photo/1",
                     "id": 877604836392538110,
                     "id_str": "877604836392538114",
                     "indices": [
@@ -89,38 +76,52 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/DC3g8u5XkAIWf18.jpg",
                     "media_url_https": "https://pbs.twimg.com/media/DC3g8u5XkAIWf18.jpg",
-                    "url": "https://t.co/5xJj4RAFyq",
-                    "display_url": "pic.twitter.com/5xJj4RAFyq",
-                    "expanded_url": "https://twitter.com/DiplomacyCenter/status/877605578767335424/photo/1",
-                    "type": "photo",
                     "sizes": {
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
+                        "large": {
+                            "h": 2048,
+                            "resize": "fit",
+                            "w": 1925
                         },
                         "medium": {
-                            "w": 1128,
                             "h": 1200,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 1128
                         },
                         "small": {
-                            "w": 639,
                             "h": 680,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 639
                         },
-                        "large": {
-                            "w": 1925,
-                            "h": 2048,
-                            "resize": "fit"
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
                         }
-                    }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/5xJj4RAFyq"
                 }
-            ]
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "ow.ly/getC30cMimf",
+                    "expanded_url": "http://ow.ly/getC30cMimf",
+                    "indices": [
+                        89,
+                        112
+                    ],
+                    "url": "https://t.co/57Z5hJbLhI"
+                }
+            ],
+            "user_mentions": []
         },
         "extended_entities": {
             "media": [
                 {
+                    "display_url": "pic.twitter.com/5xJj4RAFyq",
+                    "expanded_url": "https://twitter.com/DiplomacyCenter/status/877605578767335424/photo/1",
+                    "ext_alt_text": null,
                     "id": 877604836392538110,
                     "id_str": "877604836392538114",
                     "indices": [
@@ -129,35 +130,35 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/DC3g8u5XkAIWf18.jpg",
                     "media_url_https": "https://pbs.twimg.com/media/DC3g8u5XkAIWf18.jpg",
-                    "url": "https://t.co/5xJj4RAFyq",
-                    "display_url": "pic.twitter.com/5xJj4RAFyq",
-                    "expanded_url": "https://twitter.com/DiplomacyCenter/status/877605578767335424/photo/1",
-                    "type": "photo",
                     "sizes": {
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
+                        "large": {
+                            "h": 2048,
+                            "resize": "fit",
+                            "w": 1925
                         },
                         "medium": {
-                            "w": 1128,
                             "h": 1200,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 1128
                         },
                         "small": {
-                            "w": 639,
                             "h": 680,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 639
                         },
-                        "large": {
-                            "w": 1925,
-                            "h": 2048,
-                            "resize": "fit"
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
                         }
                     },
-                    "ext_alt_text": null
+                    "type": "photo",
+                    "url": "https://t.co/5xJj4RAFyq"
                 },
                 {
+                    "display_url": "pic.twitter.com/5xJj4RAFyq",
+                    "expanded_url": "https://twitter.com/DiplomacyCenter/status/877605578767335424/photo/1",
+                    "ext_alt_text": null,
                     "id": 877604817157410820,
                     "id_str": "877604817157410818",
                     "indices": [
@@ -166,62 +167,61 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/DC3g7nPW0AIzDhd.jpg",
                     "media_url_https": "https://pbs.twimg.com/media/DC3g7nPW0AIzDhd.jpg",
-                    "url": "https://t.co/5xJj4RAFyq",
-                    "display_url": "pic.twitter.com/5xJj4RAFyq",
-                    "expanded_url": "https://twitter.com/DiplomacyCenter/status/877605578767335424/photo/1",
-                    "type": "photo",
                     "sizes": {
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
+                        "large": {
+                            "h": 2048,
+                            "resize": "fit",
+                            "w": 1645
                         },
                         "medium": {
-                            "w": 964,
                             "h": 1200,
-                            "resize": "fit"
-                        },
-                        "large": {
-                            "w": 1645,
-                            "h": 2048,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 964
                         },
                         "small": {
-                            "w": 546,
                             "h": 680,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 546
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
                         }
                     },
-                    "ext_alt_text": null
+                    "type": "photo",
+                    "url": "https://t.co/5xJj4RAFyq"
                 }
             ]
         },
-        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+        "favorite_count": 10,
+        "favorited": false,
+        "full_text": "State historians @jamegramwilson &amp;amp; Elizabeth Charles compiled 4 Soviet #FRUS volumes https://t.co/57Z5hJbLhI #DiscoverDiplomacy https://t.co/5xJj4RAFyq",
+        "geo": null,
+        "id": 877605578767335420,
+        "id_str": "877605578767335424",
+        "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 3,
+        "retweeted": true,
+        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+        "truncated": false,
         "user": {
             "id": 2648849144,
             "id_str": "2648849144"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 3,
-        "favorite_count": 10,
-        "favorited": false,
-        "retweeted": true,
-        "possibly_sensitive": false,
-        "lang": "en"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": true,
-    "lang": "en"
+    "source": "&lt;a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"&gt;Twitter for iPad&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

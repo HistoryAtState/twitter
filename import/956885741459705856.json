@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Fri Jan 26 13:45:13 +0000 2018",
-    "id": 956885741459705860,
-    "id_str": "956885741459705856",
-    "full_text": "To peace! Officials shake hands and toast with champagne @VillaMajestic to recognize the ceasefire in #Vietnam on 27 Jan #1973: https://t.co/4rzLNFi9FD #twitterstorians #FRUS https://t.co/S8TS0Gqi7i",
-    "truncated": false,
     "display_text_range": [
         0,
         174
@@ -11,53 +9,31 @@
     "entities": {
         "hashtags": [
             {
-                "text": "Vietnam",
                 "indices": [
                     102,
                     110
-                ]
+                ],
+                "text": "Vietnam"
             },
             {
-                "text": "twitterstorians",
                 "indices": [
                     152,
                     168
-                ]
+                ],
+                "text": "twitterstorians"
             },
             {
-                "text": "FRUS",
                 "indices": [
                     169,
                     174
-                ]
-            }
-        ],
-        "symbols": [],
-        "user_mentions": [
-            {
-                "screen_name": "VILLAMAJESTIC",
-                "name": "Majestic Hôtel-Spa",
-                "id": 718293355,
-                "id_str": "718293355",
-                "indices": [
-                    57,
-                    71
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "https://t.co/4rzLNFi9FD",
-                "expanded_url": "https://go.usa.gov/xnvuX",
-                "display_url": "go.usa.gov/xnvuX",
-                "indices": [
-                    128,
-                    151
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "media": [
             {
+                "display_url": "pic.twitter.com/S8TS0Gqi7i",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/956885741459705856/photo/1",
                 "id": 956885734727696380,
                 "id_str": "956885734727696384",
                 "indices": [
@@ -66,38 +42,63 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/DUeKgYUVQAA9RdP.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DUeKgYUVQAA9RdP.jpg",
-                "url": "https://t.co/S8TS0Gqi7i",
-                "display_url": "pic.twitter.com/S8TS0Gqi7i",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/956885741459705856/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
+                    "large": {
+                        "h": 547,
+                        "resize": "fit",
+                        "w": 800
                     },
                     "medium": {
-                        "w": 800,
                         "h": 547,
-                        "resize": "fit"
-                    },
-                    "large": {
-                        "w": 800,
-                        "h": 547,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 800
                     },
                     "small": {
-                        "w": 680,
                         "h": 465,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/S8TS0Gqi7i"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "go.usa.gov/xnvuX",
+                "expanded_url": "https://go.usa.gov/xnvuX",
+                "indices": [
+                    128,
+                    151
+                ],
+                "url": "https://t.co/4rzLNFi9FD"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 718293355,
+                "id_str": "718293355",
+                "indices": [
+                    57,
+                    71
+                ],
+                "name": "Majestic Hôtel-Spa",
+                "screen_name": "VILLAMAJESTIC"
             }
         ]
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/S8TS0Gqi7i",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/956885741459705856/photo/1",
+                "ext_alt_text": null,
                 "id": 956885734727696380,
                 "id_str": "956885734727696384",
                 "indices": [
@@ -106,55 +107,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/DUeKgYUVQAA9RdP.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DUeKgYUVQAA9RdP.jpg",
-                "url": "https://t.co/S8TS0Gqi7i",
-                "display_url": "pic.twitter.com/S8TS0Gqi7i",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/956885741459705856/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
+                    "large": {
+                        "h": 547,
+                        "resize": "fit",
+                        "w": 800
                     },
                     "medium": {
-                        "w": 800,
                         "h": 547,
-                        "resize": "fit"
-                    },
-                    "large": {
-                        "w": 800,
-                        "h": 547,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 800
                     },
                     "small": {
-                        "w": 680,
                         "h": 465,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": null
+                "type": "photo",
+                "url": "https://t.co/S8TS0Gqi7i"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 4,
+    "favorited": false,
+    "full_text": "To peace! Officials shake hands and toast with champagne @VillaMajestic to recognize the ceasefire in #Vietnam on 27 Jan #1973: https://t.co/4rzLNFi9FD #twitterstorians #FRUS https://t.co/S8TS0Gqi7i",
+    "geo": null,
+    "id": 956885741459705860,
+    "id_str": "956885741459705856",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 4,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

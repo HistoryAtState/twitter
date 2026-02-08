@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Sun Aug 21 15:01:46 +0000 2016",
-    "id": 767376150599462910,
-    "id_str": "767376150599462912",
-    "full_text": "#OTD the Dumbarton Oaks Conference began in 1944. Read what the delegates did their first day there: https://t.co/ZnBNShDtPR",
-    "truncated": false,
     "display_text_range": [
         0,
         124
@@ -11,46 +9,48 @@
     "entities": {
         "hashtags": [
             {
-                "text": "OTD",
                 "indices": [
                     0,
                     4
-                ]
+                ],
+                "text": "OTD"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "https://t.co/ZnBNShDtPR",
-                "expanded_url": "https://history.state.gov/historicaldocuments/frus1944v01/d419",
                 "display_url": "history.state.gov/historicaldocu…",
+                "expanded_url": "https://history.state.gov/historicaldocuments/frus1944v01/d419",
                 "indices": [
                     101,
                     124
-                ]
+                ],
+                "url": "https://t.co/ZnBNShDtPR"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 1,
+    "favorited": false,
+    "full_text": "#OTD the Dumbarton Oaks Conference began in 1944. Read what the delegates did their first day there: https://t.co/ZnBNShDtPR",
+    "geo": null,
+    "id": 767376150599462910,
+    "id_str": "767376150599462912",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 1,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Nov 04 14:55:12 +0000 2013",
-    "id": 397376489122836480,
-    "id_str": "397376489122836481",
-    "full_text": "Check out the new twitter feed from our friends @USHouseHistory. Looking forward to the great updates! #twitterstorians",
-    "truncated": false,
     "display_text_range": [
         0,
         119
@@ -11,46 +9,48 @@
     "entities": {
         "hashtags": [
             {
-                "text": "twitterstorians",
                 "indices": [
                     103,
                     119
-                ]
+                ],
+                "text": "twitterstorians"
             }
         ],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "USHouseHistory",
-                "name": "U.S. House History",
                 "id": 906782533,
                 "id_str": "906782533",
                 "indices": [
                     48,
                     63
-                ]
+                ],
+                "name": "U.S. House History",
+                "screen_name": "USHouseHistory"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "Check out the new twitter feed from our friends @USHouseHistory. Looking forward to the great updates! #twitterstorians",
+    "geo": null,
+    "id": 397376489122836480,
+    "id_str": "397376489122836481",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "lang": "en"
+    }
 }

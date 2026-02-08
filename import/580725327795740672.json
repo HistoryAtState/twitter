@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Wed Mar 25 13:38:02 +0000 2015",
-    "id": 580725327795740670,
-    "id_str": "580725327795740672",
-    "full_text": "Spotlight on the travels of John Foster Dulles, who visited 21 countries that no previous Secretary of State had: http://t.co/hP6jxUYNRp",
-    "truncated": false,
     "display_text_range": [
         0,
         136
@@ -11,38 +9,40 @@
     "entities": {
         "hashtags": [],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/hP6jxUYNRp",
-                "expanded_url": "http://bit.ly/1EFOpY3",
                 "display_url": "bit.ly/1EFOpY3",
+                "expanded_url": "http://bit.ly/1EFOpY3",
                 "indices": [
                     114,
                     136
-                ]
+                ],
+                "url": "http://t.co/hP6jxUYNRp"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 2,
+    "favorited": false,
+    "full_text": "Spotlight on the travels of John Foster Dulles, who visited 21 countries that no previous Secretary of State had: http://t.co/hP6jxUYNRp",
+    "geo": null,
+    "id": 580725327795740670,
+    "id_str": "580725327795740672",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 2,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

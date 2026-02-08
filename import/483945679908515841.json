@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Jul 01 12:10:16 +0000 2014",
-    "id": 483945679908515840,
-    "id_str": "483945679908515841",
-    "full_text": "Snail mail took a very long time! Read #FRUS Woodrow Wilson letter to Emperor Franz Joseph #WW1Tweet http://t.co/nky19zmzKm",
-    "truncated": false,
     "display_text_range": [
         0,
         123
@@ -11,53 +9,55 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     39,
                     44
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "WW1Tweet",
                 "indices": [
                     91,
                     100
-                ]
+                ],
+                "text": "WW1Tweet"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/nky19zmzKm",
-                "expanded_url": "http://ow.ly/i/62zLh",
                 "display_url": "ow.ly/i/62zLh",
+                "expanded_url": "http://ow.ly/i/62zLh",
                 "indices": [
                     101,
                     123
-                ]
+                ],
+                "url": "http://t.co/nky19zmzKm"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 2,
+    "favorited": false,
+    "full_text": "Snail mail took a very long time! Read #FRUS Woodrow Wilson letter to Emperor Franz Joseph #WW1Tweet http://t.co/nky19zmzKm",
+    "geo": null,
+    "id": 483945679908515840,
+    "id_str": "483945679908515841",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 2,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

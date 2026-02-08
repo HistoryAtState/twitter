@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Wed Apr 18 17:45:06 +0000 2018",
-    "id": 986661916268515330,
-    "id_str": "986661916268515330",
-    "full_text": "Forty years ago today the U.S. Senate ratified the #PanamaCanal Treaty! Check out this letter from President Carter to General Torrijos of #Panama celebrating the event https://t.co/wPuFxkz7Sf  #FRUS #Twitterstorians #OTD",
-    "truncated": false,
     "display_text_range": [
         0,
         221
@@ -11,74 +9,76 @@
     "entities": {
         "hashtags": [
             {
-                "text": "PanamaCanal",
                 "indices": [
                     51,
                     63
-                ]
+                ],
+                "text": "PanamaCanal"
             },
             {
-                "text": "Panama",
                 "indices": [
                     139,
                     146
-                ]
+                ],
+                "text": "Panama"
             },
             {
-                "text": "FRUS",
                 "indices": [
                     194,
                     199
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "Twitterstorians",
                 "indices": [
                     200,
                     216
-                ]
+                ],
+                "text": "Twitterstorians"
             },
             {
-                "text": "OTD",
                 "indices": [
                     217,
                     221
-                ]
+                ],
+                "text": "OTD"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "https://t.co/wPuFxkz7Sf",
-                "expanded_url": "https://history.state.gov/historicaldocuments/frus1977-80v29/d168",
                 "display_url": "history.state.gov/historicaldocu…",
+                "expanded_url": "https://history.state.gov/historicaldocuments/frus1977-80v29/d168",
                 "indices": [
                     169,
                     192
-                ]
+                ],
+                "url": "https://t.co/wPuFxkz7Sf"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 1,
+    "favorited": false,
+    "full_text": "Forty years ago today the U.S. Senate ratified the #PanamaCanal Treaty! Check out this letter from President Carter to General Torrijos of #Panama celebrating the event https://t.co/wPuFxkz7Sf  #FRUS #Twitterstorians #OTD",
+    "geo": null,
+    "id": 986661916268515330,
+    "id_str": "986661916268515330",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 1,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

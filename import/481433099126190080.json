@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Jun 24 13:46:10 +0000 2014",
-    "id": 481433099126190080,
-    "id_str": "481433099126190080",
-    "full_text": "Which former NY Supreme Court judge became Woodrow Wilson’s go-to man in Berlin in #WW1? @usbotschaft http://t.co/U3ewYEZLpz",
-    "truncated": false,
     "display_text_range": [
         0,
         124
@@ -11,57 +9,59 @@
     "entities": {
         "hashtags": [
             {
-                "text": "WW1",
                 "indices": [
                     83,
                     87
-                ]
+                ],
+                "text": "WW1"
             }
         ],
         "symbols": [],
+        "urls": [
+            {
+                "display_url": "ow.ly/yodxK",
+                "expanded_url": "http://ow.ly/yodxK",
+                "indices": [
+                    102,
+                    124
+                ],
+                "url": "http://t.co/U3ewYEZLpz"
+            }
+        ],
         "user_mentions": [
             {
-                "screen_name": "usbotschaft",
-                "name": "US-Botschaft Berlin",
                 "id": 50965086,
                 "id_str": "50965086",
                 "indices": [
                     89,
                     101
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "http://t.co/U3ewYEZLpz",
-                "expanded_url": "http://ow.ly/yodxK",
-                "display_url": "ow.ly/yodxK",
-                "indices": [
-                    102,
-                    124
-                ]
+                ],
+                "name": "US-Botschaft Berlin",
+                "screen_name": "usbotschaft"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "Which former NY Supreme Court judge became Woodrow Wilson’s go-to man in Berlin in #WW1? @usbotschaft http://t.co/U3ewYEZLpz",
+    "geo": null,
+    "id": 481433099126190080,
+    "id_str": "481433099126190080",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

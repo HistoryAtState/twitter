@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Jun 22 11:33:14 +0000 2017",
-    "id": 877851974162554880,
-    "id_str": "877851974162554880",
-    "full_text": "We'll be presenting on \"The Poison Gas Taboo in U.S. Foreign Policy\" on June 23 at #shafr2017 #twitterstorians https://t.co/Kz9hcJQGus",
-    "truncated": false,
     "display_text_range": [
         0,
         110
@@ -11,25 +9,24 @@
     "entities": {
         "hashtags": [
             {
-                "text": "shafr2017",
                 "indices": [
                     83,
                     93
-                ]
+                ],
+                "text": "shafr2017"
             },
             {
-                "text": "twitterstorians",
                 "indices": [
                     94,
                     110
-                ]
+                ],
+                "text": "twitterstorians"
             }
         ],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [],
         "media": [
             {
+                "display_url": "pic.twitter.com/Kz9hcJQGus",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/877851974162554880/photo/1",
                 "id": 877851797221765120,
                 "id_str": "877851797221765120",
                 "indices": [
@@ -38,38 +35,42 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/DC7BjvrXcAAODpI.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DC7BjvrXcAAODpI.jpg",
-                "url": "https://t.co/Kz9hcJQGus",
-                "display_url": "pic.twitter.com/Kz9hcJQGus",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/877851974162554880/photo/1",
-                "type": "photo",
                 "sizes": {
                     "large": {
-                        "w": 2048,
                         "h": 1318,
-                        "resize": "fit"
-                    },
-                    "small": {
-                        "w": 680,
-                        "h": 437,
-                        "resize": "fit"
-                    },
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
+                        "resize": "fit",
+                        "w": 2048
                     },
                     "medium": {
-                        "w": 1200,
                         "h": 772,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1200
+                    },
+                    "small": {
+                        "h": 437,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/Kz9hcJQGus"
             }
-        ]
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/Kz9hcJQGus",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/877851974162554880/photo/1",
+                "ext_alt_text": null,
                 "id": 877851797221765120,
                 "id_str": "877851797221765120",
                 "indices": [
@@ -78,55 +79,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/DC7BjvrXcAAODpI.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DC7BjvrXcAAODpI.jpg",
-                "url": "https://t.co/Kz9hcJQGus",
-                "display_url": "pic.twitter.com/Kz9hcJQGus",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/877851974162554880/photo/1",
-                "type": "photo",
                 "sizes": {
                     "large": {
-                        "w": 2048,
                         "h": 1318,
-                        "resize": "fit"
-                    },
-                    "small": {
-                        "w": 680,
-                        "h": 437,
-                        "resize": "fit"
-                    },
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
+                        "resize": "fit",
+                        "w": 2048
                     },
                     "medium": {
-                        "w": 1200,
                         "h": 772,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1200
+                    },
+                    "small": {
+                        "h": 437,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": null
+                "type": "photo",
+                "url": "https://t.co/Kz9hcJQGus"
             }
         ]
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 11,
+    "favorited": false,
+    "full_text": "We'll be presenting on \"The Poison Gas Taboo in U.S. Foreign Policy\" on June 23 at #shafr2017 #twitterstorians https://t.co/Kz9hcJQGus",
+    "geo": null,
+    "id": 877851974162554880,
+    "id_str": "877851974162554880",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 11,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

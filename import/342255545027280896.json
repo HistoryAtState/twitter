@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Wed Jun 05 12:24:15 +0000 2013",
-    "id": 342255545027280900,
-    "id_str": "342255545027280896",
-    "full_text": "RT @librarycongress: On June 5, 1947, Secretary of State George Marshall outlined his plan to help Europe after World War II. http://t.co/B…",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,40 +9,40 @@
     "entities": {
         "hashtags": [],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "librarycongress",
-                "name": "Library of Congress",
                 "id": 7152572,
                 "id_str": "7152572",
                 "indices": [
                     3,
                     19
-                ]
+                ],
+                "name": "Library of Congress",
+                "screen_name": "librarycongress"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "RT @librarycongress: On June 5, 1947, Secretary of State George Marshall outlined his plan to help Europe after World War II. http://t.co/B…",
+    "geo": null,
+    "id": 342255545027280900,
+    "id_str": "342255545027280896",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "retweet_count": 35,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Wed Jun 05 12:16:36 +0000 2013",
-        "id": 342253620642856960,
-        "id_str": "342253620642856960",
-        "full_text": "On June 5, 1947, Secretary of State George Marshall outlined his plan to help Europe after World War II. http://t.co/BSOF3ssCKk",
-        "truncated": false,
         "display_text_range": [
             0,
             127
@@ -52,45 +50,47 @@
         "entities": {
             "hashtags": [],
             "symbols": [],
-            "user_mentions": [],
             "urls": [
                 {
-                    "url": "http://t.co/BSOF3ssCKk",
-                    "expanded_url": "http://www.loc.gov/exhibits/marshall/mars1.html",
                     "display_url": "loc.gov/exhibits/marsh…",
+                    "expanded_url": "http://www.loc.gov/exhibits/marshall/mars1.html",
                     "indices": [
                         105,
                         127
-                    ]
+                    ],
+                    "url": "http://t.co/BSOF3ssCKk"
                 }
-            ]
+            ],
+            "user_mentions": []
         },
-        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+        "favorite_count": 9,
+        "favorited": false,
+        "full_text": "On June 5, 1947, Secretary of State George Marshall outlined his plan to help Europe after World War II. http://t.co/BSOF3ssCKk",
+        "geo": null,
+        "id": 342253620642856960,
+        "id_str": "342253620642856960",
+        "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 35,
+        "retweeted": true,
+        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+        "truncated": false,
         "user": {
             "id": 7152572,
             "id_str": "7152572"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 35,
-        "favorite_count": 9,
-        "favorited": false,
-        "retweeted": true,
-        "possibly_sensitive": false,
-        "lang": "en"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 35,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": true,
-    "lang": "en"
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

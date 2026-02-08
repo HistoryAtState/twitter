@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Fri Jun 08 20:32:57 +0000 2012",
-    "id": 211194124039233536,
-    "id_str": "211194124039233537",
-    "full_text": "Just released: #ebooks of 10 Nixon administration #FRUS volumes http://t.co/pVmhfF9b #history #diplomacy",
-    "truncated": false,
     "display_text_range": [
         0,
         104
@@ -11,67 +9,69 @@
     "entities": {
         "hashtags": [
             {
-                "text": "ebooks",
                 "indices": [
                     15,
                     22
-                ]
+                ],
+                "text": "ebooks"
             },
             {
-                "text": "FRUS",
                 "indices": [
                     50,
                     55
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "history",
                 "indices": [
                     85,
                     93
-                ]
+                ],
+                "text": "history"
             },
             {
-                "text": "diplomacy",
                 "indices": [
                     94,
                     104
-                ]
+                ],
+                "text": "diplomacy"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/pVmhfF9b",
-                "expanded_url": "http://history.state.gov/historicaldocuments/ebooks?utm_source=HO&amp;utm_medium=twitter&amp;utm_campaign=batch3",
                 "display_url": "history.state.gov/historicaldocu…",
+                "expanded_url": "http://history.state.gov/historicaldocuments/ebooks?utm_source=HO&amp;utm_medium=twitter&amp;utm_campaign=batch3",
                 "indices": [
                     64,
                     84
-                ]
+                ],
+                "url": "http://t.co/pVmhfF9b"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 4,
+    "favorited": false,
+    "full_text": "Just released: #ebooks of 10 Nixon administration #FRUS volumes http://t.co/pVmhfF9b #history #diplomacy",
+    "geo": null,
+    "id": 211194124039233536,
+    "id_str": "211194124039233537",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 13,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 13,
-    "favorite_count": 4,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

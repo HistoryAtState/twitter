@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Apr 19 13:28:06 +0000 2018",
-    "id": 986959626326495230,
-    "id_str": "986959626326495234",
-    "full_text": "Najeeb Halaby, aviator, FAA Administrator, and member of @StateDept and @DeptofDefense group that drafted NSC 68. https://t.co/YSPFSyemXQ #ArabAmericanHeritageMonth #FRUS https://t.co/6LScGzI5yf",
-    "truncated": false,
     "display_text_range": [
         0,
         170
@@ -11,56 +9,24 @@
     "entities": {
         "hashtags": [
             {
-                "text": "ArabAmericanHeritageMonth",
                 "indices": [
                     138,
                     164
-                ]
+                ],
+                "text": "ArabAmericanHeritageMonth"
             },
             {
-                "text": "FRUS",
                 "indices": [
                     165,
                     170
-                ]
-            }
-        ],
-        "symbols": [],
-        "user_mentions": [
-            {
-                "screen_name": "StateDept",
-                "name": "Department of State",
-                "id": 9624742,
-                "id_str": "9624742",
-                "indices": [
-                    57,
-                    67
-                ]
-            },
-            {
-                "screen_name": "DeptofDefense",
-                "name": "Department of Defense 🇺🇸",
-                "id": 66369181,
-                "id_str": "66369181",
-                "indices": [
-                    72,
-                    86
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "https://t.co/YSPFSyemXQ",
-                "expanded_url": "https://history.state.gov/historicaldocuments/frus1950v01/d64",
-                "display_url": "history.state.gov/historicaldocu…",
-                "indices": [
-                    114,
-                    137
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "media": [
             {
+                "display_url": "pic.twitter.com/6LScGzI5yf",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/986959626326495234/photo/1",
                 "id": 986959442985062400,
                 "id_str": "986959442985062400",
                 "indices": [
@@ -69,38 +35,73 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/DbJiYl7XkAAQmAd.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DbJiYl7XkAAQmAd.jpg",
-                "url": "https://t.co/6LScGzI5yf",
-                "display_url": "pic.twitter.com/6LScGzI5yf",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/986959626326495234/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
                     "large": {
-                        "w": 619,
                         "h": 409,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 619
                     },
                     "medium": {
-                        "w": 619,
                         "h": 409,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 619
                     },
                     "small": {
-                        "w": 619,
                         "h": 409,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 619
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/6LScGzI5yf"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "history.state.gov/historicaldocu…",
+                "expanded_url": "https://history.state.gov/historicaldocuments/frus1950v01/d64",
+                "indices": [
+                    114,
+                    137
+                ],
+                "url": "https://t.co/YSPFSyemXQ"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 9624742,
+                "id_str": "9624742",
+                "indices": [
+                    57,
+                    67
+                ],
+                "name": "Department of State",
+                "screen_name": "StateDept"
+            },
+            {
+                "id": 66369181,
+                "id_str": "66369181",
+                "indices": [
+                    72,
+                    86
+                ],
+                "name": "Department of Defense 🇺🇸",
+                "screen_name": "DeptofDefense"
             }
         ]
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/6LScGzI5yf",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/986959626326495234/photo/1",
+                "ext_alt_text": "Snapshot of first page of NSC 68 with the title: “A Report to the President Pursuant to the President’s Directive of January 31, 1950.”",
                 "id": 986959442985062400,
                 "id_str": "986959442985062400",
                 "indices": [
@@ -109,55 +110,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/DbJiYl7XkAAQmAd.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DbJiYl7XkAAQmAd.jpg",
-                "url": "https://t.co/6LScGzI5yf",
-                "display_url": "pic.twitter.com/6LScGzI5yf",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/986959626326495234/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
                     "large": {
-                        "w": 619,
                         "h": 409,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 619
                     },
                     "medium": {
-                        "w": 619,
                         "h": 409,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 619
                     },
                     "small": {
-                        "w": 619,
                         "h": 409,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 619
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": "Snapshot of first page of NSC 68 with the title: “A Report to the President Pursuant to the President’s Directive of January 31, 1950.”"
+                "type": "photo",
+                "url": "https://t.co/6LScGzI5yf"
             }
         ]
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 3,
+    "favorited": false,
+    "full_text": "Najeeb Halaby, aviator, FAA Administrator, and member of @StateDept and @DeptofDefense group that drafted NSC 68. https://t.co/YSPFSyemXQ #ArabAmericanHeritageMonth #FRUS https://t.co/6LScGzI5yf",
+    "geo": null,
+    "id": 986959626326495230,
+    "id_str": "986959626326495234",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 3,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

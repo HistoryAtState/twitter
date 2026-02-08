@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Apr 11 17:00:47 +0000 2016",
-    "id": 719570907245723650,
-    "id_str": "719570907245723649",
-    "full_text": "In Sept 1800, State moved from the cramped Treasury Bldg to the “Six Buildings” on Pennsylvania Ave: https://t.co/OXt3CGALIW #DCArchWeek",
-    "truncated": false,
     "display_text_range": [
         0,
         136
@@ -11,46 +9,48 @@
     "entities": {
         "hashtags": [
             {
-                "text": "DCArchWeek",
                 "indices": [
                     125,
                     136
-                ]
+                ],
+                "text": "DCArchWeek"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "https://t.co/OXt3CGALIW",
-                "expanded_url": "https://history.state.gov/departmenthistory/buildings/section21",
                 "display_url": "history.state.gov/departmenthist…",
+                "expanded_url": "https://history.state.gov/departmenthistory/buildings/section21",
                 "indices": [
                     101,
                     124
-                ]
+                ],
+                "url": "https://t.co/OXt3CGALIW"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 1,
+    "favorited": false,
+    "full_text": "In Sept 1800, State moved from the cramped Treasury Bldg to the “Six Buildings” on Pennsylvania Ave: https://t.co/OXt3CGALIW #DCArchWeek",
+    "geo": null,
+    "id": 719570907245723650,
+    "id_str": "719570907245723649",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 1,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

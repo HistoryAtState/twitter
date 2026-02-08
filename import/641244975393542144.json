@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Sep 08 13:41:30 +0000 2015",
-    "id": 641244975393542140,
-    "id_str": "641244975393542144",
-    "full_text": "Now available: Foreign Relations of the United States (#FRUS) 1915 War Supplement http://t.co/abikReG36o #WW1Tweet #Twitterstorians #WW1",
-    "truncated": false,
     "display_text_range": [
         0,
         136
@@ -11,67 +9,69 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     55,
                     60
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "WW1Tweet",
                 "indices": [
                     105,
                     114
-                ]
+                ],
+                "text": "WW1Tweet"
             },
             {
-                "text": "Twitterstorians",
                 "indices": [
                     115,
                     131
-                ]
+                ],
+                "text": "Twitterstorians"
             },
             {
-                "text": "WW1",
                 "indices": [
                     132,
                     136
-                ]
+                ],
+                "text": "WW1"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/abikReG36o",
-                "expanded_url": "http://go.usa.gov/363Rj",
                 "display_url": "go.usa.gov/363Rj",
+                "expanded_url": "http://go.usa.gov/363Rj",
                 "indices": [
                     82,
                     104
-                ]
+                ],
+                "url": "http://t.co/abikReG36o"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 1,
+    "favorited": false,
+    "full_text": "Now available: Foreign Relations of the United States (#FRUS) 1915 War Supplement http://t.co/abikReG36o #WW1Tweet #Twitterstorians #WW1",
+    "geo": null,
+    "id": 641244975393542140,
+    "id_str": "641244975393542144",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 1,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

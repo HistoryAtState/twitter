@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Apr 12 13:05:36 +0000 2016",
-    "id": 719874109598015490,
-    "id_str": "719874109598015488",
-    "full_text": "The State Dept was located in the Public Building from 1801 until the burning of DC in 1814: https://t.co/AqEILZ3VFJ #DCArchWeek",
-    "truncated": false,
     "display_text_range": [
         0,
         128
@@ -11,46 +9,48 @@
     "entities": {
         "hashtags": [
             {
-                "text": "DCArchWeek",
                 "indices": [
                     117,
                     128
-                ]
+                ],
+                "text": "DCArchWeek"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "https://t.co/AqEILZ3VFJ",
-                "expanded_url": "https://history.state.gov/departmenthistory/buildings/section22",
                 "display_url": "history.state.gov/departmenthist…",
+                "expanded_url": "https://history.state.gov/departmenthistory/buildings/section22",
                 "indices": [
                     93,
                     116
-                ]
+                ],
+                "url": "https://t.co/AqEILZ3VFJ"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "The State Dept was located in the Public Building from 1801 until the burning of DC in 1814: https://t.co/AqEILZ3VFJ #DCArchWeek",
+    "geo": null,
+    "id": 719874109598015490,
+    "id_str": "719874109598015488",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

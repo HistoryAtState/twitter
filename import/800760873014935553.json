@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Nov 21 18:00:44 +0000 2016",
-    "id": 800760873014935550,
-    "id_str": "800760873014935553",
-    "full_text": "How did entrepreneurs fare in the months prior to the establishment of People’s Republic of #China? https://t.co/aZqB5SAmcQ #GEW2016 #FRUS",
-    "truncated": false,
     "display_text_range": [
         0,
         138
@@ -11,60 +9,62 @@
     "entities": {
         "hashtags": [
             {
-                "text": "China",
                 "indices": [
                     92,
                     98
-                ]
+                ],
+                "text": "China"
             },
             {
-                "text": "GEW2016",
                 "indices": [
                     124,
                     132
-                ]
+                ],
+                "text": "GEW2016"
             },
             {
-                "text": "FRUS",
                 "indices": [
                     133,
                     138
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "https://t.co/aZqB5SAmcQ",
-                "expanded_url": "http://go.usa.gov/x8Wec",
                 "display_url": "go.usa.gov/x8Wec",
+                "expanded_url": "http://go.usa.gov/x8Wec",
                 "indices": [
                     100,
                     123
-                ]
+                ],
+                "url": "https://t.co/aZqB5SAmcQ"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "How did entrepreneurs fare in the months prior to the establishment of People’s Republic of #China? https://t.co/aZqB5SAmcQ #GEW2016 #FRUS",
+    "geo": null,
+    "id": 800760873014935550,
+    "id_str": "800760873014935553",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

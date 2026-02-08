@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Nov 11 19:02:30 +0000 2014",
-    "id": 532247008447590400,
-    "id_str": "532247008447590401",
-    "full_text": "How can you use #FRUS documents for studies on decolonization? We’ll discuss w/ @intlworldhist students tomorrow",
-    "truncated": false,
     "display_text_range": [
         0,
         112
@@ -11,46 +9,48 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     16,
                     21
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "intlworldhist",
-                "name": "Columbia-LSE MA/MSc",
                 "id": 234906483,
                 "id_str": "234906483",
                 "indices": [
                     80,
                     94
-                ]
+                ],
+                "name": "Columbia-LSE MA/MSc",
+                "screen_name": "intlworldhist"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 3,
+    "favorited": false,
+    "full_text": "How can you use #FRUS documents for studies on decolonization? We’ll discuss w/ @intlworldhist students tomorrow",
+    "geo": null,
+    "id": 532247008447590400,
+    "id_str": "532247008447590401",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 3,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 3,
-    "favorited": false,
-    "retweeted": false,
-    "lang": "en"
+    }
 }

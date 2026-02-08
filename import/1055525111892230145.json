@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Oct 25 18:22:52 +0000 2018",
-    "id": 1055525111892230140,
-    "id_str": "1055525111892230145",
-    "full_text": "President Jimmy Carter was the first U.S. president to visit Sub-Saharan #Africa.  Read more: https://t.co/2KYfLo3I52 #FRUS #twitterstorians @CarterLibrary https://t.co/KgkvqP50Y5",
-    "truncated": false,
     "display_text_range": [
         0,
         155
@@ -11,53 +9,31 @@
     "entities": {
         "hashtags": [
             {
-                "text": "Africa",
                 "indices": [
                     73,
                     80
-                ]
+                ],
+                "text": "Africa"
             },
             {
-                "text": "FRUS",
                 "indices": [
                     118,
                     123
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "twitterstorians",
                 "indices": [
                     124,
                     140
-                ]
-            }
-        ],
-        "symbols": [],
-        "user_mentions": [
-            {
-                "screen_name": "CarterLibrary",
-                "name": "Jimmy Carter Presidential Library",
-                "id": 19660388,
-                "id_str": "19660388",
-                "indices": [
-                    141,
-                    155
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "https://t.co/2KYfLo3I52",
-                "expanded_url": "https://history.state.gov/historicaldocuments/frus1977-80v17p2",
-                "display_url": "history.state.gov/historicaldocu…",
-                "indices": [
-                    94,
-                    117
-                ]
+                ],
+                "text": "twitterstorians"
             }
         ],
         "media": [
             {
+                "display_url": "pic.twitter.com/KgkvqP50Y5",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1055525111892230145/photo/1",
                 "id": 1055524940039049220,
                 "id_str": "1055524940039049216",
                 "indices": [
@@ -66,38 +42,63 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/DqX6Vy6X0AAQzsL.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DqX6Vy6X0AAQzsL.jpg",
-                "url": "https://t.co/KgkvqP50Y5",
-                "display_url": "pic.twitter.com/KgkvqP50Y5",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1055525111892230145/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
                     "large": {
-                        "w": 208,
                         "h": 256,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 208
                     },
                     "medium": {
-                        "w": 208,
                         "h": 256,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 208
                     },
                     "small": {
-                        "w": 208,
                         "h": 256,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 208
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/KgkvqP50Y5"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "history.state.gov/historicaldocu…",
+                "expanded_url": "https://history.state.gov/historicaldocuments/frus1977-80v17p2",
+                "indices": [
+                    94,
+                    117
+                ],
+                "url": "https://t.co/2KYfLo3I52"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 19660388,
+                "id_str": "19660388",
+                "indices": [
+                    141,
+                    155
+                ],
+                "name": "Jimmy Carter Presidential Library",
+                "screen_name": "CarterLibrary"
             }
         ]
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/KgkvqP50Y5",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1055525111892230145/photo/1",
+                "ext_alt_text": "Jimmy Carter portrait",
                 "id": 1055524940039049220,
                 "id_str": "1055524940039049216",
                 "indices": [
@@ -106,55 +107,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/DqX6Vy6X0AAQzsL.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DqX6Vy6X0AAQzsL.jpg",
-                "url": "https://t.co/KgkvqP50Y5",
-                "display_url": "pic.twitter.com/KgkvqP50Y5",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1055525111892230145/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
                     "large": {
-                        "w": 208,
                         "h": 256,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 208
                     },
                     "medium": {
-                        "w": 208,
                         "h": 256,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 208
                     },
                     "small": {
-                        "w": 208,
                         "h": 256,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 208
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": "Jimmy Carter portrait"
+                "type": "photo",
+                "url": "https://t.co/KgkvqP50Y5"
             }
         ]
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 31,
+    "favorited": false,
+    "full_text": "President Jimmy Carter was the first U.S. president to visit Sub-Saharan #Africa.  Read more: https://t.co/2KYfLo3I52 #FRUS #twitterstorians @CarterLibrary https://t.co/KgkvqP50Y5",
+    "geo": null,
+    "id": 1055525111892230140,
+    "id_str": "1055525111892230145",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 11,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 11,
-    "favorite_count": 31,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

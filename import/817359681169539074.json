@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Fri Jan 06 13:18:28 +0000 2017",
-    "id": 817359681169539070,
-    "id_str": "817359681169539074",
-    "full_text": "#SecState Hull tells CG @USEmbMorocco per #FDR #FourFreedoms, #NorthAfrica natives to be treated respectfully. https://t.co/4rpwSyHJ1X #FRUS",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,85 +9,87 @@
     "entities": {
         "hashtags": [
             {
-                "text": "SecState",
                 "indices": [
                     0,
                     9
-                ]
+                ],
+                "text": "SecState"
             },
             {
-                "text": "FDR",
                 "indices": [
                     42,
                     46
-                ]
+                ],
+                "text": "FDR"
             },
             {
-                "text": "FourFreedoms",
                 "indices": [
                     47,
                     60
-                ]
+                ],
+                "text": "FourFreedoms"
             },
             {
-                "text": "NorthAfrica",
                 "indices": [
                     62,
                     74
-                ]
+                ],
+                "text": "NorthAfrica"
             },
             {
-                "text": "FRUS",
                 "indices": [
                     135,
                     140
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "symbols": [],
+        "urls": [
+            {
+                "display_url": "go.usa.gov/x92W5",
+                "expanded_url": "http://go.usa.gov/x92W5",
+                "indices": [
+                    111,
+                    134
+                ],
+                "url": "https://t.co/4rpwSyHJ1X"
+            }
+        ],
         "user_mentions": [
             {
-                "screen_name": "USEmbMorocco",
-                "name": "U.S. Embassy Morocco",
                 "id": 468731306,
                 "id_str": "468731306",
                 "indices": [
                     24,
                     37
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "https://t.co/4rpwSyHJ1X",
-                "expanded_url": "http://go.usa.gov/x92W5",
-                "display_url": "go.usa.gov/x92W5",
-                "indices": [
-                    111,
-                    134
-                ]
+                ],
+                "name": "U.S. Embassy Morocco",
+                "screen_name": "USEmbMorocco"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "#SecState Hull tells CG @USEmbMorocco per #FDR #FourFreedoms, #NorthAfrica natives to be treated respectfully. https://t.co/4rpwSyHJ1X #FRUS",
+    "geo": null,
+    "id": 817359681169539070,
+    "id_str": "817359681169539074",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

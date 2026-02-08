@@ -1,20 +1,17 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Fri Oct 29 19:30:15 +0000 2021",
-    "id": 1454168722441228290,
-    "id_str": "1454168722441228292",
-    "full_text": "On Sept. 30, 1993, Powell retired from the U.S. Army as a four-star general. In his remarks, Powell concluded, “And finally, I want to thank the American people and the nation for the privilege of serving…So on this, my last hour in uniform, my heart is filled with gratitude…” https://t.co/cVfebIXtE0",
-    "truncated": false,
     "display_text_range": [
         0,
         277
     ],
     "entities": {
         "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [],
         "media": [
             {
+                "display_url": "pic.twitter.com/cVfebIXtE0",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1454168722441228292/photo/1",
                 "id": 1454168721103200260,
                 "id_str": "1454168721103200259",
                 "indices": [
@@ -23,38 +20,42 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/FC4-v1DXIAMGQ02.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/FC4-v1DXIAMGQ02.jpg",
-                "url": "https://t.co/cVfebIXtE0",
-                "display_url": "pic.twitter.com/cVfebIXtE0",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1454168722441228292/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "small": {
-                        "w": 600,
+                    "large": {
                         "h": 400,
-                        "resize": "fit"
-                    },
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
+                        "resize": "fit",
+                        "w": 600
                     },
                     "medium": {
-                        "w": 600,
                         "h": 400,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 600
                     },
-                    "large": {
-                        "w": 600,
+                    "small": {
                         "h": 400,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/cVfebIXtE0"
             }
-        ]
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/cVfebIXtE0",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1454168722441228292/photo/1",
+                "ext_alt_text": "Color photograph: “President William J. Clinton with General Colin Powell and Secretary of Defense Les Aspin at the retirement ceremony for General Powell in Fort Meyer, Virginia. The image was photographed by Ralph Alswang.” (NARA ID 3668765)",
                 "id": 1454168721103200260,
                 "id_str": "1454168721103200259",
                 "indices": [
@@ -63,55 +64,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/FC4-v1DXIAMGQ02.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/FC4-v1DXIAMGQ02.jpg",
-                "url": "https://t.co/cVfebIXtE0",
-                "display_url": "pic.twitter.com/cVfebIXtE0",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1454168722441228292/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "small": {
-                        "w": 600,
+                    "large": {
                         "h": 400,
-                        "resize": "fit"
-                    },
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
+                        "resize": "fit",
+                        "w": 600
                     },
                     "medium": {
-                        "w": 600,
                         "h": 400,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 600
                     },
-                    "large": {
-                        "w": 600,
+                    "small": {
                         "h": 400,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": "Color photograph: “President William J. Clinton with General Colin Powell and Secretary of Defense Les Aspin at the retirement ceremony for General Powell in Fort Meyer, Virginia. The image was photographed by Ralph Alswang.” (NARA ID 3668765)"
+                "type": "photo",
+                "url": "https://t.co/cVfebIXtE0"
             }
         ]
     },
-    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "favorite_count": 8,
+    "favorited": false,
+    "full_text": "On Sept. 30, 1993, Powell retired from the U.S. Army as a four-star general. In his remarks, Powell concluded, “And finally, I want to thank the American people and the nation for the privilege of serving…So on this, my last hour in uniform, my heart is filled with gratitude…” https://t.co/cVfebIXtE0",
+    "geo": null,
+    "id": 1454168722441228290,
+    "id_str": "1454168722441228292",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 8,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

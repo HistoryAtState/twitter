@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Wed Oct 23 20:30:06 +0000 2019",
-    "id": 1187103930133766140,
-    "id_str": "1187103930133766144",
-    "full_text": "What advice did President Ford’s outgoing National Security Council staff give President Carter’s incoming team in 1977? Find out in the newly released Foreign Relations of the United States volume! https://t.co/kwvFKa02KO #FRUS @Ford_Library @CarterLibrary",
-    "truncated": false,
     "display_text_range": [
         0,
         257
@@ -11,67 +9,69 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     223,
                     228
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "symbols": [],
+        "urls": [
+            {
+                "display_url": "history.state.gov/historicaldocu…",
+                "expanded_url": "https://history.state.gov/historicaldocuments/frus1969-76ve09p2/d30",
+                "indices": [
+                    199,
+                    222
+                ],
+                "url": "https://t.co/kwvFKa02KO"
+            }
+        ],
         "user_mentions": [
             {
-                "screen_name": "Ford_Library",
-                "name": "Gerald R. Ford Presidential Library",
                 "id": 4236957022,
                 "id_str": "4236957022",
                 "indices": [
                     229,
                     242
-                ]
+                ],
+                "name": "Gerald R. Ford Presidential Library",
+                "screen_name": "Ford_Library"
             },
             {
-                "screen_name": "CarterLibrary",
-                "name": "Jimmy Carter Presidential Library",
                 "id": 19660388,
                 "id_str": "19660388",
                 "indices": [
                     243,
                     257
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "https://t.co/kwvFKa02KO",
-                "expanded_url": "https://history.state.gov/historicaldocuments/frus1969-76ve09p2/d30",
-                "display_url": "history.state.gov/historicaldocu…",
-                "indices": [
-                    199,
-                    222
-                ]
+                ],
+                "name": "Jimmy Carter Presidential Library",
+                "screen_name": "CarterLibrary"
             }
         ]
     },
-    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "favorite_count": 16,
+    "favorited": false,
+    "full_text": "What advice did President Ford’s outgoing National Security Council staff give President Carter’s incoming team in 1977? Find out in the newly released Foreign Relations of the United States volume! https://t.co/kwvFKa02KO #FRUS @Ford_Library @CarterLibrary",
+    "geo": null,
+    "id": 1187103930133766140,
+    "id_str": "1187103930133766144",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 6,
+    "retweeted": false,
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 16,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue May 28 12:44:19 +0000 2013",
-    "id": 339361492161925120,
-    "id_str": "339361492161925120",
-    "full_text": "RT @StateDept: Do you have suggestions for APIs you'd like @StateDept to make available? Share your ideas here: http://t.co/BHozU8cX5V #Dig…",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,60 +9,61 @@
     "entities": {
         "hashtags": [],
         "symbols": [],
+        "urls": [
+            {
+                "display_url": "go.usa.gov/bY6R",
+                "expanded_url": "http://go.usa.gov/bY6R",
+                "indices": [
+                    112,
+                    134
+                ],
+                "url": "http://t.co/BHozU8cX5V"
+            }
+        ],
         "user_mentions": [
             {
-                "screen_name": "StateDept",
-                "name": "Department of State",
                 "id": 9624742,
                 "id_str": "9624742",
                 "indices": [
                     3,
                     13
-                ]
+                ],
+                "name": "Department of State",
+                "screen_name": "StateDept"
             },
             {
-                "screen_name": "StateDept",
-                "name": "Department of State",
                 "id": 9624742,
                 "id_str": "9624742",
                 "indices": [
                     59,
                     69
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "http://t.co/BHozU8cX5V",
-                "expanded_url": "http://go.usa.gov/bY6R",
-                "display_url": "go.usa.gov/bY6R",
-                "indices": [
-                    112,
-                    134
-                ]
+                ],
+                "name": "Department of State",
+                "screen_name": "StateDept"
             }
         ]
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "RT @StateDept: Do you have suggestions for APIs you'd like @StateDept to make available? Share your ideas here: http://t.co/BHozU8cX5V #Dig…",
+    "geo": null,
+    "id": 339361492161925120,
+    "id_str": "339361492161925120",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "possibly_sensitive": false,
+    "retweet_count": 38,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Mon May 27 03:37:40 +0000 2013",
-        "id": 338861534849691650,
-        "id_str": "338861534849691650",
-        "full_text": "Do you have suggestions for APIs you'd like @StateDept to make available? Share your ideas here: http://t.co/BHozU8cX5V #DigitalGov",
-        "truncated": false,
         "display_text_range": [
             0,
             131
@@ -72,65 +71,66 @@
         "entities": {
             "hashtags": [
                 {
-                    "text": "DigitalGov",
                     "indices": [
                         120,
                         131
-                    ]
+                    ],
+                    "text": "DigitalGov"
                 }
             ],
             "symbols": [],
+            "urls": [
+                {
+                    "display_url": "go.usa.gov/bY6R",
+                    "expanded_url": "http://go.usa.gov/bY6R",
+                    "indices": [
+                        97,
+                        119
+                    ],
+                    "url": "http://t.co/BHozU8cX5V"
+                }
+            ],
             "user_mentions": [
                 {
-                    "screen_name": "StateDept",
-                    "name": "Department of State",
                     "id": 9624742,
                     "id_str": "9624742",
                     "indices": [
                         44,
                         54
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "http://t.co/BHozU8cX5V",
-                    "expanded_url": "http://go.usa.gov/bY6R",
-                    "display_url": "go.usa.gov/bY6R",
-                    "indices": [
-                        97,
-                        119
-                    ]
+                    ],
+                    "name": "Department of State",
+                    "screen_name": "StateDept"
                 }
             ]
         },
-        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+        "favorite_count": 14,
+        "favorited": false,
+        "full_text": "Do you have suggestions for APIs you'd like @StateDept to make available? Share your ideas here: http://t.co/BHozU8cX5V #DigitalGov",
+        "geo": null,
+        "id": 338861534849691650,
+        "id_str": "338861534849691650",
+        "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 38,
+        "retweeted": true,
+        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+        "truncated": false,
         "user": {
             "id": 9624742,
             "id_str": "9624742"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 38,
-        "favorite_count": 14,
-        "favorited": false,
-        "retweeted": true,
-        "possibly_sensitive": false,
-        "lang": "en"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 38,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": true,
-    "possibly_sensitive": false,
-    "lang": "en"
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

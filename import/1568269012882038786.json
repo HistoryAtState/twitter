@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Fri Sep 09 16:04:04 +0000 2022",
-    "id": 1568269012882038780,
-    "id_str": "1568269012882038786",
-    "full_text": "The Office of the Historian releases Foreign Relations, 1981–1988, Volume I, Foundations of Foreign Policy:\nhttps://t.co/153bRyiDHq\n\n#FRUS #FRUSRelease #twitterstorians @Reagan_Library https://t.co/UGuT8JN65T",
-    "truncated": false,
     "display_text_range": [
         0,
         184
@@ -11,53 +9,31 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     133,
                     138
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "FRUSRelease",
                 "indices": [
                     139,
                     151
-                ]
+                ],
+                "text": "FRUSRelease"
             },
             {
-                "text": "twitterstorians",
                 "indices": [
                     152,
                     168
-                ]
-            }
-        ],
-        "symbols": [],
-        "user_mentions": [
-            {
-                "screen_name": "Reagan_Library",
-                "name": "RonaldReaganLibrary",
-                "id": 394351710,
-                "id_str": "394351710",
-                "indices": [
-                    169,
-                    184
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "https://t.co/153bRyiDHq",
-                "expanded_url": "http://ow.ly/lqpo50KBKrv",
-                "display_url": "ow.ly/lqpo50KBKrv",
-                "indices": [
-                    108,
-                    131
-                ]
+                ],
+                "text": "twitterstorians"
             }
         ],
         "media": [
             {
+                "display_url": "pic.twitter.com/UGuT8JN65T",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1568269012882038786/photo/1",
                 "id": 1568269011695112190,
                 "id_str": "1568269011695112194",
                 "indices": [
@@ -66,38 +42,63 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/FcOcW2pXEAI2aFh.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/FcOcW2pXEAI2aFh.jpg",
-                "url": "https://t.co/UGuT8JN65T",
-                "display_url": "pic.twitter.com/UGuT8JN65T",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1568269012882038786/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
                     "large": {
-                        "w": 400,
                         "h": 600,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 400
                     },
                     "medium": {
-                        "w": 400,
                         "h": 600,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 400
                     },
                     "small": {
-                        "w": 400,
                         "h": 600,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 400
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/UGuT8JN65T"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "ow.ly/lqpo50KBKrv",
+                "expanded_url": "http://ow.ly/lqpo50KBKrv",
+                "indices": [
+                    108,
+                    131
+                ],
+                "url": "https://t.co/153bRyiDHq"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 394351710,
+                "id_str": "394351710",
+                "indices": [
+                    169,
+                    184
+                ],
+                "name": "RonaldReaganLibrary",
+                "screen_name": "Reagan_Library"
             }
         ]
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/UGuT8JN65T",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1568269012882038786/photo/1",
+                "ext_alt_text": "Volume Cover (red background with gold lettering): Foreign Relations of the United States, 1981–88, Volume I, Foundations of Foreign Policy | Seal of the U.S. Department of State | Department of State, Washington",
                 "id": 1568269011695112190,
                 "id_str": "1568269011695112194",
                 "indices": [
@@ -106,55 +107,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/FcOcW2pXEAI2aFh.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/FcOcW2pXEAI2aFh.jpg",
-                "url": "https://t.co/UGuT8JN65T",
-                "display_url": "pic.twitter.com/UGuT8JN65T",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1568269012882038786/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
                     "large": {
-                        "w": 400,
                         "h": 600,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 400
                     },
                     "medium": {
-                        "w": 400,
                         "h": 600,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 400
                     },
                     "small": {
-                        "w": 400,
                         "h": 600,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 400
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": "Volume Cover (red background with gold lettering): Foreign Relations of the United States, 1981–88, Volume I, Foundations of Foreign Policy | Seal of the U.S. Department of State | Department of State, Washington"
+                "type": "photo",
+                "url": "https://t.co/UGuT8JN65T"
             }
         ]
     },
-    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "favorite_count": 120,
+    "favorited": false,
+    "full_text": "The Office of the Historian releases Foreign Relations, 1981–1988, Volume I, Foundations of Foreign Policy:\nhttps://t.co/153bRyiDHq\n\n#FRUS #FRUSRelease #twitterstorians @Reagan_Library https://t.co/UGuT8JN65T",
+    "geo": null,
+    "id": 1568269012882038780,
+    "id_str": "1568269012882038786",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 49,
+    "retweeted": false,
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 49,
-    "favorite_count": 120,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

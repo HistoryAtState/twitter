@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Sep 25 12:05:17 +0000 2014",
-    "id": 515109784065163260,
-    "id_str": "515109784065163264",
-    "full_text": "Military attache @USEmbassyFrance 1914 Spencer Cosby had many talents http://t.co/TRBtAfUwow http://t.co/Oiy4MIffNs http://t.co/pROy8nTmTj",
-    "truncated": false,
     "display_text_range": [
         0,
         138
@@ -11,67 +9,69 @@
     "entities": {
         "hashtags": [],
         "symbols": [],
+        "urls": [
+            {
+                "display_url": "go.usa.gov/p2JJ",
+                "expanded_url": "http://go.usa.gov/p2JJ",
+                "indices": [
+                    70,
+                    92
+                ],
+                "url": "http://t.co/TRBtAfUwow"
+            },
+            {
+                "display_url": "go.usa.gov/pKZx",
+                "expanded_url": "http://go.usa.gov/pKZx",
+                "indices": [
+                    93,
+                    115
+                ],
+                "url": "http://t.co/Oiy4MIffNs"
+            },
+            {
+                "display_url": "ow.ly/i/6Ynsb",
+                "expanded_url": "http://ow.ly/i/6Ynsb",
+                "indices": [
+                    116,
+                    138
+                ],
+                "url": "http://t.co/pROy8nTmTj"
+            }
+        ],
         "user_mentions": [
             {
-                "screen_name": "USEmbassyFrance",
-                "name": "U.S. Embassy France",
                 "id": 72814599,
                 "id_str": "72814599",
                 "indices": [
                     17,
                     33
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "http://t.co/TRBtAfUwow",
-                "expanded_url": "http://go.usa.gov/p2JJ",
-                "display_url": "go.usa.gov/p2JJ",
-                "indices": [
-                    70,
-                    92
-                ]
-            },
-            {
-                "url": "http://t.co/Oiy4MIffNs",
-                "expanded_url": "http://go.usa.gov/pKZx",
-                "display_url": "go.usa.gov/pKZx",
-                "indices": [
-                    93,
-                    115
-                ]
-            },
-            {
-                "url": "http://t.co/pROy8nTmTj",
-                "expanded_url": "http://ow.ly/i/6Ynsb",
-                "display_url": "ow.ly/i/6Ynsb",
-                "indices": [
-                    116,
-                    138
-                ]
+                ],
+                "name": "U.S. Embassy France",
+                "screen_name": "USEmbassyFrance"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "Military attache @USEmbassyFrance 1914 Spencer Cosby had many talents http://t.co/TRBtAfUwow http://t.co/Oiy4MIffNs http://t.co/pROy8nTmTj",
+    "geo": null,
+    "id": 515109784065163260,
+    "id_str": "515109784065163264",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

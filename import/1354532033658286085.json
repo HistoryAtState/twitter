@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Wed Jan 27 20:49:37 +0000 2021",
-    "id": 1354532033658286080,
-    "id_str": "1354532033658286085",
-    "full_text": "RT @NMADmuseum: Today is International #HolocaustRemembranceDay. This suitcase in our collection was used by Holocaust survivor and U.S. Am…",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,48 +9,48 @@
     "entities": {
         "hashtags": [
             {
-                "text": "HolocaustRemembranceDay",
                 "indices": [
                     39,
                     63
-                ]
+                ],
+                "text": "HolocaustRemembranceDay"
             }
         ],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "NMADmuseum",
-                "name": "National Museum of American Diplomacy",
                 "id": 2648849144,
                 "id_str": "2648849144",
                 "indices": [
                     3,
                     14
-                ]
+                ],
+                "name": "National Museum of American Diplomacy",
+                "screen_name": "NMADmuseum"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": true,
+    "full_text": "RT @NMADmuseum: Today is International #HolocaustRemembranceDay. This suitcase in our collection was used by Holocaust survivor and U.S. Am…",
+    "geo": null,
+    "id": 1354532033658286080,
+    "id_str": "1354532033658286085",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "retweet_count": 5,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Wed Jan 27 14:01:35 +0000 2021",
-        "id": 1354429349391429630,
-        "id_str": "1354429349391429632",
-        "full_text": "Today is International #HolocaustRemembranceDay. This suitcase in our collection was used by Holocaust survivor and U.S. Ambassador Robert G. Neumann when he immigrated to the U.S. Learn more about his legacy.\nhttps://t.co/lripff8eb3",
-        "truncated": false,
         "display_text_range": [
             0,
             233
@@ -60,53 +58,55 @@
         "entities": {
             "hashtags": [
                 {
-                    "text": "HolocaustRemembranceDay",
                     "indices": [
                         23,
                         47
-                    ]
+                    ],
+                    "text": "HolocaustRemembranceDay"
                 }
             ],
             "symbols": [],
-            "user_mentions": [],
             "urls": [
                 {
-                    "url": "https://t.co/lripff8eb3",
-                    "expanded_url": "https://diplomacy.state.gov/artifact-collection-highlights/holocaust-survivor-ambassador-neumann/",
                     "display_url": "diplomacy.state.gov/artifact-colle…",
+                    "expanded_url": "https://diplomacy.state.gov/artifact-collection-highlights/holocaust-survivor-ambassador-neumann/",
                     "indices": [
                         210,
                         233
-                    ]
+                    ],
+                    "url": "https://t.co/lripff8eb3"
                 }
-            ]
+            ],
+            "user_mentions": []
         },
-        "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+        "favorite_count": 12,
+        "favorited": true,
+        "full_text": "Today is International #HolocaustRemembranceDay. This suitcase in our collection was used by Holocaust survivor and U.S. Ambassador Robert G. Neumann when he immigrated to the U.S. Learn more about his legacy.\nhttps://t.co/lripff8eb3",
+        "geo": null,
+        "id": 1354429349391429630,
+        "id_str": "1354429349391429632",
+        "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 5,
+        "retweeted": true,
+        "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+        "truncated": false,
         "user": {
             "id": 2648849144,
             "id_str": "2648849144"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 5,
-        "favorite_count": 12,
-        "favorited": true,
-        "retweeted": true,
-        "possibly_sensitive": false,
-        "lang": "en"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 5,
-    "favorite_count": 0,
-    "favorited": true,
-    "retweeted": true,
-    "lang": "en"
+    "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

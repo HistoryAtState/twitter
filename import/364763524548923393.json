@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Aug 06 15:02:55 +0000 2013",
-    "id": 364763524548923390,
-    "id_str": "364763524548923393",
-    "full_text": "#OTD 1958 #SecState Dulles was in Rio de Janeiro, Brazil, for an official visit http://t.co/nS436a8vGr",
-    "truncated": false,
     "display_text_range": [
         0,
         102
@@ -11,53 +9,55 @@
     "entities": {
         "hashtags": [
             {
-                "text": "OTD",
                 "indices": [
                     0,
                     4
-                ]
+                ],
+                "text": "OTD"
             },
             {
-                "text": "SecState",
                 "indices": [
                     10,
                     19
-                ]
+                ],
+                "text": "SecState"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/nS436a8vGr",
-                "expanded_url": "http://go.usa.gov/jNm3",
                 "display_url": "go.usa.gov/jNm3",
+                "expanded_url": "http://go.usa.gov/jNm3",
                 "indices": [
                     80,
                     102
-                ]
+                ],
+                "url": "http://t.co/nS436a8vGr"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "#OTD 1958 #SecState Dulles was in Rio de Janeiro, Brazil, for an official visit http://t.co/nS436a8vGr",
+    "geo": null,
+    "id": 364763524548923390,
+    "id_str": "364763524548923393",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Dec 05 17:08:10 +0000 2013",
-    "id": 408643976158543870,
-    "id_str": "408643976158543872",
-    "full_text": "RT @usembvienna: On Dec. 5, 1996 Pres. @billclinton nominated @madeleine Albright to be 1st woman Sec of @StateDept http://t.co/enc2CnAW0F …",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,80 +9,81 @@
     "entities": {
         "hashtags": [],
         "symbols": [],
+        "urls": [
+            {
+                "display_url": "1.usa.gov/1bhtU4B",
+                "expanded_url": "http://1.usa.gov/1bhtU4B",
+                "indices": [
+                    116,
+                    138
+                ],
+                "url": "http://t.co/enc2CnAW0F"
+            }
+        ],
         "user_mentions": [
             {
-                "screen_name": "usembvienna",
-                "name": "U.S. Embassy Vienna",
                 "id": 86029229,
                 "id_str": "86029229",
                 "indices": [
                     3,
                     15
-                ]
+                ],
+                "name": "U.S. Embassy Vienna",
+                "screen_name": "usembvienna"
             },
             {
-                "screen_name": "BillClinton",
-                "name": "Bill Clinton",
                 "id": 1330457336,
                 "id_str": "1330457336",
                 "indices": [
                     39,
                     51
-                ]
+                ],
+                "name": "Bill Clinton",
+                "screen_name": "BillClinton"
             },
             {
-                "screen_name": "madeleine",
-                "name": "Madeleine Albright",
                 "id": 1707321486,
                 "id_str": "1707321486",
                 "indices": [
                     62,
                     72
-                ]
+                ],
+                "name": "Madeleine Albright",
+                "screen_name": "madeleine"
             },
             {
-                "screen_name": "StateDept",
-                "name": "Department of State",
                 "id": 9624742,
                 "id_str": "9624742",
                 "indices": [
                     105,
                     115
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "http://t.co/enc2CnAW0F",
-                "expanded_url": "http://1.usa.gov/1bhtU4B",
-                "display_url": "1.usa.gov/1bhtU4B",
-                "indices": [
-                    116,
-                    138
-                ]
+                ],
+                "name": "Department of State",
+                "screen_name": "StateDept"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "RT @usembvienna: On Dec. 5, 1996 Pres. @billclinton nominated @madeleine Albright to be 1st woman Sec of @StateDept http://t.co/enc2CnAW0F …",
+    "geo": null,
+    "id": 408643976158543870,
+    "id_str": "408643976158543872",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Thu Dec 05 13:10:38 +0000 2013",
-        "id": 408584195637002240,
-        "id_str": "408584195637002242",
-        "full_text": "On Dec. 5, 1996 Pres. @billclinton nominated @madeleine Albright to be 1st woman Sec of @StateDept http://t.co/enc2CnAW0F @HistoryAtState",
-        "truncated": false,
         "display_text_range": [
             0,
             137
@@ -92,87 +91,88 @@
         "entities": {
             "hashtags": [],
             "symbols": [],
+            "urls": [
+                {
+                    "display_url": "1.usa.gov/1bhtU4B",
+                    "expanded_url": "http://1.usa.gov/1bhtU4B",
+                    "indices": [
+                        99,
+                        121
+                    ],
+                    "url": "http://t.co/enc2CnAW0F"
+                }
+            ],
             "user_mentions": [
                 {
-                    "screen_name": "BillClinton",
-                    "name": "Bill Clinton",
                     "id": 1330457336,
                     "id_str": "1330457336",
                     "indices": [
                         22,
                         34
-                    ]
+                    ],
+                    "name": "Bill Clinton",
+                    "screen_name": "BillClinton"
                 },
                 {
-                    "screen_name": "madeleine",
-                    "name": "Madeleine Albright",
                     "id": 1707321486,
                     "id_str": "1707321486",
                     "indices": [
                         45,
                         55
-                    ]
+                    ],
+                    "name": "Madeleine Albright",
+                    "screen_name": "madeleine"
                 },
                 {
-                    "screen_name": "StateDept",
-                    "name": "Department of State",
                     "id": 9624742,
                     "id_str": "9624742",
                     "indices": [
                         88,
                         98
-                    ]
+                    ],
+                    "name": "Department of State",
+                    "screen_name": "StateDept"
                 },
                 {
-                    "screen_name": "HistoryAtState",
-                    "name": "HistoryAtState",
                     "id": 586570880,
                     "id_str": "586570880",
                     "indices": [
                         122,
                         137
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "http://t.co/enc2CnAW0F",
-                    "expanded_url": "http://1.usa.gov/1bhtU4B",
-                    "display_url": "1.usa.gov/1bhtU4B",
-                    "indices": [
-                        99,
-                        121
-                    ]
+                    ],
+                    "name": "HistoryAtState",
+                    "screen_name": "HistoryAtState"
                 }
             ]
         },
-        "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+        "favorite_count": 1,
+        "favorited": false,
+        "full_text": "On Dec. 5, 1996 Pres. @billclinton nominated @madeleine Albright to be 1st woman Sec of @StateDept http://t.co/enc2CnAW0F @HistoryAtState",
+        "geo": null,
+        "id": 408584195637002240,
+        "id_str": "408584195637002242",
+        "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 1,
+        "retweeted": true,
+        "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+        "truncated": false,
         "user": {
             "id": 86029229,
             "id_str": "86029229"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 1,
-        "favorite_count": 1,
-        "favorited": false,
-        "retweeted": true,
-        "possibly_sensitive": false,
-        "lang": "en"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": true,
-    "possibly_sensitive": false,
-    "lang": "en"
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

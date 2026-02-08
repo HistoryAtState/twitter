@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Fri Oct 25 18:15:04 +0000 2019",
-    "id": 1187794722355662850,
-    "id_str": "1187794722355662850",
-    "full_text": "RT @FSIatState: During WWI, U.S. diplomats serving in Europe helped 100,000+ U.S. citizens escape the fighting and return home, facilitated…",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,40 +9,40 @@
     "entities": {
         "hashtags": [],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "FSIatState",
-                "name": "Foreign Service Institute",
                 "id": 958044239576948740,
                 "id_str": "958044239576948736",
                 "indices": [
                     3,
                     14
-                ]
+                ],
+                "name": "Foreign Service Institute",
+                "screen_name": "FSIatState"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "RT @FSIatState: During WWI, U.S. diplomats serving in Europe helped 100,000+ U.S. citizens escape the fighting and return home, facilitated…",
+    "geo": null,
+    "id": 1187794722355662850,
+    "id_str": "1187794722355662850",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "retweet_count": 4,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Thu Oct 24 19:30:24 +0000 2019",
-        "id": 1187451290567266300,
-        "id_str": "1187451290567266304",
-        "full_text": "During WWI, U.S. diplomats serving in Europe helped 100,000+ U.S. citizens escape the fighting and return home, facilitated the development and operation of hospitals, and mitigated disputes for prisoners of war. Learn about #HeroesofUSDiplomacy here: https://t.co/4D5leJ3WJC.",
-        "truncated": false,
         "display_text_range": [
             0,
             276
@@ -52,53 +50,55 @@
         "entities": {
             "hashtags": [
                 {
-                    "text": "HeroesofUSDiplomacy",
                     "indices": [
                         225,
                         245
-                    ]
+                    ],
+                    "text": "HeroesofUSDiplomacy"
                 }
             ],
             "symbols": [],
-            "user_mentions": [],
             "urls": [
                 {
-                    "url": "https://t.co/4D5leJ3WJC",
-                    "expanded_url": "http://go.usa.gov/xp3FN",
                     "display_url": "go.usa.gov/xp3FN",
+                    "expanded_url": "http://go.usa.gov/xp3FN",
                     "indices": [
                         252,
                         275
-                    ]
+                    ],
+                    "url": "https://t.co/4D5leJ3WJC"
                 }
-            ]
+            ],
+            "user_mentions": []
         },
-        "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+        "favorite_count": 9,
+        "favorited": false,
+        "full_text": "During WWI, U.S. diplomats serving in Europe helped 100,000+ U.S. citizens escape the fighting and return home, facilitated the development and operation of hospitals, and mitigated disputes for prisoners of war. Learn about #HeroesofUSDiplomacy here: https://t.co/4D5leJ3WJC.",
+        "geo": null,
+        "id": 1187451290567266300,
+        "id_str": "1187451290567266304",
+        "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 4,
+        "retweeted": true,
+        "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+        "truncated": false,
         "user": {
             "id": 958044239576948740,
             "id_str": "958044239576948736"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 4,
-        "favorite_count": 9,
-        "favorited": false,
-        "retweeted": true,
-        "possibly_sensitive": false,
-        "lang": "en"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": true,
-    "lang": "en"
+    "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

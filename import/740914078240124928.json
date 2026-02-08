@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Jun 09 14:30:56 +0000 2016",
-    "id": 740914078240124930,
-    "id_str": "740914078240124928",
-    "full_text": "Amb. Reinhardt provides an overview of problems facing USIA in 1977 and efforts to resolve them—https://t.co/M3qyu0co3X #twitterstorians",
-    "truncated": false,
     "display_text_range": [
         0,
         136
@@ -11,46 +9,48 @@
     "entities": {
         "hashtags": [
             {
-                "text": "twitterstorians",
                 "indices": [
                     120,
                     136
-                ]
+                ],
+                "text": "twitterstorians"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "https://t.co/M3qyu0co3X",
-                "expanded_url": "http://go.usa.gov/cutNW",
                 "display_url": "go.usa.gov/cutNW",
+                "expanded_url": "http://go.usa.gov/cutNW",
                 "indices": [
                     96,
                     119
-                ]
+                ],
+                "url": "https://t.co/M3qyu0co3X"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "Amb. Reinhardt provides an overview of problems facing USIA in 1977 and efforts to resolve them—https://t.co/M3qyu0co3X #twitterstorians",
+    "geo": null,
+    "id": 740914078240124930,
+    "id_str": "740914078240124928",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

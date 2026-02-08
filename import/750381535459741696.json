@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Jul 05 17:31:14 +0000 2016",
-    "id": 750381535459741700,
-    "id_str": "750381535459741696",
-    "full_text": "We need history students skilled at finding primary sources for our online database of U.S. Ambassadors: https://t.co/EzP7QsMApd",
-    "truncated": false,
     "display_text_range": [
         0,
         128
@@ -11,38 +9,40 @@
     "entities": {
         "hashtags": [],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "https://t.co/EzP7QsMApd",
-                "expanded_url": "http://vsfs.state.gov/projects/view/108",
                 "display_url": "vsfs.state.gov/projects/view/…",
+                "expanded_url": "http://vsfs.state.gov/projects/view/108",
                 "indices": [
                     105,
                     128
-                ]
+                ],
+                "url": "https://t.co/EzP7QsMApd"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 9,
+    "favorited": false,
+    "full_text": "We need history students skilled at finding primary sources for our online database of U.S. Ambassadors: https://t.co/EzP7QsMApd",
+    "geo": null,
+    "id": 750381535459741700,
+    "id_str": "750381535459741696",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 11,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 11,
-    "favorite_count": 9,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

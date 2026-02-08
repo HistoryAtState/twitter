@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Sep 12 22:15:18 +0000 2022",
-    "id": 1569449601681309700,
-    "id_str": "1569449601681309696",
-    "full_text": "Excerpted from the 📽️ @USNatArchives \nTo view the entire June 12, 1987, Brandenburg Gate speech, visit: https://t.co/4X9kCVjMay\n\n(2/2)",
-    "truncated": false,
     "display_text_range": [
         0,
         134
@@ -11,49 +9,51 @@
     "entities": {
         "hashtags": [],
         "symbols": [],
+        "urls": [
+            {
+                "display_url": "ow.ly/E27j50KCYF9",
+                "expanded_url": "http://ow.ly/E27j50KCYF9",
+                "indices": [
+                    104,
+                    127
+                ],
+                "url": "https://t.co/4X9kCVjMay"
+            }
+        ],
         "user_mentions": [
             {
-                "screen_name": "USNatArchives",
-                "name": "US National Archives",
                 "id": 101802390,
                 "id_str": "101802390",
                 "indices": [
                     22,
                     36
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "https://t.co/4X9kCVjMay",
-                "expanded_url": "http://ow.ly/E27j50KCYF9",
-                "display_url": "ow.ly/E27j50KCYF9",
-                "indices": [
-                    104,
-                    127
-                ]
+                ],
+                "name": "US National Archives",
+                "screen_name": "USNatArchives"
             }
         ]
     },
-    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "favorite_count": 1,
+    "favorited": false,
+    "full_text": "Excerpted from the 📽️ @USNatArchives \nTo view the entire June 12, 1987, Brandenburg Gate speech, visit: https://t.co/4X9kCVjMay\n\n(2/2)",
+    "geo": null,
+    "id": 1569449601681309700,
+    "id_str": "1569449601681309696",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 1,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Fri May 11 13:05:09 +0000 2018",
-    "id": 994926384505065470,
-    "id_str": "994926384505065473",
-    "full_text": "On December 21, 1914, @StateDept regulations required photographs to be submitted with passport applications for the first time. https://t.co/Mno5aaZ3Fm #twitterstorians @TravelGov",
-    "truncated": false,
     "display_text_range": [
         0,
         180
@@ -11,67 +9,69 @@
     "entities": {
         "hashtags": [
             {
-                "text": "twitterstorians",
                 "indices": [
                     153,
                     169
-                ]
+                ],
+                "text": "twitterstorians"
             }
         ],
         "symbols": [],
+        "urls": [
+            {
+                "display_url": "history.state.gov/departmenthist…",
+                "expanded_url": "https://history.state.gov/departmenthistory/timeline/1910-1919",
+                "indices": [
+                    129,
+                    152
+                ],
+                "url": "https://t.co/Mno5aaZ3Fm"
+            }
+        ],
         "user_mentions": [
             {
-                "screen_name": "StateDept",
-                "name": "Department of State",
                 "id": 9624742,
                 "id_str": "9624742",
                 "indices": [
                     22,
                     32
-                ]
+                ],
+                "name": "Department of State",
+                "screen_name": "StateDept"
             },
             {
-                "screen_name": "TravelGov",
-                "name": "Travel - State Dept",
                 "id": 15649433,
                 "id_str": "15649433",
                 "indices": [
                     170,
                     180
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "https://t.co/Mno5aaZ3Fm",
-                "expanded_url": "https://history.state.gov/departmenthistory/timeline/1910-1919",
-                "display_url": "history.state.gov/departmenthist…",
-                "indices": [
-                    129,
-                    152
-                ]
+                ],
+                "name": "Travel - State Dept",
+                "screen_name": "TravelGov"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 1,
+    "favorited": false,
+    "full_text": "On December 21, 1914, @StateDept regulations required photographs to be submitted with passport applications for the first time. https://t.co/Mno5aaZ3Fm #twitterstorians @TravelGov",
+    "geo": null,
+    "id": 994926384505065470,
+    "id_str": "994926384505065473",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 1,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

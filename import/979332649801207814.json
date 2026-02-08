@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Mar 29 12:21:13 +0000 2018",
-    "id": 979332649801207810,
-    "id_str": "979332649801207814",
-    "full_text": "For this year’s #FrederickDouglass bicentennial, see our newly-digital #FRUS offerings including correspondence by and to Frederick Douglass as U.S. Minister Resident to #Haiti and Chargé d’Affaires to #DominicanRepublic:\nhttps://t.co/cIOPZ7zQk2 @FredDouglassNPS https://t.co/48f4F3xnBB",
-    "truncated": false,
     "display_text_range": [
         0,
         262
@@ -11,60 +9,38 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FrederickDouglass",
                 "indices": [
                     16,
                     34
-                ]
+                ],
+                "text": "FrederickDouglass"
             },
             {
-                "text": "FRUS",
                 "indices": [
                     71,
                     76
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "Haiti",
                 "indices": [
                     170,
                     176
-                ]
+                ],
+                "text": "Haiti"
             },
             {
-                "text": "DominicanRepublic",
                 "indices": [
                     202,
                     220
-                ]
-            }
-        ],
-        "symbols": [],
-        "user_mentions": [
-            {
-                "screen_name": "FredDouglassNPS",
-                "name": "Frederick Douglass",
-                "id": 2615549702,
-                "id_str": "2615549702",
-                "indices": [
-                    246,
-                    262
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "https://t.co/cIOPZ7zQk2",
-                "expanded_url": "https://go.usa.gov/xQaMH",
-                "display_url": "go.usa.gov/xQaMH",
-                "indices": [
-                    222,
-                    245
-                ]
+                ],
+                "text": "DominicanRepublic"
             }
         ],
         "media": [
             {
+                "display_url": "pic.twitter.com/48f4F3xnBB",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/979332649801207814/photo/1",
                 "id": 979328308084174850,
                 "id_str": "979328308084174848",
                 "indices": [
@@ -73,38 +49,63 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/DZdF6FHXcAAv8CA.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DZdF6FHXcAAv8CA.jpg",
-                "url": "https://t.co/48f4F3xnBB",
-                "display_url": "pic.twitter.com/48f4F3xnBB",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/979332649801207814/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "small": {
-                        "w": 400,
-                        "h": 400,
-                        "resize": "fit"
-                    },
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
                     "large": {
-                        "w": 400,
                         "h": 400,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 400
                     },
                     "medium": {
-                        "w": 400,
                         "h": 400,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 400
+                    },
+                    "small": {
+                        "h": 400,
+                        "resize": "fit",
+                        "w": 400
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/48f4F3xnBB"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "go.usa.gov/xQaMH",
+                "expanded_url": "https://go.usa.gov/xQaMH",
+                "indices": [
+                    222,
+                    245
+                ],
+                "url": "https://t.co/cIOPZ7zQk2"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 2615549702,
+                "id_str": "2615549702",
+                "indices": [
+                    246,
+                    262
+                ],
+                "name": "Frederick Douglass",
+                "screen_name": "FredDouglassNPS"
             }
         ]
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/48f4F3xnBB",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/979332649801207814/photo/1",
+                "ext_alt_text": "Portrait of Frederick Douglass, shaded purple. A light purple info box reads, “Frederick Douglass (1818–1895), U.S. Minister Resident and Consul General to Haiti and U.S. Chargé d’Affaires at Santo Domingo 1889–1891”",
                 "id": 979328308084174850,
                 "id_str": "979328308084174848",
                 "indices": [
@@ -113,55 +114,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/DZdF6FHXcAAv8CA.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DZdF6FHXcAAv8CA.jpg",
-                "url": "https://t.co/48f4F3xnBB",
-                "display_url": "pic.twitter.com/48f4F3xnBB",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/979332649801207814/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "small": {
-                        "w": 400,
-                        "h": 400,
-                        "resize": "fit"
-                    },
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
                     "large": {
-                        "w": 400,
                         "h": 400,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 400
                     },
                     "medium": {
-                        "w": 400,
                         "h": 400,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 400
+                    },
+                    "small": {
+                        "h": 400,
+                        "resize": "fit",
+                        "w": 400
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": "Portrait of Frederick Douglass, shaded purple. A light purple info box reads, “Frederick Douglass (1818–1895), U.S. Minister Resident and Consul General to Haiti and U.S. Chargé d’Affaires at Santo Domingo 1889–1891”"
+                "type": "photo",
+                "url": "https://t.co/48f4F3xnBB"
             }
         ]
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 9,
+    "favorited": false,
+    "full_text": "For this year’s #FrederickDouglass bicentennial, see our newly-digital #FRUS offerings including correspondence by and to Frederick Douglass as U.S. Minister Resident to #Haiti and Chargé d’Affaires to #DominicanRepublic:\nhttps://t.co/cIOPZ7zQk2 @FredDouglassNPS https://t.co/48f4F3xnBB",
+    "geo": null,
+    "id": 979332649801207810,
+    "id_str": "979332649801207814",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 15,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 15,
-    "favorite_count": 9,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

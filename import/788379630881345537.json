@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Oct 18 14:02:06 +0000 2016",
-    "id": 788379630881345540,
-    "id_str": "788379630881345537",
-    "full_text": "Read the October 21, 1973, Nixon letter to PM Meir urging an Arab-Israeli cease fire: https://t.co/cAZJtFckbq #YomKippurWar #FRUS",
-    "truncated": false,
     "display_text_range": [
         0,
         129
@@ -11,53 +9,55 @@
     "entities": {
         "hashtags": [
             {
-                "text": "YomKippurWar",
                 "indices": [
                     110,
                     123
-                ]
+                ],
+                "text": "YomKippurWar"
             },
             {
-                "text": "FRUS",
                 "indices": [
                     124,
                     129
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "https://t.co/cAZJtFckbq",
-                "expanded_url": "http://go.usa.gov/xkyvB",
                 "display_url": "go.usa.gov/xkyvB",
+                "expanded_url": "http://go.usa.gov/xkyvB",
                 "indices": [
                     86,
                     109
-                ]
+                ],
+                "url": "https://t.co/cAZJtFckbq"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 1,
+    "favorited": false,
+    "full_text": "Read the October 21, 1973, Nixon letter to PM Meir urging an Arab-Israeli cease fire: https://t.co/cAZJtFckbq #YomKippurWar #FRUS",
+    "geo": null,
+    "id": 788379630881345540,
+    "id_str": "788379630881345537",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 1,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

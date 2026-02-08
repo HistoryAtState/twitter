@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Mar 28 14:43:56 +0000 2017",
-    "id": 846734606871285760,
-    "id_str": "846734606871285766",
-    "full_text": "#FRUS gets up close and personal with #airforceone ! Where else can you #FindFRUS? @POTUS #twitterstorians #everythinghasahistory https://t.co/YhwwAQLge3",
-    "truncated": false,
     "display_text_range": [
         0,
         129
@@ -11,57 +9,45 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     0,
                     5
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "airforceone",
                 "indices": [
                     38,
                     50
-                ]
+                ],
+                "text": "airforceone"
             },
             {
-                "text": "FindFRUS",
                 "indices": [
                     72,
                     81
-                ]
+                ],
+                "text": "FindFRUS"
             },
             {
-                "text": "twitterstorians",
                 "indices": [
                     90,
                     106
-                ]
+                ],
+                "text": "twitterstorians"
             },
             {
-                "text": "everythinghasahistory",
                 "indices": [
                     107,
                     129
-                ]
+                ],
+                "text": "everythinghasahistory"
             }
         ],
-        "symbols": [],
-        "user_mentions": [
-            {
-                "screen_name": "POTUS",
-                "name": "President Biden",
-                "id": 1349149096909668350,
-                "id_str": "1349149096909668363",
-                "indices": [
-                    83,
-                    89
-                ]
-            }
-        ],
-        "urls": [],
         "media": [
             {
+                "display_url": "pic.twitter.com/YhwwAQLge3",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/846734606871285766/photo/1",
                 "id": 846734604396511230,
                 "id_str": "846734604396511232",
                 "indices": [
@@ -70,38 +56,53 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/C8A0ovIVwAAM5Bc.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/C8A0ovIVwAAM5Bc.jpg",
-                "url": "https://t.co/YhwwAQLge3",
-                "display_url": "pic.twitter.com/YhwwAQLge3",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/846734606871285766/photo/1",
-                "type": "photo",
                 "sizes": {
                     "large": {
-                        "w": 1000,
                         "h": 583,
-                        "resize": "fit"
-                    },
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
-                    "small": {
-                        "w": 680,
-                        "h": 396,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1000
                     },
                     "medium": {
-                        "w": 1000,
                         "h": 583,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1000
+                    },
+                    "small": {
+                        "h": 396,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/YhwwAQLge3"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1349149096909668350,
+                "id_str": "1349149096909668363",
+                "indices": [
+                    83,
+                    89
+                ],
+                "name": "President Biden",
+                "screen_name": "POTUS"
             }
         ]
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/YhwwAQLge3",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/846734606871285766/photo/1",
+                "ext_alt_text": null,
                 "id": 846734604396511230,
                 "id_str": "846734604396511232",
                 "indices": [
@@ -110,55 +111,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/C8A0ovIVwAAM5Bc.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/C8A0ovIVwAAM5Bc.jpg",
-                "url": "https://t.co/YhwwAQLge3",
-                "display_url": "pic.twitter.com/YhwwAQLge3",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/846734606871285766/photo/1",
-                "type": "photo",
                 "sizes": {
                     "large": {
-                        "w": 1000,
                         "h": 583,
-                        "resize": "fit"
-                    },
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
-                    "small": {
-                        "w": 680,
-                        "h": 396,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1000
                     },
                     "medium": {
-                        "w": 1000,
                         "h": 583,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1000
+                    },
+                    "small": {
+                        "h": 396,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": null
+                "type": "photo",
+                "url": "https://t.co/YhwwAQLge3"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 6,
+    "favorited": false,
+    "full_text": "#FRUS gets up close and personal with #airforceone ! Where else can you #FindFRUS? @POTUS #twitterstorians #everythinghasahistory https://t.co/YhwwAQLge3",
+    "geo": null,
+    "id": 846734606871285760,
+    "id_str": "846734606871285766",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 6,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

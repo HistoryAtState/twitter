@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Feb 25 13:02:20 +0000 2014",
-    "id": 438297912058339330,
-    "id_str": "438297912058339328",
-    "full_text": "Liberia became a republic in 1847--102 years later, 1st U.S. #AfricanAmerican Amb (Edward Dudley) assigned to Liberia http://t.co/bhQ6LONa9n",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,46 +9,48 @@
     "entities": {
         "hashtags": [
             {
-                "text": "AfricanAmerican",
                 "indices": [
                     61,
                     77
-                ]
+                ],
+                "text": "AfricanAmerican"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/bhQ6LONa9n",
-                "expanded_url": "http://go.usa.gov/BN5B",
                 "display_url": "go.usa.gov/BN5B",
+                "expanded_url": "http://go.usa.gov/BN5B",
                 "indices": [
                     118,
                     140
-                ]
+                ],
+                "url": "http://t.co/bhQ6LONa9n"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 1,
+    "favorited": false,
+    "full_text": "Liberia became a republic in 1847--102 years later, 1st U.S. #AfricanAmerican Amb (Edward Dudley) assigned to Liberia http://t.co/bhQ6LONa9n",
+    "geo": null,
+    "id": 438297912058339330,
+    "id_str": "438297912058339328",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 1,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

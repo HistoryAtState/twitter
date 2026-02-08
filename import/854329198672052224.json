@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Apr 18 13:42:08 +0000 2017",
-    "id": 854329198672052220,
-    "id_str": "854329198672052224",
-    "full_text": "RT @EconAtState: Happy 245th Birthday, David Ricardo! We celebrate the classic economist for his Iron Law of Wages &amp;amp; comparative advantage…",
-    "truncated": false,
     "display_text_range": [
         0,
         143
@@ -11,40 +9,40 @@
     "entities": {
         "hashtags": [],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "EconAtState",
-                "name": "EconDiplomacy@State",
                 "id": 211955846,
                 "id_str": "211955846",
                 "indices": [
                     3,
                     15
-                ]
+                ],
+                "name": "EconDiplomacy@State",
+                "screen_name": "EconAtState"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"&gt;Twitter for iPad&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "RT @EconAtState: Happy 245th Birthday, David Ricardo! We celebrate the classic economist for his Iron Law of Wages &amp;amp; comparative advantage…",
+    "geo": null,
+    "id": 854329198672052220,
+    "id_str": "854329198672052224",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "retweet_count": 2,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Tue Apr 18 13:00:50 +0000 2017",
-        "id": 854318804335308800,
-        "id_str": "854318804335308805",
-        "full_text": "Happy 245th Birthday, David Ricardo! We celebrate the classic economist for his Iron Law of Wages &amp;amp; comparative advantage theory #OnThisDay https://t.co/jcl9y1Dx9X",
-        "truncated": false,
         "display_text_range": [
             0,
             143
@@ -52,18 +50,17 @@
         "entities": {
             "hashtags": [
                 {
-                    "text": "OnThisDay",
                     "indices": [
                         133,
                         143
-                    ]
+                    ],
+                    "text": "OnThisDay"
                 }
             ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [],
             "media": [
                 {
+                    "display_url": "pic.twitter.com/jcl9y1Dx9X",
+                    "expanded_url": "https://twitter.com/EconAtState/status/854318804335308805/photo/1",
                     "id": 854318509412810750,
                     "id_str": "854318509412810752",
                     "indices": [
@@ -72,38 +69,42 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/C9smKG6XgAACoNi.jpg",
                     "media_url_https": "https://pbs.twimg.com/media/C9smKG6XgAACoNi.jpg",
-                    "url": "https://t.co/jcl9y1Dx9X",
-                    "display_url": "pic.twitter.com/jcl9y1Dx9X",
-                    "expanded_url": "https://twitter.com/EconAtState/status/854318804335308805/photo/1",
-                    "type": "photo",
                     "sizes": {
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
+                        "large": {
+                            "h": 512,
+                            "resize": "fit",
+                            "w": 1024
                         },
                         "medium": {
-                            "w": 1024,
                             "h": 512,
-                            "resize": "fit"
-                        },
-                        "large": {
-                            "w": 1024,
-                            "h": 512,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 1024
                         },
                         "small": {
-                            "w": 680,
                             "h": 340,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
                         }
-                    }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/jcl9y1Dx9X"
                 }
-            ]
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
         },
         "extended_entities": {
             "media": [
                 {
+                    "display_url": "pic.twitter.com/jcl9y1Dx9X",
+                    "expanded_url": "https://twitter.com/EconAtState/status/854318804335308805/photo/1",
+                    "ext_alt_text": null,
                     "id": 854318509412810750,
                     "id_str": "854318509412810752",
                     "indices": [
@@ -112,62 +113,61 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/C9smKG6XgAACoNi.jpg",
                     "media_url_https": "https://pbs.twimg.com/media/C9smKG6XgAACoNi.jpg",
-                    "url": "https://t.co/jcl9y1Dx9X",
-                    "display_url": "pic.twitter.com/jcl9y1Dx9X",
-                    "expanded_url": "https://twitter.com/EconAtState/status/854318804335308805/photo/1",
-                    "type": "photo",
                     "sizes": {
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
+                        "large": {
+                            "h": 512,
+                            "resize": "fit",
+                            "w": 1024
                         },
                         "medium": {
-                            "w": 1024,
                             "h": 512,
-                            "resize": "fit"
-                        },
-                        "large": {
-                            "w": 1024,
-                            "h": 512,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 1024
                         },
                         "small": {
-                            "w": 680,
                             "h": 340,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
                         }
                     },
-                    "ext_alt_text": null
+                    "type": "photo",
+                    "url": "https://t.co/jcl9y1Dx9X"
                 }
             ]
         },
-        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+        "favorite_count": 0,
+        "favorited": false,
+        "full_text": "Happy 245th Birthday, David Ricardo! We celebrate the classic economist for his Iron Law of Wages &amp;amp; comparative advantage theory #OnThisDay https://t.co/jcl9y1Dx9X",
+        "geo": null,
+        "id": 854318804335308800,
+        "id_str": "854318804335308805",
+        "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 2,
+        "retweeted": true,
+        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+        "truncated": false,
         "user": {
             "id": 211955846,
             "id_str": "211955846"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 2,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": true,
-        "possibly_sensitive": false,
-        "lang": "en"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": true,
-    "lang": "en"
+    "source": "&lt;a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"&gt;Twitter for iPad&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

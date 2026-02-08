@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Feb 17 13:15:40 +0000 2014",
-    "id": 435402165994401790,
-    "id_str": "435402165994401792",
-    "full_text": "It’s #PresidentsDay, and we have some trivia for you! How many @StateDept #SecState went on to serve as #POTUS?",
-    "truncated": false,
     "display_text_range": [
         0,
         111
@@ -11,60 +9,62 @@
     "entities": {
         "hashtags": [
             {
-                "text": "PresidentsDay",
                 "indices": [
                     5,
                     19
-                ]
+                ],
+                "text": "PresidentsDay"
             },
             {
-                "text": "SecState",
                 "indices": [
                     74,
                     83
-                ]
+                ],
+                "text": "SecState"
             },
             {
-                "text": "POTUS",
                 "indices": [
                     104,
                     110
-                ]
+                ],
+                "text": "POTUS"
             }
         ],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "StateDept",
-                "name": "Department of State",
                 "id": 9624742,
                 "id_str": "9624742",
                 "indices": [
                     63,
                     73
-                ]
+                ],
+                "name": "Department of State",
+                "screen_name": "StateDept"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "It’s #PresidentsDay, and we have some trivia for you! How many @StateDept #SecState went on to serve as #POTUS?",
+    "geo": null,
+    "id": 435402165994401790,
+    "id_str": "435402165994401792",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "lang": "en"
+    }
 }

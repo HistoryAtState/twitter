@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Wed Jul 03 15:00:26 +0000 2013",
-    "id": 352441708623048700,
-    "id_str": "352441708623048705",
-    "full_text": "Learn how victories at Gettysburg and Vicksburg contributed to Union diplomacy in the Civil War #FRUS  http://t.co/6IryY3cgi6",
-    "truncated": false,
     "display_text_range": [
         0,
         125
@@ -11,46 +9,48 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     96,
                     101
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/6IryY3cgi6",
-                "expanded_url": "http://go.usa.gov/bpUw",
                 "display_url": "go.usa.gov/bpUw",
+                "expanded_url": "http://go.usa.gov/bpUw",
                 "indices": [
                     103,
                     125
-                ]
+                ],
+                "url": "http://t.co/6IryY3cgi6"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "Learn how victories at Gettysburg and Vicksburg contributed to Union diplomacy in the Civil War #FRUS  http://t.co/6IryY3cgi6",
+    "geo": null,
+    "id": 352441708623048700,
+    "id_str": "352441708623048705",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3,
+    "retweeted": false,
+    "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

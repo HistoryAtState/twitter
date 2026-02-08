@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Mar 14 15:01:11 +0000 2017",
-    "id": 841665518658543620,
-    "id_str": "841665518658543617",
-    "full_text": "It may not be apple pie, but there are “pie in the sky” mentions in #FRUS incl https://t.co/uGaou5V4W9  and https://t.co/Vw7lca2rjn #PiDay",
-    "truncated": false,
     "display_text_range": [
         0,
         138
@@ -11,62 +9,64 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     68,
                     73
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "PiDay",
                 "indices": [
                     132,
                     138
-                ]
+                ],
+                "text": "PiDay"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "https://t.co/uGaou5V4W9",
-                "expanded_url": "https://go.usa.gov/xXrUZ",
                 "display_url": "go.usa.gov/xXrUZ",
+                "expanded_url": "https://go.usa.gov/xXrUZ",
                 "indices": [
                     79,
                     102
-                ]
+                ],
+                "url": "https://t.co/uGaou5V4W9"
             },
             {
-                "url": "https://t.co/Vw7lca2rjn",
-                "expanded_url": "https://go.usa.gov/xXrUk",
                 "display_url": "go.usa.gov/xXrUk",
+                "expanded_url": "https://go.usa.gov/xXrUk",
                 "indices": [
                     108,
                     131
-                ]
+                ],
+                "url": "https://t.co/Vw7lca2rjn"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "It may not be apple pie, but there are “pie in the sky” mentions in #FRUS incl https://t.co/uGaou5V4W9  and https://t.co/Vw7lca2rjn #PiDay",
+    "geo": null,
+    "id": 841665518658543620,
+    "id_str": "841665518658543617",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

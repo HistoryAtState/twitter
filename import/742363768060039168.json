@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Jun 13 14:31:29 +0000 2016",
-    "id": 742363768060039170,
-    "id_str": "742363768060039168",
-    "full_text": "We’ll be presenting on “Visualizing Diplomatic Correspondence Using the #FRUS Series” on June 24 at #SHAFR2016 #twitterstorians #dh",
-    "truncated": false,
     "display_text_range": [
         0,
         131
@@ -11,56 +9,58 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     72,
                     77
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "SHAFR2016",
                 "indices": [
                     100,
                     110
-                ]
+                ],
+                "text": "SHAFR2016"
             },
             {
-                "text": "twitterstorians",
                 "indices": [
                     111,
                     127
-                ]
+                ],
+                "text": "twitterstorians"
             },
             {
-                "text": "dh",
                 "indices": [
                     128,
                     131
-                ]
+                ],
+                "text": "dh"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
-        "urls": []
+        "urls": [],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 2,
+    "favorited": false,
+    "full_text": "We’ll be presenting on “Visualizing Diplomatic Correspondence Using the #FRUS Series” on June 24 at #SHAFR2016 #twitterstorians #dh",
+    "geo": null,
+    "id": 742363768060039170,
+    "id_str": "742363768060039168",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 5,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 5,
-    "favorite_count": 2,
-    "favorited": false,
-    "retweeted": false,
-    "lang": "en"
+    }
 }

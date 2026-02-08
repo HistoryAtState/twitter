@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Wed Apr 13 12:40:28 +0000 2016",
-    "id": 720230170708307970,
-    "id_str": "720230170708307968",
-    "full_text": "The Northeast Executive Building was the home of the State Dept from 1819 until its demolition in 1866: https://t.co/FkynkqNKlB #DCArchWeek",
-    "truncated": false,
     "display_text_range": [
         0,
         139
@@ -11,46 +9,48 @@
     "entities": {
         "hashtags": [
             {
-                "text": "DCArchWeek",
                 "indices": [
                     128,
                     139
-                ]
+                ],
+                "text": "DCArchWeek"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "https://t.co/FkynkqNKlB",
-                "expanded_url": "https://history.state.gov/departmenthistory/buildings/section25",
                 "display_url": "history.state.gov/departmenthist…",
+                "expanded_url": "https://history.state.gov/departmenthistory/buildings/section25",
                 "indices": [
                     104,
                     127
-                ]
+                ],
+                "url": "https://t.co/FkynkqNKlB"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "The Northeast Executive Building was the home of the State Dept from 1819 until its demolition in 1866: https://t.co/FkynkqNKlB #DCArchWeek",
+    "geo": null,
+    "id": 720230170708307970,
+    "id_str": "720230170708307968",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

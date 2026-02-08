@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Fri Jan 04 16:02:57 +0000 2013",
-    "id": 287227627834597376,
-    "id_str": "287227627834597376",
-    "full_text": "Interested in history #ebooks for research or teaching? Learn about our #FRUS ebooks initiative at #AHA2013. http://t.co/OCSuvQjU...",
-    "truncated": false,
     "display_text_range": [
         0,
         132
@@ -11,60 +9,62 @@
     "entities": {
         "hashtags": [
             {
-                "text": "ebooks",
                 "indices": [
                     22,
                     29
-                ]
+                ],
+                "text": "ebooks"
             },
             {
-                "text": "FRUS",
                 "indices": [
                     72,
                     77
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "AHA2013",
                 "indices": [
                     99,
                     107
-                ]
+                ],
+                "text": "AHA2013"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/OCSuvQjU",
-                "expanded_url": "http://bit.ly/URLiqy",
                 "display_url": "bit.ly/URLiqy",
+                "expanded_url": "http://bit.ly/URLiqy",
                 "indices": [
                     109,
                     129
-                ]
+                ],
+                "url": "http://t.co/OCSuvQjU"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "Interested in history #ebooks for research or teaching? Learn about our #FRUS ebooks initiative at #AHA2013. http://t.co/OCSuvQjU...",
+    "geo": null,
+    "id": 287227627834597376,
+    "id_str": "287227627834597376",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Jul 28 12:57:19 +0000 2014",
-    "id": 493741995077410820,
-    "id_str": "493741995077410816",
-    "full_text": "Who were the US diplomats in Europe Summer 1914? Read out Tumblr series #WW1 http://t.co/bkX01fDLEk http://t.co/LaJlYH9uDp",
-    "truncated": false,
     "display_text_range": [
         0,
         122
@@ -11,55 +9,57 @@
     "entities": {
         "hashtags": [
             {
-                "text": "WW1",
                 "indices": [
                     72,
                     76
-                ]
+                ],
+                "text": "WW1"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/bkX01fDLEk",
-                "expanded_url": "http://ow.ly/y91ce",
                 "display_url": "ow.ly/y91ce",
+                "expanded_url": "http://ow.ly/y91ce",
                 "indices": [
                     77,
                     99
-                ]
+                ],
+                "url": "http://t.co/bkX01fDLEk"
             },
             {
-                "url": "http://t.co/LaJlYH9uDp",
-                "expanded_url": "http://historyatstate.tumblr.com/",
                 "display_url": "historyatstate.tumblr.com",
+                "expanded_url": "http://historyatstate.tumblr.com/",
                 "indices": [
                     100,
                     122
-                ]
+                ],
+                "url": "http://t.co/LaJlYH9uDp"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 1,
+    "favorited": false,
+    "full_text": "Who were the US diplomats in Europe Summer 1914? Read out Tumblr series #WW1 http://t.co/bkX01fDLEk http://t.co/LaJlYH9uDp",
+    "geo": null,
+    "id": 493741995077410820,
+    "id_str": "493741995077410816",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 6,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 1,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

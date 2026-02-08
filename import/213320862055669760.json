@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Jun 14 17:23:51 +0000 2012",
-    "id": 213320862055669760,
-    "id_str": "213320862055669760",
-    "full_text": "How did the US try to reduce dependence on imported oil in the 1970s? #FRUS #FEP conference http://t.co/jUFI8EDJ #EconDiplomacy",
-    "truncated": false,
     "display_text_range": [
         0,
         127
@@ -11,60 +9,62 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     70,
                     75
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "FEP",
                 "indices": [
                     76,
                     80
-                ]
+                ],
+                "text": "FEP"
             },
             {
-                "text": "EconDiplomacy",
                 "indices": [
                     113,
                     127
-                ]
+                ],
+                "text": "EconDiplomacy"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/jUFI8EDJ",
-                "expanded_url": "http://go.usa.gov/vx0",
                 "display_url": "go.usa.gov/vx0",
+                "expanded_url": "http://go.usa.gov/vx0",
                 "indices": [
                     92,
                     112
-                ]
+                ],
+                "url": "http://t.co/jUFI8EDJ"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "How did the US try to reduce dependence on imported oil in the 1970s? #FRUS #FEP conference http://t.co/jUFI8EDJ #EconDiplomacy",
+    "geo": null,
+    "id": 213320862055669760,
+    "id_str": "213320862055669760",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Feb 11 17:15:25 +0000 2014",
-    "id": 433288175252164610,
-    "id_str": "433288175252164608",
-    "full_text": "Charles de Gaulle was 1st French head of state to officially visit San Francisco during his April 1960 State Visit http://t.co/wlUGSZ7pB9",
-    "truncated": false,
     "display_text_range": [
         0,
         137
@@ -11,38 +9,40 @@
     "entities": {
         "hashtags": [],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/wlUGSZ7pB9",
-                "expanded_url": "http://ow.ly/tvY69",
                 "display_url": "ow.ly/tvY69",
+                "expanded_url": "http://ow.ly/tvY69",
                 "indices": [
                     115,
                     137
-                ]
+                ],
+                "url": "http://t.co/wlUGSZ7pB9"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 1,
+    "favorited": false,
+    "full_text": "Charles de Gaulle was 1st French head of state to officially visit San Francisco during his April 1960 State Visit http://t.co/wlUGSZ7pB9",
+    "geo": null,
+    "id": 433288175252164610,
+    "id_str": "433288175252164608",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 1,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

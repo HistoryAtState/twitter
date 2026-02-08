@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Wed Dec 07 15:57:43 +0000 2016",
-    "id": 806528122430648320,
-    "id_str": "806528122430648321",
-    "full_text": ".@StateDept Historian Stephen P. Randolph speaks @ClementsCenter, Rise + Fall of Détente: https://t.co/e7D6LSpiby #FRUS",
-    "truncated": false,
     "display_text_range": [
         0,
         119
@@ -11,67 +9,69 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     114,
                     119
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "symbols": [],
+        "urls": [
+            {
+                "display_url": "youtube.com/watch?v=CnmgcT…",
+                "expanded_url": "https://www.youtube.com/watch?v=CnmgcTUGtvg",
+                "indices": [
+                    90,
+                    113
+                ],
+                "url": "https://t.co/e7D6LSpiby"
+            }
+        ],
         "user_mentions": [
             {
-                "screen_name": "StateDept",
-                "name": "Department of State",
                 "id": 9624742,
                 "id_str": "9624742",
                 "indices": [
                     1,
                     11
-                ]
+                ],
+                "name": "Department of State",
+                "screen_name": "StateDept"
             },
             {
-                "screen_name": "ClementsCenter",
-                "name": "Clements Center",
                 "id": 1112380602,
                 "id_str": "1112380602",
                 "indices": [
                     49,
                     64
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "https://t.co/e7D6LSpiby",
-                "expanded_url": "https://www.youtube.com/watch?v=CnmgcTUGtvg",
-                "display_url": "youtube.com/watch?v=CnmgcT…",
-                "indices": [
-                    90,
-                    113
-                ]
+                ],
+                "name": "Clements Center",
+                "screen_name": "ClementsCenter"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 3,
+    "favorited": false,
+    "full_text": ".@StateDept Historian Stephen P. Randolph speaks @ClementsCenter, Rise + Fall of Détente: https://t.co/e7D6LSpiby #FRUS",
+    "geo": null,
+    "id": 806528122430648320,
+    "id_str": "806528122430648321",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "da",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 5,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 5,
-    "favorite_count": 3,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "da"
+    }
 }

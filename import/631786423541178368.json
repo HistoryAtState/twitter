@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Aug 13 11:16:36 +0000 2015",
-    "id": 631786423541178370,
-    "id_str": "631786423541178368",
-    "full_text": "RT @StateDept: Thanks to @AtlanticCouncil &amp;amp; @GermanyinUSA, a remarkable segment of #BerlinWall will be installed @DiplomacyCenter. http://t…",
-    "truncated": false,
     "display_text_range": [
         0,
         144
@@ -11,78 +9,78 @@
     "entities": {
         "hashtags": [
             {
-                "text": "BerlinWall",
                 "indices": [
                     87,
                     98
-                ]
+                ],
+                "text": "BerlinWall"
             }
         ],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "StateDept",
-                "name": "Department of State",
                 "id": 9624742,
                 "id_str": "9624742",
                 "indices": [
                     3,
                     13
-                ]
+                ],
+                "name": "Department of State",
+                "screen_name": "StateDept"
             },
             {
-                "screen_name": "AtlanticCouncil",
-                "name": "Atlantic Council",
                 "id": 18267548,
                 "id_str": "18267548",
                 "indices": [
                     25,
                     41
-                ]
+                ],
+                "name": "Atlantic Council",
+                "screen_name": "AtlanticCouncil"
             },
             {
-                "screen_name": "GermanyinUSA",
-                "name": "German Embassy",
                 "id": 252592692,
                 "id_str": "252592692",
                 "indices": [
                     48,
                     61
-                ]
+                ],
+                "name": "German Embassy",
+                "screen_name": "GermanyinUSA"
             },
             {
-                "screen_name": "diplomacycenter",
-                "name": "NMAD Museum",
                 "id": 1180122509204701180,
                 "id_str": "1180122509204701186",
                 "indices": [
                     117,
                     133
-                ]
+                ],
+                "name": "NMAD Museum",
+                "screen_name": "diplomacycenter"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "RT @StateDept: Thanks to @AtlanticCouncil &amp;amp; @GermanyinUSA, a remarkable segment of #BerlinWall will be installed @DiplomacyCenter. http://t…",
+    "geo": null,
+    "id": 631786423541178370,
+    "id_str": "631786423541178368",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "retweet_count": 44,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Thu Aug 13 00:39:58 +0000 2015",
-        "id": 631626210112602110,
-        "id_str": "631626210112602112",
-        "full_text": "Thanks to @AtlanticCouncil &amp;amp; @GermanyinUSA, a remarkable segment of #BerlinWall will be installed @DiplomacyCenter. http://t.co/t7f0gTrlfv",
-        "truncated": false,
         "display_text_range": [
             0,
             142
@@ -90,84 +88,86 @@
         "entities": {
             "hashtags": [
                 {
-                    "text": "BerlinWall",
                     "indices": [
                         72,
                         83
-                    ]
+                    ],
+                    "text": "BerlinWall"
                 }
             ],
             "symbols": [],
+            "urls": [
+                {
+                    "display_url": "go.usa.gov/3HjBw",
+                    "expanded_url": "http://go.usa.gov/3HjBw",
+                    "indices": [
+                        120,
+                        142
+                    ],
+                    "url": "http://t.co/t7f0gTrlfv"
+                }
+            ],
             "user_mentions": [
                 {
-                    "screen_name": "AtlanticCouncil",
-                    "name": "Atlantic Council",
                     "id": 18267548,
                     "id_str": "18267548",
                     "indices": [
                         10,
                         26
-                    ]
+                    ],
+                    "name": "Atlantic Council",
+                    "screen_name": "AtlanticCouncil"
                 },
                 {
-                    "screen_name": "GermanyinUSA",
-                    "name": "German Embassy",
                     "id": 252592692,
                     "id_str": "252592692",
                     "indices": [
                         33,
                         46
-                    ]
+                    ],
+                    "name": "German Embassy",
+                    "screen_name": "GermanyinUSA"
                 },
                 {
-                    "screen_name": "diplomacycenter",
-                    "name": "NMAD Museum",
                     "id": 1180122509204701180,
                     "id_str": "1180122509204701186",
                     "indices": [
                         102,
                         118
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "http://t.co/t7f0gTrlfv",
-                    "expanded_url": "http://go.usa.gov/3HjBw",
-                    "display_url": "go.usa.gov/3HjBw",
-                    "indices": [
-                        120,
-                        142
-                    ]
+                    ],
+                    "name": "NMAD Museum",
+                    "screen_name": "diplomacycenter"
                 }
             ]
         },
-        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+        "favorite_count": 32,
+        "favorited": false,
+        "full_text": "Thanks to @AtlanticCouncil &amp;amp; @GermanyinUSA, a remarkable segment of #BerlinWall will be installed @DiplomacyCenter. http://t.co/t7f0gTrlfv",
+        "geo": null,
+        "id": 631626210112602110,
+        "id_str": "631626210112602112",
+        "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 44,
+        "retweeted": true,
+        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+        "truncated": false,
         "user": {
             "id": 9624742,
             "id_str": "9624742"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 44,
-        "favorite_count": 32,
-        "favorited": false,
-        "retweeted": true,
-        "possibly_sensitive": false,
-        "lang": "en"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 44,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": true,
-    "lang": "en"
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

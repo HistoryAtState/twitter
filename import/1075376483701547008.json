@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Wed Dec 19 13:05:07 +0000 2018",
-    "id": 1075376483701547010,
-    "id_str": "1075376483701547008",
-    "full_text": "The Carter administration also faced ongoing regional issues in #LatinAmerica, such as territorial disputes, the rise of militant groups, and the struggle to support free and fair elections https://t.co/14ZcsMHLyQ #FRUS",
-    "truncated": false,
     "display_text_range": [
         0,
         219
@@ -11,53 +9,55 @@
     "entities": {
         "hashtags": [
             {
-                "text": "LatinAmerica",
                 "indices": [
                     64,
                     77
-                ]
+                ],
+                "text": "LatinAmerica"
             },
             {
-                "text": "FRUS",
                 "indices": [
                     214,
                     219
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "https://t.co/14ZcsMHLyQ",
-                "expanded_url": "https://history.state.gov/historicaldocuments/frus1977-80v24",
                 "display_url": "history.state.gov/historicaldocu…",
+                "expanded_url": "https://history.state.gov/historicaldocuments/frus1977-80v24",
                 "indices": [
                     190,
                     213
-                ]
+                ],
+                "url": "https://t.co/14ZcsMHLyQ"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "favorite_count": 2,
+    "favorited": false,
+    "full_text": "The Carter administration also faced ongoing regional issues in #LatinAmerica, such as territorial disputes, the rise of militant groups, and the struggle to support free and fair elections https://t.co/14ZcsMHLyQ #FRUS",
+    "geo": null,
+    "id": 1075376483701547010,
+    "id_str": "1075376483701547008",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 2,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

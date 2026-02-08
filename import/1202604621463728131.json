@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Dec 05 15:04:19 +0000 2019",
-    "id": 1202604621463728130,
-    "id_str": "1202604621463728131",
-    "full_text": "Now Available: newly-digitized Foreign Relations Microfiche Supplement, 1961–1963, vols. VII, VIII, IX, Arms Control; National Security Policy; Foreign Economic Policy. https://t.co/Szh52kZi6z #FRUSRelease #Twitterstorians https://t.co/CGyS65nkel",
-    "truncated": false,
     "display_text_range": [
         0,
         222
@@ -11,35 +9,24 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUSRelease",
                 "indices": [
                     193,
                     205
-                ]
+                ],
+                "text": "FRUSRelease"
             },
             {
-                "text": "Twitterstorians",
                 "indices": [
                     206,
                     222
-                ]
-            }
-        ],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
-            {
-                "url": "https://t.co/Szh52kZi6z",
-                "expanded_url": "https://history.state.gov/historicaldocuments/frus1961-63v07-09mSupp",
-                "display_url": "history.state.gov/historicaldocu…",
-                "indices": [
-                    169,
-                    192
-                ]
+                ],
+                "text": "Twitterstorians"
             }
         ],
         "media": [
             {
+                "display_url": "pic.twitter.com/CGyS65nkel",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1202604621463728131/photo/1",
                 "id": 1202604617982447620,
                 "id_str": "1202604617982447618",
                 "indices": [
@@ -48,38 +35,52 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/ELCCh0QWkAIBm94.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/ELCCh0QWkAIBm94.jpg",
-                "url": "https://t.co/CGyS65nkel",
-                "display_url": "pic.twitter.com/CGyS65nkel",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1202604621463728131/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "medium": {
-                        "w": 235,
-                        "h": 352,
-                        "resize": "fit"
-                    },
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
                     "large": {
-                        "w": 235,
                         "h": 352,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 235
+                    },
+                    "medium": {
+                        "h": 352,
+                        "resize": "fit",
+                        "w": 235
                     },
                     "small": {
-                        "w": 235,
                         "h": 352,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 235
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/CGyS65nkel"
             }
-        ]
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "history.state.gov/historicaldocu…",
+                "expanded_url": "https://history.state.gov/historicaldocuments/frus1961-63v07-09mSupp",
+                "indices": [
+                    169,
+                    192
+                ],
+                "url": "https://t.co/Szh52kZi6z"
+            }
+        ],
+        "user_mentions": []
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/CGyS65nkel",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1202604621463728131/photo/1",
+                "ext_alt_text": "Volume cover for Foreign Relations of the United States Microfiche Supplement, 1961–1963, vols. VII, VIII, IX, Arms Control; National Security Policy; Foreign Economic Policy",
                 "id": 1202604617982447620,
                 "id_str": "1202604617982447618",
                 "indices": [
@@ -88,55 +89,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/ELCCh0QWkAIBm94.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/ELCCh0QWkAIBm94.jpg",
-                "url": "https://t.co/CGyS65nkel",
-                "display_url": "pic.twitter.com/CGyS65nkel",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1202604621463728131/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "medium": {
-                        "w": 235,
-                        "h": 352,
-                        "resize": "fit"
-                    },
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
                     "large": {
-                        "w": 235,
                         "h": 352,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 235
+                    },
+                    "medium": {
+                        "h": 352,
+                        "resize": "fit",
+                        "w": 235
                     },
                     "small": {
-                        "w": 235,
                         "h": 352,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 235
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": "Volume cover for Foreign Relations of the United States Microfiche Supplement, 1961–1963, vols. VII, VIII, IX, Arms Control; National Security Policy; Foreign Economic Policy"
+                "type": "photo",
+                "url": "https://t.co/CGyS65nkel"
             }
         ]
     },
-    "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+    "favorite_count": 27,
+    "favorited": false,
+    "full_text": "Now Available: newly-digitized Foreign Relations Microfiche Supplement, 1961–1963, vols. VII, VIII, IX, Arms Control; National Security Policy; Foreign Economic Policy. https://t.co/Szh52kZi6z #FRUSRelease #Twitterstorians https://t.co/CGyS65nkel",
+    "geo": null,
+    "id": 1202604621463728130,
+    "id_str": "1202604621463728131",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 18,
+    "retweeted": false,
+    "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 18,
-    "favorite_count": 27,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

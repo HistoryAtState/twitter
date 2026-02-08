@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Fri Feb 28 18:00:35 +0000 2014",
-    "id": 439460134826160130,
-    "id_str": "439460134826160128",
-    "full_text": "Carter: Ambassadors must give “human rights matters” their personal attention. #Human Rights http://t.co/VS1oPGCAeP",
-    "truncated": false,
     "display_text_range": [
         0,
         115
@@ -11,46 +9,48 @@
     "entities": {
         "hashtags": [
             {
-                "text": "Human",
                 "indices": [
                     79,
                     85
-                ]
+                ],
+                "text": "Human"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/VS1oPGCAeP",
-                "expanded_url": "http://go.usa.gov/BsFT",
                 "display_url": "go.usa.gov/BsFT",
+                "expanded_url": "http://go.usa.gov/BsFT",
                 "indices": [
                     93,
                     115
-                ]
+                ],
+                "url": "http://t.co/VS1oPGCAeP"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "Carter: Ambassadors must give “human rights matters” their personal attention. #Human Rights http://t.co/VS1oPGCAeP",
+    "geo": null,
+    "id": 439460134826160130,
+    "id_str": "439460134826160128",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

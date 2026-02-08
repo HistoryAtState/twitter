@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Aug 26 13:31:34 +0000 2013",
-    "id": 371988290016395260,
-    "id_str": "371988290016395264",
-    "full_text": "Dulles was 1st “jet-setting” #SecState – he made 100+ stops, the most of any #SecState to that time http://t.co/J92F3j35jo",
-    "truncated": false,
     "display_text_range": [
         0,
         122
@@ -11,53 +9,55 @@
     "entities": {
         "hashtags": [
             {
-                "text": "SecState",
                 "indices": [
                     29,
                     38
-                ]
+                ],
+                "text": "SecState"
             },
             {
-                "text": "SecState",
                 "indices": [
                     77,
                     86
-                ]
+                ],
+                "text": "SecState"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/J92F3j35jo",
-                "expanded_url": "http://go.usa.gov/DqZJ",
                 "display_url": "go.usa.gov/DqZJ",
+                "expanded_url": "http://go.usa.gov/DqZJ",
                 "indices": [
                     100,
                     122
-                ]
+                ],
+                "url": "http://t.co/J92F3j35jo"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "Dulles was 1st “jet-setting” #SecState – he made 100+ stops, the most of any #SecState to that time http://t.co/J92F3j35jo",
+    "geo": null,
+    "id": 371988290016395260,
+    "id_str": "371988290016395264",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

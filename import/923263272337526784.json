@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Wed Oct 25 19:01:32 +0000 2017",
-    "id": 923263272337526780,
-    "id_str": "923263272337526784",
-    "full_text": "Learn about the broad goals of the Carter administration’s policy toward Latin America \nhttps://t.co/8WtbBg70ag",
-    "truncated": false,
     "display_text_range": [
         0,
         111
@@ -11,38 +9,40 @@
     "entities": {
         "hashtags": [],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "https://t.co/8WtbBg70ag",
-                "expanded_url": "https://go.usa.gov/xngDt",
                 "display_url": "go.usa.gov/xngDt",
+                "expanded_url": "https://go.usa.gov/xngDt",
                 "indices": [
                     88,
                     111
-                ]
+                ],
+                "url": "https://t.co/8WtbBg70ag"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 1,
+    "favorited": false,
+    "full_text": "Learn about the broad goals of the Carter administration’s policy toward Latin America \nhttps://t.co/8WtbBg70ag",
+    "geo": null,
+    "id": 923263272337526780,
+    "id_str": "923263272337526784",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 1,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

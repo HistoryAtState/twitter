@@ -1,31 +1,17 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Fri Jun 01 15:20:29 +0000 2018",
-    "id": 1002570585279524860,
-    "id_str": "1002570585279524864",
-    "full_text": "President and Mrs. Reagan attended the Bolshoi Ballet with the Gorbachevs on June 1, 1988. 📷 @Reagan_Library https://t.co/E8nG1qbYNN",
-    "truncated": false,
     "display_text_range": [
         0,
         108
     ],
     "entities": {
         "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-            {
-                "screen_name": "Reagan_Library",
-                "name": "RonaldReaganLibrary",
-                "id": 394351710,
-                "id_str": "394351710",
-                "indices": [
-                    93,
-                    108
-                ]
-            }
-        ],
-        "urls": [],
         "media": [
             {
+                "display_url": "pic.twitter.com/E8nG1qbYNN",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1002570585279524864/photo/1",
                 "id": 1002570444938063870,
                 "id_str": "1002570444938063872",
                 "indices": [
@@ -34,38 +20,53 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/DenYggDWsAAf5c1.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DenYggDWsAAf5c1.jpg",
-                "url": "https://t.co/E8nG1qbYNN",
-                "display_url": "pic.twitter.com/E8nG1qbYNN",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1002570585279524864/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
                     "large": {
-                        "w": 750,
                         "h": 498,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 750
                     },
                     "medium": {
-                        "w": 750,
                         "h": 498,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 750
                     },
                     "small": {
-                        "w": 680,
                         "h": 452,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/E8nG1qbYNN"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 394351710,
+                "id_str": "394351710",
+                "indices": [
+                    93,
+                    108
+                ],
+                "name": "RonaldReaganLibrary",
+                "screen_name": "Reagan_Library"
             }
         ]
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/E8nG1qbYNN",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1002570585279524864/photo/1",
+                "ext_alt_text": "Reagans &amp; Gorbachevs at the Bolshoi Ballet",
                 "id": 1002570444938063870,
                 "id_str": "1002570444938063872",
                 "indices": [
@@ -74,55 +75,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/DenYggDWsAAf5c1.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DenYggDWsAAf5c1.jpg",
-                "url": "https://t.co/E8nG1qbYNN",
-                "display_url": "pic.twitter.com/E8nG1qbYNN",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1002570585279524864/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
                     "large": {
-                        "w": 750,
                         "h": 498,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 750
                     },
                     "medium": {
-                        "w": 750,
                         "h": 498,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 750
                     },
                     "small": {
-                        "w": 680,
                         "h": 452,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": "Reagans &amp; Gorbachevs at the Bolshoi Ballet"
+                "type": "photo",
+                "url": "https://t.co/E8nG1qbYNN"
             }
         ]
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 7,
+    "favorited": false,
+    "full_text": "President and Mrs. Reagan attended the Bolshoi Ballet with the Gorbachevs on June 1, 1988. 📷 @Reagan_Library https://t.co/E8nG1qbYNN",
+    "geo": null,
+    "id": 1002570585279524860,
+    "id_str": "1002570585279524864",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 7,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

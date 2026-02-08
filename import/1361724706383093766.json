@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Feb 16 17:10:44 +0000 2021",
-    "id": 1361724706383093760,
-    "id_str": "1361724706383093766",
-    "full_text": "The Office of the Historian releases Foreign Relations, 1981–1988, Volume IV, Soviet Union, January 1983–March 1985:\nhttps://t.co/z55UDDej9m\n\n#FRUS #FRUSRelease #twitterstorians @Reagan_Library https://t.co/VwC8tRaEsO",
-    "truncated": false,
     "display_text_range": [
         0,
         193
@@ -11,53 +9,31 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     142,
                     147
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "FRUSRelease",
                 "indices": [
                     148,
                     160
-                ]
+                ],
+                "text": "FRUSRelease"
             },
             {
-                "text": "twitterstorians",
                 "indices": [
                     161,
                     177
-                ]
-            }
-        ],
-        "symbols": [],
-        "user_mentions": [
-            {
-                "screen_name": "Reagan_Library",
-                "name": "RonaldReaganLibrary",
-                "id": 394351710,
-                "id_str": "394351710",
-                "indices": [
-                    178,
-                    193
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "https://t.co/z55UDDej9m",
-                "expanded_url": "https://history.state.gov/historicaldocuments/frus1981-88v04",
-                "display_url": "history.state.gov/historicaldocu…",
-                "indices": [
-                    117,
-                    140
-                ]
+                ],
+                "text": "twitterstorians"
             }
         ],
         "media": [
             {
+                "display_url": "pic.twitter.com/VwC8tRaEsO",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1361724706383093766/photo/1",
                 "id": 1361724705049346050,
                 "id_str": "1361724705049346050",
                 "indices": [
@@ -66,38 +42,63 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/EuXRZ45XAAIJq2o.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/EuXRZ45XAAIJq2o.jpg",
-                "url": "https://t.co/VwC8tRaEsO",
-                "display_url": "pic.twitter.com/VwC8tRaEsO",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1361724706383093766/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "medium": {
-                        "w": 400,
-                        "h": 600,
-                        "resize": "fit"
-                    },
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
                     "large": {
-                        "w": 400,
                         "h": 600,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 400
+                    },
+                    "medium": {
+                        "h": 600,
+                        "resize": "fit",
+                        "w": 400
                     },
                     "small": {
-                        "w": 400,
                         "h": 600,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 400
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/VwC8tRaEsO"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "history.state.gov/historicaldocu…",
+                "expanded_url": "https://history.state.gov/historicaldocuments/frus1981-88v04",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/z55UDDej9m"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 394351710,
+                "id_str": "394351710",
+                "indices": [
+                    178,
+                    193
+                ],
+                "name": "RonaldReaganLibrary",
+                "screen_name": "Reagan_Library"
             }
         ]
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/VwC8tRaEsO",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1361724706383093766/photo/1",
+                "ext_alt_text": "Volume Cover of Foreign Relations, 1981–1988, Volume IV, Soviet Union, January 1983–March 1985",
                 "id": 1361724705049346050,
                 "id_str": "1361724705049346050",
                 "indices": [
@@ -106,55 +107,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/EuXRZ45XAAIJq2o.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/EuXRZ45XAAIJq2o.jpg",
-                "url": "https://t.co/VwC8tRaEsO",
-                "display_url": "pic.twitter.com/VwC8tRaEsO",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1361724706383093766/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "medium": {
-                        "w": 400,
-                        "h": 600,
-                        "resize": "fit"
-                    },
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
                     "large": {
-                        "w": 400,
                         "h": 600,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 400
+                    },
+                    "medium": {
+                        "h": 600,
+                        "resize": "fit",
+                        "w": 400
                     },
                     "small": {
-                        "w": 400,
                         "h": 600,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 400
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": "Volume Cover of Foreign Relations, 1981–1988, Volume IV, Soviet Union, January 1983–March 1985"
+                "type": "photo",
+                "url": "https://t.co/VwC8tRaEsO"
             }
         ]
     },
-    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "favorite_count": 58,
+    "favorited": false,
+    "full_text": "The Office of the Historian releases Foreign Relations, 1981–1988, Volume IV, Soviet Union, January 1983–March 1985:\nhttps://t.co/z55UDDej9m\n\n#FRUS #FRUSRelease #twitterstorians @Reagan_Library https://t.co/VwC8tRaEsO",
+    "geo": null,
+    "id": 1361724706383093760,
+    "id_str": "1361724706383093766",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 19,
+    "retweeted": false,
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 19,
-    "favorite_count": 58,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

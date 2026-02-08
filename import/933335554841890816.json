@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Wed Nov 22 14:05:11 +0000 2017",
-    "id": 933335554841890820,
-    "id_str": "933335554841890816",
-    "full_text": "“And don’t deliver us a #turkey.” Shultz &amp;amp; Powell talk #coldwar arms control:\nhttps://t.co/s9HdHxckWV #FRUS #Thanksgiving #History",
-    "truncated": false,
     "display_text_range": [
         0,
         134
@@ -11,74 +9,76 @@
     "entities": {
         "hashtags": [
             {
-                "text": "turkey",
                 "indices": [
                     24,
                     31
-                ]
+                ],
+                "text": "turkey"
             },
             {
-                "text": "coldwar",
                 "indices": [
                     59,
                     67
-                ]
+                ],
+                "text": "coldwar"
             },
             {
-                "text": "FRUS",
                 "indices": [
                     106,
                     111
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "Thanksgiving",
                 "indices": [
                     112,
                     125
-                ]
+                ],
+                "text": "Thanksgiving"
             },
             {
-                "text": "History",
                 "indices": [
                     126,
                     134
-                ]
+                ],
+                "text": "History"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "https://t.co/s9HdHxckWV",
-                "expanded_url": "https://go.usa.gov/xnWRz",
                 "display_url": "go.usa.gov/xnWRz",
+                "expanded_url": "https://go.usa.gov/xnWRz",
                 "indices": [
                     82,
                     105
-                ]
+                ],
+                "url": "https://t.co/s9HdHxckWV"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "“And don’t deliver us a #turkey.” Shultz &amp;amp; Powell talk #coldwar arms control:\nhttps://t.co/s9HdHxckWV #FRUS #Thanksgiving #History",
+    "geo": null,
+    "id": 933335554841890820,
+    "id_str": "933335554841890816",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

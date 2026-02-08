@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Sat Dec 31 21:30:29 +0000 2016",
-    "id": 815309174175318020,
-    "id_str": "815309174175318020",
-    "full_text": "Ceausescu asks #Nixon via Amb. 2 #Romania 4 #Vietnam ceasefire @ 1971 #NYE fête: https://t.co/XblbEJ4pyg #FRUS @NixonLibrary @AmbasadaSUA https://t.co/2zlf9LNFsx",
-    "truncated": false,
     "display_text_range": [
         0,
         137
@@ -11,77 +9,45 @@
     "entities": {
         "hashtags": [
             {
-                "text": "Nixon",
                 "indices": [
                     15,
                     21
-                ]
+                ],
+                "text": "Nixon"
             },
             {
-                "text": "Romania",
                 "indices": [
                     33,
                     41
-                ]
+                ],
+                "text": "Romania"
             },
             {
-                "text": "Vietnam",
                 "indices": [
                     44,
                     52
-                ]
+                ],
+                "text": "Vietnam"
             },
             {
-                "text": "NYE",
                 "indices": [
                     70,
                     74
-                ]
+                ],
+                "text": "NYE"
             },
             {
-                "text": "FRUS",
                 "indices": [
                     105,
                     110
-                ]
-            }
-        ],
-        "symbols": [],
-        "user_mentions": [
-            {
-                "screen_name": "NixonLibrary",
-                "name": "RichardNixonLibrary",
-                "id": 4276158575,
-                "id_str": "4276158575",
-                "indices": [
-                    111,
-                    124
-                ]
-            },
-            {
-                "screen_name": "AmbasadaSUA",
-                "name": "US Embassy Bucharest",
-                "id": 1241168023,
-                "id_str": "1241168023",
-                "indices": [
-                    125,
-                    137
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "https://t.co/XblbEJ4pyg",
-                "expanded_url": "http://go.usa.gov/x9YMG",
-                "display_url": "go.usa.gov/x9YMG",
-                "indices": [
-                    81,
-                    104
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "media": [
             {
+                "display_url": "pic.twitter.com/2zlf9LNFsx",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/815309174175318020/photo/1",
                 "id": 815309171843301380,
                 "id_str": "815309171843301376",
                 "indices": [
@@ -90,38 +56,73 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/C1CPX0HWgAA7gOk.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/C1CPX0HWgAA7gOk.jpg",
-                "url": "https://t.co/2zlf9LNFsx",
-                "display_url": "pic.twitter.com/2zlf9LNFsx",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/815309174175318020/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
-                    "small": {
-                        "w": 600,
-                        "h": 411,
-                        "resize": "fit"
-                    },
                     "large": {
-                        "w": 600,
                         "h": 411,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 600
                     },
                     "medium": {
-                        "w": 600,
                         "h": 411,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 411,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/2zlf9LNFsx"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "go.usa.gov/x9YMG",
+                "expanded_url": "http://go.usa.gov/x9YMG",
+                "indices": [
+                    81,
+                    104
+                ],
+                "url": "https://t.co/XblbEJ4pyg"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 4276158575,
+                "id_str": "4276158575",
+                "indices": [
+                    111,
+                    124
+                ],
+                "name": "RichardNixonLibrary",
+                "screen_name": "NixonLibrary"
+            },
+            {
+                "id": 1241168023,
+                "id_str": "1241168023",
+                "indices": [
+                    125,
+                    137
+                ],
+                "name": "US Embassy Bucharest",
+                "screen_name": "AmbasadaSUA"
             }
         ]
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/2zlf9LNFsx",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/815309174175318020/photo/1",
+                "ext_alt_text": null,
                 "id": 815309171843301380,
                 "id_str": "815309171843301376",
                 "indices": [
@@ -130,55 +131,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/C1CPX0HWgAA7gOk.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/C1CPX0HWgAA7gOk.jpg",
-                "url": "https://t.co/2zlf9LNFsx",
-                "display_url": "pic.twitter.com/2zlf9LNFsx",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/815309174175318020/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
-                    "small": {
-                        "w": 600,
-                        "h": 411,
-                        "resize": "fit"
-                    },
                     "large": {
-                        "w": 600,
                         "h": 411,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 600
                     },
                     "medium": {
-                        "w": 600,
                         "h": 411,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 411,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": null
+                "type": "photo",
+                "url": "https://t.co/2zlf9LNFsx"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "Ceausescu asks #Nixon via Amb. 2 #Romania 4 #Vietnam ceasefire @ 1971 #NYE fête: https://t.co/XblbEJ4pyg #FRUS @NixonLibrary @AmbasadaSUA https://t.co/2zlf9LNFsx",
+    "geo": null,
+    "id": 815309174175318020,
+    "id_str": "815309174175318020",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "ro",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "ro"
+    }
 }

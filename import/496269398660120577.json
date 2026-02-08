@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Aug 04 12:20:19 +0000 2014",
-    "id": 496269398660120580,
-    "id_str": "496269398660120577",
-    "full_text": "#TDiH 1914 @USAinUK Amb Page \"prevailing opinion is that the British Gov't will be in the war very quickly\" #WW1Tweet http://t.co/6BYyJD2cXx",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,64 +9,66 @@
     "entities": {
         "hashtags": [
             {
-                "text": "TDiH",
                 "indices": [
                     0,
                     5
-                ]
+                ],
+                "text": "TDiH"
             },
             {
-                "text": "WW1Tweet",
                 "indices": [
                     108,
                     117
-                ]
+                ],
+                "text": "WW1Tweet"
             }
         ],
         "symbols": [],
+        "urls": [
+            {
+                "display_url": "go.usa.gov/5MuH",
+                "expanded_url": "http://go.usa.gov/5MuH",
+                "indices": [
+                    118,
+                    140
+                ],
+                "url": "http://t.co/6BYyJD2cXx"
+            }
+        ],
         "user_mentions": [
             {
-                "screen_name": "USAinUK",
-                "name": "U.S. Embassy London",
                 "id": 14856951,
                 "id_str": "14856951",
                 "indices": [
                     11,
                     19
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "http://t.co/6BYyJD2cXx",
-                "expanded_url": "http://go.usa.gov/5MuH",
-                "display_url": "go.usa.gov/5MuH",
-                "indices": [
-                    118,
-                    140
-                ]
+                ],
+                "name": "U.S. Embassy London",
+                "screen_name": "USAinUK"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "#TDiH 1914 @USAinUK Amb Page \"prevailing opinion is that the British Gov't will be in the war very quickly\" #WW1Tweet http://t.co/6BYyJD2cXx",
+    "geo": null,
+    "id": 496269398660120580,
+    "id_str": "496269398660120577",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

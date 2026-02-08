@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Jul 14 16:02:27 +0000 2016",
-    "id": 753620683037564930,
-    "id_str": "753620683037564928",
-    "full_text": "President Nixon’s nuclear nonproliferation efforts between 1969–72 are documented in #FRUS vol. E–2: https://t.co/9qPXgeloK9 @TimbieForum",
-    "truncated": false,
     "display_text_range": [
         0,
         137
@@ -11,57 +9,59 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     85,
                     90
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "symbols": [],
+        "urls": [
+            {
+                "display_url": "go.usa.gov/xcjYG",
+                "expanded_url": "http://go.usa.gov/xcjYG",
+                "indices": [
+                    101,
+                    124
+                ],
+                "url": "https://t.co/9qPXgeloK9"
+            }
+        ],
         "user_mentions": [
             {
-                "screen_name": "TimbieForum",
-                "name": "Timbie Forum",
                 "id": 728601497907437570,
                 "id_str": "728601497907437569",
                 "indices": [
                     125,
                     137
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "https://t.co/9qPXgeloK9",
-                "expanded_url": "http://go.usa.gov/xcjYG",
-                "display_url": "go.usa.gov/xcjYG",
-                "indices": [
-                    101,
-                    124
-                ]
+                ],
+                "name": "Timbie Forum",
+                "screen_name": "TimbieForum"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 1,
+    "favorited": false,
+    "full_text": "President Nixon’s nuclear nonproliferation efforts between 1969–72 are documented in #FRUS vol. E–2: https://t.co/9qPXgeloK9 @TimbieForum",
+    "geo": null,
+    "id": 753620683037564930,
+    "id_str": "753620683037564928",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 1,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

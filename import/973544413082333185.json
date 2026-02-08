@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Mar 13 13:00:50 +0000 2018",
-    "id": 973544413082333180,
-    "id_str": "973544413082333185",
-    "full_text": "1980 @StateDept telegram to All Diplomatic and Consular Posts discusses “some 150 examples of ways” posts “have already found to encourage host countries to recognize the rights and advance the status of #women.” https://t.co/46wCBe8rw0 #WomensHistoryMonth #FRUS",
-    "truncated": false,
     "display_text_range": [
         0,
         262
@@ -11,71 +9,73 @@
     "entities": {
         "hashtags": [
             {
-                "text": "women",
                 "indices": [
                     204,
                     210
-                ]
+                ],
+                "text": "women"
             },
             {
-                "text": "WomensHistoryMonth",
                 "indices": [
                     237,
                     256
-                ]
+                ],
+                "text": "WomensHistoryMonth"
             },
             {
-                "text": "FRUS",
                 "indices": [
                     257,
                     262
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "symbols": [],
+        "urls": [
+            {
+                "display_url": "go.usa.gov/xnHRS",
+                "expanded_url": "https://go.usa.gov/xnHRS",
+                "indices": [
+                    213,
+                    236
+                ],
+                "url": "https://t.co/46wCBe8rw0"
+            }
+        ],
         "user_mentions": [
             {
-                "screen_name": "StateDept",
-                "name": "Department of State",
                 "id": 9624742,
                 "id_str": "9624742",
                 "indices": [
                     5,
                     15
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "https://t.co/46wCBe8rw0",
-                "expanded_url": "https://go.usa.gov/xnHRS",
-                "display_url": "go.usa.gov/xnHRS",
-                "indices": [
-                    213,
-                    236
-                ]
+                ],
+                "name": "Department of State",
+                "screen_name": "StateDept"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "1980 @StateDept telegram to All Diplomatic and Consular Posts discusses “some 150 examples of ways” posts “have already found to encourage host countries to recognize the rights and advance the status of #women.” https://t.co/46wCBe8rw0 #WomensHistoryMonth #FRUS",
+    "geo": null,
+    "id": 973544413082333180,
+    "id_str": "973544413082333185",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

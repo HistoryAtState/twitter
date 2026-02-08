@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Sep 20 17:34:22 +0000 2012",
-    "id": 248837517556719616,
-    "id_str": "248837517556719616",
-    "full_text": "RT @OpenGov: Today we celebrate the 1 yr anniv of the Open Govt Partnership. Read US Nat'l Action Plan here: http://t.co/5zDPHDhn (PDF)",
-    "truncated": false,
     "display_text_range": [
         0,
         135
@@ -11,50 +9,51 @@
     "entities": {
         "hashtags": [],
         "symbols": [],
+        "urls": [
+            {
+                "display_url": "whitehouse.gov/sites/default/…",
+                "expanded_url": "http://www.whitehouse.gov/sites/default/files/us_national_action_plan_final_2.pdf",
+                "indices": [
+                    109,
+                    129
+                ],
+                "url": "http://t.co/5zDPHDhn"
+            }
+        ],
         "user_mentions": [
             {
-                "screen_name": "opengov",
-                "name": "opengov",
                 "id": 822540133404737540,
                 "id_str": "822540133404737536",
                 "indices": [
                     3,
                     11
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "http://t.co/5zDPHDhn",
-                "expanded_url": "http://www.whitehouse.gov/sites/default/files/us_national_action_plan_final_2.pdf",
-                "display_url": "whitehouse.gov/sites/default/…",
-                "indices": [
-                    109,
-                    129
-                ]
+                ],
+                "name": "opengov",
+                "screen_name": "opengov"
             }
         ]
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "RT @OpenGov: Today we celebrate the 1 yr anniv of the Open Govt Partnership. Read US Nat'l Action Plan here: http://t.co/5zDPHDhn (PDF)",
+    "geo": null,
+    "id": 248837517556719616,
+    "id_str": "248837517556719616",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "possibly_sensitive": false,
+    "retweet_count": 43,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Thu Sep 20 17:26:57 +0000 2012",
-        "id": 248835652026785792,
-        "id_str": "248835652026785792",
-        "full_text": "Today we celebrate the 1 yr anniv of the Open Govt Partnership. Read US Nat'l Action Plan here: http://t.co/5zDPHDhn (PDF)",
-        "truncated": false,
         "display_text_range": [
             0,
             122
@@ -62,46 +61,47 @@
         "entities": {
             "hashtags": [],
             "symbols": [],
-            "user_mentions": [],
             "urls": [
                 {
-                    "url": "http://t.co/5zDPHDhn",
-                    "expanded_url": "http://www.whitehouse.gov/sites/default/files/us_national_action_plan_final_2.pdf",
                     "display_url": "whitehouse.gov/sites/default/…",
+                    "expanded_url": "http://www.whitehouse.gov/sites/default/files/us_national_action_plan_final_2.pdf",
                     "indices": [
                         96,
                         116
-                    ]
+                    ],
+                    "url": "http://t.co/5zDPHDhn"
                 }
-            ]
+            ],
+            "user_mentions": []
         },
-        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+        "favorite_count": 19,
+        "favorited": false,
+        "full_text": "Today we celebrate the 1 yr anniv of the Open Govt Partnership. Read US Nat'l Action Plan here: http://t.co/5zDPHDhn (PDF)",
+        "geo": null,
+        "id": 248835652026785792,
+        "id_str": "248835652026785792",
+        "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 43,
+        "retweeted": true,
+        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+        "truncated": false,
         "user": {
             "id": 24752484,
             "id_str": "24752484"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 43,
-        "favorite_count": 19,
-        "favorited": false,
-        "retweeted": true,
-        "possibly_sensitive": false,
-        "lang": "en"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 43,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": true,
-    "possibly_sensitive": false,
-    "lang": "en"
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Oct 29 23:11:06 +0000 2019",
-    "id": 1189318774362689540,
-    "id_str": "1189318774362689539",
-    "full_text": "RT @FSIatState: Today we recognized heroes from @StateDept’s rich history: the U.S. diplomatic community serving in Europe during World War…",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,50 +9,50 @@
     "entities": {
         "hashtags": [],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "FSIatState",
-                "name": "Foreign Service Institute",
                 "id": 958044239576948740,
                 "id_str": "958044239576948736",
                 "indices": [
                     3,
                     14
-                ]
+                ],
+                "name": "Foreign Service Institute",
+                "screen_name": "FSIatState"
             },
             {
-                "screen_name": "StateDept",
-                "name": "Department of State",
                 "id": 9624742,
                 "id_str": "9624742",
                 "indices": [
                     48,
                     58
-                ]
+                ],
+                "name": "Department of State",
+                "screen_name": "StateDept"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": true,
+    "full_text": "RT @FSIatState: Today we recognized heroes from @StateDept’s rich history: the U.S. diplomatic community serving in Europe during World War…",
+    "geo": null,
+    "id": 1189318774362689540,
+    "id_str": "1189318774362689539",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "retweet_count": 10,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Tue Oct 29 21:37:28 +0000 2019",
-        "id": 1189295207684157440,
-        "id_str": "1189295207684157440",
-        "full_text": "Today we recognized heroes from @StateDept’s rich history: the U.S. diplomatic community serving in Europe during World War I. Experts from @HistoryAtState shared the stories of their creative and heroic efforts in the face of unprecedented global challenges. #HeroesofUSDiplomacy https://t.co/qNQyc1pRWB",
-        "truncated": false,
         "display_text_range": [
             0,
             280
@@ -62,39 +60,17 @@
         "entities": {
             "hashtags": [
                 {
-                    "text": "HeroesofUSDiplomacy",
                     "indices": [
                         260,
                         280
-                    ]
+                    ],
+                    "text": "HeroesofUSDiplomacy"
                 }
             ],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "StateDept",
-                    "name": "Department of State",
-                    "id": 9624742,
-                    "id_str": "9624742",
-                    "indices": [
-                        32,
-                        42
-                    ]
-                },
-                {
-                    "screen_name": "HistoryAtState",
-                    "name": "HistoryAtState",
-                    "id": 586570880,
-                    "id_str": "586570880",
-                    "indices": [
-                        140,
-                        155
-                    ]
-                }
-            ],
-            "urls": [],
             "media": [
                 {
+                    "display_url": "pic.twitter.com/qNQyc1pRWB",
+                    "expanded_url": "https://twitter.com/FSIatState/status/1189295207684157440/photo/1",
                     "id": 1189295199454928900,
                     "id_str": "1189295199454928897",
                     "indices": [
@@ -103,38 +79,63 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/EIE5rsiWoAEEa6_.jpg",
                     "media_url_https": "https://pbs.twimg.com/media/EIE5rsiWoAEEa6_.jpg",
-                    "url": "https://t.co/qNQyc1pRWB",
-                    "display_url": "pic.twitter.com/qNQyc1pRWB",
-                    "expanded_url": "https://twitter.com/FSIatState/status/1189295207684157440/photo/1",
-                    "type": "photo",
                     "sizes": {
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
+                        "large": {
+                            "h": 1458,
+                            "resize": "fit",
+                            "w": 2048
                         },
                         "medium": {
-                            "w": 1200,
                             "h": 854,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 1200
                         },
                         "small": {
-                            "w": 680,
                             "h": 484,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 680
                         },
-                        "large": {
-                            "w": 2048,
-                            "h": 1458,
-                            "resize": "fit"
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
                         }
-                    }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/qNQyc1pRWB"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 9624742,
+                    "id_str": "9624742",
+                    "indices": [
+                        32,
+                        42
+                    ],
+                    "name": "Department of State",
+                    "screen_name": "StateDept"
+                },
+                {
+                    "id": 586570880,
+                    "id_str": "586570880",
+                    "indices": [
+                        140,
+                        155
+                    ],
+                    "name": "HistoryAtState",
+                    "screen_name": "HistoryAtState"
                 }
             ]
         },
         "extended_entities": {
             "media": [
                 {
+                    "display_url": "pic.twitter.com/qNQyc1pRWB",
+                    "expanded_url": "https://twitter.com/FSIatState/status/1189295207684157440/photo/1",
+                    "ext_alt_text": null,
                     "id": 1189295199454928900,
                     "id_str": "1189295199454928897",
                     "indices": [
@@ -143,35 +144,35 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/EIE5rsiWoAEEa6_.jpg",
                     "media_url_https": "https://pbs.twimg.com/media/EIE5rsiWoAEEa6_.jpg",
-                    "url": "https://t.co/qNQyc1pRWB",
-                    "display_url": "pic.twitter.com/qNQyc1pRWB",
-                    "expanded_url": "https://twitter.com/FSIatState/status/1189295207684157440/photo/1",
-                    "type": "photo",
                     "sizes": {
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
+                        "large": {
+                            "h": 1458,
+                            "resize": "fit",
+                            "w": 2048
                         },
                         "medium": {
-                            "w": 1200,
                             "h": 854,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 1200
                         },
                         "small": {
-                            "w": 680,
                             "h": 484,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 680
                         },
-                        "large": {
-                            "w": 2048,
-                            "h": 1458,
-                            "resize": "fit"
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
                         }
                     },
-                    "ext_alt_text": null
+                    "type": "photo",
+                    "url": "https://t.co/qNQyc1pRWB"
                 },
                 {
+                    "display_url": "pic.twitter.com/qNQyc1pRWB",
+                    "expanded_url": "https://twitter.com/FSIatState/status/1189295207684157440/photo/1",
+                    "ext_alt_text": null,
                     "id": 1189295199463321600,
                     "id_str": "1189295199463321606",
                     "indices": [
@@ -180,62 +181,61 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/EIE5rskWsAYXzzd.jpg",
                     "media_url_https": "https://pbs.twimg.com/media/EIE5rskWsAYXzzd.jpg",
-                    "url": "https://t.co/qNQyc1pRWB",
-                    "display_url": "pic.twitter.com/qNQyc1pRWB",
-                    "expanded_url": "https://twitter.com/FSIatState/status/1189295207684157440/photo/1",
-                    "type": "photo",
                     "sizes": {
-                        "small": {
-                            "w": 680,
-                            "h": 434,
-                            "resize": "fit"
-                        },
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
+                        "large": {
+                            "h": 1309,
+                            "resize": "fit",
+                            "w": 2048
                         },
                         "medium": {
-                            "w": 1200,
                             "h": 767,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 1200
                         },
-                        "large": {
-                            "w": 2048,
-                            "h": 1309,
-                            "resize": "fit"
+                        "small": {
+                            "h": 434,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
                         }
                     },
-                    "ext_alt_text": null
+                    "type": "photo",
+                    "url": "https://t.co/qNQyc1pRWB"
                 }
             ]
         },
-        "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+        "favorite_count": 24,
+        "favorited": true,
+        "full_text": "Today we recognized heroes from @StateDept’s rich history: the U.S. diplomatic community serving in Europe during World War I. Experts from @HistoryAtState shared the stories of their creative and heroic efforts in the face of unprecedented global challenges. #HeroesofUSDiplomacy https://t.co/qNQyc1pRWB",
+        "geo": null,
+        "id": 1189295207684157440,
+        "id_str": "1189295207684157440",
+        "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 10,
+        "retweeted": true,
+        "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+        "truncated": false,
         "user": {
             "id": 958044239576948740,
             "id_str": "958044239576948736"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 10,
-        "favorite_count": 24,
-        "favorited": true,
-        "retweeted": true,
-        "possibly_sensitive": false,
-        "lang": "en"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 10,
-    "favorite_count": 0,
-    "favorited": true,
-    "retweeted": true,
-    "lang": "en"
+    "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

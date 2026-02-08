@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Mar 07 19:32:03 +0000 2016",
-    "id": 706925398379118590,
-    "id_str": "706925398379118593",
-    "full_text": "Now available: #FRUS Diplomatic Papers 1943—Conferences at Cairo and Tehran https://t.co/mJMj9eGegy #twitterstorians https://t.co/sMCV7C4doV",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,35 +9,24 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     15,
                     20
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "twitterstorians",
                 "indices": [
                     100,
                     116
-                ]
-            }
-        ],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
-            {
-                "url": "https://t.co/mJMj9eGegy",
-                "expanded_url": "https://history.state.gov/historicaldocuments/frus1943CairoTehran",
-                "display_url": "history.state.gov/historicaldocu…",
-                "indices": [
-                    76,
-                    99
-                ]
+                ],
+                "text": "twitterstorians"
             }
         ],
         "media": [
             {
+                "display_url": "pic.twitter.com/sMCV7C4doV",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/706925398379118593/photo/1",
                 "id": 706925397829509120,
                 "id_str": "706925397829509120",
                 "indices": [
@@ -48,38 +35,52 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/Cc-A52RUYAAy2Zy.png",
                 "media_url_https": "https://pbs.twimg.com/media/Cc-A52RUYAAy2Zy.png",
-                "url": "https://t.co/sMCV7C4doV",
-                "display_url": "pic.twitter.com/sMCV7C4doV",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/706925398379118593/photo/1",
-                "type": "photo",
                 "sizes": {
+                    "large": {
+                        "h": 450,
+                        "resize": "fit",
+                        "w": 1491
+                    },
                     "medium": {
-                        "w": 1200,
                         "h": 362,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1200
                     },
                     "small": {
-                        "w": 680,
                         "h": 205,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 680
                     },
                     "thumb": {
-                        "w": 150,
                         "h": 150,
-                        "resize": "crop"
-                    },
-                    "large": {
-                        "w": 1491,
-                        "h": 450,
-                        "resize": "fit"
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/sMCV7C4doV"
             }
-        ]
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "history.state.gov/historicaldocu…",
+                "expanded_url": "https://history.state.gov/historicaldocuments/frus1943CairoTehran",
+                "indices": [
+                    76,
+                    99
+                ],
+                "url": "https://t.co/mJMj9eGegy"
+            }
+        ],
+        "user_mentions": []
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/sMCV7C4doV",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/706925398379118593/photo/1",
+                "ext_alt_text": null,
                 "id": 706925397829509120,
                 "id_str": "706925397829509120",
                 "indices": [
@@ -88,55 +89,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/Cc-A52RUYAAy2Zy.png",
                 "media_url_https": "https://pbs.twimg.com/media/Cc-A52RUYAAy2Zy.png",
-                "url": "https://t.co/sMCV7C4doV",
-                "display_url": "pic.twitter.com/sMCV7C4doV",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/706925398379118593/photo/1",
-                "type": "photo",
                 "sizes": {
+                    "large": {
+                        "h": 450,
+                        "resize": "fit",
+                        "w": 1491
+                    },
                     "medium": {
-                        "w": 1200,
                         "h": 362,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1200
                     },
                     "small": {
-                        "w": 680,
                         "h": 205,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 680
                     },
                     "thumb": {
-                        "w": 150,
                         "h": 150,
-                        "resize": "crop"
-                    },
-                    "large": {
-                        "w": 1491,
-                        "h": 450,
-                        "resize": "fit"
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": null
+                "type": "photo",
+                "url": "https://t.co/sMCV7C4doV"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 2,
+    "favorited": false,
+    "full_text": "Now available: #FRUS Diplomatic Papers 1943—Conferences at Cairo and Tehran https://t.co/mJMj9eGegy #twitterstorians https://t.co/sMCV7C4doV",
+    "geo": null,
+    "id": 706925398379118590,
+    "id_str": "706925398379118593",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 2,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

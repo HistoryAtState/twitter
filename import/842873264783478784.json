@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Fri Mar 17 23:00:20 +0000 2017",
-    "id": 842873264783478780,
-    "id_str": "842873264783478784",
-    "full_text": "1944 #SecState requests removal of Axis occupation in #Ireland: https://t.co/h0qVN7h1we #StPatricksDay #FRUS #twitterstorians #WWII https://t.co/jH339ji1Eo",
-    "truncated": false,
     "display_text_range": [
         0,
         131
@@ -11,63 +9,52 @@
     "entities": {
         "hashtags": [
             {
-                "text": "SecState",
                 "indices": [
                     5,
                     14
-                ]
+                ],
+                "text": "SecState"
             },
             {
-                "text": "Ireland",
                 "indices": [
                     54,
                     62
-                ]
+                ],
+                "text": "Ireland"
             },
             {
-                "text": "StPatricksDay",
                 "indices": [
                     88,
                     102
-                ]
+                ],
+                "text": "StPatricksDay"
             },
             {
-                "text": "FRUS",
                 "indices": [
                     103,
                     108
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "twitterstorians",
                 "indices": [
                     109,
                     125
-                ]
+                ],
+                "text": "twitterstorians"
             },
             {
-                "text": "WWII",
                 "indices": [
                     126,
                     131
-                ]
-            }
-        ],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
-            {
-                "url": "https://t.co/h0qVN7h1we",
-                "expanded_url": "https://go.usa.gov/xXBWA",
-                "display_url": "go.usa.gov/xXBWA",
-                "indices": [
-                    64,
-                    87
-                ]
+                ],
+                "text": "WWII"
             }
         ],
         "media": [
             {
+                "display_url": "pic.twitter.com/jH339ji1Eo",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/842873264783478784/photo/1",
                 "id": 842873262577254400,
                 "id_str": "842873262577254400",
                 "indices": [
@@ -76,38 +63,52 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/C7J8xD6XgAA3J8b.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/C7J8xD6XgAA3J8b.jpg",
-                "url": "https://t.co/jH339ji1Eo",
-                "display_url": "pic.twitter.com/jH339ji1Eo",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/842873264783478784/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "small": {
-                        "w": 436,
-                        "h": 600,
-                        "resize": "fit"
-                    },
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
                     "large": {
-                        "w": 436,
                         "h": 600,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 436
                     },
                     "medium": {
-                        "w": 436,
                         "h": 600,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 436
+                    },
+                    "small": {
+                        "h": 600,
+                        "resize": "fit",
+                        "w": 436
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/jH339ji1Eo"
             }
-        ]
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "go.usa.gov/xXBWA",
+                "expanded_url": "https://go.usa.gov/xXBWA",
+                "indices": [
+                    64,
+                    87
+                ],
+                "url": "https://t.co/h0qVN7h1we"
+            }
+        ],
+        "user_mentions": []
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/jH339ji1Eo",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/842873264783478784/photo/1",
+                "ext_alt_text": null,
                 "id": 842873262577254400,
                 "id_str": "842873262577254400",
                 "indices": [
@@ -116,55 +117,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/C7J8xD6XgAA3J8b.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/C7J8xD6XgAA3J8b.jpg",
-                "url": "https://t.co/jH339ji1Eo",
-                "display_url": "pic.twitter.com/jH339ji1Eo",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/842873264783478784/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "small": {
-                        "w": 436,
-                        "h": 600,
-                        "resize": "fit"
-                    },
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
                     "large": {
-                        "w": 436,
                         "h": 600,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 436
                     },
                     "medium": {
-                        "w": 436,
                         "h": 600,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 436
+                    },
+                    "small": {
+                        "h": 600,
+                        "resize": "fit",
+                        "w": 436
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": null
+                "type": "photo",
+                "url": "https://t.co/jH339ji1Eo"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "1944 #SecState requests removal of Axis occupation in #Ireland: https://t.co/h0qVN7h1we #StPatricksDay #FRUS #twitterstorians #WWII https://t.co/jH339ji1Eo",
+    "geo": null,
+    "id": 842873264783478780,
+    "id_str": "842873264783478784",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Apr 09 16:12:48 +0000 2018",
-    "id": 983377195476365310,
-    "id_str": "983377195476365312",
-    "full_text": "RT @StateDG: DYK the Ralph J Bunche Library @StateDept is the oldest Federal Government library? It was founded in 1789. #NationalLibraryWe…",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,50 +9,50 @@
     "entities": {
         "hashtags": [],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "StateDG",
-                "name": "Marcia S. Bernicat",
                 "id": 3433322913,
                 "id_str": "3433322913",
                 "indices": [
                     3,
                     11
-                ]
+                ],
+                "name": "Marcia S. Bernicat",
+                "screen_name": "StateDG"
             },
             {
-                "screen_name": "StateDept",
-                "name": "Department of State",
                 "id": 9624742,
                 "id_str": "9624742",
                 "indices": [
                     44,
                     54
-                ]
+                ],
+                "name": "Department of State",
+                "screen_name": "StateDept"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": true,
+    "full_text": "RT @StateDG: DYK the Ralph J Bunche Library @StateDept is the oldest Federal Government library? It was founded in 1789. #NationalLibraryWe…",
+    "geo": null,
+    "id": 983377195476365310,
+    "id_str": "983377195476365312",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "retweet_count": 24,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Mon Apr 09 13:19:04 +0000 2018",
-        "id": 983333474034692100,
-        "id_str": "983333474034692097",
-        "full_text": "DYK the Ralph J Bunche Library @StateDept is the oldest Federal Government library? It was founded in 1789. #NationalLibraryWeek https://t.co/VFbOlTKu82",
-        "truncated": false,
         "display_text_range": [
             0,
             128
@@ -62,29 +60,17 @@
         "entities": {
             "hashtags": [
                 {
-                    "text": "NationalLibraryWeek",
                     "indices": [
                         108,
                         128
-                    ]
+                    ],
+                    "text": "NationalLibraryWeek"
                 }
             ],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "StateDept",
-                    "name": "Department of State",
-                    "id": 9624742,
-                    "id_str": "9624742",
-                    "indices": [
-                        31,
-                        41
-                    ]
-                }
-            ],
-            "urls": [],
             "media": [
                 {
+                    "display_url": "pic.twitter.com/VFbOlTKu82",
+                    "expanded_url": "https://twitter.com/StateDG/status/983333474034692097/photo/1",
                     "id": 983333141363519490,
                     "id_str": "983333141363519489",
                     "indices": [
@@ -93,38 +79,53 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/DaWASDrXcAE3FiG.jpg",
                     "media_url_https": "https://pbs.twimg.com/media/DaWASDrXcAE3FiG.jpg",
-                    "url": "https://t.co/VFbOlTKu82",
-                    "display_url": "pic.twitter.com/VFbOlTKu82",
-                    "expanded_url": "https://twitter.com/StateDG/status/983333474034692097/photo/1",
-                    "type": "photo",
                     "sizes": {
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
+                        "large": {
+                            "h": 1151,
+                            "resize": "fit",
+                            "w": 2048
                         },
                         "medium": {
-                            "w": 1200,
                             "h": 674,
-                            "resize": "fit"
-                        },
-                        "large": {
-                            "w": 2048,
-                            "h": 1151,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 1200
                         },
                         "small": {
-                            "w": 680,
                             "h": 382,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
                         }
-                    }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/VFbOlTKu82"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 9624742,
+                    "id_str": "9624742",
+                    "indices": [
+                        31,
+                        41
+                    ],
+                    "name": "Department of State",
+                    "screen_name": "StateDept"
                 }
             ]
         },
         "extended_entities": {
             "media": [
                 {
+                    "display_url": "pic.twitter.com/VFbOlTKu82",
+                    "expanded_url": "https://twitter.com/StateDG/status/983333474034692097/photo/1",
+                    "ext_alt_text": null,
                     "id": 983333141363519490,
                     "id_str": "983333141363519489",
                     "indices": [
@@ -133,62 +134,61 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/DaWASDrXcAE3FiG.jpg",
                     "media_url_https": "https://pbs.twimg.com/media/DaWASDrXcAE3FiG.jpg",
-                    "url": "https://t.co/VFbOlTKu82",
-                    "display_url": "pic.twitter.com/VFbOlTKu82",
-                    "expanded_url": "https://twitter.com/StateDG/status/983333474034692097/photo/1",
-                    "type": "photo",
                     "sizes": {
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
+                        "large": {
+                            "h": 1151,
+                            "resize": "fit",
+                            "w": 2048
                         },
                         "medium": {
-                            "w": 1200,
                             "h": 674,
-                            "resize": "fit"
-                        },
-                        "large": {
-                            "w": 2048,
-                            "h": 1151,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 1200
                         },
                         "small": {
-                            "w": 680,
                             "h": 382,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
                         }
                     },
-                    "ext_alt_text": null
+                    "type": "photo",
+                    "url": "https://t.co/VFbOlTKu82"
                 }
             ]
         },
-        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+        "favorite_count": 37,
+        "favorited": true,
+        "full_text": "DYK the Ralph J Bunche Library @StateDept is the oldest Federal Government library? It was founded in 1789. #NationalLibraryWeek https://t.co/VFbOlTKu82",
+        "geo": null,
+        "id": 983333474034692100,
+        "id_str": "983333474034692097",
+        "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 24,
+        "retweeted": true,
+        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+        "truncated": false,
         "user": {
             "id": 3433322913,
             "id_str": "3433322913"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 24,
-        "favorite_count": 37,
-        "favorited": true,
-        "retweeted": true,
-        "possibly_sensitive": false,
-        "lang": "en"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 24,
-    "favorite_count": 0,
-    "favorited": true,
-    "retweeted": true,
-    "lang": "en"
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

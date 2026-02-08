@@ -1,30 +1,17 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Dec 01 17:03:36 +0000 2020",
-    "id": 1333819046853283840,
-    "id_str": "1333819046853283846",
-    "full_text": "Bureaucrats can have a sense of humor too! Enjoy an entertaining assessment of Gorbachev with “razor blades on his elbows,” Gromyko, and those “commies.” Where else can you find Jane Fonda, King Tut, Luca Brazzi, and whale blubber all in one place?\nhttps://t.co/5NpOq5G1iT https://t.co/xyE7LDYSj3",
-    "truncated": false,
     "display_text_range": [
         0,
         272
     ],
     "entities": {
         "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
-            {
-                "url": "https://t.co/5NpOq5G1iT",
-                "expanded_url": "https://history.state.gov/historicaldocuments/frus1981-88v05/d16",
-                "display_url": "history.state.gov/historicaldocu…",
-                "indices": [
-                    249,
-                    272
-                ]
-            }
-        ],
         "media": [
             {
+                "display_url": "pic.twitter.com/xyE7LDYSj3",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1333819046853283846/photo/1",
                 "id": 1333819044915531780,
                 "id_str": "1333819044915531776",
                 "indices": [
@@ -33,38 +20,52 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/EoKtWr7XUAAtMG2.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/EoKtWr7XUAAtMG2.jpg",
-                "url": "https://t.co/xyE7LDYSj3",
-                "display_url": "pic.twitter.com/xyE7LDYSj3",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1333819046853283846/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
+                    "large": {
+                        "h": 1156,
+                        "resize": "fit",
+                        "w": 1028
                     },
                     "medium": {
-                        "w": 1028,
                         "h": 1156,
-                        "resize": "fit"
-                    },
-                    "large": {
-                        "w": 1028,
-                        "h": 1156,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1028
                     },
                     "small": {
-                        "w": 605,
                         "h": 680,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 605
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/xyE7LDYSj3"
             }
-        ]
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "history.state.gov/historicaldocu…",
+                "expanded_url": "https://history.state.gov/historicaldocuments/frus1981-88v05/d16",
+                "indices": [
+                    249,
+                    272
+                ],
+                "url": "https://t.co/5NpOq5G1iT"
+            }
+        ],
+        "user_mentions": []
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/xyE7LDYSj3",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1333819046853283846/photo/1",
+                "ext_alt_text": "Screenshot of the first page of the Briefing Memorandum from the Assistant Secretary of State for European and Canadian Affairs (Burt) to the Under Secretary of State for Political Affairs (Armacost), dated April 5, 1985: “Subject: Your Next Meeting with Foreign Minister Gromyko”  Excerpt: “What to Expect from Moscow Under Gorbachev: He’s young, he’s smooth, he’s got razor blades on his elbows”",
                 "id": 1333819044915531780,
                 "id_str": "1333819044915531776",
                 "indices": [
@@ -73,55 +74,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/EoKtWr7XUAAtMG2.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/EoKtWr7XUAAtMG2.jpg",
-                "url": "https://t.co/xyE7LDYSj3",
-                "display_url": "pic.twitter.com/xyE7LDYSj3",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1333819046853283846/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
+                    "large": {
+                        "h": 1156,
+                        "resize": "fit",
+                        "w": 1028
                     },
                     "medium": {
-                        "w": 1028,
                         "h": 1156,
-                        "resize": "fit"
-                    },
-                    "large": {
-                        "w": 1028,
-                        "h": 1156,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1028
                     },
                     "small": {
-                        "w": 605,
                         "h": 680,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 605
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": "Screenshot of the first page of the Briefing Memorandum from the Assistant Secretary of State for European and Canadian Affairs (Burt) to the Under Secretary of State for Political Affairs (Armacost), dated April 5, 1985: “Subject: Your Next Meeting with Foreign Minister Gromyko”  Excerpt: “What to Expect from Moscow Under Gorbachev: He’s young, he’s smooth, he’s got razor blades on his elbows”"
+                "type": "photo",
+                "url": "https://t.co/xyE7LDYSj3"
             }
         ]
     },
-    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "favorite_count": 24,
+    "favorited": false,
+    "full_text": "Bureaucrats can have a sense of humor too! Enjoy an entertaining assessment of Gorbachev with “razor blades on his elbows,” Gromyko, and those “commies.” Where else can you find Jane Fonda, King Tut, Luca Brazzi, and whale blubber all in one place?\nhttps://t.co/5NpOq5G1iT https://t.co/xyE7LDYSj3",
+    "geo": null,
+    "id": 1333819046853283840,
+    "id_str": "1333819046853283846",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 9,
+    "retweeted": false,
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 9,
-    "favorite_count": 24,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

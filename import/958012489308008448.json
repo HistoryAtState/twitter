@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Jan 29 16:22:31 +0000 2018",
-    "id": 958012489308008450,
-    "id_str": "958012489308008448",
-    "full_text": "The Office of the Historian’s own Dr. Alex Poster will be speaking as a part of a panel on The Evolution of the U.S. Response to HIV/AIDS on Feb 1 at noon at the @DiplomacyCenter. Registration ends today:  https://t.co/SPEK6IV8Su #twitterstorians #AIDS",
-    "truncated": false,
     "display_text_range": [
         0,
         252
@@ -11,64 +9,66 @@
     "entities": {
         "hashtags": [
             {
-                "text": "twitterstorians",
                 "indices": [
                     230,
                     246
-                ]
+                ],
+                "text": "twitterstorians"
             },
             {
-                "text": "AIDS",
                 "indices": [
                     247,
                     252
-                ]
+                ],
+                "text": "AIDS"
             }
         ],
         "symbols": [],
+        "urls": [
+            {
+                "display_url": "goo.gl/p9xFkz",
+                "expanded_url": "https://goo.gl/p9xFkz",
+                "indices": [
+                    206,
+                    229
+                ],
+                "url": "https://t.co/SPEK6IV8Su"
+            }
+        ],
         "user_mentions": [
             {
-                "screen_name": "diplomacycenter",
-                "name": "NMAD Museum",
                 "id": 1180122509204701180,
                 "id_str": "1180122509204701186",
                 "indices": [
                     162,
                     178
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "https://t.co/SPEK6IV8Su",
-                "expanded_url": "https://goo.gl/p9xFkz",
-                "display_url": "goo.gl/p9xFkz",
-                "indices": [
-                    206,
-                    229
-                ]
+                ],
+                "name": "NMAD Museum",
+                "screen_name": "diplomacycenter"
             }
         ]
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 8,
+    "favorited": false,
+    "full_text": "The Office of the Historian’s own Dr. Alex Poster will be speaking as a part of a panel on The Evolution of the U.S. Response to HIV/AIDS on Feb 1 at noon at the @DiplomacyCenter. Registration ends today:  https://t.co/SPEK6IV8Su #twitterstorians #AIDS",
+    "geo": null,
+    "id": 958012489308008450,
+    "id_str": "958012489308008448",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 6,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 8,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

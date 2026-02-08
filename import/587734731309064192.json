@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Apr 13 21:50:54 +0000 2015",
-    "id": 587734731309064190,
-    "id_str": "587734731309064192",
-    "full_text": "Can’t attend our live Google Hangout on 4/15? Submit Qs (via event page) or Tweet to #WW1Diplomacy http://t.co/53mbFcec1H",
-    "truncated": false,
     "display_text_range": [
         0,
         121
@@ -11,46 +9,48 @@
     "entities": {
         "hashtags": [
             {
-                "text": "WW1Diplomacy",
                 "indices": [
                     85,
                     98
-                ]
+                ],
+                "text": "WW1Diplomacy"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/53mbFcec1H",
-                "expanded_url": "http://goo.gl/J7nfZR",
                 "display_url": "goo.gl/J7nfZR",
+                "expanded_url": "http://goo.gl/J7nfZR",
                 "indices": [
                     99,
                     121
-                ]
+                ],
+                "url": "http://t.co/53mbFcec1H"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "Can’t attend our live Google Hangout on 4/15? Submit Qs (via event page) or Tweet to #WW1Diplomacy http://t.co/53mbFcec1H",
+    "geo": null,
+    "id": 587734731309064190,
+    "id_str": "587734731309064192",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Aug 29 15:45:43 +0000 2016",
-    "id": 770286313710972930,
-    "id_str": "770286313710972928",
-    "full_text": "Now available: Foreign Relations, 1936, General, British Commonwealth, Vol. I https://t.co/j2JkrWD1q8 #FRUS #twitterstorians",
-    "truncated": false,
     "display_text_range": [
         0,
         124
@@ -11,53 +9,55 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     102,
                     107
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "twitterstorians",
                 "indices": [
                     108,
                     124
-                ]
+                ],
+                "text": "twitterstorians"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "https://t.co/j2JkrWD1q8",
-                "expanded_url": "http://go.usa.gov/xDeCW",
                 "display_url": "go.usa.gov/xDeCW",
+                "expanded_url": "http://go.usa.gov/xDeCW",
                 "indices": [
                     78,
                     101
-                ]
+                ],
+                "url": "https://t.co/j2JkrWD1q8"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 1,
+    "favorited": false,
+    "full_text": "Now available: Foreign Relations, 1936, General, British Commonwealth, Vol. I https://t.co/j2JkrWD1q8 #FRUS #twitterstorians",
+    "geo": null,
+    "id": 770286313710972930,
+    "id_str": "770286313710972928",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 1,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Fri Sep 15 16:30:15 +0000 2017",
-    "id": 908729685558906880,
-    "id_str": "908729685558906881",
-    "full_text": "Docs on #MontrealProtocol are planned for publication in the Protection of the #Ozone Layer compilation of #FRUS 1981-1988 Global Issues II",
-    "truncated": false,
     "display_text_range": [
         0,
         139
@@ -11,49 +9,51 @@
     "entities": {
         "hashtags": [
             {
-                "text": "MontrealProtocol",
                 "indices": [
                     8,
                     25
-                ]
+                ],
+                "text": "MontrealProtocol"
             },
             {
-                "text": "Ozone",
                 "indices": [
                     79,
                     85
-                ]
+                ],
+                "text": "Ozone"
             },
             {
-                "text": "FRUS",
                 "indices": [
                     107,
                     112
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
-        "urls": []
+        "urls": [],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "Docs on #MontrealProtocol are planned for publication in the Protection of the #Ozone Layer compilation of #FRUS 1981-1988 Global Issues II",
+    "geo": null,
+    "id": 908729685558906880,
+    "id_str": "908729685558906881",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "lang": "en"
+    }
 }

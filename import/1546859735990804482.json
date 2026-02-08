@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Jul 12 14:11:14 +0000 2022",
-    "id": 1546859735990804480,
-    "id_str": "1546859735990804482",
-    "full_text": "RT @PDD_PISM: We recommend the short video summary of 16th International Conference of Editors of Diplomatic Documents hosted by @PISM_Pola…",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,40 +9,40 @@
     "entities": {
         "hashtags": [],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "PDD_PISM",
-                "name": "Polskie Dokumenty Dyplomatyczne",
                 "id": 1270357734806953980,
                 "id_str": "1270357734806953985",
                 "indices": [
                     3,
                     12
-                ]
+                ],
+                "name": "Polskie Dokumenty Dyplomatyczne",
+                "screen_name": "PDD_PISM"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "RT @PDD_PISM: We recommend the short video summary of 16th International Conference of Editors of Diplomatic Documents hosted by @PISM_Pola…",
+    "geo": null,
+    "id": 1546859735990804480,
+    "id_str": "1546859735990804482",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "retweet_count": 7,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Tue Jul 05 07:21:59 +0000 2022",
-        "id": 1544220027141890050,
-        "id_str": "1544220027141890048",
-        "full_text": "We recommend the short video summary of 16th International Conference of Editors of Diplomatic Documents hosted by @PISM_Poland from June 8 to 11, 2022 in Warsaw - https://t.co/qSrGJtSO4B \n@FCDOHistorians @HistoryAtState @DIFP_RIA @Dodis",
-        "truncated": false,
         "display_text_range": [
             0,
             237
@@ -52,96 +50,98 @@
         "entities": {
             "hashtags": [],
             "symbols": [],
+            "urls": [
+                {
+                    "display_url": "youtu.be/jKdONGqqD4k",
+                    "expanded_url": "https://youtu.be/jKdONGqqD4k",
+                    "indices": [
+                        164,
+                        187
+                    ],
+                    "url": "https://t.co/qSrGJtSO4B"
+                }
+            ],
             "user_mentions": [
                 {
-                    "screen_name": "PISM_Poland",
-                    "name": "PISM",
                     "id": 273993353,
                     "id_str": "273993353",
                     "indices": [
                         115,
                         127
-                    ]
+                    ],
+                    "name": "PISM",
+                    "screen_name": "PISM_Poland"
                 },
                 {
-                    "screen_name": "FCDOHistorians",
-                    "name": "FCDO Historians",
                     "id": 1157393353,
                     "id_str": "1157393353",
                     "indices": [
                         189,
                         204
-                    ]
+                    ],
+                    "name": "FCDO Historians",
+                    "screen_name": "FCDOHistorians"
                 },
                 {
-                    "screen_name": "HistoryAtState",
-                    "name": "HistoryAtState",
                     "id": 586570880,
                     "id_str": "586570880",
                     "indices": [
                         205,
                         220
-                    ]
+                    ],
+                    "name": "HistoryAtState",
+                    "screen_name": "HistoryAtState"
                 },
                 {
-                    "screen_name": "DIFP_RIA",
-                    "name": "Documents on Irish Foreign Policy",
                     "id": 308372241,
                     "id_str": "308372241",
                     "indices": [
                         221,
                         230
-                    ]
+                    ],
+                    "name": "Documents on Irish Foreign Policy",
+                    "screen_name": "DIFP_RIA"
                 },
                 {
-                    "screen_name": "Dodis",
-                    "name": "Dodis",
                     "id": 299186512,
                     "id_str": "299186512",
                     "indices": [
                         231,
                         237
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "https://t.co/qSrGJtSO4B",
-                    "expanded_url": "https://youtu.be/jKdONGqqD4k",
-                    "display_url": "youtu.be/jKdONGqqD4k",
-                    "indices": [
-                        164,
-                        187
-                    ]
+                    ],
+                    "name": "Dodis",
+                    "screen_name": "Dodis"
                 }
             ]
         },
-        "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+        "favorite_count": 10,
+        "favorited": false,
+        "full_text": "We recommend the short video summary of 16th International Conference of Editors of Diplomatic Documents hosted by @PISM_Poland from June 8 to 11, 2022 in Warsaw - https://t.co/qSrGJtSO4B \n@FCDOHistorians @HistoryAtState @DIFP_RIA @Dodis",
+        "geo": null,
+        "id": 1544220027141890050,
+        "id_str": "1544220027141890048",
+        "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 7,
+        "retweeted": true,
+        "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+        "truncated": false,
         "user": {
             "id": 1270357734806953980,
             "id_str": "1270357734806953985"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 7,
-        "favorite_count": 10,
-        "favorited": false,
-        "retweeted": true,
-        "possibly_sensitive": false,
-        "lang": "en"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 7,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": true,
-    "lang": "en"
+    "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

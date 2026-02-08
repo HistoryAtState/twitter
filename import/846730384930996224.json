@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Mar 28 14:27:09 +0000 2017",
-    "id": 846730384930996220,
-    "id_str": "846730384930996224",
-    "full_text": "#FRUS and Historian Myra Burton visit @Reagan_Library #1980s #twitterstorians #everythinghasahistory #shfghistorians #coldwarhist #FindFRUS https://t.co/wVauGxdTP0",
-    "truncated": false,
     "display_text_range": [
         0,
         139
@@ -11,71 +9,59 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     0,
                     5
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "1980s",
                 "indices": [
                     54,
                     60
-                ]
+                ],
+                "text": "1980s"
             },
             {
-                "text": "twitterstorians",
                 "indices": [
                     61,
                     77
-                ]
+                ],
+                "text": "twitterstorians"
             },
             {
-                "text": "everythinghasahistory",
                 "indices": [
                     78,
                     100
-                ]
+                ],
+                "text": "everythinghasahistory"
             },
             {
-                "text": "shfghistorians",
                 "indices": [
                     101,
                     116
-                ]
+                ],
+                "text": "shfghistorians"
             },
             {
-                "text": "coldwarhist",
                 "indices": [
                     117,
                     129
-                ]
+                ],
+                "text": "coldwarhist"
             },
             {
-                "text": "FindFRUS",
                 "indices": [
                     130,
                     139
-                ]
+                ],
+                "text": "FindFRUS"
             }
         ],
-        "symbols": [],
-        "user_mentions": [
-            {
-                "screen_name": "Reagan_Library",
-                "name": "RonaldReaganLibrary",
-                "id": 394351710,
-                "id_str": "394351710",
-                "indices": [
-                    38,
-                    53
-                ]
-            }
-        ],
-        "urls": [],
         "media": [
             {
+                "display_url": "pic.twitter.com/wVauGxdTP0",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/846730384930996224/photo/1",
                 "id": 846730381625905150,
                 "id_str": "846730381625905152",
                 "indices": [
@@ -84,38 +70,53 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/C8Awy8FX0AAM4nA.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/C8Awy8FX0AAM4nA.jpg",
-                "url": "https://t.co/wVauGxdTP0",
-                "display_url": "pic.twitter.com/wVauGxdTP0",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/846730384930996224/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
+                    "large": {
+                        "h": 876,
+                        "resize": "fit",
+                        "w": 964
                     },
                     "medium": {
-                        "w": 964,
                         "h": 876,
-                        "resize": "fit"
-                    },
-                    "large": {
-                        "w": 964,
-                        "h": 876,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 964
                     },
                     "small": {
-                        "w": 680,
                         "h": 618,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/wVauGxdTP0"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 394351710,
+                "id_str": "394351710",
+                "indices": [
+                    38,
+                    53
+                ],
+                "name": "RonaldReaganLibrary",
+                "screen_name": "Reagan_Library"
             }
         ]
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/wVauGxdTP0",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/846730384930996224/photo/1",
+                "ext_alt_text": null,
                 "id": 846730381625905150,
                 "id_str": "846730381625905152",
                 "indices": [
@@ -124,55 +125,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/C8Awy8FX0AAM4nA.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/C8Awy8FX0AAM4nA.jpg",
-                "url": "https://t.co/wVauGxdTP0",
-                "display_url": "pic.twitter.com/wVauGxdTP0",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/846730384930996224/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
+                    "large": {
+                        "h": 876,
+                        "resize": "fit",
+                        "w": 964
                     },
                     "medium": {
-                        "w": 964,
                         "h": 876,
-                        "resize": "fit"
-                    },
-                    "large": {
-                        "w": 964,
-                        "h": 876,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 964
                     },
                     "small": {
-                        "w": 680,
                         "h": 618,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": null
+                "type": "photo",
+                "url": "https://t.co/wVauGxdTP0"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 4,
+    "favorited": false,
+    "full_text": "#FRUS and Historian Myra Burton visit @Reagan_Library #1980s #twitterstorians #everythinghasahistory #shfghistorians #coldwarhist #FindFRUS https://t.co/wVauGxdTP0",
+    "geo": null,
+    "id": 846730384930996220,
+    "id_str": "846730384930996224",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 4,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

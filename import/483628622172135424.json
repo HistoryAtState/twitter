@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Jun 30 15:10:23 +0000 2014",
-    "id": 483628622172135420,
-    "id_str": "483628622172135424",
-    "full_text": "Emperor Franz Joseph’s responses to Woodrow Wilson #WW1Tweet #FRUS http://t.co/BJLx7hEngm http://t.co/JDgKJ6OW6g",
-    "truncated": false,
     "display_text_range": [
         0,
         112
@@ -11,62 +9,64 @@
     "entities": {
         "hashtags": [
             {
-                "text": "WW1Tweet",
                 "indices": [
                     51,
                     60
-                ]
+                ],
+                "text": "WW1Tweet"
             },
             {
-                "text": "FRUS",
                 "indices": [
                     61,
                     66
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/BJLx7hEngm",
-                "expanded_url": "http://ow.ly/i/62zJO",
                 "display_url": "ow.ly/i/62zJO",
+                "expanded_url": "http://ow.ly/i/62zJO",
                 "indices": [
                     67,
                     89
-                ]
+                ],
+                "url": "http://t.co/BJLx7hEngm"
             },
             {
-                "url": "http://t.co/JDgKJ6OW6g",
-                "expanded_url": "http://ow.ly/i/62zJR",
                 "display_url": "ow.ly/i/62zJR",
+                "expanded_url": "http://ow.ly/i/62zJR",
                 "indices": [
                     90,
                     112
-                ]
+                ],
+                "url": "http://t.co/JDgKJ6OW6g"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "Emperor Franz Joseph’s responses to Woodrow Wilson #WW1Tweet #FRUS http://t.co/BJLx7hEngm http://t.co/JDgKJ6OW6g",
+    "geo": null,
+    "id": 483628622172135420,
+    "id_str": "483628622172135424",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

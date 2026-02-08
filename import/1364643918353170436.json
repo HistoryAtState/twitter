@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Wed Feb 24 18:30:38 +0000 2021",
-    "id": 1364643918353170430,
-    "id_str": "1364643918353170436",
-    "full_text": "Before attending the virtual #HAC meeting on March 1, 2021, read the #FRUS volume Foreign Relations of the United States, 1977–1980, Volume XVI, Southern Africa: \nhttps://t.co/RqlMbXetad\n\n(2/4) https://t.co/lAVtgTkD62",
-    "truncated": false,
     "display_text_range": [
         0,
         193
@@ -11,35 +9,24 @@
     "entities": {
         "hashtags": [
             {
-                "text": "HAC",
                 "indices": [
                     29,
                     33
-                ]
+                ],
+                "text": "HAC"
             },
             {
-                "text": "FRUS",
                 "indices": [
                     69,
                     74
-                ]
-            }
-        ],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
-            {
-                "url": "https://t.co/RqlMbXetad",
-                "expanded_url": "https://history.state.gov/historicaldocuments/frus1977-80v16",
-                "display_url": "history.state.gov/historicaldocu…",
-                "indices": [
-                    163,
-                    186
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "media": [
             {
+                "display_url": "pic.twitter.com/lAVtgTkD62",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1364643918353170436/photo/1",
                 "id": 1364643915740119040,
                 "id_str": "1364643915740119040",
                 "indices": [
@@ -48,38 +35,52 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/EvAwaUKWgAA8N_M.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/EvAwaUKWgAA8N_M.jpg",
-                "url": "https://t.co/lAVtgTkD62",
-                "display_url": "pic.twitter.com/lAVtgTkD62",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1364643918353170436/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "medium": {
-                        "w": 1024,
-                        "h": 512,
-                        "resize": "fit"
-                    },
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
                     "large": {
-                        "w": 1024,
                         "h": 512,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 512,
+                        "resize": "fit",
+                        "w": 1024
                     },
                     "small": {
-                        "w": 680,
                         "h": 340,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/lAVtgTkD62"
             }
-        ]
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "history.state.gov/historicaldocu…",
+                "expanded_url": "https://history.state.gov/historicaldocuments/frus1977-80v16",
+                "indices": [
+                    163,
+                    186
+                ],
+                "url": "https://t.co/RqlMbXetad"
+            }
+        ],
+        "user_mentions": []
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/lAVtgTkD62",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1364643918353170436/photo/1",
+                "ext_alt_text": "Screenshot of the title page for Foreign Relations of the United States, 1977–1980, Volume XVI, Southern Africa",
                 "id": 1364643915740119040,
                 "id_str": "1364643915740119040",
                 "indices": [
@@ -88,35 +89,35 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/EvAwaUKWgAA8N_M.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/EvAwaUKWgAA8N_M.jpg",
-                "url": "https://t.co/lAVtgTkD62",
-                "display_url": "pic.twitter.com/lAVtgTkD62",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1364643918353170436/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "medium": {
-                        "w": 1024,
-                        "h": 512,
-                        "resize": "fit"
-                    },
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
                     "large": {
-                        "w": 1024,
                         "h": 512,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 512,
+                        "resize": "fit",
+                        "w": 1024
                     },
                     "small": {
-                        "w": 680,
                         "h": 340,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": "Screenshot of the title page for Foreign Relations of the United States, 1977–1980, Volume XVI, Southern Africa"
+                "type": "photo",
+                "url": "https://t.co/lAVtgTkD62"
             },
             {
+                "display_url": "pic.twitter.com/lAVtgTkD62",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1364643918353170436/photo/1",
+                "ext_alt_text": "Screenshot of the preface for Foreign Relations of the United States, 1977–1980, Volume XVI, Southern Africa: “Acutely aware of South Africa’s central role in the region, both as a bulwark against communism in Southern Africa and an important partner in the independence negotiations, the administration would not ignore the plight of black South Africans in exchange for their participation in the talks. ",
                 "id": 1364643916075663360,
                 "id_str": "1364643916075663361",
                 "indices": [
@@ -125,55 +126,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/EvAwaVaWgAEcRXL.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/EvAwaVaWgAEcRXL.jpg",
-                "url": "https://t.co/lAVtgTkD62",
-                "display_url": "pic.twitter.com/lAVtgTkD62",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1364643918353170436/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
-                    "small": {
-                        "w": 680,
-                        "h": 578,
-                        "resize": "fit"
-                    },
                     "large": {
-                        "w": 1640,
                         "h": 1394,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1640
                     },
                     "medium": {
-                        "w": 1200,
                         "h": 1020,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1200
+                    },
+                    "small": {
+                        "h": 578,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": "Screenshot of the preface for Foreign Relations of the United States, 1977–1980, Volume XVI, Southern Africa: “Acutely aware of South Africa’s central role in the region, both as a bulwark against communism in Southern Africa and an important partner in the independence negotiations, the administration would not ignore the plight of black South Africans in exchange for their participation in the talks. "
+                "type": "photo",
+                "url": "https://t.co/lAVtgTkD62"
             }
         ]
     },
-    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "favorite_count": 2,
+    "favorited": false,
+    "full_text": "Before attending the virtual #HAC meeting on March 1, 2021, read the #FRUS volume Foreign Relations of the United States, 1977–1980, Volume XVI, Southern Africa: \nhttps://t.co/RqlMbXetad\n\n(2/4) https://t.co/lAVtgTkD62",
+    "geo": null,
+    "id": 1364643918353170430,
+    "id_str": "1364643918353170436",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 2,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

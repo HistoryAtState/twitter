@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Nov 29 20:00:52 +0000 2016",
-    "id": 803690210290634750,
-    "id_str": "803690210290634752",
-    "full_text": "1959 @USEmbCuba hoped for #Castro revolution to remain anti-Communist: https://t.co/wbo4OwsYwW #FRUS #twitterstorians #everythinghasahistory https://t.co/ZpEsqB3PyJ",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,60 +9,38 @@
     "entities": {
         "hashtags": [
             {
-                "text": "Castro",
                 "indices": [
                     26,
                     33
-                ]
+                ],
+                "text": "Castro"
             },
             {
-                "text": "FRUS",
                 "indices": [
                     95,
                     100
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "twitterstorians",
                 "indices": [
                     101,
                     117
-                ]
+                ],
+                "text": "twitterstorians"
             },
             {
-                "text": "everythinghasahistory",
                 "indices": [
                     118,
                     140
-                ]
-            }
-        ],
-        "symbols": [],
-        "user_mentions": [
-            {
-                "screen_name": "USEmbCuba",
-                "name": "Embajada de los Estados Unidos en Cuba",
-                "id": 133769083,
-                "id_str": "133769083",
-                "indices": [
-                    5,
-                    15
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "https://t.co/wbo4OwsYwW",
-                "expanded_url": "http://go.usa.gov/x8NWX",
-                "display_url": "go.usa.gov/x8NWX",
-                "indices": [
-                    71,
-                    94
-                ]
+                ],
+                "text": "everythinghasahistory"
             }
         ],
         "media": [
             {
+                "display_url": "pic.twitter.com/ZpEsqB3PyJ",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/803690210290634752/photo/1",
                 "id": 803690208134922240,
                 "id_str": "803690208134922242",
                 "indices": [
@@ -73,38 +49,63 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/CydH_HVXgAIwVNB.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/CydH_HVXgAIwVNB.jpg",
-                "url": "https://t.co/ZpEsqB3PyJ",
-                "display_url": "pic.twitter.com/ZpEsqB3PyJ",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/803690210290634752/photo/1",
-                "type": "photo",
                 "sizes": {
                     "large": {
-                        "w": 255,
                         "h": 128,
-                        "resize": "fit"
-                    },
-                    "small": {
-                        "w": 255,
-                        "h": 128,
-                        "resize": "fit"
-                    },
-                    "thumb": {
-                        "w": 128,
-                        "h": 128,
-                        "resize": "crop"
+                        "resize": "fit",
+                        "w": 255
                     },
                     "medium": {
-                        "w": 255,
                         "h": 128,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 255
+                    },
+                    "small": {
+                        "h": 128,
+                        "resize": "fit",
+                        "w": 255
+                    },
+                    "thumb": {
+                        "h": 128,
+                        "resize": "crop",
+                        "w": 128
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/ZpEsqB3PyJ"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "go.usa.gov/x8NWX",
+                "expanded_url": "http://go.usa.gov/x8NWX",
+                "indices": [
+                    71,
+                    94
+                ],
+                "url": "https://t.co/wbo4OwsYwW"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 133769083,
+                "id_str": "133769083",
+                "indices": [
+                    5,
+                    15
+                ],
+                "name": "Embajada de los Estados Unidos en Cuba",
+                "screen_name": "USEmbCuba"
             }
         ]
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/ZpEsqB3PyJ",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/803690210290634752/photo/1",
+                "ext_alt_text": null,
                 "id": 803690208134922240,
                 "id_str": "803690208134922242",
                 "indices": [
@@ -113,55 +114,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/CydH_HVXgAIwVNB.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/CydH_HVXgAIwVNB.jpg",
-                "url": "https://t.co/ZpEsqB3PyJ",
-                "display_url": "pic.twitter.com/ZpEsqB3PyJ",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/803690210290634752/photo/1",
-                "type": "photo",
                 "sizes": {
                     "large": {
-                        "w": 255,
                         "h": 128,
-                        "resize": "fit"
-                    },
-                    "small": {
-                        "w": 255,
-                        "h": 128,
-                        "resize": "fit"
-                    },
-                    "thumb": {
-                        "w": 128,
-                        "h": 128,
-                        "resize": "crop"
+                        "resize": "fit",
+                        "w": 255
                     },
                     "medium": {
-                        "w": 255,
                         "h": 128,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 255
+                    },
+                    "small": {
+                        "h": 128,
+                        "resize": "fit",
+                        "w": 255
+                    },
+                    "thumb": {
+                        "h": 128,
+                        "resize": "crop",
+                        "w": 128
                     }
                 },
-                "ext_alt_text": null
+                "type": "photo",
+                "url": "https://t.co/ZpEsqB3PyJ"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 1,
+    "favorited": false,
+    "full_text": "1959 @USEmbCuba hoped for #Castro revolution to remain anti-Communist: https://t.co/wbo4OwsYwW #FRUS #twitterstorians #everythinghasahistory https://t.co/ZpEsqB3PyJ",
+    "geo": null,
+    "id": 803690210290634750,
+    "id_str": "803690210290634752",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 1,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Jul 27 13:21:57 +0000 2017",
-    "id": 890562907259404290,
-    "id_str": "890562907259404288",
-    "full_text": "RT @EngageState: Happy Birthday to the @StateDept! Congress established the first federal agency, the State Department, on July 27, 1789.",
-    "truncated": false,
     "display_text_range": [
         0,
         137
@@ -11,50 +9,50 @@
     "entities": {
         "hashtags": [],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "EngageState",
-                "name": "Engage State",
                 "id": 128594349,
                 "id_str": "128594349",
                 "indices": [
                     3,
                     15
-                ]
+                ],
+                "name": "Engage State",
+                "screen_name": "EngageState"
             },
             {
-                "screen_name": "StateDept",
-                "name": "Department of State",
                 "id": 9624742,
                 "id_str": "9624742",
                 "indices": [
                     39,
                     49
-                ]
+                ],
+                "name": "Department of State",
+                "screen_name": "StateDept"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "RT @EngageState: Happy Birthday to the @StateDept! Congress established the first federal agency, the State Department, on July 27, 1789.",
+    "geo": null,
+    "id": 890562907259404290,
+    "id_str": "890562907259404288",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "retweet_count": 89,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Thu Jul 27 12:45:24 +0000 2017",
-        "id": 890553710434275330,
-        "id_str": "890553710434275328",
-        "full_text": "Happy Birthday to the @StateDept! Congress established the first federal agency, the State Department, on July 27, 1789.",
-        "truncated": false,
         "display_text_range": [
             0,
             120
@@ -62,45 +60,47 @@
         "entities": {
             "hashtags": [],
             "symbols": [],
+            "urls": [],
             "user_mentions": [
                 {
-                    "screen_name": "StateDept",
-                    "name": "Department of State",
                     "id": 9624742,
                     "id_str": "9624742",
                     "indices": [
                         22,
                         32
-                    ]
+                    ],
+                    "name": "Department of State",
+                    "screen_name": "StateDept"
                 }
-            ],
-            "urls": []
+            ]
         },
-        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+        "favorite_count": 102,
+        "favorited": false,
+        "full_text": "Happy Birthday to the @StateDept! Congress established the first federal agency, the State Department, on July 27, 1789.",
+        "geo": null,
+        "id": 890553710434275330,
+        "id_str": "890553710434275328",
+        "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "retweet_count": 89,
+        "retweeted": true,
+        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+        "truncated": false,
         "user": {
             "id": 128594349,
             "id_str": "128594349"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 89,
-        "favorite_count": 102,
-        "favorited": false,
-        "retweeted": true,
-        "lang": "en"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 89,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": true,
-    "lang": "en"
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

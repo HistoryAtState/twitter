@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Wed Aug 23 17:25:04 +0000 2017",
-    "id": 900408560332550140,
-    "id_str": "900408560332550145",
-    "full_text": "Read the UN Rep’s letter to #LBJ urging action on the 1956 Supplementary Convention on Slavery's Abolition. https://t.co/JdTOedWcGc",
-    "truncated": false,
     "display_text_range": [
         0,
         131
@@ -11,46 +9,48 @@
     "entities": {
         "hashtags": [
             {
-                "text": "LBJ",
                 "indices": [
                     28,
                     32
-                ]
+                ],
+                "text": "LBJ"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "https://t.co/JdTOedWcGc",
-                "expanded_url": "https://go.usa.gov/xRmcA",
                 "display_url": "go.usa.gov/xRmcA",
+                "expanded_url": "https://go.usa.gov/xRmcA",
                 "indices": [
                     108,
                     131
-                ]
+                ],
+                "url": "https://t.co/JdTOedWcGc"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 1,
+    "favorited": false,
+    "full_text": "Read the UN Rep’s letter to #LBJ urging action on the 1956 Supplementary Convention on Slavery's Abolition. https://t.co/JdTOedWcGc",
+    "geo": null,
+    "id": 900408560332550140,
+    "id_str": "900408560332550145",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 1,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

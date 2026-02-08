@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Feb 25 18:41:15 +0000 2020",
-    "id": 1232375019008856060,
-    "id_str": "1232375019008856067",
-    "full_text": "RT @FSIatState: We're so pleased to recognize Ralph Bunche as one of @StateDept's #HeroesofUSDiplomacy honorees. Learn more about the initi…",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,58 +9,65 @@
     "entities": {
         "hashtags": [
             {
-                "text": "HeroesofUSDiplomacy",
                 "indices": [
                     82,
                     102
-                ]
+                ],
+                "text": "HeroesofUSDiplomacy"
             }
         ],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "FSIatState",
-                "name": "Foreign Service Institute",
                 "id": 958044239576948740,
                 "id_str": "958044239576948736",
                 "indices": [
                     3,
                     14
-                ]
+                ],
+                "name": "Foreign Service Institute",
+                "screen_name": "FSIatState"
             },
             {
-                "screen_name": "StateDept",
-                "name": "Department of State",
                 "id": 9624742,
                 "id_str": "9624742",
                 "indices": [
                     69,
                     79
-                ]
+                ],
+                "name": "Department of State",
+                "screen_name": "StateDept"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": true,
+    "full_text": "RT @FSIatState: We're so pleased to recognize Ralph Bunche as one of @StateDept's #HeroesofUSDiplomacy honorees. Learn more about the initi…",
+    "geo": null,
+    "id": 1232375019008856060,
+    "id_str": "1232375019008856067",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": true,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "quoted_status_id": 1230492301970964480,
+    "quoted_status_id_str": "1230492301970964483",
+    "quoted_status_permalink": {
+        "display": "twitter.com/USUN/status/12…",
+        "expanded": "https://twitter.com/USUN/status/1230492301970964483",
+        "url": "https://t.co/DoOvoJH1tt"
+    },
+    "retweet_count": 2,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Mon Feb 24 19:46:35 +0000 2020",
-        "id": 1232029071078559740,
-        "id_str": "1232029071078559746",
-        "full_text": "We're so pleased to recognize Ralph Bunche as one of @StateDept's #HeroesofUSDiplomacy honorees. Learn more about the initiative and Bunche here: https://t.co/cmuEuuJsNa. #BlackHistoryMonth #UN75 https://t.co/DoOvoJH1tt",
-        "truncated": false,
         "display_text_range": [
             0,
             195
@@ -70,89 +75,80 @@
         "entities": {
             "hashtags": [
                 {
-                    "text": "HeroesofUSDiplomacy",
                     "indices": [
                         66,
                         86
-                    ]
+                    ],
+                    "text": "HeroesofUSDiplomacy"
                 },
                 {
-                    "text": "BlackHistoryMonth",
                     "indices": [
                         171,
                         189
-                    ]
+                    ],
+                    "text": "BlackHistoryMonth"
                 },
                 {
-                    "text": "UN75",
                     "indices": [
                         190,
                         195
-                    ]
+                    ],
+                    "text": "UN75"
                 }
             ],
             "symbols": [],
+            "urls": [
+                {
+                    "display_url": "go.usa.gov/xdB3n",
+                    "expanded_url": "http://go.usa.gov/xdB3n",
+                    "indices": [
+                        146,
+                        169
+                    ],
+                    "url": "https://t.co/cmuEuuJsNa"
+                },
+                {
+                    "display_url": "twitter.com/USUN/status/12…",
+                    "expanded_url": "https://twitter.com/USUN/status/1230492301970964483",
+                    "indices": [
+                        196,
+                        219
+                    ],
+                    "url": "https://t.co/DoOvoJH1tt"
+                }
+            ],
             "user_mentions": [
                 {
-                    "screen_name": "StateDept",
-                    "name": "Department of State",
                     "id": 9624742,
                     "id_str": "9624742",
                     "indices": [
                         53,
                         63
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "https://t.co/cmuEuuJsNa",
-                    "expanded_url": "http://go.usa.gov/xdB3n",
-                    "display_url": "go.usa.gov/xdB3n",
-                    "indices": [
-                        146,
-                        169
-                    ]
-                },
-                {
-                    "url": "https://t.co/DoOvoJH1tt",
-                    "expanded_url": "https://twitter.com/USUN/status/1230492301970964483",
-                    "display_url": "twitter.com/USUN/status/12…",
-                    "indices": [
-                        196,
-                        219
-                    ]
+                    ],
+                    "name": "Department of State",
+                    "screen_name": "StateDept"
                 }
             ]
         },
-        "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+        "favorite_count": 11,
+        "favorited": true,
+        "full_text": "We're so pleased to recognize Ralph Bunche as one of @StateDept's #HeroesofUSDiplomacy honorees. Learn more about the initiative and Bunche here: https://t.co/cmuEuuJsNa. #BlackHistoryMonth #UN75 https://t.co/DoOvoJH1tt",
+        "geo": null,
+        "id": 1232029071078559740,
+        "id_str": "1232029071078559746",
+        "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 958044239576948740,
-            "id_str": "958044239576948736"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
         "is_quote_status": true,
-        "quoted_status_id": 1230492301970964480,
-        "quoted_status_id_str": "1230492301970964483",
-        "quoted_status_permalink": {
-            "url": "https://t.co/DoOvoJH1tt",
-            "expanded": "https://twitter.com/USUN/status/1230492301970964483",
-            "display": "twitter.com/USUN/status/12…"
-        },
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
         "quoted_status": {
+            "contributors": null,
+            "coordinates": null,
             "created_at": "Thu Feb 20 14:00:00 +0000 2020",
-            "id": 1230492301970964480,
-            "id_str": "1230492301970964483",
-            "full_text": "After Sweden’s Count Bernadotte, the @UN mediator of the Arab-Israeli conflict, was assassinated, Ralph Bunche took over &amp;amp; negotiated w/ the Israeli &amp;amp; Arab reps, eventually convincing both to accept &amp;amp; sign the 1949 Armistice Agreements. #USUN75 🇺🇸🇺🇳7⃣5⃣ #UN75 #BlackHistoryMonth https://t.co/7G8PXy9ZVm",
-            "truncated": false,
             "display_text_range": [
                 0,
                 290
@@ -160,43 +156,31 @@
             "entities": {
                 "hashtags": [
                     {
-                        "text": "USUN75",
                         "indices": [
                             249,
                             256
-                        ]
+                        ],
+                        "text": "USUN75"
                     },
                     {
-                        "text": "UN75",
                         "indices": [
                             266,
                             271
-                        ]
+                        ],
+                        "text": "UN75"
                     },
                     {
-                        "text": "BlackHistoryMonth",
                         "indices": [
                             272,
                             290
-                        ]
+                        ],
+                        "text": "BlackHistoryMonth"
                     }
                 ],
-                "symbols": [],
-                "user_mentions": [
-                    {
-                        "screen_name": "UN",
-                        "name": "United Nations",
-                        "id": 14159148,
-                        "id_str": "14159148",
-                        "indices": [
-                            37,
-                            40
-                        ]
-                    }
-                ],
-                "urls": [],
                 "media": [
                     {
+                        "display_url": "pic.twitter.com/7G8PXy9ZVm",
+                        "expanded_url": "https://twitter.com/USUN/status/1230492301970964483/photo/1",
                         "id": 1230184270771216380,
                         "id_str": "1230184270771216385",
                         "indices": [
@@ -205,38 +189,53 @@
                         ],
                         "media_url": "http://pbs.twimg.com/media/ERJ-E5OXYAE2Ik1.jpg",
                         "media_url_https": "https://pbs.twimg.com/media/ERJ-E5OXYAE2Ik1.jpg",
-                        "url": "https://t.co/7G8PXy9ZVm",
-                        "display_url": "pic.twitter.com/7G8PXy9ZVm",
-                        "expanded_url": "https://twitter.com/USUN/status/1230492301970964483/photo/1",
-                        "type": "photo",
                         "sizes": {
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
                             "large": {
-                                "w": 1024,
                                 "h": 786,
-                                "resize": "fit"
-                            },
-                            "small": {
-                                "w": 680,
-                                "h": 522,
-                                "resize": "fit"
+                                "resize": "fit",
+                                "w": 1024
                             },
                             "medium": {
-                                "w": 1024,
                                 "h": 786,
-                                "resize": "fit"
+                                "resize": "fit",
+                                "w": 1024
+                            },
+                            "small": {
+                                "h": 522,
+                                "resize": "fit",
+                                "w": 680
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
                             }
-                        }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/7G8PXy9ZVm"
+                    }
+                ],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id": 14159148,
+                        "id_str": "14159148",
+                        "indices": [
+                            37,
+                            40
+                        ],
+                        "name": "United Nations",
+                        "screen_name": "UN"
                     }
                 ]
             },
             "extended_entities": {
                 "media": [
                     {
+                        "display_url": "pic.twitter.com/7G8PXy9ZVm",
+                        "expanded_url": "https://twitter.com/USUN/status/1230492301970964483/photo/1",
+                        "ext_alt_text": null,
                         "id": 1230184270771216380,
                         "id_str": "1230184270771216385",
                         "indices": [
@@ -245,35 +244,35 @@
                         ],
                         "media_url": "http://pbs.twimg.com/media/ERJ-E5OXYAE2Ik1.jpg",
                         "media_url_https": "https://pbs.twimg.com/media/ERJ-E5OXYAE2Ik1.jpg",
-                        "url": "https://t.co/7G8PXy9ZVm",
-                        "display_url": "pic.twitter.com/7G8PXy9ZVm",
-                        "expanded_url": "https://twitter.com/USUN/status/1230492301970964483/photo/1",
-                        "type": "photo",
                         "sizes": {
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
                             "large": {
-                                "w": 1024,
                                 "h": 786,
-                                "resize": "fit"
-                            },
-                            "small": {
-                                "w": 680,
-                                "h": 522,
-                                "resize": "fit"
+                                "resize": "fit",
+                                "w": 1024
                             },
                             "medium": {
-                                "w": 1024,
                                 "h": 786,
-                                "resize": "fit"
+                                "resize": "fit",
+                                "w": 1024
+                            },
+                            "small": {
+                                "h": 522,
+                                "resize": "fit",
+                                "w": 680
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
                             }
                         },
-                        "ext_alt_text": null
+                        "type": "photo",
+                        "url": "https://t.co/7G8PXy9ZVm"
                     },
                     {
+                        "display_url": "pic.twitter.com/7G8PXy9ZVm",
+                        "expanded_url": "https://twitter.com/USUN/status/1230492301970964483/photo/1",
+                        "ext_alt_text": null,
                         "id": 1230184296780042240,
                         "id_str": "1230184296780042240",
                         "indices": [
@@ -282,35 +281,35 @@
                         ],
                         "media_url": "http://pbs.twimg.com/media/ERJ-GaHWkAAk1ui.jpg",
                         "media_url_https": "https://pbs.twimg.com/media/ERJ-GaHWkAAk1ui.jpg",
-                        "url": "https://t.co/7G8PXy9ZVm",
-                        "display_url": "pic.twitter.com/7G8PXy9ZVm",
-                        "expanded_url": "https://twitter.com/USUN/status/1230492301970964483/photo/1",
-                        "type": "photo",
                         "sizes": {
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
                             "large": {
-                                "w": 797,
                                 "h": 673,
-                                "resize": "fit"
+                                "resize": "fit",
+                                "w": 797
                             },
                             "medium": {
-                                "w": 797,
                                 "h": 673,
-                                "resize": "fit"
+                                "resize": "fit",
+                                "w": 797
                             },
                             "small": {
-                                "w": 680,
                                 "h": 574,
-                                "resize": "fit"
+                                "resize": "fit",
+                                "w": 680
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
                             }
                         },
-                        "ext_alt_text": null
+                        "type": "photo",
+                        "url": "https://t.co/7G8PXy9ZVm"
                     },
                     {
+                        "display_url": "pic.twitter.com/7G8PXy9ZVm",
+                        "expanded_url": "https://twitter.com/USUN/status/1230492301970964483/photo/1",
+                        "ext_alt_text": null,
                         "id": 1230184324332388350,
                         "id_str": "1230184324332388352",
                         "indices": [
@@ -319,35 +318,35 @@
                         ],
                         "media_url": "http://pbs.twimg.com/media/ERJ-IAwWAAA-F_t.jpg",
                         "media_url_https": "https://pbs.twimg.com/media/ERJ-IAwWAAA-F_t.jpg",
-                        "url": "https://t.co/7G8PXy9ZVm",
-                        "display_url": "pic.twitter.com/7G8PXy9ZVm",
-                        "expanded_url": "https://twitter.com/USUN/status/1230492301970964483/photo/1",
-                        "type": "photo",
                         "sizes": {
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
+                            "large": {
+                                "h": 1598,
+                                "resize": "fit",
+                                "w": 2048
                             },
                             "medium": {
-                                "w": 1200,
                                 "h": 936,
-                                "resize": "fit"
+                                "resize": "fit",
+                                "w": 1200
                             },
                             "small": {
-                                "w": 680,
                                 "h": 531,
-                                "resize": "fit"
+                                "resize": "fit",
+                                "w": 680
                             },
-                            "large": {
-                                "w": 2048,
-                                "h": 1598,
-                                "resize": "fit"
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
                             }
                         },
-                        "ext_alt_text": null
+                        "type": "photo",
+                        "url": "https://t.co/7G8PXy9ZVm"
                     },
                     {
+                        "display_url": "pic.twitter.com/7G8PXy9ZVm",
+                        "expanded_url": "https://twitter.com/USUN/status/1230492301970964483/photo/1",
+                        "ext_alt_text": null,
                         "id": 1230184357517832190,
                         "id_str": "1230184357517832196",
                         "indices": [
@@ -356,76 +355,77 @@
                         ],
                         "media_url": "http://pbs.twimg.com/media/ERJ-J8YXsAQAJsm.jpg",
                         "media_url_https": "https://pbs.twimg.com/media/ERJ-J8YXsAQAJsm.jpg",
-                        "url": "https://t.co/7G8PXy9ZVm",
-                        "display_url": "pic.twitter.com/7G8PXy9ZVm",
-                        "expanded_url": "https://twitter.com/USUN/status/1230492301970964483/photo/1",
-                        "type": "photo",
                         "sizes": {
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
+                            "large": {
+                                "h": 1662,
+                                "resize": "fit",
+                                "w": 2048
                             },
                             "medium": {
-                                "w": 1200,
                                 "h": 974,
-                                "resize": "fit"
+                                "resize": "fit",
+                                "w": 1200
                             },
                             "small": {
-                                "w": 680,
                                 "h": 552,
-                                "resize": "fit"
+                                "resize": "fit",
+                                "w": 680
                             },
-                            "large": {
-                                "w": 2048,
-                                "h": 1662,
-                                "resize": "fit"
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
                             }
                         },
-                        "ext_alt_text": null
+                        "type": "photo",
+                        "url": "https://t.co/7G8PXy9ZVm"
                     }
                 ]
             },
-            "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
+            "favorite_count": 4,
+            "favorited": false,
+            "full_text": "After Sweden’s Count Bernadotte, the @UN mediator of the Arab-Israeli conflict, was assassinated, Ralph Bunche took over &amp;amp; negotiated w/ the Israeli &amp;amp; Arab reps, eventually convincing both to accept &amp;amp; sign the 1949 Armistice Agreements. #USUN75 🇺🇸🇺🇳7⃣5⃣ #UN75 #BlackHistoryMonth https://t.co/7G8PXy9ZVm",
+            "geo": null,
+            "id": 1230492301970964480,
+            "id_str": "1230492301970964483",
+            "in_reply_to_screen_name": null,
             "in_reply_to_status_id": null,
             "in_reply_to_status_id_str": null,
             "in_reply_to_user_id": null,
             "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
+            "is_quote_status": false,
+            "lang": "en",
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 0,
+            "retweeted": false,
+            "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
+            "truncated": false,
             "user": {
                 "id": 249677516,
                 "id_str": "249677516"
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "is_quote_status": false,
-            "retweet_count": 0,
-            "favorite_count": 4,
-            "favorited": false,
-            "retweeted": false,
-            "possibly_sensitive": false,
-            "lang": "en"
+            }
+        },
+        "quoted_status_id": 1230492301970964480,
+        "quoted_status_id_str": "1230492301970964483",
+        "quoted_status_permalink": {
+            "display": "twitter.com/USUN/status/12…",
+            "expanded": "https://twitter.com/USUN/status/1230492301970964483",
+            "url": "https://t.co/DoOvoJH1tt"
         },
         "retweet_count": 2,
-        "favorite_count": 11,
-        "favorited": true,
         "retweeted": true,
-        "possibly_sensitive": false,
-        "lang": "en"
+        "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+        "truncated": false,
+        "user": {
+            "id": 958044239576948740,
+            "id_str": "958044239576948736"
+        }
     },
-    "is_quote_status": true,
-    "quoted_status_id": 1230492301970964480,
-    "quoted_status_id_str": "1230492301970964483",
-    "quoted_status_permalink": {
-        "url": "https://t.co/DoOvoJH1tt",
-        "expanded": "https://twitter.com/USUN/status/1230492301970964483",
-        "display": "twitter.com/USUN/status/12…"
-    },
-    "retweet_count": 2,
-    "favorite_count": 0,
-    "favorited": true,
-    "retweeted": true,
-    "lang": "en"
+    "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

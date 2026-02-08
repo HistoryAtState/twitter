@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Apr 27 14:16:46 +0000 2020",
-    "id": 1254776508654030850,
-    "id_str": "1254776508654030851",
-    "full_text": "RT @FSIatState: (2/3) Read Pan American Union Director John Barrett’s report: “Since the 1st of July, when American sanitary officers assum…",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,40 +9,40 @@
     "entities": {
         "hashtags": [],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "FSIatState",
-                "name": "Foreign Service Institute",
                 "id": 958044239576948740,
                 "id_str": "958044239576948736",
                 "indices": [
                     3,
                     14
-                ]
+                ],
+                "name": "Foreign Service Institute",
+                "screen_name": "FSIatState"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": true,
+    "full_text": "RT @FSIatState: (2/3) Read Pan American Union Director John Barrett’s report: “Since the 1st of July, when American sanitary officers assum…",
+    "geo": null,
+    "id": 1254776508654030850,
+    "id_str": "1254776508654030851",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "retweet_count": 1,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Sat Apr 25 14:46:29 +0000 2020",
-        "id": 1254059208850489340,
-        "id_str": "1254059208850489345",
-        "full_text": "(2/3) Read Pan American Union Director John Barrett’s report: “Since the 1st of July, when American sanitary officers assumed control, there have been upon the whole Isthmus along the line of the canal only 10 cases of yellow fever.” https://t.co/2ZP8m4WnFC #FRUS #FSIatHome",
-        "truncated": false,
         "display_text_range": [
             0,
             274
@@ -52,60 +50,62 @@
         "entities": {
             "hashtags": [
                 {
-                    "text": "FRUS",
                     "indices": [
                         258,
                         263
-                    ]
+                    ],
+                    "text": "FRUS"
                 },
                 {
-                    "text": "FSIatHome",
                     "indices": [
                         264,
                         274
-                    ]
+                    ],
+                    "text": "FSIatHome"
                 }
             ],
             "symbols": [],
-            "user_mentions": [],
             "urls": [
                 {
-                    "url": "https://t.co/2ZP8m4WnFC",
-                    "expanded_url": "http://go.usa.gov/xvK7E",
                     "display_url": "go.usa.gov/xvK7E",
+                    "expanded_url": "http://go.usa.gov/xvK7E",
                     "indices": [
                         234,
                         257
-                    ]
+                    ],
+                    "url": "https://t.co/2ZP8m4WnFC"
                 }
-            ]
+            ],
+            "user_mentions": []
         },
-        "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+        "favorite_count": 5,
+        "favorited": true,
+        "full_text": "(2/3) Read Pan American Union Director John Barrett’s report: “Since the 1st of July, when American sanitary officers assumed control, there have been upon the whole Isthmus along the line of the canal only 10 cases of yellow fever.” https://t.co/2ZP8m4WnFC #FRUS #FSIatHome",
+        "geo": null,
+        "id": 1254059208850489340,
+        "id_str": "1254059208850489345",
+        "in_reply_to_screen_name": "FSIatState",
         "in_reply_to_status_id": 1254059207281840130,
         "in_reply_to_status_id_str": "1254059207281840129",
         "in_reply_to_user_id": 958044239576948740,
         "in_reply_to_user_id_str": "958044239576948736",
-        "in_reply_to_screen_name": "FSIatState",
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 1,
+        "retweeted": true,
+        "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+        "truncated": false,
         "user": {
             "id": 958044239576948740,
             "id_str": "958044239576948736"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 1,
-        "favorite_count": 5,
-        "favorited": true,
-        "retweeted": true,
-        "possibly_sensitive": false,
-        "lang": "en"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 0,
-    "favorited": true,
-    "retweeted": true,
-    "lang": "en"
+    "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

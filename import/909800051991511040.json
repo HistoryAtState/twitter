@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Sep 18 15:23:30 +0000 2017",
-    "id": 909800051991511040,
-    "id_str": "909800051991511040",
-    "full_text": "RT @CIA: Today CIA celebrates its 70th Anniversary! \n\nhttps://t.co/mIqaDxq72d\n\n#CIA70 https://t.co/nXbhNMuQim",
-    "truncated": false,
     "display_text_range": [
         0,
         109
@@ -11,39 +9,17 @@
     "entities": {
         "hashtags": [
             {
-                "text": "CIA70",
                 "indices": [
                     79,
                     85
-                ]
-            }
-        ],
-        "symbols": [],
-        "user_mentions": [
-            {
-                "screen_name": "CIA",
-                "name": "CIA",
-                "id": 2359926157,
-                "id_str": "2359926157",
-                "indices": [
-                    3,
-                    7
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "https://t.co/mIqaDxq72d",
-                "expanded_url": "http://bit.ly/2h92aQ3",
-                "display_url": "bit.ly/2h92aQ3",
-                "indices": [
-                    54,
-                    77
-                ]
+                ],
+                "text": "CIA70"
             }
         ],
         "media": [
             {
+                "display_url": "pic.twitter.com/nXbhNMuQim",
+                "expanded_url": "https://twitter.com/CIA/status/909756757521653760/photo/1",
                 "id": 909756547802259460,
                 "id_str": "909756547802259456",
                 "indices": [
@@ -52,104 +28,127 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/DKAawpfW4AAx4e1.png",
                 "media_url_https": "https://pbs.twimg.com/media/DKAawpfW4AAx4e1.png",
-                "url": "https://t.co/nXbhNMuQim",
-                "display_url": "pic.twitter.com/nXbhNMuQim",
-                "expanded_url": "https://twitter.com/CIA/status/909756757521653760/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "medium": {
-                        "w": 600,
+                    "large": {
                         "h": 464,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "medium": {
+                        "h": 464,
+                        "resize": "fit",
+                        "w": 600
                     },
                     "small": {
-                        "w": 600,
                         "h": 464,
-                        "resize": "fit"
-                    },
-                    "large": {
-                        "w": 600,
-                        "h": 464,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 600
                     },
                     "thumb": {
-                        "w": 150,
                         "h": 150,
-                        "resize": "crop"
-                    }
-                },
-                "source_status_id": 909756757521653760,
-                "source_status_id_str": "909756757521653760",
-                "source_user_id": 2359926157,
-                "source_user_id_str": "2359926157"
-            }
-        ]
-    },
-    "extended_entities": {
-        "media": [
-            {
-                "id": 909756547802259460,
-                "id_str": "909756547802259456",
-                "indices": [
-                    86,
-                    109
-                ],
-                "media_url": "http://pbs.twimg.com/media/DKAawpfW4AAx4e1.png",
-                "media_url_https": "https://pbs.twimg.com/media/DKAawpfW4AAx4e1.png",
-                "url": "https://t.co/nXbhNMuQim",
-                "display_url": "pic.twitter.com/nXbhNMuQim",
-                "expanded_url": "https://twitter.com/CIA/status/909756757521653760/photo/1",
-                "type": "photo",
-                "sizes": {
-                    "medium": {
-                        "w": 600,
-                        "h": 464,
-                        "resize": "fit"
-                    },
-                    "small": {
-                        "w": 600,
-                        "h": 464,
-                        "resize": "fit"
-                    },
-                    "large": {
-                        "w": 600,
-                        "h": 464,
-                        "resize": "fit"
-                    },
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
                 "source_status_id": 909756757521653760,
                 "source_status_id_str": "909756757521653760",
                 "source_user_id": 2359926157,
                 "source_user_id_str": "2359926157",
-                "ext_alt_text": null
+                "type": "photo",
+                "url": "https://t.co/nXbhNMuQim"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "bit.ly/2h92aQ3",
+                "expanded_url": "http://bit.ly/2h92aQ3",
+                "indices": [
+                    54,
+                    77
+                ],
+                "url": "https://t.co/mIqaDxq72d"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 2359926157,
+                "id_str": "2359926157",
+                "indices": [
+                    3,
+                    7
+                ],
+                "name": "CIA",
+                "screen_name": "CIA"
             }
         ]
     },
-    "source": "&lt;a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"&gt;Twitter for iPad&lt;/a&gt;",
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/nXbhNMuQim",
+                "expanded_url": "https://twitter.com/CIA/status/909756757521653760/photo/1",
+                "ext_alt_text": null,
+                "id": 909756547802259460,
+                "id_str": "909756547802259456",
+                "indices": [
+                    86,
+                    109
+                ],
+                "media_url": "http://pbs.twimg.com/media/DKAawpfW4AAx4e1.png",
+                "media_url_https": "https://pbs.twimg.com/media/DKAawpfW4AAx4e1.png",
+                "sizes": {
+                    "large": {
+                        "h": 464,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "medium": {
+                        "h": 464,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 464,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 909756757521653760,
+                "source_status_id_str": "909756757521653760",
+                "source_user_id": 2359926157,
+                "source_user_id_str": "2359926157",
+                "type": "photo",
+                "url": "https://t.co/nXbhNMuQim"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "RT @CIA: Today CIA celebrates its 70th Anniversary! \n\nhttps://t.co/mIqaDxq72d\n\n#CIA70 https://t.co/nXbhNMuQim",
+    "geo": null,
+    "id": 909800051991511040,
+    "id_str": "909800051991511040",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2212,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Mon Sep 18 12:31:28 +0000 2017",
-        "id": 909756757521653760,
-        "id_str": "909756757521653760",
-        "full_text": "Today CIA celebrates its 70th Anniversary! \n\nhttps://t.co/mIqaDxq72d\n\n#CIA70 https://t.co/nXbhNMuQim",
-        "truncated": false,
         "display_text_range": [
             0,
             76
@@ -157,28 +156,17 @@
         "entities": {
             "hashtags": [
                 {
-                    "text": "CIA70",
                     "indices": [
                         70,
                         76
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "https://t.co/mIqaDxq72d",
-                    "expanded_url": "http://bit.ly/2h92aQ3",
-                    "display_url": "bit.ly/2h92aQ3",
-                    "indices": [
-                        45,
-                        68
-                    ]
+                    ],
+                    "text": "CIA70"
                 }
             ],
             "media": [
                 {
+                    "display_url": "pic.twitter.com/nXbhNMuQim",
+                    "expanded_url": "https://twitter.com/CIA/status/909756757521653760/photo/1",
                     "id": 909756547802259460,
                     "id_str": "909756547802259456",
                     "indices": [
@@ -187,38 +175,52 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/DKAawpfW4AAx4e1.png",
                     "media_url_https": "https://pbs.twimg.com/media/DKAawpfW4AAx4e1.png",
-                    "url": "https://t.co/nXbhNMuQim",
-                    "display_url": "pic.twitter.com/nXbhNMuQim",
-                    "expanded_url": "https://twitter.com/CIA/status/909756757521653760/photo/1",
-                    "type": "photo",
                     "sizes": {
-                        "medium": {
-                            "w": 600,
+                        "large": {
                             "h": 464,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "medium": {
+                            "h": 464,
+                            "resize": "fit",
+                            "w": 600
                         },
                         "small": {
-                            "w": 600,
                             "h": 464,
-                            "resize": "fit"
-                        },
-                        "large": {
-                            "w": 600,
-                            "h": 464,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 600
                         },
                         "thumb": {
-                            "w": 150,
                             "h": 150,
-                            "resize": "crop"
+                            "resize": "crop",
+                            "w": 150
                         }
-                    }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/nXbhNMuQim"
                 }
-            ]
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "bit.ly/2h92aQ3",
+                    "expanded_url": "http://bit.ly/2h92aQ3",
+                    "indices": [
+                        45,
+                        68
+                    ],
+                    "url": "https://t.co/mIqaDxq72d"
+                }
+            ],
+            "user_mentions": []
         },
         "extended_entities": {
             "media": [
                 {
+                    "display_url": "pic.twitter.com/nXbhNMuQim",
+                    "expanded_url": "https://twitter.com/CIA/status/909756757521653760/photo/1",
+                    "ext_alt_text": null,
                     "id": 909756547802259460,
                     "id_str": "909756547802259456",
                     "indices": [
@@ -227,63 +229,61 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/DKAawpfW4AAx4e1.png",
                     "media_url_https": "https://pbs.twimg.com/media/DKAawpfW4AAx4e1.png",
-                    "url": "https://t.co/nXbhNMuQim",
-                    "display_url": "pic.twitter.com/nXbhNMuQim",
-                    "expanded_url": "https://twitter.com/CIA/status/909756757521653760/photo/1",
-                    "type": "photo",
                     "sizes": {
-                        "medium": {
-                            "w": 600,
+                        "large": {
                             "h": 464,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "medium": {
+                            "h": 464,
+                            "resize": "fit",
+                            "w": 600
                         },
                         "small": {
-                            "w": 600,
                             "h": 464,
-                            "resize": "fit"
-                        },
-                        "large": {
-                            "w": 600,
-                            "h": 464,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 600
                         },
                         "thumb": {
-                            "w": 150,
                             "h": 150,
-                            "resize": "crop"
+                            "resize": "crop",
+                            "w": 150
                         }
                     },
-                    "ext_alt_text": null
+                    "type": "photo",
+                    "url": "https://t.co/nXbhNMuQim"
                 }
             ]
         },
-        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+        "favorite_count": 8748,
+        "favorited": false,
+        "full_text": "Today CIA celebrates its 70th Anniversary! \n\nhttps://t.co/mIqaDxq72d\n\n#CIA70 https://t.co/nXbhNMuQim",
+        "geo": null,
+        "id": 909756757521653760,
+        "id_str": "909756757521653760",
+        "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 2212,
+        "retweeted": true,
+        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+        "truncated": false,
         "user": {
             "id": 2359926157,
             "id_str": "2359926157"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 2212,
-        "favorite_count": 8748,
-        "favorited": false,
-        "retweeted": true,
-        "possibly_sensitive": false,
-        "lang": "en"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 2212,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": true,
-    "possibly_sensitive": false,
-    "lang": "en"
+    "source": "&lt;a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"&gt;Twitter for iPad&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

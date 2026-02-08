@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Dec 05 21:00:59 +0000 2017",
-    "id": 938151235391238140,
-    "id_str": "938151235391238144",
-    "full_text": "What was the U.S. #PublicDiplomacy strategy in South #Vietnam before the war?  Read USIA’s memo to the White House https://t.co/xOyUk6P9m1 and https://t.co/uwIMEwNH6J #FRUS #twitterstorians",
-    "truncated": false,
     "display_text_range": [
         0,
         189
@@ -11,76 +9,78 @@
     "entities": {
         "hashtags": [
             {
-                "text": "PublicDiplomacy",
                 "indices": [
                     18,
                     34
-                ]
+                ],
+                "text": "PublicDiplomacy"
             },
             {
-                "text": "Vietnam",
                 "indices": [
                     53,
                     61
-                ]
+                ],
+                "text": "Vietnam"
             },
             {
-                "text": "FRUS",
                 "indices": [
                     167,
                     172
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "twitterstorians",
                 "indices": [
                     173,
                     189
-                ]
+                ],
+                "text": "twitterstorians"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "https://t.co/xOyUk6P9m1",
-                "expanded_url": "https://go.usa.gov/xnXzq",
                 "display_url": "go.usa.gov/xnXzq",
+                "expanded_url": "https://go.usa.gov/xnXzq",
                 "indices": [
                     115,
                     138
-                ]
+                ],
+                "url": "https://t.co/xOyUk6P9m1"
             },
             {
-                "url": "https://t.co/uwIMEwNH6J",
-                "expanded_url": "https://go.usa.gov/xnXzx",
                 "display_url": "go.usa.gov/xnXzx",
+                "expanded_url": "https://go.usa.gov/xnXzx",
                 "indices": [
                     143,
                     166
-                ]
+                ],
+                "url": "https://t.co/uwIMEwNH6J"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "What was the U.S. #PublicDiplomacy strategy in South #Vietnam before the war?  Read USIA’s memo to the White House https://t.co/xOyUk6P9m1 and https://t.co/uwIMEwNH6J #FRUS #twitterstorians",
+    "geo": null,
+    "id": 938151235391238140,
+    "id_str": "938151235391238144",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

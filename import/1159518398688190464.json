@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Aug 08 17:35:03 +0000 2019",
-    "id": 1159518398688190460,
-    "id_str": "1159518398688190464",
-    "full_text": "Read the remarkable letters between President Carter and Indian Prime Minister Desai from 1977 to 1979: https://t.co/cRXMg5e2p4 #FRUS @CarterLibrary 📷@USNatArchives https://t.co/Ug4F0erTBt",
-    "truncated": false,
     "display_text_range": [
         0,
         164
@@ -11,49 +9,17 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     128,
                     133
-                ]
-            }
-        ],
-        "symbols": [],
-        "user_mentions": [
-            {
-                "screen_name": "CarterLibrary",
-                "name": "Jimmy Carter Presidential Library",
-                "id": 19660388,
-                "id_str": "19660388",
-                "indices": [
-                    134,
-                    148
-                ]
-            },
-            {
-                "screen_name": "USNatArchives",
-                "name": "US National Archives",
-                "id": 101802390,
-                "id_str": "101802390",
-                "indices": [
-                    150,
-                    164
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "https://t.co/cRXMg5e2p4",
-                "expanded_url": "https://go.usa.gov/xyFfV",
-                "display_url": "go.usa.gov/xyFfV",
-                "indices": [
-                    104,
-                    127
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "media": [
             {
+                "display_url": "pic.twitter.com/Ug4F0erTBt",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1159518398688190464/photo/1",
                 "id": 1159518396481978370,
                 "id_str": "1159518396481978368",
                 "indices": [
@@ -62,38 +28,73 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/EBdv1pTWwAAIFm4.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/EBdv1pTWwAAIFm4.jpg",
-                "url": "https://t.co/Ug4F0erTBt",
-                "display_url": "pic.twitter.com/Ug4F0erTBt",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1159518398688190464/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
+                    "large": {
+                        "h": 673,
+                        "resize": "fit",
+                        "w": 459
                     },
                     "medium": {
-                        "w": 459,
                         "h": 673,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 459
                     },
                     "small": {
-                        "w": 459,
                         "h": 673,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 459
                     },
-                    "large": {
-                        "w": 459,
-                        "h": 673,
-                        "resize": "fit"
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/Ug4F0erTBt"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "go.usa.gov/xyFfV",
+                "expanded_url": "https://go.usa.gov/xyFfV",
+                "indices": [
+                    104,
+                    127
+                ],
+                "url": "https://t.co/cRXMg5e2p4"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 19660388,
+                "id_str": "19660388",
+                "indices": [
+                    134,
+                    148
+                ],
+                "name": "Jimmy Carter Presidential Library",
+                "screen_name": "CarterLibrary"
+            },
+            {
+                "id": 101802390,
+                "id_str": "101802390",
+                "indices": [
+                    150,
+                    164
+                ],
+                "name": "US National Archives",
+                "screen_name": "USNatArchives"
             }
         ]
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/Ug4F0erTBt",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1159518398688190464/photo/1",
+                "ext_alt_text": "President Carter in the Oval Office",
                 "id": 1159518396481978370,
                 "id_str": "1159518396481978368",
                 "indices": [
@@ -102,55 +103,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/EBdv1pTWwAAIFm4.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/EBdv1pTWwAAIFm4.jpg",
-                "url": "https://t.co/Ug4F0erTBt",
-                "display_url": "pic.twitter.com/Ug4F0erTBt",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1159518398688190464/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
+                    "large": {
+                        "h": 673,
+                        "resize": "fit",
+                        "w": 459
                     },
                     "medium": {
-                        "w": 459,
                         "h": 673,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 459
                     },
                     "small": {
-                        "w": 459,
                         "h": 673,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 459
                     },
-                    "large": {
-                        "w": 459,
-                        "h": 673,
-                        "resize": "fit"
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": "President Carter in the Oval Office"
+                "type": "photo",
+                "url": "https://t.co/Ug4F0erTBt"
             }
         ]
     },
-    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "favorite_count": 21,
+    "favorited": false,
+    "full_text": "Read the remarkable letters between President Carter and Indian Prime Minister Desai from 1977 to 1979: https://t.co/cRXMg5e2p4 #FRUS @CarterLibrary 📷@USNatArchives https://t.co/Ug4F0erTBt",
+    "geo": null,
+    "id": 1159518398688190460,
+    "id_str": "1159518398688190464",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 5,
+    "retweeted": false,
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 5,
-    "favorite_count": 21,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

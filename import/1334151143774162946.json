@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Wed Dec 02 15:03:14 +0000 2020",
-    "id": 1334151143774162940,
-    "id_str": "1334151143774162946",
-    "full_text": "The #ChernobylHBO series renewed interest in the 1986 #Chernobyl nuclear accident. Explore #FRUS documents recording U.S. assessments of and reaction to the nuclear disaster, beginning with this intelligence report: \nhttps://t.co/AwXsdOd1CH\n\n📷 @USNatArchives https://t.co/oQ73BTGyY7",
-    "truncated": false,
     "display_text_range": [
         0,
         258
@@ -11,53 +9,31 @@
     "entities": {
         "hashtags": [
             {
-                "text": "ChernobylHBO",
                 "indices": [
                     4,
                     17
-                ]
+                ],
+                "text": "ChernobylHBO"
             },
             {
-                "text": "Chernobyl",
                 "indices": [
                     54,
                     64
-                ]
+                ],
+                "text": "Chernobyl"
             },
             {
-                "text": "FRUS",
                 "indices": [
                     91,
                     96
-                ]
-            }
-        ],
-        "symbols": [],
-        "user_mentions": [
-            {
-                "screen_name": "USNatArchives",
-                "name": "US National Archives",
-                "id": 101802390,
-                "id_str": "101802390",
-                "indices": [
-                    244,
-                    258
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "https://t.co/AwXsdOd1CH",
-                "expanded_url": "https://history.state.gov/historicaldocuments/frus1981-88v05/d220",
-                "display_url": "history.state.gov/historicaldocu…",
-                "indices": [
-                    217,
-                    240
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "media": [
             {
+                "display_url": "pic.twitter.com/oQ73BTGyY7",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1334151143774162946/photo/1",
                 "id": 1334151137906356220,
                 "id_str": "1334151137906356291",
                 "indices": [
@@ -66,38 +42,63 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/EoPbZCuXcEMys8b.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/EoPbZCuXcEMys8b.jpg",
-                "url": "https://t.co/oQ73BTGyY7",
-                "display_url": "pic.twitter.com/oQ73BTGyY7",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1334151143774162946/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
                     "large": {
-                        "w": 1022,
                         "h": 954,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1022
                     },
                     "medium": {
-                        "w": 1022,
                         "h": 954,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1022
                     },
                     "small": {
-                        "w": 680,
                         "h": 635,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/oQ73BTGyY7"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "history.state.gov/historicaldocu…",
+                "expanded_url": "https://history.state.gov/historicaldocuments/frus1981-88v05/d220",
+                "indices": [
+                    217,
+                    240
+                ],
+                "url": "https://t.co/AwXsdOd1CH"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 101802390,
+                "id_str": "101802390",
+                "indices": [
+                    244,
+                    258
+                ],
+                "name": "US National Archives",
+                "screen_name": "USNatArchives"
             }
         ]
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/oQ73BTGyY7",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1334151143774162946/photo/1",
+                "ext_alt_text": "Screenshot of the first page of the Intelligence Report Prepared in the Central Intelligence Agency:  “SPOT COMMENTARY: Soviet Nuclear Accident / DAMAGE ASSESSMENT: The Soviet nuclear accident announced by Moscow yesterday possibly occurred last Friday or at the latest early Saturday… The event probably was initiated by some kind of loss-of-coolant-accident, which caused fuel melting.”",
                 "id": 1334151137906356220,
                 "id_str": "1334151137906356291",
                 "indices": [
@@ -106,35 +107,35 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/EoPbZCuXcEMys8b.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/EoPbZCuXcEMys8b.jpg",
-                "url": "https://t.co/oQ73BTGyY7",
-                "display_url": "pic.twitter.com/oQ73BTGyY7",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1334151143774162946/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
                     "large": {
-                        "w": 1022,
                         "h": 954,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1022
                     },
                     "medium": {
-                        "w": 1022,
                         "h": 954,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1022
                     },
                     "small": {
-                        "w": 680,
                         "h": 635,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": "Screenshot of the first page of the Intelligence Report Prepared in the Central Intelligence Agency:  “SPOT COMMENTARY: Soviet Nuclear Accident / DAMAGE ASSESSMENT: The Soviet nuclear accident announced by Moscow yesterday possibly occurred last Friday or at the latest early Saturday… The event probably was initiated by some kind of loss-of-coolant-accident, which caused fuel melting.”"
+                "type": "photo",
+                "url": "https://t.co/oQ73BTGyY7"
             },
             {
+                "display_url": "pic.twitter.com/oQ73BTGyY7",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1334151143774162946/photo/1",
+                "ext_alt_text": "Photograph of a high-altitude view of the Chernobyl nuclear reactor accident site, with reactor number 4 marked.  (U.S. NARA ID: 6412382)",
                 "id": 1334151138644529150,
                 "id_str": "1334151138644529152",
                 "indices": [
@@ -143,55 +144,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/EoPbZFeXEAAW0TN.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/EoPbZFeXEAAW0TN.jpg",
-                "url": "https://t.co/oQ73BTGyY7",
-                "display_url": "pic.twitter.com/oQ73BTGyY7",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1334151143774162946/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
+                    "large": {
+                        "h": 1308,
+                        "resize": "fit",
+                        "w": 2048
                     },
                     "medium": {
-                        "w": 1200,
                         "h": 766,
-                        "resize": "fit"
-                    },
-                    "large": {
-                        "w": 2048,
-                        "h": 1308,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1200
                     },
                     "small": {
-                        "w": 680,
                         "h": 434,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": "Photograph of a high-altitude view of the Chernobyl nuclear reactor accident site, with reactor number 4 marked.  (U.S. NARA ID: 6412382)"
+                "type": "photo",
+                "url": "https://t.co/oQ73BTGyY7"
             }
         ]
     },
-    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "favorite_count": 12,
+    "favorited": false,
+    "full_text": "The #ChernobylHBO series renewed interest in the 1986 #Chernobyl nuclear accident. Explore #FRUS documents recording U.S. assessments of and reaction to the nuclear disaster, beginning with this intelligence report: \nhttps://t.co/AwXsdOd1CH\n\n📷 @USNatArchives https://t.co/oQ73BTGyY7",
+    "geo": null,
+    "id": 1334151143774162940,
+    "id_str": "1334151143774162946",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3,
+    "retweeted": false,
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 12,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

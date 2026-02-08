@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Jul 01 13:30:39 +0000 2014",
-    "id": 483965911041605630,
-    "id_str": "483965911041605634",
-    "full_text": "How did Carolyn Herrick, wife of U.S. Ambassador to France, entertain &amp;amp; help charm Parisians? http://t.co/0f0DWsobo0 @USEmbassyFrance #WW1",
-    "truncated": false,
     "display_text_range": [
         0,
         142
@@ -11,57 +9,59 @@
     "entities": {
         "hashtags": [
             {
-                "text": "WW1",
                 "indices": [
                     138,
                     142
-                ]
+                ],
+                "text": "WW1"
             }
         ],
         "symbols": [],
+        "urls": [
+            {
+                "display_url": "ow.ly/yEn0H",
+                "expanded_url": "http://ow.ly/yEn0H",
+                "indices": [
+                    98,
+                    120
+                ],
+                "url": "http://t.co/0f0DWsobo0"
+            }
+        ],
         "user_mentions": [
             {
-                "screen_name": "USEmbassyFrance",
-                "name": "U.S. Embassy France",
                 "id": 72814599,
                 "id_str": "72814599",
                 "indices": [
                     121,
                     137
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "http://t.co/0f0DWsobo0",
-                "expanded_url": "http://ow.ly/yEn0H",
-                "display_url": "ow.ly/yEn0H",
-                "indices": [
-                    98,
-                    120
-                ]
+                ],
+                "name": "U.S. Embassy France",
+                "screen_name": "USEmbassyFrance"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 3,
+    "favorited": false,
+    "full_text": "How did Carolyn Herrick, wife of U.S. Ambassador to France, entertain &amp;amp; help charm Parisians? http://t.co/0f0DWsobo0 @USEmbassyFrance #WW1",
+    "geo": null,
+    "id": 483965911041605630,
+    "id_str": "483965911041605634",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 3,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Fri Aug 05 20:02:00 +0000 2022",
-    "id": 1555645315444768770,
-    "id_str": "1555645315444768770",
-    "full_text": "As part of #openGov, we also offer our Foreign Travels data on #GitHub for you to explore and repurpose:\nhttps://t.co/lH9m7KHKNG\n\n#ArchivesPostcard https://t.co/Bx3mLjS1R1",
-    "truncated": false,
     "display_text_range": [
         0,
         147
@@ -11,42 +9,31 @@
     "entities": {
         "hashtags": [
             {
-                "text": "openGov",
                 "indices": [
                     11,
                     19
-                ]
+                ],
+                "text": "openGov"
             },
             {
-                "text": "GitHub",
                 "indices": [
                     63,
                     70
-                ]
+                ],
+                "text": "GitHub"
             },
             {
-                "text": "ArchivesPostcard",
                 "indices": [
                     130,
                     147
-                ]
-            }
-        ],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
-            {
-                "url": "https://t.co/lH9m7KHKNG",
-                "expanded_url": "http://ow.ly/1nT550KbW1G",
-                "display_url": "ow.ly/1nT550KbW1G",
-                "indices": [
-                    105,
-                    128
-                ]
+                ],
+                "text": "ArchivesPostcard"
             }
         ],
         "media": [
             {
+                "display_url": "pic.twitter.com/Bx3mLjS1R1",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1555645315444768770/photo/1",
                 "id": 1555645313142210560,
                 "id_str": "1555645313142210560",
                 "indices": [
@@ -55,38 +42,52 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/FZbDK45XwAAKZE1.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/FZbDK45XwAAKZE1.jpg",
-                "url": "https://t.co/Bx3mLjS1R1",
-                "display_url": "pic.twitter.com/Bx3mLjS1R1",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1555645315444768770/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
+                    "large": {
+                        "h": 512,
+                        "resize": "fit",
+                        "w": 1024
                     },
                     "medium": {
-                        "w": 1024,
                         "h": 512,
-                        "resize": "fit"
-                    },
-                    "large": {
-                        "w": 1024,
-                        "h": 512,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1024
                     },
                     "small": {
-                        "w": 680,
                         "h": 340,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/Bx3mLjS1R1"
             }
-        ]
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "ow.ly/1nT550KbW1G",
+                "expanded_url": "http://ow.ly/1nT550KbW1G",
+                "indices": [
+                    105,
+                    128
+                ],
+                "url": "https://t.co/lH9m7KHKNG"
+            }
+        ],
+        "user_mentions": []
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/Bx3mLjS1R1",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1555645315444768770/photo/1",
+                "ext_alt_text": "Text overlays a purple digital map of the world, with different locations highlighted by orange dots: “Foreign Travels of the President and Secretary of State; #ArchivesPostcard @HistoryAtState”",
                 "id": 1555645313142210560,
                 "id_str": "1555645313142210560",
                 "indices": [
@@ -95,55 +96,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/FZbDK45XwAAKZE1.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/FZbDK45XwAAKZE1.jpg",
-                "url": "https://t.co/Bx3mLjS1R1",
-                "display_url": "pic.twitter.com/Bx3mLjS1R1",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1555645315444768770/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
+                    "large": {
+                        "h": 512,
+                        "resize": "fit",
+                        "w": 1024
                     },
                     "medium": {
-                        "w": 1024,
                         "h": 512,
-                        "resize": "fit"
-                    },
-                    "large": {
-                        "w": 1024,
-                        "h": 512,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1024
                     },
                     "small": {
-                        "w": 680,
                         "h": 340,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": "Text overlays a purple digital map of the world, with different locations highlighted by orange dots: “Foreign Travels of the President and Secretary of State; #ArchivesPostcard @HistoryAtState”"
+                "type": "photo",
+                "url": "https://t.co/Bx3mLjS1R1"
             }
         ]
     },
-    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "favorite_count": 10,
+    "favorited": false,
+    "full_text": "As part of #openGov, we also offer our Foreign Travels data on #GitHub for you to explore and repurpose:\nhttps://t.co/lH9m7KHKNG\n\n#ArchivesPostcard https://t.co/Bx3mLjS1R1",
+    "geo": null,
+    "id": 1555645315444768770,
+    "id_str": "1555645315444768770",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3,
+    "retweeted": false,
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 10,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

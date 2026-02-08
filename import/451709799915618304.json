@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Apr 03 13:16:23 +0000 2014",
-    "id": 451709799915618300,
-    "id_str": "451709799915618304",
-    "full_text": "RT @USEmbassyFrance: 3 Avril 1948, le plan #Marshall de reconstruction pour l'#Europe entrait en vigueur. Découvrez en + sur ce plan http:/…",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,55 +9,55 @@
     "entities": {
         "hashtags": [
             {
-                "text": "Marshall",
                 "indices": [
                     43,
                     52
-                ]
+                ],
+                "text": "Marshall"
             },
             {
-                "text": "Europe",
                 "indices": [
                     78,
                     85
-                ]
+                ],
+                "text": "Europe"
             }
         ],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "USEmbassyFrance",
-                "name": "U.S. Embassy France",
                 "id": 72814599,
                 "id_str": "72814599",
                 "indices": [
                     3,
                     19
-                ]
+                ],
+                "name": "U.S. Embassy France",
+                "screen_name": "USEmbassyFrance"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "RT @USEmbassyFrance: 3 Avril 1948, le plan #Marshall de reconstruction pour l'#Europe entrait en vigueur. Découvrez en + sur ce plan http:/…",
+    "geo": null,
+    "id": 451709799915618300,
+    "id_str": "451709799915618304",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "fr",
     "place": null,
-    "contributors": null,
+    "retweet_count": 1,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Wed Apr 02 17:15:23 +0000 2014",
-        "id": 451407559568531460,
-        "id_str": "451407559568531460",
-        "full_text": "3 Avril 1948, le plan #Marshall de reconstruction pour l'#Europe entrait en vigueur. Découvrez en + sur ce plan http://t.co/h0VZ0R6Baa",
-        "truncated": false,
         "display_text_range": [
             0,
             134
@@ -67,60 +65,62 @@
         "entities": {
             "hashtags": [
                 {
-                    "text": "Marshall",
                     "indices": [
                         22,
                         31
-                    ]
+                    ],
+                    "text": "Marshall"
                 },
                 {
-                    "text": "Europe",
                     "indices": [
                         57,
                         64
-                    ]
+                    ],
+                    "text": "Europe"
                 }
             ],
             "symbols": [],
-            "user_mentions": [],
             "urls": [
                 {
-                    "url": "http://t.co/h0VZ0R6Baa",
-                    "expanded_url": "http://goo.gl/eKWtC1",
                     "display_url": "goo.gl/eKWtC1",
+                    "expanded_url": "http://goo.gl/eKWtC1",
                     "indices": [
                         112,
                         134
-                    ]
+                    ],
+                    "url": "http://t.co/h0VZ0R6Baa"
                 }
-            ]
+            ],
+            "user_mentions": []
         },
-        "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
+        "favorite_count": 1,
+        "favorited": false,
+        "full_text": "3 Avril 1948, le plan #Marshall de reconstruction pour l'#Europe entrait en vigueur. Découvrez en + sur ce plan http://t.co/h0VZ0R6Baa",
+        "geo": null,
+        "id": 451407559568531460,
+        "id_str": "451407559568531460",
+        "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "lang": "fr",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 1,
+        "retweeted": true,
+        "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
+        "truncated": false,
         "user": {
             "id": 72814599,
             "id_str": "72814599"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 1,
-        "favorite_count": 1,
-        "favorited": false,
-        "retweeted": true,
-        "possibly_sensitive": false,
-        "lang": "fr"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": true,
-    "lang": "fr"
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

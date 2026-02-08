@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Sun May 13 15:00:56 +0000 2018",
-    "id": 995680298556903420,
-    "id_str": "995680298556903425",
-    "full_text": "In the 1890s, #Germany and the US had an ongoing dispute about the zinc content of imported apple slices dried on racks made of zinc. May your #ApplePieDay be happy and zinc-free! \nhttps://t.co/pJd2svS167 #FRUS",
-    "truncated": false,
     "display_text_range": [
         0,
         210
@@ -11,60 +9,62 @@
     "entities": {
         "hashtags": [
             {
-                "text": "Germany",
                 "indices": [
                     14,
                     22
-                ]
+                ],
+                "text": "Germany"
             },
             {
-                "text": "ApplePieDay",
                 "indices": [
                     143,
                     155
-                ]
+                ],
+                "text": "ApplePieDay"
             },
             {
-                "text": "FRUS",
                 "indices": [
                     205,
                     210
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "https://t.co/pJd2svS167",
-                "expanded_url": "https://history.state.gov/historicaldocuments/frus1898/d210",
                 "display_url": "history.state.gov/historicaldocu…",
+                "expanded_url": "https://history.state.gov/historicaldocuments/frus1898/d210",
                 "indices": [
                     181,
                     204
-                ]
+                ],
+                "url": "https://t.co/pJd2svS167"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 3,
+    "favorited": false,
+    "full_text": "In the 1890s, #Germany and the US had an ongoing dispute about the zinc content of imported apple slices dried on racks made of zinc. May your #ApplePieDay be happy and zinc-free! \nhttps://t.co/pJd2svS167 #FRUS",
+    "geo": null,
+    "id": 995680298556903420,
+    "id_str": "995680298556903425",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 3,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

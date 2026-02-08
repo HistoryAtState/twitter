@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Mar 24 12:02:21 +0000 2014",
-    "id": 448067291931217920,
-    "id_str": "448067291931217920",
-    "full_text": "In 1919, President Wilson became 1st #POTUS to visit Belgium, Italy &amp;amp; Vatican City (while @ Paris Peace Conference) http://t.co/ztfy0Usaw7",
-    "truncated": false,
     "display_text_range": [
         0,
         142
@@ -11,46 +9,48 @@
     "entities": {
         "hashtags": [
             {
-                "text": "POTUS",
                 "indices": [
                     37,
                     43
-                ]
+                ],
+                "text": "POTUS"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/ztfy0Usaw7",
-                "expanded_url": "http://go.usa.gov/KPA3",
                 "display_url": "go.usa.gov/KPA3",
+                "expanded_url": "http://go.usa.gov/KPA3",
                 "indices": [
                     120,
                     142
-                ]
+                ],
+                "url": "http://t.co/ztfy0Usaw7"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 3,
+    "favorited": false,
+    "full_text": "In 1919, President Wilson became 1st #POTUS to visit Belgium, Italy &amp;amp; Vatican City (while @ Paris Peace Conference) http://t.co/ztfy0Usaw7",
+    "geo": null,
+    "id": 448067291931217920,
+    "id_str": "448067291931217920",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 6,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 3,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

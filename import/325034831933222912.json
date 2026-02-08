@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Apr 18 23:55:17 +0000 2013",
-    "id": 325034831933222910,
-    "id_str": "325034831933222912",
-    "full_text": "RT @StateDept: Hangout with #SecKerry on #GooglePlus! Watch the discussion live on https://t.co/SL2qE1hCxC April 19 at 1:00 PM ET. http: ...",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,65 +9,66 @@
     "entities": {
         "hashtags": [
             {
-                "text": "SecKerry",
                 "indices": [
                     28,
                     37
-                ]
+                ],
+                "text": "SecKerry"
             },
             {
-                "text": "GooglePlus",
                 "indices": [
                     41,
                     52
-                ]
+                ],
+                "text": "GooglePlus"
             }
         ],
         "symbols": [],
+        "urls": [
+            {
+                "display_url": "plus.google.com/+StateDept/",
+                "expanded_url": "https://plus.google.com/+StateDept/",
+                "indices": [
+                    83,
+                    106
+                ],
+                "url": "https://t.co/SL2qE1hCxC"
+            }
+        ],
         "user_mentions": [
             {
-                "screen_name": "StateDept",
-                "name": "Department of State",
                 "id": 9624742,
                 "id_str": "9624742",
                 "indices": [
                     3,
                     13
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "https://t.co/SL2qE1hCxC",
-                "expanded_url": "https://plus.google.com/+StateDept/",
-                "display_url": "plus.google.com/+StateDept/",
-                "indices": [
-                    83,
-                    106
-                ]
+                ],
+                "name": "Department of State",
+                "screen_name": "StateDept"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "RT @StateDept: Hangout with #SecKerry on #GooglePlus! Watch the discussion live on https://t.co/SL2qE1hCxC April 19 at 1:00 PM ET. http: ...",
+    "geo": null,
+    "id": 325034831933222910,
+    "id_str": "325034831933222912",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "possibly_sensitive": false,
+    "retweet_count": 17,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Thu Apr 18 22:03:23 +0000 2013",
-        "id": 325006671934021630,
-        "id_str": "325006671934021632",
-        "full_text": "Hangout with #SecKerry on #GooglePlus! Watch the discussion live on https://t.co/SL2qE1hCxC April 19 at 1:00 PM ET. http://t.co/wiTdqTCp6E",
-        "truncated": false,
         "display_text_range": [
             0,
             138
@@ -77,35 +76,24 @@
         "entities": {
             "hashtags": [
                 {
-                    "text": "SecKerry",
                     "indices": [
                         13,
                         22
-                    ]
+                    ],
+                    "text": "SecKerry"
                 },
                 {
-                    "text": "GooglePlus",
                     "indices": [
                         26,
                         37
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "https://t.co/SL2qE1hCxC",
-                    "expanded_url": "https://plus.google.com/+StateDept/",
-                    "display_url": "plus.google.com/+StateDept/",
-                    "indices": [
-                        68,
-                        91
-                    ]
+                    ],
+                    "text": "GooglePlus"
                 }
             ],
             "media": [
                 {
+                    "display_url": "pic.twitter.com/wiTdqTCp6E",
+                    "expanded_url": "https://twitter.com/StateDept/status/325006671934021632/photo/1",
                     "id": 325006671942410240,
                     "id_str": "325006671942410241",
                     "indices": [
@@ -114,38 +102,52 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/BIKn2J7CYAEAzse.jpg",
                     "media_url_https": "https://pbs.twimg.com/media/BIKn2J7CYAEAzse.jpg",
-                    "url": "http://t.co/wiTdqTCp6E",
-                    "display_url": "pic.twitter.com/wiTdqTCp6E",
-                    "expanded_url": "https://twitter.com/StateDept/status/325006671934021632/photo/1",
-                    "type": "photo",
                     "sizes": {
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
-                        },
-                        "small": {
-                            "w": 680,
-                            "h": 459,
-                            "resize": "fit"
+                        "large": {
+                            "h": 486,
+                            "resize": "fit",
+                            "w": 720
                         },
                         "medium": {
-                            "w": 720,
                             "h": 486,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 720
                         },
-                        "large": {
-                            "w": 720,
-                            "h": 486,
-                            "resize": "fit"
+                        "small": {
+                            "h": 459,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
                         }
-                    }
+                    },
+                    "type": "photo",
+                    "url": "http://t.co/wiTdqTCp6E"
                 }
-            ]
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "plus.google.com/+StateDept/",
+                    "expanded_url": "https://plus.google.com/+StateDept/",
+                    "indices": [
+                        68,
+                        91
+                    ],
+                    "url": "https://t.co/SL2qE1hCxC"
+                }
+            ],
+            "user_mentions": []
         },
         "extended_entities": {
             "media": [
                 {
+                    "display_url": "pic.twitter.com/wiTdqTCp6E",
+                    "expanded_url": "https://twitter.com/StateDept/status/325006671934021632/photo/1",
+                    "ext_alt_text": null,
                     "id": 325006671942410240,
                     "id_str": "325006671942410241",
                     "indices": [
@@ -154,63 +156,61 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/BIKn2J7CYAEAzse.jpg",
                     "media_url_https": "https://pbs.twimg.com/media/BIKn2J7CYAEAzse.jpg",
-                    "url": "http://t.co/wiTdqTCp6E",
-                    "display_url": "pic.twitter.com/wiTdqTCp6E",
-                    "expanded_url": "https://twitter.com/StateDept/status/325006671934021632/photo/1",
-                    "type": "photo",
                     "sizes": {
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
-                        },
-                        "small": {
-                            "w": 680,
-                            "h": 459,
-                            "resize": "fit"
+                        "large": {
+                            "h": 486,
+                            "resize": "fit",
+                            "w": 720
                         },
                         "medium": {
-                            "w": 720,
                             "h": 486,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 720
                         },
-                        "large": {
-                            "w": 720,
-                            "h": 486,
-                            "resize": "fit"
+                        "small": {
+                            "h": 459,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
                         }
                     },
-                    "ext_alt_text": null
+                    "type": "photo",
+                    "url": "http://t.co/wiTdqTCp6E"
                 }
             ]
         },
-        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+        "favorite_count": 3,
+        "favorited": false,
+        "full_text": "Hangout with #SecKerry on #GooglePlus! Watch the discussion live on https://t.co/SL2qE1hCxC April 19 at 1:00 PM ET. http://t.co/wiTdqTCp6E",
+        "geo": null,
+        "id": 325006671934021630,
+        "id_str": "325006671934021632",
+        "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 17,
+        "retweeted": true,
+        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+        "truncated": false,
         "user": {
             "id": 9624742,
             "id_str": "9624742"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 17,
-        "favorite_count": 3,
-        "favorited": false,
-        "retweeted": true,
-        "possibly_sensitive": false,
-        "lang": "en"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 17,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": true,
-    "possibly_sensitive": false,
-    "lang": "en"
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

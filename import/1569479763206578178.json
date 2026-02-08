@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Sep 13 00:15:09 +0000 2022",
-    "id": 1569479763206578180,
-    "id_str": "1569479763206578178",
-    "full_text": "📷 @Reagan_Library (NARA ID: 75856447)\nhttps://t.co/i5KA2ltrn2",
-    "truncated": false,
     "display_text_range": [
         0,
         61
@@ -11,49 +9,51 @@
     "entities": {
         "hashtags": [],
         "symbols": [],
+        "urls": [
+            {
+                "display_url": "ow.ly/YSgA50KCYHO",
+                "expanded_url": "http://ow.ly/YSgA50KCYHO",
+                "indices": [
+                    38,
+                    61
+                ],
+                "url": "https://t.co/i5KA2ltrn2"
+            }
+        ],
         "user_mentions": [
             {
-                "screen_name": "Reagan_Library",
-                "name": "RonaldReaganLibrary",
                 "id": 394351710,
                 "id_str": "394351710",
                 "indices": [
                     2,
                     17
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "https://t.co/i5KA2ltrn2",
-                "expanded_url": "http://ow.ly/YSgA50KCYHO",
-                "display_url": "ow.ly/YSgA50KCYHO",
-                "indices": [
-                    38,
-                    61
-                ]
+                ],
+                "name": "RonaldReaganLibrary",
+                "screen_name": "Reagan_Library"
             }
         ]
     },
-    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "📷 @Reagan_Library (NARA ID: 75856447)\nhttps://t.co/i5KA2ltrn2",
+    "geo": null,
+    "id": 1569479763206578180,
+    "id_str": "1569479763206578178",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "tl",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "tl"
+    }
 }

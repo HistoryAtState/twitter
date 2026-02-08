@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Sep 22 14:25:17 +0000 2014",
-    "id": 514057852970078210,
-    "id_str": "514057852970078209",
-    "full_text": "Amb Herrick's wife Carolyn led U.S. relief work in Paris Fall 1914 http://t.co/Ya4Gb2vIth http://t.co/Oiy4MIffNs http://t.co/fkNOmPrD1x",
-    "truncated": false,
     "display_text_range": [
         0,
         135
@@ -11,56 +9,58 @@
     "entities": {
         "hashtags": [],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/Ya4Gb2vIth",
-                "expanded_url": "http://go.usa.gov/pT3F",
                 "display_url": "go.usa.gov/pT3F",
+                "expanded_url": "http://go.usa.gov/pT3F",
                 "indices": [
                     67,
                     89
-                ]
+                ],
+                "url": "http://t.co/Ya4Gb2vIth"
             },
             {
-                "url": "http://t.co/Oiy4MIffNs",
-                "expanded_url": "http://go.usa.gov/pKZx",
                 "display_url": "go.usa.gov/pKZx",
+                "expanded_url": "http://go.usa.gov/pKZx",
                 "indices": [
                     90,
                     112
-                ]
+                ],
+                "url": "http://t.co/Oiy4MIffNs"
             },
             {
-                "url": "http://t.co/fkNOmPrD1x",
-                "expanded_url": "http://ow.ly/i/6UZ0X",
                 "display_url": "ow.ly/i/6UZ0X",
+                "expanded_url": "http://ow.ly/i/6UZ0X",
                 "indices": [
                     113,
                     135
-                ]
+                ],
+                "url": "http://t.co/fkNOmPrD1x"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "Amb Herrick's wife Carolyn led U.S. relief work in Paris Fall 1914 http://t.co/Ya4Gb2vIth http://t.co/Oiy4MIffNs http://t.co/fkNOmPrD1x",
+    "geo": null,
+    "id": 514057852970078210,
+    "id_str": "514057852970078209",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Nov 30 13:11:54 +0000 2021",
-    "id": 1465669922013564930,
-    "id_str": "1465669922013564928",
-    "full_text": "RT @SHFGHistorians: Awards deadline is Dec 15. Help us spread the word! New media #digitalhumanities award; book prize; article prize; memb…",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,48 +9,48 @@
     "entities": {
         "hashtags": [
             {
-                "text": "digitalhumanities",
                 "indices": [
                     82,
                     100
-                ]
+                ],
+                "text": "digitalhumanities"
             }
         ],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "SHFGHistorians",
-                "name": "SHFGHistorians",
                 "id": 486867266,
                 "id_str": "486867266",
                 "indices": [
                     3,
                     18
-                ]
+                ],
+                "name": "SHFGHistorians",
+                "screen_name": "SHFGHistorians"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "RT @SHFGHistorians: Awards deadline is Dec 15. Help us spread the word! New media #digitalhumanities award; book prize; article prize; memb…",
+    "geo": null,
+    "id": 1465669922013564930,
+    "id_str": "1465669922013564928",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "retweet_count": 10,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Mon Nov 29 17:13:05 +0000 2021",
-        "id": 1465368228541177860,
-        "id_str": "1465368228541177859",
-        "full_text": "Awards deadline is Dec 15. Help us spread the word! New media #digitalhumanities award; book prize; article prize; member award. https://t.co/oue2AGRWTg @uscapitol @The_OAH @ncph @chronicle @SMH_Historians @SHAFRhistorians @AHAhistorians @SenateHistory @HistoryAtState",
-        "truncated": false,
         "display_text_range": [
             0,
             268
@@ -60,144 +58,146 @@
         "entities": {
             "hashtags": [
                 {
-                    "text": "digitalhumanities",
                     "indices": [
                         62,
                         80
-                    ]
+                    ],
+                    "text": "digitalhumanities"
                 }
             ],
             "symbols": [],
+            "urls": [
+                {
+                    "display_url": "shfg.wildapricot.org/Awards",
+                    "expanded_url": "http://shfg.wildapricot.org/Awards",
+                    "indices": [
+                        129,
+                        152
+                    ],
+                    "url": "https://t.co/oue2AGRWTg"
+                }
+            ],
             "user_mentions": [
                 {
-                    "screen_name": "uscapitol",
-                    "name": "Architect of the Capitol (AOC)",
                     "id": 17539497,
                     "id_str": "17539497",
                     "indices": [
                         153,
                         163
-                    ]
+                    ],
+                    "name": "Architect of the Capitol (AOC)",
+                    "screen_name": "uscapitol"
                 },
                 {
-                    "screen_name": "The_OAH",
-                    "name": "Organization of American Historians",
                     "id": 58882425,
                     "id_str": "58882425",
                     "indices": [
                         164,
                         172
-                    ]
+                    ],
+                    "name": "Organization of American Historians",
+                    "screen_name": "The_OAH"
                 },
                 {
-                    "screen_name": "ncph",
-                    "name": "NCPH",
                     "id": 119292779,
                     "id_str": "119292779",
                     "indices": [
                         173,
                         178
-                    ]
+                    ],
+                    "name": "NCPH",
+                    "screen_name": "ncph"
                 },
                 {
-                    "screen_name": "chronicle",
-                    "name": "The Chronicle of Higher Education",
                     "id": 12413032,
                     "id_str": "12413032",
                     "indices": [
                         179,
                         189
-                    ]
+                    ],
+                    "name": "The Chronicle of Higher Education",
+                    "screen_name": "chronicle"
                 },
                 {
-                    "screen_name": "SMH_Historians",
-                    "name": "SMH Historians",
                     "id": 961631816,
                     "id_str": "961631816",
                     "indices": [
                         190,
                         205
-                    ]
+                    ],
+                    "name": "SMH Historians",
+                    "screen_name": "SMH_Historians"
                 },
                 {
-                    "screen_name": "SHAFRhistorians",
-                    "name": "SHAFR Historians",
                     "id": 2169482554,
                     "id_str": "2169482554",
                     "indices": [
                         206,
                         222
-                    ]
+                    ],
+                    "name": "SHAFR Historians",
+                    "screen_name": "SHAFRhistorians"
                 },
                 {
-                    "screen_name": "AHAhistorians",
-                    "name": "American Historical Association",
                     "id": 76944176,
                     "id_str": "76944176",
                     "indices": [
                         223,
                         237
-                    ]
+                    ],
+                    "name": "American Historical Association",
+                    "screen_name": "AHAhistorians"
                 },
                 {
-                    "screen_name": "SenateHistory",
-                    "name": "U.S. Senate History",
                     "id": 1428441589,
                     "id_str": "1428441589",
                     "indices": [
                         238,
                         252
-                    ]
+                    ],
+                    "name": "U.S. Senate History",
+                    "screen_name": "SenateHistory"
                 },
                 {
-                    "screen_name": "HistoryAtState",
-                    "name": "HistoryAtState",
                     "id": 586570880,
                     "id_str": "586570880",
                     "indices": [
                         253,
                         268
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "https://t.co/oue2AGRWTg",
-                    "expanded_url": "http://shfg.wildapricot.org/Awards",
-                    "display_url": "shfg.wildapricot.org/Awards",
-                    "indices": [
-                        129,
-                        152
-                    ]
+                    ],
+                    "name": "HistoryAtState",
+                    "screen_name": "HistoryAtState"
                 }
             ]
         },
-        "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+        "favorite_count": 5,
+        "favorited": false,
+        "full_text": "Awards deadline is Dec 15. Help us spread the word! New media #digitalhumanities award; book prize; article prize; member award. https://t.co/oue2AGRWTg @uscapitol @The_OAH @ncph @chronicle @SMH_Historians @SHAFRhistorians @AHAhistorians @SenateHistory @HistoryAtState",
+        "geo": null,
+        "id": 1465368228541177860,
+        "id_str": "1465368228541177859",
+        "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 10,
+        "retweeted": true,
+        "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+        "truncated": false,
         "user": {
             "id": 486867266,
             "id_str": "486867266"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 10,
-        "favorite_count": 5,
-        "favorited": false,
-        "retweeted": true,
-        "possibly_sensitive": false,
-        "lang": "en"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 10,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": true,
-    "lang": "en"
+    "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

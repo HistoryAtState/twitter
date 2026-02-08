@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Mar 01 18:04:38 +0000 2018",
-    "id": 969272211541504000,
-    "id_str": "969272211541504001",
-    "full_text": "RT @ADSTnews: @HistoryAtState Thanks @HistoryAtState!  We've also collected the oral histories of dozens of other African-American, female,…",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,60 +9,60 @@
     "entities": {
         "hashtags": [],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "ADSTnews",
-                "name": "ADST",
                 "id": 493242776,
                 "id_str": "493242776",
                 "indices": [
                     3,
                     12
-                ]
+                ],
+                "name": "ADST",
+                "screen_name": "ADSTnews"
             },
             {
-                "screen_name": "HistoryAtState",
-                "name": "HistoryAtState",
                 "id": 586570880,
                 "id_str": "586570880",
                 "indices": [
                     14,
                     29
-                ]
+                ],
+                "name": "HistoryAtState",
+                "screen_name": "HistoryAtState"
             },
             {
-                "screen_name": "HistoryAtState",
-                "name": "HistoryAtState",
                 "id": 586570880,
                 "id_str": "586570880",
                 "indices": [
                     37,
                     52
-                ]
+                ],
+                "name": "HistoryAtState",
+                "screen_name": "HistoryAtState"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "RT @ADSTnews: @HistoryAtState Thanks @HistoryAtState!  We've also collected the oral histories of dozens of other African-American, female,…",
+    "geo": null,
+    "id": 969272211541504000,
+    "id_str": "969272211541504001",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "retweet_count": 1,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Thu Mar 01 16:21:10 +0000 2018",
-        "id": 969246174736723970,
-        "id_str": "969246174736723970",
-        "full_text": "@HistoryAtState Thanks @HistoryAtState!  We've also collected the oral histories of dozens of other African-American, female, and Hispanic-American diplomats at https://t.co/BKPWRjeqSI.",
-        "truncated": false,
         "display_text_range": [
             16,
             185
@@ -72,66 +70,68 @@
         "entities": {
             "hashtags": [],
             "symbols": [],
+            "urls": [
+                {
+                    "display_url": "adst.org",
+                    "expanded_url": "http://adst.org",
+                    "indices": [
+                        161,
+                        184
+                    ],
+                    "url": "https://t.co/BKPWRjeqSI"
+                }
+            ],
             "user_mentions": [
                 {
-                    "screen_name": "HistoryAtState",
-                    "name": "HistoryAtState",
                     "id": 586570880,
                     "id_str": "586570880",
                     "indices": [
                         0,
                         15
-                    ]
+                    ],
+                    "name": "HistoryAtState",
+                    "screen_name": "HistoryAtState"
                 },
                 {
-                    "screen_name": "HistoryAtState",
-                    "name": "HistoryAtState",
                     "id": 586570880,
                     "id_str": "586570880",
                     "indices": [
                         23,
                         38
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "https://t.co/BKPWRjeqSI",
-                    "expanded_url": "http://adst.org",
-                    "display_url": "adst.org",
-                    "indices": [
-                        161,
-                        184
-                    ]
+                    ],
+                    "name": "HistoryAtState",
+                    "screen_name": "HistoryAtState"
                 }
             ]
         },
-        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+        "favorite_count": 1,
+        "favorited": false,
+        "full_text": "@HistoryAtState Thanks @HistoryAtState!  We've also collected the oral histories of dozens of other African-American, female, and Hispanic-American diplomats at https://t.co/BKPWRjeqSI.",
+        "geo": null,
+        "id": 969246174736723970,
+        "id_str": "969246174736723970",
+        "in_reply_to_screen_name": "HistoryAtState",
         "in_reply_to_status_id": 968835814745571330,
         "in_reply_to_status_id_str": "968835814745571328",
         "in_reply_to_user_id": 586570880,
         "in_reply_to_user_id_str": "586570880",
-        "in_reply_to_screen_name": "HistoryAtState",
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 1,
+        "retweeted": true,
+        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+        "truncated": false,
         "user": {
             "id": 493242776,
             "id_str": "493242776"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 1,
-        "favorite_count": 1,
-        "favorited": false,
-        "retweeted": true,
-        "possibly_sensitive": false,
-        "lang": "en"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": true,
-    "lang": "en"
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

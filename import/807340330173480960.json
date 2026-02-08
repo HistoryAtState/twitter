@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Fri Dec 09 21:45:09 +0000 2016",
-    "id": 807340330173480960,
-    "id_str": "807340330173480960",
-    "full_text": "US/USSR communication after Glenn flight prompted agreement re space cooperation signed Dec 1962 #RIPJohnGlenn #FRUS https://t.co/Fix6TEUupQ",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,53 +9,55 @@
     "entities": {
         "hashtags": [
             {
-                "text": "RIPJohnGlenn",
                 "indices": [
                     97,
                     110
-                ]
+                ],
+                "text": "RIPJohnGlenn"
             },
             {
-                "text": "FRUS",
                 "indices": [
                     111,
                     116
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "https://t.co/Fix6TEUupQ",
-                "expanded_url": "http://go.usa.gov/x8pKn",
                 "display_url": "go.usa.gov/x8pKn",
+                "expanded_url": "http://go.usa.gov/x8pKn",
                 "indices": [
                     117,
                     140
-                ]
+                ],
+                "url": "https://t.co/Fix6TEUupQ"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 4,
+    "favorited": false,
+    "full_text": "US/USSR communication after Glenn flight prompted agreement re space cooperation signed Dec 1962 #RIPJohnGlenn #FRUS https://t.co/Fix6TEUupQ",
+    "geo": null,
+    "id": 807340330173480960,
+    "id_str": "807340330173480960",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 4,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

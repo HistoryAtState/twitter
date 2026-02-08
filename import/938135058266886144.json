@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Dec 05 19:56:42 +0000 2017",
-    "id": 938135058266886140,
-    "id_str": "938135058266886144",
-    "full_text": "RT @StateDept: Today, @HistoryAtState released Foreign Relations of the United States, 1917–1972, Volume VI, Public Diplomacy, 1961–1963. T…",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,50 +9,50 @@
     "entities": {
         "hashtags": [],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "StateDept",
-                "name": "Department of State",
                 "id": 9624742,
                 "id_str": "9624742",
                 "indices": [
                     3,
                     13
-                ]
+                ],
+                "name": "Department of State",
+                "screen_name": "StateDept"
             },
             {
-                "screen_name": "HistoryAtState",
-                "name": "HistoryAtState",
                 "id": 586570880,
                 "id_str": "586570880",
                 "indices": [
                     22,
                     37
-                ]
+                ],
+                "name": "HistoryAtState",
+                "screen_name": "HistoryAtState"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "RT @StateDept: Today, @HistoryAtState released Foreign Relations of the United States, 1917–1972, Volume VI, Public Diplomacy, 1961–1963. T…",
+    "geo": null,
+    "id": 938135058266886140,
+    "id_str": "938135058266886144",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "retweet_count": 54,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Tue Dec 05 19:41:39 +0000 2017",
-        "id": 938131270588125180,
-        "id_str": "938131270588125184",
-        "full_text": "Today, @HistoryAtState released Foreign Relations of the United States, 1917–1972, Volume VI, Public Diplomacy, 1961–1963. This volume documents the public diplomacy efforts of the John F. Kennedy administration. https://t.co/9lIR65TSVt #FRUS https://t.co/dxk3g8ktfq",
-        "truncated": false,
         "display_text_range": [
             0,
             242
@@ -62,39 +60,17 @@
         "entities": {
             "hashtags": [
                 {
-                    "text": "FRUS",
                     "indices": [
                         237,
                         242
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "HistoryAtState",
-                    "name": "HistoryAtState",
-                    "id": 586570880,
-                    "id_str": "586570880",
-                    "indices": [
-                        7,
-                        22
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "https://t.co/9lIR65TSVt",
-                    "expanded_url": "https://go.usa.gov/xn5xe",
-                    "display_url": "go.usa.gov/xn5xe",
-                    "indices": [
-                        213,
-                        236
-                    ]
+                    ],
+                    "text": "FRUS"
                 }
             ],
             "media": [
                 {
+                    "display_url": "pic.twitter.com/dxk3g8ktfq",
+                    "expanded_url": "https://twitter.com/StateDept/status/938131270588125184/photo/1",
                     "id": 938130108401029120,
                     "id_str": "938130108401029128",
                     "indices": [
@@ -103,38 +79,63 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/DQToXPhXkAgCw1Q.jpg",
                     "media_url_https": "https://pbs.twimg.com/media/DQToXPhXkAgCw1Q.jpg",
-                    "url": "https://t.co/dxk3g8ktfq",
-                    "display_url": "pic.twitter.com/dxk3g8ktfq",
-                    "expanded_url": "https://twitter.com/StateDept/status/938131270588125184/photo/1",
-                    "type": "photo",
                     "sizes": {
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
-                        },
                         "large": {
-                            "w": 400,
                             "h": 600,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 400
                         },
                         "medium": {
-                            "w": 400,
                             "h": 600,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 400
                         },
                         "small": {
-                            "w": 400,
                             "h": 600,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 400
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
                         }
-                    }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/dxk3g8ktfq"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "go.usa.gov/xn5xe",
+                    "expanded_url": "https://go.usa.gov/xn5xe",
+                    "indices": [
+                        213,
+                        236
+                    ],
+                    "url": "https://t.co/9lIR65TSVt"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 586570880,
+                    "id_str": "586570880",
+                    "indices": [
+                        7,
+                        22
+                    ],
+                    "name": "HistoryAtState",
+                    "screen_name": "HistoryAtState"
                 }
             ]
         },
         "extended_entities": {
             "media": [
                 {
+                    "display_url": "pic.twitter.com/dxk3g8ktfq",
+                    "expanded_url": "https://twitter.com/StateDept/status/938131270588125184/photo/1",
+                    "ext_alt_text": null,
                     "id": 938130108401029120,
                     "id_str": "938130108401029128",
                     "indices": [
@@ -143,62 +144,61 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/DQToXPhXkAgCw1Q.jpg",
                     "media_url_https": "https://pbs.twimg.com/media/DQToXPhXkAgCw1Q.jpg",
-                    "url": "https://t.co/dxk3g8ktfq",
-                    "display_url": "pic.twitter.com/dxk3g8ktfq",
-                    "expanded_url": "https://twitter.com/StateDept/status/938131270588125184/photo/1",
-                    "type": "photo",
                     "sizes": {
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
-                        },
                         "large": {
-                            "w": 400,
                             "h": 600,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 400
                         },
                         "medium": {
-                            "w": 400,
                             "h": 600,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 400
                         },
                         "small": {
-                            "w": 400,
                             "h": 600,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 400
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
                         }
                     },
-                    "ext_alt_text": null
+                    "type": "photo",
+                    "url": "https://t.co/dxk3g8ktfq"
                 }
             ]
         },
-        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+        "favorite_count": 80,
+        "favorited": false,
+        "full_text": "Today, @HistoryAtState released Foreign Relations of the United States, 1917–1972, Volume VI, Public Diplomacy, 1961–1963. This volume documents the public diplomacy efforts of the John F. Kennedy administration. https://t.co/9lIR65TSVt #FRUS https://t.co/dxk3g8ktfq",
+        "geo": null,
+        "id": 938131270588125180,
+        "id_str": "938131270588125184",
+        "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 54,
+        "retweeted": true,
+        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+        "truncated": false,
         "user": {
             "id": 9624742,
             "id_str": "9624742"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 54,
-        "favorite_count": 80,
-        "favorited": false,
-        "retweeted": true,
-        "possibly_sensitive": false,
-        "lang": "en"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 54,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": true,
-    "lang": "en"
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

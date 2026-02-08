@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Jul 01 13:00:20 +0000 2013",
-    "id": 351686709160849410,
-    "id_str": "351686709160849408",
-    "full_text": "Stay tuned to @HistoryAtState for a big #CivilWar diplomacy anniversary... #FRUS #Gettysburg #Vicksburg #NewBirthOfFreedom",
-    "truncated": false,
     "display_text_range": [
         0,
         122
@@ -11,74 +9,76 @@
     "entities": {
         "hashtags": [
             {
-                "text": "CivilWar",
                 "indices": [
                     40,
                     49
-                ]
+                ],
+                "text": "CivilWar"
             },
             {
-                "text": "FRUS",
                 "indices": [
                     75,
                     80
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "Gettysburg",
                 "indices": [
                     81,
                     92
-                ]
+                ],
+                "text": "Gettysburg"
             },
             {
-                "text": "Vicksburg",
                 "indices": [
                     93,
                     103
-                ]
+                ],
+                "text": "Vicksburg"
             },
             {
-                "text": "NewBirthOfFreedom",
                 "indices": [
                     104,
                     122
-                ]
+                ],
+                "text": "NewBirthOfFreedom"
             }
         ],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "HistoryAtState",
-                "name": "HistoryAtState",
                 "id": 586570880,
                 "id_str": "586570880",
                 "indices": [
                     14,
                     29
-                ]
+                ],
+                "name": "HistoryAtState",
+                "screen_name": "HistoryAtState"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "Stay tuned to @HistoryAtState for a big #CivilWar diplomacy anniversary... #FRUS #Gettysburg #Vicksburg #NewBirthOfFreedom",
+    "geo": null,
+    "id": 351686709160849410,
+    "id_str": "351686709160849408",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "lang": "en"
+    }
 }

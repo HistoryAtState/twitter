@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Fri Sep 02 15:05:39 +0000 2016",
-    "id": 771725784574730240,
-    "id_str": "771725784574730240",
-    "full_text": "Now available: Foreign Relations, 1938, The Far East, Vol. III https://t.co/vAOhm3CICw #FRUS #twitterstorians",
-    "truncated": false,
     "display_text_range": [
         0,
         109
@@ -11,53 +9,55 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     87,
                     92
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "twitterstorians",
                 "indices": [
                     93,
                     109
-                ]
+                ],
+                "text": "twitterstorians"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "https://t.co/vAOhm3CICw",
-                "expanded_url": "http://go.usa.gov/xDe2W",
                 "display_url": "go.usa.gov/xDe2W",
+                "expanded_url": "http://go.usa.gov/xDe2W",
                 "indices": [
                     63,
                     86
-                ]
+                ],
+                "url": "https://t.co/vAOhm3CICw"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "Now available: Foreign Relations, 1938, The Far East, Vol. III https://t.co/vAOhm3CICw #FRUS #twitterstorians",
+    "geo": null,
+    "id": 771725784574730240,
+    "id_str": "771725784574730240",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

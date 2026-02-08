@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Fri May 09 14:51:36 +0000 2014",
-    "id": 464779725916102660,
-    "id_str": "464779725916102656",
-    "full_text": "Explore US-Spanish relations in the post-Franco era—http://t.co/iU8h1yk8Zr #FRUS #twitterstorians",
-    "truncated": false,
     "display_text_range": [
         0,
         97
@@ -11,53 +9,55 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     75,
                     80
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "twitterstorians",
                 "indices": [
                     81,
                     97
-                ]
+                ],
+                "text": "twitterstorians"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/iU8h1yk8Zr",
-                "expanded_url": "http://go.usa.gov/KmE5",
                 "display_url": "go.usa.gov/KmE5",
+                "expanded_url": "http://go.usa.gov/KmE5",
                 "indices": [
                     52,
                     74
-                ]
+                ],
+                "url": "http://t.co/iU8h1yk8Zr"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "Explore US-Spanish relations in the post-Franco era—http://t.co/iU8h1yk8Zr #FRUS #twitterstorians",
+    "geo": null,
+    "id": 464779725916102660,
+    "id_str": "464779725916102656",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

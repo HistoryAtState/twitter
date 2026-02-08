@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Apr 27 14:16:42 +0000 2020",
-    "id": 1254776489209237500,
-    "id_str": "1254776489209237506",
-    "full_text": "RT @FSIatState: (1/3) The control of malaria by the U.S. &amp;amp; Panamanian governments was vital for the construction of the Panama Canal. In 19…",
-    "truncated": false,
     "display_text_range": [
         0,
         144
@@ -11,40 +9,40 @@
     "entities": {
         "hashtags": [],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "FSIatState",
-                "name": "Foreign Service Institute",
                 "id": 958044239576948740,
                 "id_str": "958044239576948736",
                 "indices": [
                     3,
                     14
-                ]
+                ],
+                "name": "Foreign Service Institute",
+                "screen_name": "FSIatState"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": true,
+    "full_text": "RT @FSIatState: (1/3) The control of malaria by the U.S. &amp;amp; Panamanian governments was vital for the construction of the Panama Canal. In 19…",
+    "geo": null,
+    "id": 1254776489209237500,
+    "id_str": "1254776489209237506",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "retweet_count": 2,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Sat Apr 25 14:46:28 +0000 2020",
-        "id": 1254059207281840130,
-        "id_str": "1254059207281840129",
-        "full_text": "(1/3) The control of malaria by the U.S. &amp;amp; Panamanian governments was vital for the construction of the Panama Canal. In 1904, Chief Medical Officer Gorgas established a sanitation plan for the Canal Zone to control mosquitos. #WorldMalariaDay #FSIatHome\n\n📷: @librarycongress https://t.co/HM5xIecZkt",
-        "truncated": false,
         "display_text_range": [
             0,
             279
@@ -52,36 +50,24 @@
         "entities": {
             "hashtags": [
                 {
-                    "text": "WorldMalariaDay",
                     "indices": [
                         231,
                         247
-                    ]
+                    ],
+                    "text": "WorldMalariaDay"
                 },
                 {
-                    "text": "FSIatHome",
                     "indices": [
                         248,
                         258
-                    ]
+                    ],
+                    "text": "FSIatHome"
                 }
             ],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "librarycongress",
-                    "name": "Library of Congress",
-                    "id": 7152572,
-                    "id_str": "7152572",
-                    "indices": [
-                        263,
-                        279
-                    ]
-                }
-            ],
-            "urls": [],
             "media": [
                 {
+                    "display_url": "pic.twitter.com/HM5xIecZkt",
+                    "expanded_url": "https://twitter.com/FSIatState/status/1254059207281840129/photo/1",
                     "id": 1254058133963583490,
                     "id_str": "1254058133963583490",
                     "indices": [
@@ -90,38 +76,53 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/EWdPOoKWsAIDaBW.jpg",
                     "media_url_https": "https://pbs.twimg.com/media/EWdPOoKWsAIDaBW.jpg",
-                    "url": "https://t.co/HM5xIecZkt",
-                    "display_url": "pic.twitter.com/HM5xIecZkt",
-                    "expanded_url": "https://twitter.com/FSIatState/status/1254059207281840129/photo/1",
-                    "type": "photo",
                     "sizes": {
-                        "small": {
-                            "w": 680,
-                            "h": 506,
-                            "resize": "fit"
-                        },
                         "large": {
-                            "w": 800,
                             "h": 595,
-                            "resize": "fit"
-                        },
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
+                            "resize": "fit",
+                            "w": 800
                         },
                         "medium": {
-                            "w": 800,
                             "h": 595,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 800
+                        },
+                        "small": {
+                            "h": 506,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
                         }
-                    }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/HM5xIecZkt"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 7152572,
+                    "id_str": "7152572",
+                    "indices": [
+                        263,
+                        279
+                    ],
+                    "name": "Library of Congress",
+                    "screen_name": "librarycongress"
                 }
             ]
         },
         "extended_entities": {
             "media": [
                 {
+                    "display_url": "pic.twitter.com/HM5xIecZkt",
+                    "expanded_url": "https://twitter.com/FSIatState/status/1254059207281840129/photo/1",
+                    "ext_alt_text": null,
                     "id": 1254058133963583490,
                     "id_str": "1254058133963583490",
                     "indices": [
@@ -130,62 +131,61 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/EWdPOoKWsAIDaBW.jpg",
                     "media_url_https": "https://pbs.twimg.com/media/EWdPOoKWsAIDaBW.jpg",
-                    "url": "https://t.co/HM5xIecZkt",
-                    "display_url": "pic.twitter.com/HM5xIecZkt",
-                    "expanded_url": "https://twitter.com/FSIatState/status/1254059207281840129/photo/1",
-                    "type": "photo",
                     "sizes": {
-                        "small": {
-                            "w": 680,
-                            "h": 506,
-                            "resize": "fit"
-                        },
                         "large": {
-                            "w": 800,
                             "h": 595,
-                            "resize": "fit"
-                        },
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
+                            "resize": "fit",
+                            "w": 800
                         },
                         "medium": {
-                            "w": 800,
                             "h": 595,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 800
+                        },
+                        "small": {
+                            "h": 506,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
                         }
                     },
-                    "ext_alt_text": null
+                    "type": "photo",
+                    "url": "https://t.co/HM5xIecZkt"
                 }
             ]
         },
-        "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+        "favorite_count": 8,
+        "favorited": true,
+        "full_text": "(1/3) The control of malaria by the U.S. &amp;amp; Panamanian governments was vital for the construction of the Panama Canal. In 1904, Chief Medical Officer Gorgas established a sanitation plan for the Canal Zone to control mosquitos. #WorldMalariaDay #FSIatHome\n\n📷: @librarycongress https://t.co/HM5xIecZkt",
+        "geo": null,
+        "id": 1254059207281840130,
+        "id_str": "1254059207281840129",
+        "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 2,
+        "retweeted": true,
+        "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+        "truncated": false,
         "user": {
             "id": 958044239576948740,
             "id_str": "958044239576948736"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 2,
-        "favorite_count": 8,
-        "favorited": true,
-        "retweeted": true,
-        "possibly_sensitive": false,
-        "lang": "en"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 0,
-    "favorited": true,
-    "retweeted": true,
-    "lang": "en"
+    "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

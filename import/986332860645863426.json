@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Apr 17 19:57:33 +0000 2018",
-    "id": 986332860645863420,
-    "id_str": "986332860645863426",
-    "full_text": "Writing back from Beijing in May 1975, George Bush reports he and #BarbaraBush \"are happy out here. We feel we are most fortunate to be [...] in this fascinating land\" https://t.co/80ODaN18Ew 📷 @Bush41Library https://t.co/AUJjReYFZX",
-    "truncated": false,
     "display_text_range": [
         0,
         208
@@ -11,39 +9,17 @@
     "entities": {
         "hashtags": [
             {
-                "text": "BarbaraBush",
                 "indices": [
                     66,
                     78
-                ]
-            }
-        ],
-        "symbols": [],
-        "user_mentions": [
-            {
-                "screen_name": "Bush41Library",
-                "name": "Bush Library",
-                "id": 133456403,
-                "id_str": "133456403",
-                "indices": [
-                    194,
-                    208
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "https://t.co/80ODaN18Ew",
-                "expanded_url": "https://history.state.gov/historicaldocuments/frus1969-76v18/d111",
-                "display_url": "history.state.gov/historicaldocu…",
-                "indices": [
-                    168,
-                    191
-                ]
+                ],
+                "text": "BarbaraBush"
             }
         ],
         "media": [
             {
+                "display_url": "pic.twitter.com/AUJjReYFZX",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/986332860645863426/photo/1",
                 "id": 986332733571043330,
                 "id_str": "986332733571043329",
                 "indices": [
@@ -52,38 +28,63 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/DbAoZTbXkAEwGXK.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DbAoZTbXkAEwGXK.jpg",
-                "url": "https://t.co/AUJjReYFZX",
-                "display_url": "pic.twitter.com/AUJjReYFZX",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/986332860645863426/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
+                    "large": {
+                        "h": 484,
+                        "resize": "fit",
+                        "w": 700
                     },
                     "medium": {
-                        "w": 700,
                         "h": 484,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 700
                     },
                     "small": {
-                        "w": 680,
                         "h": 470,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 680
                     },
-                    "large": {
-                        "w": 700,
-                        "h": 484,
-                        "resize": "fit"
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/AUJjReYFZX"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "history.state.gov/historicaldocu…",
+                "expanded_url": "https://history.state.gov/historicaldocuments/frus1969-76v18/d111",
+                "indices": [
+                    168,
+                    191
+                ],
+                "url": "https://t.co/80ODaN18Ew"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 133456403,
+                "id_str": "133456403",
+                "indices": [
+                    194,
+                    208
+                ],
+                "name": "Bush Library",
+                "screen_name": "Bush41Library"
             }
         ]
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/AUJjReYFZX",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/986332860645863426/photo/1",
+                "ext_alt_text": null,
                 "id": 986332733571043330,
                 "id_str": "986332733571043329",
                 "indices": [
@@ -92,35 +93,35 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/DbAoZTbXkAEwGXK.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DbAoZTbXkAEwGXK.jpg",
-                "url": "https://t.co/AUJjReYFZX",
-                "display_url": "pic.twitter.com/AUJjReYFZX",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/986332860645863426/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
+                    "large": {
+                        "h": 484,
+                        "resize": "fit",
+                        "w": 700
                     },
                     "medium": {
-                        "w": 700,
                         "h": 484,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 700
                     },
                     "small": {
-                        "w": 680,
                         "h": 470,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 680
                     },
-                    "large": {
-                        "w": 700,
-                        "h": 484,
-                        "resize": "fit"
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": null
+                "type": "photo",
+                "url": "https://t.co/AUJjReYFZX"
             },
             {
+                "display_url": "pic.twitter.com/AUJjReYFZX",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/986332860645863426/photo/1",
+                "ext_alt_text": null,
                 "id": 986332759147851780,
                 "id_str": "986332759147851776",
                 "indices": [
@@ -129,55 +130,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/DbAoaytWsAAnbnR.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DbAoaytWsAAnbnR.jpg",
-                "url": "https://t.co/AUJjReYFZX",
-                "display_url": "pic.twitter.com/AUJjReYFZX",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/986332860645863426/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
+                    "large": {
+                        "h": 556,
+                        "resize": "fit",
+                        "w": 700
                     },
                     "medium": {
-                        "w": 700,
                         "h": 556,
-                        "resize": "fit"
-                    },
-                    "large": {
-                        "w": 700,
-                        "h": 556,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 700
                     },
                     "small": {
-                        "w": 680,
                         "h": 540,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": null
+                "type": "photo",
+                "url": "https://t.co/AUJjReYFZX"
             }
         ]
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 3,
+    "favorited": false,
+    "full_text": "Writing back from Beijing in May 1975, George Bush reports he and #BarbaraBush \"are happy out here. We feel we are most fortunate to be [...] in this fascinating land\" https://t.co/80ODaN18Ew 📷 @Bush41Library https://t.co/AUJjReYFZX",
+    "geo": null,
+    "id": 986332860645863420,
+    "id_str": "986332860645863426",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2,
+    "retweeted": true,
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 3,
-    "favorited": false,
-    "retweeted": true,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

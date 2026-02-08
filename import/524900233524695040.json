@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Wed Oct 22 12:29:02 +0000 2014",
-    "id": 524900233524695040,
-    "id_str": "524900233524695040",
-    "full_text": "Good morning @NorthwesternU! Excited to discuss Visualizing the History of #FRUS: The State of TEI at Foggy Bottom: http://t.co/41fOUD85Z9",
-    "truncated": false,
     "display_text_range": [
         0,
         138
@@ -11,57 +9,59 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     75,
                     80
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "symbols": [],
+        "urls": [
+            {
+                "display_url": "tei.northwestern.edu/papers/",
+                "expanded_url": "http://tei.northwestern.edu/papers/",
+                "indices": [
+                    116,
+                    138
+                ],
+                "url": "http://t.co/41fOUD85Z9"
+            }
+        ],
         "user_mentions": [
             {
-                "screen_name": "NorthwesternU",
-                "name": "Northwestern",
                 "id": 33639255,
                 "id_str": "33639255",
                 "indices": [
                     13,
                     27
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "http://t.co/41fOUD85Z9",
-                "expanded_url": "http://tei.northwestern.edu/papers/",
-                "display_url": "tei.northwestern.edu/papers/",
-                "indices": [
-                    116,
-                    138
-                ]
+                ],
+                "name": "Northwestern",
+                "screen_name": "NorthwesternU"
             }
         ]
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "Good morning @NorthwesternU! Excited to discuss Visualizing the History of #FRUS: The State of TEI at Foggy Bottom: http://t.co/41fOUD85Z9",
+    "geo": null,
+    "id": 524900233524695040,
+    "id_str": "524900233524695040",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

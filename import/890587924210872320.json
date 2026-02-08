@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Jul 27 15:01:22 +0000 2017",
-    "id": 890587924210872320,
-    "id_str": "890587924210872320",
-    "full_text": "Interested in the #history of #diplomacy? On @StateDept‘s #birthday, study up on the #FRUS origin. https://t.co/CMClNGaBoR",
-    "truncated": false,
     "display_text_range": [
         0,
         122
@@ -11,78 +9,80 @@
     "entities": {
         "hashtags": [
             {
-                "text": "history",
                 "indices": [
                     18,
                     26
-                ]
+                ],
+                "text": "history"
             },
             {
-                "text": "diplomacy",
                 "indices": [
                     30,
                     40
-                ]
+                ],
+                "text": "diplomacy"
             },
             {
-                "text": "birthday",
                 "indices": [
                     58,
                     67
-                ]
+                ],
+                "text": "birthday"
             },
             {
-                "text": "FRUS",
                 "indices": [
                     85,
                     90
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "symbols": [],
+        "urls": [
+            {
+                "display_url": "history.state.gov/historicaldocu…",
+                "expanded_url": "https://history.state.gov/historicaldocuments/frus-history",
+                "indices": [
+                    99,
+                    122
+                ],
+                "url": "https://t.co/CMClNGaBoR"
+            }
+        ],
         "user_mentions": [
             {
-                "screen_name": "StateDept",
-                "name": "Department of State",
                 "id": 9624742,
                 "id_str": "9624742",
                 "indices": [
                     45,
                     55
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "https://t.co/CMClNGaBoR",
-                "expanded_url": "https://history.state.gov/historicaldocuments/frus-history",
-                "display_url": "history.state.gov/historicaldocu…",
-                "indices": [
-                    99,
-                    122
-                ]
+                ],
+                "name": "Department of State",
+                "screen_name": "StateDept"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 2,
+    "favorited": false,
+    "full_text": "Interested in the #history of #diplomacy? On @StateDept‘s #birthday, study up on the #FRUS origin. https://t.co/CMClNGaBoR",
+    "geo": null,
+    "id": 890587924210872320,
+    "id_str": "890587924210872320",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 5,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 5,
-    "favorite_count": 2,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

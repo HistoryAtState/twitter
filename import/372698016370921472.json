@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Wed Aug 28 12:31:46 +0000 2013",
-    "id": 372698016370921470,
-    "id_str": "372698016370921472",
-    "full_text": "Did you know: the 1st #SecState to visit Liberia was #SecState Stettinius in Feb 1945? http://t.co/MMyFi0e3xx",
-    "truncated": false,
     "display_text_range": [
         0,
         109
@@ -11,53 +9,55 @@
     "entities": {
         "hashtags": [
             {
-                "text": "SecState",
                 "indices": [
                     22,
                     31
-                ]
+                ],
+                "text": "SecState"
             },
             {
-                "text": "SecState",
                 "indices": [
                     53,
                     62
-                ]
+                ],
+                "text": "SecState"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/MMyFi0e3xx",
-                "expanded_url": "http://go.usa.gov/DqZA",
                 "display_url": "go.usa.gov/DqZA",
+                "expanded_url": "http://go.usa.gov/DqZA",
                 "indices": [
                     87,
                     109
-                ]
+                ],
+                "url": "http://t.co/MMyFi0e3xx"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "Did you know: the 1st #SecState to visit Liberia was #SecState Stettinius in Feb 1945? http://t.co/MMyFi0e3xx",
+    "geo": null,
+    "id": 372698016370921470,
+    "id_str": "372698016370921472",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

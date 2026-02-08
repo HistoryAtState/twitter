@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Dec 05 14:30:30 +0000 2022",
-    "id": 1599773212824555520,
-    "id_str": "1599773212824555521",
-    "full_text": "Glennon supervised #FRUS volumes for the Truman, Eisenhower, and Kennedy administrations, which broke new ground by incorporating more presidential records to illuminate White House decision-making:\n•https://t.co/Q9v8j15jQd\n•https://t.co/BwdKSfiGTl\n•https://t.co/AbWfQaLt58",
-    "truncated": false,
     "display_text_range": [
         0,
         273
@@ -11,64 +9,66 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     19,
                     24
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "https://t.co/Q9v8j15jQd",
-                "expanded_url": "http://ow.ly/WoUN50LUabm",
                 "display_url": "ow.ly/WoUN50LUabm",
+                "expanded_url": "http://ow.ly/WoUN50LUabm",
                 "indices": [
                     200,
                     223
-                ]
+                ],
+                "url": "https://t.co/Q9v8j15jQd"
             },
             {
-                "url": "https://t.co/BwdKSfiGTl",
-                "expanded_url": "http://ow.ly/vysP50LU9Y7",
                 "display_url": "ow.ly/vysP50LU9Y7",
+                "expanded_url": "http://ow.ly/vysP50LU9Y7",
                 "indices": [
                     225,
                     248
-                ]
+                ],
+                "url": "https://t.co/BwdKSfiGTl"
             },
             {
-                "url": "https://t.co/AbWfQaLt58",
-                "expanded_url": "http://ow.ly/9H8O50LU9Y8",
                 "display_url": "ow.ly/9H8O50LU9Y8",
+                "expanded_url": "http://ow.ly/9H8O50LU9Y8",
                 "indices": [
                     250,
                     273
-                ]
+                ],
+                "url": "https://t.co/AbWfQaLt58"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "favorite_count": 6,
+    "favorited": false,
+    "full_text": "Glennon supervised #FRUS volumes for the Truman, Eisenhower, and Kennedy administrations, which broke new ground by incorporating more presidential records to illuminate White House decision-making:\n•https://t.co/Q9v8j15jQd\n•https://t.co/BwdKSfiGTl\n•https://t.co/AbWfQaLt58",
+    "geo": null,
+    "id": 1599773212824555520,
+    "id_str": "1599773212824555521",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 6,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

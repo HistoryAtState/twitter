@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Dec 08 20:01:13 +0000 2014",
-    "id": 542046260396834820,
-    "id_str": "542046260396834817",
-    "full_text": "“So USIA disappears.” See how the Stanton Panel proposed to re-shape U.S. public diplomacy in 1975: http://t.co/yevnLkI7Dv #FRUS",
-    "truncated": false,
     "display_text_range": [
         0,
         128
@@ -11,46 +9,48 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     123,
                     128
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/yevnLkI7Dv",
-                "expanded_url": "http://go.usa.gov/HTx3",
                 "display_url": "go.usa.gov/HTx3",
+                "expanded_url": "http://go.usa.gov/HTx3",
                 "indices": [
                     100,
                     122
-                ]
+                ],
+                "url": "http://t.co/yevnLkI7Dv"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "“So USIA disappears.” See how the Stanton Panel proposed to re-shape U.S. public diplomacy in 1975: http://t.co/yevnLkI7Dv #FRUS",
+    "geo": null,
+    "id": 542046260396834820,
+    "id_str": "542046260396834817",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

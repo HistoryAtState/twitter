@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Aug 29 12:05:46 +0000 2013",
-    "id": 373053862032474110,
-    "id_str": "373053862032474112",
-    "full_text": "In 1928 #SecState Kellog went to Paris/@USEmbassyFrance to sign Treaty on Renunciation of War (Kellogg-Briand Pact) http://t.co/NtlTPedgDn",
-    "truncated": false,
     "display_text_range": [
         0,
         138
@@ -11,57 +9,59 @@
     "entities": {
         "hashtags": [
             {
-                "text": "SecState",
                 "indices": [
                     8,
                     17
-                ]
+                ],
+                "text": "SecState"
             }
         ],
         "symbols": [],
+        "urls": [
+            {
+                "display_url": "go.usa.gov/jNpG",
+                "expanded_url": "http://go.usa.gov/jNpG",
+                "indices": [
+                    116,
+                    138
+                ],
+                "url": "http://t.co/NtlTPedgDn"
+            }
+        ],
         "user_mentions": [
             {
-                "screen_name": "USEmbassyFrance",
-                "name": "U.S. Embassy France",
                 "id": 72814599,
                 "id_str": "72814599",
                 "indices": [
                     39,
                     55
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "http://t.co/NtlTPedgDn",
-                "expanded_url": "http://go.usa.gov/jNpG",
-                "display_url": "go.usa.gov/jNpG",
-                "indices": [
-                    116,
-                    138
-                ]
+                ],
+                "name": "U.S. Embassy France",
+                "screen_name": "USEmbassyFrance"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "In 1928 #SecState Kellog went to Paris/@USEmbassyFrance to sign Treaty on Renunciation of War (Kellogg-Briand Pact) http://t.co/NtlTPedgDn",
+    "geo": null,
+    "id": 373053862032474110,
+    "id_str": "373053862032474112",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

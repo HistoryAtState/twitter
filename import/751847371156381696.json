@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Sat Jul 09 18:35:56 +0000 2016",
-    "id": 751847371156381700,
-    "id_str": "751847371156381696",
-    "full_text": "RT @vsfsAtState: #applyVSFS and learn more about U.S. relations with Sub-Saharan Africa! @HistoryAtState https://t.co/P6o3PutEHr https://t.…",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,68 +9,69 @@
     "entities": {
         "hashtags": [
             {
-                "text": "applyVSFS",
                 "indices": [
                     17,
                     27
-                ]
+                ],
+                "text": "applyVSFS"
             }
         ],
         "symbols": [],
+        "urls": [
+            {
+                "display_url": "ow.ly/zamk3024gqr",
+                "expanded_url": "http://ow.ly/zamk3024gqr",
+                "indices": [
+                    105,
+                    128
+                ],
+                "url": "https://t.co/P6o3PutEHr"
+            }
+        ],
         "user_mentions": [
             {
-                "screen_name": "VSFSatState",
-                "name": "Virtual Student Federal Service",
                 "id": 169927909,
                 "id_str": "169927909",
                 "indices": [
                     3,
                     15
-                ]
+                ],
+                "name": "Virtual Student Federal Service",
+                "screen_name": "VSFSatState"
             },
             {
-                "screen_name": "HistoryAtState",
-                "name": "HistoryAtState",
                 "id": 586570880,
                 "id_str": "586570880",
                 "indices": [
                     89,
                     104
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "https://t.co/P6o3PutEHr",
-                "expanded_url": "http://ow.ly/zamk3024gqr",
-                "display_url": "ow.ly/zamk3024gqr",
-                "indices": [
-                    105,
-                    128
-                ]
+                ],
+                "name": "HistoryAtState",
+                "screen_name": "HistoryAtState"
             }
         ]
     },
-    "source": "&lt;a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"&gt;Twitter for iPad&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "RT @vsfsAtState: #applyVSFS and learn more about U.S. relations with Sub-Saharan Africa! @HistoryAtState https://t.co/P6o3PutEHr https://t.…",
+    "geo": null,
+    "id": 751847371156381700,
+    "id_str": "751847371156381696",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Fri Jul 08 21:55:08 +0000 2016",
-        "id": 751535112957882370,
-        "id_str": "751535112957882368",
-        "full_text": "#applyVSFS and learn more about U.S. relations with Sub-Saharan Africa! @HistoryAtState https://t.co/P6o3PutEHr https://t.co/xzlsvZvBfX",
-        "truncated": false,
         "display_text_range": [
             0,
             111
@@ -80,39 +79,17 @@
         "entities": {
             "hashtags": [
                 {
-                    "text": "applyVSFS",
                     "indices": [
                         0,
                         10
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "HistoryAtState",
-                    "name": "HistoryAtState",
-                    "id": 586570880,
-                    "id_str": "586570880",
-                    "indices": [
-                        72,
-                        87
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "https://t.co/P6o3PutEHr",
-                    "expanded_url": "http://ow.ly/zamk3024gqr",
-                    "display_url": "ow.ly/zamk3024gqr",
-                    "indices": [
-                        88,
-                        111
-                    ]
+                    ],
+                    "text": "applyVSFS"
                 }
             ],
             "media": [
                 {
+                    "display_url": "pic.twitter.com/xzlsvZvBfX",
+                    "expanded_url": "https://twitter.com/vsfsAtState/status/751535112957882368/photo/1",
                     "id": 751535110953009150,
                     "id_str": "751535110953009152",
                     "indices": [
@@ -121,38 +98,63 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/Cm39M5yWgAA4Co7.jpg",
                     "media_url_https": "https://pbs.twimg.com/media/Cm39M5yWgAA4Co7.jpg",
-                    "url": "https://t.co/xzlsvZvBfX",
-                    "display_url": "pic.twitter.com/xzlsvZvBfX",
-                    "expanded_url": "https://twitter.com/vsfsAtState/status/751535112957882368/photo/1",
-                    "type": "photo",
                     "sizes": {
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
+                        "large": {
+                            "h": 505,
+                            "resize": "fit",
+                            "w": 405
                         },
                         "medium": {
-                            "w": 405,
                             "h": 505,
-                            "resize": "fit"
-                        },
-                        "large": {
-                            "w": 405,
-                            "h": 505,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 405
                         },
                         "small": {
-                            "w": 405,
                             "h": 505,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 405
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
                         }
-                    }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/xzlsvZvBfX"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "ow.ly/zamk3024gqr",
+                    "expanded_url": "http://ow.ly/zamk3024gqr",
+                    "indices": [
+                        88,
+                        111
+                    ],
+                    "url": "https://t.co/P6o3PutEHr"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 586570880,
+                    "id_str": "586570880",
+                    "indices": [
+                        72,
+                        87
+                    ],
+                    "name": "HistoryAtState",
+                    "screen_name": "HistoryAtState"
                 }
             ]
         },
         "extended_entities": {
             "media": [
                 {
+                    "display_url": "pic.twitter.com/xzlsvZvBfX",
+                    "expanded_url": "https://twitter.com/vsfsAtState/status/751535112957882368/photo/1",
+                    "ext_alt_text": null,
                     "id": 751535110953009150,
                     "id_str": "751535110953009152",
                     "indices": [
@@ -161,63 +163,61 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/Cm39M5yWgAA4Co7.jpg",
                     "media_url_https": "https://pbs.twimg.com/media/Cm39M5yWgAA4Co7.jpg",
-                    "url": "https://t.co/xzlsvZvBfX",
-                    "display_url": "pic.twitter.com/xzlsvZvBfX",
-                    "expanded_url": "https://twitter.com/vsfsAtState/status/751535112957882368/photo/1",
-                    "type": "photo",
                     "sizes": {
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
+                        "large": {
+                            "h": 505,
+                            "resize": "fit",
+                            "w": 405
                         },
                         "medium": {
-                            "w": 405,
                             "h": 505,
-                            "resize": "fit"
-                        },
-                        "large": {
-                            "w": 405,
-                            "h": 505,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 405
                         },
                         "small": {
-                            "w": 405,
                             "h": 505,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 405
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
                         }
                     },
-                    "ext_alt_text": null
+                    "type": "photo",
+                    "url": "https://t.co/xzlsvZvBfX"
                 }
             ]
         },
-        "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+        "favorite_count": 1,
+        "favorited": false,
+        "full_text": "#applyVSFS and learn more about U.S. relations with Sub-Saharan Africa! @HistoryAtState https://t.co/P6o3PutEHr https://t.co/xzlsvZvBfX",
+        "geo": null,
+        "id": 751535112957882370,
+        "id_str": "751535112957882368",
+        "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 2,
+        "retweeted": true,
+        "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+        "truncated": false,
         "user": {
             "id": 169927909,
             "id_str": "169927909"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 2,
-        "favorite_count": 1,
-        "favorited": false,
-        "retweeted": true,
-        "possibly_sensitive": false,
-        "lang": "en"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": true,
-    "possibly_sensitive": false,
-    "lang": "en"
+    "source": "&lt;a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"&gt;Twitter for iPad&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

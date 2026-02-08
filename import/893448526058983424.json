@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Fri Aug 04 12:28:22 +0000 2017",
-    "id": 893448526058983420,
-    "id_str": "893448526058983424",
-    "full_text": "RT @StateDeptDSS: A DSS agent helps evacuate Americans from Beirut to Cyprus, July 2006—one of the largest overseas evacuations in recent h…",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,40 +9,40 @@
     "entities": {
         "hashtags": [],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "StateDeptDSS",
-                "name": "statedeptdss",
                 "id": 834799740546056190,
                 "id_str": "834799740546056194",
                 "indices": [
                     3,
                     16
-                ]
+                ],
+                "name": "statedeptdss",
+                "screen_name": "StateDeptDSS"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "RT @StateDeptDSS: A DSS agent helps evacuate Americans from Beirut to Cyprus, July 2006—one of the largest overseas evacuations in recent h…",
+    "geo": null,
+    "id": 893448526058983420,
+    "id_str": "893448526058983424",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "retweet_count": 8,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Thu Aug 03 13:00:52 +0000 2017",
-        "id": 893094315139923970,
-        "id_str": "893094315139923969",
-        "full_text": "A DSS agent helps evacuate Americans from Beirut to Cyprus, July 2006—one of the largest overseas evacuations in recent history. #TBT https://t.co/YmcnLpiMC2",
-        "truncated": false,
         "display_text_range": [
             0,
             133
@@ -52,18 +50,17 @@
         "entities": {
             "hashtags": [
                 {
-                    "text": "TBT",
                     "indices": [
                         129,
                         133
-                    ]
+                    ],
+                    "text": "TBT"
                 }
             ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [],
             "media": [
                 {
+                    "display_url": "pic.twitter.com/YmcnLpiMC2",
+                    "expanded_url": "https://twitter.com/StateDeptDSS/status/893094315139923969/photo/1",
                     "id": 893094312497397760,
                     "id_str": "893094312497397761",
                     "indices": [
@@ -72,38 +69,42 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/DGToi59UQAE-9f7.jpg",
                     "media_url_https": "https://pbs.twimg.com/media/DGToi59UQAE-9f7.jpg",
-                    "url": "https://t.co/YmcnLpiMC2",
-                    "display_url": "pic.twitter.com/YmcnLpiMC2",
-                    "expanded_url": "https://twitter.com/StateDeptDSS/status/893094315139923969/photo/1",
-                    "type": "photo",
                     "sizes": {
                         "large": {
-                            "w": 1199,
                             "h": 839,
-                            "resize": "fit"
-                        },
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
+                            "resize": "fit",
+                            "w": 1199
                         },
                         "medium": {
-                            "w": 1199,
                             "h": 839,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 1199
                         },
                         "small": {
-                            "w": 680,
                             "h": 476,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
                         }
-                    }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/YmcnLpiMC2"
                 }
-            ]
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
         },
         "extended_entities": {
             "media": [
                 {
+                    "display_url": "pic.twitter.com/YmcnLpiMC2",
+                    "expanded_url": "https://twitter.com/StateDeptDSS/status/893094315139923969/photo/1",
+                    "ext_alt_text": null,
                     "id": 893094312497397760,
                     "id_str": "893094312497397761",
                     "indices": [
@@ -112,62 +113,61 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/DGToi59UQAE-9f7.jpg",
                     "media_url_https": "https://pbs.twimg.com/media/DGToi59UQAE-9f7.jpg",
-                    "url": "https://t.co/YmcnLpiMC2",
-                    "display_url": "pic.twitter.com/YmcnLpiMC2",
-                    "expanded_url": "https://twitter.com/StateDeptDSS/status/893094315139923969/photo/1",
-                    "type": "photo",
                     "sizes": {
                         "large": {
-                            "w": 1199,
                             "h": 839,
-                            "resize": "fit"
-                        },
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
+                            "resize": "fit",
+                            "w": 1199
                         },
                         "medium": {
-                            "w": 1199,
                             "h": 839,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 1199
                         },
                         "small": {
-                            "w": 680,
                             "h": 476,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
                         }
                     },
-                    "ext_alt_text": null
+                    "type": "photo",
+                    "url": "https://t.co/YmcnLpiMC2"
                 }
             ]
         },
-        "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+        "favorite_count": 11,
+        "favorited": false,
+        "full_text": "A DSS agent helps evacuate Americans from Beirut to Cyprus, July 2006—one of the largest overseas evacuations in recent history. #TBT https://t.co/YmcnLpiMC2",
+        "geo": null,
+        "id": 893094315139923970,
+        "id_str": "893094315139923969",
+        "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 8,
+        "retweeted": true,
+        "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+        "truncated": false,
         "user": {
             "id": 834799740546056190,
             "id_str": "834799740546056194"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 8,
-        "favorite_count": 11,
-        "favorited": false,
-        "retweeted": true,
-        "possibly_sensitive": false,
-        "lang": "en"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 8,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": true,
-    "lang": "en"
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Apr 11 14:57:52 +0000 2016",
-    "id": 719539973767041020,
-    "id_str": "719539973767041029",
-    "full_text": "The 1st home of the State Dept in Washington, DC was the Treasury Dept Building: https://t.co/kaWtph3pEr #DCArchWeek https://t.co/UCXag9Dez7",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,28 +9,17 @@
     "entities": {
         "hashtags": [
             {
-                "text": "DCArchWeek",
                 "indices": [
                     105,
                     116
-                ]
-            }
-        ],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
-            {
-                "url": "https://t.co/kaWtph3pEr",
-                "expanded_url": "https://history.state.gov/departmenthistory/buildings/section20",
-                "display_url": "history.state.gov/departmenthist…",
-                "indices": [
-                    81,
-                    104
-                ]
+                ],
+                "text": "DCArchWeek"
             }
         ],
         "media": [
             {
+                "display_url": "pic.twitter.com/UCXag9Dez7",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/719539973767041029/photo/1",
                 "id": 719539973033209860,
                 "id_str": "719539973033209856",
                 "indices": [
@@ -41,38 +28,52 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/CfxRyw5WsAAEeJY.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/CfxRyw5WsAAEeJY.jpg",
-                "url": "https://t.co/UCXag9Dez7",
-                "display_url": "pic.twitter.com/UCXag9Dez7",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/719539973767041029/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
-                    "small": {
-                        "w": 680,
-                        "h": 515,
-                        "resize": "fit"
-                    },
                     "large": {
-                        "w": 792,
                         "h": 600,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 792
                     },
                     "medium": {
-                        "w": 792,
                         "h": 600,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 792
+                    },
+                    "small": {
+                        "h": 515,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/UCXag9Dez7"
             }
-        ]
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "history.state.gov/departmenthist…",
+                "expanded_url": "https://history.state.gov/departmenthistory/buildings/section20",
+                "indices": [
+                    81,
+                    104
+                ],
+                "url": "https://t.co/kaWtph3pEr"
+            }
+        ],
+        "user_mentions": []
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/UCXag9Dez7",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/719539973767041029/photo/1",
+                "ext_alt_text": null,
                 "id": 719539973033209860,
                 "id_str": "719539973033209856",
                 "indices": [
@@ -81,55 +82,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/CfxRyw5WsAAEeJY.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/CfxRyw5WsAAEeJY.jpg",
-                "url": "https://t.co/UCXag9Dez7",
-                "display_url": "pic.twitter.com/UCXag9Dez7",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/719539973767041029/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
-                    "small": {
-                        "w": 680,
-                        "h": 515,
-                        "resize": "fit"
-                    },
                     "large": {
-                        "w": 792,
                         "h": 600,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 792
                     },
                     "medium": {
-                        "w": 792,
                         "h": 600,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 792
+                    },
+                    "small": {
+                        "h": 515,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": null
+                "type": "photo",
+                "url": "https://t.co/UCXag9Dez7"
             }
         ]
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 4,
+    "favorited": false,
+    "full_text": "The 1st home of the State Dept in Washington, DC was the Treasury Dept Building: https://t.co/kaWtph3pEr #DCArchWeek https://t.co/UCXag9Dez7",
+    "geo": null,
+    "id": 719539973767041020,
+    "id_str": "719539973767041029",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 4,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

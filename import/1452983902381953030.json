@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Oct 26 13:02:12 +0000 2021",
-    "id": 1452983902381953020,
-    "id_str": "1452983902381953030",
-    "full_text": "#FRUS documents the 1978 discovery of Soviet listening and interception devices in a tunnel connecting a chimney shaft of the U.S. Embassy Moscow to an adjacent Soviet property. 🕵️‍♀️\n\nWhich of these telegrams is your #FavoriteFRUS?\nhttps://t.co/eE9ApZq9k8 https://t.co/XUzZmh8jGY",
-    "truncated": false,
     "display_text_range": [
         0,
         256
@@ -11,35 +9,24 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     0,
                     5
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "FavoriteFRUS",
                 "indices": [
                     218,
                     231
-                ]
-            }
-        ],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
-            {
-                "url": "https://t.co/eE9ApZq9k8",
-                "expanded_url": "http://ow.ly/mxO450GtRX0",
-                "display_url": "ow.ly/mxO450GtRX0",
-                "indices": [
-                    233,
-                    256
-                ]
+                ],
+                "text": "FavoriteFRUS"
             }
         ],
         "media": [
             {
+                "display_url": "pic.twitter.com/XUzZmh8jGY",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1452983902381953030/photo/1",
                 "id": 1452983900163215360,
                 "id_str": "1452983900163215361",
                 "indices": [
@@ -48,38 +35,52 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/FCoJKLGXEAEmevx.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/FCoJKLGXEAEmevx.jpg",
-                "url": "https://t.co/XUzZmh8jGY",
-                "display_url": "pic.twitter.com/XUzZmh8jGY",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1452983902381953030/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
+                    "large": {
+                        "h": 1422,
+                        "resize": "fit",
+                        "w": 1318
                     },
                     "medium": {
-                        "w": 1112,
                         "h": 1200,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1112
                     },
                     "small": {
-                        "w": 630,
                         "h": 680,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 630
                     },
-                    "large": {
-                        "w": 1318,
-                        "h": 1422,
-                        "resize": "fit"
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/XUzZmh8jGY"
             }
-        ]
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "ow.ly/mxO450GtRX0",
+                "expanded_url": "http://ow.ly/mxO450GtRX0",
+                "indices": [
+                    233,
+                    256
+                ],
+                "url": "https://t.co/eE9ApZq9k8"
+            }
+        ],
+        "user_mentions": []
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/XUzZmh8jGY",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1452983902381953030/photo/1",
+                "ext_alt_text": "Screenshot of “106. Telegram From the Embassy in the Soviet Union to the Department of State,” dated May 25, 1978: “Subject: Probable Penetration… 1. Antenna appears to be a modified 3 element Yagi (similar to Soviet TV antennae) directed in a north easterly direction. Polarization is vertical. 2. Antenna is located approximately at the top of the seventh floor inside the chimney.”",
                 "id": 1452983900163215360,
                 "id_str": "1452983900163215361",
                 "indices": [
@@ -88,35 +89,35 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/FCoJKLGXEAEmevx.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/FCoJKLGXEAEmevx.jpg",
-                "url": "https://t.co/XUzZmh8jGY",
-                "display_url": "pic.twitter.com/XUzZmh8jGY",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1452983902381953030/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
+                    "large": {
+                        "h": 1422,
+                        "resize": "fit",
+                        "w": 1318
                     },
                     "medium": {
-                        "w": 1112,
                         "h": 1200,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1112
                     },
                     "small": {
-                        "w": 630,
                         "h": 680,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 630
                     },
-                    "large": {
-                        "w": 1318,
-                        "h": 1422,
-                        "resize": "fit"
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": "Screenshot of “106. Telegram From the Embassy in the Soviet Union to the Department of State,” dated May 25, 1978: “Subject: Probable Penetration… 1. Antenna appears to be a modified 3 element Yagi (similar to Soviet TV antennae) directed in a north easterly direction. Polarization is vertical. 2. Antenna is located approximately at the top of the seventh floor inside the chimney.”"
+                "type": "photo",
+                "url": "https://t.co/XUzZmh8jGY"
             },
             {
+                "display_url": "pic.twitter.com/XUzZmh8jGY",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1452983902381953030/photo/1",
+                "ext_alt_text": "IMAGE 2 Screenshot of “107. Telegram From the Embassy in the Soviet Union to the Department of State,” dated May 25, 1978: “We have entered the chimney and found a tunnel at the bottom. Tunnel heads 30 feet north and then turns west. Hatch entrance appears to enter Soviet changing room in Embassy.”",
                 "id": 1452983899974479870,
                 "id_str": "1452983899974479875",
                 "indices": [
@@ -125,35 +126,35 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/FCoJKKZXMAMAJDS.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/FCoJKKZXMAMAJDS.jpg",
-                "url": "https://t.co/XUzZmh8jGY",
-                "display_url": "pic.twitter.com/XUzZmh8jGY",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1452983902381953030/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
                     "large": {
-                        "w": 1300,
                         "h": 1030,
-                        "resize": "fit"
-                    },
-                    "small": {
-                        "w": 680,
-                        "h": 539,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1300
                     },
                     "medium": {
-                        "w": 1200,
                         "h": 951,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1200
+                    },
+                    "small": {
+                        "h": 539,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": "IMAGE 2 Screenshot of “107. Telegram From the Embassy in the Soviet Union to the Department of State,” dated May 25, 1978: “We have entered the chimney and found a tunnel at the bottom. Tunnel heads 30 feet north and then turns west. Hatch entrance appears to enter Soviet changing room in Embassy.”"
+                "type": "photo",
+                "url": "https://t.co/XUzZmh8jGY"
             },
             {
+                "display_url": "pic.twitter.com/XUzZmh8jGY",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1452983902381953030/photo/1",
+                "ext_alt_text": "Screenshot of “112. Telegram From the Embassy in the Soviet Union to the Department of State,” dated May 26, 1978, depicting table of “Significant events in chronological order which occurred Friday”",
                 "id": 1452983900117086210,
                 "id_str": "1452983900117086214",
                 "indices": [
@@ -162,55 +163,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/FCoJKK7XMAYJfQX.png",
                 "media_url_https": "https://pbs.twimg.com/media/FCoJKK7XMAYJfQX.png",
-                "url": "https://t.co/XUzZmh8jGY",
-                "display_url": "pic.twitter.com/XUzZmh8jGY",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1452983902381953030/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "small": {
-                        "w": 652,
-                        "h": 680,
-                        "resize": "fit"
-                    },
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
+                    "large": {
+                        "h": 1364,
+                        "resize": "fit",
+                        "w": 1308
                     },
                     "medium": {
-                        "w": 1151,
                         "h": 1200,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1151
                     },
-                    "large": {
-                        "w": 1308,
-                        "h": 1364,
-                        "resize": "fit"
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 652
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": "Screenshot of “112. Telegram From the Embassy in the Soviet Union to the Department of State,” dated May 26, 1978, depicting table of “Significant events in chronological order which occurred Friday”"
+                "type": "photo",
+                "url": "https://t.co/XUzZmh8jGY"
             }
         ]
     },
-    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "favorite_count": 7,
+    "favorited": false,
+    "full_text": "#FRUS documents the 1978 discovery of Soviet listening and interception devices in a tunnel connecting a chimney shaft of the U.S. Embassy Moscow to an adjacent Soviet property. 🕵️‍♀️\n\nWhich of these telegrams is your #FavoriteFRUS?\nhttps://t.co/eE9ApZq9k8 https://t.co/XUzZmh8jGY",
+    "geo": null,
+    "id": 1452983902381953020,
+    "id_str": "1452983902381953030",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 6,
+    "retweeted": false,
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 7,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

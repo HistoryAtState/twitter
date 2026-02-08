@@ -1,30 +1,17 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Jun 15 22:00:18 +0000 2017",
-    "id": 875473063156084740,
-    "id_str": "875473063156084736",
-    "full_text": "The Office of the Historian has released Foreign Relations, Iran, 1951–1954, https://t.co/usy3PKk6Yw https://t.co/uMXwuDML7l",
-    "truncated": false,
     "display_text_range": [
         0,
         100
     ],
     "entities": {
         "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
-            {
-                "url": "https://t.co/usy3PKk6Yw",
-                "expanded_url": "https://history.state.gov/historicaldocuments/frus1951-54Iran",
-                "display_url": "history.state.gov/historicaldocu…",
-                "indices": [
-                    77,
-                    100
-                ]
-            }
-        ],
         "media": [
             {
+                "display_url": "pic.twitter.com/uMXwuDML7l",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/875473063156084736/photo/1",
                 "id": 875473060744376320,
                 "id_str": "875473060744376320",
                 "indices": [
@@ -33,38 +20,52 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/DCZOHDwXsAAFxmf.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DCZOHDwXsAAFxmf.jpg",
-                "url": "https://t.co/uMXwuDML7l",
-                "display_url": "pic.twitter.com/uMXwuDML7l",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/875473063156084736/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
-                    "small": {
-                        "w": 400,
-                        "h": 600,
-                        "resize": "fit"
-                    },
                     "large": {
-                        "w": 400,
                         "h": 600,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 400
                     },
                     "medium": {
-                        "w": 400,
                         "h": 600,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 400
+                    },
+                    "small": {
+                        "h": 600,
+                        "resize": "fit",
+                        "w": 400
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/uMXwuDML7l"
             }
-        ]
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "history.state.gov/historicaldocu…",
+                "expanded_url": "https://history.state.gov/historicaldocuments/frus1951-54Iran",
+                "indices": [
+                    77,
+                    100
+                ],
+                "url": "https://t.co/usy3PKk6Yw"
+            }
+        ],
+        "user_mentions": []
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/uMXwuDML7l",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/875473063156084736/photo/1",
+                "ext_alt_text": null,
                 "id": 875473060744376320,
                 "id_str": "875473060744376320",
                 "indices": [
@@ -73,55 +74,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/DCZOHDwXsAAFxmf.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DCZOHDwXsAAFxmf.jpg",
-                "url": "https://t.co/uMXwuDML7l",
-                "display_url": "pic.twitter.com/uMXwuDML7l",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/875473063156084736/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
-                    "small": {
-                        "w": 400,
-                        "h": 600,
-                        "resize": "fit"
-                    },
                     "large": {
-                        "w": 400,
                         "h": 600,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 400
                     },
                     "medium": {
-                        "w": 400,
                         "h": 600,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 400
+                    },
+                    "small": {
+                        "h": 600,
+                        "resize": "fit",
+                        "w": 400
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": null
+                "type": "photo",
+                "url": "https://t.co/uMXwuDML7l"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 145,
+    "favorited": false,
+    "full_text": "The Office of the Historian has released Foreign Relations, Iran, 1951–1954, https://t.co/usy3PKk6Yw https://t.co/uMXwuDML7l",
+    "geo": null,
+    "id": 875473063156084740,
+    "id_str": "875473063156084736",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 117,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 117,
-    "favorite_count": 145,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

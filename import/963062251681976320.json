@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Feb 12 14:48:28 +0000 2018",
-    "id": 963062251681976320,
-    "id_str": "963062251681976320",
-    "full_text": "February is #BlackHistoryMonth! Check out some facts on Carl Thomas Rowan (1925-2000): Government official, author, and journalist https://t.co/czy9iyz0Ky #Twitterstorians https://t.co/nWBQlvQKmw",
-    "truncated": false,
     "display_text_range": [
         0,
         171
@@ -11,35 +9,24 @@
     "entities": {
         "hashtags": [
             {
-                "text": "BlackHistoryMonth",
                 "indices": [
                     12,
                     30
-                ]
+                ],
+                "text": "BlackHistoryMonth"
             },
             {
-                "text": "Twitterstorians",
                 "indices": [
                     155,
                     171
-                ]
-            }
-        ],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
-            {
-                "url": "https://t.co/czy9iyz0Ky",
-                "expanded_url": "https://history.state.gov/departmenthistory/people/rowan-carl-thomas",
-                "display_url": "history.state.gov/departmenthist…",
-                "indices": [
-                    131,
-                    154
-                ]
+                ],
+                "text": "Twitterstorians"
             }
         ],
         "media": [
             {
+                "display_url": "pic.twitter.com/nWBQlvQKmw",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/963062251681976320/photo/1",
                 "id": 963062092331999230,
                 "id_str": "963062092331999232",
                 "indices": [
@@ -48,38 +35,52 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/DV173tYX4AANBI4.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DV173tYX4AANBI4.jpg",
-                "url": "https://t.co/nWBQlvQKmw",
-                "display_url": "pic.twitter.com/nWBQlvQKmw",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/963062251681976320/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
+                    "large": {
+                        "h": 288,
+                        "resize": "fit",
+                        "w": 217
                     },
                     "medium": {
-                        "w": 217,
                         "h": 288,
-                        "resize": "fit"
-                    },
-                    "large": {
-                        "w": 217,
-                        "h": 288,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 217
                     },
                     "small": {
-                        "w": 217,
                         "h": 288,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 217
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/nWBQlvQKmw"
             }
-        ]
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "history.state.gov/departmenthist…",
+                "expanded_url": "https://history.state.gov/departmenthistory/people/rowan-carl-thomas",
+                "indices": [
+                    131,
+                    154
+                ],
+                "url": "https://t.co/czy9iyz0Ky"
+            }
+        ],
+        "user_mentions": []
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/nWBQlvQKmw",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/963062251681976320/photo/1",
+                "ext_alt_text": "Portrait of Carl Rowan",
                 "id": 963062092331999230,
                 "id_str": "963062092331999232",
                 "indices": [
@@ -88,55 +89,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/DV173tYX4AANBI4.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DV173tYX4AANBI4.jpg",
-                "url": "https://t.co/nWBQlvQKmw",
-                "display_url": "pic.twitter.com/nWBQlvQKmw",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/963062251681976320/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
+                    "large": {
+                        "h": 288,
+                        "resize": "fit",
+                        "w": 217
                     },
                     "medium": {
-                        "w": 217,
                         "h": 288,
-                        "resize": "fit"
-                    },
-                    "large": {
-                        "w": 217,
-                        "h": 288,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 217
                     },
                     "small": {
-                        "w": 217,
                         "h": 288,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 217
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": "Portrait of Carl Rowan"
+                "type": "photo",
+                "url": "https://t.co/nWBQlvQKmw"
             }
         ]
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 4,
+    "favorited": false,
+    "full_text": "February is #BlackHistoryMonth! Check out some facts on Carl Thomas Rowan (1925-2000): Government official, author, and journalist https://t.co/czy9iyz0Ky #Twitterstorians https://t.co/nWBQlvQKmw",
+    "geo": null,
+    "id": 963062251681976320,
+    "id_str": "963062251681976320",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 6,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 4,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

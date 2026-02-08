@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Apr 24 13:38:58 +0000 2018",
-    "id": 988774300390916100,
-    "id_str": "988774300390916103",
-    "full_text": "Ambassador Grew condemns the expulsion of U.S. poet Langston Hughes from 1933 #Japan on suspicion of Communist ties: https://t.co/lOvhpBw0SF #FRUS #twitterstorians #nationalpoetrymonth https://t.co/llKfOXZoHB",
-    "truncated": false,
     "display_text_range": [
         0,
         184
@@ -11,49 +9,38 @@
     "entities": {
         "hashtags": [
             {
-                "text": "Japan",
                 "indices": [
                     78,
                     84
-                ]
+                ],
+                "text": "Japan"
             },
             {
-                "text": "FRUS",
                 "indices": [
                     141,
                     146
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "twitterstorians",
                 "indices": [
                     147,
                     163
-                ]
+                ],
+                "text": "twitterstorians"
             },
             {
-                "text": "nationalpoetrymonth",
                 "indices": [
                     164,
                     184
-                ]
-            }
-        ],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
-            {
-                "url": "https://t.co/lOvhpBw0SF",
-                "expanded_url": "https://go.usa.gov/xQC6A",
-                "display_url": "go.usa.gov/xQC6A",
-                "indices": [
-                    117,
-                    140
-                ]
+                ],
+                "text": "nationalpoetrymonth"
             }
         ],
         "media": [
             {
+                "display_url": "pic.twitter.com/llKfOXZoHB",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/988774300390916103/photo/1",
                 "id": 988773952729370620,
                 "id_str": "988773952729370629",
                 "indices": [
@@ -62,38 +49,52 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/DbjUq9eX0AU8DD5.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DbjUq9eX0AU8DD5.jpg",
-                "url": "https://t.co/llKfOXZoHB",
-                "display_url": "pic.twitter.com/llKfOXZoHB",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/988774300390916103/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
+                    "large": {
+                        "h": 514,
+                        "resize": "fit",
+                        "w": 347
                     },
                     "medium": {
-                        "w": 347,
                         "h": 514,
-                        "resize": "fit"
-                    },
-                    "large": {
-                        "w": 347,
-                        "h": 514,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 347
                     },
                     "small": {
-                        "w": 347,
                         "h": 514,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 347
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/llKfOXZoHB"
             }
-        ]
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "go.usa.gov/xQC6A",
+                "expanded_url": "https://go.usa.gov/xQC6A",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/lOvhpBw0SF"
+            }
+        ],
+        "user_mentions": []
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/llKfOXZoHB",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/988774300390916103/photo/1",
+                "ext_alt_text": "Portrait of Langston Hughes",
                 "id": 988773952729370620,
                 "id_str": "988773952729370629",
                 "indices": [
@@ -102,55 +103,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/DbjUq9eX0AU8DD5.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DbjUq9eX0AU8DD5.jpg",
-                "url": "https://t.co/llKfOXZoHB",
-                "display_url": "pic.twitter.com/llKfOXZoHB",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/988774300390916103/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
+                    "large": {
+                        "h": 514,
+                        "resize": "fit",
+                        "w": 347
                     },
                     "medium": {
-                        "w": 347,
                         "h": 514,
-                        "resize": "fit"
-                    },
-                    "large": {
-                        "w": 347,
-                        "h": 514,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 347
                     },
                     "small": {
-                        "w": 347,
                         "h": 514,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 347
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": "Portrait of Langston Hughes"
+                "type": "photo",
+                "url": "https://t.co/llKfOXZoHB"
             }
         ]
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 5,
+    "favorited": false,
+    "full_text": "Ambassador Grew condemns the expulsion of U.S. poet Langston Hughes from 1933 #Japan on suspicion of Communist ties: https://t.co/lOvhpBw0SF #FRUS #twitterstorians #nationalpoetrymonth https://t.co/llKfOXZoHB",
+    "geo": null,
+    "id": 988774300390916100,
+    "id_str": "988774300390916103",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 5,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

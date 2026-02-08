@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Wed Apr 15 19:35:49 +0000 2015",
-    "id": 588425514148306940,
-    "id_str": "588425514148306944",
-    "full_text": "RT @icedd_org: Dr Randolph: patience &amp;amp; professionalism help us to get approach to declassification right @HistoryAtState #icedd2015",
-    "truncated": false,
     "display_text_range": [
         0,
         135
@@ -11,58 +9,58 @@
     "entities": {
         "hashtags": [
             {
-                "text": "icedd2015",
                 "indices": [
                     125,
                     135
-                ]
+                ],
+                "text": "icedd2015"
             }
         ],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "icedd_org",
-                "name": "ICEDD",
                 "id": 3131310616,
                 "id_str": "3131310616",
                 "indices": [
                     3,
                     13
-                ]
+                ],
+                "name": "ICEDD",
+                "screen_name": "icedd_org"
             },
             {
-                "screen_name": "HistoryAtState",
-                "name": "HistoryAtState",
                 "id": 586570880,
                 "id_str": "586570880",
                 "indices": [
                     109,
                     124
-                ]
+                ],
+                "name": "HistoryAtState",
+                "screen_name": "HistoryAtState"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"&gt;Twitter for iPad&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "RT @icedd_org: Dr Randolph: patience &amp;amp; professionalism help us to get approach to declassification right @HistoryAtState #icedd2015",
+    "geo": null,
+    "id": 588425514148306940,
+    "id_str": "588425514148306944",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "retweet_count": 4,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Wed Apr 15 19:05:02 +0000 2015",
-        "id": 588417766845124610,
-        "id_str": "588417766845124608",
-        "full_text": "Dr Randolph: patience &amp;amp; professionalism help us to get approach to declassification right @HistoryAtState #icedd2015",
-        "truncated": false,
         "display_text_range": [
             0,
             120
@@ -70,53 +68,55 @@
         "entities": {
             "hashtags": [
                 {
-                    "text": "icedd2015",
                     "indices": [
                         110,
                         120
-                    ]
+                    ],
+                    "text": "icedd2015"
                 }
             ],
             "symbols": [],
+            "urls": [],
             "user_mentions": [
                 {
-                    "screen_name": "HistoryAtState",
-                    "name": "HistoryAtState",
                     "id": 586570880,
                     "id_str": "586570880",
                     "indices": [
                         94,
                         109
-                    ]
+                    ],
+                    "name": "HistoryAtState",
+                    "screen_name": "HistoryAtState"
                 }
-            ],
-            "urls": []
+            ]
         },
-        "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
+        "favorite_count": 3,
+        "favorited": false,
+        "full_text": "Dr Randolph: patience &amp;amp; professionalism help us to get approach to declassification right @HistoryAtState #icedd2015",
+        "geo": null,
+        "id": 588417766845124610,
+        "id_str": "588417766845124608",
+        "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "retweet_count": 4,
+        "retweeted": true,
+        "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
+        "truncated": false,
         "user": {
             "id": 3131310616,
             "id_str": "3131310616"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 4,
-        "favorite_count": 3,
-        "favorited": false,
-        "retweeted": true,
-        "lang": "en"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": true,
-    "lang": "en"
+    "source": "&lt;a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"&gt;Twitter for iPad&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

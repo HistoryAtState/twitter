@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Mar 10 13:46:32 +0000 2016",
-    "id": 707925608710320130,
-    "id_str": "707925608710320128",
-    "full_text": "Corrected: First #Canada leader to visit the U.S. was Prime Minister R.B. Bennett in 1933: https://t.co/2NPrkEMp9N https://t.co/6d2ulj1NPt",
-    "truncated": false,
     "display_text_range": [
         0,
         138
@@ -11,28 +9,17 @@
     "entities": {
         "hashtags": [
             {
-                "text": "Canada",
                 "indices": [
                     17,
                     24
-                ]
-            }
-        ],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
-            {
-                "url": "https://t.co/2NPrkEMp9N",
-                "expanded_url": "https://history.state.gov/departmenthistory/visits/canada",
-                "display_url": "history.state.gov/departmenthist…",
-                "indices": [
-                    91,
-                    114
-                ]
+                ],
+                "text": "Canada"
             }
         ],
         "media": [
             {
+                "display_url": "pic.twitter.com/6d2ulj1NPt",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/707925608710320128/photo/1",
                 "id": 707925607703826430,
                 "id_str": "707925607703826432",
                 "indices": [
@@ -41,38 +28,52 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/CdMOluaW0AAXGtH.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/CdMOluaW0AAXGtH.jpg",
-                "url": "https://t.co/6d2ulj1NPt",
-                "display_url": "pic.twitter.com/6d2ulj1NPt",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/707925608710320128/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "small": {
-                        "w": 554,
-                        "h": 680,
-                        "resize": "fit"
-                    },
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
                     "large": {
-                        "w": 1667,
                         "h": 2048,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1667
                     },
                     "medium": {
-                        "w": 977,
                         "h": 1200,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 977
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 554
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/6d2ulj1NPt"
             }
-        ]
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "history.state.gov/departmenthist…",
+                "expanded_url": "https://history.state.gov/departmenthistory/visits/canada",
+                "indices": [
+                    91,
+                    114
+                ],
+                "url": "https://t.co/2NPrkEMp9N"
+            }
+        ],
+        "user_mentions": []
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/6d2ulj1NPt",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/707925608710320128/photo/1",
+                "ext_alt_text": null,
                 "id": 707925607703826430,
                 "id_str": "707925607703826432",
                 "indices": [
@@ -81,55 +82,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/CdMOluaW0AAXGtH.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/CdMOluaW0AAXGtH.jpg",
-                "url": "https://t.co/6d2ulj1NPt",
-                "display_url": "pic.twitter.com/6d2ulj1NPt",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/707925608710320128/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "small": {
-                        "w": 554,
-                        "h": 680,
-                        "resize": "fit"
-                    },
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
                     "large": {
-                        "w": 1667,
                         "h": 2048,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1667
                     },
                     "medium": {
-                        "w": 977,
                         "h": 1200,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 977
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 554
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": null
+                "type": "photo",
+                "url": "https://t.co/6d2ulj1NPt"
             }
         ]
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 3,
+    "favorited": false,
+    "full_text": "Corrected: First #Canada leader to visit the U.S. was Prime Minister R.B. Bennett in 1933: https://t.co/2NPrkEMp9N https://t.co/6d2ulj1NPt",
+    "geo": null,
+    "id": 707925608710320130,
+    "id_str": "707925608710320128",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 3,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

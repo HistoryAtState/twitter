@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu May 10 14:10:06 +0000 2018",
-    "id": 994580339682050050,
-    "id_str": "994580339682050049",
-    "full_text": "December 3, 1861, was the day of the first publication of “Diplomatic Correspondence,” the forerunner of “Foreign Relations of the United States.” https://t.co/eUPCXPOVho #twitterstorians #FRUS",
-    "truncated": false,
     "display_text_range": [
         0,
         193
@@ -11,53 +9,55 @@
     "entities": {
         "hashtags": [
             {
-                "text": "twitterstorians",
                 "indices": [
                     171,
                     187
-                ]
+                ],
+                "text": "twitterstorians"
             },
             {
-                "text": "FRUS",
                 "indices": [
                     188,
                     193
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "https://t.co/eUPCXPOVho",
-                "expanded_url": "https://history.state.gov/departmenthistory/timeline/1789-1899",
                 "display_url": "history.state.gov/departmenthist…",
+                "expanded_url": "https://history.state.gov/departmenthistory/timeline/1789-1899",
                 "indices": [
                     147,
                     170
-                ]
+                ],
+                "url": "https://t.co/eUPCXPOVho"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "December 3, 1861, was the day of the first publication of “Diplomatic Correspondence,” the forerunner of “Foreign Relations of the United States.” https://t.co/eUPCXPOVho #twitterstorians #FRUS",
+    "geo": null,
+    "id": 994580339682050050,
+    "id_str": "994580339682050049",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

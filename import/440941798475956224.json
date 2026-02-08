@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Mar 04 20:08:11 +0000 2014",
-    "id": 440941798475956220,
-    "id_str": "440941798475956224",
-    "full_text": "RT @DIFP_RIA: #onthisday in 1941 #FDR meets Frank Aiken. See #deValera intro letter on our US colleagues' @HistoryAtState site http://t.co/…",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,72 +9,72 @@
     "entities": {
         "hashtags": [
             {
-                "text": "onthisday",
                 "indices": [
                     14,
                     24
-                ]
+                ],
+                "text": "onthisday"
             },
             {
-                "text": "FDR",
                 "indices": [
                     33,
                     37
-                ]
+                ],
+                "text": "FDR"
             },
             {
-                "text": "deValera",
                 "indices": [
                     61,
                     70
-                ]
+                ],
+                "text": "deValera"
             }
         ],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "DIFP_RIA",
-                "name": "Documents on Irish Foreign Policy",
                 "id": 308372241,
                 "id_str": "308372241",
                 "indices": [
                     3,
                     12
-                ]
+                ],
+                "name": "Documents on Irish Foreign Policy",
+                "screen_name": "DIFP_RIA"
             },
             {
-                "screen_name": "HistoryAtState",
-                "name": "HistoryAtState",
                 "id": 586570880,
                 "id_str": "586570880",
                 "indices": [
                     106,
                     121
-                ]
+                ],
+                "name": "HistoryAtState",
+                "screen_name": "HistoryAtState"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "RT @DIFP_RIA: #onthisday in 1941 #FDR meets Frank Aiken. See #deValera intro letter on our US colleagues' @HistoryAtState site http://t.co/…",
+    "geo": null,
+    "id": 440941798475956220,
+    "id_str": "440941798475956224",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "retweet_count": 3,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Tue Mar 04 13:46:09 +0000 2014",
-        "id": 440845656635105280,
-        "id_str": "440845656635105280",
-        "full_text": "#onthisday in 1941 #FDR meets Frank Aiken. See #deValera intro letter on our US colleagues' @HistoryAtState site http://t.co/KxrnIAcxXQ",
-        "truncated": false,
         "display_text_range": [
             0,
             135
@@ -84,78 +82,80 @@
         "entities": {
             "hashtags": [
                 {
-                    "text": "onthisday",
                     "indices": [
                         0,
                         10
-                    ]
+                    ],
+                    "text": "onthisday"
                 },
                 {
-                    "text": "FDR",
                     "indices": [
                         19,
                         23
-                    ]
+                    ],
+                    "text": "FDR"
                 },
                 {
-                    "text": "deValera",
                     "indices": [
                         47,
                         56
-                    ]
+                    ],
+                    "text": "deValera"
                 }
             ],
             "symbols": [],
+            "urls": [
+                {
+                    "display_url": "bit.ly/1cz2M3c",
+                    "expanded_url": "http://bit.ly/1cz2M3c",
+                    "indices": [
+                        113,
+                        135
+                    ],
+                    "url": "http://t.co/KxrnIAcxXQ"
+                }
+            ],
             "user_mentions": [
                 {
-                    "screen_name": "HistoryAtState",
-                    "name": "HistoryAtState",
                     "id": 586570880,
                     "id_str": "586570880",
                     "indices": [
                         92,
                         107
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "http://t.co/KxrnIAcxXQ",
-                    "expanded_url": "http://bit.ly/1cz2M3c",
-                    "display_url": "bit.ly/1cz2M3c",
-                    "indices": [
-                        113,
-                        135
-                    ]
+                    ],
+                    "name": "HistoryAtState",
+                    "screen_name": "HistoryAtState"
                 }
             ]
         },
-        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+        "favorite_count": 0,
+        "favorited": false,
+        "full_text": "#onthisday in 1941 #FDR meets Frank Aiken. See #deValera intro letter on our US colleagues' @HistoryAtState site http://t.co/KxrnIAcxXQ",
+        "geo": null,
+        "id": 440845656635105280,
+        "id_str": "440845656635105280",
+        "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 3,
+        "retweeted": true,
+        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+        "truncated": false,
         "user": {
             "id": 308372241,
             "id_str": "308372241"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 3,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": true,
-        "possibly_sensitive": false,
-        "lang": "en"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": true,
-    "lang": "en"
+    "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

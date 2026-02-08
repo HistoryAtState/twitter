@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Fri Apr 04 12:02:53 +0000 2014",
-    "id": 452053691227725820,
-    "id_str": "452053691227725824",
-    "full_text": "Bags are packed! Heading to Kansas City for the 2014 @SMH_Historians Conference highlighting #WWI http://t.co/r3D8ic9Bfq",
-    "truncated": false,
     "display_text_range": [
         0,
         120
@@ -11,57 +9,59 @@
     "entities": {
         "hashtags": [
             {
-                "text": "WWI",
                 "indices": [
                     93,
                     97
-                ]
+                ],
+                "text": "WWI"
             }
         ],
         "symbols": [],
+        "urls": [
+            {
+                "display_url": "ow.ly/uZYih",
+                "expanded_url": "http://ow.ly/uZYih",
+                "indices": [
+                    98,
+                    120
+                ],
+                "url": "http://t.co/r3D8ic9Bfq"
+            }
+        ],
         "user_mentions": [
             {
-                "screen_name": "SMH_Historians",
-                "name": "SMH Historians",
                 "id": 961631816,
                 "id_str": "961631816",
                 "indices": [
                     53,
                     68
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "http://t.co/r3D8ic9Bfq",
-                "expanded_url": "http://ow.ly/uZYih",
-                "display_url": "ow.ly/uZYih",
-                "indices": [
-                    98,
-                    120
-                ]
+                ],
+                "name": "SMH Historians",
+                "screen_name": "SMH_Historians"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 1,
+    "favorited": false,
+    "full_text": "Bags are packed! Heading to Kansas City for the 2014 @SMH_Historians Conference highlighting #WWI http://t.co/r3D8ic9Bfq",
+    "geo": null,
+    "id": 452053691227725820,
+    "id_str": "452053691227725824",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 1,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

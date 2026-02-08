@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Mar 24 12:05:30 +0000 2014",
-    "id": 448068084042326020,
-    "id_str": "448068084042326017",
-    "full_text": "How did President Wilson get around Belgium? See this doc from the Woodrow Wilson Library http://t.co/EPMqbWkoGd @USEmbBrussels",
-    "truncated": false,
     "display_text_range": [
         0,
         127
@@ -11,49 +9,51 @@
     "entities": {
         "hashtags": [],
         "symbols": [],
+        "urls": [
+            {
+                "display_url": "ow.ly/uKyBC",
+                "expanded_url": "http://ow.ly/uKyBC",
+                "indices": [
+                    90,
+                    112
+                ],
+                "url": "http://t.co/EPMqbWkoGd"
+            }
+        ],
         "user_mentions": [
             {
-                "screen_name": "usembbrussels",
-                "name": "US Embassy Brussels",
                 "id": 19981036,
                 "id_str": "19981036",
                 "indices": [
                     113,
                     127
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "http://t.co/EPMqbWkoGd",
-                "expanded_url": "http://ow.ly/uKyBC",
-                "display_url": "ow.ly/uKyBC",
-                "indices": [
-                    90,
-                    112
-                ]
+                ],
+                "name": "US Embassy Brussels",
+                "screen_name": "usembbrussels"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 1,
+    "favorited": false,
+    "full_text": "How did President Wilson get around Belgium? See this doc from the Woodrow Wilson Library http://t.co/EPMqbWkoGd @USEmbBrussels",
+    "geo": null,
+    "id": 448068084042326020,
+    "id_str": "448068084042326017",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 1,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Sep 22 17:31:11 +0000 2014",
-    "id": 514104637650395140,
-    "id_str": "514104637650395136",
-    "full_text": "A rare 1914 career woman, Embassy Clerk Ann Singleton worked to save money &amp;amp; travel the world http://t.co/xMwE5gUiff http://t.co/Oiy4MIffNs",
-    "truncated": false,
     "display_text_range": [
         0,
         143
@@ -11,47 +9,49 @@
     "entities": {
         "hashtags": [],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/xMwE5gUiff",
-                "expanded_url": "http://ow.ly/yARL9",
                 "display_url": "ow.ly/yARL9",
+                "expanded_url": "http://ow.ly/yARL9",
                 "indices": [
                     98,
                     120
-                ]
+                ],
+                "url": "http://t.co/xMwE5gUiff"
             },
             {
-                "url": "http://t.co/Oiy4MIffNs",
-                "expanded_url": "http://go.usa.gov/pKZx",
                 "display_url": "go.usa.gov/pKZx",
+                "expanded_url": "http://go.usa.gov/pKZx",
                 "indices": [
                     121,
                     143
-                ]
+                ],
+                "url": "http://t.co/Oiy4MIffNs"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 3,
+    "favorited": false,
+    "full_text": "A rare 1914 career woman, Embassy Clerk Ann Singleton worked to save money &amp;amp; travel the world http://t.co/xMwE5gUiff http://t.co/Oiy4MIffNs",
+    "geo": null,
+    "id": 514104637650395140,
+    "id_str": "514104637650395136",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 5,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 5,
-    "favorite_count": 3,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

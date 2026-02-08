@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Feb 27 19:30:34 +0000 2014",
-    "id": 439120389726150660,
-    "id_str": "439120389726150657",
-    "full_text": "Check out historical Congressional requirements for #HumanRights reporting: http://t.co/UMHejPExH1",
-    "truncated": false,
     "display_text_range": [
         0,
         98
@@ -11,46 +9,48 @@
     "entities": {
         "hashtags": [
             {
-                "text": "HumanRights",
                 "indices": [
                     52,
                     64
-                ]
+                ],
+                "text": "HumanRights"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/UMHejPExH1",
-                "expanded_url": "http://go.usa.gov/BsF3",
                 "display_url": "go.usa.gov/BsF3",
+                "expanded_url": "http://go.usa.gov/BsF3",
                 "indices": [
                     76,
                     98
-                ]
+                ],
+                "url": "http://t.co/UMHejPExH1"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "Check out historical Congressional requirements for #HumanRights reporting: http://t.co/UMHejPExH1",
+    "geo": null,
+    "id": 439120389726150660,
+    "id_str": "439120389726150657",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

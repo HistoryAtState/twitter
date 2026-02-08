@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Sep 23 15:50:51 +0000 2014",
-    "id": 514441773645856770,
-    "id_str": "514441773645856768",
-    "full_text": "What an experience! George Sharp went to @USEmbassyFrance w/his father in 1914 #WW1Tweet http://t.co/w1HvmJT3Gr http://t.co/Oiy4MIffNs",
-    "truncated": false,
     "display_text_range": [
         0,
         134
@@ -11,66 +9,68 @@
     "entities": {
         "hashtags": [
             {
-                "text": "WW1Tweet",
                 "indices": [
                     79,
                     88
-                ]
+                ],
+                "text": "WW1Tweet"
             }
         ],
         "symbols": [],
+        "urls": [
+            {
+                "display_url": "go.usa.gov/pTqk",
+                "expanded_url": "http://go.usa.gov/pTqk",
+                "indices": [
+                    89,
+                    111
+                ],
+                "url": "http://t.co/w1HvmJT3Gr"
+            },
+            {
+                "display_url": "go.usa.gov/pKZx",
+                "expanded_url": "http://go.usa.gov/pKZx",
+                "indices": [
+                    112,
+                    134
+                ],
+                "url": "http://t.co/Oiy4MIffNs"
+            }
+        ],
         "user_mentions": [
             {
-                "screen_name": "USEmbassyFrance",
-                "name": "U.S. Embassy France",
                 "id": 72814599,
                 "id_str": "72814599",
                 "indices": [
                     41,
                     57
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "http://t.co/w1HvmJT3Gr",
-                "expanded_url": "http://go.usa.gov/pTqk",
-                "display_url": "go.usa.gov/pTqk",
-                "indices": [
-                    89,
-                    111
-                ]
-            },
-            {
-                "url": "http://t.co/Oiy4MIffNs",
-                "expanded_url": "http://go.usa.gov/pKZx",
-                "display_url": "go.usa.gov/pKZx",
-                "indices": [
-                    112,
-                    134
-                ]
+                ],
+                "name": "U.S. Embassy France",
+                "screen_name": "USEmbassyFrance"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 1,
+    "favorited": false,
+    "full_text": "What an experience! George Sharp went to @USEmbassyFrance w/his father in 1914 #WW1Tweet http://t.co/w1HvmJT3Gr http://t.co/Oiy4MIffNs",
+    "geo": null,
+    "id": 514441773645856770,
+    "id_str": "514441773645856768",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 1,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

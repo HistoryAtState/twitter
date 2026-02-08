@@ -1,51 +1,17 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Fri Jun 03 15:01:38 +0000 2022",
-    "id": 1532739289397841920,
-    "id_str": "1532739289397841923",
-    "full_text": "🎉 JOB POSTING #3\nApply to be a HISTORIAN in the POLICY STUDIES Division of @HistoryAtState. Research the @StateDept role in executing U.S. foreign policy, especially wrt bilateral relations!\nDEADLINE: June 9, 2022\nhttps://t.co/7MTrJ1UUMe https://t.co/F2b5sXPUb2",
-    "truncated": false,
     "display_text_range": [
         0,
         237
     ],
     "entities": {
         "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-            {
-                "screen_name": "HistoryAtState",
-                "name": "HistoryAtState",
-                "id": 586570880,
-                "id_str": "586570880",
-                "indices": [
-                    75,
-                    90
-                ]
-            },
-            {
-                "screen_name": "StateDept",
-                "name": "Department of State",
-                "id": 9624742,
-                "id_str": "9624742",
-                "indices": [
-                    105,
-                    115
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "https://t.co/7MTrJ1UUMe",
-                "expanded_url": "https://www.usajobs.gov/job/656516900?utm_source=hootsuite&amp;utm_medium=&amp;utm_term=&amp;utm_content=&amp;utm_campaign=oh-job-postings",
-                "display_url": "usajobs.gov/job/656516900?…",
-                "indices": [
-                    214,
-                    237
-                ]
-            }
-        ],
         "media": [
             {
+                "display_url": "pic.twitter.com/F2b5sXPUb2",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1532739289397841923/photo/1",
                 "id": 1532739288131063810,
                 "id_str": "1532739288131063809",
                 "indices": [
@@ -54,38 +20,73 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/FUViQwJWUAEcZWm.png",
                 "media_url_https": "https://pbs.twimg.com/media/FUViQwJWUAEcZWm.png",
-                "url": "https://t.co/F2b5sXPUb2",
-                "display_url": "pic.twitter.com/F2b5sXPUb2",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1532739289397841923/photo/1",
-                "type": "photo",
                 "sizes": {
                     "large": {
-                        "w": 1024,
                         "h": 512,
-                        "resize": "fit"
-                    },
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
-                    "small": {
-                        "w": 680,
-                        "h": 340,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1024
                     },
                     "medium": {
-                        "w": 1024,
                         "h": 512,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "small": {
+                        "h": 340,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/F2b5sXPUb2"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "usajobs.gov/job/656516900?…",
+                "expanded_url": "https://www.usajobs.gov/job/656516900?utm_source=hootsuite&amp;utm_medium=&amp;utm_term=&amp;utm_content=&amp;utm_campaign=oh-job-postings",
+                "indices": [
+                    214,
+                    237
+                ],
+                "url": "https://t.co/7MTrJ1UUMe"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 586570880,
+                "id_str": "586570880",
+                "indices": [
+                    75,
+                    90
+                ],
+                "name": "HistoryAtState",
+                "screen_name": "HistoryAtState"
+            },
+            {
+                "id": 9624742,
+                "id_str": "9624742",
+                "indices": [
+                    105,
+                    115
+                ],
+                "name": "Department of State",
+                "screen_name": "StateDept"
             }
         ]
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/F2b5sXPUb2",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1532739289397841923/photo/1",
+                "ext_alt_text": "Apply to be Historian, Policy Studies Division, Office of the Historian, U.S. Department of State. Due June 9, 2022. https://www.usajobs.gov/job/656516900",
                 "id": 1532739288131063810,
                 "id_str": "1532739288131063809",
                 "indices": [
@@ -94,55 +95,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/FUViQwJWUAEcZWm.png",
                 "media_url_https": "https://pbs.twimg.com/media/FUViQwJWUAEcZWm.png",
-                "url": "https://t.co/F2b5sXPUb2",
-                "display_url": "pic.twitter.com/F2b5sXPUb2",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1532739289397841923/photo/1",
-                "type": "photo",
                 "sizes": {
                     "large": {
-                        "w": 1024,
                         "h": 512,
-                        "resize": "fit"
-                    },
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
-                    "small": {
-                        "w": 680,
-                        "h": 340,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1024
                     },
                     "medium": {
-                        "w": 1024,
                         "h": 512,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "small": {
+                        "h": 340,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": "Apply to be Historian, Policy Studies Division, Office of the Historian, U.S. Department of State. Due June 9, 2022. https://www.usajobs.gov/job/656516900"
+                "type": "photo",
+                "url": "https://t.co/F2b5sXPUb2"
             }
         ]
     },
-    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "favorite_count": 7,
+    "favorited": false,
+    "full_text": "🎉 JOB POSTING #3\nApply to be a HISTORIAN in the POLICY STUDIES Division of @HistoryAtState. Research the @StateDept role in executing U.S. foreign policy, especially wrt bilateral relations!\nDEADLINE: June 9, 2022\nhttps://t.co/7MTrJ1UUMe https://t.co/F2b5sXPUb2",
+    "geo": null,
+    "id": 1532739289397841920,
+    "id_str": "1532739289397841923",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 6,
+    "retweeted": false,
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 7,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

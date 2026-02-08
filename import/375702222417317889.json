@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Sep 05 19:29:24 +0000 2013",
-    "id": 375702222417317890,
-    "id_str": "375702222417317889",
-    "full_text": "RT @vsfsAtState: Look out next Tues, Sept. 10 for a notification from vsfs@state.gov about selections for #VSFSatState.",
-    "truncated": false,
     "display_text_range": [
         0,
         119
@@ -11,48 +9,48 @@
     "entities": {
         "hashtags": [
             {
-                "text": "VSFSatState",
                 "indices": [
                     106,
                     118
-                ]
+                ],
+                "text": "VSFSatState"
             }
         ],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "VSFSatState",
-                "name": "Virtual Student Federal Service",
                 "id": 169927909,
                 "id_str": "169927909",
                 "indices": [
                     3,
                     15
-                ]
+                ],
+                "name": "Virtual Student Federal Service",
+                "screen_name": "VSFSatState"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "RT @vsfsAtState: Look out next Tues, Sept. 10 for a notification from vsfs@state.gov about selections for #VSFSatState.",
+    "geo": null,
+    "id": 375702222417317890,
+    "id_str": "375702222417317889",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "retweet_count": 2,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Thu Sep 05 19:03:32 +0000 2013",
-        "id": 375695712421695490,
-        "id_str": "375695712421695488",
-        "full_text": "Look out next Tues, Sept. 10 for a notification from vsfs@state.gov about selections for #VSFSatState.",
-        "truncated": false,
         "display_text_range": [
             0,
             102
@@ -60,42 +58,44 @@
         "entities": {
             "hashtags": [
                 {
-                    "text": "VSFSatState",
                     "indices": [
                         89,
                         101
-                    ]
+                    ],
+                    "text": "VSFSatState"
                 }
             ],
             "symbols": [],
-            "user_mentions": [],
-            "urls": []
+            "urls": [],
+            "user_mentions": []
         },
-        "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+        "favorite_count": 4,
+        "favorited": false,
+        "full_text": "Look out next Tues, Sept. 10 for a notification from vsfs@state.gov about selections for #VSFSatState.",
+        "geo": null,
+        "id": 375695712421695490,
+        "id_str": "375695712421695488",
+        "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "retweet_count": 2,
+        "retweeted": true,
+        "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+        "truncated": false,
         "user": {
             "id": 169927909,
             "id_str": "169927909"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 2,
-        "favorite_count": 4,
-        "favorited": false,
-        "retweeted": true,
-        "lang": "en"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": true,
-    "lang": "en"
+    "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Jan 27 17:55:33 +0000 2022",
-    "id": 1486759800121798660,
-    "id_str": "1486759800121798662",
-    "full_text": "RT @StateDeputySpox: We have numerous colleagues here at @StateDept who are descendants or family members of Holocaust survivors. In recogn…",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,50 +9,50 @@
     "entities": {
         "hashtags": [],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "StateDeputySpox",
-                "name": "Vedant Patel",
                 "id": 984517807076446210,
                 "id_str": "984517807076446208",
                 "indices": [
                     3,
                     19
-                ]
+                ],
+                "name": "Vedant Patel",
+                "screen_name": "StateDeputySpox"
             },
             {
-                "screen_name": "StateDept",
-                "name": "Department of State",
                 "id": 9624742,
                 "id_str": "9624742",
                 "indices": [
                     57,
                     67
-                ]
+                ],
+                "name": "Department of State",
+                "screen_name": "StateDept"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "RT @StateDeputySpox: We have numerous colleagues here at @StateDept who are descendants or family members of Holocaust survivors. In recogn…",
+    "geo": null,
+    "id": 1486759800121798660,
+    "id_str": "1486759800121798662",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "retweet_count": 37,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Thu Jan 27 16:36:14 +0000 2022",
-        "id": 1486739840783851520,
-        "id_str": "1486739840783851522",
-        "full_text": "We have numerous colleagues here at @StateDept who are descendants or family members of Holocaust survivors. In recognition of International #HolocaustRemembranceDay, they’re sharing their stories: https://t.co/IXiLfHSFOq",
-        "truncated": false,
         "display_text_range": [
             0,
             221
@@ -62,64 +60,66 @@
         "entities": {
             "hashtags": [
                 {
-                    "text": "HolocaustRemembranceDay",
                     "indices": [
                         141,
                         165
-                    ]
+                    ],
+                    "text": "HolocaustRemembranceDay"
                 }
             ],
             "symbols": [],
+            "urls": [
+                {
+                    "display_url": "state.gov/dipnote-u-s-de…",
+                    "expanded_url": "https://www.state.gov/dipnote-u-s-department-of-state-official-blog/holocaust-survivors-their-legacy-compels-us-to-serve/",
+                    "indices": [
+                        198,
+                        221
+                    ],
+                    "url": "https://t.co/IXiLfHSFOq"
+                }
+            ],
             "user_mentions": [
                 {
-                    "screen_name": "StateDept",
-                    "name": "Department of State",
                     "id": 9624742,
                     "id_str": "9624742",
                     "indices": [
                         36,
                         46
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "https://t.co/IXiLfHSFOq",
-                    "expanded_url": "https://www.state.gov/dipnote-u-s-department-of-state-official-blog/holocaust-survivors-their-legacy-compels-us-to-serve/",
-                    "display_url": "state.gov/dipnote-u-s-de…",
-                    "indices": [
-                        198,
-                        221
-                    ]
+                    ],
+                    "name": "Department of State",
+                    "screen_name": "StateDept"
                 }
             ]
         },
-        "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+        "favorite_count": 101,
+        "favorited": false,
+        "full_text": "We have numerous colleagues here at @StateDept who are descendants or family members of Holocaust survivors. In recognition of International #HolocaustRemembranceDay, they’re sharing their stories: https://t.co/IXiLfHSFOq",
+        "geo": null,
+        "id": 1486739840783851520,
+        "id_str": "1486739840783851522",
+        "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 37,
+        "retweeted": true,
+        "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+        "truncated": false,
         "user": {
             "id": 984517807076446210,
             "id_str": "984517807076446208"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 37,
-        "favorite_count": 101,
-        "favorited": false,
-        "retweeted": true,
-        "possibly_sensitive": false,
-        "lang": "en"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 37,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": true,
-    "lang": "en"
+    "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

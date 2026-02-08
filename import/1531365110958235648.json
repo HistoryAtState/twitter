@@ -1,51 +1,17 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon May 30 20:01:08 +0000 2022",
-    "id": 1531365110958235650,
-    "id_str": "1531365110958235648",
-    "full_text": "📢 JOB ANNOUNCEMENT\nApply to be a HISTORIAN in the SPECIAL PROJECTS Division of @HistoryAtState. Research how the @StateDept adapted to meet evolving global challenges!\nDEADLINE: June 1, 2022\n\nhttps://t.co/RL5GujJxlR https://t.co/Oz1Nfja4uy",
-    "truncated": false,
     "display_text_range": [
         0,
         215
     ],
     "entities": {
         "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-            {
-                "screen_name": "HistoryAtState",
-                "name": "HistoryAtState",
-                "id": 586570880,
-                "id_str": "586570880",
-                "indices": [
-                    79,
-                    94
-                ]
-            },
-            {
-                "screen_name": "StateDept",
-                "name": "Department of State",
-                "id": 9624742,
-                "id_str": "9624742",
-                "indices": [
-                    113,
-                    123
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "https://t.co/RL5GujJxlR",
-                "expanded_url": "http://ow.ly/nE9h50JfPoT",
-                "display_url": "ow.ly/nE9h50JfPoT",
-                "indices": [
-                    192,
-                    215
-                ]
-            }
-        ],
         "media": [
             {
+                "display_url": "pic.twitter.com/Oz1Nfja4uy",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1531365110958235648/photo/1",
                 "id": 1531365109121024000,
                 "id_str": "1531365109121024001",
                 "indices": [
@@ -54,38 +20,73 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/FUCAdAaWAAEdOIF.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/FUCAdAaWAAEdOIF.jpg",
-                "url": "https://t.co/Oz1Nfja4uy",
-                "display_url": "pic.twitter.com/Oz1Nfja4uy",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1531365110958235648/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
-                    "small": {
-                        "w": 680,
-                        "h": 446,
-                        "resize": "fit"
-                    },
                     "large": {
-                        "w": 1450,
                         "h": 952,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1450
                     },
                     "medium": {
-                        "w": 1200,
                         "h": 788,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1200
+                    },
+                    "small": {
+                        "h": 446,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/Oz1Nfja4uy"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "ow.ly/nE9h50JfPoT",
+                "expanded_url": "http://ow.ly/nE9h50JfPoT",
+                "indices": [
+                    192,
+                    215
+                ],
+                "url": "https://t.co/RL5GujJxlR"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 586570880,
+                "id_str": "586570880",
+                "indices": [
+                    79,
+                    94
+                ],
+                "name": "HistoryAtState",
+                "screen_name": "HistoryAtState"
+            },
+            {
+                "id": 9624742,
+                "id_str": "9624742",
+                "indices": [
+                    113,
+                    123
+                ],
+                "name": "Department of State",
+                "screen_name": "StateDept"
             }
         ]
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/Oz1Nfja4uy",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1531365110958235648/photo/1",
+                "ext_alt_text": "Duties: •Plans and carries out moderately complex historical research initiatives and presents in-depth narrative studies and documentary compilations in properly edited form and in accordance with professional historical standards. •…serves as a specialist on the institutional history of the Department of State. •Collects and updates essential Department historical data…",
                 "id": 1531365109121024000,
                 "id_str": "1531365109121024001",
                 "indices": [
@@ -94,55 +95,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/FUCAdAaWAAEdOIF.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/FUCAdAaWAAEdOIF.jpg",
-                "url": "https://t.co/Oz1Nfja4uy",
-                "display_url": "pic.twitter.com/Oz1Nfja4uy",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1531365110958235648/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
-                    "small": {
-                        "w": 680,
-                        "h": 446,
-                        "resize": "fit"
-                    },
                     "large": {
-                        "w": 1450,
                         "h": 952,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1450
                     },
                     "medium": {
-                        "w": 1200,
                         "h": 788,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1200
+                    },
+                    "small": {
+                        "h": 446,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": "Duties: •Plans and carries out moderately complex historical research initiatives and presents in-depth narrative studies and documentary compilations in properly edited form and in accordance with professional historical standards. •…serves as a specialist on the institutional history of the Department of State. •Collects and updates essential Department historical data…"
+                "type": "photo",
+                "url": "https://t.co/Oz1Nfja4uy"
             }
         ]
     },
-    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "favorite_count": 7,
+    "favorited": false,
+    "full_text": "📢 JOB ANNOUNCEMENT\nApply to be a HISTORIAN in the SPECIAL PROJECTS Division of @HistoryAtState. Research how the @StateDept adapted to meet evolving global challenges!\nDEADLINE: June 1, 2022\n\nhttps://t.co/RL5GujJxlR https://t.co/Oz1Nfja4uy",
+    "geo": null,
+    "id": 1531365110958235650,
+    "id_str": "1531365110958235648",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3,
+    "retweeted": false,
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 7,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

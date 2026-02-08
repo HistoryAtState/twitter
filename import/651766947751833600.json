@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Wed Oct 07 14:32:04 +0000 2015",
-    "id": 651766947751833600,
-    "id_str": "651766947751833600",
-    "full_text": "The State Department also had to negotiate with Congress to get the Panama Canal Treaties ratified http://t.co/CW1md2TqA2 #FRUS",
-    "truncated": false,
     "display_text_range": [
         0,
         127
@@ -11,46 +9,48 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     122,
                     127
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/CW1md2TqA2",
-                "expanded_url": "http://history.state.gov/historicaldocuments/frus1969-76v22",
                 "display_url": "history.state.gov/historicaldocu…",
+                "expanded_url": "http://history.state.gov/historicaldocuments/frus1969-76v22",
                 "indices": [
                     99,
                     121
-                ]
+                ],
+                "url": "http://t.co/CW1md2TqA2"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 1,
+    "favorited": false,
+    "full_text": "The State Department also had to negotiate with Congress to get the Panama Canal Treaties ratified http://t.co/CW1md2TqA2 #FRUS",
+    "geo": null,
+    "id": 651766947751833600,
+    "id_str": "651766947751833600",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 1,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

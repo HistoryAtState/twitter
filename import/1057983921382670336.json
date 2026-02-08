@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Nov 01 13:13:17 +0000 2018",
-    "id": 1057983921382670340,
-    "id_str": "1057983921382670336",
-    "full_text": "RT @StateINL: Promoting #security through #justice, to advance Americans' safety, for 4 decades!  We’re celebrating INL’s #40thAnniversary…",
-    "truncated": false,
     "display_text_range": [
         0,
         139
@@ -11,62 +9,62 @@
     "entities": {
         "hashtags": [
             {
-                "text": "security",
                 "indices": [
                     24,
                     33
-                ]
+                ],
+                "text": "security"
             },
             {
-                "text": "justice",
                 "indices": [
                     42,
                     50
-                ]
+                ],
+                "text": "justice"
             },
             {
-                "text": "40thAnniversary",
                 "indices": [
                     122,
                     138
-                ]
+                ],
+                "text": "40thAnniversary"
             }
         ],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "StateINL",
-                "name": "US Dept of State INL",
                 "id": 123635567,
                 "id_str": "123635567",
                 "indices": [
                     3,
                     12
-                ]
+                ],
+                "name": "US Dept of State INL",
+                "screen_name": "StateINL"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "RT @StateINL: Promoting #security through #justice, to advance Americans' safety, for 4 decades!  We’re celebrating INL’s #40thAnniversary…",
+    "geo": null,
+    "id": 1057983921382670340,
+    "id_str": "1057983921382670336",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "retweet_count": 30,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Tue Oct 30 12:56:33 +0000 2018",
-        "id": 1057254933651746820,
-        "id_str": "1057254933651746817",
-        "full_text": "Promoting #security through #justice, to advance Americans' safety, for 4 decades!  We’re celebrating INL’s #40thAnniversary this month - enjoy the show: https://t.co/NJyl1DYR7w",
-        "truncated": false,
         "display_text_range": [
             0,
             177
@@ -74,67 +72,69 @@
         "entities": {
             "hashtags": [
                 {
-                    "text": "security",
                     "indices": [
                         10,
                         19
-                    ]
+                    ],
+                    "text": "security"
                 },
                 {
-                    "text": "justice",
                     "indices": [
                         28,
                         36
-                    ]
+                    ],
+                    "text": "justice"
                 },
                 {
-                    "text": "40thAnniversary",
                     "indices": [
                         108,
                         124
-                    ]
+                    ],
+                    "text": "40thAnniversary"
                 }
             ],
             "symbols": [],
-            "user_mentions": [],
             "urls": [
                 {
-                    "url": "https://t.co/NJyl1DYR7w",
-                    "expanded_url": "https://youtu.be/trF73poIog0",
                     "display_url": "youtu.be/trF73poIog0",
+                    "expanded_url": "https://youtu.be/trF73poIog0",
                     "indices": [
                         154,
                         177
-                    ]
+                    ],
+                    "url": "https://t.co/NJyl1DYR7w"
                 }
-            ]
+            ],
+            "user_mentions": []
         },
-        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+        "favorite_count": 64,
+        "favorited": false,
+        "full_text": "Promoting #security through #justice, to advance Americans' safety, for 4 decades!  We’re celebrating INL’s #40thAnniversary this month - enjoy the show: https://t.co/NJyl1DYR7w",
+        "geo": null,
+        "id": 1057254933651746820,
+        "id_str": "1057254933651746817",
+        "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 30,
+        "retweeted": true,
+        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+        "truncated": false,
         "user": {
             "id": 123635567,
             "id_str": "123635567"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 30,
-        "favorite_count": 64,
-        "favorited": false,
-        "retweeted": true,
-        "possibly_sensitive": false,
-        "lang": "en"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 30,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": true,
-    "lang": "en"
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Apr 06 18:30:40 +0000 2017",
-    "id": 850053158785167360,
-    "id_str": "850053158785167360",
-    "full_text": "NOW: Papers Relating to #FRUS, #1917, Sup. 2, Vols. 1–2 #WWI #WW1 #WW1CC https://t.co/QpxDfAvGXE https://t.co/3WgXf6Xh8K @librarycongress https://t.co/c4NzkZS2Df",
-    "truncated": false,
     "display_text_range": [
         0,
         137
@@ -11,69 +9,38 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     24,
                     29
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "WWI",
                 "indices": [
                     56,
                     60
-                ]
+                ],
+                "text": "WWI"
             },
             {
-                "text": "WW1",
                 "indices": [
                     61,
                     65
-                ]
+                ],
+                "text": "WW1"
             },
             {
-                "text": "WW1CC",
                 "indices": [
                     66,
                     72
-                ]
-            }
-        ],
-        "symbols": [],
-        "user_mentions": [
-            {
-                "screen_name": "librarycongress",
-                "name": "Library of Congress",
-                "id": 7152572,
-                "id_str": "7152572",
-                "indices": [
-                    121,
-                    137
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "https://t.co/QpxDfAvGXE",
-                "expanded_url": "https://go.usa.gov/xXRFJ",
-                "display_url": "go.usa.gov/xXRFJ",
-                "indices": [
-                    73,
-                    96
-                ]
-            },
-            {
-                "url": "https://t.co/3WgXf6Xh8K",
-                "expanded_url": "https://go.usa.gov/xXRM3",
-                "display_url": "go.usa.gov/xXRM3",
-                "indices": [
-                    97,
-                    120
-                ]
+                ],
+                "text": "WW1CC"
             }
         ],
         "media": [
             {
+                "display_url": "pic.twitter.com/c4NzkZS2Df",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/850053158785167360/photo/1",
                 "id": 850053155706593280,
                 "id_str": "850053155706593282",
                 "indices": [
@@ -82,38 +49,72 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/C8v-12IXYAI2Uwk.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/C8v-12IXYAI2Uwk.jpg",
-                "url": "https://t.co/c4NzkZS2Df",
-                "display_url": "pic.twitter.com/c4NzkZS2Df",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/850053158785167360/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
-                    "small": {
-                        "w": 680,
-                        "h": 524,
-                        "resize": "fit"
+                    "large": {
+                        "h": 789,
+                        "resize": "fit",
+                        "w": 1024
                     },
                     "medium": {
-                        "w": 1024,
                         "h": 789,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1024
                     },
-                    "large": {
-                        "w": 1024,
-                        "h": 789,
-                        "resize": "fit"
+                    "small": {
+                        "h": 524,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/c4NzkZS2Df"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "go.usa.gov/xXRFJ",
+                "expanded_url": "https://go.usa.gov/xXRFJ",
+                "indices": [
+                    73,
+                    96
+                ],
+                "url": "https://t.co/QpxDfAvGXE"
+            },
+            {
+                "display_url": "go.usa.gov/xXRM3",
+                "expanded_url": "https://go.usa.gov/xXRM3",
+                "indices": [
+                    97,
+                    120
+                ],
+                "url": "https://t.co/3WgXf6Xh8K"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 7152572,
+                "id_str": "7152572",
+                "indices": [
+                    121,
+                    137
+                ],
+                "name": "Library of Congress",
+                "screen_name": "librarycongress"
             }
         ]
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/c4NzkZS2Df",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/850053158785167360/photo/1",
+                "ext_alt_text": null,
                 "id": 850053155706593280,
                 "id_str": "850053155706593282",
                 "indices": [
@@ -122,35 +123,35 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/C8v-12IXYAI2Uwk.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/C8v-12IXYAI2Uwk.jpg",
-                "url": "https://t.co/c4NzkZS2Df",
-                "display_url": "pic.twitter.com/c4NzkZS2Df",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/850053158785167360/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
-                    "small": {
-                        "w": 680,
-                        "h": 524,
-                        "resize": "fit"
+                    "large": {
+                        "h": 789,
+                        "resize": "fit",
+                        "w": 1024
                     },
                     "medium": {
-                        "w": 1024,
                         "h": 789,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1024
                     },
-                    "large": {
-                        "w": 1024,
-                        "h": 789,
-                        "resize": "fit"
+                    "small": {
+                        "h": 524,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": null
+                "type": "photo",
+                "url": "https://t.co/c4NzkZS2Df"
             },
             {
+                "display_url": "pic.twitter.com/c4NzkZS2Df",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/850053158785167360/photo/1",
+                "ext_alt_text": null,
                 "id": 850053154486013950,
                 "id_str": "850053154486013952",
                 "indices": [
@@ -159,55 +160,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/C8v-1xlW0AADX7A.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/C8v-1xlW0AADX7A.jpg",
-                "url": "https://t.co/c4NzkZS2Df",
-                "display_url": "pic.twitter.com/c4NzkZS2Df",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/850053158785167360/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "medium": {
-                        "w": 640,
-                        "h": 478,
-                        "resize": "fit"
-                    },
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
                     "large": {
-                        "w": 640,
                         "h": 478,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 640
+                    },
+                    "medium": {
+                        "h": 478,
+                        "resize": "fit",
+                        "w": 640
                     },
                     "small": {
-                        "w": 640,
                         "h": 478,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 640
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": null
+                "type": "photo",
+                "url": "https://t.co/c4NzkZS2Df"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "NOW: Papers Relating to #FRUS, #1917, Sup. 2, Vols. 1–2 #WWI #WW1 #WW1CC https://t.co/QpxDfAvGXE https://t.co/3WgXf6Xh8K @librarycongress https://t.co/c4NzkZS2Df",
+    "geo": null,
+    "id": 850053158785167360,
+    "id_str": "850053158785167360",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

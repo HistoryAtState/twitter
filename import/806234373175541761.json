@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Dec 06 20:30:28 +0000 2016",
-    "id": 806234373175541760,
-    "id_str": "806234373175541761",
-    "full_text": "Did the Carter admin green light a Somali invasion of the #Ogaden? See #FRUS ebook: https://t.co/RpqagwKXdq @CarterLibrary #twitterstorians https://t.co/ivaQ8btzzI",
-    "truncated": false,
     "display_text_range": [
         0,
         139
@@ -11,53 +9,31 @@
     "entities": {
         "hashtags": [
             {
-                "text": "Ogaden",
                 "indices": [
                     58,
                     65
-                ]
+                ],
+                "text": "Ogaden"
             },
             {
-                "text": "FRUS",
                 "indices": [
                     71,
                     76
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "twitterstorians",
                 "indices": [
                     123,
                     139
-                ]
-            }
-        ],
-        "symbols": [],
-        "user_mentions": [
-            {
-                "screen_name": "CarterLibrary",
-                "name": "Jimmy Carter Presidential Library",
-                "id": 19660388,
-                "id_str": "19660388",
-                "indices": [
-                    108,
-                    122
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "https://t.co/RpqagwKXdq",
-                "expanded_url": "http://go.usa.gov/xke9C",
-                "display_url": "go.usa.gov/xke9C",
-                "indices": [
-                    84,
-                    107
-                ]
+                ],
+                "text": "twitterstorians"
             }
         ],
         "media": [
             {
+                "display_url": "pic.twitter.com/ivaQ8btzzI",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/806234373175541761/photo/1",
                 "id": 806234370797432830,
                 "id_str": "806234370797432837",
                 "indices": [
@@ -66,38 +42,63 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/CzBR430XcAUHcYS.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/CzBR430XcAUHcYS.jpg",
-                "url": "https://t.co/ivaQ8btzzI",
-                "display_url": "pic.twitter.com/ivaQ8btzzI",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/806234373175541761/photo/1",
-                "type": "photo",
                 "sizes": {
                     "large": {
-                        "w": 600,
                         "h": 410,
-                        "resize": "fit"
-                    },
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
-                    "small": {
-                        "w": 600,
-                        "h": 410,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 600
                     },
                     "medium": {
-                        "w": 600,
                         "h": 410,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 410,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/ivaQ8btzzI"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "go.usa.gov/xke9C",
+                "expanded_url": "http://go.usa.gov/xke9C",
+                "indices": [
+                    84,
+                    107
+                ],
+                "url": "https://t.co/RpqagwKXdq"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 19660388,
+                "id_str": "19660388",
+                "indices": [
+                    108,
+                    122
+                ],
+                "name": "Jimmy Carter Presidential Library",
+                "screen_name": "CarterLibrary"
             }
         ]
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/ivaQ8btzzI",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/806234373175541761/photo/1",
+                "ext_alt_text": null,
                 "id": 806234370797432830,
                 "id_str": "806234370797432837",
                 "indices": [
@@ -106,55 +107,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/CzBR430XcAUHcYS.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/CzBR430XcAUHcYS.jpg",
-                "url": "https://t.co/ivaQ8btzzI",
-                "display_url": "pic.twitter.com/ivaQ8btzzI",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/806234373175541761/photo/1",
-                "type": "photo",
                 "sizes": {
                     "large": {
-                        "w": 600,
                         "h": 410,
-                        "resize": "fit"
-                    },
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
-                    "small": {
-                        "w": 600,
-                        "h": 410,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 600
                     },
                     "medium": {
-                        "w": 600,
                         "h": 410,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 410,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": null
+                "type": "photo",
+                "url": "https://t.co/ivaQ8btzzI"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 3,
+    "favorited": false,
+    "full_text": "Did the Carter admin green light a Somali invasion of the #Ogaden? See #FRUS ebook: https://t.co/RpqagwKXdq @CarterLibrary #twitterstorians https://t.co/ivaQ8btzzI",
+    "geo": null,
+    "id": 806234373175541760,
+    "id_str": "806234373175541761",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 3,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

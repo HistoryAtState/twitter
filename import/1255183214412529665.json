@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Apr 28 17:12:53 +0000 2020",
-    "id": 1255183214412529660,
-    "id_str": "1255183214412529665",
-    "full_text": "RT @FSIatState: (2/3) In 1865, the consul general in Alexandria, Egypt reports: “The outbreak of the disease has nevertheless caused great…",
-    "truncated": false,
     "display_text_range": [
         0,
         139
@@ -11,40 +9,40 @@
     "entities": {
         "hashtags": [],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "FSIatState",
-                "name": "Foreign Service Institute",
                 "id": 958044239576948740,
                 "id_str": "958044239576948736",
                 "indices": [
                     3,
                     14
-                ]
+                ],
+                "name": "Foreign Service Institute",
+                "screen_name": "FSIatState"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "RT @FSIatState: (2/3) In 1865, the consul general in Alexandria, Egypt reports: “The outbreak of the disease has nevertheless caused great…",
+    "geo": null,
+    "id": 1255183214412529660,
+    "id_str": "1255183214412529665",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "retweet_count": 1,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Tue Apr 28 13:55:55 +0000 2020",
-        "id": 1255133647377580030,
-        "id_str": "1255133647377580032",
-        "full_text": "(2/3) In 1865, the consul general in Alexandria, Egypt reports: “The outbreak of the disease has nevertheless caused great alarm, and many persons have left the place…several [ships] have been charted for extra trips.” https://t.co/CF1ayi1RpI #FRUS #FSIatHome",
-        "truncated": false,
         "display_text_range": [
             0,
             259
@@ -52,60 +50,62 @@
         "entities": {
             "hashtags": [
                 {
-                    "text": "FRUS",
                     "indices": [
                         243,
                         248
-                    ]
+                    ],
+                    "text": "FRUS"
                 },
                 {
-                    "text": "FSIatHome",
                     "indices": [
                         249,
                         259
-                    ]
+                    ],
+                    "text": "FSIatHome"
                 }
             ],
             "symbols": [],
-            "user_mentions": [],
             "urls": [
                 {
-                    "url": "https://t.co/CF1ayi1RpI",
-                    "expanded_url": "http://go.usa.gov/xvKs9",
                     "display_url": "go.usa.gov/xvKs9",
+                    "expanded_url": "http://go.usa.gov/xvKs9",
                     "indices": [
                         219,
                         242
-                    ]
+                    ],
+                    "url": "https://t.co/CF1ayi1RpI"
                 }
-            ]
+            ],
+            "user_mentions": []
         },
-        "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+        "favorite_count": 2,
+        "favorited": false,
+        "full_text": "(2/3) In 1865, the consul general in Alexandria, Egypt reports: “The outbreak of the disease has nevertheless caused great alarm, and many persons have left the place…several [ships] have been charted for extra trips.” https://t.co/CF1ayi1RpI #FRUS #FSIatHome",
+        "geo": null,
+        "id": 1255133647377580030,
+        "id_str": "1255133647377580032",
+        "in_reply_to_screen_name": "FSIatState",
         "in_reply_to_status_id": 1255133645238489090,
         "in_reply_to_status_id_str": "1255133645238489096",
         "in_reply_to_user_id": 958044239576948740,
         "in_reply_to_user_id_str": "958044239576948736",
-        "in_reply_to_screen_name": "FSIatState",
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 1,
+        "retweeted": true,
+        "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+        "truncated": false,
         "user": {
             "id": 958044239576948740,
             "id_str": "958044239576948736"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 1,
-        "favorite_count": 2,
-        "favorited": false,
-        "retweeted": true,
-        "possibly_sensitive": false,
-        "lang": "en"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": true,
-    "lang": "en"
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

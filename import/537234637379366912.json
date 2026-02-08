@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Nov 25 13:21:33 +0000 2014",
-    "id": 537234637379366910,
-    "id_str": "537234637379366912",
-    "full_text": "The Office of the Historian released today new #FRUS volume on public diplomacy during #WWI. http://t.co/VF9hFMxT1J #twitterstorians",
-    "truncated": false,
     "display_text_range": [
         0,
         132
@@ -11,60 +9,62 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     47,
                     52
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "WWI",
                 "indices": [
                     87,
                     91
-                ]
+                ],
+                "text": "WWI"
             },
             {
-                "text": "twitterstorians",
                 "indices": [
                     116,
                     132
-                ]
+                ],
+                "text": "twitterstorians"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/VF9hFMxT1J",
-                "expanded_url": "http://go.usa.gov/dDpA",
                 "display_url": "go.usa.gov/dDpA",
+                "expanded_url": "http://go.usa.gov/dDpA",
                 "indices": [
                     93,
                     115
-                ]
+                ],
+                "url": "http://t.co/VF9hFMxT1J"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 5,
+    "favorited": false,
+    "full_text": "The Office of the Historian released today new #FRUS volume on public diplomacy during #WWI. http://t.co/VF9hFMxT1J #twitterstorians",
+    "geo": null,
+    "id": 537234637379366910,
+    "id_str": "537234637379366912",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 12,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 12,
-    "favorite_count": 5,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

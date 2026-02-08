@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Fri Mar 03 13:10:14 +0000 2017",
-    "id": 837651329577332740,
-    "id_str": "837651329577332736",
-    "full_text": ".@CondoleezzaRice, first African-American woman to serve as #SecState: https://t.co/JccTysfS5s  #girlpower #womenshistorymonth https://t.co/jwtvZ1lMAb",
-    "truncated": false,
     "display_text_range": [
         0,
         126
@@ -11,53 +9,31 @@
     "entities": {
         "hashtags": [
             {
-                "text": "SecState",
                 "indices": [
                     60,
                     69
-                ]
+                ],
+                "text": "SecState"
             },
             {
-                "text": "girlpower",
                 "indices": [
                     96,
                     106
-                ]
+                ],
+                "text": "girlpower"
             },
             {
-                "text": "womenshistorymonth",
                 "indices": [
                     107,
                     126
-                ]
-            }
-        ],
-        "symbols": [],
-        "user_mentions": [
-            {
-                "screen_name": "CondoleezzaRice",
-                "name": "Condoleezza Rice",
-                "id": 388555493,
-                "id_str": "388555493",
-                "indices": [
-                    1,
-                    17
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "https://t.co/JccTysfS5s",
-                "expanded_url": "http://go.usa.gov/xX34g",
-                "display_url": "go.usa.gov/xX34g",
-                "indices": [
-                    71,
-                    94
-                ]
+                ],
+                "text": "womenshistorymonth"
             }
         ],
         "media": [
             {
+                "display_url": "pic.twitter.com/jwtvZ1lMAb",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/837651329577332736/photo/1",
                 "id": 837651326259507200,
                 "id_str": "837651326259507202",
                 "indices": [
@@ -66,38 +42,63 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/C5_vcXNVMAIopz7.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/C5_vcXNVMAIopz7.jpg",
-                "url": "https://t.co/jwtvZ1lMAb",
-                "display_url": "pic.twitter.com/jwtvZ1lMAb",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/837651329577332736/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
                     "large": {
-                        "w": 1638,
                         "h": 2048,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1638
                     },
                     "medium": {
-                        "w": 960,
                         "h": 1200,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 960
                     },
                     "small": {
-                        "w": 544,
                         "h": 680,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 544
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/jwtvZ1lMAb"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "go.usa.gov/xX34g",
+                "expanded_url": "http://go.usa.gov/xX34g",
+                "indices": [
+                    71,
+                    94
+                ],
+                "url": "https://t.co/JccTysfS5s"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 388555493,
+                "id_str": "388555493",
+                "indices": [
+                    1,
+                    17
+                ],
+                "name": "Condoleezza Rice",
+                "screen_name": "CondoleezzaRice"
             }
         ]
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/jwtvZ1lMAb",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/837651329577332736/photo/1",
+                "ext_alt_text": null,
                 "id": 837651326259507200,
                 "id_str": "837651326259507202",
                 "indices": [
@@ -106,55 +107,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/C5_vcXNVMAIopz7.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/C5_vcXNVMAIopz7.jpg",
-                "url": "https://t.co/jwtvZ1lMAb",
-                "display_url": "pic.twitter.com/jwtvZ1lMAb",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/837651329577332736/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
                     "large": {
-                        "w": 1638,
                         "h": 2048,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1638
                     },
                     "medium": {
-                        "w": 960,
                         "h": 1200,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 960
                     },
                     "small": {
-                        "w": 544,
                         "h": 680,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 544
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": null
+                "type": "photo",
+                "url": "https://t.co/jwtvZ1lMAb"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 11,
+    "favorited": false,
+    "full_text": ".@CondoleezzaRice, first African-American woman to serve as #SecState: https://t.co/JccTysfS5s  #girlpower #womenshistorymonth https://t.co/jwtvZ1lMAb",
+    "geo": null,
+    "id": 837651329577332740,
+    "id_str": "837651329577332736",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 11,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

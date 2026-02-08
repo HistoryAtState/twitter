@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Apr 24 16:58:30 +0000 2018",
-    "id": 988824514887811070,
-    "id_str": "988824514887811072",
-    "full_text": ".@usembislamabad quotes Longfellow in a 1969 poetic eulogy to @usairforce Communications Station “Badaber” in Peshawar, #Pakistan.  https://t.co/aWKMYsskKq #FRUS #nationalpoetrymonth https://t.co/BhCBCx8Zr6",
-    "truncated": false,
     "display_text_range": [
         0,
         182
@@ -11,63 +9,31 @@
     "entities": {
         "hashtags": [
             {
-                "text": "Pakistan",
                 "indices": [
                     120,
                     129
-                ]
+                ],
+                "text": "Pakistan"
             },
             {
-                "text": "FRUS",
                 "indices": [
                     156,
                     161
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "nationalpoetrymonth",
                 "indices": [
                     162,
                     182
-                ]
-            }
-        ],
-        "symbols": [],
-        "user_mentions": [
-            {
-                "screen_name": "usembislamabad",
-                "name": "U.S. Embassy Islamabad",
-                "id": 218443914,
-                "id_str": "218443914",
-                "indices": [
-                    1,
-                    16
-                ]
-            },
-            {
-                "screen_name": "usairforce",
-                "name": "U.S. Air Force",
-                "id": 19611483,
-                "id_str": "19611483",
-                "indices": [
-                    62,
-                    73
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "https://t.co/aWKMYsskKq",
-                "expanded_url": "https://go.usa.gov/xQCHz",
-                "display_url": "go.usa.gov/xQCHz",
-                "indices": [
-                    132,
-                    155
-                ]
+                ],
+                "text": "nationalpoetrymonth"
             }
         ],
         "media": [
             {
+                "display_url": "pic.twitter.com/BhCBCx8Zr6",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/988824514887811072/photo/1",
                 "id": 988824259945476100,
                 "id_str": "988824259945476096",
                 "indices": [
@@ -76,38 +42,73 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/DbkCbOdWsAAyKDy.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DbkCbOdWsAAyKDy.jpg",
-                "url": "https://t.co/BhCBCx8Zr6",
-                "display_url": "pic.twitter.com/BhCBCx8Zr6",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/988824514887811072/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "medium": {
-                        "w": 978,
-                        "h": 863,
-                        "resize": "fit"
-                    },
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
                     "large": {
-                        "w": 978,
                         "h": 863,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 978
+                    },
+                    "medium": {
+                        "h": 863,
+                        "resize": "fit",
+                        "w": 978
                     },
                     "small": {
-                        "w": 680,
                         "h": 600,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/BhCBCx8Zr6"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "go.usa.gov/xQCHz",
+                "expanded_url": "https://go.usa.gov/xQCHz",
+                "indices": [
+                    132,
+                    155
+                ],
+                "url": "https://t.co/aWKMYsskKq"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 218443914,
+                "id_str": "218443914",
+                "indices": [
+                    1,
+                    16
+                ],
+                "name": "U.S. Embassy Islamabad",
+                "screen_name": "usembislamabad"
+            },
+            {
+                "id": 19611483,
+                "id_str": "19611483",
+                "indices": [
+                    62,
+                    73
+                ],
+                "name": "U.S. Air Force",
+                "screen_name": "usairforce"
             }
         ]
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/BhCBCx8Zr6",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/988824514887811072/photo/1",
+                "ext_alt_text": "Snapshot of Document 38. Airgram A–550 From the Embassy in Pakistan to the Department of State, October 6, 1969. “Time has laid his hand, Upon my heart, gently, not smiting it, But as a harper lays his open palm, Upon his harp, to deaden its vibrations.” Longfellow, The Golden Legend.",
                 "id": 988824259945476100,
                 "id_str": "988824259945476096",
                 "indices": [
@@ -116,55 +117,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/DbkCbOdWsAAyKDy.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DbkCbOdWsAAyKDy.jpg",
-                "url": "https://t.co/BhCBCx8Zr6",
-                "display_url": "pic.twitter.com/BhCBCx8Zr6",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/988824514887811072/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "medium": {
-                        "w": 978,
-                        "h": 863,
-                        "resize": "fit"
-                    },
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
                     "large": {
-                        "w": 978,
                         "h": 863,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 978
+                    },
+                    "medium": {
+                        "h": 863,
+                        "resize": "fit",
+                        "w": 978
                     },
                     "small": {
-                        "w": 680,
                         "h": 600,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": "Snapshot of Document 38. Airgram A–550 From the Embassy in Pakistan to the Department of State, October 6, 1969. “Time has laid his hand, Upon my heart, gently, not smiting it, But as a harper lays his open palm, Upon his harp, to deaden its vibrations.” Longfellow, The Golden Legend."
+                "type": "photo",
+                "url": "https://t.co/BhCBCx8Zr6"
             }
         ]
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 1,
+    "favorited": false,
+    "full_text": ".@usembislamabad quotes Longfellow in a 1969 poetic eulogy to @usairforce Communications Station “Badaber” in Peshawar, #Pakistan.  https://t.co/aWKMYsskKq #FRUS #nationalpoetrymonth https://t.co/BhCBCx8Zr6",
+    "geo": null,
+    "id": 988824514887811070,
+    "id_str": "988824514887811072",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 1,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

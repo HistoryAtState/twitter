@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Oct 28 13:50:36 +0000 2013",
-    "id": 394823518266728450,
-    "id_str": "394823518266728450",
-    "full_text": "The Office of the Historian released Foreign Relations, Arab-Israeli Dispute, January 1977–August 1978. http://t.co/ErEycC3kTx #FRUS",
-    "truncated": false,
     "display_text_range": [
         0,
         132
@@ -11,46 +9,48 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     127,
                     132
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/ErEycC3kTx",
-                "expanded_url": "http://go.usa.gov/DFuW",
                 "display_url": "go.usa.gov/DFuW",
+                "expanded_url": "http://go.usa.gov/DFuW",
                 "indices": [
                     104,
                     126
-                ]
+                ],
+                "url": "http://t.co/ErEycC3kTx"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "The Office of the Historian released Foreign Relations, Arab-Israeli Dispute, January 1977–August 1978. http://t.co/ErEycC3kTx #FRUS",
+    "geo": null,
+    "id": 394823518266728450,
+    "id_str": "394823518266728450",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 8,
+    "retweeted": false,
+    "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 8,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

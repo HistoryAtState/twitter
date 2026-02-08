@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Nov 15 21:30:50 +0000 2012",
-    "id": 269190747117473792,
-    "id_str": "269190747117473794",
-    "full_text": "How would US policy in Europe adjust to European Integration and Ostpolitik? Check out http://t.co/ySBnu9y5 #FRUS #twitterstorians",
-    "truncated": false,
     "display_text_range": [
         0,
         130
@@ -11,53 +9,55 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     108,
                     113
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "twitterstorians",
                 "indices": [
                     114,
                     130
-                ]
+                ],
+                "text": "twitterstorians"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/ySBnu9y5",
-                "expanded_url": "http://go.usa.gov/YJpm",
                 "display_url": "go.usa.gov/YJpm",
+                "expanded_url": "http://go.usa.gov/YJpm",
                 "indices": [
                     87,
                     107
-                ]
+                ],
+                "url": "http://t.co/ySBnu9y5"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 2,
+    "favorited": false,
+    "full_text": "How would US policy in Europe adjust to European Integration and Ostpolitik? Check out http://t.co/ySBnu9y5 #FRUS #twitterstorians",
+    "geo": null,
+    "id": 269190747117473792,
+    "id_str": "269190747117473794",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 5,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 5,
-    "favorite_count": 2,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

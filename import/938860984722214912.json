@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Dec 07 20:01:16 +0000 2017",
-    "id": 938860984722214910,
-    "id_str": "938860984722214912",
-    "full_text": "Now available: Foreign Relations, 1901, Appendix, Affairs in #China, Report of William W. Rockhill, Late Commissioner to China, with Accompanying Documents https://t.co/uZle0sGrt1 #FRUS",
-    "truncated": false,
     "display_text_range": [
         0,
         185
@@ -11,53 +9,55 @@
     "entities": {
         "hashtags": [
             {
-                "text": "China",
                 "indices": [
                     61,
                     67
-                ]
+                ],
+                "text": "China"
             },
             {
-                "text": "FRUS",
                 "indices": [
                     180,
                     185
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "https://t.co/uZle0sGrt1",
-                "expanded_url": "https://history.state.gov/historicaldocuments/frus1901China",
                 "display_url": "history.state.gov/historicaldocu…",
+                "expanded_url": "https://history.state.gov/historicaldocuments/frus1901China",
                 "indices": [
                     156,
                     179
-                ]
+                ],
+                "url": "https://t.co/uZle0sGrt1"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "Now available: Foreign Relations, 1901, Appendix, Affairs in #China, Report of William W. Rockhill, Late Commissioner to China, with Accompanying Documents https://t.co/uZle0sGrt1 #FRUS",
+    "geo": null,
+    "id": 938860984722214910,
+    "id_str": "938860984722214912",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

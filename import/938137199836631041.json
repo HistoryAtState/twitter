@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Dec 05 20:05:12 +0000 2017",
-    "id": 938137199836631040,
-    "id_str": "938137199836631041",
-    "full_text": ".@VOANews and USIA broadcast James Meredith’s enrollment at the University of Mississippi: https://t.co/NAtljp3NI5 #FRUS #twitterstorians @OleMissRebels",
-    "truncated": false,
     "display_text_range": [
         0,
         152
@@ -11,64 +9,66 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     115,
                     120
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "twitterstorians",
                 "indices": [
                     121,
                     137
-                ]
+                ],
+                "text": "twitterstorians"
             }
         ],
         "symbols": [],
+        "urls": [
+            {
+                "display_url": "history.state.gov/historicaldocu…",
+                "expanded_url": "https://history.state.gov/historicaldocuments/frus1917-72PubDipv06/d95",
+                "indices": [
+                    91,
+                    114
+                ],
+                "url": "https://t.co/NAtljp3NI5"
+            }
+        ],
         "user_mentions": [
             {
-                "screen_name": "VOANews",
-                "name": "Voice of America",
                 "id": 16273831,
                 "id_str": "16273831",
                 "indices": [
                     1,
                     9
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "https://t.co/NAtljp3NI5",
-                "expanded_url": "https://history.state.gov/historicaldocuments/frus1917-72PubDipv06/d95",
-                "display_url": "history.state.gov/historicaldocu…",
-                "indices": [
-                    91,
-                    114
-                ]
+                ],
+                "name": "Voice of America",
+                "screen_name": "VOANews"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": ".@VOANews and USIA broadcast James Meredith’s enrollment at the University of Mississippi: https://t.co/NAtljp3NI5 #FRUS #twitterstorians @OleMissRebels",
+    "geo": null,
+    "id": 938137199836631040,
+    "id_str": "938137199836631041",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

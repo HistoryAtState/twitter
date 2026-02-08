@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Mar 20 17:20:34 +0000 2014",
-    "id": 446697821455257600,
-    "id_str": "446697821455257602",
-    "full_text": "In 1965, Pres. LBJ announced #Water for Peace program to ensure “water for all humanity.” http://t.co/RysUbpmdiV #WorldWaterDay",
-    "truncated": false,
     "display_text_range": [
         0,
         127
@@ -11,53 +9,55 @@
     "entities": {
         "hashtags": [
             {
-                "text": "Water",
                 "indices": [
                     29,
                     35
-                ]
+                ],
+                "text": "Water"
             },
             {
-                "text": "WorldWaterDay",
                 "indices": [
                     113,
                     127
-                ]
+                ],
+                "text": "WorldWaterDay"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/RysUbpmdiV",
-                "expanded_url": "http://ow.ly/uHqZK",
                 "display_url": "ow.ly/uHqZK",
+                "expanded_url": "http://ow.ly/uHqZK",
                 "indices": [
                     90,
                     112
-                ]
+                ],
+                "url": "http://t.co/RysUbpmdiV"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 1,
+    "favorited": false,
+    "full_text": "In 1965, Pres. LBJ announced #Water for Peace program to ensure “water for all humanity.” http://t.co/RysUbpmdiV #WorldWaterDay",
+    "geo": null,
+    "id": 446697821455257600,
+    "id_str": "446697821455257602",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 1,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

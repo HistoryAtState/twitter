@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Wed Mar 22 12:30:53 +0000 2017",
-    "id": 844526794883649540,
-    "id_str": "844526794883649537",
-    "full_text": "#SecState Rusk proposed #Water for Peace Office to direct U.S. int’l water-related activities in 1967 #WorldWaterDay https://t.co/dtX8p83MK0",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,60 +9,62 @@
     "entities": {
         "hashtags": [
             {
-                "text": "SecState",
                 "indices": [
                     0,
                     9
-                ]
+                ],
+                "text": "SecState"
             },
             {
-                "text": "Water",
                 "indices": [
                     24,
                     30
-                ]
+                ],
+                "text": "Water"
             },
             {
-                "text": "WorldWaterDay",
                 "indices": [
                     102,
                     116
-                ]
+                ],
+                "text": "WorldWaterDay"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "https://t.co/dtX8p83MK0",
-                "expanded_url": "http://go.usa.gov/KQ2Y",
                 "display_url": "go.usa.gov/KQ2Y",
+                "expanded_url": "http://go.usa.gov/KQ2Y",
                 "indices": [
                     117,
                     140
-                ]
+                ],
+                "url": "https://t.co/dtX8p83MK0"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "#SecState Rusk proposed #Water for Peace Office to direct U.S. int’l water-related activities in 1967 #WorldWaterDay https://t.co/dtX8p83MK0",
+    "geo": null,
+    "id": 844526794883649540,
+    "id_str": "844526794883649537",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

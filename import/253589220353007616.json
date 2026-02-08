@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Wed Oct 03 20:15:56 +0000 2012",
-    "id": 253589220353007616,
-    "id_str": "253589220353007616",
-    "full_text": "RT @state_io: #UN History Project Opens at Harvard University: http://t.co/4c40HDYk (via @undispatch)",
-    "truncated": false,
     "display_text_range": [
         0,
         101
@@ -11,67 +9,69 @@
     "entities": {
         "hashtags": [
             {
-                "text": "UN",
                 "indices": [
                     14,
                     17
-                ]
+                ],
+                "text": "UN"
             }
         ],
         "symbols": [],
+        "urls": [
+            {
+                "display_url": "ow.ly/ecc62",
+                "expanded_url": "http://ow.ly/ecc62",
+                "indices": [
+                    63,
+                    83
+                ],
+                "url": "http://t.co/4c40HDYk"
+            }
+        ],
         "user_mentions": [
             {
-                "screen_name": "State_IO",
-                "name": "Ambassador Michele Sison",
                 "id": 475210759,
                 "id_str": "475210759",
                 "indices": [
                     3,
                     12
-                ]
+                ],
+                "name": "Ambassador Michele Sison",
+                "screen_name": "State_IO"
             },
             {
-                "screen_name": "undispatch",
-                "name": "UN Dispatch",
                 "id": 8886812,
                 "id_str": "8886812",
                 "indices": [
                     89,
                     100
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "http://t.co/4c40HDYk",
-                "expanded_url": "http://ow.ly/ecc62",
-                "display_url": "ow.ly/ecc62",
-                "indices": [
-                    63,
-                    83
-                ]
+                ],
+                "name": "UN Dispatch",
+                "screen_name": "undispatch"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "RT @state_io: #UN History Project Opens at Harvard University: http://t.co/4c40HDYk (via @undispatch)",
+    "geo": null,
+    "id": 253589220353007616,
+    "id_str": "253589220353007616",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

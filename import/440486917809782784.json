@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Mar 03 14:00:39 +0000 2014",
-    "id": 440486917809782780,
-    "id_str": "440486917809782784",
-    "full_text": "As of 1979, #HumanRights reports are required of all UN countries. http://t.co/sTRD2tf9w6",
-    "truncated": false,
     "display_text_range": [
         0,
         89
@@ -11,46 +9,48 @@
     "entities": {
         "hashtags": [
             {
-                "text": "HumanRights",
                 "indices": [
                     12,
                     24
-                ]
+                ],
+                "text": "HumanRights"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/sTRD2tf9w6",
-                "expanded_url": "http://go.usa.gov/BsFm",
                 "display_url": "go.usa.gov/BsFm",
+                "expanded_url": "http://go.usa.gov/BsFm",
                 "indices": [
                     67,
                     89
-                ]
+                ],
+                "url": "http://t.co/sTRD2tf9w6"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "As of 1979, #HumanRights reports are required of all UN countries. http://t.co/sTRD2tf9w6",
+    "geo": null,
+    "id": 440486917809782780,
+    "id_str": "440486917809782784",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

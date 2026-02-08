@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Fri Jun 10 17:02:00 +0000 2016",
-    "id": 741314485303005180,
-    "id_str": "741314485303005184",
-    "full_text": "Could public diplomacy efforts have helped develop support for Camp David Accords? Find out: https://t.co/M3qyu0co3X #FRUS #twitterstorians",
-    "truncated": false,
     "display_text_range": [
         0,
         139
@@ -11,53 +9,55 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     117,
                     122
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "twitterstorians",
                 "indices": [
                     123,
                     139
-                ]
+                ],
+                "text": "twitterstorians"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "https://t.co/M3qyu0co3X",
-                "expanded_url": "http://go.usa.gov/cutNW",
                 "display_url": "go.usa.gov/cutNW",
+                "expanded_url": "http://go.usa.gov/cutNW",
                 "indices": [
                     93,
                     116
-                ]
+                ],
+                "url": "https://t.co/M3qyu0co3X"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "Could public diplomacy efforts have helped develop support for Camp David Accords? Find out: https://t.co/M3qyu0co3X #FRUS #twitterstorians",
+    "geo": null,
+    "id": 741314485303005180,
+    "id_str": "741314485303005184",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

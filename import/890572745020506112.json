@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Jul 27 14:01:03 +0000 2017",
-    "id": 890572745020506110,
-    "id_str": "890572745020506112",
-    "full_text": "#happybirthday @StateDept! Celebrate by reading the #history of #foreignaffairs in #FRUS! https://t.co/L2Rj45aLre",
-    "truncated": false,
     "display_text_range": [
         0,
         113
@@ -11,78 +9,80 @@
     "entities": {
         "hashtags": [
             {
-                "text": "happybirthday",
                 "indices": [
                     0,
                     14
-                ]
+                ],
+                "text": "happybirthday"
             },
             {
-                "text": "history",
                 "indices": [
                     52,
                     60
-                ]
+                ],
+                "text": "history"
             },
             {
-                "text": "foreignaffairs",
                 "indices": [
                     64,
                     79
-                ]
+                ],
+                "text": "foreignaffairs"
             },
             {
-                "text": "FRUS",
                 "indices": [
                     83,
                     88
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "symbols": [],
+        "urls": [
+            {
+                "display_url": "history.state.gov",
+                "expanded_url": "https://history.state.gov/",
+                "indices": [
+                    90,
+                    113
+                ],
+                "url": "https://t.co/L2Rj45aLre"
+            }
+        ],
         "user_mentions": [
             {
-                "screen_name": "StateDept",
-                "name": "Department of State",
                 "id": 9624742,
                 "id_str": "9624742",
                 "indices": [
                     15,
                     25
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "https://t.co/L2Rj45aLre",
-                "expanded_url": "https://history.state.gov/",
-                "display_url": "history.state.gov",
-                "indices": [
-                    90,
-                    113
-                ]
+                ],
+                "name": "Department of State",
+                "screen_name": "StateDept"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 101,
+    "favorited": false,
+    "full_text": "#happybirthday @StateDept! Celebrate by reading the #history of #foreignaffairs in #FRUS! https://t.co/L2Rj45aLre",
+    "geo": null,
+    "id": 890572745020506110,
+    "id_str": "890572745020506112",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 68,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 68,
-    "favorite_count": 101,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

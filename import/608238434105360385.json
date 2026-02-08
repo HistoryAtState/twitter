@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Jun 09 11:45:17 +0000 2015",
-    "id": 608238434105360380,
-    "id_str": "608238434105360385",
-    "full_text": "USS Jason: Christmas Ship &amp;amp; transporter of million-dollar art collections from #WW1 Europe to #SF #WorldExpo http://t.co/B149FhNChV",
-    "truncated": false,
     "display_text_range": [
         0,
         135
@@ -11,60 +9,62 @@
     "entities": {
         "hashtags": [
             {
-                "text": "WW1",
                 "indices": [
                     83,
                     87
-                ]
+                ],
+                "text": "WW1"
             },
             {
-                "text": "SF",
                 "indices": [
                     98,
                     101
-                ]
+                ],
+                "text": "SF"
             },
             {
-                "text": "WorldExpo",
                 "indices": [
                     102,
                     112
-                ]
+                ],
+                "text": "WorldExpo"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/B149FhNChV",
-                "expanded_url": "http://ow.ly/O2H0f",
                 "display_url": "ow.ly/O2H0f",
+                "expanded_url": "http://ow.ly/O2H0f",
                 "indices": [
                     113,
                     135
-                ]
+                ],
+                "url": "http://t.co/B149FhNChV"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "USS Jason: Christmas Ship &amp;amp; transporter of million-dollar art collections from #WW1 Europe to #SF #WorldExpo http://t.co/B149FhNChV",
+    "geo": null,
+    "id": 608238434105360380,
+    "id_str": "608238434105360385",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

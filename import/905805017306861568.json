@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Sep 07 14:48:39 +0000 2017",
-    "id": 905805017306861570,
-    "id_str": "905805017306861568",
-    "full_text": "RT @StateDept: .@HistoryAtState has released 32 newly digitized volumes of #ForeignRelationsoftheUnitedStates from 1920-1941: https://t.co/…",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,58 +9,58 @@
     "entities": {
         "hashtags": [
             {
-                "text": "ForeignRelationsoftheUnitedStates",
                 "indices": [
                     75,
                     109
-                ]
+                ],
+                "text": "ForeignRelationsoftheUnitedStates"
             }
         ],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "StateDept",
-                "name": "Department of State",
                 "id": 9624742,
                 "id_str": "9624742",
                 "indices": [
                     3,
                     13
-                ]
+                ],
+                "name": "Department of State",
+                "screen_name": "StateDept"
             },
             {
-                "screen_name": "HistoryAtState",
-                "name": "HistoryAtState",
                 "id": 586570880,
                 "id_str": "586570880",
                 "indices": [
                     16,
                     31
-                ]
+                ],
+                "name": "HistoryAtState",
+                "screen_name": "HistoryAtState"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"&gt;Twitter for iPad&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "RT @StateDept: .@HistoryAtState has released 32 newly digitized volumes of #ForeignRelationsoftheUnitedStates from 1920-1941: https://t.co/…",
+    "geo": null,
+    "id": 905805017306861570,
+    "id_str": "905805017306861568",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "retweet_count": 51,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Wed Sep 06 17:41:25 +0000 2017",
-        "id": 905486105482592260,
-        "id_str": "905486105482592256",
-        "full_text": ".@HistoryAtState has released 32 newly digitized volumes of #ForeignRelationsoftheUnitedStates from 1920-1941: https://t.co/G1Iwc7Dbm7",
-        "truncated": false,
         "display_text_range": [
             0,
             134
@@ -70,64 +68,66 @@
         "entities": {
             "hashtags": [
                 {
-                    "text": "ForeignRelationsoftheUnitedStates",
                     "indices": [
                         60,
                         94
-                    ]
+                    ],
+                    "text": "ForeignRelationsoftheUnitedStates"
                 }
             ],
             "symbols": [],
+            "urls": [
+                {
+                    "display_url": "go.usa.gov/xR68X",
+                    "expanded_url": "https://go.usa.gov/xR68X",
+                    "indices": [
+                        111,
+                        134
+                    ],
+                    "url": "https://t.co/G1Iwc7Dbm7"
+                }
+            ],
             "user_mentions": [
                 {
-                    "screen_name": "HistoryAtState",
-                    "name": "HistoryAtState",
                     "id": 586570880,
                     "id_str": "586570880",
                     "indices": [
                         1,
                         16
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "https://t.co/G1Iwc7Dbm7",
-                    "expanded_url": "https://go.usa.gov/xR68X",
-                    "display_url": "go.usa.gov/xR68X",
-                    "indices": [
-                        111,
-                        134
-                    ]
+                    ],
+                    "name": "HistoryAtState",
+                    "screen_name": "HistoryAtState"
                 }
             ]
         },
-        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+        "favorite_count": 68,
+        "favorited": false,
+        "full_text": ".@HistoryAtState has released 32 newly digitized volumes of #ForeignRelationsoftheUnitedStates from 1920-1941: https://t.co/G1Iwc7Dbm7",
+        "geo": null,
+        "id": 905486105482592260,
+        "id_str": "905486105482592256",
+        "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 51,
+        "retweeted": true,
+        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+        "truncated": false,
         "user": {
             "id": 9624742,
             "id_str": "9624742"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 51,
-        "favorite_count": 68,
-        "favorited": false,
-        "retweeted": true,
-        "possibly_sensitive": false,
-        "lang": "en"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 51,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": true,
-    "lang": "en"
+    "source": "&lt;a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"&gt;Twitter for iPad&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

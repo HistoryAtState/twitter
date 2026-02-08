@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Oct 01 15:24:51 +0000 2018",
-    "id": 1046783004696346620,
-    "id_str": "1046783004696346624",
-    "full_text": "Interested in how USIA covered the Apollo 11 moon landing? Read Frank Shakespeare’s memo to President Nixon in #FRUS https://t.co/ZHm9bInkqn @NASA @NASAhistory",
-    "truncated": false,
     "display_text_range": [
         0,
         159
@@ -11,67 +9,69 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     111,
                     116
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "symbols": [],
+        "urls": [
+            {
+                "display_url": "history.state.gov/historicaldocu…",
+                "expanded_url": "https://www.history.state.gov/historicaldocuments/frus1917-72PubDipv08/d29",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/ZHm9bInkqn"
+            }
+        ],
         "user_mentions": [
             {
-                "screen_name": "NASA",
-                "name": "NASA",
                 "id": 11348282,
                 "id_str": "11348282",
                 "indices": [
                     141,
                     146
-                ]
+                ],
+                "name": "NASA",
+                "screen_name": "NASA"
             },
             {
-                "screen_name": "NASAhistory",
-                "name": "NASA History Office",
                 "id": 153784150,
                 "id_str": "153784150",
                 "indices": [
                     147,
                     159
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "https://t.co/ZHm9bInkqn",
-                "expanded_url": "https://www.history.state.gov/historicaldocuments/frus1917-72PubDipv08/d29",
-                "display_url": "history.state.gov/historicaldocu…",
-                "indices": [
-                    117,
-                    140
-                ]
+                ],
+                "name": "NASA History Office",
+                "screen_name": "NASAhistory"
             }
         ]
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 4,
+    "favorited": false,
+    "full_text": "Interested in how USIA covered the Apollo 11 moon landing? Read Frank Shakespeare’s memo to President Nixon in #FRUS https://t.co/ZHm9bInkqn @NASA @NASAhistory",
+    "geo": null,
+    "id": 1046783004696346620,
+    "id_str": "1046783004696346624",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 6,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 4,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

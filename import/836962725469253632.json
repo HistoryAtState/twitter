@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Wed Mar 01 15:33:58 +0000 2017",
-    "id": 836962725469253630,
-    "id_str": "836962725469253632",
-    "full_text": ".@madeleine  Albright, first female #SecState (1997-2001): https://t.co/PLDtZlmzSk #womenshistorymonth @StateDept #twitterstorians #frus https://t.co/3MSLlPikOj",
-    "truncated": false,
     "display_text_range": [
         0,
         136
@@ -11,70 +9,38 @@
     "entities": {
         "hashtags": [
             {
-                "text": "SecState",
                 "indices": [
                     36,
                     45
-                ]
+                ],
+                "text": "SecState"
             },
             {
-                "text": "womenshistorymonth",
                 "indices": [
                     83,
                     102
-                ]
+                ],
+                "text": "womenshistorymonth"
             },
             {
-                "text": "twitterstorians",
                 "indices": [
                     114,
                     130
-                ]
+                ],
+                "text": "twitterstorians"
             },
             {
-                "text": "frus",
                 "indices": [
                     131,
                     136
-                ]
-            }
-        ],
-        "symbols": [],
-        "user_mentions": [
-            {
-                "screen_name": "madeleine",
-                "name": "Madeleine Albright",
-                "id": 1707321486,
-                "id_str": "1707321486",
-                "indices": [
-                    1,
-                    11
-                ]
-            },
-            {
-                "screen_name": "StateDept",
-                "name": "Department of State",
-                "id": 9624742,
-                "id_str": "9624742",
-                "indices": [
-                    103,
-                    113
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "https://t.co/PLDtZlmzSk",
-                "expanded_url": "https://go.usa.gov/xX3a3",
-                "display_url": "go.usa.gov/xX3a3",
-                "indices": [
-                    59,
-                    82
-                ]
+                ],
+                "text": "frus"
             }
         ],
         "media": [
             {
+                "display_url": "pic.twitter.com/3MSLlPikOj",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/836962725469253632/photo/1",
                 "id": 836962723934126080,
                 "id_str": "836962723934126080",
                 "indices": [
@@ -83,38 +49,73 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/C519KbpWQAAjvb1.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/C519KbpWQAAjvb1.jpg",
-                "url": "https://t.co/3MSLlPikOj",
-                "display_url": "pic.twitter.com/3MSLlPikOj",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/836962725469253632/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "small": {
-                        "w": 75,
+                    "large": {
                         "h": 103,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 75
                     },
                     "medium": {
-                        "w": 75,
                         "h": 103,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 75
                     },
-                    "large": {
-                        "w": 75,
+                    "small": {
                         "h": 103,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 75
                     },
                     "thumb": {
-                        "w": 75,
                         "h": 75,
-                        "resize": "crop"
+                        "resize": "crop",
+                        "w": 75
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/3MSLlPikOj"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "go.usa.gov/xX3a3",
+                "expanded_url": "https://go.usa.gov/xX3a3",
+                "indices": [
+                    59,
+                    82
+                ],
+                "url": "https://t.co/PLDtZlmzSk"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 1707321486,
+                "id_str": "1707321486",
+                "indices": [
+                    1,
+                    11
+                ],
+                "name": "Madeleine Albright",
+                "screen_name": "madeleine"
+            },
+            {
+                "id": 9624742,
+                "id_str": "9624742",
+                "indices": [
+                    103,
+                    113
+                ],
+                "name": "Department of State",
+                "screen_name": "StateDept"
             }
         ]
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/3MSLlPikOj",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/836962725469253632/photo/1",
+                "ext_alt_text": null,
                 "id": 836962723934126080,
                 "id_str": "836962723934126080",
                 "indices": [
@@ -123,55 +124,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/C519KbpWQAAjvb1.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/C519KbpWQAAjvb1.jpg",
-                "url": "https://t.co/3MSLlPikOj",
-                "display_url": "pic.twitter.com/3MSLlPikOj",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/836962725469253632/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "small": {
-                        "w": 75,
+                    "large": {
                         "h": 103,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 75
                     },
                     "medium": {
-                        "w": 75,
                         "h": 103,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 75
                     },
-                    "large": {
-                        "w": 75,
+                    "small": {
                         "h": 103,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 75
                     },
                     "thumb": {
-                        "w": 75,
                         "h": 75,
-                        "resize": "crop"
+                        "resize": "crop",
+                        "w": 75
                     }
                 },
-                "ext_alt_text": null
+                "type": "photo",
+                "url": "https://t.co/3MSLlPikOj"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 13,
+    "favorited": false,
+    "full_text": ".@madeleine  Albright, first female #SecState (1997-2001): https://t.co/PLDtZlmzSk #womenshistorymonth @StateDept #twitterstorians #frus https://t.co/3MSLlPikOj",
+    "geo": null,
+    "id": 836962725469253630,
+    "id_str": "836962725469253632",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 14,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 14,
-    "favorite_count": 13,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

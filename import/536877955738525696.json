@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Nov 24 13:44:14 +0000 2014",
-    "id": 536877955738525700,
-    "id_str": "536877955738525696",
-    "full_text": "See where #FRUS documents are found with this visualization of the archival provenance of 6 Carter-era volumes: http://t.co/MpRRSDYAZQ #dh",
-    "truncated": false,
     "display_text_range": [
         0,
         138
@@ -11,53 +9,55 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     10,
                     15
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "dh",
                 "indices": [
                     135,
                     138
-                ]
+                ],
+                "text": "dh"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/MpRRSDYAZQ",
-                "expanded_url": "http://bit.ly/15dPD2G",
                 "display_url": "bit.ly/15dPD2G",
+                "expanded_url": "http://bit.ly/15dPD2G",
                 "indices": [
                     112,
                     134
-                ]
+                ],
+                "url": "http://t.co/MpRRSDYAZQ"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "See where #FRUS documents are found with this visualization of the archival provenance of 6 Carter-era volumes: http://t.co/MpRRSDYAZQ #dh",
+    "geo": null,
+    "id": 536877955738525700,
+    "id_str": "536877955738525696",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

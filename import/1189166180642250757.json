@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Oct 29 13:04:45 +0000 2019",
-    "id": 1189166180642250750,
-    "id_str": "1189166180642250757",
-    "full_text": "RT @FSIatState: #BehindTheScenes from @AmDipStories as #FSI Dean and inaugural #HeroesofUSDiplomacy honoree Lizzie Slater discusses her act…",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,72 +9,72 @@
     "entities": {
         "hashtags": [
             {
-                "text": "BehindTheScenes",
                 "indices": [
                     16,
                     32
-                ]
+                ],
+                "text": "BehindTheScenes"
             },
             {
-                "text": "FSI",
                 "indices": [
                     55,
                     59
-                ]
+                ],
+                "text": "FSI"
             },
             {
-                "text": "HeroesofUSDiplomacy",
                 "indices": [
                     79,
                     99
-                ]
+                ],
+                "text": "HeroesofUSDiplomacy"
             }
         ],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "FSIatState",
-                "name": "Foreign Service Institute",
                 "id": 958044239576948740,
                 "id_str": "958044239576948736",
                 "indices": [
                     3,
                     14
-                ]
+                ],
+                "name": "Foreign Service Institute",
+                "screen_name": "FSIatState"
             },
             {
-                "screen_name": "amdipstories",
-                "name": "American Diplomat",
                 "id": 994278416072544260,
                 "id_str": "994278416072544259",
                 "indices": [
                     38,
                     51
-                ]
+                ],
+                "name": "American Diplomat",
+                "screen_name": "amdipstories"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "RT @FSIatState: #BehindTheScenes from @AmDipStories as #FSI Dean and inaugural #HeroesofUSDiplomacy honoree Lizzie Slater discusses her act…",
+    "geo": null,
+    "id": 1189166180642250750,
+    "id_str": "1189166180642250757",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "retweet_count": 4,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Mon Oct 28 18:00:54 +0000 2019",
-        "id": 1188878320236191740,
-        "id_str": "1188878320236191747",
-        "full_text": "#BehindTheScenes from @AmDipStories as #FSI Dean and inaugural #HeroesofUSDiplomacy honoree Lizzie Slater discusses her actions in the aftermath of the bombings in East Africa in 1998. Listen here: https://t.co/GRKb1YFWxY https://t.co/acvQVZHO4K",
-        "truncated": false,
         "display_text_range": [
             0,
             221
@@ -84,53 +82,31 @@
         "entities": {
             "hashtags": [
                 {
-                    "text": "BehindTheScenes",
                     "indices": [
                         0,
                         16
-                    ]
+                    ],
+                    "text": "BehindTheScenes"
                 },
                 {
-                    "text": "FSI",
                     "indices": [
                         39,
                         43
-                    ]
+                    ],
+                    "text": "FSI"
                 },
                 {
-                    "text": "HeroesofUSDiplomacy",
                     "indices": [
                         63,
                         83
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "amdipstories",
-                    "name": "American Diplomat",
-                    "id": 994278416072544260,
-                    "id_str": "994278416072544259",
-                    "indices": [
-                        22,
-                        35
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "https://t.co/GRKb1YFWxY",
-                    "expanded_url": "http://bit.ly/362cYV3",
-                    "display_url": "bit.ly/362cYV3",
-                    "indices": [
-                        198,
-                        221
-                    ]
+                    ],
+                    "text": "HeroesofUSDiplomacy"
                 }
             ],
             "media": [
                 {
+                    "display_url": "pic.twitter.com/acvQVZHO4K",
+                    "expanded_url": "https://twitter.com/FSIatState/status/1188878320236191747/photo/1",
                     "id": 1188878310362800130,
                     "id_str": "1188878310362800131",
                     "indices": [
@@ -139,38 +115,63 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/EH--hjpXYAMQOpG.jpg",
                     "media_url_https": "https://pbs.twimg.com/media/EH--hjpXYAMQOpG.jpg",
-                    "url": "https://t.co/acvQVZHO4K",
-                    "display_url": "pic.twitter.com/acvQVZHO4K",
-                    "expanded_url": "https://twitter.com/FSIatState/status/1188878320236191747/photo/1",
-                    "type": "photo",
                     "sizes": {
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
-                        },
                         "large": {
-                            "w": 2048,
                             "h": 1180,
-                            "resize": "fit"
-                        },
-                        "small": {
-                            "w": 680,
-                            "h": 392,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 2048
                         },
                         "medium": {
-                            "w": 1200,
                             "h": 692,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 1200
+                        },
+                        "small": {
+                            "h": 392,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
                         }
-                    }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/acvQVZHO4K"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "bit.ly/362cYV3",
+                    "expanded_url": "http://bit.ly/362cYV3",
+                    "indices": [
+                        198,
+                        221
+                    ],
+                    "url": "https://t.co/GRKb1YFWxY"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 994278416072544260,
+                    "id_str": "994278416072544259",
+                    "indices": [
+                        22,
+                        35
+                    ],
+                    "name": "American Diplomat",
+                    "screen_name": "amdipstories"
                 }
             ]
         },
         "extended_entities": {
             "media": [
                 {
+                    "display_url": "pic.twitter.com/acvQVZHO4K",
+                    "expanded_url": "https://twitter.com/FSIatState/status/1188878320236191747/photo/1",
+                    "ext_alt_text": null,
                     "id": 1188878310362800130,
                     "id_str": "1188878310362800131",
                     "indices": [
@@ -179,35 +180,35 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/EH--hjpXYAMQOpG.jpg",
                     "media_url_https": "https://pbs.twimg.com/media/EH--hjpXYAMQOpG.jpg",
-                    "url": "https://t.co/acvQVZHO4K",
-                    "display_url": "pic.twitter.com/acvQVZHO4K",
-                    "expanded_url": "https://twitter.com/FSIatState/status/1188878320236191747/photo/1",
-                    "type": "photo",
                     "sizes": {
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
-                        },
                         "large": {
-                            "w": 2048,
                             "h": 1180,
-                            "resize": "fit"
-                        },
-                        "small": {
-                            "w": 680,
-                            "h": 392,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 2048
                         },
                         "medium": {
-                            "w": 1200,
                             "h": 692,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 1200
+                        },
+                        "small": {
+                            "h": 392,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
                         }
                     },
-                    "ext_alt_text": null
+                    "type": "photo",
+                    "url": "https://t.co/acvQVZHO4K"
                 },
                 {
+                    "display_url": "pic.twitter.com/acvQVZHO4K",
+                    "expanded_url": "https://twitter.com/FSIatState/status/1188878320236191747/photo/1",
+                    "ext_alt_text": null,
                     "id": 1188878310434099200,
                     "id_str": "1188878310434099201",
                     "indices": [
@@ -216,35 +217,35 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/EH--hj6XUAEu8W-.jpg",
                     "media_url_https": "https://pbs.twimg.com/media/EH--hj6XUAEu8W-.jpg",
-                    "url": "https://t.co/acvQVZHO4K",
-                    "display_url": "pic.twitter.com/acvQVZHO4K",
-                    "expanded_url": "https://twitter.com/FSIatState/status/1188878320236191747/photo/1",
-                    "type": "photo",
                     "sizes": {
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
-                        },
                         "large": {
-                            "w": 2048,
                             "h": 1536,
-                            "resize": "fit"
-                        },
-                        "small": {
-                            "w": 680,
-                            "h": 510,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 2048
                         },
                         "medium": {
-                            "w": 1200,
                             "h": 900,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 1200
+                        },
+                        "small": {
+                            "h": 510,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
                         }
                     },
-                    "ext_alt_text": null
+                    "type": "photo",
+                    "url": "https://t.co/acvQVZHO4K"
                 },
                 {
+                    "display_url": "pic.twitter.com/acvQVZHO4K",
+                    "expanded_url": "https://twitter.com/FSIatState/status/1188878320236191747/photo/1",
+                    "ext_alt_text": null,
                     "id": 1188878310354362370,
                     "id_str": "1188878310354362368",
                     "indices": [
@@ -253,62 +254,61 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/EH--hjnWoAAs8DY.jpg",
                     "media_url_https": "https://pbs.twimg.com/media/EH--hjnWoAAs8DY.jpg",
-                    "url": "https://t.co/acvQVZHO4K",
-                    "display_url": "pic.twitter.com/acvQVZHO4K",
-                    "expanded_url": "https://twitter.com/FSIatState/status/1188878320236191747/photo/1",
-                    "type": "photo",
                     "sizes": {
                         "large": {
-                            "w": 1740,
                             "h": 2048,
-                            "resize": "fit"
-                        },
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
+                            "resize": "fit",
+                            "w": 1740
                         },
                         "medium": {
-                            "w": 1020,
                             "h": 1200,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 1020
                         },
                         "small": {
-                            "w": 578,
                             "h": 680,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 578
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
                         }
                     },
-                    "ext_alt_text": null
+                    "type": "photo",
+                    "url": "https://t.co/acvQVZHO4K"
                 }
             ]
         },
-        "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+        "favorite_count": 1,
+        "favorited": false,
+        "full_text": "#BehindTheScenes from @AmDipStories as #FSI Dean and inaugural #HeroesofUSDiplomacy honoree Lizzie Slater discusses her actions in the aftermath of the bombings in East Africa in 1998. Listen here: https://t.co/GRKb1YFWxY https://t.co/acvQVZHO4K",
+        "geo": null,
+        "id": 1188878320236191740,
+        "id_str": "1188878320236191747",
+        "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 4,
+        "retweeted": true,
+        "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+        "truncated": false,
         "user": {
             "id": 958044239576948740,
             "id_str": "958044239576948736"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 4,
-        "favorite_count": 1,
-        "favorited": false,
-        "retweeted": true,
-        "possibly_sensitive": false,
-        "lang": "en"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": true,
-    "lang": "en"
+    "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

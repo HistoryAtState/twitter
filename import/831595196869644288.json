@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Feb 14 20:05:19 +0000 2017",
-    "id": 831595196869644290,
-    "id_str": "831595196869644288",
-    "full_text": "What other #Valentines are there? Valentine tanks, discussed in 1943 by Gen Marshall at Casablanca Conference #FRUS https://t.co/h0rAn1wHSa https://t.co/m9oLGTAcLl",
-    "truncated": false,
     "display_text_range": [
         0,
         139
@@ -11,35 +9,24 @@
     "entities": {
         "hashtags": [
             {
-                "text": "Valentines",
                 "indices": [
                     11,
                     22
-                ]
+                ],
+                "text": "Valentines"
             },
             {
-                "text": "FRUS",
                 "indices": [
                     110,
                     115
-                ]
-            }
-        ],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
-            {
-                "url": "https://t.co/h0rAn1wHSa",
-                "expanded_url": "http://go.usa.gov/x9MGV",
-                "display_url": "go.usa.gov/x9MGV",
-                "indices": [
-                    116,
-                    139
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "media": [
             {
+                "display_url": "pic.twitter.com/m9oLGTAcLl",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/831595196869644288/photo/1",
                 "id": 831595194319507460,
                 "id_str": "831595194319507456",
                 "indices": [
@@ -48,38 +35,52 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/C4prbFpWEAA5n7N.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/C4prbFpWEAA5n7N.jpg",
-                "url": "https://t.co/m9oLGTAcLl",
-                "display_url": "pic.twitter.com/m9oLGTAcLl",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/831595196869644288/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
                     "large": {
-                        "w": 800,
                         "h": 569,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 800
                     },
                     "medium": {
-                        "w": 800,
                         "h": 569,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 800
                     },
                     "small": {
-                        "w": 680,
                         "h": 484,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/m9oLGTAcLl"
             }
-        ]
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "go.usa.gov/x9MGV",
+                "expanded_url": "http://go.usa.gov/x9MGV",
+                "indices": [
+                    116,
+                    139
+                ],
+                "url": "https://t.co/h0rAn1wHSa"
+            }
+        ],
+        "user_mentions": []
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/m9oLGTAcLl",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/831595196869644288/photo/1",
+                "ext_alt_text": null,
                 "id": 831595194319507460,
                 "id_str": "831595194319507456",
                 "indices": [
@@ -88,55 +89,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/C4prbFpWEAA5n7N.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/C4prbFpWEAA5n7N.jpg",
-                "url": "https://t.co/m9oLGTAcLl",
-                "display_url": "pic.twitter.com/m9oLGTAcLl",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/831595196869644288/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
                     "large": {
-                        "w": 800,
                         "h": 569,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 800
                     },
                     "medium": {
-                        "w": 800,
                         "h": 569,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 800
                     },
                     "small": {
-                        "w": 680,
                         "h": 484,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": null
+                "type": "photo",
+                "url": "https://t.co/m9oLGTAcLl"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 1,
+    "favorited": false,
+    "full_text": "What other #Valentines are there? Valentine tanks, discussed in 1943 by Gen Marshall at Casablanca Conference #FRUS https://t.co/h0rAn1wHSa https://t.co/m9oLGTAcLl",
+    "geo": null,
+    "id": 831595196869644290,
+    "id_str": "831595196869644288",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 1,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

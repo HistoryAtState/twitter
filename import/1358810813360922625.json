@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Feb 08 16:11:58 +0000 2021",
-    "id": 1358810813360922620,
-    "id_str": "1358810813360922625",
-    "full_text": "RT @USTreasury: We mourn the loss and celebrate the life of service &amp;amp; wisdom of former Treasury Secretary George Shultz. An American giant,…",
-    "truncated": false,
     "display_text_range": [
         0,
         144
@@ -11,40 +9,40 @@
     "entities": {
         "hashtags": [],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "USTreasury",
-                "name": "Treasury Department",
                 "id": 120176950,
                 "id_str": "120176950",
                 "indices": [
                     3,
                     14
-                ]
+                ],
+                "name": "Treasury Department",
+                "screen_name": "USTreasury"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": true,
+    "full_text": "RT @USTreasury: We mourn the loss and celebrate the life of service &amp;amp; wisdom of former Treasury Secretary George Shultz. An American giant,…",
+    "geo": null,
+    "id": 1358810813360922620,
+    "id_str": "1358810813360922625",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "retweet_count": 49,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Sun Feb 07 23:31:18 +0000 2021",
-        "id": 1358558988867170300,
-        "id_str": "1358558988867170309",
-        "full_text": "We mourn the loss and celebrate the life of service &amp;amp; wisdom of former Treasury Secretary George Shultz. An American giant, his decades of dedicated public service shaped our country &amp;amp; the work of this department forever. Our Treasury family sends condolences to his family.",
-        "truncated": false,
         "display_text_range": [
             0,
             282
@@ -52,34 +50,36 @@
         "entities": {
             "hashtags": [],
             "symbols": [],
-            "user_mentions": [],
-            "urls": []
+            "urls": [],
+            "user_mentions": []
         },
-        "source": "&lt;a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"&gt;Twitter for iPhone&lt;/a&gt;",
+        "favorite_count": 255,
+        "favorited": true,
+        "full_text": "We mourn the loss and celebrate the life of service &amp;amp; wisdom of former Treasury Secretary George Shultz. An American giant, his decades of dedicated public service shaped our country &amp;amp; the work of this department forever. Our Treasury family sends condolences to his family.",
+        "geo": null,
+        "id": 1358558988867170300,
+        "id_str": "1358558988867170309",
+        "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "retweet_count": 49,
+        "retweeted": true,
+        "source": "&lt;a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"&gt;Twitter for iPhone&lt;/a&gt;",
+        "truncated": false,
         "user": {
             "id": 120176950,
             "id_str": "120176950"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 49,
-        "favorite_count": 255,
-        "favorited": true,
-        "retweeted": true,
-        "lang": "en"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 49,
-    "favorite_count": 0,
-    "favorited": true,
-    "retweeted": true,
-    "lang": "en"
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

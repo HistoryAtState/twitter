@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon May 21 15:36:48 +0000 2018",
-    "id": 998588428919984130,
-    "id_str": "998588428919984129",
-    "full_text": "In #FRUS our recently digitized volumes from #WWI contain numerous items of interest to @RedCross and @ICRC historians and enthusiasts #twitterstorians",
-    "truncated": false,
     "display_text_range": [
         0,
         151
@@ -11,70 +9,72 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     3,
                     8
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "WWI",
                 "indices": [
                     45,
                     49
-                ]
+                ],
+                "text": "WWI"
             },
             {
-                "text": "twitterstorians",
                 "indices": [
                     135,
                     151
-                ]
+                ],
+                "text": "twitterstorians"
             }
         ],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "RedCross",
-                "name": "American Red Cross",
                 "id": 6519522,
                 "id_str": "6519522",
                 "indices": [
                     88,
                     97
-                ]
+                ],
+                "name": "American Red Cross",
+                "screen_name": "RedCross"
             },
             {
-                "screen_name": "ICRC",
-                "name": "ICRC",
                 "id": 85289376,
                 "id_str": "85289376",
                 "indices": [
                     102,
                     107
-                ]
+                ],
+                "name": "ICRC",
+                "screen_name": "ICRC"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 2,
+    "favorited": false,
+    "full_text": "In #FRUS our recently digitized volumes from #WWI contain numerous items of interest to @RedCross and @ICRC historians and enthusiasts #twitterstorians",
+    "geo": null,
+    "id": 998588428919984130,
+    "id_str": "998588428919984129",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 2,
-    "favorited": false,
-    "retweeted": false,
-    "lang": "en"
+    }
 }

@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Aug 13 17:17:59 +0000 2015",
-    "id": 631877372271292420,
-    "id_str": "631877372271292416",
-    "full_text": "RT @EngageState: Piece of #berlinwall delivered to @StateDept today 4 installation @DiplomacyCenter. http://t.co/jY3ws6OQFa (AP Photo) http…",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,78 +9,79 @@
     "entities": {
         "hashtags": [
             {
-                "text": "berlinwall",
                 "indices": [
                     26,
                     37
-                ]
+                ],
+                "text": "berlinwall"
             }
         ],
         "symbols": [],
+        "urls": [
+            {
+                "display_url": "goo.gl/SxuPvp",
+                "expanded_url": "http://goo.gl/SxuPvp",
+                "indices": [
+                    101,
+                    123
+                ],
+                "url": "http://t.co/jY3ws6OQFa"
+            }
+        ],
         "user_mentions": [
             {
-                "screen_name": "EngageState",
-                "name": "Engage State",
                 "id": 128594349,
                 "id_str": "128594349",
                 "indices": [
                     3,
                     15
-                ]
+                ],
+                "name": "Engage State",
+                "screen_name": "EngageState"
             },
             {
-                "screen_name": "StateDept",
-                "name": "Department of State",
                 "id": 9624742,
                 "id_str": "9624742",
                 "indices": [
                     51,
                     61
-                ]
+                ],
+                "name": "Department of State",
+                "screen_name": "StateDept"
             },
             {
-                "screen_name": "diplomacycenter",
-                "name": "NMAD Museum",
                 "id": 1180122509204701180,
                 "id_str": "1180122509204701186",
                 "indices": [
                     83,
                     99
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "http://t.co/jY3ws6OQFa",
-                "expanded_url": "http://goo.gl/SxuPvp",
-                "display_url": "goo.gl/SxuPvp",
-                "indices": [
-                    101,
-                    123
-                ]
+                ],
+                "name": "NMAD Museum",
+                "screen_name": "diplomacycenter"
             }
         ]
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "RT @EngageState: Piece of #berlinwall delivered to @StateDept today 4 installation @DiplomacyCenter. http://t.co/jY3ws6OQFa (AP Photo) http…",
+    "geo": null,
+    "id": 631877372271292420,
+    "id_str": "631877372271292416",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4,
+    "retweeted": false,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Thu Aug 13 14:29:03 +0000 2015",
-        "id": 631834858369777660,
-        "id_str": "631834858369777665",
-        "full_text": "Piece of #berlinwall delivered to @StateDept today 4 installation @DiplomacyCenter. http://t.co/jY3ws6OQFa (AP Photo) http://t.co/ix3AHBvaix",
-        "truncated": false,
         "display_text_range": [
             0,
             140
@@ -90,49 +89,17 @@
         "entities": {
             "hashtags": [
                 {
-                    "text": "berlinwall",
                     "indices": [
                         9,
                         20
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "StateDept",
-                    "name": "Department of State",
-                    "id": 9624742,
-                    "id_str": "9624742",
-                    "indices": [
-                        34,
-                        44
-                    ]
-                },
-                {
-                    "screen_name": "diplomacycenter",
-                    "name": "NMAD Museum",
-                    "id": 1180122509204701180,
-                    "id_str": "1180122509204701186",
-                    "indices": [
-                        66,
-                        82
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "http://t.co/jY3ws6OQFa",
-                    "expanded_url": "http://goo.gl/SxuPvp",
-                    "display_url": "goo.gl/SxuPvp",
-                    "indices": [
-                        84,
-                        106
-                    ]
+                    ],
+                    "text": "berlinwall"
                 }
             ],
             "media": [
                 {
+                    "display_url": "pic.twitter.com/ix3AHBvaix",
+                    "expanded_url": "https://twitter.com/EngageState/status/631834858369777665/photo/1",
                     "id": 631834857325223940,
                     "id_str": "631834857325223936",
                     "indices": [
@@ -141,38 +108,73 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/CMS6dIOUYAA4Mqq.jpg",
                     "media_url_https": "https://pbs.twimg.com/media/CMS6dIOUYAA4Mqq.jpg",
-                    "url": "http://t.co/ix3AHBvaix",
-                    "display_url": "pic.twitter.com/ix3AHBvaix",
-                    "expanded_url": "https://twitter.com/EngageState/status/631834858369777665/photo/1",
-                    "type": "photo",
                     "sizes": {
                         "large": {
-                            "w": 2048,
                             "h": 1374,
-                            "resize": "fit"
-                        },
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
+                            "resize": "fit",
+                            "w": 2048
                         },
                         "medium": {
-                            "w": 1200,
                             "h": 805,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 1200
                         },
                         "small": {
-                            "w": 680,
                             "h": 456,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
                         }
-                    }
+                    },
+                    "type": "photo",
+                    "url": "http://t.co/ix3AHBvaix"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "goo.gl/SxuPvp",
+                    "expanded_url": "http://goo.gl/SxuPvp",
+                    "indices": [
+                        84,
+                        106
+                    ],
+                    "url": "http://t.co/jY3ws6OQFa"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 9624742,
+                    "id_str": "9624742",
+                    "indices": [
+                        34,
+                        44
+                    ],
+                    "name": "Department of State",
+                    "screen_name": "StateDept"
+                },
+                {
+                    "id": 1180122509204701180,
+                    "id_str": "1180122509204701186",
+                    "indices": [
+                        66,
+                        82
+                    ],
+                    "name": "NMAD Museum",
+                    "screen_name": "diplomacycenter"
                 }
             ]
         },
         "extended_entities": {
             "media": [
                 {
+                    "display_url": "pic.twitter.com/ix3AHBvaix",
+                    "expanded_url": "https://twitter.com/EngageState/status/631834858369777665/photo/1",
+                    "ext_alt_text": null,
                     "id": 631834857325223940,
                     "id_str": "631834857325223936",
                     "indices": [
@@ -181,63 +183,61 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/CMS6dIOUYAA4Mqq.jpg",
                     "media_url_https": "https://pbs.twimg.com/media/CMS6dIOUYAA4Mqq.jpg",
-                    "url": "http://t.co/ix3AHBvaix",
-                    "display_url": "pic.twitter.com/ix3AHBvaix",
-                    "expanded_url": "https://twitter.com/EngageState/status/631834858369777665/photo/1",
-                    "type": "photo",
                     "sizes": {
                         "large": {
-                            "w": 2048,
                             "h": 1374,
-                            "resize": "fit"
-                        },
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
+                            "resize": "fit",
+                            "w": 2048
                         },
                         "medium": {
-                            "w": 1200,
                             "h": 805,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 1200
                         },
                         "small": {
-                            "w": 680,
                             "h": 456,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
                         }
                     },
-                    "ext_alt_text": null
+                    "type": "photo",
+                    "url": "http://t.co/ix3AHBvaix"
                 }
             ]
         },
-        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+        "favorite_count": 1,
+        "favorited": false,
+        "full_text": "Piece of #berlinwall delivered to @StateDept today 4 installation @DiplomacyCenter. http://t.co/jY3ws6OQFa (AP Photo) http://t.co/ix3AHBvaix",
+        "geo": null,
+        "id": 631834858369777660,
+        "id_str": "631834858369777665",
+        "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 4,
+        "retweeted": false,
+        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+        "truncated": false,
         "user": {
             "id": 128594349,
             "id_str": "128594349"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 4,
-        "favorite_count": 1,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

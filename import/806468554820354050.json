@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Wed Dec 07 12:01:01 +0000 2016",
-    "id": 806468554820354050,
-    "id_str": "806468554820354050",
-    "full_text": ".@StateDept reconstructs plans and timeline in 1946 for #PearlHarbor attacks: https://t.co/iMgSP5JgYU #FRUS #OTD #WWII @USNHistory https://t.co/4694HT33ji",
-    "truncated": false,
     "display_text_range": [
         0,
         130
@@ -11,70 +9,38 @@
     "entities": {
         "hashtags": [
             {
-                "text": "PearlHarbor",
                 "indices": [
                     56,
                     68
-                ]
+                ],
+                "text": "PearlHarbor"
             },
             {
-                "text": "FRUS",
                 "indices": [
                     102,
                     107
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "OTD",
                 "indices": [
                     108,
                     112
-                ]
+                ],
+                "text": "OTD"
             },
             {
-                "text": "WWII",
                 "indices": [
                     113,
                     118
-                ]
-            }
-        ],
-        "symbols": [],
-        "user_mentions": [
-            {
-                "screen_name": "StateDept",
-                "name": "Department of State",
-                "id": 9624742,
-                "id_str": "9624742",
-                "indices": [
-                    1,
-                    11
-                ]
-            },
-            {
-                "screen_name": "USNHistory",
-                "name": "U.S. Naval History",
-                "id": 37940492,
-                "id_str": "37940492",
-                "indices": [
-                    119,
-                    130
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "https://t.co/iMgSP5JgYU",
-                "expanded_url": "http://go.usa.gov/x8m4P",
-                "display_url": "go.usa.gov/x8m4P",
-                "indices": [
-                    78,
-                    101
-                ]
+                ],
+                "text": "WWII"
             }
         ],
         "media": [
             {
+                "display_url": "pic.twitter.com/4694HT33ji",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/806468554820354050/photo/1",
                 "id": 806468552626728960,
                 "id_str": "806468552626728961",
                 "indices": [
@@ -83,38 +49,73 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/CzEm4DHW8AENF4u.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/CzEm4DHW8AENF4u.jpg",
-                "url": "https://t.co/4694HT33ji",
-                "display_url": "pic.twitter.com/4694HT33ji",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/806468554820354050/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
+                    "large": {
+                        "h": 512,
+                        "resize": "fit",
+                        "w": 769
                     },
                     "medium": {
-                        "w": 769,
                         "h": 512,
-                        "resize": "fit"
-                    },
-                    "large": {
-                        "w": 769,
-                        "h": 512,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 769
                     },
                     "small": {
-                        "w": 680,
                         "h": 453,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/4694HT33ji"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "go.usa.gov/x8m4P",
+                "expanded_url": "http://go.usa.gov/x8m4P",
+                "indices": [
+                    78,
+                    101
+                ],
+                "url": "https://t.co/iMgSP5JgYU"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 9624742,
+                "id_str": "9624742",
+                "indices": [
+                    1,
+                    11
+                ],
+                "name": "Department of State",
+                "screen_name": "StateDept"
+            },
+            {
+                "id": 37940492,
+                "id_str": "37940492",
+                "indices": [
+                    119,
+                    130
+                ],
+                "name": "U.S. Naval History",
+                "screen_name": "USNHistory"
             }
         ]
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/4694HT33ji",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/806468554820354050/photo/1",
+                "ext_alt_text": null,
                 "id": 806468552626728960,
                 "id_str": "806468552626728961",
                 "indices": [
@@ -123,55 +124,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/CzEm4DHW8AENF4u.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/CzEm4DHW8AENF4u.jpg",
-                "url": "https://t.co/4694HT33ji",
-                "display_url": "pic.twitter.com/4694HT33ji",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/806468554820354050/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
+                    "large": {
+                        "h": 512,
+                        "resize": "fit",
+                        "w": 769
                     },
                     "medium": {
-                        "w": 769,
                         "h": 512,
-                        "resize": "fit"
-                    },
-                    "large": {
-                        "w": 769,
-                        "h": 512,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 769
                     },
                     "small": {
-                        "w": 680,
                         "h": 453,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": null
+                "type": "photo",
+                "url": "https://t.co/4694HT33ji"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 4,
+    "favorited": false,
+    "full_text": ".@StateDept reconstructs plans and timeline in 1946 for #PearlHarbor attacks: https://t.co/iMgSP5JgYU #FRUS #OTD #WWII @USNHistory https://t.co/4694HT33ji",
+    "geo": null,
+    "id": 806468554820354050,
+    "id_str": "806468554820354050",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 6,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 4,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Feb 21 16:10:24 +0000 2017",
-    "id": 834072790626082820,
-    "id_str": "834072790626082816",
-    "full_text": "Patricia Roberts Harris-1st African American female ambassador: Ambassador to Luxembourg 1965-67 #BlackHistoryMonth https://t.co/6tVM926vwp https://t.co/epv9T8ddVZ",
-    "truncated": false,
     "display_text_range": [
         0,
         139
@@ -11,28 +9,17 @@
     "entities": {
         "hashtags": [
             {
-                "text": "BlackHistoryMonth",
                 "indices": [
                     97,
                     115
-                ]
-            }
-        ],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
-            {
-                "url": "https://t.co/6tVM926vwp",
-                "expanded_url": "http://go.usa.gov/x9tRU",
-                "display_url": "go.usa.gov/x9tRU",
-                "indices": [
-                    116,
-                    139
-                ]
+                ],
+                "text": "BlackHistoryMonth"
             }
         ],
         "media": [
             {
+                "display_url": "pic.twitter.com/epv9T8ddVZ",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/834072790626082816/photo/1",
                 "id": 834072777892253700,
                 "id_str": "834072777892253696",
                 "indices": [
@@ -41,38 +28,52 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/C5M4xbsXUAAzq9T.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/C5M4xbsXUAAzq9T.jpg",
-                "url": "https://t.co/epv9T8ddVZ",
-                "display_url": "pic.twitter.com/epv9T8ddVZ",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/834072790626082816/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "small": {
-                        "w": 250,
-                        "h": 256,
-                        "resize": "fit"
-                    },
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
                     "large": {
-                        "w": 250,
                         "h": 256,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 250
                     },
                     "medium": {
-                        "w": 250,
                         "h": 256,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 250
+                    },
+                    "small": {
+                        "h": 256,
+                        "resize": "fit",
+                        "w": 250
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/epv9T8ddVZ"
             }
-        ]
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "go.usa.gov/x9tRU",
+                "expanded_url": "http://go.usa.gov/x9tRU",
+                "indices": [
+                    116,
+                    139
+                ],
+                "url": "https://t.co/6tVM926vwp"
+            }
+        ],
+        "user_mentions": []
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/epv9T8ddVZ",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/834072790626082816/photo/1",
+                "ext_alt_text": null,
                 "id": 834072777892253700,
                 "id_str": "834072777892253696",
                 "indices": [
@@ -81,35 +82,35 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/C5M4xbsXUAAzq9T.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/C5M4xbsXUAAzq9T.jpg",
-                "url": "https://t.co/epv9T8ddVZ",
-                "display_url": "pic.twitter.com/epv9T8ddVZ",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/834072790626082816/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "small": {
-                        "w": 250,
-                        "h": 256,
-                        "resize": "fit"
-                    },
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
                     "large": {
-                        "w": 250,
                         "h": 256,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 250
                     },
                     "medium": {
-                        "w": 250,
                         "h": 256,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 250
+                    },
+                    "small": {
+                        "h": 256,
+                        "resize": "fit",
+                        "w": 250
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": null
+                "type": "photo",
+                "url": "https://t.co/epv9T8ddVZ"
             },
             {
+                "display_url": "pic.twitter.com/epv9T8ddVZ",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/834072790626082816/photo/1",
+                "ext_alt_text": null,
                 "id": 834072786373066750,
                 "id_str": "834072786373066753",
                 "indices": [
@@ -118,55 +119,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/C5M4x7SWQAEmL05.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/C5M4x7SWQAEmL05.jpg",
-                "url": "https://t.co/epv9T8ddVZ",
-                "display_url": "pic.twitter.com/epv9T8ddVZ",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/834072790626082816/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
+                    "large": {
+                        "h": 2048,
+                        "resize": "fit",
+                        "w": 1489
                     },
                     "medium": {
-                        "w": 873,
                         "h": 1200,
-                        "resize": "fit"
-                    },
-                    "large": {
-                        "w": 1489,
-                        "h": 2048,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 873
                     },
                     "small": {
-                        "w": 495,
                         "h": 680,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 495
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": null
+                "type": "photo",
+                "url": "https://t.co/epv9T8ddVZ"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 1,
+    "favorited": false,
+    "full_text": "Patricia Roberts Harris-1st African American female ambassador: Ambassador to Luxembourg 1965-67 #BlackHistoryMonth https://t.co/6tVM926vwp https://t.co/epv9T8ddVZ",
+    "geo": null,
+    "id": 834072790626082820,
+    "id_str": "834072790626082816",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "ca",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 6,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 1,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "ca"
+    }
 }

@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu May 23 15:24:44 +0000 2013",
-    "id": 337589922569531390,
-    "id_str": "337589922569531392",
-    "full_text": "RT @StateDept: Fed digital strategy is engine for econ growth. Opening up govt data with #APIs encourages innovation. http://t.co/EYeODvJK1…",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,48 +9,48 @@
     "entities": {
         "hashtags": [
             {
-                "text": "APIs",
                 "indices": [
                     89,
                     94
-                ]
+                ],
+                "text": "APIs"
             }
         ],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "StateDept",
-                "name": "Department of State",
                 "id": 9624742,
                 "id_str": "9624742",
                 "indices": [
                     3,
                     13
-                ]
+                ],
+                "name": "Department of State",
+                "screen_name": "StateDept"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "RT @StateDept: Fed digital strategy is engine for econ growth. Opening up govt data with #APIs encourages innovation. http://t.co/EYeODvJK1…",
+    "geo": null,
+    "id": 337589922569531390,
+    "id_str": "337589922569531392",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "retweet_count": 32,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Thu May 23 14:05:30 +0000 2013",
-        "id": 337569984786079740,
-        "id_str": "337569984786079746",
-        "full_text": "Fed digital strategy is engine for econ growth. Opening up govt data with #APIs encourages innovation. http://t.co/EYeODvJK1a. #digitalgov",
-        "truncated": false,
         "display_text_range": [
             0,
             138
@@ -60,60 +58,62 @@
         "entities": {
             "hashtags": [
                 {
-                    "text": "APIs",
                     "indices": [
                         74,
                         79
-                    ]
+                    ],
+                    "text": "APIs"
                 },
                 {
-                    "text": "digitalgov",
                     "indices": [
                         127,
                         138
-                    ]
+                    ],
+                    "text": "digitalgov"
                 }
             ],
             "symbols": [],
-            "user_mentions": [],
             "urls": [
                 {
-                    "url": "http://t.co/EYeODvJK1a",
-                    "expanded_url": "http://www.state.gov/developer",
                     "display_url": "state.gov/developer",
+                    "expanded_url": "http://www.state.gov/developer",
                     "indices": [
                         103,
                         125
-                    ]
+                    ],
+                    "url": "http://t.co/EYeODvJK1a"
                 }
-            ]
+            ],
+            "user_mentions": []
         },
-        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+        "favorite_count": 9,
+        "favorited": false,
+        "full_text": "Fed digital strategy is engine for econ growth. Opening up govt data with #APIs encourages innovation. http://t.co/EYeODvJK1a. #digitalgov",
+        "geo": null,
+        "id": 337569984786079740,
+        "id_str": "337569984786079746",
+        "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 32,
+        "retweeted": true,
+        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+        "truncated": false,
         "user": {
             "id": 9624742,
             "id_str": "9624742"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 32,
-        "favorite_count": 9,
-        "favorited": false,
-        "retweeted": true,
-        "possibly_sensitive": false,
-        "lang": "en"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 32,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": true,
-    "lang": "en"
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

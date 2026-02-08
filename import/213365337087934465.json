@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Jun 14 20:20:35 +0000 2012",
-    "id": 213365337087934464,
-    "id_str": "213365337087934465",
-    "full_text": "Read President Ford's briefing before the first G-7 summit at Rambouillet in 1975 in #FRUS http://t.co/BuQRrtC9 #EconDiplomacy",
-    "truncated": false,
     "display_text_range": [
         0,
         126
@@ -11,53 +9,55 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     85,
                     90
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "EconDiplomacy",
                 "indices": [
                     112,
                     126
-                ]
+                ],
+                "text": "EconDiplomacy"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/BuQRrtC9",
-                "expanded_url": "http://go.usa.gov/vCN",
                 "display_url": "go.usa.gov/vCN",
+                "expanded_url": "http://go.usa.gov/vCN",
                 "indices": [
                     91,
                     111
-                ]
+                ],
+                "url": "http://t.co/BuQRrtC9"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 2,
+    "favorited": false,
+    "full_text": "Read President Ford's briefing before the first G-7 summit at Rambouillet in 1975 in #FRUS http://t.co/BuQRrtC9 #EconDiplomacy",
+    "geo": null,
+    "id": 213365337087934464,
+    "id_str": "213365337087934465",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 2,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

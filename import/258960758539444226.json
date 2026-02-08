@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Oct 18 16:00:30 +0000 2012",
-    "id": 258960758539444224,
-    "id_str": "258960758539444226",
-    "full_text": "October 18, 1962. Three courses of action are suggested to deal with the Soviet missiles in Cuba. http://t.co/0NnZKHPE #FRUS #cmc",
-    "truncated": false,
     "display_text_range": [
         0,
         129
@@ -11,53 +9,55 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     119,
                     124
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "cmc",
                 "indices": [
                     125,
                     129
-                ]
+                ],
+                "text": "cmc"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/0NnZKHPE",
-                "expanded_url": "http://bit.ly/T2ZJtc",
                 "display_url": "bit.ly/T2ZJtc",
+                "expanded_url": "http://bit.ly/T2ZJtc",
                 "indices": [
                     98,
                     118
-                ]
+                ],
+                "url": "http://t.co/0NnZKHPE"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "October 18, 1962. Three courses of action are suggested to deal with the Soviet missiles in Cuba. http://t.co/0NnZKHPE #FRUS #cmc",
+    "geo": null,
+    "id": 258960758539444224,
+    "id_str": "258960758539444226",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

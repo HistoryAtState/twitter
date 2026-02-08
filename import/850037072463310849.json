@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Apr 06 17:26:45 +0000 2017",
-    "id": 850037072463310850,
-    "id_str": "850037072463310849",
-    "full_text": "#ww1cc https://t.co/wuchwMOMqk",
-    "truncated": false,
     "display_text_range": [
         0,
         6
@@ -11,76 +9,56 @@
     "entities": {
         "hashtags": [
             {
-                "text": "ww1cc",
                 "indices": [
                     0,
                     6
-                ]
+                ],
+                "text": "ww1cc"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "https://t.co/wuchwMOMqk",
-                "expanded_url": "https://twitter.com/DiplomacyCenter/status/850032548587732992",
                 "display_url": "twitter.com/DiplomacyCente…",
+                "expanded_url": "https://twitter.com/DiplomacyCenter/status/850032548587732992",
                 "indices": [
                     7,
                     30
-                ]
+                ],
+                "url": "https://t.co/wuchwMOMqk"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 1,
+    "favorited": false,
+    "full_text": "#ww1cc https://t.co/wuchwMOMqk",
+    "geo": null,
+    "id": 850037072463310850,
+    "id_str": "850037072463310849",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
     "is_quote_status": true,
-    "quoted_status_id": 850032548587732990,
-    "quoted_status_id_str": "850032548587732992",
-    "quoted_status_permalink": {
-        "url": "https://t.co/wuchwMOMqk",
-        "expanded": "https://twitter.com/DiplomacyCenter/status/850032548587732992",
-        "display": "twitter.com/DiplomacyCente…"
-    },
+    "lang": "qme",
+    "place": null,
+    "possibly_sensitive": false,
     "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Thu Apr 06 17:08:47 +0000 2017",
-        "id": 850032548587732990,
-        "id_str": "850032548587732992",
-        "full_text": "100th anniv of US entry into WWI, this 1918 Department of State issued passport  to nurse with Harvard Surgical Unit https://t.co/rxLaHdEo1T https://t.co/Ry4PBHBISr",
-        "truncated": false,
         "display_text_range": [
             0,
             140
         ],
         "entities": {
             "hashtags": [],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "https://t.co/rxLaHdEo1T",
-                    "expanded_url": "http://ow.ly/CJLI30aDiaR",
-                    "display_url": "ow.ly/CJLI30aDiaR",
-                    "indices": [
-                        117,
-                        140
-                    ]
-                }
-            ],
             "media": [
                 {
+                    "display_url": "pic.twitter.com/Ry4PBHBISr",
+                    "expanded_url": "https://twitter.com/DiplomacyCenter/status/850032548587732992/photo/1",
                     "id": 850029343707410430,
                     "id_str": "850029343707410434",
                     "indices": [
@@ -89,38 +67,52 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/C8vpLzhWsAI5yke.jpg",
                     "media_url_https": "https://pbs.twimg.com/media/C8vpLzhWsAI5yke.jpg",
-                    "url": "https://t.co/Ry4PBHBISr",
-                    "display_url": "pic.twitter.com/Ry4PBHBISr",
-                    "expanded_url": "https://twitter.com/DiplomacyCenter/status/850032548587732992/photo/1",
-                    "type": "photo",
                     "sizes": {
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
-                        },
                         "large": {
-                            "w": 325,
                             "h": 493,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 325
                         },
                         "medium": {
-                            "w": 325,
                             "h": 493,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 325
                         },
                         "small": {
-                            "w": 325,
                             "h": 493,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 325
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
                         }
-                    }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/Ry4PBHBISr"
                 }
-            ]
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "ow.ly/CJLI30aDiaR",
+                    "expanded_url": "http://ow.ly/CJLI30aDiaR",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/rxLaHdEo1T"
+                }
+            ],
+            "user_mentions": []
         },
         "extended_entities": {
             "media": [
                 {
+                    "display_url": "pic.twitter.com/Ry4PBHBISr",
+                    "expanded_url": "https://twitter.com/DiplomacyCenter/status/850032548587732992/photo/1",
+                    "ext_alt_text": null,
                     "id": 850029343707410430,
                     "id_str": "850029343707410434",
                     "indices": [
@@ -129,35 +121,35 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/C8vpLzhWsAI5yke.jpg",
                     "media_url_https": "https://pbs.twimg.com/media/C8vpLzhWsAI5yke.jpg",
-                    "url": "https://t.co/Ry4PBHBISr",
-                    "display_url": "pic.twitter.com/Ry4PBHBISr",
-                    "expanded_url": "https://twitter.com/DiplomacyCenter/status/850032548587732992/photo/1",
-                    "type": "photo",
                     "sizes": {
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
-                        },
                         "large": {
-                            "w": 325,
                             "h": 493,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 325
                         },
                         "medium": {
-                            "w": 325,
                             "h": 493,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 325
                         },
                         "small": {
-                            "w": 325,
                             "h": 493,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 325
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
                         }
                     },
-                    "ext_alt_text": null
+                    "type": "photo",
+                    "url": "https://t.co/Ry4PBHBISr"
                 },
                 {
+                    "display_url": "pic.twitter.com/Ry4PBHBISr",
+                    "expanded_url": "https://twitter.com/DiplomacyCenter/status/850032548587732992/photo/1",
+                    "ext_alt_text": null,
                     "id": 850029329241305090,
                     "id_str": "850029329241305088",
                     "indices": [
@@ -166,62 +158,70 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/C8vpK9oXcAAYkc-.jpg",
                     "media_url_https": "https://pbs.twimg.com/media/C8vpK9oXcAAYkc-.jpg",
-                    "url": "https://t.co/Ry4PBHBISr",
-                    "display_url": "pic.twitter.com/Ry4PBHBISr",
-                    "expanded_url": "https://twitter.com/DiplomacyCenter/status/850032548587732992/photo/1",
-                    "type": "photo",
                     "sizes": {
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
-                        },
-                        "small": {
-                            "w": 470,
-                            "h": 680,
-                            "resize": "fit"
-                        },
                         "large": {
-                            "w": 1414,
                             "h": 2048,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 1414
                         },
                         "medium": {
-                            "w": 829,
                             "h": 1200,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 829
+                        },
+                        "small": {
+                            "h": 680,
+                            "resize": "fit",
+                            "w": 470
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
                         }
                     },
-                    "ext_alt_text": null
+                    "type": "photo",
+                    "url": "https://t.co/Ry4PBHBISr"
                 }
             ]
         },
-        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+        "favorite_count": 6,
+        "favorited": false,
+        "full_text": "100th anniv of US entry into WWI, this 1918 Department of State issued passport  to nurse with Harvard Surgical Unit https://t.co/rxLaHdEo1T https://t.co/Ry4PBHBISr",
+        "geo": null,
+        "id": 850032548587732990,
+        "id_str": "850032548587732992",
+        "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 7,
+        "retweeted": false,
+        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+        "truncated": false,
         "user": {
             "id": 2648849144,
             "id_str": "2648849144"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 7,
-        "favorite_count": 6,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
+        }
+    },
+    "quoted_status_id": 850032548587732990,
+    "quoted_status_id_str": "850032548587732992",
+    "quoted_status_permalink": {
+        "display": "twitter.com/DiplomacyCente…",
+        "expanded": "https://twitter.com/DiplomacyCenter/status/850032548587732992",
+        "url": "https://t.co/wuchwMOMqk"
     },
     "retweet_count": 0,
-    "favorite_count": 1,
-    "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "qme"
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

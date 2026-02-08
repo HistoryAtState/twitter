@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Fri Oct 28 14:16:52 +0000 2016",
-    "id": 792007227104194560,
-    "id_str": "792007227104194560",
-    "full_text": "Schlesinger out. Rumsfeld in. Kissinger’s response to Ford’s 1975 Cabinet shake-up, the \"Halloween Massacre.” https://t.co/ruQJMEyA0w #FRUS",
-    "truncated": false,
     "display_text_range": [
         0,
         139
@@ -11,46 +9,48 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     134,
                     139
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "https://t.co/ruQJMEyA0w",
-                "expanded_url": "http://go.usa.gov/xkArM",
                 "display_url": "go.usa.gov/xkArM",
+                "expanded_url": "http://go.usa.gov/xkArM",
                 "indices": [
                     110,
                     133
-                ]
+                ],
+                "url": "https://t.co/ruQJMEyA0w"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 5,
+    "favorited": false,
+    "full_text": "Schlesinger out. Rumsfeld in. Kissinger’s response to Ford’s 1975 Cabinet shake-up, the \"Halloween Massacre.” https://t.co/ruQJMEyA0w #FRUS",
+    "geo": null,
+    "id": 792007227104194560,
+    "id_str": "792007227104194560",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 7,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 7,
-    "favorite_count": 5,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

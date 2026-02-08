@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Wed Nov 22 16:05:11 +0000 2017",
-    "id": 933365756040970240,
-    "id_str": "933365756040970240",
-    "full_text": "Turkey, pumpkin pie, and vandalism? US-UAR discuss relations and 1964 #Thanksgiving Day attack on Embassy: https://t.co/QYPQCm2ik8 #FRUS #twitterstorians",
-    "truncated": false,
     "display_text_range": [
         0,
         153
@@ -11,60 +9,62 @@
     "entities": {
         "hashtags": [
             {
-                "text": "Thanksgiving",
                 "indices": [
                     70,
                     83
-                ]
+                ],
+                "text": "Thanksgiving"
             },
             {
-                "text": "FRUS",
                 "indices": [
                     131,
                     136
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "twitterstorians",
                 "indices": [
                     137,
                     153
-                ]
+                ],
+                "text": "twitterstorians"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "https://t.co/QYPQCm2ik8",
-                "expanded_url": "https://go.usa.gov/xnWQE",
                 "display_url": "go.usa.gov/xnWQE",
+                "expanded_url": "https://go.usa.gov/xnWQE",
                 "indices": [
                     107,
                     130
-                ]
+                ],
+                "url": "https://t.co/QYPQCm2ik8"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "Turkey, pumpkin pie, and vandalism? US-UAR discuss relations and 1964 #Thanksgiving Day attack on Embassy: https://t.co/QYPQCm2ik8 #FRUS #twitterstorians",
+    "geo": null,
+    "id": 933365756040970240,
+    "id_str": "933365756040970240",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

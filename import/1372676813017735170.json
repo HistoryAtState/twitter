@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Mar 18 22:30:29 +0000 2021",
-    "id": 1372676813017735170,
-    "id_str": "1372676813017735170",
-    "full_text": "RT @USEmbassyCairo: “Today, we are all Jeannette!\" Office Management Specialists at U.S. Embassy Cairo virtually gathered to express gratit…",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,51 +9,50 @@
     "entities": {
         "hashtags": [],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "USEmbassyCairo",
-                "name": "U.S. Embassy Cairo",
                 "id": 76945884,
                 "id_str": "76945884",
                 "indices": [
                     3,
                     18
-                ]
+                ],
+                "name": "U.S. Embassy Cairo",
+                "screen_name": "USEmbassyCairo"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "RT @USEmbassyCairo: “Today, we are all Jeannette!\" Office Management Specialists at U.S. Embassy Cairo virtually gathered to express gratit…",
+    "geo": null,
+    "id": 1372676813017735170,
+    "id_str": "1372676813017735170",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "retweet_count": 1,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Thu Mar 18 21:58:26 +0000 2021",
-        "id": 1372668744036679680,
-        "id_str": "1372668744036679680",
-        "full_text": "“Today, we are all Jeannette!\" Office Management Specialists at U.S. Embassy Cairo virtually gathered to express gratitude for the trail blazed by Jeannette Lafrance. https://t.co/R2wE5hm8V3",
-        "truncated": false,
         "display_text_range": [
             0,
             166
         ],
         "entities": {
             "hashtags": [],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [],
             "media": [
                 {
+                    "display_url": "pic.twitter.com/R2wE5hm8V3",
+                    "expanded_url": "https://twitter.com/USEmbassyCairo/status/1372668744036679680/photo/1",
                     "id": 1372668738131136510,
                     "id_str": "1372668738131136513",
                     "indices": [
@@ -64,38 +61,42 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/Ewyy8dKXEAEPnRJ.jpg",
                     "media_url_https": "https://pbs.twimg.com/media/Ewyy8dKXEAEPnRJ.jpg",
-                    "url": "https://t.co/R2wE5hm8V3",
-                    "display_url": "pic.twitter.com/R2wE5hm8V3",
-                    "expanded_url": "https://twitter.com/USEmbassyCairo/status/1372668744036679680/photo/1",
-                    "type": "photo",
                     "sizes": {
-                        "medium": {
-                            "w": 255,
-                            "h": 376,
-                            "resize": "fit"
-                        },
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
-                        },
                         "large": {
-                            "w": 255,
                             "h": 376,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 255
+                        },
+                        "medium": {
+                            "h": 376,
+                            "resize": "fit",
+                            "w": 255
                         },
                         "small": {
-                            "w": 255,
                             "h": 376,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 255
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
                         }
-                    }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/R2wE5hm8V3"
                 }
-            ]
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
         },
         "extended_entities": {
             "media": [
                 {
+                    "display_url": "pic.twitter.com/R2wE5hm8V3",
+                    "expanded_url": "https://twitter.com/USEmbassyCairo/status/1372668744036679680/photo/1",
+                    "ext_alt_text": null,
                     "id": 1372668738131136510,
                     "id_str": "1372668738131136513",
                     "indices": [
@@ -104,62 +105,61 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/Ewyy8dKXEAEPnRJ.jpg",
                     "media_url_https": "https://pbs.twimg.com/media/Ewyy8dKXEAEPnRJ.jpg",
-                    "url": "https://t.co/R2wE5hm8V3",
-                    "display_url": "pic.twitter.com/R2wE5hm8V3",
-                    "expanded_url": "https://twitter.com/USEmbassyCairo/status/1372668744036679680/photo/1",
-                    "type": "photo",
                     "sizes": {
-                        "medium": {
-                            "w": 255,
-                            "h": 376,
-                            "resize": "fit"
-                        },
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
-                        },
                         "large": {
-                            "w": 255,
                             "h": 376,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 255
+                        },
+                        "medium": {
+                            "h": 376,
+                            "resize": "fit",
+                            "w": 255
                         },
                         "small": {
-                            "w": 255,
                             "h": 376,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 255
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
                         }
                     },
-                    "ext_alt_text": null
+                    "type": "photo",
+                    "url": "https://t.co/R2wE5hm8V3"
                 }
             ]
         },
-        "source": "&lt;a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"&gt;Twitter for iPhone&lt;/a&gt;",
+        "favorite_count": 9,
+        "favorited": false,
+        "full_text": "“Today, we are all Jeannette!\" Office Management Specialists at U.S. Embassy Cairo virtually gathered to express gratitude for the trail blazed by Jeannette Lafrance. https://t.co/R2wE5hm8V3",
+        "geo": null,
+        "id": 1372668744036679680,
+        "id_str": "1372668744036679680",
+        "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 1,
+        "retweeted": true,
+        "source": "&lt;a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"&gt;Twitter for iPhone&lt;/a&gt;",
+        "truncated": false,
         "user": {
             "id": 76945884,
             "id_str": "76945884"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 1,
-        "favorite_count": 9,
-        "favorited": false,
-        "retweeted": true,
-        "possibly_sensitive": false,
-        "lang": "en"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": true,
-    "lang": "en"
+    "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Dec 05 14:03:05 +0000 2022",
-    "id": 1599766311885848580,
-    "id_str": "1599766311885848576",
-    "full_text": "We mourn the passing of historian John Glennon, who contributed to #FRUS as a compiler, supervisor, and ultimately General Editor during his 32 years at @HistoryAtState. He also served as General Editor of American Foreign Policy: Current Documents. \n\nhttps://t.co/0dhGzQeQgF https://t.co/ryicSwgm4e",
-    "truncated": false,
     "display_text_range": [
         0,
         275
@@ -11,39 +9,17 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     67,
                     72
-                ]
-            }
-        ],
-        "symbols": [],
-        "user_mentions": [
-            {
-                "screen_name": "HistoryAtState",
-                "name": "HistoryAtState",
-                "id": 586570880,
-                "id_str": "586570880",
-                "indices": [
-                    153,
-                    168
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "https://t.co/0dhGzQeQgF",
-                "expanded_url": "http://ow.ly/Cn4N50LU9BM",
-                "display_url": "ow.ly/Cn4N50LU9BM",
-                "indices": [
-                    252,
-                    275
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "media": [
             {
+                "display_url": "pic.twitter.com/ryicSwgm4e",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1599766311885848576/photo/1",
                 "id": 1599766310052921340,
                 "id_str": "1599766310052921351",
                 "indices": [
@@ -52,38 +28,63 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/FjOC-6pXgAc1WWD.png",
                 "media_url_https": "https://pbs.twimg.com/media/FjOC-6pXgAc1WWD.png",
-                "url": "https://t.co/ryicSwgm4e",
-                "display_url": "pic.twitter.com/ryicSwgm4e",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1599766311885848576/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "small": {
-                        "w": 671,
-                        "h": 680,
-                        "resize": "fit"
+                    "large": {
+                        "h": 932,
+                        "resize": "fit",
+                        "w": 920
                     },
                     "medium": {
-                        "w": 920,
                         "h": 932,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 920
                     },
-                    "large": {
-                        "w": 920,
-                        "h": 932,
-                        "resize": "fit"
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 671
                     },
                     "thumb": {
-                        "w": 150,
                         "h": 150,
-                        "resize": "crop"
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/ryicSwgm4e"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "ow.ly/Cn4N50LU9BM",
+                "expanded_url": "http://ow.ly/Cn4N50LU9BM",
+                "indices": [
+                    252,
+                    275
+                ],
+                "url": "https://t.co/0dhGzQeQgF"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 586570880,
+                "id_str": "586570880",
+                "indices": [
+                    153,
+                    168
+                ],
+                "name": "HistoryAtState",
+                "screen_name": "HistoryAtState"
             }
         ]
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/ryicSwgm4e",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1599766311885848576/photo/1",
+                "ext_alt_text": "[Portrait of John Glennon.] The Office of the Historian mourns the passing of historian John Glennon, who contributed to the Foreign Relations of the United States series as a compiler, supervisor, and ultimately General Editor during his 32 years at OH, where he also served as General Editor of American Foreign Policy: Current Documents. Glennon helped compile…FRUS volumes covering the critical time period 1943-1951",
                 "id": 1599766310052921340,
                 "id_str": "1599766310052921351",
                 "indices": [
@@ -92,55 +93,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/FjOC-6pXgAc1WWD.png",
                 "media_url_https": "https://pbs.twimg.com/media/FjOC-6pXgAc1WWD.png",
-                "url": "https://t.co/ryicSwgm4e",
-                "display_url": "pic.twitter.com/ryicSwgm4e",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1599766311885848576/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "small": {
-                        "w": 671,
-                        "h": 680,
-                        "resize": "fit"
+                    "large": {
+                        "h": 932,
+                        "resize": "fit",
+                        "w": 920
                     },
                     "medium": {
-                        "w": 920,
                         "h": 932,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 920
                     },
-                    "large": {
-                        "w": 920,
-                        "h": 932,
-                        "resize": "fit"
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 671
                     },
                     "thumb": {
-                        "w": 150,
                         "h": 150,
-                        "resize": "crop"
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": "[Portrait of John Glennon.] The Office of the Historian mourns the passing of historian John Glennon, who contributed to the Foreign Relations of the United States series as a compiler, supervisor, and ultimately General Editor during his 32 years at OH, where he also served as General Editor of American Foreign Policy: Current Documents. Glennon helped compile…FRUS volumes covering the critical time period 1943-1951"
+                "type": "photo",
+                "url": "https://t.co/ryicSwgm4e"
             }
         ]
     },
-    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "favorite_count": 9,
+    "favorited": false,
+    "full_text": "We mourn the passing of historian John Glennon, who contributed to #FRUS as a compiler, supervisor, and ultimately General Editor during his 32 years at @HistoryAtState. He also served as General Editor of American Foreign Policy: Current Documents. \n\nhttps://t.co/0dhGzQeQgF https://t.co/ryicSwgm4e",
+    "geo": null,
+    "id": 1599766311885848580,
+    "id_str": "1599766311885848576",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 9,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

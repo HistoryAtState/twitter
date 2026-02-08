@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Sat Apr 25 11:30:30 +0000 2015",
-    "id": 591927259130376190,
-    "id_str": "591927259130376192",
-    "full_text": "Historians from @HistoryAtState “Unpacking the Life Cycle of the #FRUS Series” this morning at @ByrdCLS #SHFG2015 #twitterstorians",
-    "truncated": false,
     "display_text_range": [
         0,
         130
@@ -11,60 +9,62 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     65,
                     70
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "SHFG2015",
                 "indices": [
                     104,
                     113
-                ]
+                ],
+                "text": "SHFG2015"
             },
             {
-                "text": "twitterstorians",
                 "indices": [
                     114,
                     130
-                ]
+                ],
+                "text": "twitterstorians"
             }
         ],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "HistoryAtState",
-                "name": "HistoryAtState",
                 "id": 586570880,
                 "id_str": "586570880",
                 "indices": [
                     16,
                     31
-                ]
+                ],
+                "name": "HistoryAtState",
+                "screen_name": "HistoryAtState"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 2,
+    "favorited": false,
+    "full_text": "Historians from @HistoryAtState “Unpacking the Life Cycle of the #FRUS Series” this morning at @ByrdCLS #SHFG2015 #twitterstorians",
+    "geo": null,
+    "id": 591927259130376190,
+    "id_str": "591927259130376192",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 4,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 2,
-    "favorited": false,
-    "retweeted": false,
-    "lang": "en"
+    }
 }

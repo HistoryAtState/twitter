@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Oct 26 12:02:12 +0000 2015",
-    "id": 658614602251542530,
-    "id_str": "658614602251542528",
-    "full_text": "RT @StateDept: On #UNDay, @HistoryAtState's Aiyaz Husain offers reflections on 70th anniversary of the birth of @UN: https://t.co/uLU7UL48k…",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,68 +9,68 @@
     "entities": {
         "hashtags": [
             {
-                "text": "UNDay",
                 "indices": [
                     18,
                     24
-                ]
+                ],
+                "text": "UNDay"
             }
         ],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "StateDept",
-                "name": "Department of State",
                 "id": 9624742,
                 "id_str": "9624742",
                 "indices": [
                     3,
                     13
-                ]
+                ],
+                "name": "Department of State",
+                "screen_name": "StateDept"
             },
             {
-                "screen_name": "HistoryAtState",
-                "name": "HistoryAtState",
                 "id": 586570880,
                 "id_str": "586570880",
                 "indices": [
                     26,
                     41
-                ]
+                ],
+                "name": "HistoryAtState",
+                "screen_name": "HistoryAtState"
             },
             {
-                "screen_name": "UN",
-                "name": "United Nations",
                 "id": 14159148,
                 "id_str": "14159148",
                 "indices": [
                     112,
                     115
-                ]
+                ],
+                "name": "United Nations",
+                "screen_name": "UN"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "RT @StateDept: On #UNDay, @HistoryAtState's Aiyaz Husain offers reflections on 70th anniversary of the birth of @UN: https://t.co/uLU7UL48k…",
+    "geo": null,
+    "id": 658614602251542530,
+    "id_str": "658614602251542528",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "retweet_count": 28,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Sat Oct 24 15:12:58 +0000 2015",
-        "id": 657937835744493570,
-        "id_str": "657937835744493568",
-        "full_text": "On #UNDay, @HistoryAtState's Aiyaz Husain offers reflections on 70th anniversary of the birth of @UN: https://t.co/uLU7UL48kZ.",
-        "truncated": false,
         "display_text_range": [
             0,
             126
@@ -80,74 +78,76 @@
         "entities": {
             "hashtags": [
                 {
-                    "text": "UNDay",
                     "indices": [
                         3,
                         9
-                    ]
+                    ],
+                    "text": "UNDay"
                 }
             ],
             "symbols": [],
+            "urls": [
+                {
+                    "display_url": "go.usa.gov/3hJRQ",
+                    "expanded_url": "http://go.usa.gov/3hJRQ",
+                    "indices": [
+                        102,
+                        125
+                    ],
+                    "url": "https://t.co/uLU7UL48kZ"
+                }
+            ],
             "user_mentions": [
                 {
-                    "screen_name": "HistoryAtState",
-                    "name": "HistoryAtState",
                     "id": 586570880,
                     "id_str": "586570880",
                     "indices": [
                         11,
                         26
-                    ]
+                    ],
+                    "name": "HistoryAtState",
+                    "screen_name": "HistoryAtState"
                 },
                 {
-                    "screen_name": "UN",
-                    "name": "United Nations",
                     "id": 14159148,
                     "id_str": "14159148",
                     "indices": [
                         97,
                         100
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "https://t.co/uLU7UL48kZ",
-                    "expanded_url": "http://go.usa.gov/3hJRQ",
-                    "display_url": "go.usa.gov/3hJRQ",
-                    "indices": [
-                        102,
-                        125
-                    ]
+                    ],
+                    "name": "United Nations",
+                    "screen_name": "UN"
                 }
             ]
         },
-        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+        "favorite_count": 14,
+        "favorited": false,
+        "full_text": "On #UNDay, @HistoryAtState's Aiyaz Husain offers reflections on 70th anniversary of the birth of @UN: https://t.co/uLU7UL48kZ.",
+        "geo": null,
+        "id": 657937835744493570,
+        "id_str": "657937835744493568",
+        "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 28,
+        "retweeted": true,
+        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+        "truncated": false,
         "user": {
             "id": 9624742,
             "id_str": "9624742"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 28,
-        "favorite_count": 14,
-        "favorited": false,
-        "retweeted": true,
-        "possibly_sensitive": false,
-        "lang": "en"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 28,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": true,
-    "lang": "en"
+    "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Nov 06 19:02:32 +0000 2012",
-    "id": 265891938232840192,
-    "id_str": "265891938232840193",
-    "full_text": "RT @nypl: Join us for a special workshop from Washington D.C.'s Office of the Historian, U.S. State Dept. @nypl 11/7: http://t.co/Elcksvzu",
-    "truncated": false,
     "display_text_range": [
         0,
         138
@@ -11,60 +9,61 @@
     "entities": {
         "hashtags": [],
         "symbols": [],
+        "urls": [
+            {
+                "display_url": "ow.ly/f44WB",
+                "expanded_url": "http://ow.ly/f44WB",
+                "indices": [
+                    118,
+                    138
+                ],
+                "url": "http://t.co/Elcksvzu"
+            }
+        ],
         "user_mentions": [
             {
-                "screen_name": "nypl",
-                "name": "NY Public Library",
                 "id": 17544803,
                 "id_str": "17544803",
                 "indices": [
                     3,
                     8
-                ]
+                ],
+                "name": "NY Public Library",
+                "screen_name": "nypl"
             },
             {
-                "screen_name": "nypl",
-                "name": "NY Public Library",
                 "id": 17544803,
                 "id_str": "17544803",
                 "indices": [
                     106,
                     111
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "http://t.co/Elcksvzu",
-                "expanded_url": "http://ow.ly/f44WB",
-                "display_url": "ow.ly/f44WB",
-                "indices": [
-                    118,
-                    138
-                ]
+                ],
+                "name": "NY Public Library",
+                "screen_name": "nypl"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "RT @nypl: Join us for a special workshop from Washington D.C.'s Office of the Historian, U.S. State Dept. @nypl 11/7: http://t.co/Elcksvzu",
+    "geo": null,
+    "id": 265891938232840192,
+    "id_str": "265891938232840193",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Tue Nov 06 16:40:28 +0000 2012",
-        "id": 265856186837000192,
-        "id_str": "265856186837000194",
-        "full_text": "Join us for a special workshop from Washington D.C.'s Office of the Historian, U.S. State Dept. @nypl 11/7: http://t.co/Elcksvzu",
-        "truncated": false,
         "display_text_range": [
             0,
             128
@@ -72,57 +71,58 @@
         "entities": {
             "hashtags": [],
             "symbols": [],
+            "urls": [
+                {
+                    "display_url": "ow.ly/f44WB",
+                    "expanded_url": "http://ow.ly/f44WB",
+                    "indices": [
+                        108,
+                        128
+                    ],
+                    "url": "http://t.co/Elcksvzu"
+                }
+            ],
             "user_mentions": [
                 {
-                    "screen_name": "nypl",
-                    "name": "NY Public Library",
                     "id": 17544803,
                     "id_str": "17544803",
                     "indices": [
                         96,
                         101
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "http://t.co/Elcksvzu",
-                    "expanded_url": "http://ow.ly/f44WB",
-                    "display_url": "ow.ly/f44WB",
-                    "indices": [
-                        108,
-                        128
-                    ]
+                    ],
+                    "name": "NY Public Library",
+                    "screen_name": "nypl"
                 }
             ]
         },
-        "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+        "favorite_count": 1,
+        "favorited": false,
+        "full_text": "Join us for a special workshop from Washington D.C.'s Office of the Historian, U.S. State Dept. @nypl 11/7: http://t.co/Elcksvzu",
+        "geo": null,
+        "id": 265856186837000192,
+        "id_str": "265856186837000194",
+        "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 3,
+        "retweeted": true,
+        "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+        "truncated": false,
         "user": {
             "id": 17544803,
             "id_str": "17544803"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 3,
-        "favorite_count": 1,
-        "favorited": false,
-        "retweeted": true,
-        "possibly_sensitive": false,
-        "lang": "en"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": true,
-    "possibly_sensitive": false,
-    "lang": "en"
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Sat Nov 19 15:15:15 +0000 2016",
-    "id": 799994454836854780,
-    "id_str": "799994454836854784",
-    "full_text": "In 1973, #Mexico Pres proposed creating an entrepreneur class: https://t.co/0i7XtI2u2j #GEW2016 #FRUS #twitterstorians",
-    "truncated": false,
     "display_text_range": [
         0,
         118
@@ -11,67 +9,69 @@
     "entities": {
         "hashtags": [
             {
-                "text": "Mexico",
                 "indices": [
                     9,
                     16
-                ]
+                ],
+                "text": "Mexico"
             },
             {
-                "text": "GEW2016",
                 "indices": [
                     87,
                     95
-                ]
+                ],
+                "text": "GEW2016"
             },
             {
-                "text": "FRUS",
                 "indices": [
                     96,
                     101
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "twitterstorians",
                 "indices": [
                     102,
                     118
-                ]
+                ],
+                "text": "twitterstorians"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "https://t.co/0i7XtI2u2j",
-                "expanded_url": "http://go.usa.gov/x8Wt9",
                 "display_url": "go.usa.gov/x8Wt9",
+                "expanded_url": "http://go.usa.gov/x8Wt9",
                 "indices": [
                     63,
                     86
-                ]
+                ],
+                "url": "https://t.co/0i7XtI2u2j"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 2,
+    "favorited": false,
+    "full_text": "In 1973, #Mexico Pres proposed creating an entrepreneur class: https://t.co/0i7XtI2u2j #GEW2016 #FRUS #twitterstorians",
+    "geo": null,
+    "id": 799994454836854780,
+    "id_str": "799994454836854784",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 2,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

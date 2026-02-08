@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Mar 01 18:14:24 +0000 2018",
-    "id": 969274670083198980,
-    "id_str": "969274670083198976",
-    "full_text": "17 newly-digitized Foreign Relations volumes covering events between 1886 and 1899 now available https://t.co/nbUExWPCQb #twitterstorians #FRUS https://t.co/yi0IRGDYLU",
-    "truncated": false,
     "display_text_range": [
         0,
         143
@@ -11,35 +9,24 @@
     "entities": {
         "hashtags": [
             {
-                "text": "twitterstorians",
                 "indices": [
                     121,
                     137
-                ]
+                ],
+                "text": "twitterstorians"
             },
             {
-                "text": "FRUS",
                 "indices": [
                     138,
                     143
-                ]
-            }
-        ],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
-            {
-                "url": "https://t.co/nbUExWPCQb",
-                "expanded_url": "https://history.state.gov/historicaldocuments/quarterly-releases/2018-q1",
-                "display_url": "history.state.gov/historicaldocu…",
-                "indices": [
-                    97,
-                    120
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "media": [
             {
+                "display_url": "pic.twitter.com/yi0IRGDYLU",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/969274670083198976/photo/1",
                 "id": 969274394576072700,
                 "id_str": "969274394576072704",
                 "indices": [
@@ -48,38 +35,52 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/DXON7SqWsAADUH-.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DXON7SqWsAADUH-.jpg",
-                "url": "https://t.co/yi0IRGDYLU",
-                "display_url": "pic.twitter.com/yi0IRGDYLU",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/969274670083198976/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
+                    "large": {
+                        "h": 600,
+                        "resize": "fit",
+                        "w": 400
                     },
                     "medium": {
-                        "w": 400,
                         "h": 600,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 400
                     },
                     "small": {
-                        "w": 400,
                         "h": 600,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 400
                     },
-                    "large": {
-                        "w": 400,
-                        "h": 600,
-                        "resize": "fit"
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/yi0IRGDYLU"
             }
-        ]
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "history.state.gov/historicaldocu…",
+                "expanded_url": "https://history.state.gov/historicaldocuments/quarterly-releases/2018-q1",
+                "indices": [
+                    97,
+                    120
+                ],
+                "url": "https://t.co/nbUExWPCQb"
+            }
+        ],
+        "user_mentions": []
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/yi0IRGDYLU",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/969274670083198976/photo/1",
+                "ext_alt_text": "Word cloud image of documents included in release",
                 "id": 969274394576072700,
                 "id_str": "969274394576072704",
                 "indices": [
@@ -88,55 +89,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/DXON7SqWsAADUH-.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DXON7SqWsAADUH-.jpg",
-                "url": "https://t.co/yi0IRGDYLU",
-                "display_url": "pic.twitter.com/yi0IRGDYLU",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/969274670083198976/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
+                    "large": {
+                        "h": 600,
+                        "resize": "fit",
+                        "w": 400
                     },
                     "medium": {
-                        "w": 400,
                         "h": 600,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 400
                     },
                     "small": {
-                        "w": 400,
                         "h": 600,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 400
                     },
-                    "large": {
-                        "w": 400,
-                        "h": 600,
-                        "resize": "fit"
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": "Word cloud image of documents included in release"
+                "type": "photo",
+                "url": "https://t.co/yi0IRGDYLU"
             }
         ]
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 16,
+    "favorited": false,
+    "full_text": "17 newly-digitized Foreign Relations volumes covering events between 1886 and 1899 now available https://t.co/nbUExWPCQb #twitterstorians #FRUS https://t.co/yi0IRGDYLU",
+    "geo": null,
+    "id": 969274670083198980,
+    "id_str": "969274670083198976",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 14,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 14,
-    "favorite_count": 16,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

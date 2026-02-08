@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Fri Jul 15 11:30:53 +0000 2016",
-    "id": 753914731048697860,
-    "id_str": "753914731048697857",
-    "full_text": "Nixon and Ford’s nuclear nonproliferation efforts between 1973–76 are documented in #FRUS vol. E–14: https://t.co/v5EEc3Xu6q @TimbieForum",
-    "truncated": false,
     "display_text_range": [
         0,
         137
@@ -11,57 +9,59 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     84,
                     89
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "symbols": [],
+        "urls": [
+            {
+                "display_url": "go.usa.gov/xcj4m",
+                "expanded_url": "http://go.usa.gov/xcj4m",
+                "indices": [
+                    101,
+                    124
+                ],
+                "url": "https://t.co/v5EEc3Xu6q"
+            }
+        ],
         "user_mentions": [
             {
-                "screen_name": "TimbieForum",
-                "name": "Timbie Forum",
                 "id": 728601497907437570,
                 "id_str": "728601497907437569",
                 "indices": [
                     125,
                     137
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "https://t.co/v5EEc3Xu6q",
-                "expanded_url": "http://go.usa.gov/xcj4m",
-                "display_url": "go.usa.gov/xcj4m",
-                "indices": [
-                    101,
-                    124
-                ]
+                ],
+                "name": "Timbie Forum",
+                "screen_name": "TimbieForum"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 1,
+    "favorited": false,
+    "full_text": "Nixon and Ford’s nuclear nonproliferation efforts between 1973–76 are documented in #FRUS vol. E–14: https://t.co/v5EEc3Xu6q @TimbieForum",
+    "geo": null,
+    "id": 753914731048697860,
+    "id_str": "753914731048697857",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 1,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

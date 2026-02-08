@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Oct 29 17:25:18 +0000 2013",
-    "id": 395239933746487300,
-    "id_str": "395239933746487296",
-    "full_text": "RT @cunyGClibrary: Today at 4pm: Join us for a research workshop on historical diplomatic documentation w/ @HistoryAtState http://t.co/iHRv…",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,50 +9,50 @@
     "entities": {
         "hashtags": [],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "cunyGClibrary",
-                "name": "Mina Rees Library | The Graduate Center, CUNY",
                 "id": 46260308,
                 "id_str": "46260308",
                 "indices": [
                     3,
                     17
-                ]
+                ],
+                "name": "Mina Rees Library | The Graduate Center, CUNY",
+                "screen_name": "cunyGClibrary"
             },
             {
-                "screen_name": "HistoryAtState",
-                "name": "HistoryAtState",
                 "id": 586570880,
                 "id_str": "586570880",
                 "indices": [
                     107,
                     122
-                ]
+                ],
+                "name": "HistoryAtState",
+                "screen_name": "HistoryAtState"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "RT @cunyGClibrary: Today at 4pm: Join us for a research workshop on historical diplomatic documentation w/ @HistoryAtState http://t.co/iHRv…",
+    "geo": null,
+    "id": 395239933746487300,
+    "id_str": "395239933746487296",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "retweet_count": 2,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Tue Oct 29 12:00:42 +0000 2013",
-        "id": 395158247939665920,
-        "id_str": "395158247939665920",
-        "full_text": "Today at 4pm: Join us for a research workshop on historical diplomatic documentation w/ @HistoryAtState http://t.co/iHRvSkV53m #CUNYEvents",
-        "truncated": false,
         "display_text_range": [
             0,
             138
@@ -62,64 +60,66 @@
         "entities": {
             "hashtags": [
                 {
-                    "text": "CUNYEvents",
                     "indices": [
                         127,
                         138
-                    ]
+                    ],
+                    "text": "CUNYEvents"
                 }
             ],
             "symbols": [],
+            "urls": [
+                {
+                    "display_url": "ow.ly/q4O2I",
+                    "expanded_url": "http://ow.ly/q4O2I",
+                    "indices": [
+                        104,
+                        126
+                    ],
+                    "url": "http://t.co/iHRvSkV53m"
+                }
+            ],
             "user_mentions": [
                 {
-                    "screen_name": "HistoryAtState",
-                    "name": "HistoryAtState",
                     "id": 586570880,
                     "id_str": "586570880",
                     "indices": [
                         88,
                         103
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "http://t.co/iHRvSkV53m",
-                    "expanded_url": "http://ow.ly/q4O2I",
-                    "display_url": "ow.ly/q4O2I",
-                    "indices": [
-                        104,
-                        126
-                    ]
+                    ],
+                    "name": "HistoryAtState",
+                    "screen_name": "HistoryAtState"
                 }
             ]
         },
-        "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
+        "favorite_count": 0,
+        "favorited": false,
+        "full_text": "Today at 4pm: Join us for a research workshop on historical diplomatic documentation w/ @HistoryAtState http://t.co/iHRvSkV53m #CUNYEvents",
+        "geo": null,
+        "id": 395158247939665920,
+        "id_str": "395158247939665920",
+        "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 2,
+        "retweeted": true,
+        "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
+        "truncated": false,
         "user": {
             "id": 46260308,
             "id_str": "46260308"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 2,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": true,
-        "possibly_sensitive": false,
-        "lang": "en"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": true,
-    "lang": "en"
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Mar 01 21:31:38 +0000 2018",
-    "id": 969324308114870270,
-    "id_str": "969324308114870278",
-    "full_text": "RT @StateDept: Today, @HistoryAtState announces the release of newly digitized versions of 17 volumes from the #FRUS series, the official d…",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,58 +9,58 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     111,
                     116
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "StateDept",
-                "name": "Department of State",
                 "id": 9624742,
                 "id_str": "9624742",
                 "indices": [
                     3,
                     13
-                ]
+                ],
+                "name": "Department of State",
+                "screen_name": "StateDept"
             },
             {
-                "screen_name": "HistoryAtState",
-                "name": "HistoryAtState",
                 "id": 586570880,
                 "id_str": "586570880",
                 "indices": [
                     22,
                     37
-                ]
+                ],
+                "name": "HistoryAtState",
+                "screen_name": "HistoryAtState"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"http://www.twitter.com\" rel=\"nofollow\"&gt;Twitter for BlackBerry&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "RT @StateDept: Today, @HistoryAtState announces the release of newly digitized versions of 17 volumes from the #FRUS series, the official d…",
+    "geo": null,
+    "id": 969324308114870270,
+    "id_str": "969324308114870278",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "retweet_count": 32,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Thu Mar 01 21:17:11 +0000 2018",
-        "id": 969320669371686910,
-        "id_str": "969320669371686913",
-        "full_text": "Today, @HistoryAtState announces the release of newly digitized versions of 17 volumes from the #FRUS series, the official documentary record of U.S. foreign relations. These volumes cover events that took place between 1886 and 1899. https://t.co/6ZHEGxceiy",
-        "truncated": false,
         "display_text_range": [
             0,
             258
@@ -70,64 +68,66 @@
         "entities": {
             "hashtags": [
                 {
-                    "text": "FRUS",
                     "indices": [
                         96,
                         101
-                    ]
+                    ],
+                    "text": "FRUS"
                 }
             ],
             "symbols": [],
+            "urls": [
+                {
+                    "display_url": "go.usa.gov/xnzaZ",
+                    "expanded_url": "https://go.usa.gov/xnzaZ",
+                    "indices": [
+                        235,
+                        258
+                    ],
+                    "url": "https://t.co/6ZHEGxceiy"
+                }
+            ],
             "user_mentions": [
                 {
-                    "screen_name": "HistoryAtState",
-                    "name": "HistoryAtState",
                     "id": 586570880,
                     "id_str": "586570880",
                     "indices": [
                         7,
                         22
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "https://t.co/6ZHEGxceiy",
-                    "expanded_url": "https://go.usa.gov/xnzaZ",
-                    "display_url": "go.usa.gov/xnzaZ",
-                    "indices": [
-                        235,
-                        258
-                    ]
+                    ],
+                    "name": "HistoryAtState",
+                    "screen_name": "HistoryAtState"
                 }
             ]
         },
-        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+        "favorite_count": 54,
+        "favorited": false,
+        "full_text": "Today, @HistoryAtState announces the release of newly digitized versions of 17 volumes from the #FRUS series, the official documentary record of U.S. foreign relations. These volumes cover events that took place between 1886 and 1899. https://t.co/6ZHEGxceiy",
+        "geo": null,
+        "id": 969320669371686910,
+        "id_str": "969320669371686913",
+        "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 32,
+        "retweeted": true,
+        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+        "truncated": false,
         "user": {
             "id": 9624742,
             "id_str": "9624742"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 32,
-        "favorite_count": 54,
-        "favorited": false,
-        "retweeted": true,
-        "possibly_sensitive": false,
-        "lang": "en"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 32,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": true,
-    "lang": "en"
+    "source": "&lt;a href=\"http://www.twitter.com\" rel=\"nofollow\"&gt;Twitter for BlackBerry&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

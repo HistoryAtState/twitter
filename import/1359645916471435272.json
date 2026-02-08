@@ -1,41 +1,17 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Wed Feb 10 23:30:22 +0000 2021",
-    "id": 1359645916471435260,
-    "id_str": "1359645916471435272",
-    "full_text": "As Nixon’s Secretary of @USTreasury, Shultz oversaw the start of the transition of the global monetary system from fixed to flexible exchange rates. In May 1973, Shultz, Paul Volcker, and French Minister Giscard d’Estaing debated the future of this system:\nhttps://t.co/np7jt5nIr0 https://t.co/7Ln7GmnSmk",
-    "truncated": false,
     "display_text_range": [
         0,
         280
     ],
     "entities": {
         "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-            {
-                "screen_name": "USTreasury",
-                "name": "Treasury Department",
-                "id": 120176950,
-                "id_str": "120176950",
-                "indices": [
-                    24,
-                    35
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "https://t.co/np7jt5nIr0",
-                "expanded_url": "https://history.state.gov/historicaldocuments/frus1969-76v31/d40",
-                "display_url": "history.state.gov/historicaldocu…",
-                "indices": [
-                    257,
-                    280
-                ]
-            }
-        ],
         "media": [
             {
+                "display_url": "pic.twitter.com/7Ln7GmnSmk",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1359645916471435272/photo/1",
                 "id": 1359645913694625790,
                 "id_str": "1359645913694625795",
                 "indices": [
@@ -44,38 +20,63 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/Et5uwToUYAM19wn.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/Et5uwToUYAM19wn.jpg",
-                "url": "https://t.co/7Ln7GmnSmk",
-                "display_url": "pic.twitter.com/7Ln7GmnSmk",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1359645916471435272/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
                     "large": {
-                        "w": 1644,
                         "h": 1422,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1644
                     },
                     "medium": {
-                        "w": 1200,
                         "h": 1038,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1200
                     },
                     "small": {
-                        "w": 680,
                         "h": 588,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/7Ln7GmnSmk"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "history.state.gov/historicaldocu…",
+                "expanded_url": "https://history.state.gov/historicaldocuments/frus1969-76v31/d40",
+                "indices": [
+                    257,
+                    280
+                ],
+                "url": "https://t.co/np7jt5nIr0"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 120176950,
+                "id_str": "120176950",
+                "indices": [
+                    24,
+                    35
+                ],
+                "name": "Treasury Department",
+                "screen_name": "USTreasury"
             }
         ]
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/7Ln7GmnSmk",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1359645916471435272/photo/1",
+                "ext_alt_text": "Screenshot of a Memorandum of Conversation dated May 31, 1973, 10 am in Reykjavik. Attendees include Minister Giscard d’Estaing, Secretary of the Treasury George P. Shultz, and Under Secretary Paul A. Volcker.",
                 "id": 1359645913694625790,
                 "id_str": "1359645913694625795",
                 "indices": [
@@ -84,55 +85,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/Et5uwToUYAM19wn.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/Et5uwToUYAM19wn.jpg",
-                "url": "https://t.co/7Ln7GmnSmk",
-                "display_url": "pic.twitter.com/7Ln7GmnSmk",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1359645916471435272/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
                     "large": {
-                        "w": 1644,
                         "h": 1422,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1644
                     },
                     "medium": {
-                        "w": 1200,
                         "h": 1038,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1200
                     },
                     "small": {
-                        "w": 680,
                         "h": 588,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": "Screenshot of a Memorandum of Conversation dated May 31, 1973, 10 am in Reykjavik. Attendees include Minister Giscard d’Estaing, Secretary of the Treasury George P. Shultz, and Under Secretary Paul A. Volcker."
+                "type": "photo",
+                "url": "https://t.co/7Ln7GmnSmk"
             }
         ]
     },
-    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "favorite_count": 5,
+    "favorited": false,
+    "full_text": "As Nixon’s Secretary of @USTreasury, Shultz oversaw the start of the transition of the global monetary system from fixed to flexible exchange rates. In May 1973, Shultz, Paul Volcker, and French Minister Giscard d’Estaing debated the future of this system:\nhttps://t.co/np7jt5nIr0 https://t.co/7Ln7GmnSmk",
+    "geo": null,
+    "id": 1359645916471435260,
+    "id_str": "1359645916471435272",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 5,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

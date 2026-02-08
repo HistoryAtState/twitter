@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Fri Mar 28 11:20:15 +0000 2014",
-    "id": 449506245842837500,
-    "id_str": "449506245842837504",
-    "full_text": "Frances E. Willis was 1st female Foreign Service Officer to become an Ambassador when accredited to @USEmbassyBern in 1953",
-    "truncated": false,
     "display_text_range": [
         0,
         122
@@ -11,38 +9,40 @@
     "entities": {
         "hashtags": [],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "USEmbassyBern",
-                "name": "U.S. Embassy Bern",
                 "id": 127512810,
                 "id_str": "127512810",
                 "indices": [
                     100,
                     114
-                ]
+                ],
+                "name": "U.S. Embassy Bern",
+                "screen_name": "USEmbassyBern"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 2,
+    "favorited": false,
+    "full_text": "Frances E. Willis was 1st female Foreign Service Officer to become an Ambassador when accredited to @USEmbassyBern in 1953",
+    "geo": null,
+    "id": 449506245842837500,
+    "id_str": "449506245842837504",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 3,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 2,
-    "favorited": false,
-    "retweeted": false,
-    "lang": "en"
+    }
 }

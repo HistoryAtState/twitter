@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Sun Dec 22 14:01:11 +0000 2019",
-    "id": 1208749327780319230,
-    "id_str": "1208749327780319237",
-    "full_text": "Today is Day 6 of the #7PhotosOfMyLife Challenge. Rules: No people or explanations. Today’s challenge goes out to @WJCLibrary https://t.co/qnLWWcV09H",
-    "truncated": false,
     "display_text_range": [
         0,
         125
@@ -11,29 +9,17 @@
     "entities": {
         "hashtags": [
             {
-                "text": "7PhotosOfMyLife",
                 "indices": [
                     22,
                     38
-                ]
+                ],
+                "text": "7PhotosOfMyLife"
             }
         ],
-        "symbols": [],
-        "user_mentions": [
-            {
-                "screen_name": "WJCLibrary",
-                "name": "Clinton Library",
-                "id": 166655653,
-                "id_str": "166655653",
-                "indices": [
-                    114,
-                    125
-                ]
-            }
-        ],
-        "urls": [],
         "media": [
             {
+                "display_url": "pic.twitter.com/qnLWWcV09H",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1208749327780319237/photo/1",
                 "id": 1208749325221806080,
                 "id_str": "1208749325221806080",
                 "indices": [
@@ -42,38 +28,53 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/EMZXG2hWwAAyh4S.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/EMZXG2hWwAAyh4S.jpg",
-                "url": "https://t.co/qnLWWcV09H",
-                "display_url": "pic.twitter.com/qnLWWcV09H",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1208749327780319237/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
+                    "large": {
+                        "h": 402,
+                        "resize": "fit",
+                        "w": 624
                     },
                     "medium": {
-                        "w": 624,
                         "h": 402,
-                        "resize": "fit"
-                    },
-                    "large": {
-                        "w": 624,
-                        "h": 402,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 624
                     },
                     "small": {
-                        "w": 624,
                         "h": 402,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 624
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/qnLWWcV09H"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 166655653,
+                "id_str": "166655653",
+                "indices": [
+                    114,
+                    125
+                ],
+                "name": "Clinton Library",
+                "screen_name": "WJCLibrary"
             }
         ]
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/qnLWWcV09H",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1208749327780319237/photo/1",
+                "ext_alt_text": "Screenshot of the Office of the Historian web page for the Administrative Timeline of the Department of State",
                 "id": 1208749325221806080,
                 "id_str": "1208749325221806080",
                 "indices": [
@@ -82,55 +83,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/EMZXG2hWwAAyh4S.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/EMZXG2hWwAAyh4S.jpg",
-                "url": "https://t.co/qnLWWcV09H",
-                "display_url": "pic.twitter.com/qnLWWcV09H",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1208749327780319237/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
+                    "large": {
+                        "h": 402,
+                        "resize": "fit",
+                        "w": 624
                     },
                     "medium": {
-                        "w": 624,
                         "h": 402,
-                        "resize": "fit"
-                    },
-                    "large": {
-                        "w": 624,
-                        "h": 402,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 624
                     },
                     "small": {
-                        "w": 624,
                         "h": 402,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 624
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": "Screenshot of the Office of the Historian web page for the Administrative Timeline of the Department of State"
+                "type": "photo",
+                "url": "https://t.co/qnLWWcV09H"
             }
         ]
     },
-    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "favorite_count": 3,
+    "favorited": false,
+    "full_text": "Today is Day 6 of the #7PhotosOfMyLife Challenge. Rules: No people or explanations. Today’s challenge goes out to @WJCLibrary https://t.co/qnLWWcV09H",
+    "geo": null,
+    "id": 1208749327780319230,
+    "id_str": "1208749327780319237",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 3,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

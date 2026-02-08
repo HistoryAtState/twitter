@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Sep 12 22:00:12 +0000 2022",
-    "id": 1569445801902112770,
-    "id_str": "1569445801902112769",
-    "full_text": "“Mr. Gorbachev, tear down this wall!”\n\nStanding before the Brandenburg Gate in June 1987, Pres. Reagan exhorted the Soviet Union to dismantle the Berlin Wall, an infamous physical and ideological barrier between East and West.\n\nRead more in #FRUS: https://t.co/TKPFjSVcq8\n\n(1/2) https://t.co/v9jKKmKevV",
-    "truncated": false,
     "display_text_range": [
         0,
         278
@@ -11,28 +9,17 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     241,
                     246
-                ]
-            }
-        ],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
-            {
-                "url": "https://t.co/TKPFjSVcq8",
-                "expanded_url": "http://ow.ly/1Mrf50KFZzh",
-                "display_url": "ow.ly/1Mrf50KFZzh",
-                "indices": [
-                    248,
-                    271
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "media": [
             {
+                "display_url": "pic.twitter.com/v9jKKmKevV",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1569445801902112769/video/1",
                 "id": 1569444667556597760,
                 "id_str": "1569444667556597762",
                 "indices": [
@@ -41,38 +28,55 @@
                 ],
                 "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1569444667556597762/pu/img/4Q_ov7p65ZiCGqZ5.jpg",
                 "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1569444667556597762/pu/img/4Q_ov7p65ZiCGqZ5.jpg",
-                "url": "https://t.co/v9jKKmKevV",
-                "display_url": "pic.twitter.com/v9jKKmKevV",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1569445801902112769/video/1",
-                "type": "photo",
                 "sizes": {
-                    "small": {
-                        "w": 680,
-                        "h": 453,
-                        "resize": "fit"
-                    },
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
+                    "large": {
+                        "h": 480,
+                        "resize": "fit",
+                        "w": 720
                     },
                     "medium": {
-                        "w": 720,
                         "h": 480,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 720
                     },
-                    "large": {
-                        "w": 720,
-                        "h": 480,
-                        "resize": "fit"
+                    "small": {
+                        "h": 453,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/v9jKKmKevV"
             }
-        ]
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "ow.ly/1Mrf50KFZzh",
+                "expanded_url": "http://ow.ly/1Mrf50KFZzh",
+                "indices": [
+                    248,
+                    271
+                ],
+                "url": "https://t.co/TKPFjSVcq8"
+            }
+        ],
+        "user_mentions": []
     },
     "extended_entities": {
         "media": [
             {
+                "additional_media_info": {
+                    "monetizable": false
+                },
+                "display_url": "pic.twitter.com/v9jKKmKevV",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1569445801902112769/video/1",
+                "ext_alt_text": null,
                 "id": 1569444667556597760,
                 "id_str": "1569444667556597762",
                 "indices": [
@@ -81,32 +85,30 @@
                 ],
                 "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1569444667556597762/pu/img/4Q_ov7p65ZiCGqZ5.jpg",
                 "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1569444667556597762/pu/img/4Q_ov7p65ZiCGqZ5.jpg",
-                "url": "https://t.co/v9jKKmKevV",
-                "display_url": "pic.twitter.com/v9jKKmKevV",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1569445801902112769/video/1",
-                "type": "video",
                 "sizes": {
-                    "small": {
-                        "w": 680,
-                        "h": 453,
-                        "resize": "fit"
-                    },
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
+                    "large": {
+                        "h": 480,
+                        "resize": "fit",
+                        "w": 720
                     },
                     "medium": {
-                        "w": 720,
                         "h": 480,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 720
                     },
-                    "large": {
-                        "w": 720,
-                        "h": 480,
-                        "resize": "fit"
+                    "small": {
+                        "h": 453,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
+                "type": "video",
+                "url": "https://t.co/v9jKKmKevV",
                 "video_info": {
                     "aspect_ratio": [
                         3,
@@ -134,31 +136,31 @@
                             "url": "https://video.twimg.com/ext_tw_video/1569444667556597762/pu/vid/540x360/kEcfkr3z0FK7-d8B.mp4?tag=12"
                         }
                     ]
-                },
-                "ext_alt_text": null,
-                "additional_media_info": {"monetizable": false}
+                }
             }
         ]
     },
-    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "favorite_count": 6,
+    "favorited": false,
+    "full_text": "“Mr. Gorbachev, tear down this wall!”\n\nStanding before the Brandenburg Gate in June 1987, Pres. Reagan exhorted the Soviet Union to dismantle the Berlin Wall, an infamous physical and ideological barrier between East and West.\n\nRead more in #FRUS: https://t.co/TKPFjSVcq8\n\n(1/2) https://t.co/v9jKKmKevV",
+    "geo": null,
+    "id": 1569445801902112770,
+    "id_str": "1569445801902112769",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3,
+    "retweeted": false,
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 6,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

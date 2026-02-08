@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Sun Oct 28 14:04:02 +0000 2012",
-    "id": 262555324970586112,
-    "id_str": "262555324970586114",
-    "full_text": "October 28, 1962. How did the US make sense of the contradictory messages coming from the Kremlin? http://t.co/SpgrvOsU #FRUS #cmc",
-    "truncated": false,
     "display_text_range": [
         0,
         130
@@ -11,53 +9,55 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     120,
                     125
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "cmc",
                 "indices": [
                     126,
                     130
-                ]
+                ],
+                "text": "cmc"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/SpgrvOsU",
-                "expanded_url": "http://bit.ly/VUkNpB",
                 "display_url": "bit.ly/VUkNpB",
+                "expanded_url": "http://bit.ly/VUkNpB",
                 "indices": [
                     99,
                     119
-                ]
+                ],
+                "url": "http://t.co/SpgrvOsU"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "October 28, 1962. How did the US make sense of the contradictory messages coming from the Kremlin? http://t.co/SpgrvOsU #FRUS #cmc",
+    "geo": null,
+    "id": 262555324970586112,
+    "id_str": "262555324970586114",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

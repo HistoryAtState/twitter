@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Mar 21 13:05:52 +0000 2016",
-    "id": 711901642577285120,
-    "id_str": "711901642577285120",
-    "full_text": "Here is the @HistoryAtState guide to U.S. history of recognitions and relations with #Cuba: https://t.co/TgoMUI65Or #twitterstorians",
-    "truncated": false,
     "display_text_range": [
         0,
         132
@@ -11,64 +9,66 @@
     "entities": {
         "hashtags": [
             {
-                "text": "Cuba",
                 "indices": [
                     85,
                     90
-                ]
+                ],
+                "text": "Cuba"
             },
             {
-                "text": "twitterstorians",
                 "indices": [
                     116,
                     132
-                ]
+                ],
+                "text": "twitterstorians"
             }
         ],
         "symbols": [],
+        "urls": [
+            {
+                "display_url": "history.state.gov/countries/cuba",
+                "expanded_url": "https://history.state.gov/countries/cuba",
+                "indices": [
+                    92,
+                    115
+                ],
+                "url": "https://t.co/TgoMUI65Or"
+            }
+        ],
         "user_mentions": [
             {
-                "screen_name": "HistoryAtState",
-                "name": "HistoryAtState",
                 "id": 586570880,
                 "id_str": "586570880",
                 "indices": [
                     12,
                     27
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "https://t.co/TgoMUI65Or",
-                "expanded_url": "https://history.state.gov/countries/cuba",
-                "display_url": "history.state.gov/countries/cuba",
-                "indices": [
-                    92,
-                    115
-                ]
+                ],
+                "name": "HistoryAtState",
+                "screen_name": "HistoryAtState"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 4,
+    "favorited": false,
+    "full_text": "Here is the @HistoryAtState guide to U.S. history of recognitions and relations with #Cuba: https://t.co/TgoMUI65Or #twitterstorians",
+    "geo": null,
+    "id": 711901642577285120,
+    "id_str": "711901642577285120",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 6,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 4,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

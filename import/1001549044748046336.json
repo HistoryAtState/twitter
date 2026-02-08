@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue May 29 19:41:14 +0000 2018",
-    "id": 1001549044748046340,
-    "id_str": "1001549044748046336",
-    "full_text": "May 29, 1988: “The President said that both sides had come a long way since he first wrote to Gorbachev in 1985. History would record the period positively, and that was true not just for our relations.” https://t.co/hC6sfxehaG #FRUS 📷@Reagan_Library https://t.co/XRWZpS4j4K",
-    "truncated": false,
     "display_text_range": [
         0,
         250
@@ -11,39 +9,17 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     228,
                     233
-                ]
-            }
-        ],
-        "symbols": [],
-        "user_mentions": [
-            {
-                "screen_name": "Reagan_Library",
-                "name": "RonaldReaganLibrary",
-                "id": 394351710,
-                "id_str": "394351710",
-                "indices": [
-                    235,
-                    250
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "https://t.co/hC6sfxehaG",
-                "expanded_url": "https://go.usa.gov/xQBQn",
-                "display_url": "go.usa.gov/xQBQn",
-                "indices": [
-                    204,
-                    227
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "media": [
             {
+                "display_url": "pic.twitter.com/XRWZpS4j4K",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1001549044748046336/photo/1",
                 "id": 1001548887361032190,
                 "id_str": "1001548887361032197",
                 "indices": [
@@ -52,38 +28,63 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/DeY3aBhXkAUdicp.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DeY3aBhXkAUdicp.jpg",
-                "url": "https://t.co/XRWZpS4j4K",
-                "display_url": "pic.twitter.com/XRWZpS4j4K",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1001549044748046336/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "small": {
-                        "w": 680,
-                        "h": 453,
-                        "resize": "fit"
-                    },
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
                     "large": {
-                        "w": 750,
                         "h": 500,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 750
                     },
                     "medium": {
-                        "w": 750,
                         "h": 500,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 750
+                    },
+                    "small": {
+                        "h": 453,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/XRWZpS4j4K"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "go.usa.gov/xQBQn",
+                "expanded_url": "https://go.usa.gov/xQBQn",
+                "indices": [
+                    204,
+                    227
+                ],
+                "url": "https://t.co/hC6sfxehaG"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 394351710,
+                "id_str": "394351710",
+                "indices": [
+                    235,
+                    250
+                ],
+                "name": "RonaldReaganLibrary",
+                "screen_name": "Reagan_Library"
             }
         ]
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/XRWZpS4j4K",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1001549044748046336/photo/1",
+                "ext_alt_text": "Reagan &amp; Gorbachev",
                 "id": 1001548887361032190,
                 "id_str": "1001548887361032197",
                 "indices": [
@@ -92,55 +93,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/DeY3aBhXkAUdicp.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DeY3aBhXkAUdicp.jpg",
-                "url": "https://t.co/XRWZpS4j4K",
-                "display_url": "pic.twitter.com/XRWZpS4j4K",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1001549044748046336/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "small": {
-                        "w": 680,
-                        "h": 453,
-                        "resize": "fit"
-                    },
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
                     "large": {
-                        "w": 750,
                         "h": 500,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 750
                     },
                     "medium": {
-                        "w": 750,
                         "h": 500,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 750
+                    },
+                    "small": {
+                        "h": 453,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": "Reagan &amp; Gorbachev"
+                "type": "photo",
+                "url": "https://t.co/XRWZpS4j4K"
             }
         ]
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 8,
+    "favorited": false,
+    "full_text": "May 29, 1988: “The President said that both sides had come a long way since he first wrote to Gorbachev in 1985. History would record the period positively, and that was true not just for our relations.” https://t.co/hC6sfxehaG #FRUS 📷@Reagan_Library https://t.co/XRWZpS4j4K",
+    "geo": null,
+    "id": 1001549044748046340,
+    "id_str": "1001549044748046336",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 8,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

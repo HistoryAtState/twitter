@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Aug 26 14:00:36 +0000 2013",
-    "id": 371995599425392640,
-    "id_str": "371995599425392640",
-    "full_text": "John Denver and Harry Chapin discuss their interest in 70s-era U.S. foreign food aid policies http://t.co/cw4aMHNKAP #FRUS #twitterstorians",
-    "truncated": false,
     "display_text_range": [
         0,
         139
@@ -11,53 +9,55 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     117,
                     122
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "twitterstorians",
                 "indices": [
                     123,
                     139
-                ]
+                ],
+                "text": "twitterstorians"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/cw4aMHNKAP",
-                "expanded_url": "http://go.usa.gov/juXT",
                 "display_url": "go.usa.gov/juXT",
+                "expanded_url": "http://go.usa.gov/juXT",
                 "indices": [
                     94,
                     116
-                ]
+                ],
+                "url": "http://t.co/cw4aMHNKAP"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
+    "favorite_count": 1,
+    "favorited": false,
+    "full_text": "John Denver and Harry Chapin discuss their interest in 70s-era U.S. foreign food aid policies http://t.co/cw4aMHNKAP #FRUS #twitterstorians",
+    "geo": null,
+    "id": 371995599425392640,
+    "id_str": "371995599425392640",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3,
+    "retweeted": false,
+    "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 1,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

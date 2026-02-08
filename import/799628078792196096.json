@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Fri Nov 18 14:59:25 +0000 2016",
-    "id": 799628078792196100,
-    "id_str": "799628078792196096",
-    "full_text": "RT @ClementsCenter: Good Morning Longhorns! We're kicking off our \"Rise and Fall of Detente\" Conference bright and early with a panel on En…",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,51 +9,50 @@
     "entities": {
         "hashtags": [],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "ClementsCenter",
-                "name": "Clements Center",
                 "id": 1112380602,
                 "id_str": "1112380602",
                 "indices": [
                     3,
                     18
-                ]
+                ],
+                "name": "Clements Center",
+                "screen_name": "ClementsCenter"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "RT @ClementsCenter: Good Morning Longhorns! We're kicking off our \"Rise and Fall of Detente\" Conference bright and early with a panel on En…",
+    "geo": null,
+    "id": 799628078792196100,
+    "id_str": "799628078792196096",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "retweet_count": 4,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Fri Nov 18 14:29:30 +0000 2016",
-        "id": 799620554043129860,
-        "id_str": "799620554043129857",
-        "full_text": "Good Morning Longhorns! We're kicking off our \"Rise and Fall of Detente\" Conference bright and early with a panel on Energy Dependency &amp;amp; FP https://t.co/E7dpSKcy0I",
-        "truncated": false,
         "display_text_range": [
             0,
             143
         ],
         "entities": {
             "hashtags": [],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [],
             "media": [
                 {
+                    "display_url": "pic.twitter.com/E7dpSKcy0I",
+                    "expanded_url": "https://twitter.com/ClementsCenter/status/799620554043129857/photo/1",
                     "id": 799620347074990080,
                     "id_str": "799620347074990080",
                     "indices": [
@@ -64,38 +61,42 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/CxjSeBaUUAAZg0O.jpg",
                     "media_url_https": "https://pbs.twimg.com/media/CxjSeBaUUAAZg0O.jpg",
-                    "url": "https://t.co/E7dpSKcy0I",
-                    "display_url": "pic.twitter.com/E7dpSKcy0I",
-                    "expanded_url": "https://twitter.com/ClementsCenter/status/799620554043129857/photo/1",
-                    "type": "photo",
                     "sizes": {
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
-                        },
                         "large": {
-                            "w": 2048,
                             "h": 1271,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 2048
                         },
                         "medium": {
-                            "w": 1200,
                             "h": 745,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 1200
                         },
                         "small": {
-                            "w": 680,
                             "h": 422,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
                         }
-                    }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/E7dpSKcy0I"
                 }
-            ]
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
         },
         "extended_entities": {
             "media": [
                 {
+                    "display_url": "pic.twitter.com/E7dpSKcy0I",
+                    "expanded_url": "https://twitter.com/ClementsCenter/status/799620554043129857/photo/1",
+                    "ext_alt_text": null,
                     "id": 799620347074990080,
                     "id_str": "799620347074990080",
                     "indices": [
@@ -104,62 +105,61 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/CxjSeBaUUAAZg0O.jpg",
                     "media_url_https": "https://pbs.twimg.com/media/CxjSeBaUUAAZg0O.jpg",
-                    "url": "https://t.co/E7dpSKcy0I",
-                    "display_url": "pic.twitter.com/E7dpSKcy0I",
-                    "expanded_url": "https://twitter.com/ClementsCenter/status/799620554043129857/photo/1",
-                    "type": "photo",
                     "sizes": {
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
-                        },
                         "large": {
-                            "w": 2048,
                             "h": 1271,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 2048
                         },
                         "medium": {
-                            "w": 1200,
                             "h": 745,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 1200
                         },
                         "small": {
-                            "w": 680,
                             "h": 422,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
                         }
                     },
-                    "ext_alt_text": null
+                    "type": "photo",
+                    "url": "https://t.co/E7dpSKcy0I"
                 }
             ]
         },
-        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+        "favorite_count": 6,
+        "favorited": false,
+        "full_text": "Good Morning Longhorns! We're kicking off our \"Rise and Fall of Detente\" Conference bright and early with a panel on Energy Dependency &amp;amp; FP https://t.co/E7dpSKcy0I",
+        "geo": null,
+        "id": 799620554043129860,
+        "id_str": "799620554043129857",
+        "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 4,
+        "retweeted": true,
+        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+        "truncated": false,
         "user": {
             "id": 1112380602,
             "id_str": "1112380602"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 4,
-        "favorite_count": 6,
-        "favorited": false,
-        "retweeted": true,
-        "possibly_sensitive": false,
-        "lang": "en"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": true,
-    "lang": "en"
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

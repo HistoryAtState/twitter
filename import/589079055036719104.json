@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Fri Apr 17 14:52:45 +0000 2015",
-    "id": 589079055036719100,
-    "id_str": "589079055036719104",
-    "full_text": "RT @icedd_org: Ashley: The 1991 #FRUS statute mandated declassification cooperation by US agencies with @historyatstate https://t.co/8VDH4I…",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,58 +9,58 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     32,
                     37
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "icedd_org",
-                "name": "ICEDD",
                 "id": 3131310616,
                 "id_str": "3131310616",
                 "indices": [
                     3,
                     13
-                ]
+                ],
+                "name": "ICEDD",
+                "screen_name": "icedd_org"
             },
             {
-                "screen_name": "HistoryAtState",
-                "name": "HistoryAtState",
                 "id": 586570880,
                 "id_str": "586570880",
                 "indices": [
                     104,
                     119
-                ]
+                ],
+                "name": "HistoryAtState",
+                "screen_name": "HistoryAtState"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"&gt;Twitter for iPad&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "RT @icedd_org: Ashley: The 1991 #FRUS statute mandated declassification cooperation by US agencies with @historyatstate https://t.co/8VDH4I…",
+    "geo": null,
+    "id": 589079055036719100,
+    "id_str": "589079055036719104",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "retweet_count": 2,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Fri Apr 17 14:25:00 +0000 2015",
-        "id": 589072071159898110,
-        "id_str": "589072071159898114",
-        "full_text": "Ashley: The 1991 #FRUS statute mandated declassification cooperation by US agencies with @historyatstate https://t.co/8VDH4ImKs7 #icedd2015",
-        "truncated": false,
         "display_text_range": [
             0,
             139
@@ -70,71 +68,73 @@
         "entities": {
             "hashtags": [
                 {
-                    "text": "FRUS",
                     "indices": [
                         17,
                         22
-                    ]
+                    ],
+                    "text": "FRUS"
                 },
                 {
-                    "text": "icedd2015",
                     "indices": [
                         129,
                         139
-                    ]
+                    ],
+                    "text": "icedd2015"
                 }
             ],
             "symbols": [],
+            "urls": [
+                {
+                    "display_url": "history.state.gov/historicaldocu…",
+                    "expanded_url": "https://history.state.gov/historicaldocuments/frus-history/research/to-the-1991-frus-statute",
+                    "indices": [
+                        105,
+                        128
+                    ],
+                    "url": "https://t.co/8VDH4ImKs7"
+                }
+            ],
             "user_mentions": [
                 {
-                    "screen_name": "HistoryAtState",
-                    "name": "HistoryAtState",
                     "id": 586570880,
                     "id_str": "586570880",
                     "indices": [
                         89,
                         104
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "https://t.co/8VDH4ImKs7",
-                    "expanded_url": "https://history.state.gov/historicaldocuments/frus-history/research/to-the-1991-frus-statute",
-                    "display_url": "history.state.gov/historicaldocu…",
-                    "indices": [
-                        105,
-                        128
-                    ]
+                    ],
+                    "name": "HistoryAtState",
+                    "screen_name": "HistoryAtState"
                 }
             ]
         },
-        "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
+        "favorite_count": 0,
+        "favorited": false,
+        "full_text": "Ashley: The 1991 #FRUS statute mandated declassification cooperation by US agencies with @historyatstate https://t.co/8VDH4ImKs7 #icedd2015",
+        "geo": null,
+        "id": 589072071159898110,
+        "id_str": "589072071159898114",
+        "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 2,
+        "retweeted": true,
+        "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
+        "truncated": false,
         "user": {
             "id": 3131310616,
             "id_str": "3131310616"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 2,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": true,
-        "possibly_sensitive": false,
-        "lang": "en"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": true,
-    "lang": "en"
+    "source": "&lt;a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"&gt;Twitter for iPad&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

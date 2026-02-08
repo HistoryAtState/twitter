@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Fri May 01 15:07:04 +0000 2020",
-    "id": 1256238716701605890,
-    "id_str": "1256238716701605888",
-    "full_text": "RT @FSIatState: (2/2) Reports like these served as notices for mariners, and @StateDept utilized this info to apprise merchant ships about…",
-    "truncated": false,
     "display_text_range": [
         0,
         139
@@ -11,50 +9,50 @@
     "entities": {
         "hashtags": [],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "FSIatState",
-                "name": "Foreign Service Institute",
                 "id": 958044239576948740,
                 "id_str": "958044239576948736",
                 "indices": [
                     3,
                     14
-                ]
+                ],
+                "name": "Foreign Service Institute",
+                "screen_name": "FSIatState"
             },
             {
-                "screen_name": "StateDept",
-                "name": "Department of State",
                 "id": 9624742,
                 "id_str": "9624742",
                 "indices": [
                     77,
                     87
-                ]
+                ],
+                "name": "Department of State",
+                "screen_name": "StateDept"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": true,
+    "full_text": "RT @FSIatState: (2/2) Reports like these served as notices for mariners, and @StateDept utilized this info to apprise merchant ships about…",
+    "geo": null,
+    "id": 1256238716701605890,
+    "id_str": "1256238716701605888",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "retweet_count": 1,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Thu Apr 30 13:19:58 +0000 2020",
-        "id": 1255849374254616580,
-        "id_str": "1255849374254616577",
-        "full_text": "(2/2) Reports like these served as notices for mariners, and @StateDept utilized this info to apprise merchant ships about which ports to avoid. U.S. officials also negotiated w/ foreign governments when they banned entry of U.S. vessels as a preventative measure. #FSIatHome",
-        "truncated": false,
         "display_text_range": [
             0,
             275
@@ -62,53 +60,55 @@
         "entities": {
             "hashtags": [
                 {
-                    "text": "FSIatHome",
                     "indices": [
                         265,
                         275
-                    ]
+                    ],
+                    "text": "FSIatHome"
                 }
             ],
             "symbols": [],
+            "urls": [],
             "user_mentions": [
                 {
-                    "screen_name": "StateDept",
-                    "name": "Department of State",
                     "id": 9624742,
                     "id_str": "9624742",
                     "indices": [
                         61,
                         71
-                    ]
+                    ],
+                    "name": "Department of State",
+                    "screen_name": "StateDept"
                 }
-            ],
-            "urls": []
+            ]
         },
-        "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+        "favorite_count": 1,
+        "favorited": true,
+        "full_text": "(2/2) Reports like these served as notices for mariners, and @StateDept utilized this info to apprise merchant ships about which ports to avoid. U.S. officials also negotiated w/ foreign governments when they banned entry of U.S. vessels as a preventative measure. #FSIatHome",
+        "geo": null,
+        "id": 1255849374254616580,
+        "id_str": "1255849374254616577",
+        "in_reply_to_screen_name": "FSIatState",
         "in_reply_to_status_id": 1255849372811776000,
         "in_reply_to_status_id_str": "1255849372811776000",
         "in_reply_to_user_id": 958044239576948740,
         "in_reply_to_user_id_str": "958044239576948736",
-        "in_reply_to_screen_name": "FSIatState",
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "retweet_count": 1,
+        "retweeted": true,
+        "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+        "truncated": false,
         "user": {
             "id": 958044239576948740,
             "id_str": "958044239576948736"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 1,
-        "favorite_count": 1,
-        "favorited": true,
-        "retweeted": true,
-        "lang": "en"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 0,
-    "favorited": true,
-    "retweeted": true,
-    "lang": "en"
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

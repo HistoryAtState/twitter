@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Nov 21 13:16:16 +0000 2013",
-    "id": 403512184485183490,
-    "id_str": "403512184485183488",
-    "full_text": "#FEP focus changed in 1970s. 1st US trade deficit since 1880s/90s was 1971; thus by Carter it was more important http://t.co/NqxmGgpBsb",
-    "truncated": false,
     "display_text_range": [
         0,
         135
@@ -11,46 +9,48 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FEP",
                 "indices": [
                     0,
                     4
-                ]
+                ],
+                "text": "FEP"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/NqxmGgpBsb",
-                "expanded_url": "http://ow.ly/qYvhb",
                 "display_url": "ow.ly/qYvhb",
+                "expanded_url": "http://ow.ly/qYvhb",
                 "indices": [
                     113,
                     135
-                ]
+                ],
+                "url": "http://t.co/NqxmGgpBsb"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "#FEP focus changed in 1970s. 1st US trade deficit since 1880s/90s was 1971; thus by Carter it was more important http://t.co/NqxmGgpBsb",
+    "geo": null,
+    "id": 403512184485183490,
+    "id_str": "403512184485183488",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

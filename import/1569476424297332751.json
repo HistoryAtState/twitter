@@ -1,30 +1,17 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Sep 13 00:01:53 +0000 2022",
-    "id": 1569476424297332740,
-    "id_str": "1569476424297332751",
-    "full_text": "“I want the new [US-Soviet] closeness to continue,” Pres. Reagan said in his farewell address. “And it will, as long as we make it clear that we will continue to act in a certain way as long as they continue to act in a helpful manner.…trust but verify.”\nhttps://t.co/6Zntp4aQW2 https://t.co/Ua69atkGg3",
-    "truncated": false,
     "display_text_range": [
         0,
         278
     ],
     "entities": {
         "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
-            {
-                "url": "https://t.co/6Zntp4aQW2",
-                "expanded_url": "http://ow.ly/bv8i50KCYIA",
-                "display_url": "ow.ly/bv8i50KCYIA",
-                "indices": [
-                    255,
-                    278
-                ]
-            }
-        ],
         "media": [
             {
+                "display_url": "pic.twitter.com/Ua69atkGg3",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1569476424297332751/photo/1",
                 "id": 1569476422023921660,
                 "id_str": "1569476422023921667",
                 "indices": [
@@ -33,38 +20,52 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/FcfmfYoWQAMJXBD.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/FcfmfYoWQAMJXBD.jpg",
-                "url": "https://t.co/Ua69atkGg3",
-                "display_url": "pic.twitter.com/Ua69atkGg3",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1569476424297332751/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
                     "large": {
-                        "w": 1000,
                         "h": 658,
-                        "resize": "fit"
-                    },
-                    "small": {
-                        "w": 680,
-                        "h": 447,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1000
                     },
                     "medium": {
-                        "w": 1000,
                         "h": 658,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1000
+                    },
+                    "small": {
+                        "h": 447,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/Ua69atkGg3"
             }
-        ]
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "ow.ly/bv8i50KCYIA",
+                "expanded_url": "http://ow.ly/bv8i50KCYIA",
+                "indices": [
+                    255,
+                    278
+                ],
+                "url": "https://t.co/6Zntp4aQW2"
+            }
+        ],
+        "user_mentions": []
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/Ua69atkGg3",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1569476424297332751/photo/1",
+                "ext_alt_text": "Color photograph: “President Ronald Reagan Sitting at His Desk During His Farewell Address to The Nation from The Oval Office” The photograph is taken from Reagan’s right side. Reagan is holding his speech and facing press photographers who have cameras directed at him (NARA ID 75856447)",
                 "id": 1569476422023921660,
                 "id_str": "1569476422023921667",
                 "indices": [
@@ -73,35 +74,35 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/FcfmfYoWQAMJXBD.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/FcfmfYoWQAMJXBD.jpg",
-                "url": "https://t.co/Ua69atkGg3",
-                "display_url": "pic.twitter.com/Ua69atkGg3",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1569476424297332751/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
                     "large": {
-                        "w": 1000,
                         "h": 658,
-                        "resize": "fit"
-                    },
-                    "small": {
-                        "w": 680,
-                        "h": 447,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1000
                     },
                     "medium": {
-                        "w": 1000,
                         "h": 658,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1000
+                    },
+                    "small": {
+                        "h": 447,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": "Color photograph: “President Ronald Reagan Sitting at His Desk During His Farewell Address to The Nation from The Oval Office” The photograph is taken from Reagan’s right side. Reagan is holding his speech and facing press photographers who have cameras directed at him (NARA ID 75856447)"
+                "type": "photo",
+                "url": "https://t.co/Ua69atkGg3"
             },
             {
+                "display_url": "pic.twitter.com/Ua69atkGg3",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1569476424297332751/photo/1",
+                "ext_alt_text": "Screenshot of “335. Address by President Reagan to the Nation,” dated Jan. 11, 1989: “President Gorbachev has brought about some internal democratic reforms and begun the withdrawal from Afghanistan. He has also freed prisoners whose names I’ve given him every time we’ve met…We must keep up our guard, but we must also continue to work together to lessen and eliminate tension and mistrust.”",
                 "id": 1569476421919154180,
                 "id_str": "1569476421919154180",
                 "indices": [
@@ -110,55 +111,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/FcfmfYPXoAQ8OLL.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/FcfmfYPXoAQ8OLL.jpg",
-                "url": "https://t.co/Ua69atkGg3",
-                "display_url": "pic.twitter.com/Ua69atkGg3",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1569476424297332751/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
+                    "large": {
+                        "h": 1134,
+                        "resize": "fit",
+                        "w": 998
                     },
                     "medium": {
-                        "w": 998,
                         "h": 1134,
-                        "resize": "fit"
-                    },
-                    "large": {
-                        "w": 998,
-                        "h": 1134,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 998
                     },
                     "small": {
-                        "w": 598,
                         "h": 680,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 598
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": "Screenshot of “335. Address by President Reagan to the Nation,” dated Jan. 11, 1989: “President Gorbachev has brought about some internal democratic reforms and begun the withdrawal from Afghanistan. He has also freed prisoners whose names I’ve given him every time we’ve met…We must keep up our guard, but we must also continue to work together to lessen and eliminate tension and mistrust.”"
+                "type": "photo",
+                "url": "https://t.co/Ua69atkGg3"
             }
         ]
     },
-    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "favorite_count": 4,
+    "favorited": false,
+    "full_text": "“I want the new [US-Soviet] closeness to continue,” Pres. Reagan said in his farewell address. “And it will, as long as we make it clear that we will continue to act in a certain way as long as they continue to act in a helpful manner.…trust but verify.”\nhttps://t.co/6Zntp4aQW2 https://t.co/Ua69atkGg3",
+    "geo": null,
+    "id": 1569476424297332740,
+    "id_str": "1569476424297332751",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3,
+    "retweeted": false,
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 4,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

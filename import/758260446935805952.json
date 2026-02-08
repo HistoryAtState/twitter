@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Wed Jul 27 11:19:13 +0000 2016",
-    "id": 758260446935805950,
-    "id_str": "758260446935805952",
-    "full_text": "RT @DIFP_RIA: #docoftheday #OTD 1950 Irish Amb. USA reports 'military situation in Korea definitely very bad' @HistoryAtState https://t.co/…",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,65 +9,65 @@
     "entities": {
         "hashtags": [
             {
-                "text": "docoftheday",
                 "indices": [
                     14,
                     26
-                ]
+                ],
+                "text": "docoftheday"
             },
             {
-                "text": "OTD",
                 "indices": [
                     27,
                     31
-                ]
+                ],
+                "text": "OTD"
             }
         ],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "DIFP_RIA",
-                "name": "Documents on Irish Foreign Policy",
                 "id": 308372241,
                 "id_str": "308372241",
                 "indices": [
                     3,
                     12
-                ]
+                ],
+                "name": "Documents on Irish Foreign Policy",
+                "screen_name": "DIFP_RIA"
             },
             {
-                "screen_name": "HistoryAtState",
-                "name": "HistoryAtState",
                 "id": 586570880,
                 "id_str": "586570880",
                 "indices": [
                     110,
                     125
-                ]
+                ],
+                "name": "HistoryAtState",
+                "screen_name": "HistoryAtState"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "RT @DIFP_RIA: #docoftheday #OTD 1950 Irish Amb. USA reports 'military situation in Korea definitely very bad' @HistoryAtState https://t.co/…",
+    "geo": null,
+    "id": 758260446935805950,
+    "id_str": "758260446935805952",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "retweet_count": 2,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Wed Jul 27 10:42:56 +0000 2016",
-        "id": 758251319555653630,
-        "id_str": "758251319555653632",
-        "full_text": "#docoftheday #OTD 1950 Irish Amb. USA reports 'military situation in Korea definitely very bad' @HistoryAtState https://t.co/Ue97KciBUN",
-        "truncated": false,
         "display_text_range": [
             0,
             111
@@ -77,36 +75,24 @@
         "entities": {
             "hashtags": [
                 {
-                    "text": "docoftheday",
                     "indices": [
                         0,
                         12
-                    ]
+                    ],
+                    "text": "docoftheday"
                 },
                 {
-                    "text": "OTD",
                     "indices": [
                         13,
                         17
-                    ]
+                    ],
+                    "text": "OTD"
                 }
             ],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "HistoryAtState",
-                    "name": "HistoryAtState",
-                    "id": 586570880,
-                    "id_str": "586570880",
-                    "indices": [
-                        96,
-                        111
-                    ]
-                }
-            ],
-            "urls": [],
             "media": [
                 {
+                    "display_url": "pic.twitter.com/Ue97KciBUN",
+                    "expanded_url": "https://twitter.com/DIFP_RIA/status/758251319555653632/photo/1",
                     "id": 758249782787923970,
                     "id_str": "758249782787923973",
                     "indices": [
@@ -115,38 +101,53 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/CoXYKPoXYAU2TAc.jpg",
                     "media_url_https": "https://pbs.twimg.com/media/CoXYKPoXYAU2TAc.jpg",
-                    "url": "https://t.co/Ue97KciBUN",
-                    "display_url": "pic.twitter.com/Ue97KciBUN",
-                    "expanded_url": "https://twitter.com/DIFP_RIA/status/758251319555653632/photo/1",
-                    "type": "photo",
                     "sizes": {
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
-                        },
                         "large": {
-                            "w": 480,
                             "h": 800,
-                            "resize": "fit"
-                        },
-                        "small": {
-                            "w": 408,
-                            "h": 680,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 480
                         },
                         "medium": {
-                            "w": 480,
                             "h": 800,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 480
+                        },
+                        "small": {
+                            "h": 680,
+                            "resize": "fit",
+                            "w": 408
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
                         }
-                    }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/Ue97KciBUN"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 586570880,
+                    "id_str": "586570880",
+                    "indices": [
+                        96,
+                        111
+                    ],
+                    "name": "HistoryAtState",
+                    "screen_name": "HistoryAtState"
                 }
             ]
         },
         "extended_entities": {
             "media": [
                 {
+                    "display_url": "pic.twitter.com/Ue97KciBUN",
+                    "expanded_url": "https://twitter.com/DIFP_RIA/status/758251319555653632/photo/1",
+                    "ext_alt_text": null,
                     "id": 758249782787923970,
                     "id_str": "758249782787923973",
                     "indices": [
@@ -155,62 +156,61 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/CoXYKPoXYAU2TAc.jpg",
                     "media_url_https": "https://pbs.twimg.com/media/CoXYKPoXYAU2TAc.jpg",
-                    "url": "https://t.co/Ue97KciBUN",
-                    "display_url": "pic.twitter.com/Ue97KciBUN",
-                    "expanded_url": "https://twitter.com/DIFP_RIA/status/758251319555653632/photo/1",
-                    "type": "photo",
                     "sizes": {
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
-                        },
                         "large": {
-                            "w": 480,
                             "h": 800,
-                            "resize": "fit"
-                        },
-                        "small": {
-                            "w": 408,
-                            "h": 680,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 480
                         },
                         "medium": {
-                            "w": 480,
                             "h": 800,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 480
+                        },
+                        "small": {
+                            "h": 680,
+                            "resize": "fit",
+                            "w": 408
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
                         }
                     },
-                    "ext_alt_text": null
+                    "type": "photo",
+                    "url": "https://t.co/Ue97KciBUN"
                 }
             ]
         },
-        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+        "favorite_count": 2,
+        "favorited": false,
+        "full_text": "#docoftheday #OTD 1950 Irish Amb. USA reports 'military situation in Korea definitely very bad' @HistoryAtState https://t.co/Ue97KciBUN",
+        "geo": null,
+        "id": 758251319555653630,
+        "id_str": "758251319555653632",
+        "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 2,
+        "retweeted": true,
+        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+        "truncated": false,
         "user": {
             "id": 308372241,
             "id_str": "308372241"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 2,
-        "favorite_count": 2,
-        "favorited": false,
-        "retweeted": true,
-        "possibly_sensitive": false,
-        "lang": "en"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": true,
-    "lang": "en"
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

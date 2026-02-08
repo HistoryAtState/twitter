@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Feb 19 13:45:21 +0000 2013",
-    "id": 303862840513687550,
-    "id_str": "303862840513687552",
-    "full_text": "RT @USAID: Today is our 1st showcase for #SMWWDC! Panel Discussion on social media 4 #development at 12pm.  http://t.co/Uq6tx601 Follow  ...",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,65 +9,66 @@
     "entities": {
         "hashtags": [
             {
-                "text": "SMWWDC",
                 "indices": [
                     41,
                     48
-                ]
+                ],
+                "text": "SMWWDC"
             },
             {
-                "text": "development",
                 "indices": [
                     85,
                     97
-                ]
+                ],
+                "text": "development"
             }
         ],
         "symbols": [],
+        "urls": [
+            {
+                "display_url": "ow.ly/hrOf0",
+                "expanded_url": "http://ow.ly/hrOf0",
+                "indices": [
+                    108,
+                    128
+                ],
+                "url": "http://t.co/Uq6tx601"
+            }
+        ],
         "user_mentions": [
             {
-                "screen_name": "USAID",
-                "name": "USAID",
                 "id": 36683668,
                 "id_str": "36683668",
                 "indices": [
                     3,
                     9
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "http://t.co/Uq6tx601",
-                "expanded_url": "http://ow.ly/hrOf0",
-                "display_url": "ow.ly/hrOf0",
-                "indices": [
-                    108,
-                    128
-                ]
+                ],
+                "name": "USAID",
+                "screen_name": "USAID"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "RT @USAID: Today is our 1st showcase for #SMWWDC! Panel Discussion on social media 4 #development at 12pm.  http://t.co/Uq6tx601 Follow  ...",
+    "geo": null,
+    "id": 303862840513687550,
+    "id_str": "303862840513687552",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "possibly_sensitive": false,
+    "retweet_count": 10,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Tue Feb 19 13:01:18 +0000 2013",
-        "id": 303851755412807680,
-        "id_str": "303851755412807681",
-        "full_text": "Today is our 1st showcase for #SMWWDC! Panel Discussion on social media 4 #development at 12pm.  http://t.co/Uq6tx601 Follow #smwUSAID",
-        "truncated": false,
         "display_text_range": [
             0,
             134
@@ -77,68 +76,69 @@
         "entities": {
             "hashtags": [
                 {
-                    "text": "SMWWDC",
                     "indices": [
                         30,
                         37
-                    ]
+                    ],
+                    "text": "SMWWDC"
                 },
                 {
-                    "text": "development",
                     "indices": [
                         74,
                         86
-                    ]
+                    ],
+                    "text": "development"
                 },
                 {
-                    "text": "smwUSAID",
                     "indices": [
                         125,
                         134
-                    ]
+                    ],
+                    "text": "smwUSAID"
                 }
             ],
             "symbols": [],
-            "user_mentions": [],
             "urls": [
                 {
-                    "url": "http://t.co/Uq6tx601",
-                    "expanded_url": "http://ow.ly/hrOf0",
                     "display_url": "ow.ly/hrOf0",
+                    "expanded_url": "http://ow.ly/hrOf0",
                     "indices": [
                         97,
                         117
-                    ]
+                    ],
+                    "url": "http://t.co/Uq6tx601"
                 }
-            ]
+            ],
+            "user_mentions": []
         },
-        "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+        "favorite_count": 4,
+        "favorited": false,
+        "full_text": "Today is our 1st showcase for #SMWWDC! Panel Discussion on social media 4 #development at 12pm.  http://t.co/Uq6tx601 Follow #smwUSAID",
+        "geo": null,
+        "id": 303851755412807680,
+        "id_str": "303851755412807681",
+        "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 10,
+        "retweeted": true,
+        "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+        "truncated": false,
         "user": {
             "id": 36683668,
             "id_str": "36683668"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 10,
-        "favorite_count": 4,
-        "favorited": false,
-        "retweeted": true,
-        "possibly_sensitive": false,
-        "lang": "en"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 10,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": true,
-    "possibly_sensitive": false,
-    "lang": "en"
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

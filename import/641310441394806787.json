@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Sep 08 18:01:38 +0000 2015",
-    "id": 641310441394806780,
-    "id_str": "641310441394806787",
-    "full_text": "Jan. 1915 Minister Birch @USEmbPortugal to #SecState, “Portugal is virtually at war with Germany” http://t.co/NuW2pwfZCD #WW1Tweet",
-    "truncated": false,
     "display_text_range": [
         0,
         130
@@ -11,64 +9,66 @@
     "entities": {
         "hashtags": [
             {
-                "text": "SecState",
                 "indices": [
                     43,
                     52
-                ]
+                ],
+                "text": "SecState"
             },
             {
-                "text": "WW1Tweet",
                 "indices": [
                     121,
                     130
-                ]
+                ],
+                "text": "WW1Tweet"
             }
         ],
         "symbols": [],
+        "urls": [
+            {
+                "display_url": "go.usa.gov/3FSuh",
+                "expanded_url": "http://go.usa.gov/3FSuh",
+                "indices": [
+                    98,
+                    120
+                ],
+                "url": "http://t.co/NuW2pwfZCD"
+            }
+        ],
         "user_mentions": [
             {
-                "screen_name": "USEmbPortugal",
-                "name": "U.S. Embassy Lisbon",
                 "id": 817133173,
                 "id_str": "817133173",
                 "indices": [
                     25,
                     39
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "http://t.co/NuW2pwfZCD",
-                "expanded_url": "http://go.usa.gov/3FSuh",
-                "display_url": "go.usa.gov/3FSuh",
-                "indices": [
-                    98,
-                    120
-                ]
+                ],
+                "name": "U.S. Embassy Lisbon",
+                "screen_name": "USEmbPortugal"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "Jan. 1915 Minister Birch @USEmbPortugal to #SecState, “Portugal is virtually at war with Germany” http://t.co/NuW2pwfZCD #WW1Tweet",
+    "geo": null,
+    "id": 641310441394806780,
+    "id_str": "641310441394806787",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

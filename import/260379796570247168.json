@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Oct 22 13:59:15 +0000 2012",
-    "id": 260379796570247168,
-    "id_str": "260379796570247168",
-    "full_text": "RT @TSonenshine: Oct 22 1962 President Kennedy revealed presence of Soviet missiles on Cuba. Cuban Missile Crisis was about #diplomacy &amp; ...",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,48 +9,48 @@
     "entities": {
         "hashtags": [
             {
-                "text": "diplomacy",
                 "indices": [
                     124,
                     134
-                ]
+                ],
+                "text": "diplomacy"
             }
         ],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "TSonenshine",
-                "name": "Tara Sonenshine",
                 "id": 2349547565,
                 "id_str": "2349547565",
                 "indices": [
                     3,
                     15
-                ]
+                ],
+                "name": "Tara Sonenshine",
+                "screen_name": "TSonenshine"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "RT @TSonenshine: Oct 22 1962 President Kennedy revealed presence of Soviet missiles on Cuba. Cuban Missile Crisis was about #diplomacy &amp; ...",
+    "geo": null,
+    "id": 260379796570247168,
+    "id_str": "260379796570247168",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "retweet_count": 3,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Mon Oct 22 13:34:47 +0000 2012",
-        "id": 260373636828000256,
-        "id_str": "260373636828000256",
-        "full_text": "Oct 22 1962 President Kennedy revealed presence of Soviet missiles on Cuba. Cuban Missile Crisis was about #diplomacy &amp;amp; art of avoiding war.",
-        "truncated": false,
         "display_text_range": [
             0,
             144
@@ -60,42 +58,44 @@
         "entities": {
             "hashtags": [
                 {
-                    "text": "diplomacy",
                     "indices": [
                         107,
                         117
-                    ]
+                    ],
+                    "text": "diplomacy"
                 }
             ],
             "symbols": [],
-            "user_mentions": [],
-            "urls": []
+            "urls": [],
+            "user_mentions": []
         },
-        "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+        "favorite_count": 0,
+        "favorited": false,
+        "full_text": "Oct 22 1962 President Kennedy revealed presence of Soviet missiles on Cuba. Cuban Missile Crisis was about #diplomacy &amp;amp; art of avoiding war.",
+        "geo": null,
+        "id": 260373636828000256,
+        "id_str": "260373636828000256",
+        "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "retweet_count": 3,
+        "retweeted": true,
+        "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+        "truncated": false,
         "user": {
             "id": 557177242,
             "id_str": "557177242"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 3,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": true,
-        "lang": "en"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": true,
-    "lang": "en"
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

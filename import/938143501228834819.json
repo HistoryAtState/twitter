@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Dec 05 20:30:15 +0000 2017",
-    "id": 938143501228834820,
-    "id_str": "938143501228834819",
-    "full_text": "How popular was U.S. astronaut John Glenn in #Japan?  Read about his visit to foster U.S.-Japan cultural relations https://t.co/AdgKJZWisM #FRUS #twitterstorians @NASA @NASAhistory",
-    "truncated": false,
     "display_text_range": [
         0,
         180
@@ -11,81 +9,83 @@
     "entities": {
         "hashtags": [
             {
-                "text": "Japan",
                 "indices": [
                     45,
                     51
-                ]
+                ],
+                "text": "Japan"
             },
             {
-                "text": "FRUS",
                 "indices": [
                     139,
                     144
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "twitterstorians",
                 "indices": [
                     145,
                     161
-                ]
+                ],
+                "text": "twitterstorians"
             }
         ],
         "symbols": [],
+        "urls": [
+            {
+                "display_url": "history.state.gov/historicaldocu…",
+                "expanded_url": "https://history.state.gov/historicaldocuments/frus1917-72PubDipv06/d127",
+                "indices": [
+                    115,
+                    138
+                ],
+                "url": "https://t.co/AdgKJZWisM"
+            }
+        ],
         "user_mentions": [
             {
-                "screen_name": "NASA",
-                "name": "NASA",
                 "id": 11348282,
                 "id_str": "11348282",
                 "indices": [
                     162,
                     167
-                ]
+                ],
+                "name": "NASA",
+                "screen_name": "NASA"
             },
             {
-                "screen_name": "NASAhistory",
-                "name": "NASA History Office",
                 "id": 153784150,
                 "id_str": "153784150",
                 "indices": [
                     168,
                     180
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "https://t.co/AdgKJZWisM",
-                "expanded_url": "https://history.state.gov/historicaldocuments/frus1917-72PubDipv06/d127",
-                "display_url": "history.state.gov/historicaldocu…",
-                "indices": [
-                    115,
-                    138
-                ]
+                ],
+                "name": "NASA History Office",
+                "screen_name": "NASAhistory"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 30,
+    "favorited": false,
+    "full_text": "How popular was U.S. astronaut John Glenn in #Japan?  Read about his visit to foster U.S.-Japan cultural relations https://t.co/AdgKJZWisM #FRUS #twitterstorians @NASA @NASAhistory",
+    "geo": null,
+    "id": 938143501228834820,
+    "id_str": "938143501228834819",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 13,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 13,
-    "favorite_count": 30,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

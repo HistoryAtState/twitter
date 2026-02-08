@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Wed May 30 11:30:43 +0000 2012",
-    "id": 207796174625832960,
-    "id_str": "207796174625832960",
-    "full_text": "Understand U.S. deployment of the nuclear deterrent at the height of the Cold War in #FRUS \"Western Europe, 1964-1968\" http://t.co/Lc0uZFBC",
-    "truncated": false,
     "display_text_range": [
         0,
         139
@@ -11,46 +9,48 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     85,
                     90
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/Lc0uZFBC",
-                "expanded_url": "http://history.state.gov/historicaldocuments/frus1964-68v12",
                 "display_url": "history.state.gov/historicaldocu…",
+                "expanded_url": "http://history.state.gov/historicaldocuments/frus1964-68v12",
                 "indices": [
                     119,
                     139
-                ]
+                ],
+                "url": "http://t.co/Lc0uZFBC"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 1,
+    "favorited": false,
+    "full_text": "Understand U.S. deployment of the nuclear deterrent at the height of the Cold War in #FRUS \"Western Europe, 1964-1968\" http://t.co/Lc0uZFBC",
+    "geo": null,
+    "id": 207796174625832960,
+    "id_str": "207796174625832960",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 1,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

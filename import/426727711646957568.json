@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Fri Jan 24 14:46:29 +0000 2014",
-    "id": 426727711646957570,
-    "id_str": "426727711646957568",
-    "full_text": "If the shortened links in our last couple of tweets are giving you problems, here is the longer version: http://t.co/4BzFr15bIX",
-    "truncated": false,
     "display_text_range": [
         0,
         127
@@ -11,38 +9,40 @@
     "entities": {
         "hashtags": [],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/4BzFr15bIX",
-                "expanded_url": "http://nationalhistorycenter.org/january-27-stephen-p-randolph-on-the-past-and-future-of-the-foreign-relations-series/",
                 "display_url": "nationalhistorycenter.org/january-27-ste…",
+                "expanded_url": "http://nationalhistorycenter.org/january-27-stephen-p-randolph-on-the-past-and-future-of-the-foreign-relations-series/",
                 "indices": [
                     105,
                     127
-                ]
+                ],
+                "url": "http://t.co/4BzFr15bIX"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "If the shortened links in our last couple of tweets are giving you problems, here is the longer version: http://t.co/4BzFr15bIX",
+    "geo": null,
+    "id": 426727711646957570,
+    "id_str": "426727711646957568",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

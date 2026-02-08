@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Apr 28 17:12:38 +0000 2020",
-    "id": 1255183152265474050,
-    "id_str": "1255183152265474048",
-    "full_text": "RT @FSIatState: (1/3) During outbreaks of infectious disease, an important function of 19th century diplomats was to report the status of U…",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,40 +9,40 @@
     "entities": {
         "hashtags": [],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "FSIatState",
-                "name": "Foreign Service Institute",
                 "id": 958044239576948740,
                 "id_str": "958044239576948736",
                 "indices": [
                     3,
                     14
-                ]
+                ],
+                "name": "Foreign Service Institute",
+                "screen_name": "FSIatState"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": true,
+    "full_text": "RT @FSIatState: (1/3) During outbreaks of infectious disease, an important function of 19th century diplomats was to report the status of U…",
+    "geo": null,
+    "id": 1255183152265474050,
+    "id_str": "1255183152265474048",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "retweet_count": 6,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Tue Apr 28 13:55:54 +0000 2020",
-        "id": 1255133645238489090,
-        "id_str": "1255133645238489096",
-        "full_text": "(1/3) During outbreaks of infectious disease, an important function of 19th century diplomats was to report the status of U.S. citizens. An early example of this is the cholera outbreak across the Ottoman Empire in the late 1800s. #FRUS #FSIatHome \n\n📷: @NLM_News https://t.co/JsJOF18bjB",
-        "truncated": false,
         "display_text_range": [
             0,
             262
@@ -52,36 +50,24 @@
         "entities": {
             "hashtags": [
                 {
-                    "text": "FRUS",
                     "indices": [
                         231,
                         236
-                    ]
+                    ],
+                    "text": "FRUS"
                 },
                 {
-                    "text": "FSIatHome",
                     "indices": [
                         237,
                         247
-                    ]
+                    ],
+                    "text": "FSIatHome"
                 }
             ],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "nlm_news",
-                    "name": "nlm_news",
-                    "id": 1390720698755153920,
-                    "id_str": "1390720698755153922",
-                    "indices": [
-                        253,
-                        262
-                    ]
-                }
-            ],
-            "urls": [],
             "media": [
                 {
+                    "display_url": "pic.twitter.com/JsJOF18bjB",
+                    "expanded_url": "https://twitter.com/FSIatState/status/1255133645238489096/photo/1",
                     "id": 1255133380934381570,
                     "id_str": "1255133380934381569",
                     "indices": [
@@ -90,38 +76,53 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/EWshKPRUMAEAciX.jpg",
                     "media_url_https": "https://pbs.twimg.com/media/EWshKPRUMAEAciX.jpg",
-                    "url": "https://t.co/JsJOF18bjB",
-                    "display_url": "pic.twitter.com/JsJOF18bjB",
-                    "expanded_url": "https://twitter.com/FSIatState/status/1255133645238489096/photo/1",
-                    "type": "photo",
                     "sizes": {
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
+                        "large": {
+                            "h": 1024,
+                            "resize": "fit",
+                            "w": 1517
                         },
                         "medium": {
-                            "w": 1200,
                             "h": 810,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 1200
                         },
                         "small": {
-                            "w": 680,
                             "h": 459,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 680
                         },
-                        "large": {
-                            "w": 1517,
-                            "h": 1024,
-                            "resize": "fit"
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
                         }
-                    }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/JsJOF18bjB"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 1390720698755153920,
+                    "id_str": "1390720698755153922",
+                    "indices": [
+                        253,
+                        262
+                    ],
+                    "name": "nlm_news",
+                    "screen_name": "nlm_news"
                 }
             ]
         },
         "extended_entities": {
             "media": [
                 {
+                    "display_url": "pic.twitter.com/JsJOF18bjB",
+                    "expanded_url": "https://twitter.com/FSIatState/status/1255133645238489096/photo/1",
+                    "ext_alt_text": null,
                     "id": 1255133380934381570,
                     "id_str": "1255133380934381569",
                     "indices": [
@@ -130,62 +131,61 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/EWshKPRUMAEAciX.jpg",
                     "media_url_https": "https://pbs.twimg.com/media/EWshKPRUMAEAciX.jpg",
-                    "url": "https://t.co/JsJOF18bjB",
-                    "display_url": "pic.twitter.com/JsJOF18bjB",
-                    "expanded_url": "https://twitter.com/FSIatState/status/1255133645238489096/photo/1",
-                    "type": "photo",
                     "sizes": {
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
+                        "large": {
+                            "h": 1024,
+                            "resize": "fit",
+                            "w": 1517
                         },
                         "medium": {
-                            "w": 1200,
                             "h": 810,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 1200
                         },
                         "small": {
-                            "w": 680,
                             "h": 459,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 680
                         },
-                        "large": {
-                            "w": 1517,
-                            "h": 1024,
-                            "resize": "fit"
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
                         }
                     },
-                    "ext_alt_text": null
+                    "type": "photo",
+                    "url": "https://t.co/JsJOF18bjB"
                 }
             ]
         },
-        "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+        "favorite_count": 12,
+        "favorited": true,
+        "full_text": "(1/3) During outbreaks of infectious disease, an important function of 19th century diplomats was to report the status of U.S. citizens. An early example of this is the cholera outbreak across the Ottoman Empire in the late 1800s. #FRUS #FSIatHome \n\n📷: @NLM_News https://t.co/JsJOF18bjB",
+        "geo": null,
+        "id": 1255133645238489090,
+        "id_str": "1255133645238489096",
+        "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 6,
+        "retweeted": true,
+        "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+        "truncated": false,
         "user": {
             "id": 958044239576948740,
             "id_str": "958044239576948736"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 6,
-        "favorite_count": 12,
-        "favorited": true,
-        "retweeted": true,
-        "possibly_sensitive": false,
-        "lang": "en"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 0,
-    "favorited": true,
-    "retweeted": true,
-    "lang": "en"
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

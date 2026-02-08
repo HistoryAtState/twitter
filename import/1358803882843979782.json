@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Feb 08 15:44:25 +0000 2021",
-    "id": 1358803882843979780,
-    "id_str": "1358803882843979782",
-    "full_text": "RT @Dodis: George Shultz, Labor and Treasury Secretary for Nixon and Secretary of State under Reagan, passed away at 100 on Saturday. Explo…",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,72 +9,50 @@
     "entities": {
         "hashtags": [],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "Dodis",
-                "name": "Dodis",
                 "id": 299186512,
                 "id_str": "299186512",
                 "indices": [
                     3,
                     9
-                ]
+                ],
+                "name": "Dodis",
+                "screen_name": "Dodis"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": true,
+    "full_text": "RT @Dodis: George Shultz, Labor and Treasury Secretary for Nixon and Secretary of State under Reagan, passed away at 100 on Saturday. Explo…",
+    "geo": null,
+    "id": 1358803882843979780,
+    "id_str": "1358803882843979782",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "retweet_count": 2,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Mon Feb 08 08:53:39 +0000 2021",
-        "id": 1358700508484100100,
-        "id_str": "1358700508484100098",
-        "full_text": "George Shultz, Labor and Treasury Secretary for Nixon and Secretary of State under Reagan, passed away at 100 on Saturday. Explore the documents of Swiss diplomacy on the activities of this US foreign policy giant we have on Dodis so far: https://t.co/XgLlK0OVV9 @HistoryAtState https://t.co/sIIg4STBJ2",
-        "truncated": false,
         "display_text_range": [
             0,
             278
         ],
         "entities": {
             "hashtags": [],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "HistoryAtState",
-                    "name": "HistoryAtState",
-                    "id": 586570880,
-                    "id_str": "586570880",
-                    "indices": [
-                        263,
-                        278
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "https://t.co/XgLlK0OVV9",
-                    "expanded_url": "http://dodis.ch/P46714",
-                    "display_url": "dodis.ch/P46714",
-                    "indices": [
-                        239,
-                        262
-                    ]
-                }
-            ],
             "media": [
                 {
+                    "display_url": "pic.twitter.com/sIIg4STBJ2",
+                    "expanded_url": "https://twitter.com/Dodis/status/1358700508484100098/photo/1",
                     "id": 1358700398924734460,
                     "id_str": "1358700398924734466",
                     "indices": [
@@ -85,38 +61,63 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/EtsS0GoXIAIrGiz.jpg",
                     "media_url_https": "https://pbs.twimg.com/media/EtsS0GoXIAIrGiz.jpg",
-                    "url": "https://t.co/sIIg4STBJ2",
-                    "display_url": "pic.twitter.com/sIIg4STBJ2",
-                    "expanded_url": "https://twitter.com/Dodis/status/1358700508484100098/photo/1",
-                    "type": "photo",
                     "sizes": {
                         "large": {
-                            "w": 988,
                             "h": 1190,
-                            "resize": "fit"
-                        },
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
+                            "resize": "fit",
+                            "w": 988
                         },
                         "medium": {
-                            "w": 988,
                             "h": 1190,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 988
                         },
                         "small": {
-                            "w": 565,
                             "h": 680,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 565
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
                         }
-                    }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/sIIg4STBJ2"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "dodis.ch/P46714",
+                    "expanded_url": "http://dodis.ch/P46714",
+                    "indices": [
+                        239,
+                        262
+                    ],
+                    "url": "https://t.co/XgLlK0OVV9"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 586570880,
+                    "id_str": "586570880",
+                    "indices": [
+                        263,
+                        278
+                    ],
+                    "name": "HistoryAtState",
+                    "screen_name": "HistoryAtState"
                 }
             ]
         },
         "extended_entities": {
             "media": [
                 {
+                    "display_url": "pic.twitter.com/sIIg4STBJ2",
+                    "expanded_url": "https://twitter.com/Dodis/status/1358700508484100098/photo/1",
+                    "ext_alt_text": null,
                     "id": 1358700398924734460,
                     "id_str": "1358700398924734466",
                     "indices": [
@@ -125,35 +126,35 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/EtsS0GoXIAIrGiz.jpg",
                     "media_url_https": "https://pbs.twimg.com/media/EtsS0GoXIAIrGiz.jpg",
-                    "url": "https://t.co/sIIg4STBJ2",
-                    "display_url": "pic.twitter.com/sIIg4STBJ2",
-                    "expanded_url": "https://twitter.com/Dodis/status/1358700508484100098/photo/1",
-                    "type": "photo",
                     "sizes": {
                         "large": {
-                            "w": 988,
                             "h": 1190,
-                            "resize": "fit"
-                        },
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
+                            "resize": "fit",
+                            "w": 988
                         },
                         "medium": {
-                            "w": 988,
                             "h": 1190,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 988
                         },
                         "small": {
-                            "w": 565,
                             "h": 680,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 565
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
                         }
                     },
-                    "ext_alt_text": null
+                    "type": "photo",
+                    "url": "https://t.co/sIIg4STBJ2"
                 },
                 {
+                    "display_url": "pic.twitter.com/sIIg4STBJ2",
+                    "expanded_url": "https://twitter.com/Dodis/status/1358700508484100098/photo/1",
+                    "ext_alt_text": null,
                     "id": 1358700418008817660,
                     "id_str": "1358700418008817666",
                     "indices": [
@@ -162,62 +163,61 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/EtsS1NuXIAIGW1X.jpg",
                     "media_url_https": "https://pbs.twimg.com/media/EtsS1NuXIAIGW1X.jpg",
-                    "url": "https://t.co/sIIg4STBJ2",
-                    "display_url": "pic.twitter.com/sIIg4STBJ2",
-                    "expanded_url": "https://twitter.com/Dodis/status/1358700508484100098/photo/1",
-                    "type": "photo",
                     "sizes": {
                         "large": {
-                            "w": 1292,
                             "h": 656,
-                            "resize": "fit"
-                        },
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
+                            "resize": "fit",
+                            "w": 1292
                         },
                         "medium": {
-                            "w": 1200,
                             "h": 609,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 1200
                         },
                         "small": {
-                            "w": 680,
                             "h": 345,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
                         }
                     },
-                    "ext_alt_text": null
+                    "type": "photo",
+                    "url": "https://t.co/sIIg4STBJ2"
                 }
             ]
         },
-        "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+        "favorite_count": 4,
+        "favorited": true,
+        "full_text": "George Shultz, Labor and Treasury Secretary for Nixon and Secretary of State under Reagan, passed away at 100 on Saturday. Explore the documents of Swiss diplomacy on the activities of this US foreign policy giant we have on Dodis so far: https://t.co/XgLlK0OVV9 @HistoryAtState https://t.co/sIIg4STBJ2",
+        "geo": null,
+        "id": 1358700508484100100,
+        "id_str": "1358700508484100098",
+        "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 2,
+        "retweeted": true,
+        "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+        "truncated": false,
         "user": {
             "id": 299186512,
             "id_str": "299186512"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 2,
-        "favorite_count": 4,
-        "favorited": true,
-        "retweeted": true,
-        "possibly_sensitive": false,
-        "lang": "en"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 0,
-    "favorited": true,
-    "retweeted": true,
-    "lang": "en"
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

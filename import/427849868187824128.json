@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Jan 27 17:05:32 +0000 2014",
-    "id": 427849868187824130,
-    "id_str": "427849868187824128",
-    "full_text": "William Seward argued that Lincoln had a “duty to communicate” re foreign affairs; #FRUS was a mechanism for doing so http://t.co/MeFNhsm1NA",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,46 +9,48 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     83,
                     88
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/MeFNhsm1NA",
-                "expanded_url": "http://ow.ly/sZjBo",
                 "display_url": "ow.ly/sZjBo",
+                "expanded_url": "http://ow.ly/sZjBo",
                 "indices": [
                     118,
                     140
-                ]
+                ],
+                "url": "http://t.co/MeFNhsm1NA"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "William Seward argued that Lincoln had a “duty to communicate” re foreign affairs; #FRUS was a mechanism for doing so http://t.co/MeFNhsm1NA",
+    "geo": null,
+    "id": 427849868187824130,
+    "id_str": "427849868187824128",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

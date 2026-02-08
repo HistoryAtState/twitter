@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Nov 30 14:40:06 +0000 2017",
-    "id": 936243446515367940,
-    "id_str": "936243446515367936",
-    "full_text": "The Office of the Historian releases Foreign Relations of the United States, 81–88, Vol. XLI, Global Issues II https://t.co/M8w0Wc3Wm9  #FRUS #AIDS #Famine #Whaling https://t.co/ji8HwhL8LB",
-    "truncated": false,
     "display_text_range": [
         0,
         164
@@ -11,49 +9,38 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     136,
                     141
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "AIDS",
                 "indices": [
                     142,
                     147
-                ]
+                ],
+                "text": "AIDS"
             },
             {
-                "text": "Famine",
                 "indices": [
                     148,
                     155
-                ]
+                ],
+                "text": "Famine"
             },
             {
-                "text": "Whaling",
                 "indices": [
                     156,
                     164
-                ]
-            }
-        ],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
-            {
-                "url": "https://t.co/M8w0Wc3Wm9",
-                "expanded_url": "https://go.usa.gov/xnWzr",
-                "display_url": "go.usa.gov/xnWzr",
-                "indices": [
-                    111,
-                    134
-                ]
+                ],
+                "text": "Whaling"
             }
         ],
         "media": [
             {
+                "display_url": "pic.twitter.com/ji8HwhL8LB",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/936243446515367936/photo/1",
                 "id": 936243443973742590,
                 "id_str": "936243443973742592",
                 "indices": [
@@ -62,38 +49,52 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/DP40c61X4AAWN2A.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DP40c61X4AAWN2A.jpg",
-                "url": "https://t.co/ji8HwhL8LB",
-                "display_url": "pic.twitter.com/ji8HwhL8LB",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/936243446515367936/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "small": {
-                        "w": 298,
+                    "large": {
                         "h": 447,
-                        "resize": "fit"
-                    },
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
+                        "resize": "fit",
+                        "w": 298
                     },
                     "medium": {
-                        "w": 298,
                         "h": 447,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 298
                     },
-                    "large": {
-                        "w": 298,
+                    "small": {
                         "h": 447,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 298
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/ji8HwhL8LB"
             }
-        ]
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "go.usa.gov/xnWzr",
+                "expanded_url": "https://go.usa.gov/xnWzr",
+                "indices": [
+                    111,
+                    134
+                ],
+                "url": "https://t.co/M8w0Wc3Wm9"
+            }
+        ],
+        "user_mentions": []
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/ji8HwhL8LB",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/936243446515367936/photo/1",
+                "ext_alt_text": null,
                 "id": 936243443973742590,
                 "id_str": "936243443973742592",
                 "indices": [
@@ -102,55 +103,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/DP40c61X4AAWN2A.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DP40c61X4AAWN2A.jpg",
-                "url": "https://t.co/ji8HwhL8LB",
-                "display_url": "pic.twitter.com/ji8HwhL8LB",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/936243446515367936/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "small": {
-                        "w": 298,
+                    "large": {
                         "h": 447,
-                        "resize": "fit"
-                    },
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
+                        "resize": "fit",
+                        "w": 298
                     },
                     "medium": {
-                        "w": 298,
                         "h": 447,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 298
                     },
-                    "large": {
-                        "w": 298,
+                    "small": {
                         "h": 447,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 298
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": null
+                "type": "photo",
+                "url": "https://t.co/ji8HwhL8LB"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 23,
+    "favorited": false,
+    "full_text": "The Office of the Historian releases Foreign Relations of the United States, 81–88, Vol. XLI, Global Issues II https://t.co/M8w0Wc3Wm9  #FRUS #AIDS #Famine #Whaling https://t.co/ji8HwhL8LB",
+    "geo": null,
+    "id": 936243446515367940,
+    "id_str": "936243446515367936",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 40,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 40,
-    "favorite_count": 23,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

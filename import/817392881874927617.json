@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Fri Jan 06 15:30:24 +0000 2017",
-    "id": 817392881874927620,
-    "id_str": "817392881874927617",
-    "full_text": "“We believed in…liberty of mankind, and absence of persecution of any kind.” https://t.co/RVG8sZUFeA #FRUS #WWII @FDRLibrary #fourfreedoms",
-    "truncated": false,
     "display_text_range": [
         0,
         138
@@ -11,71 +9,73 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     101,
                     106
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "WWII",
                 "indices": [
                     107,
                     112
-                ]
+                ],
+                "text": "WWII"
             },
             {
-                "text": "fourfreedoms",
                 "indices": [
                     125,
                     138
-                ]
+                ],
+                "text": "fourfreedoms"
             }
         ],
         "symbols": [],
+        "urls": [
+            {
+                "display_url": "go.usa.gov/x92Z2",
+                "expanded_url": "http://go.usa.gov/x92Z2",
+                "indices": [
+                    77,
+                    100
+                ],
+                "url": "https://t.co/RVG8sZUFeA"
+            }
+        ],
         "user_mentions": [
             {
-                "screen_name": "FDRLibrary",
-                "name": "FDR Library",
                 "id": 293650530,
                 "id_str": "293650530",
                 "indices": [
                     113,
                     124
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "https://t.co/RVG8sZUFeA",
-                "expanded_url": "http://go.usa.gov/x92Z2",
-                "display_url": "go.usa.gov/x92Z2",
-                "indices": [
-                    77,
-                    100
-                ]
+                ],
+                "name": "FDR Library",
+                "screen_name": "FDRLibrary"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 1,
+    "favorited": false,
+    "full_text": "“We believed in…liberty of mankind, and absence of persecution of any kind.” https://t.co/RVG8sZUFeA #FRUS #WWII @FDRLibrary #fourfreedoms",
+    "geo": null,
+    "id": 817392881874927620,
+    "id_str": "817392881874927617",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 1,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

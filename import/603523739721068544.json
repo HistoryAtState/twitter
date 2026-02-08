@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Wed May 27 11:30:47 +0000 2015",
-    "id": 603523739721068540,
-    "id_str": "603523739721068544",
-    "full_text": ".@USEmbassyFrance Minister Reid helped inaugurate Paris’ #StatueOfLiberty during Paris #Expo 1889 http://t.co/fl0z5rRsZf #Expo2015",
-    "truncated": false,
     "display_text_range": [
         0,
         130
@@ -11,71 +9,73 @@
     "entities": {
         "hashtags": [
             {
-                "text": "StatueOfLiberty",
                 "indices": [
                     57,
                     73
-                ]
+                ],
+                "text": "StatueOfLiberty"
             },
             {
-                "text": "Expo",
                 "indices": [
                     87,
                     92
-                ]
+                ],
+                "text": "Expo"
             },
             {
-                "text": "Expo2015",
                 "indices": [
                     121,
                     130
-                ]
+                ],
+                "text": "Expo2015"
             }
         ],
         "symbols": [],
+        "urls": [
+            {
+                "display_url": "ow.ly/NsDYx",
+                "expanded_url": "http://ow.ly/NsDYx",
+                "indices": [
+                    98,
+                    120
+                ],
+                "url": "http://t.co/fl0z5rRsZf"
+            }
+        ],
         "user_mentions": [
             {
-                "screen_name": "USEmbassyFrance",
-                "name": "U.S. Embassy France",
                 "id": 72814599,
                 "id_str": "72814599",
                 "indices": [
                     1,
                     17
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "http://t.co/fl0z5rRsZf",
-                "expanded_url": "http://ow.ly/NsDYx",
-                "display_url": "ow.ly/NsDYx",
-                "indices": [
-                    98,
-                    120
-                ]
+                ],
+                "name": "U.S. Embassy France",
+                "screen_name": "USEmbassyFrance"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 3,
+    "favorited": false,
+    "full_text": ".@USEmbassyFrance Minister Reid helped inaugurate Paris’ #StatueOfLiberty during Paris #Expo 1889 http://t.co/fl0z5rRsZf #Expo2015",
+    "geo": null,
+    "id": 603523739721068540,
+    "id_str": "603523739721068544",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "no",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 5,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 5,
-    "favorite_count": 3,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "no"
+    }
 }

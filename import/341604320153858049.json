@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Jun 03 17:16:31 +0000 2013",
-    "id": 341604320153858050,
-    "id_str": "341604320153858049",
-    "full_text": "Ben Franklin was 1st US Minister to serve abroad in 1779 w/presentation of credentials to King Louis XVI of France http://t.co/uk39LbZEk1",
-    "truncated": false,
     "display_text_range": [
         0,
         137
@@ -11,38 +9,40 @@
     "entities": {
         "hashtags": [],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/uk39LbZEk1",
-                "expanded_url": "http://go.usa.gov/bcKP",
                 "display_url": "go.usa.gov/bcKP",
+                "expanded_url": "http://go.usa.gov/bcKP",
                 "indices": [
                     115,
                     137
-                ]
+                ],
+                "url": "http://t.co/uk39LbZEk1"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 1,
+    "favorited": false,
+    "full_text": "Ben Franklin was 1st US Minister to serve abroad in 1779 w/presentation of credentials to King Louis XVI of France http://t.co/uk39LbZEk1",
+    "geo": null,
+    "id": 341604320153858050,
+    "id_str": "341604320153858049",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 1,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Mar 13 14:45:10 +0000 2017",
-    "id": 841299100024856580,
-    "id_str": "841299100024856576",
-    "full_text": "Writer, Member of Congress, Ambassador: Clare Boothe Luce assesses her time as US Amb to Italy: https://t.co/Sqfi2nMWbn #WomensHistoryMonth https://t.co/AZUCEjP9Gz",
-    "truncated": false,
     "display_text_range": [
         0,
         139
@@ -11,28 +9,17 @@
     "entities": {
         "hashtags": [
             {
-                "text": "WomensHistoryMonth",
                 "indices": [
                     120,
                     139
-                ]
-            }
-        ],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
-            {
-                "url": "https://t.co/Sqfi2nMWbn",
-                "expanded_url": "https://go.usa.gov/xXaVv",
-                "display_url": "go.usa.gov/xXaVv",
-                "indices": [
-                    96,
-                    119
-                ]
+                ],
+                "text": "WomensHistoryMonth"
             }
         ],
         "media": [
             {
+                "display_url": "pic.twitter.com/AZUCEjP9Gz",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/841299100024856576/photo/1",
                 "id": 841299096421851140,
                 "id_str": "841299096421851138",
                 "indices": [
@@ -41,38 +28,52 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/C6zlEiAU4AIOlHn.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/C6zlEiAU4AIOlHn.jpg",
-                "url": "https://t.co/AZUCEjP9Gz",
-                "display_url": "pic.twitter.com/AZUCEjP9Gz",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/841299100024856576/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "small": {
-                        "w": 505,
-                        "h": 680,
-                        "resize": "fit"
-                    },
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
+                    "large": {
+                        "h": 2048,
+                        "resize": "fit",
+                        "w": 1520
                     },
                     "medium": {
-                        "w": 890,
                         "h": 1200,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 890
                     },
-                    "large": {
-                        "w": 1520,
-                        "h": 2048,
-                        "resize": "fit"
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 505
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/AZUCEjP9Gz"
             }
-        ]
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "go.usa.gov/xXaVv",
+                "expanded_url": "https://go.usa.gov/xXaVv",
+                "indices": [
+                    96,
+                    119
+                ],
+                "url": "https://t.co/Sqfi2nMWbn"
+            }
+        ],
+        "user_mentions": []
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/AZUCEjP9Gz",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/841299100024856576/photo/1",
+                "ext_alt_text": null,
                 "id": 841299096421851140,
                 "id_str": "841299096421851138",
                 "indices": [
@@ -81,55 +82,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/C6zlEiAU4AIOlHn.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/C6zlEiAU4AIOlHn.jpg",
-                "url": "https://t.co/AZUCEjP9Gz",
-                "display_url": "pic.twitter.com/AZUCEjP9Gz",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/841299100024856576/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "small": {
-                        "w": 505,
-                        "h": 680,
-                        "resize": "fit"
-                    },
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
+                    "large": {
+                        "h": 2048,
+                        "resize": "fit",
+                        "w": 1520
                     },
                     "medium": {
-                        "w": 890,
                         "h": 1200,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 890
                     },
-                    "large": {
-                        "w": 1520,
-                        "h": 2048,
-                        "resize": "fit"
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 505
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": null
+                "type": "photo",
+                "url": "https://t.co/AZUCEjP9Gz"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 3,
+    "favorited": false,
+    "full_text": "Writer, Member of Congress, Ambassador: Clare Boothe Luce assesses her time as US Amb to Italy: https://t.co/Sqfi2nMWbn #WomensHistoryMonth https://t.co/AZUCEjP9Gz",
+    "geo": null,
+    "id": 841299100024856580,
+    "id_str": "841299100024856576",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 3,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

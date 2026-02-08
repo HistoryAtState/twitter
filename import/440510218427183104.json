@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Mar 03 15:33:15 +0000 2014",
-    "id": 440510218427183100,
-    "id_str": "440510218427183104",
-    "full_text": "Do some pre-workshop prep; review our recent #FRUS vol on the Congo 1960-68 – available online &amp;amp; as #ebook http://t.co/sLkW4yCy5U",
-    "truncated": false,
     "display_text_range": [
         0,
         133
@@ -11,53 +9,55 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     45,
                     50
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "ebook",
                 "indices": [
                     104,
                     110
-                ]
+                ],
+                "text": "ebook"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/sLkW4yCy5U",
-                "expanded_url": "http://go.usa.gov/ZgyT",
                 "display_url": "go.usa.gov/ZgyT",
+                "expanded_url": "http://go.usa.gov/ZgyT",
                 "indices": [
                     111,
                     133
-                ]
+                ],
+                "url": "http://t.co/sLkW4yCy5U"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "Do some pre-workshop prep; review our recent #FRUS vol on the Congo 1960-68 – available online &amp;amp; as #ebook http://t.co/sLkW4yCy5U",
+    "geo": null,
+    "id": 440510218427183100,
+    "id_str": "440510218427183104",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Jan 08 18:51:01 +0000 2013",
-    "id": 288719472892719100,
-    "id_str": "288719472892719104",
-    "full_text": "Interested in the Johnson administration? #FRUS volumes from 1964-68 now available as #ebooks. http://t.co/VhN4oq2j #twitterstorians",
-    "truncated": false,
     "display_text_range": [
         0,
         132
@@ -11,60 +9,62 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     42,
                     47
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "ebooks",
                 "indices": [
                     86,
                     93
-                ]
+                ],
+                "text": "ebooks"
             },
             {
-                "text": "twitterstorians",
                 "indices": [
                     116,
                     132
-                ]
+                ],
+                "text": "twitterstorians"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/VhN4oq2j",
-                "expanded_url": "http://go.usa.gov/gG5H",
                 "display_url": "go.usa.gov/gG5H",
+                "expanded_url": "http://go.usa.gov/gG5H",
                 "indices": [
                     95,
                     115
-                ]
+                ],
+                "url": "http://t.co/VhN4oq2j"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "Interested in the Johnson administration? #FRUS volumes from 1964-68 now available as #ebooks. http://t.co/VhN4oq2j #twitterstorians",
+    "geo": null,
+    "id": 288719472892719100,
+    "id_str": "288719472892719104",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

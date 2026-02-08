@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Apr 14 15:01:46 +0000 2015",
-    "id": 587994158943625220,
-    "id_str": "587994158943625216",
-    "full_text": "What was it like to have a #rdv with history in #WW1? Tweet discussion Qs to #WW1Diplomacy before 9am Weds 4/15 http://t.co/53mbFcec1H",
-    "truncated": false,
     "display_text_range": [
         0,
         134
@@ -11,60 +9,62 @@
     "entities": {
         "hashtags": [
             {
-                "text": "rdv",
                 "indices": [
                     27,
                     31
-                ]
+                ],
+                "text": "rdv"
             },
             {
-                "text": "WW1",
                 "indices": [
                     48,
                     52
-                ]
+                ],
+                "text": "WW1"
             },
             {
-                "text": "WW1Diplomacy",
                 "indices": [
                     77,
                     90
-                ]
+                ],
+                "text": "WW1Diplomacy"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/53mbFcec1H",
-                "expanded_url": "http://goo.gl/J7nfZR",
                 "display_url": "goo.gl/J7nfZR",
+                "expanded_url": "http://goo.gl/J7nfZR",
                 "indices": [
                     112,
                     134
-                ]
+                ],
+                "url": "http://t.co/53mbFcec1H"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "What was it like to have a #rdv with history in #WW1? Tweet discussion Qs to #WW1Diplomacy before 9am Weds 4/15 http://t.co/53mbFcec1H",
+    "geo": null,
+    "id": 587994158943625220,
+    "id_str": "587994158943625216",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

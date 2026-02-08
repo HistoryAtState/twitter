@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Jan 30 15:30:25 +0000 2020",
-    "id": 1222904908560715780,
-    "id_str": "1222904908560715776",
-    "full_text": "Diplomatic and Consular Service officers in Austria-Hungary struggled to enact Department of State directives on a daily basis during WWI. Read about it at: https://t.co/k59pQNw2Yw",
-    "truncated": false,
     "display_text_range": [
         0,
         180
@@ -11,38 +9,40 @@
     "entities": {
         "hashtags": [],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "https://t.co/k59pQNw2Yw",
-                "expanded_url": "https://history.state.gov/departmenthistory/wwi",
                 "display_url": "history.state.gov/departmenthist…",
+                "expanded_url": "https://history.state.gov/departmenthistory/wwi",
                 "indices": [
                     157,
                     180
-                ]
+                ],
+                "url": "https://t.co/k59pQNw2Yw"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "Diplomatic and Consular Service officers in Austria-Hungary struggled to enact Department of State directives on a daily basis during WWI. Read about it at: https://t.co/k59pQNw2Yw",
+    "geo": null,
+    "id": 1222904908560715780,
+    "id_str": "1222904908560715776",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

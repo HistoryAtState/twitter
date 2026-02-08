@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Jan 08 15:52:16 +0000 2013",
-    "id": 288674490441924610,
-    "id_str": "288674490441924609",
-    "full_text": "Delve into Eisenhower's foreign policy and check out our #FRUS #ebooks from 1953-61. #twitterstorians http://t.co/VhN4oq2j",
-    "truncated": false,
     "display_text_range": [
         0,
         122
@@ -11,60 +9,62 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     57,
                     62
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "ebooks",
                 "indices": [
                     63,
                     70
-                ]
+                ],
+                "text": "ebooks"
             },
             {
-                "text": "twitterstorians",
                 "indices": [
                     85,
                     101
-                ]
+                ],
+                "text": "twitterstorians"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/VhN4oq2j",
-                "expanded_url": "http://go.usa.gov/gG5H",
                 "display_url": "go.usa.gov/gG5H",
+                "expanded_url": "http://go.usa.gov/gG5H",
                 "indices": [
                     102,
                     122
-                ]
+                ],
+                "url": "http://t.co/VhN4oq2j"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 6,
+    "favorited": false,
+    "full_text": "Delve into Eisenhower's foreign policy and check out our #FRUS #ebooks from 1953-61. #twitterstorians http://t.co/VhN4oq2j",
+    "geo": null,
+    "id": 288674490441924610,
+    "id_str": "288674490441924609",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 18,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 18,
-    "favorite_count": 6,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

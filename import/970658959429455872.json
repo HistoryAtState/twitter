@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Mar 05 13:55:04 +0000 2018",
-    "id": 970658959429455870,
-    "id_str": "970658959429455872",
-    "full_text": "#FRUS, 1894, Chinese-Japanese War, Enforcement of Fur Seals Regs, Mosquito Terr, Affairs at Bluefields, Claim of A. M. Mora, Import Duties on Products of Colombia, Haiti, &amp;amp; Venezuela, Affairs in Samoan Islands, App I https://t.co/hkbP8xY6C7",
-    "truncated": false,
     "display_text_range": [
         0,
         244
@@ -11,46 +9,48 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     0,
                     5
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "https://t.co/hkbP8xY6C7",
-                "expanded_url": "https://history.state.gov/historicaldocuments/frus1894app1",
                 "display_url": "history.state.gov/historicaldocu…",
+                "expanded_url": "https://history.state.gov/historicaldocuments/frus1894app1",
                 "indices": [
                     221,
                     244
-                ]
+                ],
+                "url": "https://t.co/hkbP8xY6C7"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 1,
+    "favorited": false,
+    "full_text": "#FRUS, 1894, Chinese-Japanese War, Enforcement of Fur Seals Regs, Mosquito Terr, Affairs at Bluefields, Claim of A. M. Mora, Import Duties on Products of Colombia, Haiti, &amp;amp; Venezuela, Affairs in Samoan Islands, App I https://t.co/hkbP8xY6C7",
+    "geo": null,
+    "id": 970658959429455870,
+    "id_str": "970658959429455872",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 1,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Wed Feb 17 16:57:17 +0000 2021",
-    "id": 1362083712180101120,
-    "id_str": "1362083712180101123",
-    "full_text": "RT @US_AU: African Americans’ contributions to U.S. diplomacy began in the late 19th century, when abolitionists Ebenezer Bassett and, late…",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,40 +9,40 @@
     "entities": {
         "hashtags": [],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "US_AU",
-                "name": "US Mission to the AU",
                 "id": 631791848,
                 "id_str": "631791848",
                 "indices": [
                     3,
                     9
-                ]
+                ],
+                "name": "US Mission to the AU",
+                "screen_name": "US_AU"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": true,
+    "full_text": "RT @US_AU: African Americans’ contributions to U.S. diplomacy began in the late 19th century, when abolitionists Ebenezer Bassett and, late…",
+    "geo": null,
+    "id": 1362083712180101120,
+    "id_str": "1362083712180101123",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "retweet_count": 3,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Wed Feb 17 16:47:46 +0000 2021",
-        "id": 1362081315303079940,
-        "id_str": "1362081315303079936",
-        "full_text": "African Americans’ contributions to U.S. diplomacy began in the late 19th century, when abolitionists Ebenezer Bassett and, later, Frederick Douglass were appointed as Chiefs of Mission to Haiti and the Dominican Republic. https://t.co/O80CFeoYcS #BlackExcellence #BHM2021 https://t.co/HaVrtNVNSW",
-        "truncated": false,
         "display_text_range": [
             0,
             272
@@ -52,35 +50,24 @@
         "entities": {
             "hashtags": [
                 {
-                    "text": "BlackExcellence",
                     "indices": [
                         247,
                         263
-                    ]
+                    ],
+                    "text": "BlackExcellence"
                 },
                 {
-                    "text": "BHM2021",
                     "indices": [
                         264,
                         272
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-                {
-                    "url": "https://t.co/O80CFeoYcS",
-                    "expanded_url": "https://bit.ly/3baYQfP",
-                    "display_url": "bit.ly/3baYQfP",
-                    "indices": [
-                        223,
-                        246
-                    ]
+                    ],
+                    "text": "BHM2021"
                 }
             ],
             "media": [
                 {
+                    "display_url": "pic.twitter.com/HaVrtNVNSW",
+                    "expanded_url": "https://twitter.com/US_AU/status/1362081315303079936/photo/1",
                     "id": 1362081079524548610,
                     "id_str": "1362081079524548609",
                     "indices": [
@@ -89,38 +76,52 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/EucVhnRXYAEsoh9.jpg",
                     "media_url_https": "https://pbs.twimg.com/media/EucVhnRXYAEsoh9.jpg",
-                    "url": "https://t.co/HaVrtNVNSW",
-                    "display_url": "pic.twitter.com/HaVrtNVNSW",
-                    "expanded_url": "https://twitter.com/US_AU/status/1362081315303079936/photo/1",
-                    "type": "photo",
                     "sizes": {
-                        "medium": {
-                            "w": 1024,
-                            "h": 811,
-                            "resize": "fit"
-                        },
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
-                        },
                         "large": {
-                            "w": 1024,
                             "h": 811,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 1024
+                        },
+                        "medium": {
+                            "h": 811,
+                            "resize": "fit",
+                            "w": 1024
                         },
                         "small": {
-                            "w": 680,
                             "h": 539,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
                         }
-                    }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/HaVrtNVNSW"
                 }
-            ]
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3baYQfP",
+                    "expanded_url": "https://bit.ly/3baYQfP",
+                    "indices": [
+                        223,
+                        246
+                    ],
+                    "url": "https://t.co/O80CFeoYcS"
+                }
+            ],
+            "user_mentions": []
         },
         "extended_entities": {
             "media": [
                 {
+                    "display_url": "pic.twitter.com/HaVrtNVNSW",
+                    "expanded_url": "https://twitter.com/US_AU/status/1362081315303079936/photo/1",
+                    "ext_alt_text": null,
                     "id": 1362081079524548610,
                     "id_str": "1362081079524548609",
                     "indices": [
@@ -129,62 +130,61 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/EucVhnRXYAEsoh9.jpg",
                     "media_url_https": "https://pbs.twimg.com/media/EucVhnRXYAEsoh9.jpg",
-                    "url": "https://t.co/HaVrtNVNSW",
-                    "display_url": "pic.twitter.com/HaVrtNVNSW",
-                    "expanded_url": "https://twitter.com/US_AU/status/1362081315303079936/photo/1",
-                    "type": "photo",
                     "sizes": {
-                        "medium": {
-                            "w": 1024,
-                            "h": 811,
-                            "resize": "fit"
-                        },
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
-                        },
                         "large": {
-                            "w": 1024,
                             "h": 811,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 1024
+                        },
+                        "medium": {
+                            "h": 811,
+                            "resize": "fit",
+                            "w": 1024
                         },
                         "small": {
-                            "w": 680,
                             "h": 539,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
                         }
                     },
-                    "ext_alt_text": null
+                    "type": "photo",
+                    "url": "https://t.co/HaVrtNVNSW"
                 }
             ]
         },
-        "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+        "favorite_count": 8,
+        "favorited": true,
+        "full_text": "African Americans’ contributions to U.S. diplomacy began in the late 19th century, when abolitionists Ebenezer Bassett and, later, Frederick Douglass were appointed as Chiefs of Mission to Haiti and the Dominican Republic. https://t.co/O80CFeoYcS #BlackExcellence #BHM2021 https://t.co/HaVrtNVNSW",
+        "geo": null,
+        "id": 1362081315303079940,
+        "id_str": "1362081315303079936",
+        "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 3,
+        "retweeted": true,
+        "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
+        "truncated": false,
         "user": {
             "id": 631791848,
             "id_str": "631791848"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 3,
-        "favorite_count": 8,
-        "favorited": true,
-        "retweeted": true,
-        "possibly_sensitive": false,
-        "lang": "en"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 0,
-    "favorited": true,
-    "retweeted": true,
-    "lang": "en"
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

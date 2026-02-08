@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Wed Oct 31 12:57:31 +0000 2018",
-    "id": 1057617565349044220,
-    "id_str": "1057617565349044224",
-    "full_text": "In the 1950s, U.S. personnel regularly traveled through the Khyber Pass to reach our Embassy in Kabul, #Afghanistan. Join @historyatstate to hear U.S. diplomats tell their own tales of the journey and to see their photos and footage: https://t.co/M2V7k1IirS",
-    "truncated": false,
     "display_text_range": [
         0,
         257
@@ -11,57 +9,59 @@
     "entities": {
         "hashtags": [
             {
-                "text": "Afghanistan",
                 "indices": [
                     103,
                     115
-                ]
+                ],
+                "text": "Afghanistan"
             }
         ],
         "symbols": [],
+        "urls": [
+            {
+                "display_url": "go.usa.gov/xPy4w",
+                "expanded_url": "https://go.usa.gov/xPy4w",
+                "indices": [
+                    234,
+                    257
+                ],
+                "url": "https://t.co/M2V7k1IirS"
+            }
+        ],
         "user_mentions": [
             {
-                "screen_name": "HistoryAtState",
-                "name": "HistoryAtState",
                 "id": 586570880,
                 "id_str": "586570880",
                 "indices": [
                     122,
                     137
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "https://t.co/M2V7k1IirS",
-                "expanded_url": "https://go.usa.gov/xPy4w",
-                "display_url": "go.usa.gov/xPy4w",
-                "indices": [
-                    234,
-                    257
-                ]
+                ],
+                "name": "HistoryAtState",
+                "screen_name": "HistoryAtState"
             }
         ]
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "In the 1950s, U.S. personnel regularly traveled through the Khyber Pass to reach our Embassy in Kabul, #Afghanistan. Join @historyatstate to hear U.S. diplomats tell their own tales of the journey and to see their photos and footage: https://t.co/M2V7k1IirS",
+    "geo": null,
+    "id": 1057617565349044220,
+    "id_str": "1057617565349044224",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

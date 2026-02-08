@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Sep 29 11:50:19 +0000 2014",
-    "id": 516555567377448960,
-    "id_str": "516555567377448960",
-    "full_text": "French Amb (1902-25) JJ Jusserand did much to promote US-French ties http://t.co/OOtVg3627X http://t.co/Oiy4MIffNs http://t.co/hsNglyB6R4",
-    "truncated": false,
     "display_text_range": [
         0,
         137
@@ -11,56 +9,58 @@
     "entities": {
         "hashtags": [],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/OOtVg3627X",
-                "expanded_url": "http://ow.ly/BN7Gt",
                 "display_url": "ow.ly/BN7Gt",
+                "expanded_url": "http://ow.ly/BN7Gt",
                 "indices": [
                     69,
                     91
-                ]
+                ],
+                "url": "http://t.co/OOtVg3627X"
             },
             {
-                "url": "http://t.co/Oiy4MIffNs",
-                "expanded_url": "http://go.usa.gov/pKZx",
                 "display_url": "go.usa.gov/pKZx",
+                "expanded_url": "http://go.usa.gov/pKZx",
                 "indices": [
                     92,
                     114
-                ]
+                ],
+                "url": "http://t.co/Oiy4MIffNs"
             },
             {
-                "url": "http://t.co/hsNglyB6R4",
-                "expanded_url": "http://ow.ly/i/6YovD",
                 "display_url": "ow.ly/i/6YovD",
+                "expanded_url": "http://ow.ly/i/6YovD",
                 "indices": [
                     115,
                     137
-                ]
+                ],
+                "url": "http://t.co/hsNglyB6R4"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "French Amb (1902-25) JJ Jusserand did much to promote US-French ties http://t.co/OOtVg3627X http://t.co/Oiy4MIffNs http://t.co/hsNglyB6R4",
+    "geo": null,
+    "id": 516555567377448960,
+    "id_str": "516555567377448960",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

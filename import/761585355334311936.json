@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Fri Aug 05 15:31:12 +0000 2016",
-    "id": 761585355334311940,
-    "id_str": "761585355334311936",
-    "full_text": "The source code for our digital #FRUS documentary editions is available here: https://t.co/o3jtBckrRI",
-    "truncated": false,
     "display_text_range": [
         0,
         101
@@ -11,46 +9,48 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     32,
                     37
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "https://t.co/o3jtBckrRI",
-                "expanded_url": "https://github.com/HistoryAtState",
                 "display_url": "github.com/HistoryAtState",
+                "expanded_url": "https://github.com/HistoryAtState",
                 "indices": [
                     78,
                     101
-                ]
+                ],
+                "url": "https://t.co/o3jtBckrRI"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 3,
+    "favorited": false,
+    "full_text": "The source code for our digital #FRUS documentary editions is available here: https://t.co/o3jtBckrRI",
+    "geo": null,
+    "id": 761585355334311940,
+    "id_str": "761585355334311936",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 3,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

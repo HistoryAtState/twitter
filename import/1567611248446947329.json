@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Wed Sep 07 20:30:21 +0000 2022",
-    "id": 1567611248446947330,
-    "id_str": "1567611248446947329",
-    "full_text": "Read about the Strategic Defense Initiative and the Reykjavik Summit in chapter 6 of #FRUS, 1981–88, Vol. 5, Soviet Union:\nhttps://t.co/Syx7iwB1Dr\n\n📷 @Reagan_Library (ID: C37428-10)\n\n(3/4) https://t.co/s0lk4sYHO5",
-    "truncated": false,
     "display_text_range": [
         0,
         188
@@ -11,39 +9,17 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     85,
                     90
-                ]
-            }
-        ],
-        "symbols": [],
-        "user_mentions": [
-            {
-                "screen_name": "Reagan_Library",
-                "name": "RonaldReaganLibrary",
-                "id": 394351710,
-                "id_str": "394351710",
-                "indices": [
-                    150,
-                    165
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "https://t.co/Syx7iwB1Dr",
-                "expanded_url": "http://ow.ly/cx7050KBET2",
-                "display_url": "ow.ly/cx7050KBET2",
-                "indices": [
-                    123,
-                    146
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "media": [
             {
+                "display_url": "pic.twitter.com/s0lk4sYHO5",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1567611248446947329/photo/1",
                 "id": 1567611246240727040,
                 "id_str": "1567611246240727040",
                 "indices": [
@@ -52,38 +28,63 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/FcFGH3YWAAAyj6Q.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/FcFGH3YWAAAyj6Q.jpg",
-                "url": "https://t.co/s0lk4sYHO5",
-                "display_url": "pic.twitter.com/s0lk4sYHO5",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1567611248446947329/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
-                    "small": {
-                        "w": 680,
-                        "h": 451,
-                        "resize": "fit"
+                    "large": {
+                        "h": 497,
+                        "resize": "fit",
+                        "w": 750
                     },
                     "medium": {
-                        "w": 750,
                         "h": 497,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 750
                     },
-                    "large": {
-                        "w": 750,
-                        "h": 497,
-                        "resize": "fit"
+                    "small": {
+                        "h": 451,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/s0lk4sYHO5"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "ow.ly/cx7050KBET2",
+                "expanded_url": "http://ow.ly/cx7050KBET2",
+                "indices": [
+                    123,
+                    146
+                ],
+                "url": "https://t.co/Syx7iwB1Dr"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 394351710,
+                "id_str": "394351710",
+                "indices": [
+                    150,
+                    165
+                ],
+                "name": "RonaldReaganLibrary",
+                "screen_name": "Reagan_Library"
             }
         ]
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/s0lk4sYHO5",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1567611248446947329/photo/1",
+                "ext_alt_text": "“President Reagan says goodbye to Soviet General Secretary Gorbachev after the last meeting at Hofdi House, Reykjavik, Iceland. 10/12/1986.” (Reagan Presidential Library ID: C37428-10)",
                 "id": 1567611246240727040,
                 "id_str": "1567611246240727040",
                 "indices": [
@@ -92,55 +93,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/FcFGH3YWAAAyj6Q.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/FcFGH3YWAAAyj6Q.jpg",
-                "url": "https://t.co/s0lk4sYHO5",
-                "display_url": "pic.twitter.com/s0lk4sYHO5",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1567611248446947329/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
-                    "small": {
-                        "w": 680,
-                        "h": 451,
-                        "resize": "fit"
+                    "large": {
+                        "h": 497,
+                        "resize": "fit",
+                        "w": 750
                     },
                     "medium": {
-                        "w": 750,
                         "h": 497,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 750
                     },
-                    "large": {
-                        "w": 750,
-                        "h": 497,
-                        "resize": "fit"
+                    "small": {
+                        "h": 451,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": "“President Reagan says goodbye to Soviet General Secretary Gorbachev after the last meeting at Hofdi House, Reykjavik, Iceland. 10/12/1986.” (Reagan Presidential Library ID: C37428-10)"
+                "type": "photo",
+                "url": "https://t.co/s0lk4sYHO5"
             }
         ]
     },
-    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "favorite_count": 3,
+    "favorited": false,
+    "full_text": "Read about the Strategic Defense Initiative and the Reykjavik Summit in chapter 6 of #FRUS, 1981–88, Vol. 5, Soviet Union:\nhttps://t.co/Syx7iwB1Dr\n\n📷 @Reagan_Library (ID: C37428-10)\n\n(3/4) https://t.co/s0lk4sYHO5",
+    "geo": null,
+    "id": 1567611248446947330,
+    "id_str": "1567611248446947329",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4,
+    "retweeted": false,
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 3,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

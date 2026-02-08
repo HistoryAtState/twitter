@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Sep 28 16:01:54 +0000 2017",
-    "id": 913433592994369540,
-    "id_str": "913433592994369536",
-    "full_text": "Learn about the #Carter administration’s struggle for #humanrights in Southeast Asia:\nhttps://t.co/LtBeGCQ8Vz #FRUS #HistoryMatters",
-    "truncated": false,
     "display_text_range": [
         0,
         131
@@ -11,67 +9,69 @@
     "entities": {
         "hashtags": [
             {
-                "text": "Carter",
                 "indices": [
                     16,
                     23
-                ]
+                ],
+                "text": "Carter"
             },
             {
-                "text": "humanrights",
                 "indices": [
                     54,
                     66
-                ]
+                ],
+                "text": "humanrights"
             },
             {
-                "text": "FRUS",
                 "indices": [
                     110,
                     115
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "HistoryMatters",
                 "indices": [
                     116,
                     131
-                ]
+                ],
+                "text": "HistoryMatters"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "https://t.co/LtBeGCQ8Vz",
-                "expanded_url": "https://go.usa.gov/xRh6D",
                 "display_url": "go.usa.gov/xRh6D",
+                "expanded_url": "https://go.usa.gov/xRh6D",
                 "indices": [
                     86,
                     109
-                ]
+                ],
+                "url": "https://t.co/LtBeGCQ8Vz"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 1,
+    "favorited": false,
+    "full_text": "Learn about the #Carter administration’s struggle for #humanrights in Southeast Asia:\nhttps://t.co/LtBeGCQ8Vz #FRUS #HistoryMatters",
+    "geo": null,
+    "id": 913433592994369540,
+    "id_str": "913433592994369536",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 1,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Sep 08 13:42:13 +0000 2015",
-    "id": 641245155660562430,
-    "id_str": "641245155660562432",
-    "full_text": "Who were key US diplomats in Europe in #WW1? Refresh with our “Who’s Who” series http://t.co/UqrKeFlzuv #WW1Tweet",
-    "truncated": false,
     "display_text_range": [
         0,
         113
@@ -11,53 +9,55 @@
     "entities": {
         "hashtags": [
             {
-                "text": "WW1",
                 "indices": [
                     39,
                     43
-                ]
+                ],
+                "text": "WW1"
             },
             {
-                "text": "WW1Tweet",
                 "indices": [
                     104,
                     113
-                ]
+                ],
+                "text": "WW1Tweet"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/UqrKeFlzuv",
-                "expanded_url": "http://ow.ly/RVD9q",
                 "display_url": "ow.ly/RVD9q",
+                "expanded_url": "http://ow.ly/RVD9q",
                 "indices": [
                     81,
                     103
-                ]
+                ],
+                "url": "http://t.co/UqrKeFlzuv"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "Who were key US diplomats in Europe in #WW1? Refresh with our “Who’s Who” series http://t.co/UqrKeFlzuv #WW1Tweet",
+    "geo": null,
+    "id": 641245155660562430,
+    "id_str": "641245155660562432",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

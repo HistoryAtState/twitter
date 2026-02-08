@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Fri Dec 10 18:02:30 +0000 2021",
-    "id": 1469366930775621630,
-    "id_str": "1469366930775621635",
-    "full_text": "We send thanks to our Presidential Libraries partners on this #ArchivesGIFgiving\n\n@HooverPresLib @FDRLibrary @TrumanLibrary @IkeLibrary @JFKLibrary @NixonLibrary @Ford_Library @CarterLibrary @Reagan_Library @Bush41Library @WJCLibrary @TheBushCenter @OurPresidents https://t.co/CidEN5Olkj",
-    "truncated": false,
     "display_text_range": [
         0,
         263
@@ -11,149 +9,17 @@
     "entities": {
         "hashtags": [
             {
-                "text": "ArchivesGIFgiving",
                 "indices": [
                     62,
                     80
-                ]
+                ],
+                "text": "ArchivesGIFgiving"
             }
         ],
-        "symbols": [],
-        "user_mentions": [
-            {
-                "screen_name": "HooverPresLib",
-                "name": "Hoover Library",
-                "id": 3749677108,
-                "id_str": "3749677108",
-                "indices": [
-                    82,
-                    96
-                ]
-            },
-            {
-                "screen_name": "FDRLibrary",
-                "name": "FDR Library",
-                "id": 293650530,
-                "id_str": "293650530",
-                "indices": [
-                    97,
-                    108
-                ]
-            },
-            {
-                "screen_name": "TrumanLibrary",
-                "name": "Truman Library",
-                "id": 44657902,
-                "id_str": "44657902",
-                "indices": [
-                    109,
-                    123
-                ]
-            },
-            {
-                "screen_name": "IkeLibrary",
-                "name": "Eisenhower Library",
-                "id": 126086206,
-                "id_str": "126086206",
-                "indices": [
-                    124,
-                    135
-                ]
-            },
-            {
-                "screen_name": "JFKLibrary",
-                "name": "JFK Library",
-                "id": 32520240,
-                "id_str": "32520240",
-                "indices": [
-                    136,
-                    147
-                ]
-            },
-            {
-                "screen_name": "NixonLibrary",
-                "name": "RichardNixonLibrary",
-                "id": 4276158575,
-                "id_str": "4276158575",
-                "indices": [
-                    148,
-                    161
-                ]
-            },
-            {
-                "screen_name": "Ford_Library",
-                "name": "Gerald R. Ford Presidential Library",
-                "id": 4236957022,
-                "id_str": "4236957022",
-                "indices": [
-                    162,
-                    175
-                ]
-            },
-            {
-                "screen_name": "CarterLibrary",
-                "name": "Jimmy Carter Presidential Library",
-                "id": 19660388,
-                "id_str": "19660388",
-                "indices": [
-                    176,
-                    190
-                ]
-            },
-            {
-                "screen_name": "Reagan_Library",
-                "name": "RonaldReaganLibrary",
-                "id": 394351710,
-                "id_str": "394351710",
-                "indices": [
-                    191,
-                    206
-                ]
-            },
-            {
-                "screen_name": "Bush41Library",
-                "name": "Bush Library",
-                "id": 133456403,
-                "id_str": "133456403",
-                "indices": [
-                    207,
-                    221
-                ]
-            },
-            {
-                "screen_name": "WJCLibrary",
-                "name": "Clinton Library",
-                "id": 166655653,
-                "id_str": "166655653",
-                "indices": [
-                    222,
-                    233
-                ]
-            },
-            {
-                "screen_name": "TheBushCenter",
-                "name": "George W. Bush Presidential Center",
-                "id": 148376661,
-                "id_str": "148376661",
-                "indices": [
-                    234,
-                    248
-                ]
-            },
-            {
-                "screen_name": "OurPresidents",
-                "name": "OurPresidents",
-                "id": 224697103,
-                "id_str": "224697103",
-                "indices": [
-                    249,
-                    263
-                ]
-            }
-        ],
-        "urls": [],
         "media": [
             {
+                "display_url": "pic.twitter.com/CidEN5Olkj",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1469366930775621635/photo/1",
                 "id": 1469366929626472450,
                 "id_str": "1469366929626472454",
                 "indices": [
@@ -162,38 +28,173 @@
                 ],
                 "media_url": "http://pbs.twimg.com/tweet_video_thumb/FGQ9b_0XoAYU9id.jpg",
                 "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FGQ9b_0XoAYU9id.jpg",
-                "url": "https://t.co/CidEN5Olkj",
-                "display_url": "pic.twitter.com/CidEN5Olkj",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1469366930775621635/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
+                    "large": {
+                        "h": 480,
+                        "resize": "fit",
+                        "w": 348
                     },
                     "medium": {
-                        "w": 348,
                         "h": 480,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 348
                     },
                     "small": {
-                        "w": 348,
                         "h": 480,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 348
                     },
-                    "large": {
-                        "w": 348,
-                        "h": 480,
-                        "resize": "fit"
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/CidEN5Olkj"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 3749677108,
+                "id_str": "3749677108",
+                "indices": [
+                    82,
+                    96
+                ],
+                "name": "Hoover Library",
+                "screen_name": "HooverPresLib"
+            },
+            {
+                "id": 293650530,
+                "id_str": "293650530",
+                "indices": [
+                    97,
+                    108
+                ],
+                "name": "FDR Library",
+                "screen_name": "FDRLibrary"
+            },
+            {
+                "id": 44657902,
+                "id_str": "44657902",
+                "indices": [
+                    109,
+                    123
+                ],
+                "name": "Truman Library",
+                "screen_name": "TrumanLibrary"
+            },
+            {
+                "id": 126086206,
+                "id_str": "126086206",
+                "indices": [
+                    124,
+                    135
+                ],
+                "name": "Eisenhower Library",
+                "screen_name": "IkeLibrary"
+            },
+            {
+                "id": 32520240,
+                "id_str": "32520240",
+                "indices": [
+                    136,
+                    147
+                ],
+                "name": "JFK Library",
+                "screen_name": "JFKLibrary"
+            },
+            {
+                "id": 4276158575,
+                "id_str": "4276158575",
+                "indices": [
+                    148,
+                    161
+                ],
+                "name": "RichardNixonLibrary",
+                "screen_name": "NixonLibrary"
+            },
+            {
+                "id": 4236957022,
+                "id_str": "4236957022",
+                "indices": [
+                    162,
+                    175
+                ],
+                "name": "Gerald R. Ford Presidential Library",
+                "screen_name": "Ford_Library"
+            },
+            {
+                "id": 19660388,
+                "id_str": "19660388",
+                "indices": [
+                    176,
+                    190
+                ],
+                "name": "Jimmy Carter Presidential Library",
+                "screen_name": "CarterLibrary"
+            },
+            {
+                "id": 394351710,
+                "id_str": "394351710",
+                "indices": [
+                    191,
+                    206
+                ],
+                "name": "RonaldReaganLibrary",
+                "screen_name": "Reagan_Library"
+            },
+            {
+                "id": 133456403,
+                "id_str": "133456403",
+                "indices": [
+                    207,
+                    221
+                ],
+                "name": "Bush Library",
+                "screen_name": "Bush41Library"
+            },
+            {
+                "id": 166655653,
+                "id_str": "166655653",
+                "indices": [
+                    222,
+                    233
+                ],
+                "name": "Clinton Library",
+                "screen_name": "WJCLibrary"
+            },
+            {
+                "id": 148376661,
+                "id_str": "148376661",
+                "indices": [
+                    234,
+                    248
+                ],
+                "name": "George W. Bush Presidential Center",
+                "screen_name": "TheBushCenter"
+            },
+            {
+                "id": 224697103,
+                "id_str": "224697103",
+                "indices": [
+                    249,
+                    263
+                ],
+                "name": "OurPresidents",
+                "screen_name": "OurPresidents"
             }
         ]
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/CidEN5Olkj",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1469366930775621635/photo/1",
+                "ext_alt_text": "Animated GIF of the Presidents mascots from the Washington Nationals baseball team running out of the National Archives building and towards the camera: Tom (Jefferson), George (Washington), Teddy (Roosevelt), and Abe (Lincoln",
                 "id": 1469366929626472450,
                 "id_str": "1469366929626472454",
                 "indices": [
@@ -202,32 +203,30 @@
                 ],
                 "media_url": "http://pbs.twimg.com/tweet_video_thumb/FGQ9b_0XoAYU9id.jpg",
                 "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FGQ9b_0XoAYU9id.jpg",
-                "url": "https://t.co/CidEN5Olkj",
-                "display_url": "pic.twitter.com/CidEN5Olkj",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1469366930775621635/photo/1",
-                "type": "animated_gif",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
+                    "large": {
+                        "h": 480,
+                        "resize": "fit",
+                        "w": 348
                     },
                     "medium": {
-                        "w": 348,
                         "h": 480,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 348
                     },
                     "small": {
-                        "w": 348,
                         "h": 480,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 348
                     },
-                    "large": {
-                        "w": 348,
-                        "h": 480,
-                        "resize": "fit"
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
+                "type": "animated_gif",
+                "url": "https://t.co/CidEN5Olkj",
                 "video_info": {
                     "aspect_ratio": [
                         29,
@@ -240,30 +239,31 @@
                             "url": "https://video.twimg.com/tweet_video/FGQ9b_0XoAYU9id.mp4"
                         }
                     ]
-                },
-                "ext_alt_text": "Animated GIF of the Presidents mascots from the Washington Nationals baseball team running out of the National Archives building and towards the camera: Tom (Jefferson), George (Washington), Teddy (Roosevelt), and Abe (Lincoln"
+                }
             }
         ]
     },
-    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "favorite_count": 26,
+    "favorited": false,
+    "full_text": "We send thanks to our Presidential Libraries partners on this #ArchivesGIFgiving\n\n@HooverPresLib @FDRLibrary @TrumanLibrary @IkeLibrary @JFKLibrary @NixonLibrary @Ford_Library @CarterLibrary @Reagan_Library @Bush41Library @WJCLibrary @TheBushCenter @OurPresidents https://t.co/CidEN5Olkj",
+    "geo": null,
+    "id": 1469366930775621630,
+    "id_str": "1469366930775621635",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 26,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

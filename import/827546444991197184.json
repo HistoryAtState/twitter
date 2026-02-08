@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Fri Feb 03 15:57:02 +0000 2017",
-    "id": 827546444991197180,
-    "id_str": "827546444991197184",
-    "full_text": "Elizabeth Charles and James Graham Wilson, @StateDept experts on cold war history, represent #FRUS @ClementsCenter. #coldwarhist https://t.co/0G4ZQhryh3",
-    "truncated": false,
     "display_text_range": [
         0,
         128
@@ -11,83 +9,74 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     93,
                     98
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "coldwarhist",
                 "indices": [
                     116,
                     128
-                ]
+                ],
+                "text": "coldwarhist"
             }
         ],
         "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/ClementsCenter…",
+                "expanded_url": "https://twitter.com/ClementsCenter/status/822470221416071169",
+                "indices": [
+                    129,
+                    152
+                ],
+                "url": "https://t.co/0G4ZQhryh3"
+            }
+        ],
         "user_mentions": [
             {
-                "screen_name": "StateDept",
-                "name": "Department of State",
                 "id": 9624742,
                 "id_str": "9624742",
                 "indices": [
                     43,
                     53
-                ]
+                ],
+                "name": "Department of State",
+                "screen_name": "StateDept"
             },
             {
-                "screen_name": "ClementsCenter",
-                "name": "Clements Center",
                 "id": 1112380602,
                 "id_str": "1112380602",
                 "indices": [
                     99,
                     114
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "https://t.co/0G4ZQhryh3",
-                "expanded_url": "https://twitter.com/ClementsCenter/status/822470221416071169",
-                "display_url": "twitter.com/ClementsCenter…",
-                "indices": [
-                    129,
-                    152
-                ]
+                ],
+                "name": "Clements Center",
+                "screen_name": "ClementsCenter"
             }
         ]
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 6,
+    "favorited": false,
+    "full_text": "Elizabeth Charles and James Graham Wilson, @StateDept experts on cold war history, represent #FRUS @ClementsCenter. #coldwarhist https://t.co/0G4ZQhryh3",
+    "geo": null,
+    "id": 827546444991197180,
+    "id_str": "827546444991197184",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
     "is_quote_status": true,
-    "quoted_status_id": 822470221416071170,
-    "quoted_status_id_str": "822470221416071169",
-    "quoted_status_permalink": {
-        "url": "https://t.co/0G4ZQhryh3",
-        "expanded": "https://twitter.com/ClementsCenter/status/822470221416071169",
-        "display": "twitter.com/ClementsCenter…"
-    },
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
     "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Fri Jan 20 15:45:56 +0000 2017",
-        "id": 822470221416071170,
-        "id_str": "822470221416071169",
-        "full_text": "At #ReaganConf, @jamesgramwilson (@HistoryAtState) talks #FRUS volumes and the relationship between Reagan and the Soviets https://t.co/FfmHntZzem",
-        "truncated": false,
         "display_text_range": [
             0,
             122
@@ -95,46 +84,24 @@
         "entities": {
             "hashtags": [
                 {
-                    "text": "ReaganConf",
                     "indices": [
                         3,
                         14
-                    ]
+                    ],
+                    "text": "ReaganConf"
                 },
                 {
-                    "text": "FRUS",
                     "indices": [
                         57,
                         62
-                    ]
+                    ],
+                    "text": "FRUS"
                 }
             ],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "jamesgramwilson",
-                    "name": "James Graham Wilson",
-                    "id": 1137731849365729280,
-                    "id_str": "1137731849365729280",
-                    "indices": [
-                        16,
-                        32
-                    ]
-                },
-                {
-                    "screen_name": "HistoryAtState",
-                    "name": "HistoryAtState",
-                    "id": 586570880,
-                    "id_str": "586570880",
-                    "indices": [
-                        34,
-                        49
-                    ]
-                }
-            ],
-            "urls": [],
             "media": [
                 {
+                    "display_url": "pic.twitter.com/FfmHntZzem",
+                    "expanded_url": "https://twitter.com/ClementsCenter/status/822470221416071169/photo/1",
                     "id": 822470072690032640,
                     "id_str": "822470072690032640",
                     "indices": [
@@ -143,38 +110,63 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/C2oALGkUQAA6Y3F.jpg",
                     "media_url_https": "https://pbs.twimg.com/media/C2oALGkUQAA6Y3F.jpg",
-                    "url": "https://t.co/FfmHntZzem",
-                    "display_url": "pic.twitter.com/FfmHntZzem",
-                    "expanded_url": "https://twitter.com/ClementsCenter/status/822470221416071169/photo/1",
-                    "type": "photo",
                     "sizes": {
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
-                        },
-                        "small": {
-                            "w": 640,
-                            "h": 428,
-                            "resize": "fit"
-                        },
                         "large": {
-                            "w": 640,
                             "h": 428,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 640
                         },
                         "medium": {
-                            "w": 640,
                             "h": 428,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 640
+                        },
+                        "small": {
+                            "h": 428,
+                            "resize": "fit",
+                            "w": 640
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
                         }
-                    }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/FfmHntZzem"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 1137731849365729280,
+                    "id_str": "1137731849365729280",
+                    "indices": [
+                        16,
+                        32
+                    ],
+                    "name": "James Graham Wilson",
+                    "screen_name": "jamesgramwilson"
+                },
+                {
+                    "id": 586570880,
+                    "id_str": "586570880",
+                    "indices": [
+                        34,
+                        49
+                    ],
+                    "name": "HistoryAtState",
+                    "screen_name": "HistoryAtState"
                 }
             ]
         },
         "extended_entities": {
             "media": [
                 {
+                    "display_url": "pic.twitter.com/FfmHntZzem",
+                    "expanded_url": "https://twitter.com/ClementsCenter/status/822470221416071169/photo/1",
+                    "ext_alt_text": null,
                     "id": 822470072690032640,
                     "id_str": "822470072690032640",
                     "indices": [
@@ -183,59 +175,49 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/C2oALGkUQAA6Y3F.jpg",
                     "media_url_https": "https://pbs.twimg.com/media/C2oALGkUQAA6Y3F.jpg",
-                    "url": "https://t.co/FfmHntZzem",
-                    "display_url": "pic.twitter.com/FfmHntZzem",
-                    "expanded_url": "https://twitter.com/ClementsCenter/status/822470221416071169/photo/1",
-                    "type": "photo",
                     "sizes": {
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
-                        },
-                        "small": {
-                            "w": 640,
-                            "h": 428,
-                            "resize": "fit"
-                        },
                         "large": {
-                            "w": 640,
                             "h": 428,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 640
                         },
                         "medium": {
-                            "w": 640,
                             "h": 428,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 640
+                        },
+                        "small": {
+                            "h": 428,
+                            "resize": "fit",
+                            "w": 640
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
                         }
                     },
-                    "ext_alt_text": null
+                    "type": "photo",
+                    "url": "https://t.co/FfmHntZzem"
                 }
             ]
         },
-        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+        "favorite_count": 4,
+        "favorited": false,
+        "full_text": "At #ReaganConf, @jamesgramwilson (@HistoryAtState) talks #FRUS volumes and the relationship between Reagan and the Soviets https://t.co/FfmHntZzem",
+        "geo": null,
+        "id": 822470221416071170,
+        "id_str": "822470221416071169",
+        "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-            "id": 1112380602,
-            "id_str": "1112380602"
-        },
-        "geo": null,
-        "coordinates": null,
+        "is_quote_status": false,
+        "lang": "en",
         "place": {
-            "id": "c3f37afa9efcf94b",
-            "url": "https://api.twitter.com/1.1/geo/id/c3f37afa9efcf94b.json",
-            "place_type": "city",
-            "name": "Austin",
-            "full_name": "Austin, TX",
-            "country_code": "US",
-            "country": "United States",
-            "contained_within": [],
+            "attributes": {},
             "bounding_box": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -255,23 +237,41 @@
                             30.5187994
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "attributes": {}
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Austin, TX",
+            "id": "c3f37afa9efcf94b",
+            "name": "Austin",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/c3f37afa9efcf94b.json"
         },
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 0,
-        "favorite_count": 4,
-        "favorited": false,
-        "retweeted": false,
         "possibly_sensitive": false,
-        "lang": "en"
+        "retweet_count": 0,
+        "retweeted": false,
+        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+        "truncated": false,
+        "user": {
+            "id": 1112380602,
+            "id_str": "1112380602"
+        }
+    },
+    "quoted_status_id": 822470221416071170,
+    "quoted_status_id_str": "822470221416071169",
+    "quoted_status_permalink": {
+        "display": "twitter.com/ClementsCenter…",
+        "expanded": "https://twitter.com/ClementsCenter/status/822470221416071169",
+        "url": "https://t.co/0G4ZQhryh3"
     },
     "retweet_count": 8,
-    "favorite_count": 6,
-    "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

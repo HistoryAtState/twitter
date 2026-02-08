@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Fri Sep 19 11:30:33 +0000 2014",
-    "id": 512926716084641790,
-    "id_str": "512926716084641792",
-    "full_text": "2/2 actions that significantly strengthened Franco-American relations in unique ways http://t.co/BKNhQXYMin http://t.co/Oiy4MIffNs",
-    "truncated": false,
     "display_text_range": [
         0,
         130
@@ -11,47 +9,49 @@
     "entities": {
         "hashtags": [],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/BKNhQXYMin",
-                "expanded_url": "http://go.usa.gov/p2JT",
                 "display_url": "go.usa.gov/p2JT",
+                "expanded_url": "http://go.usa.gov/p2JT",
                 "indices": [
                     85,
                     107
-                ]
+                ],
+                "url": "http://t.co/BKNhQXYMin"
             },
             {
-                "url": "http://t.co/Oiy4MIffNs",
-                "expanded_url": "http://go.usa.gov/pKZx",
                 "display_url": "go.usa.gov/pKZx",
+                "expanded_url": "http://go.usa.gov/pKZx",
                 "indices": [
                     108,
                     130
-                ]
+                ],
+                "url": "http://t.co/Oiy4MIffNs"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 2,
+    "favorited": false,
+    "full_text": "2/2 actions that significantly strengthened Franco-American relations in unique ways http://t.co/BKNhQXYMin http://t.co/Oiy4MIffNs",
+    "geo": null,
+    "id": 512926716084641790,
+    "id_str": "512926716084641792",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 2,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

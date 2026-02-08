@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Fri Dec 20 18:15:22 +0000 2013",
-    "id": 414096705244905470,
-    "id_str": "414096705244905472",
-    "full_text": "See how #FRUS timeliness has changed since 1861 in our interactive production chart http://t.co/pqbHGbzDeJ",
-    "truncated": false,
     "display_text_range": [
         0,
         106
@@ -11,46 +9,48 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     8,
                     13
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/pqbHGbzDeJ",
-                "expanded_url": "http://go.usa.gov/Z2Re",
                 "display_url": "go.usa.gov/Z2Re",
+                "expanded_url": "http://go.usa.gov/Z2Re",
                 "indices": [
                     84,
                     106
-                ]
+                ],
+                "url": "http://t.co/pqbHGbzDeJ"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\"&gt;Tweetbot for Mac&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "See how #FRUS timeliness has changed since 1861 in our interactive production chart http://t.co/pqbHGbzDeJ",
+    "geo": null,
+    "id": 414096705244905470,
+    "id_str": "414096705244905472",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "&lt;a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\"&gt;Tweetbot for Mac&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

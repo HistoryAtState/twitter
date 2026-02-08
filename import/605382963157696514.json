@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Jun 01 14:38:40 +0000 2015",
-    "id": 605382963157696510,
-    "id_str": "605382963157696514",
-    "full_text": "How did #SecState Hay spend his #StLouis childhood summers? #Expo2015 http://t.co/oPe03vvVZ4",
-    "truncated": false,
     "display_text_range": [
         0,
         92
@@ -11,60 +9,62 @@
     "entities": {
         "hashtags": [
             {
-                "text": "SecState",
                 "indices": [
                     8,
                     17
-                ]
+                ],
+                "text": "SecState"
             },
             {
-                "text": "StLouis",
                 "indices": [
                     32,
                     40
-                ]
+                ],
+                "text": "StLouis"
             },
             {
-                "text": "Expo2015",
                 "indices": [
                     60,
                     69
-                ]
+                ],
+                "text": "Expo2015"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/oPe03vvVZ4",
-                "expanded_url": "http://ow.ly/NIgs5",
                 "display_url": "ow.ly/NIgs5",
+                "expanded_url": "http://ow.ly/NIgs5",
                 "indices": [
                     70,
                     92
-                ]
+                ],
+                "url": "http://t.co/oPe03vvVZ4"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 2,
+    "favorited": false,
+    "full_text": "How did #SecState Hay spend his #StLouis childhood summers? #Expo2015 http://t.co/oPe03vvVZ4",
+    "geo": null,
+    "id": 605382963157696510,
+    "id_str": "605382963157696514",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 2,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

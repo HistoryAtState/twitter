@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Nov 06 13:33:59 +0000 2014",
-    "id": 530352395809988610,
-    "id_str": "530352395809988608",
-    "full_text": "RT @USHouseHistory: #OTD, the 1st and only former #POTUS was elected to the House. Hint: he was a former Sec of State. @HistoryAtState http…",
-    "truncated": false,
     "display_text_range": [
         0,
         140
@@ -11,65 +9,65 @@
     "entities": {
         "hashtags": [
             {
-                "text": "OTD",
                 "indices": [
                     20,
                     24
-                ]
+                ],
+                "text": "OTD"
             },
             {
-                "text": "POTUS",
                 "indices": [
                     50,
                     56
-                ]
+                ],
+                "text": "POTUS"
             }
         ],
         "symbols": [],
+        "urls": [],
         "user_mentions": [
             {
-                "screen_name": "USHouseHistory",
-                "name": "U.S. House History",
                 "id": 906782533,
                 "id_str": "906782533",
                 "indices": [
                     3,
                     18
-                ]
+                ],
+                "name": "U.S. House History",
+                "screen_name": "USHouseHistory"
             },
             {
-                "screen_name": "HistoryAtState",
-                "name": "HistoryAtState",
                 "id": 586570880,
                 "id_str": "586570880",
                 "indices": [
                     119,
                     134
-                ]
+                ],
+                "name": "HistoryAtState",
+                "screen_name": "HistoryAtState"
             }
-        ],
-        "urls": []
+        ]
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "RT @USHouseHistory: #OTD, the 1st and only former #POTUS was elected to the House. Hint: he was a former Sec of State. @HistoryAtState http…",
+    "geo": null,
+    "id": 530352395809988610,
+    "id_str": "530352395809988608",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "retweet_count": 8,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Thu Nov 06 13:00:14 +0000 2014",
-        "id": 530343903572926460,
-        "id_str": "530343903572926466",
-        "full_text": "#OTD, the 1st and only former #POTUS was elected to the House. Hint: he was a former Sec of State. @HistoryAtState http://t.co/7AIPYoZbCI",
-        "truncated": false,
         "display_text_range": [
             0,
             137
@@ -77,71 +75,73 @@
         "entities": {
             "hashtags": [
                 {
-                    "text": "OTD",
                     "indices": [
                         0,
                         4
-                    ]
+                    ],
+                    "text": "OTD"
                 },
                 {
-                    "text": "POTUS",
                     "indices": [
                         30,
                         36
-                    ]
+                    ],
+                    "text": "POTUS"
                 }
             ],
             "symbols": [],
+            "urls": [
+                {
+                    "display_url": "1.usa.gov/1u9QkEW",
+                    "expanded_url": "http://1.usa.gov/1u9QkEW",
+                    "indices": [
+                        115,
+                        137
+                    ],
+                    "url": "http://t.co/7AIPYoZbCI"
+                }
+            ],
             "user_mentions": [
                 {
-                    "screen_name": "HistoryAtState",
-                    "name": "HistoryAtState",
                     "id": 586570880,
                     "id_str": "586570880",
                     "indices": [
                         99,
                         114
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "http://t.co/7AIPYoZbCI",
-                    "expanded_url": "http://1.usa.gov/1u9QkEW",
-                    "display_url": "1.usa.gov/1u9QkEW",
-                    "indices": [
-                        115,
-                        137
-                    ]
+                    ],
+                    "name": "HistoryAtState",
+                    "screen_name": "HistoryAtState"
                 }
             ]
         },
-        "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
+        "favorite_count": 1,
+        "favorited": false,
+        "full_text": "#OTD, the 1st and only former #POTUS was elected to the House. Hint: he was a former Sec of State. @HistoryAtState http://t.co/7AIPYoZbCI",
+        "geo": null,
+        "id": 530343903572926460,
+        "id_str": "530343903572926466",
+        "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 8,
+        "retweeted": true,
+        "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
+        "truncated": false,
         "user": {
             "id": 906782533,
             "id_str": "906782533"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 8,
-        "favorite_count": 1,
-        "favorited": false,
-        "retweeted": true,
-        "possibly_sensitive": false,
-        "lang": "en"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 8,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": true,
-    "lang": "en"
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

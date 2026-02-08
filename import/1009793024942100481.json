@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Jun 21 13:39:52 +0000 2018",
-    "id": 1009793024942100480,
-    "id_str": "1009793024942100481",
-    "full_text": "On July 23, 1971, Henry Kissinger and Japanese Ambassador Ushiba discussed the state of U.S.-Japanese relations a week after Kissinger’s secret trip to #China. Read more: https://t.co/EbtOf7MU70 #FRUS https://t.co/8fAe27t6S8",
-    "truncated": false,
     "display_text_range": [
         0,
         200
@@ -11,35 +9,24 @@
     "entities": {
         "hashtags": [
             {
-                "text": "China",
                 "indices": [
                     152,
                     158
-                ]
+                ],
+                "text": "China"
             },
             {
-                "text": "FRUS",
                 "indices": [
                     195,
                     200
-                ]
-            }
-        ],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
-            {
-                "url": "https://t.co/EbtOf7MU70",
-                "expanded_url": "https://history.state.gov/historicaldocuments/frus1969-76v19p2/d83",
-                "display_url": "history.state.gov/historicaldocu…",
-                "indices": [
-                    171,
-                    194
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "media": [
             {
+                "display_url": "pic.twitter.com/8fAe27t6S8",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1009793024942100481/photo/1",
                 "id": 1009792655423832060,
                 "id_str": "1009792655423832064",
                 "indices": [
@@ -48,38 +35,52 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/DgOBEetWAAAZvCu.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DgOBEetWAAAZvCu.jpg",
-                "url": "https://t.co/8fAe27t6S8",
-                "display_url": "pic.twitter.com/8fAe27t6S8",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1009793024942100481/photo/1",
-                "type": "photo",
                 "sizes": {
                     "large": {
-                        "w": 668,
                         "h": 735,
-                        "resize": "fit"
-                    },
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
+                        "resize": "fit",
+                        "w": 668
                     },
                     "medium": {
-                        "w": 668,
                         "h": 735,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 668
                     },
                     "small": {
-                        "w": 618,
                         "h": 680,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 618
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/8fAe27t6S8"
             }
-        ]
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "history.state.gov/historicaldocu…",
+                "expanded_url": "https://history.state.gov/historicaldocuments/frus1969-76v19p2/d83",
+                "indices": [
+                    171,
+                    194
+                ],
+                "url": "https://t.co/EbtOf7MU70"
+            }
+        ],
+        "user_mentions": []
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/8fAe27t6S8",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1009793024942100481/photo/1",
+                "ext_alt_text": "Screenshot of Document 83",
                 "id": 1009792655423832060,
                 "id_str": "1009792655423832064",
                 "indices": [
@@ -88,55 +89,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/DgOBEetWAAAZvCu.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DgOBEetWAAAZvCu.jpg",
-                "url": "https://t.co/8fAe27t6S8",
-                "display_url": "pic.twitter.com/8fAe27t6S8",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1009793024942100481/photo/1",
-                "type": "photo",
                 "sizes": {
                     "large": {
-                        "w": 668,
                         "h": 735,
-                        "resize": "fit"
-                    },
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
+                        "resize": "fit",
+                        "w": 668
                     },
                     "medium": {
-                        "w": 668,
                         "h": 735,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 668
                     },
                     "small": {
-                        "w": 618,
                         "h": 680,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 618
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": "Screenshot of Document 83"
+                "type": "photo",
+                "url": "https://t.co/8fAe27t6S8"
             }
         ]
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 1,
+    "favorited": false,
+    "full_text": "On July 23, 1971, Henry Kissinger and Japanese Ambassador Ushiba discussed the state of U.S.-Japanese relations a week after Kissinger’s secret trip to #China. Read more: https://t.co/EbtOf7MU70 #FRUS https://t.co/8fAe27t6S8",
+    "geo": null,
+    "id": 1009793024942100480,
+    "id_str": "1009793024942100481",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 1,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

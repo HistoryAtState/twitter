@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Oct 20 18:05:35 +0000 2014",
-    "id": 524260153177407490,
-    "id_str": "524260153177407488",
-    "full_text": "We’ll present “Visualizing the History of US Foreign Relations” using @HDStanford Palladio at #TEIConf2014 #dh http://t.co/7amYRPh1aZ",
-    "truncated": false,
     "display_text_range": [
         0,
         133
@@ -11,64 +9,66 @@
     "entities": {
         "hashtags": [
             {
-                "text": "TEIConf2014",
                 "indices": [
                     94,
                     106
-                ]
+                ],
+                "text": "TEIConf2014"
             },
             {
-                "text": "dh",
                 "indices": [
                     107,
                     110
-                ]
+                ],
+                "text": "dh"
             }
         ],
         "symbols": [],
+        "urls": [
+            {
+                "display_url": "tei.northwestern.edu/papers/",
+                "expanded_url": "http://tei.northwestern.edu/papers/",
+                "indices": [
+                    111,
+                    133
+                ],
+                "url": "http://t.co/7amYRPh1aZ"
+            }
+        ],
         "user_mentions": [
             {
-                "screen_name": "HDStanford",
-                "name": "Humanities + Design",
                 "id": 2307268194,
                 "id_str": "2307268194",
                 "indices": [
                     70,
                     81
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "http://t.co/7amYRPh1aZ",
-                "expanded_url": "http://tei.northwestern.edu/papers/",
-                "display_url": "tei.northwestern.edu/papers/",
-                "indices": [
-                    111,
-                    133
-                ]
+                ],
+                "name": "Humanities + Design",
+                "screen_name": "HDStanford"
             }
         ]
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 4,
+    "favorited": false,
+    "full_text": "We’ll present “Visualizing the History of US Foreign Relations” using @HDStanford Palladio at #TEIConf2014 #dh http://t.co/7amYRPh1aZ",
+    "geo": null,
+    "id": 524260153177407490,
+    "id_str": "524260153177407488",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 5,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 5,
-    "favorite_count": 4,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

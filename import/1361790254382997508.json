@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Feb 16 21:31:12 +0000 2021",
-    "id": 1361790254382997500,
-    "id_str": "1361790254382997508",
-    "full_text": "(2/2) An image of these handwritten notes taken by Secretary Weinberger on September 2, 1983 is available at Appendix D in #FRUS:\nhttps://t.co/2lCRxXOmuv https://t.co/mgeVJMuLW4",
-    "truncated": false,
     "display_text_range": [
         0,
         153
@@ -11,28 +9,17 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     123,
                     128
-                ]
-            }
-        ],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
-            {
-                "url": "https://t.co/2lCRxXOmuv",
-                "expanded_url": "https://history.state.gov/historicaldocuments/frus1981-88v04/appendixD",
-                "display_url": "history.state.gov/historicaldocu…",
-                "indices": [
-                    130,
-                    153
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "media": [
             {
+                "display_url": "pic.twitter.com/mgeVJMuLW4",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1361790254382997508/photo/1",
                 "id": 1361790252176785410,
                 "id_str": "1361790252176785415",
                 "indices": [
@@ -41,38 +28,52 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/EuYNBO-WQAcv3uM.png",
                 "media_url_https": "https://pbs.twimg.com/media/EuYNBO-WQAcv3uM.png",
-                "url": "https://t.co/mgeVJMuLW4",
-                "display_url": "pic.twitter.com/mgeVJMuLW4",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1361790254382997508/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "small": {
-                        "w": 559,
-                        "h": 680,
-                        "resize": "fit"
-                    },
                     "large": {
-                        "w": 802,
                         "h": 976,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 802
                     },
                     "medium": {
-                        "w": 802,
                         "h": 976,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 802
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 559
                     },
                     "thumb": {
-                        "w": 150,
                         "h": 150,
-                        "resize": "crop"
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/mgeVJMuLW4"
             }
-        ]
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "history.state.gov/historicaldocu…",
+                "expanded_url": "https://history.state.gov/historicaldocuments/frus1981-88v04/appendixD",
+                "indices": [
+                    130,
+                    153
+                ],
+                "url": "https://t.co/2lCRxXOmuv"
+            }
+        ],
+        "user_mentions": []
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/mgeVJMuLW4",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1361790254382997508/photo/1",
+                "ext_alt_text": "Screenshot of handwritten notes of the September 2, 1983 National Security Council meeting by Secretary of Defense Weinberger",
                 "id": 1361790252176785410,
                 "id_str": "1361790252176785415",
                 "indices": [
@@ -81,55 +82,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/EuYNBO-WQAcv3uM.png",
                 "media_url_https": "https://pbs.twimg.com/media/EuYNBO-WQAcv3uM.png",
-                "url": "https://t.co/mgeVJMuLW4",
-                "display_url": "pic.twitter.com/mgeVJMuLW4",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1361790254382997508/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "small": {
-                        "w": 559,
-                        "h": 680,
-                        "resize": "fit"
-                    },
                     "large": {
-                        "w": 802,
                         "h": 976,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 802
                     },
                     "medium": {
-                        "w": 802,
                         "h": 976,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 802
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 559
                     },
                     "thumb": {
-                        "w": 150,
                         "h": 150,
-                        "resize": "crop"
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": "Screenshot of handwritten notes of the September 2, 1983 National Security Council meeting by Secretary of Defense Weinberger"
+                "type": "photo",
+                "url": "https://t.co/mgeVJMuLW4"
             }
         ]
     },
-    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "favorite_count": 8,
+    "favorited": false,
+    "full_text": "(2/2) An image of these handwritten notes taken by Secretary Weinberger on September 2, 1983 is available at Appendix D in #FRUS:\nhttps://t.co/2lCRxXOmuv https://t.co/mgeVJMuLW4",
+    "geo": null,
+    "id": 1361790254382997500,
+    "id_str": "1361790254382997508",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 8,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

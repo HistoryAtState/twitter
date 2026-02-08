@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Oct 01 16:21:27 +0000 2018",
-    "id": 1046797251589419010,
-    "id_str": "1046797251589419008",
-    "full_text": "Check out the latest #FRUS release to see how USIA began American Revolution Bicentennial Celebration planning https://t.co/9o70e7i5i8",
-    "truncated": false,
     "display_text_range": [
         0,
         134
@@ -11,46 +9,48 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     21,
                     26
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "https://t.co/9o70e7i5i8",
-                "expanded_url": "https://www.history.state.gov/historicaldocuments/frus1917-72PubDipv08/d56",
                 "display_url": "history.state.gov/historicaldocu…",
+                "expanded_url": "https://www.history.state.gov/historicaldocuments/frus1917-72PubDipv08/d56",
                 "indices": [
                     111,
                     134
-                ]
+                ],
+                "url": "https://t.co/9o70e7i5i8"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "Check out the latest #FRUS release to see how USIA began American Revolution Bicentennial Celebration planning https://t.co/9o70e7i5i8",
+    "geo": null,
+    "id": 1046797251589419010,
+    "id_str": "1046797251589419008",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Jun 17 17:18:09 +0000 2013",
-    "id": 346678163436363780,
-    "id_str": "346678163436363776",
-    "full_text": "Congress combined the consular and diplomatic services into the Foreign Service when it passed the 1924 Rogers Act http://t.co/OkTu65qiNW",
-    "truncated": false,
     "display_text_range": [
         0,
         137
@@ -11,38 +9,40 @@
     "entities": {
         "hashtags": [],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/OkTu65qiNW",
-                "expanded_url": "http://1.usa.gov/10Px8vp",
                 "display_url": "1.usa.gov/10Px8vp",
+                "expanded_url": "http://1.usa.gov/10Px8vp",
                 "indices": [
                     115,
                     137
-                ]
+                ],
+                "url": "http://t.co/OkTu65qiNW"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 1,
+    "favorited": false,
+    "full_text": "Congress combined the consular and diplomatic services into the Foreign Service when it passed the 1924 Rogers Act http://t.co/OkTu65qiNW",
+    "geo": null,
+    "id": 346678163436363780,
+    "id_str": "346678163436363776",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 6,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 1,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

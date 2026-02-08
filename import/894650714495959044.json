@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Aug 07 20:05:26 +0000 2017",
-    "id": 894650714495959040,
-    "id_str": "894650714495959044",
-    "full_text": "RT @StateDeptDSS: DSS honors @USMC Marine Security Guard &amp;amp; 5 embassy guards killed in 1998 attacks. https://t.co/RtYZ04aAmN @USEmbassyKenya…",
-    "truncated": false,
     "display_text_range": [
         0,
         144
@@ -11,70 +9,71 @@
     "entities": {
         "hashtags": [],
         "symbols": [],
+        "urls": [
+            {
+                "display_url": "ow.ly/Ht6730e8OIc",
+                "expanded_url": "http://ow.ly/Ht6730e8OIc",
+                "indices": [
+                    104,
+                    127
+                ],
+                "url": "https://t.co/RtYZ04aAmN"
+            }
+        ],
         "user_mentions": [
             {
-                "screen_name": "StateDeptDSS",
-                "name": "statedeptdss",
                 "id": 834799740546056190,
                 "id_str": "834799740546056194",
                 "indices": [
                     3,
                     16
-                ]
+                ],
+                "name": "statedeptdss",
+                "screen_name": "StateDeptDSS"
             },
             {
-                "screen_name": "USMC",
-                "name": "U.S. Marines",
                 "id": 10126672,
                 "id_str": "10126672",
                 "indices": [
                     29,
                     34
-                ]
+                ],
+                "name": "U.S. Marines",
+                "screen_name": "USMC"
             },
             {
-                "screen_name": "USEmbassyKenya",
-                "name": "U.S. Embassy Nairobi",
                 "id": 70636581,
                 "id_str": "70636581",
                 "indices": [
                     128,
                     143
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "https://t.co/RtYZ04aAmN",
-                "expanded_url": "http://ow.ly/Ht6730e8OIc",
-                "display_url": "ow.ly/Ht6730e8OIc",
-                "indices": [
-                    104,
-                    127
-                ]
+                ],
+                "name": "U.S. Embassy Nairobi",
+                "screen_name": "USEmbassyKenya"
             }
         ]
     },
-    "source": "&lt;a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"&gt;Twitter for iPad&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "RT @StateDeptDSS: DSS honors @USMC Marine Security Guard &amp;amp; 5 embassy guards killed in 1998 attacks. https://t.co/RtYZ04aAmN @USEmbassyKenya…",
+    "geo": null,
+    "id": 894650714495959040,
+    "id_str": "894650714495959044",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
+    "is_quote_status": false,
+    "lang": "en",
     "place": null,
-    "contributors": null,
+    "possibly_sensitive": false,
+    "retweet_count": 13,
+    "retweeted": true,
     "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
         "created_at": "Mon Aug 07 16:00:34 +0000 2017",
-        "id": 894589089063862270,
-        "id_str": "894589089063862273",
-        "full_text": "DSS honors @USMC Marine Security Guard &amp;amp; 5 embassy guards killed in 1998 attacks. https://t.co/RtYZ04aAmN @USEmbassyKenya @AmEmbTZ #LODD https://t.co/DTsbI8sXda",
-        "truncated": false,
         "display_text_range": [
             0,
             140
@@ -82,49 +81,17 @@
         "entities": {
             "hashtags": [
                 {
-                    "text": "LODD",
                     "indices": [
                         135,
                         140
-                    ]
-                }
-            ],
-            "symbols": [],
-            "user_mentions": [
-                {
-                    "screen_name": "USMC",
-                    "name": "U.S. Marines",
-                    "id": 10126672,
-                    "id_str": "10126672",
-                    "indices": [
-                        11,
-                        16
-                    ]
-                },
-                {
-                    "screen_name": "USEmbassyKenya",
-                    "name": "U.S. Embassy Nairobi",
-                    "id": 70636581,
-                    "id_str": "70636581",
-                    "indices": [
-                        110,
-                        125
-                    ]
-                }
-            ],
-            "urls": [
-                {
-                    "url": "https://t.co/RtYZ04aAmN",
-                    "expanded_url": "http://ow.ly/Ht6730e8OIc",
-                    "display_url": "ow.ly/Ht6730e8OIc",
-                    "indices": [
-                        86,
-                        109
-                    ]
+                    ],
+                    "text": "LODD"
                 }
             ],
             "media": [
                 {
+                    "display_url": "pic.twitter.com/DTsbI8sXda",
+                    "expanded_url": "https://twitter.com/StateDeptDSS/status/894589089063862273/photo/1",
                     "id": 894589086727639040,
                     "id_str": "894589086727639042",
                     "indices": [
@@ -133,38 +100,73 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/DGo4CN5XkAI-t3K.jpg",
                     "media_url_https": "https://pbs.twimg.com/media/DGo4CN5XkAI-t3K.jpg",
-                    "url": "https://t.co/DTsbI8sXda",
-                    "display_url": "pic.twitter.com/DTsbI8sXda",
-                    "expanded_url": "https://twitter.com/StateDeptDSS/status/894589089063862273/photo/1",
-                    "type": "photo",
                     "sizes": {
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
-                        },
-                        "small": {
-                            "w": 680,
-                            "h": 357,
-                            "resize": "fit"
-                        },
                         "large": {
-                            "w": 1200,
                             "h": 630,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 1200
                         },
                         "medium": {
-                            "w": 1200,
                             "h": 630,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 1200
+                        },
+                        "small": {
+                            "h": 357,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
                         }
-                    }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/DTsbI8sXda"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "ow.ly/Ht6730e8OIc",
+                    "expanded_url": "http://ow.ly/Ht6730e8OIc",
+                    "indices": [
+                        86,
+                        109
+                    ],
+                    "url": "https://t.co/RtYZ04aAmN"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 10126672,
+                    "id_str": "10126672",
+                    "indices": [
+                        11,
+                        16
+                    ],
+                    "name": "U.S. Marines",
+                    "screen_name": "USMC"
+                },
+                {
+                    "id": 70636581,
+                    "id_str": "70636581",
+                    "indices": [
+                        110,
+                        125
+                    ],
+                    "name": "U.S. Embassy Nairobi",
+                    "screen_name": "USEmbassyKenya"
                 }
             ]
         },
         "extended_entities": {
             "media": [
                 {
+                    "display_url": "pic.twitter.com/DTsbI8sXda",
+                    "expanded_url": "https://twitter.com/StateDeptDSS/status/894589089063862273/photo/1",
+                    "ext_alt_text": null,
                     "id": 894589086727639040,
                     "id_str": "894589086727639042",
                     "indices": [
@@ -173,63 +175,61 @@
                     ],
                     "media_url": "http://pbs.twimg.com/media/DGo4CN5XkAI-t3K.jpg",
                     "media_url_https": "https://pbs.twimg.com/media/DGo4CN5XkAI-t3K.jpg",
-                    "url": "https://t.co/DTsbI8sXda",
-                    "display_url": "pic.twitter.com/DTsbI8sXda",
-                    "expanded_url": "https://twitter.com/StateDeptDSS/status/894589089063862273/photo/1",
-                    "type": "photo",
                     "sizes": {
-                        "thumb": {
-                            "w": 150,
-                            "h": 150,
-                            "resize": "crop"
-                        },
-                        "small": {
-                            "w": 680,
-                            "h": 357,
-                            "resize": "fit"
-                        },
                         "large": {
-                            "w": 1200,
                             "h": 630,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 1200
                         },
                         "medium": {
-                            "w": 1200,
                             "h": 630,
-                            "resize": "fit"
+                            "resize": "fit",
+                            "w": 1200
+                        },
+                        "small": {
+                            "h": 357,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
                         }
                     },
-                    "ext_alt_text": null
+                    "type": "photo",
+                    "url": "https://t.co/DTsbI8sXda"
                 }
             ]
         },
-        "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+        "favorite_count": 15,
+        "favorited": false,
+        "full_text": "DSS honors @USMC Marine Security Guard &amp;amp; 5 embassy guards killed in 1998 attacks. https://t.co/RtYZ04aAmN @USEmbassyKenya @AmEmbTZ #LODD https://t.co/DTsbI8sXda",
+        "geo": null,
+        "id": 894589089063862270,
+        "id_str": "894589089063862273",
+        "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
         "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 13,
+        "retweeted": true,
+        "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+        "truncated": false,
         "user": {
             "id": 834799740546056190,
             "id_str": "834799740546056194"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 13,
-        "favorite_count": 15,
-        "favorited": false,
-        "retweeted": true,
-        "possibly_sensitive": false,
-        "lang": "en"
+        }
     },
-    "is_quote_status": false,
-    "retweet_count": 13,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": true,
-    "possibly_sensitive": false,
-    "lang": "en"
+    "source": "&lt;a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"&gt;Twitter for iPad&lt;/a&gt;",
+    "truncated": false,
+    "user": {
+        "id": 586570880,
+        "id_str": "586570880"
+    }
 }

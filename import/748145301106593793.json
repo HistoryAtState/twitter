@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Wed Jun 29 13:25:14 +0000 2016",
-    "id": 748145301106593790,
-    "id_str": "748145301106593793",
-    "full_text": "42 years ago, President Nixon went to #Ottawa to meet with Prime Minister Pierre Trudeau, Justin Trudeau’s father: https://t.co/DGus5O1DmZ",
-    "truncated": false,
     "display_text_range": [
         0,
         138
@@ -11,46 +9,48 @@
     "entities": {
         "hashtags": [
             {
-                "text": "Ottawa",
                 "indices": [
                     38,
                     45
-                ]
+                ],
+                "text": "Ottawa"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "https://t.co/DGus5O1DmZ",
-                "expanded_url": "https://history.state.gov/historicaldocuments/frus1969-76v41/d112",
                 "display_url": "history.state.gov/historicaldocu…",
+                "expanded_url": "https://history.state.gov/historicaldocuments/frus1969-76v41/d112",
                 "indices": [
                     115,
                     138
-                ]
+                ],
+                "url": "https://t.co/DGus5O1DmZ"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 2,
+    "favorited": false,
+    "full_text": "42 years ago, President Nixon went to #Ottawa to meet with Prime Minister Pierre Trudeau, Justin Trudeau’s father: https://t.co/DGus5O1DmZ",
+    "geo": null,
+    "id": 748145301106593790,
+    "id_str": "748145301106593793",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 2,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

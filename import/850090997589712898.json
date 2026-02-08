@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Apr 06 21:01:02 +0000 2017",
-    "id": 850090997589712900,
-    "id_str": "850090997589712898",
-    "full_text": "NOW: Papers Relating to #ForeignRelations, #1918, Sup. 2, #WW1 https://t.co/o8S7ThAIvj #FRUS #twitterstorians #FirstWorldWar #GreatWar https://t.co/0XYs4EjJ9W",
-    "truncated": false,
     "display_text_range": [
         0,
         134
@@ -11,63 +9,52 @@
     "entities": {
         "hashtags": [
             {
-                "text": "ForeignRelations",
                 "indices": [
                     24,
                     41
-                ]
+                ],
+                "text": "ForeignRelations"
             },
             {
-                "text": "WW1",
                 "indices": [
                     58,
                     62
-                ]
+                ],
+                "text": "WW1"
             },
             {
-                "text": "FRUS",
                 "indices": [
                     87,
                     92
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "twitterstorians",
                 "indices": [
                     93,
                     109
-                ]
+                ],
+                "text": "twitterstorians"
             },
             {
-                "text": "FirstWorldWar",
                 "indices": [
                     110,
                     124
-                ]
+                ],
+                "text": "FirstWorldWar"
             },
             {
-                "text": "GreatWar",
                 "indices": [
                     125,
                     134
-                ]
-            }
-        ],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
-            {
-                "url": "https://t.co/o8S7ThAIvj",
-                "expanded_url": "https://go.usa.gov/xXRMt",
-                "display_url": "go.usa.gov/xXRMt",
-                "indices": [
-                    63,
-                    86
-                ]
+                ],
+                "text": "GreatWar"
             }
         ],
         "media": [
             {
+                "display_url": "pic.twitter.com/0XYs4EjJ9W",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/850090997589712898/photo/1",
                 "id": 850090995425230850,
                 "id_str": "850090995425230848",
                 "indices": [
@@ -76,38 +63,52 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/C8whQaEUQAASN3C.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/C8whQaEUQAASN3C.jpg",
-                "url": "https://t.co/0XYs4EjJ9W",
-                "display_url": "pic.twitter.com/0XYs4EjJ9W",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/850090997589712898/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
-                    "small": {
-                        "w": 680,
-                        "h": 541,
-                        "resize": "fit"
+                    "large": {
+                        "h": 815,
+                        "resize": "fit",
+                        "w": 1024
                     },
                     "medium": {
-                        "w": 1024,
                         "h": 815,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1024
                     },
-                    "large": {
-                        "w": 1024,
-                        "h": 815,
-                        "resize": "fit"
+                    "small": {
+                        "h": 541,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/0XYs4EjJ9W"
             }
-        ]
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "go.usa.gov/xXRMt",
+                "expanded_url": "https://go.usa.gov/xXRMt",
+                "indices": [
+                    63,
+                    86
+                ],
+                "url": "https://t.co/o8S7ThAIvj"
+            }
+        ],
+        "user_mentions": []
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/0XYs4EjJ9W",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/850090997589712898/photo/1",
+                "ext_alt_text": null,
                 "id": 850090995425230850,
                 "id_str": "850090995425230848",
                 "indices": [
@@ -116,55 +117,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/C8whQaEUQAASN3C.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/C8whQaEUQAASN3C.jpg",
-                "url": "https://t.co/0XYs4EjJ9W",
-                "display_url": "pic.twitter.com/0XYs4EjJ9W",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/850090997589712898/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
-                    "small": {
-                        "w": 680,
-                        "h": 541,
-                        "resize": "fit"
+                    "large": {
+                        "h": 815,
+                        "resize": "fit",
+                        "w": 1024
                     },
                     "medium": {
-                        "w": 1024,
                         "h": 815,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1024
                     },
-                    "large": {
-                        "w": 1024,
-                        "h": 815,
-                        "resize": "fit"
+                    "small": {
+                        "h": 541,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": null
+                "type": "photo",
+                "url": "https://t.co/0XYs4EjJ9W"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "NOW: Papers Relating to #ForeignRelations, #1918, Sup. 2, #WW1 https://t.co/o8S7ThAIvj #FRUS #twitterstorians #FirstWorldWar #GreatWar https://t.co/0XYs4EjJ9W",
+    "geo": null,
+    "id": 850090997589712900,
+    "id_str": "850090997589712898",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

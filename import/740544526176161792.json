@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Wed Jun 08 14:02:28 +0000 2016",
-    "id": 740544526176161790,
-    "id_str": "740544526176161792",
-    "full_text": "In 1978, the Carter administration developed a program to support the upcoming @UN Water Decade https://t.co/rKB8IHxCYk #WorldOceansDay",
-    "truncated": false,
     "display_text_range": [
         0,
         135
@@ -11,57 +9,59 @@
     "entities": {
         "hashtags": [
             {
-                "text": "WorldOceansDay",
                 "indices": [
                     120,
                     135
-                ]
+                ],
+                "text": "WorldOceansDay"
             }
         ],
         "symbols": [],
+        "urls": [
+            {
+                "display_url": "go.usa.gov/cSn2F",
+                "expanded_url": "http://go.usa.gov/cSn2F",
+                "indices": [
+                    96,
+                    119
+                ],
+                "url": "https://t.co/rKB8IHxCYk"
+            }
+        ],
         "user_mentions": [
             {
-                "screen_name": "UN",
-                "name": "United Nations",
                 "id": 14159148,
                 "id_str": "14159148",
                 "indices": [
                     79,
                     82
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "https://t.co/rKB8IHxCYk",
-                "expanded_url": "http://go.usa.gov/cSn2F",
-                "display_url": "go.usa.gov/cSn2F",
-                "indices": [
-                    96,
-                    119
-                ]
+                ],
+                "name": "United Nations",
+                "screen_name": "UN"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "In 1978, the Carter administration developed a program to support the upcoming @UN Water Decade https://t.co/rKB8IHxCYk #WorldOceansDay",
+    "geo": null,
+    "id": 740544526176161790,
+    "id_str": "740544526176161792",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

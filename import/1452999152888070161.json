@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Oct 26 14:02:48 +0000 2021",
-    "id": 1452999152888070140,
-    "id_str": "1452999152888070161",
-    "full_text": "This #FavoriteFRUS further specifies Soviet reaction to U.S. Embassy Moscow’s 1978 discovery of listening devices in a tunnel connecting to an adjoining property. 🕵️‍♀️ Read about the actions taken by the Soviets to thwart Embassy work on the tunnel:\nhttps://t.co/mFY3QaDdhk https://t.co/ZZSYn0Fd54",
-    "truncated": false,
     "display_text_range": [
         0,
         274
@@ -11,28 +9,17 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FavoriteFRUS",
                 "indices": [
                     5,
                     18
-                ]
-            }
-        ],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
-            {
-                "url": "https://t.co/mFY3QaDdhk",
-                "expanded_url": "http://ow.ly/xmKM50GtRZu",
-                "display_url": "ow.ly/xmKM50GtRZu",
-                "indices": [
-                    251,
-                    274
-                ]
+                ],
+                "text": "FavoriteFRUS"
             }
         ],
         "media": [
             {
+                "display_url": "pic.twitter.com/ZZSYn0Fd54",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1452999152888070161/photo/1",
                 "id": 1452999151600418820,
                 "id_str": "1452999151600418818",
                 "indices": [
@@ -41,38 +28,52 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/FCoXB7IWQAI1naI.png",
                 "media_url_https": "https://pbs.twimg.com/media/FCoXB7IWQAI1naI.png",
-                "url": "https://t.co/ZZSYn0Fd54",
-                "display_url": "pic.twitter.com/ZZSYn0Fd54",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1452999152888070161/photo/1",
-                "type": "photo",
                 "sizes": {
                     "large": {
-                        "w": 992,
                         "h": 250,
-                        "resize": "fit"
-                    },
-                    "small": {
-                        "w": 680,
-                        "h": 171,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 992
                     },
                     "medium": {
-                        "w": 992,
                         "h": 250,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 992
+                    },
+                    "small": {
+                        "h": 171,
+                        "resize": "fit",
+                        "w": 680
                     },
                     "thumb": {
-                        "w": 150,
                         "h": 150,
-                        "resize": "crop"
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/ZZSYn0Fd54"
             }
-        ]
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "ow.ly/xmKM50GtRZu",
+                "expanded_url": "http://ow.ly/xmKM50GtRZu",
+                "indices": [
+                    251,
+                    274
+                ],
+                "url": "https://t.co/mFY3QaDdhk"
+            }
+        ],
+        "user_mentions": []
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/ZZSYn0Fd54",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1452999152888070161/photo/1",
+                "ext_alt_text": "Screenshot of “Telegram From the Embassy in the Soviet Union to the Department of State,” dated May 27, 1978: “We attempted to erect barrier at Embassy property line, but efforts were thwarted by Soviet harassment (pounding on wall, erection of trip line in tunnel, prodding into tunnel with steel bars from Soviet basement, and verbal abuse",
                 "id": 1452999151600418820,
                 "id_str": "1452999151600418818",
                 "indices": [
@@ -81,55 +82,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/FCoXB7IWQAI1naI.png",
                 "media_url_https": "https://pbs.twimg.com/media/FCoXB7IWQAI1naI.png",
-                "url": "https://t.co/ZZSYn0Fd54",
-                "display_url": "pic.twitter.com/ZZSYn0Fd54",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1452999152888070161/photo/1",
-                "type": "photo",
                 "sizes": {
                     "large": {
-                        "w": 992,
                         "h": 250,
-                        "resize": "fit"
-                    },
-                    "small": {
-                        "w": 680,
-                        "h": 171,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 992
                     },
                     "medium": {
-                        "w": 992,
                         "h": 250,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 992
+                    },
+                    "small": {
+                        "h": 171,
+                        "resize": "fit",
+                        "w": 680
                     },
                     "thumb": {
-                        "w": 150,
                         "h": 150,
-                        "resize": "crop"
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": "Screenshot of “Telegram From the Embassy in the Soviet Union to the Department of State,” dated May 27, 1978: “We attempted to erect barrier at Embassy property line, but efforts were thwarted by Soviet harassment (pounding on wall, erection of trip line in tunnel, prodding into tunnel with steel bars from Soviet basement, and verbal abuse"
+                "type": "photo",
+                "url": "https://t.co/ZZSYn0Fd54"
             }
         ]
     },
-    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "favorite_count": 6,
+    "favorited": false,
+    "full_text": "This #FavoriteFRUS further specifies Soviet reaction to U.S. Embassy Moscow’s 1978 discovery of listening devices in a tunnel connecting to an adjoining property. 🕵️‍♀️ Read about the actions taken by the Soviets to thwart Embassy work on the tunnel:\nhttps://t.co/mFY3QaDdhk https://t.co/ZZSYn0Fd54",
+    "geo": null,
+    "id": 1452999152888070140,
+    "id_str": "1452999152888070161",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 6,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

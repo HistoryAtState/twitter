@@ -1,31 +1,17 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Mon Nov 01 20:30:13 +0000 2021",
-    "id": 1455270979928825860,
-    "id_str": "1455270979928825858",
-    "full_text": "In the aftermath of the Sept. 11, 2001 terrorist attacks, Sec. Powell and other members of the National Security Council met at the White House and later Camp David to discuss the U.S. response.\n\n📷 @USNatArchives, @ GWBLibrary https://t.co/zY90jK0wX5",
-    "truncated": false,
     "display_text_range": [
         0,
         226
     ],
     "entities": {
         "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-            {
-                "screen_name": "USNatArchives",
-                "name": "US National Archives",
-                "id": 101802390,
-                "id_str": "101802390",
-                "indices": [
-                    198,
-                    212
-                ]
-            }
-        ],
-        "urls": [],
         "media": [
             {
+                "display_url": "pic.twitter.com/zY90jK0wX5",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1455270979928825858/photo/1",
                 "id": 1455270975558373380,
                 "id_str": "1455270975558373376",
                 "indices": [
@@ -34,38 +20,53 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/FDIpPe4X0AAskDt.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/FDIpPe4X0AAskDt.jpg",
-                "url": "https://t.co/zY90jK0wX5",
-                "display_url": "pic.twitter.com/zY90jK0wX5",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1455270979928825858/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
+                    "large": {
+                        "h": 1365,
+                        "resize": "fit",
+                        "w": 2048
                     },
                     "medium": {
-                        "w": 1200,
                         "h": 800,
-                        "resize": "fit"
-                    },
-                    "large": {
-                        "w": 2048,
-                        "h": 1365,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1200
                     },
                     "small": {
-                        "w": 680,
                         "h": 453,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/zY90jK0wX5"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 101802390,
+                "id_str": "101802390",
+                "indices": [
+                    198,
+                    212
+                ],
+                "name": "US National Archives",
+                "screen_name": "USNatArchives"
             }
         ]
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/zY90jK0wX5",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1455270979928825858/photo/1",
+                "ext_alt_text": "Color Photograph: “Secretary of State Colin Powell in the Presidential Emergency Operations Center,” dated Sept. 11, 2001. Powell is flipping pages of a report as he glances at a person off-camera while resting his right hand to his forehead. (NARA ID 176203815)",
                 "id": 1455270975558373380,
                 "id_str": "1455270975558373376",
                 "indices": [
@@ -74,35 +75,35 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/FDIpPe4X0AAskDt.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/FDIpPe4X0AAskDt.jpg",
-                "url": "https://t.co/zY90jK0wX5",
-                "display_url": "pic.twitter.com/zY90jK0wX5",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1455270979928825858/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
+                    "large": {
+                        "h": 1365,
+                        "resize": "fit",
+                        "w": 2048
                     },
                     "medium": {
-                        "w": 1200,
                         "h": 800,
-                        "resize": "fit"
-                    },
-                    "large": {
-                        "w": 2048,
-                        "h": 1365,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1200
                     },
                     "small": {
-                        "w": 680,
                         "h": 453,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": "Color Photograph: “Secretary of State Colin Powell in the Presidential Emergency Operations Center,” dated Sept. 11, 2001. Powell is flipping pages of a report as he glances at a person off-camera while resting his right hand to his forehead. (NARA ID 176203815)"
+                "type": "photo",
+                "url": "https://t.co/zY90jK0wX5"
             },
             {
+                "display_url": "pic.twitter.com/zY90jK0wX5",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1455270979928825858/photo/1",
+                "ext_alt_text": "Color photograph: “Vice President Cheney Talks with Secretary of State Colin Powell and National Security Advisor Condoleezza Rice in the Presidential Emergency Operations Center,” dated Sept. 11, 2001 (NARA ID 176203821)",
                 "id": 1455270975260483580,
                 "id_str": "1455270975260483596",
                 "indices": [
@@ -111,35 +112,35 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/FDIpPdxWYAwl-me.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/FDIpPdxWYAwl-me.jpg",
-                "url": "https://t.co/zY90jK0wX5",
-                "display_url": "pic.twitter.com/zY90jK0wX5",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1455270979928825858/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
-                    "small": {
-                        "w": 680,
-                        "h": 453,
-                        "resize": "fit"
+                    "large": {
+                        "h": 1365,
+                        "resize": "fit",
+                        "w": 2048
                     },
                     "medium": {
-                        "w": 1200,
                         "h": 800,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1200
                     },
-                    "large": {
-                        "w": 2048,
-                        "h": 1365,
-                        "resize": "fit"
+                    "small": {
+                        "h": 453,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": "Color photograph: “Vice President Cheney Talks with Secretary of State Colin Powell and National Security Advisor Condoleezza Rice in the Presidential Emergency Operations Center,” dated Sept. 11, 2001 (NARA ID 176203821)"
+                "type": "photo",
+                "url": "https://t.co/zY90jK0wX5"
             },
             {
+                "display_url": "pic.twitter.com/zY90jK0wX5",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1455270979928825858/photo/1",
+                "ext_alt_text": "Color photograph: “President George W. Bush Gives Remarks After a Morning Meeting with the National Security Council in the Cabinet Room of the White House. This photograph includes CIA Director George Tenet, Attorney General John Ashcroft, Secretary of Defense Donald Rumsfeld, Secretary of State Colin Powell, President George W. Bush and Vice President Dick Cheney,” dated Sept. 12, 2001 (NARA ID 205207083)",
                 "id": 1455270975449280510,
                 "id_str": "1455270975449280516",
                 "indices": [
@@ -148,35 +149,35 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/FDIpPeeXMAQyfDt.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/FDIpPeeXMAQyfDt.jpg",
-                "url": "https://t.co/zY90jK0wX5",
-                "display_url": "pic.twitter.com/zY90jK0wX5",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1455270979928825858/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
+                    "large": {
+                        "h": 667,
+                        "resize": "fit",
+                        "w": 1000
                     },
                     "medium": {
-                        "w": 1000,
                         "h": 667,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1000
                     },
                     "small": {
-                        "w": 680,
                         "h": 454,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 680
                     },
-                    "large": {
-                        "w": 1000,
-                        "h": 667,
-                        "resize": "fit"
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": "Color photograph: “President George W. Bush Gives Remarks After a Morning Meeting with the National Security Council in the Cabinet Room of the White House. This photograph includes CIA Director George Tenet, Attorney General John Ashcroft, Secretary of Defense Donald Rumsfeld, Secretary of State Colin Powell, President George W. Bush and Vice President Dick Cheney,” dated Sept. 12, 2001 (NARA ID 205207083)"
+                "type": "photo",
+                "url": "https://t.co/zY90jK0wX5"
             },
             {
+                "display_url": "pic.twitter.com/zY90jK0wX5",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1455270979928825858/photo/1",
+                "ext_alt_text": "Color photograph: “Original caption: President George W. Bush confers with his National Security Council at Camp David in Thurmont, Maryland. Pictured from left are: Vice President Dick Cheney; Colin Powell, Secretary of State; Donald Rumsfeld, Secretary of Defense; and Paul Wolfowitz, Deputy Secretary of Defense,” dated Sept. 15, 2001 (NARA ID 5997312)",
                 "id": 1455270975394787330,
                 "id_str": "1455270975394787328",
                 "indices": [
@@ -185,55 +186,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/FDIpPeRXsAA2KOx.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/FDIpPeRXsAA2KOx.jpg",
-                "url": "https://t.co/zY90jK0wX5",
-                "display_url": "pic.twitter.com/zY90jK0wX5",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1455270979928825858/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
                     "large": {
-                        "w": 2000,
                         "h": 1333,
-                        "resize": "fit"
-                    },
-                    "small": {
-                        "w": 680,
-                        "h": 453,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 2000
                     },
                     "medium": {
-                        "w": 1200,
                         "h": 800,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1200
+                    },
+                    "small": {
+                        "h": 453,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": "Color photograph: “Original caption: President George W. Bush confers with his National Security Council at Camp David in Thurmont, Maryland. Pictured from left are: Vice President Dick Cheney; Colin Powell, Secretary of State; Donald Rumsfeld, Secretary of Defense; and Paul Wolfowitz, Deputy Secretary of Defense,” dated Sept. 15, 2001 (NARA ID 5997312)"
+                "type": "photo",
+                "url": "https://t.co/zY90jK0wX5"
             }
         ]
     },
-    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "favorite_count": 5,
+    "favorited": false,
+    "full_text": "In the aftermath of the Sept. 11, 2001 terrorist attacks, Sec. Powell and other members of the National Security Council met at the White House and later Camp David to discuss the U.S. response.\n\n📷 @USNatArchives, @ GWBLibrary https://t.co/zY90jK0wX5",
+    "geo": null,
+    "id": 1455270979928825860,
+    "id_str": "1455270979928825858",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 5,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

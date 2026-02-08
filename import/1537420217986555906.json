@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Thu Jun 16 13:01:58 +0000 2022",
-    "id": 1537420217986555900,
-    "id_str": "1537420217986555906",
-    "full_text": "🙌 JOB POSTING #4\nApply to be a HISTORIAN in the EUROPE Division of @HistoryAtState. Research and compile historical foreign policy documents for #FRUS and @StateDept\n\nDEADLINE: June 21, 2022\nhttps://t.co/w955dob9Mt https://t.co/vnP3000qZ1",
-    "truncated": false,
     "display_text_range": [
         0,
         214
@@ -11,49 +9,17 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     145,
                     150
-                ]
-            }
-        ],
-        "symbols": [],
-        "user_mentions": [
-            {
-                "screen_name": "HistoryAtState",
-                "name": "HistoryAtState",
-                "id": 586570880,
-                "id_str": "586570880",
-                "indices": [
-                    67,
-                    82
-                ]
-            },
-            {
-                "screen_name": "StateDept",
-                "name": "Department of State",
-                "id": 9624742,
-                "id_str": "9624742",
-                "indices": [
-                    155,
-                    165
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "https://t.co/w955dob9Mt",
-                "expanded_url": "https://www.usajobs.gov/job/658378600?utm_source=hootsuite&amp;utm_medium=&amp;utm_term=&amp;utm_content=&amp;utm_campaign=oh-job-postings",
-                "display_url": "usajobs.gov/job/658378600?…",
-                "indices": [
-                    191,
-                    214
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "media": [
             {
+                "display_url": "pic.twitter.com/vnP3000qZ1",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1537420217986555906/photo/1",
                 "id": 1537420216300449790,
                 "id_str": "1537420216300449798",
                 "indices": [
@@ -62,38 +28,73 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/FVYDiocXsAYRl_j.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/FVYDiocXsAYRl_j.jpg",
-                "url": "https://t.co/vnP3000qZ1",
-                "display_url": "pic.twitter.com/vnP3000qZ1",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1537420217986555906/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
+                    "large": {
+                        "h": 814,
+                        "resize": "fit",
+                        "w": 1396
                     },
                     "medium": {
-                        "w": 1200,
                         "h": 700,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1200
                     },
                     "small": {
-                        "w": 680,
                         "h": 397,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 680
                     },
-                    "large": {
-                        "w": 1396,
-                        "h": 814,
-                        "resize": "fit"
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/vnP3000qZ1"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "usajobs.gov/job/658378600?…",
+                "expanded_url": "https://www.usajobs.gov/job/658378600?utm_source=hootsuite&amp;utm_medium=&amp;utm_term=&amp;utm_content=&amp;utm_campaign=oh-job-postings",
+                "indices": [
+                    191,
+                    214
+                ],
+                "url": "https://t.co/w955dob9Mt"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 586570880,
+                "id_str": "586570880",
+                "indices": [
+                    67,
+                    82
+                ],
+                "name": "HistoryAtState",
+                "screen_name": "HistoryAtState"
+            },
+            {
+                "id": 9624742,
+                "id_str": "9624742",
+                "indices": [
+                    155,
+                    165
+                ],
+                "name": "Department of State",
+                "screen_name": "StateDept"
             }
         ]
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/vnP3000qZ1",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1537420217986555906/photo/1",
+                "ext_alt_text": "Duties: • Researches and analyzes various moderately complex official and personal historical documents and records of U.S. foreign relations decisions and actions by the United States Government. • Researches and analyses technical content for replies to Departmental, interagency, and public inquiries…",
                 "id": 1537420216300449790,
                 "id_str": "1537420216300449798",
                 "indices": [
@@ -102,55 +103,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/FVYDiocXsAYRl_j.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/FVYDiocXsAYRl_j.jpg",
-                "url": "https://t.co/vnP3000qZ1",
-                "display_url": "pic.twitter.com/vnP3000qZ1",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1537420217986555906/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
+                    "large": {
+                        "h": 814,
+                        "resize": "fit",
+                        "w": 1396
                     },
                     "medium": {
-                        "w": 1200,
                         "h": 700,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 1200
                     },
                     "small": {
-                        "w": 680,
                         "h": 397,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 680
                     },
-                    "large": {
-                        "w": 1396,
-                        "h": 814,
-                        "resize": "fit"
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": "Duties: • Researches and analyzes various moderately complex official and personal historical documents and records of U.S. foreign relations decisions and actions by the United States Government. • Researches and analyses technical content for replies to Departmental, interagency, and public inquiries…"
+                "type": "photo",
+                "url": "https://t.co/vnP3000qZ1"
             }
         ]
     },
-    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "favorite_count": 7,
+    "favorited": false,
+    "full_text": "🙌 JOB POSTING #4\nApply to be a HISTORIAN in the EUROPE Division of @HistoryAtState. Research and compile historical foreign policy documents for #FRUS and @StateDept\n\nDEADLINE: June 21, 2022\nhttps://t.co/w955dob9Mt https://t.co/vnP3000qZ1",
+    "geo": null,
+    "id": 1537420217986555900,
+    "id_str": "1537420217986555906",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 6,
+    "retweeted": false,
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 7,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

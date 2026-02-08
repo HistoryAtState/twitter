@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Jul 23 13:00:32 +0000 2013",
-    "id": 359659294091771900,
-    "id_str": "359659294091771905",
-    "full_text": "7/23/1863: “Many of the newspapers at first refused to believe in the surrender of Vicksburg” #FRUS #CivilWar http://t.co/oBeVIuSlsR",
-    "truncated": false,
     "display_text_range": [
         0,
         132
@@ -11,53 +9,55 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     94,
                     99
-                ]
+                ],
+                "text": "FRUS"
             },
             {
-                "text": "CivilWar",
                 "indices": [
                     100,
                     109
-                ]
+                ],
+                "text": "CivilWar"
             }
         ],
         "symbols": [],
-        "user_mentions": [],
         "urls": [
             {
-                "url": "http://t.co/oBeVIuSlsR",
-                "expanded_url": "http://bit.ly/1apBLk0",
                 "display_url": "bit.ly/1apBLk0",
+                "expanded_url": "http://bit.ly/1apBLk0",
                 "indices": [
                     110,
                     132
-                ]
+                ],
+                "url": "http://t.co/oBeVIuSlsR"
             }
-        ]
+        ],
+        "user_mentions": []
     },
-    "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
+    "favorite_count": 0,
+    "favorited": false,
+    "full_text": "7/23/1863: “Many of the newspapers at first refused to believe in the surrender of Vicksburg” #FRUS #CivilWar http://t.co/oBeVIuSlsR",
+    "geo": null,
+    "id": 359659294091771900,
+    "id_str": "359659294091771905",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

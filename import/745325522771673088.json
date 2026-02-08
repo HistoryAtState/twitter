@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Tue Jun 21 18:40:26 +0000 2016",
-    "id": 745325522771673090,
-    "id_str": "745325522771673088",
-    "full_text": "Why is it so important to know about the Office of the Historian? Read it here: https://t.co/XhI4CL81Ko @AFSATweets @AFSA_DC #FSJ",
-    "truncated": false,
     "display_text_range": [
         0,
         129
@@ -11,67 +9,69 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FSJ",
                 "indices": [
                     125,
                     129
-                ]
+                ],
+                "text": "FSJ"
             }
         ],
         "symbols": [],
+        "urls": [
+            {
+                "display_url": "bit.ly/1WGHbBe",
+                "expanded_url": "http://bit.ly/1WGHbBe",
+                "indices": [
+                    80,
+                    103
+                ],
+                "url": "https://t.co/XhI4CL81Ko"
+            }
+        ],
         "user_mentions": [
             {
-                "screen_name": "afsatweets",
-                "name": "AFSA",
                 "id": 134905400,
                 "id_str": "134905400",
                 "indices": [
                     104,
                     115
-                ]
+                ],
+                "name": "AFSA",
+                "screen_name": "afsatweets"
             },
             {
-                "screen_name": "AFSA_DC",
-                "name": "AFSA",
                 "id": 68435322,
                 "id_str": "68435322",
                 "indices": [
                     116,
                     124
-                ]
-            }
-        ],
-        "urls": [
-            {
-                "url": "https://t.co/XhI4CL81Ko",
-                "expanded_url": "http://bit.ly/1WGHbBe",
-                "display_url": "bit.ly/1WGHbBe",
-                "indices": [
-                    80,
-                    103
-                ]
+                ],
+                "name": "AFSA",
+                "screen_name": "AFSA_DC"
             }
         ]
     },
-    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "favorite_count": 5,
+    "favorited": false,
+    "full_text": "Why is it so important to know about the Office of the Historian? Read it here: https://t.co/XhI4CL81Ko @AFSATweets @AFSA_DC #FSJ",
+    "geo": null,
+    "id": 745325522771673090,
+    "id_str": "745325522771673088",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3,
+    "retweeted": false,
+    "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 5,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    }
 }

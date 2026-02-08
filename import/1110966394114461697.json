@@ -1,9 +1,7 @@
 {
+    "contributors": null,
+    "coordinates": null,
     "created_at": "Wed Mar 27 18:06:43 +0000 2019",
-    "id": 1110966394114461700,
-    "id_str": "1110966394114461697",
-    "full_text": "Just released: two #FRUS volumes in ebook format! Access 1977-1980, Vol XXIV, South America; Latin America Region &amp;amp; 1977-1980, Vol XII, Afghanistan at https://t.co/14ZcsMHLyQ &amp;amp; https://t.co/gxOQEhosHJ https://t.co/dbmeAiCCVC",
-    "truncated": false,
     "display_text_range": [
         0,
         208
@@ -11,37 +9,17 @@
     "entities": {
         "hashtags": [
             {
-                "text": "FRUS",
                 "indices": [
                     19,
                     24
-                ]
-            }
-        ],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
-            {
-                "url": "https://t.co/14ZcsMHLyQ",
-                "expanded_url": "https://history.state.gov/historicaldocuments/frus1977-80v24",
-                "display_url": "history.state.gov/historicaldocu…",
-                "indices": [
-                    155,
-                    178
-                ]
-            },
-            {
-                "url": "https://t.co/gxOQEhosHJ",
-                "expanded_url": "https://history.state.gov/historicaldocuments/frus1977-80v12",
-                "display_url": "history.state.gov/historicaldocu…",
-                "indices": [
-                    185,
-                    208
-                ]
+                ],
+                "text": "FRUS"
             }
         ],
         "media": [
             {
+                "display_url": "pic.twitter.com/dbmeAiCCVC",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1110966394114461697/photo/1",
                 "id": 1110966392373817340,
                 "id_str": "1110966392373817350",
                 "indices": [
@@ -50,38 +28,61 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/D2ryDDbWsAY0e_8.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/D2ryDDbWsAY0e_8.jpg",
-                "url": "https://t.co/dbmeAiCCVC",
-                "display_url": "pic.twitter.com/dbmeAiCCVC",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1110966394114461697/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "medium": {
-                        "w": 400,
-                        "h": 600,
-                        "resize": "fit"
-                    },
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
                     "large": {
-                        "w": 400,
                         "h": 600,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 400
+                    },
+                    "medium": {
+                        "h": 600,
+                        "resize": "fit",
+                        "w": 400
                     },
                     "small": {
-                        "w": 400,
                         "h": 600,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 400
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
-                }
+                },
+                "type": "photo",
+                "url": "https://t.co/dbmeAiCCVC"
             }
-        ]
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "history.state.gov/historicaldocu…",
+                "expanded_url": "https://history.state.gov/historicaldocuments/frus1977-80v24",
+                "indices": [
+                    155,
+                    178
+                ],
+                "url": "https://t.co/14ZcsMHLyQ"
+            },
+            {
+                "display_url": "history.state.gov/historicaldocu…",
+                "expanded_url": "https://history.state.gov/historicaldocuments/frus1977-80v12",
+                "indices": [
+                    185,
+                    208
+                ],
+                "url": "https://t.co/gxOQEhosHJ"
+            }
+        ],
+        "user_mentions": []
     },
     "extended_entities": {
         "media": [
             {
+                "display_url": "pic.twitter.com/dbmeAiCCVC",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1110966394114461697/photo/1",
+                "ext_alt_text": null,
                 "id": 1110966392373817340,
                 "id_str": "1110966392373817350",
                 "indices": [
@@ -90,35 +91,35 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/D2ryDDbWsAY0e_8.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/D2ryDDbWsAY0e_8.jpg",
-                "url": "https://t.co/dbmeAiCCVC",
-                "display_url": "pic.twitter.com/dbmeAiCCVC",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1110966394114461697/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "medium": {
-                        "w": 400,
-                        "h": 600,
-                        "resize": "fit"
-                    },
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
                     "large": {
-                        "w": 400,
                         "h": 600,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 400
+                    },
+                    "medium": {
+                        "h": 600,
+                        "resize": "fit",
+                        "w": 400
                     },
                     "small": {
-                        "w": 400,
                         "h": 600,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 400
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": null
+                "type": "photo",
+                "url": "https://t.co/dbmeAiCCVC"
             },
             {
+                "display_url": "pic.twitter.com/dbmeAiCCVC",
+                "expanded_url": "https://twitter.com/HistoryAtState/status/1110966394114461697/photo/1",
+                "ext_alt_text": "Cover image for the South American volume.",
                 "id": 1110966392248041470,
                 "id_str": "1110966392248041472",
                 "indices": [
@@ -127,55 +128,54 @@
                 ],
                 "media_url": "http://pbs.twimg.com/media/D2ryDC9XgAAh5rJ.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/D2ryDC9XgAAh5rJ.jpg",
-                "url": "https://t.co/dbmeAiCCVC",
-                "display_url": "pic.twitter.com/dbmeAiCCVC",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1110966394114461697/photo/1",
-                "type": "photo",
                 "sizes": {
-                    "medium": {
-                        "w": 400,
-                        "h": 600,
-                        "resize": "fit"
-                    },
-                    "thumb": {
-                        "w": 150,
-                        "h": 150,
-                        "resize": "crop"
-                    },
                     "large": {
-                        "w": 400,
                         "h": 600,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 400
+                    },
+                    "medium": {
+                        "h": 600,
+                        "resize": "fit",
+                        "w": 400
                     },
                     "small": {
-                        "w": 400,
                         "h": 600,
-                        "resize": "fit"
+                        "resize": "fit",
+                        "w": 400
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
                     }
                 },
-                "ext_alt_text": "Cover image for the South American volume."
+                "type": "photo",
+                "url": "https://t.co/dbmeAiCCVC"
             }
         ]
     },
-    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "favorite_count": 3,
+    "favorited": false,
+    "full_text": "Just released: two #FRUS volumes in ebook format! Access 1977-1980, Vol XXIV, South America; Latin America Region &amp;amp; 1977-1980, Vol XII, Afghanistan at https://t.co/14ZcsMHLyQ &amp;amp; https://t.co/gxOQEhosHJ https://t.co/dbmeAiCCVC",
+    "geo": null,
+    "id": 1110966394114461700,
+    "id_str": "1110966394114461697",
+    "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "lang": "ro",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3,
+    "retweeted": false,
+    "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
+    "truncated": false,
     "user": {
         "id": 586570880,
         "id_str": "586570880"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 3,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "ro"
+    }
 }

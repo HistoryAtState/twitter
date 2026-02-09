@@ -1,24 +1,22 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Thu Dec 10 21:30:22 +0000 2015",
     "display_text_range": [
-        0,
-        140
+        "0",
+        "140"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    128,
-                    133
+                    "128",
+                    "133"
                 ],
                 "text": "FRUS"
             },
             {
                 "indices": [
-                    134,
-                    140
+                    "134",
+                    "140"
                 ],
                 "text": "COP21"
             }
@@ -29,46 +27,34 @@
                 "display_url": "go.usa.gov/cK3C3",
                 "expanded_url": "http://go.usa.gov/cK3C3",
                 "indices": [
-                    104,
-                    127
+                    "104",
+                    "127"
                 ],
                 "url": "https://t.co/ehB9cL5MCe"
             }
         ],
         "user_mentions": [
             {
-                "id": 15007149,
+                "id": "15007149",
                 "id_str": "15007149",
                 "indices": [
-                    32,
-                    42
+                    "32",
+                    "42"
                 ],
                 "name": "John Kerry",
                 "screen_name": "JohnKerry"
             }
         ]
     },
-    "favorite_count": 1,
+    "favorite_count": "1",
     "favorited": false,
     "full_text": "From Amb. Train in Stockholm to @JohnKerry in Paris: Docs on international environmental policy 1969–72 https://t.co/ehB9cL5MCe #FRUS #COP21",
-    "geo": null,
-    "id": 675065040245010430,
+    "id": "675065040245010433",
     "id_str": "675065040245010433",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 0,
+    "retweet_count": "0",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

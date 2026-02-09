@@ -1,24 +1,22 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Thu May 02 16:35:52 +0000 2013",
     "display_text_range": [
-        0,
-        124
+        "0",
+        "124"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    102,
-                    107
+                    "102",
+                    "107"
                 ],
                 "text": "FRUS"
             },
             {
                 "indices": [
-                    108,
-                    124
+                    "108",
+                    "124"
                 ],
                 "text": "twitterstorians"
             }
@@ -29,35 +27,23 @@
                 "display_url": "go.usa.gov/TXGk",
                 "expanded_url": "http://go.usa.gov/TXGk",
                 "indices": [
-                    79,
-                    101
+                    "79",
+                    "101"
                 ],
                 "url": "http://t.co/zBlOQUjWoh"
             }
         ],
         "user_mentions": []
     },
-    "favorite_count": 1,
+    "favorite_count": "1",
     "favorited": false,
     "full_text": "How did the Soviet invasion of Afghanistan affect Sino-American relations? See http://t.co/zBlOQUjWoh #FRUS #twitterstorians",
-    "geo": null,
-    "id": 329997680858247170,
+    "id": "329997680858247168",
     "id_str": "329997680858247168",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 1,
+    "retweet_count": "0",
     "retweeted": false,
     "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

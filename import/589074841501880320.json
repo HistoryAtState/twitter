@@ -1,24 +1,22 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Fri Apr 17 14:36:01 +0000 2015",
     "display_text_range": [
-        0,
-        120
+        "0",
+        "120"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    23,
-                    31
+                    "23",
+                    "31"
                 ],
                 "text": "dataviz"
             },
             {
                 "indices": [
-                    110,
-                    120
+                    "110",
+                    "120"
                 ],
                 "text": "icedd2015"
             }
@@ -29,130 +27,44 @@
                 "display_url": "history.state.gov/historicaldocu…",
                 "expanded_url": "http://history.state.gov/historicaldocuments/frus-history/appendix-a",
                 "indices": [
-                    87,
-                    109
+                    "87",
+                    "109"
                 ],
                 "url": "http://t.co/8CKdCWafTG"
             }
         ],
         "user_mentions": [
             {
-                "id": 3131310616,
+                "id": "3131310616",
                 "id_str": "3131310616",
                 "indices": [
-                    3,
-                    13
+                    "3",
+                    "13"
                 ],
                 "name": "ICEDD",
                 "screen_name": "icedd_org"
             },
             {
-                "id": 586570880,
+                "id": "586570880",
                 "id_str": "586570880",
                 "indices": [
-                    33,
-                    48
+                    "33",
+                    "48"
                 ],
                 "name": "HistoryAtState",
                 "screen_name": "HistoryAtState"
             }
         ]
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "RT @icedd_org: Uses of #dataviz: @historyatstate shows tracking publications over time http://t.co/8CKdCWafTG #icedd2015",
-    "geo": null,
-    "id": 589074841501880320,
+    "id": "589074841501880320",
     "id_str": "589074841501880320",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 2,
-    "retweeted": true,
-    "retweeted_status": {
-        "contributors": null,
-        "coordinates": null,
-        "created_at": "Fri Apr 17 14:00:42 +0000 2015",
-        "display_text_range": [
-            0,
-            105
-        ],
-        "entities": {
-            "hashtags": [
-                {
-                    "indices": [
-                        8,
-                        16
-                    ],
-                    "text": "dataviz"
-                },
-                {
-                    "indices": [
-                        95,
-                        105
-                    ],
-                    "text": "icedd2015"
-                }
-            ],
-            "symbols": [],
-            "urls": [
-                {
-                    "display_url": "history.state.gov/historicaldocu…",
-                    "expanded_url": "http://history.state.gov/historicaldocuments/frus-history/appendix-a",
-                    "indices": [
-                        72,
-                        94
-                    ],
-                    "url": "http://t.co/8CKdCWafTG"
-                }
-            ],
-            "user_mentions": [
-                {
-                    "id": 586570880,
-                    "id_str": "586570880",
-                    "indices": [
-                        18,
-                        33
-                    ],
-                    "name": "HistoryAtState",
-                    "screen_name": "HistoryAtState"
-                }
-            ]
-        },
-        "favorite_count": 0,
-        "favorited": false,
-        "full_text": "Uses of #dataviz: @historyatstate shows tracking publications over time http://t.co/8CKdCWafTG #icedd2015",
-        "geo": null,
-        "id": 589065955118096380,
-        "id_str": "589065955118096384",
-        "in_reply_to_screen_name": null,
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "is_quote_status": false,
-        "lang": "en",
-        "place": null,
-        "possibly_sensitive": false,
-        "retweet_count": 2,
-        "retweeted": true,
-        "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
-        "truncated": false,
-        "user": {
-            "id": 3131310616,
-            "id_str": "3131310616"
-        }
-    },
+    "retweet_count": "0",
+    "retweeted": false,
     "source": "&lt;a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"&gt;Twitter for iPad&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

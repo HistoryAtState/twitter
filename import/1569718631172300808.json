@@ -1,45 +1,43 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Tue Sep 13 16:04:20 +0000 2022",
     "display_text_range": [
-        0,
-        188
+        "0",
+        "212"
     ],
     "entities": {
         "hashtags": [],
         "media": [
             {
-                "display_url": "pic.twitter.com/1v9T7xOeiu",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1569718631172300808/photo/1",
-                "id": 1569718629993783300,
+                "display_url": "pic.x.com/1v9T7xOeiu",
+                "expanded_url": "https://x.com/HistoryAtState/status/1569718631172300808/photo/1",
+                "id": "1569718629993783297",
                 "id_str": "1569718629993783297",
                 "indices": [
-                    189,
-                    212
+                    "189",
+                    "212"
                 ],
                 "media_url": "http://pbs.twimg.com/media/FcjCxvoXoAEPXBB.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/FcjCxvoXoAEPXBB.jpg",
                 "sizes": {
                     "large": {
-                        "h": 333,
+                        "h": "333",
                         "resize": "fit",
-                        "w": 500
+                        "w": "500"
                     },
                     "medium": {
-                        "h": 333,
+                        "h": "333",
                         "resize": "fit",
-                        "w": 500
+                        "w": "500"
                     },
                     "small": {
-                        "h": 333,
+                        "h": "333",
                         "resize": "fit",
-                        "w": 500
+                        "w": "500"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -52,19 +50,19 @@
                 "display_url": "ow.ly/yk3p50KHvAU",
                 "expanded_url": "http://ow.ly/yk3p50KHvAU",
                 "indices": [
-                    126,
-                    149
+                    "126",
+                    "149"
                 ],
                 "url": "https://t.co/8g9phWJhaa"
             }
         ],
         "user_mentions": [
             {
-                "id": 4236957022,
+                "id": "4236957022",
                 "id_str": "4236957022",
                 "indices": [
-                    153,
-                    166
+                    "153",
+                    "166"
                 ],
                 "name": "Gerald R. Ford Presidential Library",
                 "screen_name": "Ford_Library"
@@ -74,37 +72,36 @@
     "extended_entities": {
         "media": [
             {
-                "display_url": "pic.twitter.com/1v9T7xOeiu",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1569718631172300808/photo/1",
-                "ext_alt_text": "“President Ford and Queen Elizabeth dance during the state dinner in honor of the Queen and Prince Philip at the White House.” July 17, 1976 (Ford Presidential Library, ID: B0570-24)",
-                "id": 1569718629993783300,
+                "display_url": "pic.x.com/1v9T7xOeiu",
+                "expanded_url": "https://x.com/HistoryAtState/status/1569718631172300808/photo/1",
+                "id": "1569718629993783297",
                 "id_str": "1569718629993783297",
                 "indices": [
-                    189,
-                    212
+                    "189",
+                    "212"
                 ],
                 "media_url": "http://pbs.twimg.com/media/FcjCxvoXoAEPXBB.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/FcjCxvoXoAEPXBB.jpg",
                 "sizes": {
                     "large": {
-                        "h": 333,
+                        "h": "333",
                         "resize": "fit",
-                        "w": 500
+                        "w": "500"
                     },
                     "medium": {
-                        "h": 333,
+                        "h": "333",
                         "resize": "fit",
-                        "w": 500
+                        "w": "500"
                     },
                     "small": {
-                        "h": 333,
+                        "h": "333",
                         "resize": "fit",
-                        "w": 500
+                        "w": "500"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -112,27 +109,15 @@
             }
         ]
     },
-    "favorite_count": 1,
+    "favorite_count": "2",
     "favorited": false,
     "full_text": "As part of this Bicentennial visit, President Ford welcomed the Queen to the White House for a state dinner on July 17, 1976:\nhttps://t.co/8g9phWJhaa\n\n📷 @Ford_Library (ID: B0570-24)\n\n(3/3) https://t.co/1v9T7xOeiu",
-    "geo": null,
-    "id": 1569718631172300800,
+    "id": "1569718631172300808",
     "id_str": "1569718631172300808",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 1,
+    "retweet_count": "0",
     "retweeted": false,
     "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

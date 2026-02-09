@@ -1,24 +1,22 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Mon Feb 13 17:56:09 +0000 2017",
     "display_text_range": [
-        0,
-        139
+        "0",
+        "139"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    17,
-                    35
+                    "17",
+                    "35"
                 ],
                 "text": "BlackHistoryMonth"
             },
             {
                 "indices": [
-                    62,
-                    78
+                    "62",
+                    "78"
                 ],
                 "text": "AfricanAmerican"
             }
@@ -29,236 +27,34 @@
                 "display_url": "history.state.gov/departmenthist…",
                 "expanded_url": "https://history.state.gov/departmenthistory/people/powell-colin-luther",
                 "indices": [
-                    111,
-                    134
+                    "111",
+                    "134"
                 ],
                 "url": "https://t.co/jw9j2IPFKu"
             }
         ],
         "user_mentions": [
             {
-                "id": 343261756,
+                "id": "343261756",
                 "id_str": "343261756",
                 "indices": [
-                    3,
-                    15
+                    "3",
+                    "15"
                 ],
                 "name": "U.S. Consulate General Surabaya",
                 "screen_name": "USConGenSby"
             }
         ]
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "RT @USConGenSby: #BlackHistoryMonth: Colin Powell was the 1st #AfricanAmerican to serve as Secretary of State. https://t.co/jw9j2IPFKu via…",
-    "geo": null,
-    "id": 831200302858661890,
+    "id": "831200302858661888",
     "id_str": "831200302858661888",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 3,
-    "retweeted": true,
-    "retweeted_status": {
-        "contributors": null,
-        "coordinates": null,
-        "created_at": "Fri Feb 10 06:55:05 +0000 2017",
-        "display_text_range": [
-            0,
-            137
-        ],
-        "entities": {
-            "hashtags": [
-                {
-                    "indices": [
-                        0,
-                        18
-                    ],
-                    "text": "BlackHistoryMonth"
-                },
-                {
-                    "indices": [
-                        45,
-                        61
-                    ],
-                    "text": "AfricanAmerican"
-                }
-            ],
-            "media": [
-                {
-                    "display_url": "pic.twitter.com/2VZFpKfAA4",
-                    "expanded_url": "https://twitter.com/USConGenSby/status/829946775058448384/photo/1",
-                    "id": 829946772449550340,
-                    "id_str": "829946772449550336",
-                    "indices": [
-                        138,
-                        161
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/C4SQMTpWYAAMRRr.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/C4SQMTpWYAAMRRr.jpg",
-                    "sizes": {
-                        "large": {
-                            "h": 214,
-                            "resize": "fit",
-                            "w": 326
-                        },
-                        "medium": {
-                            "h": 214,
-                            "resize": "fit",
-                            "w": 326
-                        },
-                        "small": {
-                            "h": 214,
-                            "resize": "fit",
-                            "w": 326
-                        },
-                        "thumb": {
-                            "h": 150,
-                            "resize": "crop",
-                            "w": 150
-                        }
-                    },
-                    "type": "photo",
-                    "url": "https://t.co/2VZFpKfAA4"
-                }
-            ],
-            "symbols": [],
-            "urls": [
-                {
-                    "display_url": "history.state.gov/departmenthist…",
-                    "expanded_url": "https://history.state.gov/departmenthistory/people/powell-colin-luther",
-                    "indices": [
-                        94,
-                        117
-                    ],
-                    "url": "https://t.co/jw9j2IPFKu"
-                }
-            ],
-            "user_mentions": [
-                {
-                    "id": 586570880,
-                    "id_str": "586570880",
-                    "indices": [
-                        122,
-                        137
-                    ],
-                    "name": "HistoryAtState",
-                    "screen_name": "HistoryAtState"
-                }
-            ]
-        },
-        "extended_entities": {
-            "media": [
-                {
-                    "display_url": "pic.twitter.com/2VZFpKfAA4",
-                    "expanded_url": "https://twitter.com/USConGenSby/status/829946775058448384/photo/1",
-                    "ext_alt_text": null,
-                    "id": 829946772449550340,
-                    "id_str": "829946772449550336",
-                    "indices": [
-                        138,
-                        161
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/C4SQMTpWYAAMRRr.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/C4SQMTpWYAAMRRr.jpg",
-                    "sizes": {
-                        "large": {
-                            "h": 214,
-                            "resize": "fit",
-                            "w": 326
-                        },
-                        "medium": {
-                            "h": 214,
-                            "resize": "fit",
-                            "w": 326
-                        },
-                        "small": {
-                            "h": 214,
-                            "resize": "fit",
-                            "w": 326
-                        },
-                        "thumb": {
-                            "h": 150,
-                            "resize": "crop",
-                            "w": 150
-                        }
-                    },
-                    "type": "photo",
-                    "url": "https://t.co/2VZFpKfAA4"
-                },
-                {
-                    "display_url": "pic.twitter.com/2VZFpKfAA4",
-                    "expanded_url": "https://twitter.com/USConGenSby/status/829946775058448384/photo/1",
-                    "ext_alt_text": null,
-                    "id": 829946772415979520,
-                    "id_str": "829946772415979520",
-                    "indices": [
-                        138,
-                        161
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/C4SQMThWIAAsnD9.png",
-                    "media_url_https": "https://pbs.twimg.com/media/C4SQMThWIAAsnD9.png",
-                    "sizes": {
-                        "large": {
-                            "h": 297,
-                            "resize": "fit",
-                            "w": 266
-                        },
-                        "medium": {
-                            "h": 297,
-                            "resize": "fit",
-                            "w": 266
-                        },
-                        "small": {
-                            "h": 297,
-                            "resize": "fit",
-                            "w": 266
-                        },
-                        "thumb": {
-                            "h": 150,
-                            "resize": "crop",
-                            "w": 150
-                        }
-                    },
-                    "type": "photo",
-                    "url": "https://t.co/2VZFpKfAA4"
-                }
-            ]
-        },
-        "favorite_count": 5,
-        "favorited": false,
-        "full_text": "#BlackHistoryMonth: Colin Powell was the 1st #AfricanAmerican to serve as Secretary of State. https://t.co/jw9j2IPFKu via @HistoryAtState https://t.co/2VZFpKfAA4",
-        "geo": null,
-        "id": 829946775058448380,
-        "id_str": "829946775058448384",
-        "in_reply_to_screen_name": null,
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "is_quote_status": false,
-        "lang": "en",
-        "place": null,
-        "possibly_sensitive": false,
-        "retweet_count": 3,
-        "retweeted": true,
-        "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-        "truncated": false,
-        "user": {
-            "id": 343261756,
-            "id_str": "343261756"
-        }
-    },
+    "retweet_count": "0",
+    "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

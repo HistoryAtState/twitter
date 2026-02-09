@@ -1,17 +1,15 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Wed Apr 15 19:35:49 +0000 2015",
     "display_text_range": [
-        0,
-        135
+        "0",
+        "135"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    125,
-                    135
+                    "125",
+                    "135"
                 ],
                 "text": "icedd2015"
             }
@@ -20,103 +18,35 @@
         "urls": [],
         "user_mentions": [
             {
-                "id": 3131310616,
+                "id": "3131310616",
                 "id_str": "3131310616",
                 "indices": [
-                    3,
-                    13
+                    "3",
+                    "13"
                 ],
                 "name": "ICEDD",
                 "screen_name": "icedd_org"
             },
             {
-                "id": 586570880,
+                "id": "586570880",
                 "id_str": "586570880",
                 "indices": [
-                    109,
-                    124
+                    "109",
+                    "124"
                 ],
                 "name": "HistoryAtState",
                 "screen_name": "HistoryAtState"
             }
         ]
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "RT @icedd_org: Dr Randolph: patience &amp;amp; professionalism help us to get approach to declassification right @HistoryAtState #icedd2015",
-    "geo": null,
-    "id": 588425514148306940,
+    "id": "588425514148306944",
     "id_str": "588425514148306944",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
-    "retweet_count": 4,
-    "retweeted": true,
-    "retweeted_status": {
-        "contributors": null,
-        "coordinates": null,
-        "created_at": "Wed Apr 15 19:05:02 +0000 2015",
-        "display_text_range": [
-            0,
-            120
-        ],
-        "entities": {
-            "hashtags": [
-                {
-                    "indices": [
-                        110,
-                        120
-                    ],
-                    "text": "icedd2015"
-                }
-            ],
-            "symbols": [],
-            "urls": [],
-            "user_mentions": [
-                {
-                    "id": 586570880,
-                    "id_str": "586570880",
-                    "indices": [
-                        94,
-                        109
-                    ],
-                    "name": "HistoryAtState",
-                    "screen_name": "HistoryAtState"
-                }
-            ]
-        },
-        "favorite_count": 3,
-        "favorited": false,
-        "full_text": "Dr Randolph: patience &amp;amp; professionalism help us to get approach to declassification right @HistoryAtState #icedd2015",
-        "geo": null,
-        "id": 588417766845124610,
-        "id_str": "588417766845124608",
-        "in_reply_to_screen_name": null,
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "is_quote_status": false,
-        "lang": "en",
-        "place": null,
-        "retweet_count": 4,
-        "retweeted": true,
-        "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
-        "truncated": false,
-        "user": {
-            "id": 3131310616,
-            "id_str": "3131310616"
-        }
-    },
+    "retweet_count": "0",
+    "retweeted": false,
     "source": "&lt;a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"&gt;Twitter for iPad&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

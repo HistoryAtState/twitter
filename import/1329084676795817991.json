@@ -1,53 +1,51 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Wed Nov 18 15:30:54 +0000 2020",
     "display_text_range": [
-        0,
-        250
+        "0",
+        "274"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    219,
-                    224
+                    "219",
+                    "224"
                 ],
                 "text": "FRUS"
             }
         ],
         "media": [
             {
-                "display_url": "pic.twitter.com/8iSO2s5O06",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1329084676795817991/photo/1",
-                "id": 1329084673910140930,
+                "display_url": "pic.x.com/8iSO2s5O06",
+                "expanded_url": "https://x.com/HistoryAtState/status/1329084676795817991/photo/1",
+                "id": "1329084673910140939",
                 "id_str": "1329084673910140939",
                 "indices": [
-                    251,
-                    274
+                    "251",
+                    "274"
                 ],
                 "media_url": "http://pbs.twimg.com/media/EnHbeBjUcAsM-2x.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/EnHbeBjUcAsM-2x.jpg",
                 "sizes": {
                     "large": {
-                        "h": 1352,
+                        "h": "1352",
                         "resize": "fit",
-                        "w": 1006
+                        "w": "1006"
                     },
                     "medium": {
-                        "h": 1200,
+                        "h": "1200",
                         "resize": "fit",
-                        "w": 893
+                        "w": "893"
                     },
                     "small": {
-                        "h": 680,
+                        "h": "680",
                         "resize": "fit",
-                        "w": 506
+                        "w": "506"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -60,8 +58,8 @@
                 "display_url": "history.state.gov/historicaldocu…",
                 "expanded_url": "https://history.state.gov/historicaldocuments/frus1977-80v11p1/d250",
                 "indices": [
-                    227,
-                    250
+                    "227",
+                    "250"
                 ],
                 "url": "https://t.co/AiQypLzCb0"
             }
@@ -71,37 +69,36 @@
     "extended_entities": {
         "media": [
             {
-                "display_url": "pic.twitter.com/8iSO2s5O06",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1329084676795817991/photo/1",
-                "ext_alt_text": "Screenshot of Meeting Notes from the April 11, 1980 National Security Council Meeting on the Iran Hostage Crisis in which Carter approved a rescue mission to free the hostages.",
-                "id": 1329084673910140930,
+                "display_url": "pic.x.com/8iSO2s5O06",
+                "expanded_url": "https://x.com/HistoryAtState/status/1329084676795817991/photo/1",
+                "id": "1329084673910140939",
                 "id_str": "1329084673910140939",
                 "indices": [
-                    251,
-                    274
+                    "251",
+                    "274"
                 ],
                 "media_url": "http://pbs.twimg.com/media/EnHbeBjUcAsM-2x.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/EnHbeBjUcAsM-2x.jpg",
                 "sizes": {
                     "large": {
-                        "h": 1352,
+                        "h": "1352",
                         "resize": "fit",
-                        "w": 1006
+                        "w": "1006"
                     },
                     "medium": {
-                        "h": 1200,
+                        "h": "1200",
                         "resize": "fit",
-                        "w": 893
+                        "w": "893"
                     },
                     "small": {
-                        "h": 680,
+                        "h": "680",
                         "resize": "fit",
-                        "w": 506
+                        "w": "506"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -109,27 +106,15 @@
             }
         ]
     },
-    "favorite_count": 5,
+    "favorite_count": "3",
     "favorited": false,
     "full_text": "After months of fruitless efforts to negotiate the release of the U.S. hostages in Iran, President Carter approved a rescue mission to free them. Read the NSC discussion and his decision to launch the rescue attempt in #FRUS: \nhttps://t.co/AiQypLzCb0 https://t.co/8iSO2s5O06",
-    "geo": null,
-    "id": 1329084676795817980,
+    "id": "1329084676795817991",
     "id_str": "1329084676795817991",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 4,
+    "retweet_count": "1",
     "retweeted": false,
     "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

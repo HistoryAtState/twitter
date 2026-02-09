@@ -1,60 +1,58 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Wed Feb 24 18:02:30 +0000 2021",
     "display_text_range": [
-        0,
-        277
+        "0",
+        "301"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    56,
-                    60
+                    "56",
+                    "60"
                 ],
                 "text": "HAC"
             },
             {
                 "indices": [
-                    183,
-                    188
+                    "183",
+                    "188"
                 ],
                 "text": "FRUS"
             }
         ],
         "media": [
             {
-                "display_url": "pic.twitter.com/gOPxxJpIPE",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1364636838544220166/photo/1",
-                "id": 1364636835553685500,
+                "display_url": "pic.x.com/gOPxxJpIPE",
+                "expanded_url": "https://x.com/HistoryAtState/status/1364636838544220166/photo/1",
+                "id": "1364636835553685504",
                 "id_str": "1364636835553685504",
                 "indices": [
-                    278,
-                    301
+                    "278",
+                    "301"
                 ],
                 "media_url": "http://pbs.twimg.com/media/EvAp-MaXMAA95aa.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/EvAp-MaXMAA95aa.jpg",
                 "sizes": {
                     "large": {
-                        "h": 675,
+                        "h": "675",
                         "resize": "fit",
-                        "w": 1200
+                        "w": "1200"
                     },
                     "medium": {
-                        "h": 675,
+                        "h": "675",
                         "resize": "fit",
-                        "w": 1200
+                        "w": "1200"
                     },
                     "small": {
-                        "h": 383,
+                        "h": "383",
                         "resize": "fit",
-                        "w": 680
+                        "w": "680"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -68,37 +66,36 @@
     "extended_entities": {
         "media": [
             {
-                "display_url": "pic.twitter.com/gOPxxJpIPE",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1364636838544220166/photo/1",
-                "ext_alt_text": "Invitation reading: Public Lecture on the Carter administration’s policy toward Africa, March 1, 2021 • 11:15 am EST Free, online, and open to the public. To register, please email FortJL@state.gov The image includes the official seal of the U.S. Department of State and the wordmark of the Office of the Historian.",
-                "id": 1364636835553685500,
+                "display_url": "pic.x.com/gOPxxJpIPE",
+                "expanded_url": "https://x.com/HistoryAtState/status/1364636838544220166/photo/1",
+                "id": "1364636835553685504",
                 "id_str": "1364636835553685504",
                 "indices": [
-                    278,
-                    301
+                    "278",
+                    "301"
                 ],
                 "media_url": "http://pbs.twimg.com/media/EvAp-MaXMAA95aa.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/EvAp-MaXMAA95aa.jpg",
                 "sizes": {
                     "large": {
-                        "h": 675,
+                        "h": "675",
                         "resize": "fit",
-                        "w": 1200
+                        "w": "1200"
                     },
                     "medium": {
-                        "h": 675,
+                        "h": "675",
                         "resize": "fit",
-                        "w": 1200
+                        "w": "1200"
                     },
                     "small": {
-                        "h": 383,
+                        "h": "383",
                         "resize": "fit",
-                        "w": 680
+                        "w": "680"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -106,27 +103,15 @@
             }
         ]
     },
-    "favorite_count": 3,
+    "favorite_count": "2",
     "favorited": false,
     "full_text": "PUBLIC PRESENTATION\nMar. 1, 2021 at 11:15am EST\n\nAt the #HAC meeting, Myra Burton and Louise Woodroofe will discuss the Carter administration’s policy toward Africa, as documented in #FRUS\n\nTo register for this free online event, please send an email to FortJL@state.gov\n\n(1/4) https://t.co/gOPxxJpIPE",
-    "geo": null,
-    "id": 1364636838544220160,
+    "id": "1364636838544220166",
     "id_str": "1364636838544220166",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 2,
+    "retweet_count": "2",
     "retweeted": false,
     "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

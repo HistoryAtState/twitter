@@ -1,67 +1,65 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Mon Feb 05 13:50:27 +0000 2018",
     "display_text_range": [
-        0,
-        167
+        "0",
+        "191"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    27,
-                    33
+                    "27",
+                    "33"
                 ],
                 "text": "Yalta"
             },
             {
                 "indices": [
-                    56,
-                    60
+                    "56",
+                    "60"
                 ],
                 "text": "WW2"
             },
             {
                 "indices": [
-                    137,
-                    142
+                    "137",
+                    "142"
                 ],
                 "text": "FRUS"
             }
         ],
         "media": [
             {
-                "display_url": "pic.twitter.com/xHOL3mKAsX",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/960510939190779905/photo/1",
-                "id": 960510334170746880,
+                "display_url": "pic.x.com/xHOL3mKAsX",
+                "expanded_url": "https://x.com/HistoryAtState/status/960510939190779905/photo/1",
+                "id": "960510334170746880",
                 "id_str": "960510334170746880",
                 "indices": [
-                    168,
-                    191
+                    "168",
+                    "191"
                 ],
                 "media_url": "http://pbs.twimg.com/media/DVRrD1dW0AAfgEk.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DVRrD1dW0AAfgEk.jpg",
                 "sizes": {
                     "large": {
-                        "h": 768,
+                        "h": "768",
                         "resize": "fit",
-                        "w": 951
+                        "w": "951"
                     },
                     "medium": {
-                        "h": 768,
+                        "h": "768",
                         "resize": "fit",
-                        "w": 951
+                        "w": "951"
                     },
                     "small": {
-                        "h": 549,
+                        "h": "549",
                         "resize": "fit",
-                        "w": 680
+                        "w": "680"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -74,8 +72,8 @@
                 "display_url": "history.state.gov/historicaldocu…",
                 "expanded_url": "https://history.state.gov/historicaldocuments/frus1945Malta",
                 "indices": [
-                    144,
-                    167
+                    "144",
+                    "167"
                 ],
                 "url": "https://t.co/E9URzCYeZN"
             }
@@ -85,37 +83,36 @@
     "extended_entities": {
         "media": [
             {
-                "display_url": "pic.twitter.com/xHOL3mKAsX",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/960510939190779905/photo/1",
-                "ext_alt_text": "FDR, Churchill, and Stalin sitting in three chairs with military advisors standing casually in the background. President Roosevelt’s head is turned as if speaking to Churchill, who appears to be laughing. Stalin is looking straight ahead with hands folded in his lap. Churchill and FDR are dressed in overcoats and Stalin is dressed in uniform.",
-                "id": 960510334170746880,
+                "display_url": "pic.x.com/xHOL3mKAsX",
+                "expanded_url": "https://x.com/HistoryAtState/status/960510939190779905/photo/1",
+                "id": "960510334170746880",
                 "id_str": "960510334170746880",
                 "indices": [
-                    168,
-                    191
+                    "168",
+                    "191"
                 ],
                 "media_url": "http://pbs.twimg.com/media/DVRrD1dW0AAfgEk.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DVRrD1dW0AAfgEk.jpg",
                 "sizes": {
                     "large": {
-                        "h": 768,
+                        "h": "768",
                         "resize": "fit",
-                        "w": 951
+                        "w": "951"
                     },
                     "medium": {
-                        "h": 768,
+                        "h": "768",
                         "resize": "fit",
-                        "w": 951
+                        "w": "951"
                     },
                     "small": {
-                        "h": 549,
+                        "h": "549",
                         "resize": "fit",
-                        "w": 680
+                        "w": "680"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -123,27 +120,15 @@
             }
         ]
     },
-    "favorite_count": 17,
+    "favorite_count": "17",
     "favorited": false,
     "full_text": "February 1945: FDR went to #Yalta to discuss how to end #WW2 and build the peace with Stalin and Churchill. Read Yalta summit records in #FRUS: https://t.co/E9URzCYeZN https://t.co/xHOL3mKAsX",
-    "geo": null,
-    "id": 960510939190779900,
+    "id": "960510939190779905",
     "id_str": "960510939190779905",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 10,
+    "retweet_count": "10",
     "retweeted": false,
     "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

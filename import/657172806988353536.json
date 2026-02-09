@@ -1,17 +1,15 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Thu Oct 22 12:33:01 +0000 2015",
     "display_text_range": [
-        0,
-        140
+        "0",
+        "140"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    109,
-                    128
+                    "109",
+                    "128"
                 ],
                 "text": "ImmigrationAct1965"
             }
@@ -20,114 +18,35 @@
         "urls": [],
         "user_mentions": [
             {
-                "id": 486867266,
+                "id": "486867266",
                 "id_str": "486867266",
                 "indices": [
-                    3,
-                    18
+                    "3",
+                    "18"
                 ],
                 "name": "SHFGHistorians",
                 "screen_name": "SHFGHistorians"
             },
             {
-                "id": 586570880,
+                "id": "586570880",
                 "id_str": "586570880",
                 "indices": [
-                    45,
-                    60
+                    "45",
+                    "60"
                 ],
                 "name": "HistoryAtState",
                 "screen_name": "HistoryAtState"
             }
         ]
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "RT @SHFGHistorians: Help us spread the word! @HistoryAtState Hewlett Lecture is only 3 days away Oct 22 6pm. #ImmigrationAct1965 Info: http…",
-    "geo": null,
-    "id": 657172806988353540,
+    "id": "657172806988353536",
     "id_str": "657172806988353536",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
-    "retweet_count": 1,
-    "retweeted": true,
-    "retweeted_status": {
-        "contributors": null,
-        "coordinates": null,
-        "created_at": "Mon Oct 19 16:46:43 +0000 2015",
-        "display_text_range": [
-            0,
-            137
-        ],
-        "entities": {
-            "hashtags": [
-                {
-                    "indices": [
-                        89,
-                        108
-                    ],
-                    "text": "ImmigrationAct1965"
-                }
-            ],
-            "symbols": [],
-            "urls": [
-                {
-                    "display_url": "shfg.wildapricot.org/event-2027505",
-                    "expanded_url": "http://shfg.wildapricot.org/event-2027505",
-                    "indices": [
-                        115,
-                        137
-                    ],
-                    "url": "http://t.co/bMX4tazqJH"
-                }
-            ],
-            "user_mentions": [
-                {
-                    "id": 586570880,
-                    "id_str": "586570880",
-                    "indices": [
-                        25,
-                        40
-                    ],
-                    "name": "HistoryAtState",
-                    "screen_name": "HistoryAtState"
-                }
-            ]
-        },
-        "favorite_count": 0,
-        "favorited": false,
-        "full_text": "Help us spread the word! @HistoryAtState Hewlett Lecture is only 3 days away Oct 22 6pm. #ImmigrationAct1965 Info: http://t.co/bMX4tazqJH",
-        "geo": null,
-        "id": 656149488319508480,
-        "id_str": "656149488319508480",
-        "in_reply_to_screen_name": null,
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "is_quote_status": false,
-        "lang": "en",
-        "place": null,
-        "possibly_sensitive": false,
-        "retweet_count": 1,
-        "retweeted": true,
-        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-        "truncated": false,
-        "user": {
-            "id": 486867266,
-            "id_str": "486867266"
-        }
-    },
+    "retweet_count": "0",
+    "retweeted": false,
     "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

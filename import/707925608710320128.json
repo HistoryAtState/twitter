@@ -1,53 +1,51 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Thu Mar 10 13:46:32 +0000 2016",
     "display_text_range": [
-        0,
-        138
+        "0",
+        "138"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    17,
-                    24
+                    "17",
+                    "24"
                 ],
                 "text": "Canada"
             }
         ],
         "media": [
             {
-                "display_url": "pic.twitter.com/6d2ulj1NPt",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/707925608710320128/photo/1",
-                "id": 707925607703826430,
+                "display_url": "pic.x.com/6d2ulj1NPt",
+                "expanded_url": "https://x.com/HistoryAtState/status/707925608710320128/photo/1",
+                "id": "707925607703826432",
                 "id_str": "707925607703826432",
                 "indices": [
-                    115,
-                    138
+                    "115",
+                    "138"
                 ],
                 "media_url": "http://pbs.twimg.com/media/CdMOluaW0AAXGtH.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/CdMOluaW0AAXGtH.jpg",
                 "sizes": {
                     "large": {
-                        "h": 2048,
+                        "h": "2048",
                         "resize": "fit",
-                        "w": 1667
+                        "w": "1667"
                     },
                     "medium": {
-                        "h": 1200,
+                        "h": "1200",
                         "resize": "fit",
-                        "w": 977
+                        "w": "977"
                     },
                     "small": {
-                        "h": 680,
+                        "h": "680",
                         "resize": "fit",
-                        "w": 554
+                        "w": "554"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -60,8 +58,8 @@
                 "display_url": "history.state.gov/departmenthist…",
                 "expanded_url": "https://history.state.gov/departmenthistory/visits/canada",
                 "indices": [
-                    91,
-                    114
+                    "91",
+                    "114"
                 ],
                 "url": "https://t.co/2NPrkEMp9N"
             }
@@ -71,37 +69,36 @@
     "extended_entities": {
         "media": [
             {
-                "display_url": "pic.twitter.com/6d2ulj1NPt",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/707925608710320128/photo/1",
-                "ext_alt_text": null,
-                "id": 707925607703826430,
+                "display_url": "pic.x.com/6d2ulj1NPt",
+                "expanded_url": "https://x.com/HistoryAtState/status/707925608710320128/photo/1",
+                "id": "707925607703826432",
                 "id_str": "707925607703826432",
                 "indices": [
-                    115,
-                    138
+                    "115",
+                    "138"
                 ],
                 "media_url": "http://pbs.twimg.com/media/CdMOluaW0AAXGtH.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/CdMOluaW0AAXGtH.jpg",
                 "sizes": {
                     "large": {
-                        "h": 2048,
+                        "h": "2048",
                         "resize": "fit",
-                        "w": 1667
+                        "w": "1667"
                     },
                     "medium": {
-                        "h": 1200,
+                        "h": "1200",
                         "resize": "fit",
-                        "w": 977
+                        "w": "977"
                     },
                     "small": {
-                        "h": 680,
+                        "h": "680",
                         "resize": "fit",
-                        "w": 554
+                        "w": "554"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -109,27 +106,15 @@
             }
         ]
     },
-    "favorite_count": 3,
+    "favorite_count": "1",
     "favorited": false,
     "full_text": "Corrected: First #Canada leader to visit the U.S. was Prime Minister R.B. Bennett in 1933: https://t.co/2NPrkEMp9N https://t.co/6d2ulj1NPt",
-    "geo": null,
-    "id": 707925608710320130,
+    "id": "707925608710320128",
     "id_str": "707925608710320128",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 3,
+    "retweet_count": "2",
     "retweeted": false,
     "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

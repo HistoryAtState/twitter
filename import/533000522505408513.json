@@ -1,17 +1,15 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Thu Nov 13 20:56:41 +0000 2014",
     "display_text_range": [
-        0,
-        138
+        "0",
+        "138"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    9,
-                    14
+                    "9",
+                    "14"
                 ],
                 "text": "FRUS"
             }
@@ -22,46 +20,44 @@
                 "display_url": "history.state.gov",
                 "expanded_url": "http://history.state.gov",
                 "indices": [
-                    107,
-                    129
+                    "107",
+                    "129"
                 ],
                 "url": "http://t.co/YVFS9RXNm2"
             }
         ],
         "user_mentions": [
             {
-                "id": 277337146,
+                "id": "1306215213243551745",
+                "id_str": "1306215213243551745",
+                "indices": [
+                    "80",
+                    "93"
+                ],
+                "name": "Bico the Socialist ☭",
+                "screen_name": "bostoniansoc"
+            },
+            {
+                "id": "277337146",
                 "id_str": "277337146",
                 "indices": [
-                    130,
-                    138
+                    "130",
+                    "138"
                 ],
                 "name": "Eric Levenson",
                 "screen_name": "ejleven"
             }
         ]
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "Who said #FRUS doesn’t get around? Access both vols included in 1901 &amp;amp; 2014 @BostonianSoc timecapsules http://t.co/YVFS9RXNm2 @ejleven",
-    "geo": null,
-    "id": 533000522505408510,
+    "id": "533000522505408513",
     "id_str": "533000522505408513",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 4,
+    "retweet_count": "3",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

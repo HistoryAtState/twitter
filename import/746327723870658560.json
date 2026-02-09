@@ -1,31 +1,29 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Fri Jun 24 13:02:50 +0000 2016",
     "display_text_range": [
-        0,
-        131
+        "0",
+        "131"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    101,
-                    111
+                    "101",
+                    "111"
                 ],
                 "text": "SHAFR2016"
             },
             {
                 "indices": [
-                    122,
-                    127
+                    "122",
+                    "127"
                 ],
                 "text": "FRUS"
             },
             {
                 "indices": [
-                    128,
-                    131
+                    "128",
+                    "131"
                 ],
                 "text": "dh"
             }
@@ -34,37 +32,25 @@
         "urls": [],
         "user_mentions": [
             {
-                "id": 853159740863463420,
+                "id": "853159740863463424",
                 "id_str": "853159740863463424",
                 "indices": [
-                    112,
-                    121
+                    "112",
+                    "121"
                 ],
                 "name": "kam",
                 "screen_name": "usdpeace"
             }
         ]
     },
-    "favorite_count": 2,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "Join us for presentations on “Bridging the Two DHs: Digital History and Diplomatic History” today at #SHAFR2016 @usdpeace #FRUS #dh",
-    "geo": null,
-    "id": 746327723870658560,
+    "id": "746327723870658560",
     "id_str": "746327723870658560",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
-    "retweet_count": 3,
+    "retweet_count": "1",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

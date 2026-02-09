@@ -1,24 +1,22 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Fri Nov 22 14:10:57 +0000 2013",
     "display_text_range": [
-        0,
-        124
+        "0",
+        "124"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    7,
-                    12
+                    "7",
+                    "12"
                 ],
                 "text": "FRUS"
             },
             {
                 "indices": [
-                    108,
-                    124
+                    "108",
+                    "124"
                 ],
                 "text": "twitterstorians"
             }
@@ -29,46 +27,34 @@
                 "display_url": "ow.ly/qWUae",
                 "expanded_url": "http://ow.ly/qWUae",
                 "indices": [
-                    85,
-                    107
+                    "85",
+                    "107"
                 ],
                 "url": "http://t.co/QpHpEoNru5"
             }
         ],
         "user_mentions": [
             {
-                "id": 586570880,
+                "id": "586570880",
                 "id_str": "586570880",
                 "indices": [
-                    58,
-                    73
+                    "58",
+                    "73"
                 ],
                 "name": "HistoryAtState",
                 "screen_name": "HistoryAtState"
             }
         ]
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "&amp;gt;50 #FRUS vols presently in process (@ diff stages) by @HistoryAtState historians http://t.co/QpHpEoNru5 #twitterstorians",
-    "geo": null,
-    "id": 403888334554267650,
+    "id": "403888334554267648",
     "id_str": "403888334554267648",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 0,
+    "retweet_count": "0",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

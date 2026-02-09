@@ -1,10 +1,8 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Thu Nov 13 21:24:13 +0000 2014",
     "display_text_range": [
-        0,
-        140
+        "0",
+        "140"
     ],
     "entities": {
         "hashtags": [],
@@ -12,260 +10,55 @@
         "urls": [],
         "user_mentions": [
             {
-                "id": 126667940,
+                "id": "126667940",
                 "id_str": "126667940",
                 "indices": [
-                    3,
-                    15
+                    "3",
+                    "15"
                 ],
-                "name": "Ronald #WeAreAllEqual Johnson",
+                "name": "Ronald Angelo Johnson ✍🏾",
                 "screen_name": "RonAJohnson"
             },
             {
-                "id": 586570880,
+                "id": "586570880",
                 "id_str": "586570880",
                 "indices": [
-                    17,
-                    32
+                    "17",
+                    "32"
                 ],
                 "name": "HistoryAtState",
                 "screen_name": "HistoryAtState"
             },
             {
-                "id": 134905400,
+                "id": "134905400",
                 "id_str": "134905400",
                 "indices": [
-                    62,
-                    73
+                    "62",
+                    "73"
                 ],
                 "name": "AFSA",
                 "screen_name": "afsatweets"
             },
             {
-                "id": 9624742,
+                "id": "9624742",
                 "id_str": "9624742",
                 "indices": [
-                    97,
-                    107
+                    "97",
+                    "107"
                 ],
                 "name": "Department of State",
                 "screen_name": "StateDept"
             }
         ]
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "RT @RonAJohnson: @HistoryAtState Stephhen Randolph stopped by @afsatweets Book Market to discuss @StateDept role in early US diplomacy http…",
-    "geo": null,
-    "id": 533007450358951940,
+    "id": "533007450358951936",
     "id_str": "533007450358951936",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
-    "retweet_count": 1,
-    "retweeted": true,
-    "retweeted_status": {
-        "contributors": null,
-        "coordinates": {
-            "coordinates": [
-                -77.012369,
-                38.892637
-            ],
-            "type": "Point"
-        },
-        "created_at": "Thu Nov 13 21:19:27 +0000 2014",
-        "display_text_range": [
-            0,
-            140
-        ],
-        "entities": {
-            "hashtags": [],
-            "media": [
-                {
-                    "display_url": "pic.twitter.com/36FoLZvk13",
-                    "expanded_url": "https://twitter.com/RonAJohnson/status/533006249835913216/photo/1",
-                    "id": 533006249567457280,
-                    "id_str": "533006249567457282",
-                    "indices": [
-                        118,
-                        140
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/B2WeXCiIEAI2iaH.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/B2WeXCiIEAI2iaH.jpg",
-                    "sizes": {
-                        "large": {
-                            "h": 960,
-                            "resize": "fit",
-                            "w": 716
-                        },
-                        "medium": {
-                            "h": 960,
-                            "resize": "fit",
-                            "w": 716
-                        },
-                        "small": {
-                            "h": 680,
-                            "resize": "fit",
-                            "w": 507
-                        },
-                        "thumb": {
-                            "h": 150,
-                            "resize": "crop",
-                            "w": 150
-                        }
-                    },
-                    "type": "photo",
-                    "url": "http://t.co/36FoLZvk13"
-                }
-            ],
-            "symbols": [],
-            "urls": [],
-            "user_mentions": [
-                {
-                    "id": 586570880,
-                    "id_str": "586570880",
-                    "indices": [
-                        0,
-                        15
-                    ],
-                    "name": "HistoryAtState",
-                    "screen_name": "HistoryAtState"
-                },
-                {
-                    "id": 134905400,
-                    "id_str": "134905400",
-                    "indices": [
-                        45,
-                        56
-                    ],
-                    "name": "AFSA",
-                    "screen_name": "afsatweets"
-                },
-                {
-                    "id": 9624742,
-                    "id_str": "9624742",
-                    "indices": [
-                        80,
-                        90
-                    ],
-                    "name": "Department of State",
-                    "screen_name": "StateDept"
-                }
-            ]
-        },
-        "extended_entities": {
-            "media": [
-                {
-                    "display_url": "pic.twitter.com/36FoLZvk13",
-                    "expanded_url": "https://twitter.com/RonAJohnson/status/533006249835913216/photo/1",
-                    "ext_alt_text": null,
-                    "id": 533006249567457280,
-                    "id_str": "533006249567457282",
-                    "indices": [
-                        118,
-                        140
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/B2WeXCiIEAI2iaH.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/B2WeXCiIEAI2iaH.jpg",
-                    "sizes": {
-                        "large": {
-                            "h": 960,
-                            "resize": "fit",
-                            "w": 716
-                        },
-                        "medium": {
-                            "h": 960,
-                            "resize": "fit",
-                            "w": 716
-                        },
-                        "small": {
-                            "h": 680,
-                            "resize": "fit",
-                            "w": 507
-                        },
-                        "thumb": {
-                            "h": 150,
-                            "resize": "crop",
-                            "w": 150
-                        }
-                    },
-                    "type": "photo",
-                    "url": "http://t.co/36FoLZvk13"
-                }
-            ]
-        },
-        "favorite_count": 1,
-        "favorited": false,
-        "full_text": "@HistoryAtState Stephhen Randolph stopped by @afsatweets Book Market to discuss @StateDept role in early US diplomacy http://t.co/36FoLZvk13",
-        "geo": {
-            "coordinates": [
-                38.892637,
-                -77.012369
-            ],
-            "type": "Point"
-        },
-        "id": 533006249835913220,
-        "id_str": "533006249835913216",
-        "in_reply_to_screen_name": "HistoryAtState",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": 586570880,
-        "in_reply_to_user_id_str": "586570880",
-        "is_quote_status": false,
-        "lang": "en",
-        "place": {
-            "attributes": {},
-            "bounding_box": {
-                "coordinates": [
-                    [
-                        [
-                            -77.119401,
-                            38.801826
-                        ],
-                        [
-                            -76.909396,
-                            38.801826
-                        ],
-                        [
-                            -76.909396,
-                            38.9953797
-                        ],
-                        [
-                            -77.119401,
-                            38.9953797
-                        ]
-                    ]
-                ],
-                "type": "Polygon"
-            },
-            "contained_within": [],
-            "country": "United States",
-            "country_code": "US",
-            "full_name": "Washington, DC",
-            "id": "01fbe706f872cb32",
-            "name": "Washington",
-            "place_type": "city",
-            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json"
-        },
-        "possibly_sensitive": false,
-        "retweet_count": 1,
-        "retweeted": true,
-        "source": "&lt;a href=\"http://www.apple.com\" rel=\"nofollow\"&gt;iOS&lt;/a&gt;",
-        "truncated": false,
-        "user": {
-            "id": 126667940,
-            "id_str": "126667940"
-        }
-    },
+    "retweet_count": "0",
+    "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

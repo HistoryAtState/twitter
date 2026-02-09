@@ -1,67 +1,65 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Fri Jun 11 15:02:22 +0000 2021",
     "display_text_range": [
-        0,
-        257
+        "0",
+        "281"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    57,
-                    61
+                    "57",
+                    "61"
                 ],
                 "text": "HAC"
             },
             {
                 "indices": [
-                    132,
-                    138
+                    "132",
+                    "138"
                 ],
                 "text": "START"
             },
             {
                 "indices": [
-                    170,
-                    175
+                    "170",
+                    "175"
                 ],
                 "text": "FRUS"
             }
         ],
         "media": [
             {
-                "display_url": "pic.twitter.com/JBH4RTfE5P",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1403367009149239309/photo/1",
-                "id": 1403367007723134980,
+                "display_url": "pic.x.com/JBH4RTfE5P",
+                "expanded_url": "https://x.com/HistoryAtState/status/1403367009149239309/photo/1",
+                "id": "1403367007723134977",
                 "id_str": "1403367007723134977",
                 "indices": [
-                    258,
-                    281
+                    "258",
+                    "281"
                 ],
                 "media_url": "http://pbs.twimg.com/media/E3nC27DXIAEO2T4.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/E3nC27DXIAEO2T4.jpg",
                 "sizes": {
                     "large": {
-                        "h": 512,
+                        "h": "512",
                         "resize": "fit",
-                        "w": 1024
+                        "w": "1024"
                     },
                     "medium": {
-                        "h": 512,
+                        "h": "512",
                         "resize": "fit",
-                        "w": 1024
+                        "w": "1024"
                     },
                     "small": {
-                        "h": 340,
+                        "h": "340",
                         "resize": "fit",
-                        "w": 680
+                        "w": "680"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -75,37 +73,36 @@
     "extended_entities": {
         "media": [
             {
-                "display_url": "pic.twitter.com/JBH4RTfE5P",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1403367009149239309/photo/1",
-                "ext_alt_text": "Invitation reading: Public Lecture on the Reagan Administration’s START Negotiations, June 14, 2021 • 10:30 am EST Office of the Historian, U.S. Department of State Free, online, and open to the public. To register, please email FortJL@state.gov The image includes the official seal of the U.S. Department of State in the background",
-                "id": 1403367007723134980,
+                "display_url": "pic.x.com/JBH4RTfE5P",
+                "expanded_url": "https://x.com/HistoryAtState/status/1403367009149239309/photo/1",
+                "id": "1403367007723134977",
                 "id_str": "1403367007723134977",
                 "indices": [
-                    258,
-                    281
+                    "258",
+                    "281"
                 ],
                 "media_url": "http://pbs.twimg.com/media/E3nC27DXIAEO2T4.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/E3nC27DXIAEO2T4.jpg",
                 "sizes": {
                     "large": {
-                        "h": 512,
+                        "h": "512",
                         "resize": "fit",
-                        "w": 1024
+                        "w": "1024"
                     },
                     "medium": {
-                        "h": 512,
+                        "h": "512",
                         "resize": "fit",
-                        "w": 1024
+                        "w": "1024"
                     },
                     "small": {
-                        "h": 340,
+                        "h": "340",
                         "resize": "fit",
-                        "w": 680
+                        "w": "680"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -113,27 +110,15 @@
             }
         ]
     },
-    "favorite_count": 7,
+    "favorite_count": "5",
     "favorited": false,
     "full_text": "PUBLIC PRESENTATION\nJune 14, 2021 at 10:30am EST\n\nAt the #HAC meeting, James Graham Wilson will discuss the Reagan Administration’s #START negotiations, as documented in #FRUS\n\nTo register for this free online event, please send an email to FortJL@state.gov https://t.co/JBH4RTfE5P",
-    "geo": null,
-    "id": 1403367009149239300,
+    "id": "1403367009149239309",
     "id_str": "1403367009149239309",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 2,
+    "retweet_count": "2",
     "retweeted": false,
     "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

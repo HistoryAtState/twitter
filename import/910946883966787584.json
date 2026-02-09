@@ -1,53 +1,51 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Thu Sep 21 19:20:36 +0000 2017",
     "display_text_range": [
-        0,
-        124
+        "0",
+        "148"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    48,
-                    62
+                    "48",
+                    "62"
                 ],
                 "text": "VietnamWarPBS"
             }
         ],
         "media": [
             {
-                "display_url": "pic.twitter.com/a90gzqkO5Q",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/910946883966787584/photo/1",
-                "id": 910946881483661310,
+                "display_url": "pic.x.com/a90gzqkO5Q",
+                "expanded_url": "https://x.com/HistoryAtState/status/910946883966787584/photo/1",
+                "id": "910946881483661312",
                 "id_str": "910946881483661312",
                 "indices": [
-                    125,
-                    148
+                    "125",
+                    "148"
                 ],
                 "media_url": "http://pbs.twimg.com/media/DKRVXMAVYAAuqO7.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DKRVXMAVYAAuqO7.jpg",
                 "sizes": {
                     "large": {
-                        "h": 439,
+                        "h": "439",
                         "resize": "fit",
-                        "w": 781
+                        "w": "781"
                     },
                     "medium": {
-                        "h": 439,
+                        "h": "439",
                         "resize": "fit",
-                        "w": 781
+                        "w": "781"
                     },
                     "small": {
-                        "h": 382,
+                        "h": "382",
                         "resize": "fit",
-                        "w": 680
+                        "w": "680"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -60,19 +58,19 @@
                 "display_url": "go.usa.gov/xRufQ",
                 "expanded_url": "https://go.usa.gov/xRufQ",
                 "indices": [
-                    97,
-                    120
+                    "97",
+                    "120"
                 ],
                 "url": "https://t.co/Ei9ltqQScV"
             }
         ],
         "user_mentions": [
             {
-                "id": 12133382,
+                "id": "12133382",
                 "id_str": "12133382",
                 "indices": [
-                    43,
-                    47
+                    "43",
+                    "47"
                 ],
                 "name": "PBS",
                 "screen_name": "PBS"
@@ -82,37 +80,36 @@
     "extended_entities": {
         "media": [
             {
-                "display_url": "pic.twitter.com/a90gzqkO5Q",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/910946883966787584/photo/1",
-                "ext_alt_text": null,
-                "id": 910946881483661310,
+                "display_url": "pic.x.com/a90gzqkO5Q",
+                "expanded_url": "https://x.com/HistoryAtState/status/910946883966787584/photo/1",
+                "id": "910946881483661312",
                 "id_str": "910946881483661312",
                 "indices": [
-                    125,
-                    148
+                    "125",
+                    "148"
                 ],
                 "media_url": "http://pbs.twimg.com/media/DKRVXMAVYAAuqO7.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DKRVXMAVYAAuqO7.jpg",
                 "sizes": {
                     "large": {
-                        "h": 439,
+                        "h": "439",
                         "resize": "fit",
-                        "w": 781
+                        "w": "781"
                     },
                     "medium": {
-                        "h": 439,
+                        "h": "439",
                         "resize": "fit",
-                        "w": 781
+                        "w": "781"
                     },
                     "small": {
-                        "h": 382,
+                        "h": "382",
                         "resize": "fit",
-                        "w": 680
+                        "w": "680"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -120,27 +117,15 @@
             }
         ]
     },
-    "favorite_count": 23,
+    "favorite_count": "19",
     "favorited": false,
     "full_text": "Interested in exploring the history behind @PBS #VietnamWarPBS? Start with our guide to sources: https://t.co/Ei9ltqQScV  /1 https://t.co/a90gzqkO5Q",
-    "geo": null,
-    "id": 910946883966787580,
+    "id": "910946883966787584",
     "id_str": "910946883966787584",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 22,
+    "retweet_count": "20",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

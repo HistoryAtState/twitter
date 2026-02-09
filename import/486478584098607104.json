@@ -1,24 +1,22 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Tue Jul 08 11:55:07 +0000 2014",
     "display_text_range": [
-        0,
-        121
+        "0",
+        "121"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    41,
-                    50
+                    "41",
+                    "50"
                 ],
                 "text": "baseball"
             },
             {
                 "indices": [
-                    112,
-                    121
+                    "112",
+                    "121"
                 ],
                 "text": "WW1Tweet"
             }
@@ -29,46 +27,34 @@
                 "display_url": "ow.ly/yTRsG",
                 "expanded_url": "http://ow.ly/yTRsG",
                 "indices": [
-                    89,
-                    111
+                    "89",
+                    "111"
                 ],
                 "url": "http://t.co/r058OnEzNp"
             }
         ],
         "user_mentions": [
             {
-                "id": 14856951,
+                "id": "14856951",
                 "id_str": "14856951",
                 "indices": [
-                    78,
-                    86
+                    "78",
+                    "86"
                 ],
                 "name": "U.S. Embassy London",
                 "screen_name": "USAinUK"
             }
         ]
     },
-    "favorite_count": 1,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "In 1914 King George V attended his first #baseball game w/ US Ambassador Page @USAinUK   http://t.co/r058OnEzNp #WW1Tweet",
-    "geo": null,
-    "id": 486478584098607100,
+    "id": "486478584098607104",
     "id_str": "486478584098607104",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 6,
+    "retweet_count": "6",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

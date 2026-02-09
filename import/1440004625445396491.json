@@ -1,10 +1,8 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Mon Sep 20 17:27:11 +0000 2021",
     "display_text_range": [
-        0,
-        140
+        "0",
+        "140"
     ],
     "entities": {
         "hashtags": [],
@@ -12,114 +10,35 @@
         "urls": [],
         "user_mentions": [
             {
-                "id": 76944176,
+                "id": "76944176",
                 "id_str": "76944176",
                 "indices": [
-                    3,
-                    17
+                    "3",
+                    "17"
                 ],
                 "name": "American Historical Association",
                 "screen_name": "AHAhistorians"
             },
             {
-                "id": 586570880,
+                "id": "586570880",
                 "id_str": "586570880",
                 "indices": [
-                    28,
-                    43
+                    "28",
+                    "43"
                 ],
                 "name": "HistoryAtState",
                 "screen_name": "HistoryAtState"
             }
         ]
     },
-    "favorite_count": 0,
-    "favorited": true,
+    "favorite_count": "0",
+    "favorited": false,
     "full_text": "RT @AHAhistorians: In 2021, @HistoryAtState is commemorating several anniversaries, including the 160th anniversary of the Foreign Relation…",
-    "geo": null,
-    "id": 1440004625445396480,
+    "id": "1440004625445396491",
     "id_str": "1440004625445396491",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
-    "retweet_count": 4,
-    "retweeted": true,
-    "retweeted_status": {
-        "contributors": null,
-        "coordinates": null,
-        "created_at": "Mon Sep 20 16:04:01 +0000 2021",
-        "display_text_range": [
-            0,
-            270
-        ],
-        "entities": {
-            "hashtags": [
-                {
-                    "indices": [
-                        161,
-                        177
-                    ],
-                    "text": "AHAPerspectives"
-                }
-            ],
-            "symbols": [],
-            "urls": [
-                {
-                    "display_url": "historians.org/publications-a…",
-                    "expanded_url": "https://www.historians.org/publications-and-directories/perspectives-on-history/october-2021/consistently-evolving-the-foreign-relations-series-at-160",
-                    "indices": [
-                        247,
-                        270
-                    ],
-                    "url": "https://t.co/Lcfck8L3Nv"
-                }
-            ],
-            "user_mentions": [
-                {
-                    "id": 586570880,
-                    "id_str": "586570880",
-                    "indices": [
-                        9,
-                        24
-                    ],
-                    "name": "HistoryAtState",
-                    "screen_name": "HistoryAtState"
-                }
-            ]
-        },
-        "favorite_count": 6,
-        "favorited": true,
-        "full_text": "In 2021, @HistoryAtState is commemorating several anniversaries, including the 160th anniversary of the Foreign Relations of the United States (FRUS) series. In #AHAPerspectives, Adam M. Howard and Kristin L. Ahlberg describe how FRUS has evolved.https://t.co/Lcfck8L3Nv",
-        "geo": null,
-        "id": 1439983695406977020,
-        "id_str": "1439983695406977024",
-        "in_reply_to_screen_name": null,
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "is_quote_status": false,
-        "lang": "en",
-        "place": null,
-        "possibly_sensitive": false,
-        "retweet_count": 4,
-        "retweeted": true,
-        "source": "&lt;a href=\"https://sproutsocial.com\" rel=\"nofollow\"&gt;Sprout Social&lt;/a&gt;",
-        "truncated": false,
-        "user": {
-            "id": 76944176,
-            "id_str": "76944176"
-        }
-    },
+    "retweet_count": "0",
+    "retweeted": false,
     "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

@@ -1,17 +1,15 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Mon Jan 24 18:10:37 +0000 2022",
     "display_text_range": [
-        0,
-        140
+        "0",
+        "140"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    22,
-                    26
+                    "22",
+                    "26"
                 ],
                 "text": "OTD"
             }
@@ -20,162 +18,25 @@
         "urls": [],
         "user_mentions": [
             {
-                "id": 113729414,
+                "id": "113729414",
                 "id_str": "113729414",
                 "indices": [
-                    3,
-                    14
+                    "3",
+                    "14"
                 ],
                 "name": "LBJ Library",
                 "screen_name": "LBJLibrary"
             }
         ]
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "RT @LBJLibrary: (1/2) #OTD 1/24/68: Sen. Edward Kennedy meets w/ LBJ to discuss the Senator's recent trip to Vietnam.\n\nNotes taken during t…",
-    "geo": null,
-    "id": 1485676426904973310,
+    "id": "1485676426904973314",
     "id_str": "1485676426904973314",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
-    "retweet_count": 11,
-    "retweeted": true,
-    "retweeted_status": {
-        "contributors": null,
-        "coordinates": null,
-        "created_at": "Mon Jan 24 15:08:11 +0000 2022",
-        "display_text_range": [
-            0,
-            276
-        ],
-        "entities": {
-            "hashtags": [
-                {
-                    "indices": [
-                        6,
-                        10
-                    ],
-                    "text": "OTD"
-                }
-            ],
-            "media": [
-                {
-                    "display_url": "pic.twitter.com/orPaENwyQc",
-                    "expanded_url": "https://twitter.com/LBJLibrary/status/1485630515210248192/photo/1",
-                    "id": 1485629832763518980,
-                    "id_str": "1485629832763518979",
-                    "indices": [
-                        277,
-                        300
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/FJ4EdjGXsAMFMgW.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/FJ4EdjGXsAMFMgW.jpg",
-                    "sizes": {
-                        "large": {
-                            "h": 667,
-                            "resize": "fit",
-                            "w": 1000
-                        },
-                        "medium": {
-                            "h": 667,
-                            "resize": "fit",
-                            "w": 1000
-                        },
-                        "small": {
-                            "h": 454,
-                            "resize": "fit",
-                            "w": 680
-                        },
-                        "thumb": {
-                            "h": 150,
-                            "resize": "crop",
-                            "w": 150
-                        }
-                    },
-                    "type": "photo",
-                    "url": "https://t.co/orPaENwyQc"
-                }
-            ],
-            "symbols": [],
-            "urls": [],
-            "user_mentions": []
-        },
-        "extended_entities": {
-            "media": [
-                {
-                    "display_url": "pic.twitter.com/orPaENwyQc",
-                    "expanded_url": "https://twitter.com/LBJLibrary/status/1485630515210248192/photo/1",
-                    "ext_alt_text": null,
-                    "id": 1485629832763518980,
-                    "id_str": "1485629832763518979",
-                    "indices": [
-                        277,
-                        300
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/FJ4EdjGXsAMFMgW.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/FJ4EdjGXsAMFMgW.jpg",
-                    "sizes": {
-                        "large": {
-                            "h": 667,
-                            "resize": "fit",
-                            "w": 1000
-                        },
-                        "medium": {
-                            "h": 667,
-                            "resize": "fit",
-                            "w": 1000
-                        },
-                        "small": {
-                            "h": 454,
-                            "resize": "fit",
-                            "w": 680
-                        },
-                        "thumb": {
-                            "h": 150,
-                            "resize": "crop",
-                            "w": 150
-                        }
-                    },
-                    "type": "photo",
-                    "url": "https://t.co/orPaENwyQc"
-                }
-            ]
-        },
-        "favorite_count": 107,
-        "favorited": false,
-        "full_text": "(1/2) #OTD 1/24/68: Sen. Edward Kennedy meets w/ LBJ to discuss the Senator's recent trip to Vietnam.\n\nNotes taken during the meeting show Kennedy's distress re. the corruption in the South Vietnamese gov. &amp;amp; about the division among military leaders re. tactics.\n\n📸Okamoto https://t.co/orPaENwyQc",
-        "geo": null,
-        "id": 1485630515210248190,
-        "id_str": "1485630515210248192",
-        "in_reply_to_screen_name": null,
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "is_quote_status": false,
-        "lang": "en",
-        "place": null,
-        "possibly_sensitive": false,
-        "retweet_count": 11,
-        "retweeted": true,
-        "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
-        "truncated": false,
-        "user": {
-            "id": 113729414,
-            "id_str": "113729414"
-        }
-    },
+    "retweet_count": "0",
+    "retweeted": false,
     "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

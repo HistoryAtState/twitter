@@ -1,53 +1,51 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Tue Jun 08 17:02:11 +0000 2021",
     "display_text_range": [
-        0,
-        226
+        "0",
+        "250"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    138,
-                    142
+                    "138",
+                    "142"
                 ],
                 "text": "HAC"
             }
         ],
         "media": [
             {
-                "display_url": "pic.twitter.com/1Pg86j5PPq",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1402309996659019776/photo/1",
-                "id": 1402309995006472190,
+                "display_url": "pic.x.com/1Pg86j5PPq",
+                "expanded_url": "https://x.com/HistoryAtState/status/1402309996659019776/photo/1",
+                "id": "1402309995006472198",
                 "id_str": "1402309995006472198",
                 "indices": [
-                    227,
-                    250
+                    "227",
+                    "250"
                 ],
                 "media_url": "http://pbs.twimg.com/media/E3YBgr1XMAYqi7s.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/E3YBgr1XMAYqi7s.jpg",
                 "sizes": {
                     "large": {
-                        "h": 512,
+                        "h": "512",
                         "resize": "fit",
-                        "w": 1024
+                        "w": "1024"
                     },
                     "medium": {
-                        "h": 512,
+                        "h": "512",
                         "resize": "fit",
-                        "w": 1024
+                        "w": "1024"
                     },
                     "small": {
-                        "h": 340,
+                        "h": "340",
                         "resize": "fit",
-                        "w": 680
+                        "w": "680"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -61,37 +59,36 @@
     "extended_entities": {
         "media": [
             {
-                "display_url": "pic.twitter.com/1Pg86j5PPq",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1402309996659019776/photo/1",
-                "ext_alt_text": "Invitation reading: Virtual Public Meeting, Advisory Committee for Historical Diplomatic Documentation, June 14, 2021 • 10:00 am EST Office of the Historian, U.S. Department of State Free, online, and open to the public. To register, please email FortJL@state.gov The image includes the official seal of the U.S. Department of State in the background",
-                "id": 1402309995006472190,
+                "display_url": "pic.x.com/1Pg86j5PPq",
+                "expanded_url": "https://x.com/HistoryAtState/status/1402309996659019776/photo/1",
+                "id": "1402309995006472198",
                 "id_str": "1402309995006472198",
                 "indices": [
-                    227,
-                    250
+                    "227",
+                    "250"
                 ],
                 "media_url": "http://pbs.twimg.com/media/E3YBgr1XMAYqi7s.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/E3YBgr1XMAYqi7s.jpg",
                 "sizes": {
                     "large": {
-                        "h": 512,
+                        "h": "512",
                         "resize": "fit",
-                        "w": 1024
+                        "w": "1024"
                     },
                     "medium": {
-                        "h": 512,
+                        "h": "512",
                         "resize": "fit",
-                        "w": 1024
+                        "w": "1024"
                     },
                     "small": {
-                        "h": 340,
+                        "h": "340",
                         "resize": "fit",
-                        "w": 680
+                        "w": "680"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -99,27 +96,15 @@
             }
         ]
     },
-    "favorite_count": 11,
+    "favorite_count": "7",
     "favorited": false,
     "full_text": "PUBLIC MEETING\nJune 14, 2021 at 10am EST\n\nJoin us for the open session of the Advisory Committee for Historical Diplomatic Documentation (#HAC).\n\nTo register for this free online event, please send an email to FortJL@state.gov https://t.co/1Pg86j5PPq",
-    "geo": null,
-    "id": 1402309996659019780,
+    "id": "1402309996659019776",
     "id_str": "1402309996659019776",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 3,
+    "retweet_count": "1",
     "retweeted": false,
     "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

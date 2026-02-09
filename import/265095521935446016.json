@@ -1,17 +1,15 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Sun Nov 04 14:17:52 +0000 2012",
     "display_text_range": [
-        0,
-        135
+        "0",
+        "135"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    82,
-                    87
+                    "82",
+                    "87"
                 ],
                 "text": "FRUS"
             }
@@ -22,46 +20,34 @@
                 "display_url": "on.nypl.org/OZPi9t",
                 "expanded_url": "http://on.nypl.org/OZPi9t",
                 "indices": [
-                    115,
-                    135
+                    "115",
+                    "135"
                 ],
                 "url": "http://t.co/oB9Y15XD"
             }
         ],
         "user_mentions": [
             {
-                "id": 17544803,
+                "id": "17544803",
                 "id_str": "17544803",
                 "indices": [
-                    100,
-                    105
+                    "100",
+                    "105"
                 ],
                 "name": "NY Public Library",
                 "screen_name": "nypl"
             }
         ]
     },
-    "favorite_count": 1,
+    "favorite_count": "1",
     "favorited": false,
     "full_text": "Working on decolonization history? Learn how to use online USG historical records #FRUS at our 11/7 @NYPL workshop http://t.co/oB9Y15XD",
-    "geo": null,
-    "id": 265095521935446016,
+    "id": "265095521935446016",
     "id_str": "265095521935446016",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 2,
+    "retweet_count": "2",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

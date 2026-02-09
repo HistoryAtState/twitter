@@ -1,24 +1,22 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Mon Oct 29 14:23:19 +0000 2012",
     "display_text_range": [
-        0,
-        120
+        "0",
+        "120"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    110,
-                    115
+                    "110",
+                    "115"
                 ],
                 "text": "FRUS"
             },
             {
                 "indices": [
-                    116,
-                    120
+                    "116",
+                    "120"
                 ],
                 "text": "cmc"
             }
@@ -29,35 +27,23 @@
                 "display_url": "bit.ly/Yeg6nH",
                 "expanded_url": "http://bit.ly/Yeg6nH",
                 "indices": [
-                    89,
-                    109
+                    "89",
+                    "109"
                 ],
                 "url": "http://t.co/vYsKtQ8y"
             }
         ],
         "user_mentions": []
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "October 29, 1962. Read Schlesinger's recommendations after the resolution of the crisis. http://t.co/vYsKtQ8y #FRUS #cmc",
-    "geo": null,
-    "id": 262922566371516416,
+    "id": "262922566371516416",
     "id_str": "262922566371516416",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 0,
+    "retweet_count": "0",
     "retweeted": false,
     "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

@@ -1,10 +1,8 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Fri Nov 02 11:40:11 +0000 2012",
     "display_text_range": [
-        0,
-        108
+        "0",
+        "108"
     ],
     "entities": {
         "hashtags": [],
@@ -14,56 +12,44 @@
                 "display_url": "on.nypl.org/OZPi9t",
                 "expanded_url": "http://on.nypl.org/OZPi9t",
                 "indices": [
-                    88,
-                    108
+                    "88",
+                    "108"
                 ],
                 "url": "http://t.co/oB9Y15XD"
             }
         ],
         "user_mentions": [
             {
-                "id": 586570880,
+                "id": "586570880",
                 "id_str": "586570880",
                 "indices": [
-                    51,
-                    66
+                    "51",
+                    "66"
                 ],
                 "name": "HistoryAtState",
                 "screen_name": "HistoryAtState"
             },
             {
-                "id": 17544803,
+                "id": "17544803",
                 "id_str": "17544803",
                 "indices": [
-                    81,
-                    86
+                    "81",
+                    "86"
                 ],
                 "name": "NY Public Library",
                 "screen_name": "nypl"
             }
         ]
     },
-    "favorite_count": 1,
+    "favorite_count": "1",
     "favorited": false,
     "full_text": "Learn how to investigate the documents yourself at @HistoryAtState 11/7 workshop @NYPL! http://t.co/oB9Y15XD",
-    "geo": null,
-    "id": 264331065177554944,
+    "id": "264331065177554945",
     "id_str": "264331065177554945",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 3,
+    "retweet_count": "3",
     "retweeted": false,
     "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

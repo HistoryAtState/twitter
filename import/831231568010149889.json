@@ -1,53 +1,51 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Mon Feb 13 20:00:24 +0000 2017",
     "display_text_range": [
-        0,
-        144
+        "0",
+        "168"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    102,
-                    120
+                    "102",
+                    "120"
                 ],
                 "text": "BlackHistoryMonth"
             }
         ],
         "media": [
             {
-                "display_url": "pic.twitter.com/IedtXNxjvl",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/831231568010149889/photo/1",
-                "id": 831231563551670270,
+                "display_url": "pic.x.com/IedtXNxjvl",
+                "expanded_url": "https://x.com/HistoryAtState/status/831231568010149889/photo/1",
+                "id": "831231563551670272",
                 "id_str": "831231563551670272",
                 "indices": [
-                    145,
-                    168
+                    "145",
+                    "168"
                 ],
                 "media_url": "http://pbs.twimg.com/media/C4kgs_eXAAA8UqH.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/C4kgs_eXAAA8UqH.jpg",
                 "sizes": {
                     "large": {
-                        "h": 2048,
+                        "h": "2048",
                         "resize": "fit",
-                        "w": 1638
+                        "w": "1638"
                     },
                     "medium": {
-                        "h": 1200,
+                        "h": "1200",
                         "resize": "fit",
-                        "w": 960
+                        "w": "960"
                     },
                     "small": {
-                        "h": 680,
+                        "h": "680",
                         "resize": "fit",
-                        "w": 544
+                        "w": "544"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -60,8 +58,8 @@
                 "display_url": "go.usa.gov/x9tYV",
                 "expanded_url": "http://go.usa.gov/x9tYV",
                 "indices": [
-                    121,
-                    144
+                    "121",
+                    "144"
                 ],
                 "url": "https://t.co/7YK6wkxUoQ"
             }
@@ -71,37 +69,36 @@
     "extended_entities": {
         "media": [
             {
-                "display_url": "pic.twitter.com/IedtXNxjvl",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/831231568010149889/photo/1",
-                "ext_alt_text": null,
-                "id": 831231563551670270,
+                "display_url": "pic.x.com/IedtXNxjvl",
+                "expanded_url": "https://x.com/HistoryAtState/status/831231568010149889/photo/1",
+                "id": "831231563551670272",
                 "id_str": "831231563551670272",
                 "indices": [
-                    145,
-                    168
+                    "145",
+                    "168"
                 ],
                 "media_url": "http://pbs.twimg.com/media/C4kgs_eXAAA8UqH.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/C4kgs_eXAAA8UqH.jpg",
                 "sizes": {
                     "large": {
-                        "h": 2048,
+                        "h": "2048",
                         "resize": "fit",
-                        "w": 1638
+                        "w": "1638"
                     },
                     "medium": {
-                        "h": 1200,
+                        "h": "1200",
                         "resize": "fit",
-                        "w": 960
+                        "w": "960"
                     },
                     "small": {
-                        "h": 680,
+                        "h": "680",
                         "resize": "fit",
-                        "w": 544
+                        "w": "544"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -109,27 +106,15 @@
             }
         ]
     },
-    "favorite_count": 24,
+    "favorite_count": "21",
     "favorited": false,
     "full_text": "Condoleezza Rice: 1st African-American female SecState &amp;amp; advocate of \"Transformational Diplomacy\" #BlackHistoryMonth https://t.co/7YK6wkxUoQ https://t.co/IedtXNxjvl",
-    "geo": null,
-    "id": 831231568010149890,
+    "id": "831231568010149889",
     "id_str": "831231568010149889",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 18,
+    "retweet_count": "13",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

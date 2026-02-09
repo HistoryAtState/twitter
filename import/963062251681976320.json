@@ -1,60 +1,58 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Mon Feb 12 14:48:28 +0000 2018",
     "display_text_range": [
-        0,
-        171
+        "0",
+        "195"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    12,
-                    30
+                    "12",
+                    "30"
                 ],
                 "text": "BlackHistoryMonth"
             },
             {
                 "indices": [
-                    155,
-                    171
+                    "155",
+                    "171"
                 ],
                 "text": "Twitterstorians"
             }
         ],
         "media": [
             {
-                "display_url": "pic.twitter.com/nWBQlvQKmw",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/963062251681976320/photo/1",
-                "id": 963062092331999230,
+                "display_url": "pic.x.com/nWBQlvQKmw",
+                "expanded_url": "https://x.com/HistoryAtState/status/963062251681976320/photo/1",
+                "id": "963062092331999232",
                 "id_str": "963062092331999232",
                 "indices": [
-                    172,
-                    195
+                    "172",
+                    "195"
                 ],
                 "media_url": "http://pbs.twimg.com/media/DV173tYX4AANBI4.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DV173tYX4AANBI4.jpg",
                 "sizes": {
                     "large": {
-                        "h": 288,
+                        "h": "288",
                         "resize": "fit",
-                        "w": 217
+                        "w": "217"
                     },
                     "medium": {
-                        "h": 288,
+                        "h": "288",
                         "resize": "fit",
-                        "w": 217
+                        "w": "217"
                     },
                     "small": {
-                        "h": 288,
+                        "h": "288",
                         "resize": "fit",
-                        "w": 217
+                        "w": "217"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -67,8 +65,8 @@
                 "display_url": "history.state.gov/departmenthist…",
                 "expanded_url": "https://history.state.gov/departmenthistory/people/rowan-carl-thomas",
                 "indices": [
-                    131,
-                    154
+                    "131",
+                    "154"
                 ],
                 "url": "https://t.co/czy9iyz0Ky"
             }
@@ -78,37 +76,36 @@
     "extended_entities": {
         "media": [
             {
-                "display_url": "pic.twitter.com/nWBQlvQKmw",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/963062251681976320/photo/1",
-                "ext_alt_text": "Portrait of Carl Rowan",
-                "id": 963062092331999230,
+                "display_url": "pic.x.com/nWBQlvQKmw",
+                "expanded_url": "https://x.com/HistoryAtState/status/963062251681976320/photo/1",
+                "id": "963062092331999232",
                 "id_str": "963062092331999232",
                 "indices": [
-                    172,
-                    195
+                    "172",
+                    "195"
                 ],
                 "media_url": "http://pbs.twimg.com/media/DV173tYX4AANBI4.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DV173tYX4AANBI4.jpg",
                 "sizes": {
                     "large": {
-                        "h": 288,
+                        "h": "288",
                         "resize": "fit",
-                        "w": 217
+                        "w": "217"
                     },
                     "medium": {
-                        "h": 288,
+                        "h": "288",
                         "resize": "fit",
-                        "w": 217
+                        "w": "217"
                     },
                     "small": {
-                        "h": 288,
+                        "h": "288",
                         "resize": "fit",
-                        "w": 217
+                        "w": "217"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -116,27 +113,15 @@
             }
         ]
     },
-    "favorite_count": 4,
+    "favorite_count": "4",
     "favorited": false,
     "full_text": "February is #BlackHistoryMonth! Check out some facts on Carl Thomas Rowan (1925-2000): Government official, author, and journalist https://t.co/czy9iyz0Ky #Twitterstorians https://t.co/nWBQlvQKmw",
-    "geo": null,
-    "id": 963062251681976320,
+    "id": "963062251681976320",
     "id_str": "963062251681976320",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 6,
+    "retweet_count": "6",
     "retweeted": false,
     "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

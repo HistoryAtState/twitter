@@ -1,45 +1,43 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Thu Feb 11 18:02:26 +0000 2021",
     "display_text_range": [
-        0,
-        255
+        "0",
+        "279"
     ],
     "entities": {
         "hashtags": [],
         "media": [
             {
-                "display_url": "pic.twitter.com/kS1ofg9mDQ",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1359925780105560064/photo/1",
-                "id": 1359925778612441090,
+                "display_url": "pic.x.com/kS1ofg9mDQ",
+                "expanded_url": "https://x.com/HistoryAtState/status/1359925780105560064/photo/1",
+                "id": "1359925778612441091",
                 "id_str": "1359925778612441091",
                 "indices": [
-                    256,
-                    279
+                    "256",
+                    "279"
                 ],
                 "media_url": "http://pbs.twimg.com/media/Et9tSlsXUAM1Iof.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/Et9tSlsXUAM1Iof.jpg",
                 "sizes": {
                     "large": {
-                        "h": 503,
+                        "h": "503",
                         "resize": "fit",
-                        "w": 750
+                        "w": "750"
                     },
                     "medium": {
-                        "h": 503,
+                        "h": "503",
                         "resize": "fit",
-                        "w": 750
+                        "w": "750"
                     },
                     "small": {
-                        "h": 456,
+                        "h": "456",
                         "resize": "fit",
-                        "w": 680
+                        "w": "680"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -50,11 +48,11 @@
         "urls": [],
         "user_mentions": [
             {
-                "id": 394351710,
+                "id": "394351710",
                 "id_str": "394351710",
                 "indices": [
-                    234,
-                    249
+                    "234",
+                    "249"
                 ],
                 "name": "RonaldReaganLibrary",
                 "screen_name": "Reagan_Library"
@@ -64,37 +62,36 @@
     "extended_entities": {
         "media": [
             {
-                "display_url": "pic.twitter.com/kS1ofg9mDQ",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1359925780105560064/photo/1",
-                "ext_alt_text": "Photograph of President Ronald Reagan in a staff briefing with Ken Adelman, George Shultz, Donald Regan, Paul Nitze, and John Poindexter in Hofdi House on October 12, 1986 during the Reykjavik Summit in Iceland. Reagan is seated in a chair in the corner of the room and his staffers surround him in the foreground.",
-                "id": 1359925778612441090,
+                "display_url": "pic.x.com/kS1ofg9mDQ",
+                "expanded_url": "https://x.com/HistoryAtState/status/1359925780105560064/photo/1",
+                "id": "1359925778612441091",
                 "id_str": "1359925778612441091",
                 "indices": [
-                    256,
-                    279
+                    "256",
+                    "279"
                 ],
                 "media_url": "http://pbs.twimg.com/media/Et9tSlsXUAM1Iof.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/Et9tSlsXUAM1Iof.jpg",
                 "sizes": {
                     "large": {
-                        "h": 503,
+                        "h": "503",
                         "resize": "fit",
-                        "w": 750
+                        "w": "750"
                     },
                     "medium": {
-                        "h": 503,
+                        "h": "503",
                         "resize": "fit",
-                        "w": 750
+                        "w": "750"
                     },
                     "small": {
-                        "h": 456,
+                        "h": "456",
                         "resize": "fit",
-                        "w": 680
+                        "w": "680"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -102,27 +99,15 @@
             }
         ]
     },
-    "favorite_count": 12,
+    "favorite_count": "6",
     "favorited": false,
     "full_text": "At the 1986 Reykjavik Summit, tensions mounted between Pres. Reagan and Soviet Gen. Sec. Gorbachev over the U.S.’s Strategic Defense Initiative. Sec. Shultz and the negotiating team worked around the clock to keep the talks going.\n\n📷 @Reagan_Library\n(1/2) https://t.co/kS1ofg9mDQ",
-    "geo": null,
-    "id": 1359925780105560060,
+    "id": "1359925780105560064",
     "id_str": "1359925780105560064",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 2,
+    "retweet_count": "2",
     "retweeted": false,
     "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

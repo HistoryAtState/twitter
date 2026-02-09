@@ -1,17 +1,15 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Fri Jan 24 13:05:11 +0000 2014",
     "display_text_range": [
-        0,
-        139
+        "0",
+        "139"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    25,
-                    30
+                    "25",
+                    "30"
                 ],
                 "text": "FRUS"
             }
@@ -22,66 +20,54 @@
                 "display_url": "ow.ly/sSjB2",
                 "expanded_url": "http://ow.ly/sSjB2",
                 "indices": [
-                    100,
-                    122
+                    "100",
+                    "122"
                 ],
                 "url": "http://t.co/JUQhlQKdiW"
             }
         ],
         "user_mentions": [
             {
-                "id": 382129509,
+                "id": "382129509",
                 "id_str": "382129509",
                 "indices": [
-                    48,
-                    64
+                    "48",
+                    "64"
                 ],
                 "name": "The Wilson Center",
                 "screen_name": "TheWilsonCenter"
             },
             {
-                "id": 586570880,
+                "id": "586570880",
                 "id_str": "586570880",
                 "indices": [
-                    67,
-                    82
+                    "67",
+                    "82"
                 ],
                 "name": "HistoryAtState",
                 "screen_name": "HistoryAtState"
             },
             {
-                "id": 415733406,
+                "id": "415733406",
                 "id_str": "415733406",
                 "indices": [
-                    123,
-                    139
+                    "123",
+                    "139"
                 ],
                 "name": "SHAFR Conference",
                 "screen_name": "SHAFRConference"
             }
         ]
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "What challenges confront #FRUS? Learn more 1/27 @TheWilsonCenter w/@HistoryAtState Stephen Randolph http://t.co/JUQhlQKdiW @SHAFRConference",
-    "geo": null,
-    "id": 426702217882894340,
+    "id": "426702217882894336",
     "id_str": "426702217882894336",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 2,
+    "retweet_count": "2",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

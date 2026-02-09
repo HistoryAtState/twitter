@@ -1,31 +1,29 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Tue Nov 22 12:01:02 +0000 2016",
     "display_text_range": [
-        0,
-        144
+        "0",
+        "144"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    39,
-                    54
+                    "39",
+                    "54"
                 ],
                 "text": "foreignaffairs"
             },
             {
                 "indices": [
-                    66,
-                    70
+                    "66",
+                    "70"
                 ],
                 "text": "JFK"
             },
             {
                 "indices": [
-                    86,
-                    91
+                    "86",
+                    "91"
                 ],
                 "text": "FRUS"
             }
@@ -36,56 +34,44 @@
                 "display_url": "go.usa.gov/x89Am",
                 "expanded_url": "http://go.usa.gov/x89Am",
                 "indices": [
-                    121,
-                    144
+                    "121",
+                    "144"
                 ],
                 "url": "https://t.co/jw5VkuAjOv"
             }
         ],
         "user_mentions": [
             {
-                "id": 32520240,
-                "id_str": "32520240",
+                "id": "1850960131946921984",
+                "id_str": "1850960131946921984",
                 "indices": [
-                    92,
-                    103
+                    "92",
+                    "103"
                 ],
-                "name": "JFK Library",
-                "screen_name": "JFKLibrary"
+                "name": "JFK Library Foundation",
+                "screen_name": "jfklibrary"
             },
             {
-                "id": 106448460,
+                "id": "106448460",
                 "id_str": "106448460",
                 "indices": [
-                    104,
-                    120
+                    "104",
+                    "120"
                 ],
                 "name": "White House History",
                 "screen_name": "WhiteHouseHstry"
             }
         ]
     },
-    "favorite_count": 1,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "Amb. Thompson &amp;amp; SecState Rusk talk #foreignaffairs in wake of #JFK assassination. #FRUS @JFKLibrary @WhiteHouseHstry https://t.co/jw5VkuAjOv",
-    "geo": null,
-    "id": 801032740648861700,
+    "id": "801032740648861696",
     "id_str": "801032740648861696",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 2,
+    "retweet_count": "1",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

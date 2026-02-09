@@ -1,10 +1,8 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Tue Oct 26 22:12:50 +0000 2021",
     "display_text_range": [
-        0,
-        140
+        "0",
+        "140"
     ],
     "entities": {
         "hashtags": [],
@@ -12,106 +10,35 @@
         "urls": [],
         "user_mentions": [
             {
-                "id": 9624742,
+                "id": "9624742",
                 "id_str": "9624742",
                 "indices": [
-                    3,
-                    13
+                    "3",
+                    "13"
                 ],
                 "name": "Department of State",
                 "screen_name": "StateDept"
             },
             {
-                "id": 586570880,
+                "id": "586570880",
                 "id_str": "586570880",
                 "indices": [
-                    26,
-                    41
+                    "26",
+                    "41"
                 ],
                 "name": "HistoryAtState",
                 "screen_name": "HistoryAtState"
             }
         ]
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "RT @StateDept: This year, @HistoryAtState turns 100. In celebration of 100 years of foreign policy history, the Department’s Elizabeth Char…",
-    "geo": null,
-    "id": 1453122473990492160,
+    "id": "1453122473990492163",
     "id_str": "1453122473990492163",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
-    "retweet_count": 21,
-    "retweeted": true,
-    "retweeted_status": {
-        "contributors": null,
-        "coordinates": null,
-        "created_at": "Tue Oct 26 22:00:02 +0000 2021",
-        "display_text_range": [
-            0,
-            203
-        ],
-        "entities": {
-            "hashtags": [],
-            "symbols": [],
-            "urls": [
-                {
-                    "display_url": "go.usa.gov/xe3dk",
-                    "expanded_url": "https://go.usa.gov/xe3dk",
-                    "indices": [
-                        180,
-                        203
-                    ],
-                    "url": "https://t.co/Yven0i5uoq"
-                }
-            ],
-            "user_mentions": [
-                {
-                    "id": 586570880,
-                    "id_str": "586570880",
-                    "indices": [
-                        11,
-                        26
-                    ],
-                    "name": "HistoryAtState",
-                    "screen_name": "HistoryAtState"
-                }
-            ]
-        },
-        "favorite_count": 77,
-        "favorited": false,
-        "full_text": "This year, @HistoryAtState turns 100. In celebration of 100 years of foreign policy history, the Department’s Elizabeth Charles shares her experiences as a professional historian. https://t.co/Yven0i5uoq",
-        "geo": null,
-        "id": 1453119253574455300,
-        "id_str": "1453119253574455302",
-        "in_reply_to_screen_name": null,
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "is_quote_status": false,
-        "lang": "en",
-        "place": null,
-        "possibly_sensitive": false,
-        "retweet_count": 21,
-        "retweeted": true,
-        "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
-        "truncated": false,
-        "user": {
-            "id": 9624742,
-            "id_str": "9624742"
-        }
-    },
+    "retweet_count": "0",
+    "retweeted": false,
     "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

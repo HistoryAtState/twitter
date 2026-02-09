@@ -1,31 +1,29 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Fri Mar 21 12:02:31 +0000 2014",
     "display_text_range": [
-        0,
-        134
+        "0",
+        "134"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    0,
-                    9
+                    "0",
+                    "9"
                 ],
                 "text": "SecState"
             },
             {
                 "indices": [
-                    35,
-                    41
+                    "35",
+                    "41"
                 ],
                 "text": "Water"
             },
             {
                 "indices": [
-                    130,
-                    134
+                    "130",
+                    "134"
                 ],
                 "text": "WWD"
             }
@@ -36,46 +34,34 @@
                 "display_url": "go.usa.gov/KQ2Y",
                 "expanded_url": "http://go.usa.gov/KQ2Y",
                 "indices": [
-                    107,
-                    129
+                    "107",
+                    "129"
                 ],
                 "url": "http://t.co/dtX8p7MJI0"
             }
         ],
         "user_mentions": [
             {
-                "id": 9624742,
+                "id": "9624742",
                 "id_str": "9624742",
                 "indices": [
-                    24,
-                    34
+                    "24",
+                    "34"
                 ],
                 "name": "Department of State",
                 "screen_name": "StateDept"
             }
         ]
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "#SecState Rusk proposed @StateDept #Water for Peace Office to direct int’l water-related activities of USG http://t.co/dtX8p7MJI0 #WWD",
-    "geo": null,
-    "id": 446980167282724860,
+    "id": "446980167282724864",
     "id_str": "446980167282724864",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 0,
+    "retweet_count": "0",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

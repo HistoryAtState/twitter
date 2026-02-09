@@ -1,45 +1,43 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Thu Mar 31 14:30:17 +0000 2022",
     "display_text_range": [
-        0,
-        278
+        "0",
+        "302"
     ],
     "entities": {
         "hashtags": [],
         "media": [
             {
-                "display_url": "pic.twitter.com/DQlXqP5Hsm",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1509538576303804428/photo/1",
-                "id": 1509538574160613380,
+                "display_url": "pic.x.com/DQlXqP5Hsm",
+                "expanded_url": "https://x.com/HistoryAtState/status/1509538576303804428/photo/1",
+                "id": "1509538574160613386",
                 "id_str": "1509538574160613386",
                 "indices": [
-                    279,
-                    302
+                    "279",
+                    "302"
                 ],
                 "media_url": "http://pbs.twimg.com/media/FPL1VdeX0AoOMxt.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/FPL1VdeX0AoOMxt.jpg",
                 "sizes": {
                     "large": {
-                        "h": 512,
+                        "h": "512",
                         "resize": "fit",
-                        "w": 1024
+                        "w": "1024"
                     },
                     "medium": {
-                        "h": 512,
+                        "h": "512",
                         "resize": "fit",
-                        "w": 1024
+                        "w": "1024"
                     },
                     "small": {
-                        "h": 340,
+                        "h": "340",
                         "resize": "fit",
-                        "w": 680
+                        "w": "680"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -52,8 +50,8 @@
                 "display_url": "ow.ly/AjpB50IwEAE",
                 "expanded_url": "http://ow.ly/AjpB50IwEAE",
                 "indices": [
-                    255,
-                    278
+                    "255",
+                    "278"
                 ],
                 "url": "https://t.co/sNimj7YoUV"
             }
@@ -63,37 +61,36 @@
     "extended_entities": {
         "media": [
             {
-                "display_url": "pic.twitter.com/DQlXqP5Hsm",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1509538576303804428/photo/1",
-                "ext_alt_text": "Color portrait of Madeleine Albright with the seal of the U.S. Department of State and the words “Madeleine K. Albright, 1937–2022”",
-                "id": 1509538574160613380,
+                "display_url": "pic.x.com/DQlXqP5Hsm",
+                "expanded_url": "https://x.com/HistoryAtState/status/1509538576303804428/photo/1",
+                "id": "1509538574160613386",
                 "id_str": "1509538574160613386",
                 "indices": [
-                    279,
-                    302
+                    "279",
+                    "302"
                 ],
                 "media_url": "http://pbs.twimg.com/media/FPL1VdeX0AoOMxt.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/FPL1VdeX0AoOMxt.jpg",
                 "sizes": {
                     "large": {
-                        "h": 512,
+                        "h": "512",
                         "resize": "fit",
-                        "w": 1024
+                        "w": "1024"
                     },
                     "medium": {
-                        "h": 512,
+                        "h": "512",
                         "resize": "fit",
-                        "w": 1024
+                        "w": "1024"
                     },
                     "small": {
-                        "h": 340,
+                        "h": "340",
                         "resize": "fit",
-                        "w": 680
+                        "w": "680"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -101,27 +98,15 @@
             }
         ]
     },
-    "favorite_count": 3,
+    "favorite_count": "3",
     "favorited": false,
     "full_text": "Madeleine Korbel Albright served as the 1st woman and 64th U.S. Secretary of State from 1997 to 2001. Nominated by Pres. Clinton, Albright was unanimously confirmed by the Senate.\n\nToday, we highlight key moments related to her life and federal service.\n\nhttps://t.co/sNimj7YoUV https://t.co/DQlXqP5Hsm",
-    "geo": null,
-    "id": 1509538576303804420,
+    "id": "1509538576303804428",
     "id_str": "1509538576303804428",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 2,
+    "retweet_count": "1",
     "retweeted": false,
     "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

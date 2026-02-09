@@ -1,17 +1,15 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Mon Sep 21 12:16:00 +0000 2015",
     "display_text_range": [
-        0,
-        136
+        "0",
+        "136"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    127,
-                    136
+                    "127",
+                    "136"
                 ],
                 "text": "WW1Tweet"
             }
@@ -22,46 +20,34 @@
                 "display_url": "go.usa.gov/3MCB5",
                 "expanded_url": "http://go.usa.gov/3MCB5",
                 "indices": [
-                    104,
-                    126
+                    "104",
+                    "126"
                 ],
                 "url": "http://t.co/wlF4IUF2ps"
             }
         ],
         "user_mentions": [
             {
-                "id": 19981036,
-                "id_str": "19981036",
+                "id": "1931316663569244162",
+                "id_str": "1931316663569244162",
                 "indices": [
-                    1,
-                    15
+                    "1",
+                    "15"
                 ],
-                "name": "US Embassy Brussels",
+                "name": "POC hackerone",
                 "screen_name": "usembbrussels"
             }
         ]
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "“@USEmbBrussels exhausted every effort to prevent the infliction of the death penalty” for Edith Cavell http://t.co/wlF4IUF2ps #WW1Tweet",
-    "geo": null,
-    "id": 645934498841001980,
+    "id": "645934498841001985",
     "id_str": "645934498841001985",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 0,
+    "retweet_count": "0",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

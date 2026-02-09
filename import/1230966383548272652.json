@@ -1,24 +1,22 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Fri Feb 21 21:23:50 +0000 2020",
     "display_text_range": [
-        0,
-        139
+        "0",
+        "139"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    18,
-                    31
+                    "18",
+                    "31"
                 ],
                 "text": "NixonInChina"
             },
             {
                 "indices": [
-                    32,
-                    36
+                    "32",
+                    "36"
                 ],
                 "text": "OTD"
             }
@@ -27,179 +25,25 @@
         "urls": [],
         "user_mentions": [
             {
-                "id": 4276158575,
+                "id": "4276158575",
                 "id_str": "4276158575",
                 "indices": [
-                    3,
-                    16
+                    "3",
+                    "16"
                 ],
                 "name": "RichardNixonLibrary",
                 "screen_name": "NixonLibrary"
             }
         ]
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "RT @NixonLibrary: #NixonInChina #OTD 2/21/1972 Later that afternoon, President Nixon and Premier Chou motored to the residence of Chairman…",
-    "geo": null,
-    "id": 1230966383548272640,
+    "id": "1230966383548272652",
     "id_str": "1230966383548272652",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
-    "retweet_count": 18,
-    "retweeted": true,
-    "retweeted_status": {
-        "contributors": null,
-        "coordinates": null,
-        "created_at": "Fri Feb 21 19:22:49 +0000 2020",
-        "display_text_range": [
-            0,
-            277
-        ],
-        "entities": {
-            "hashtags": [
-                {
-                    "indices": [
-                        0,
-                        13
-                    ],
-                    "text": "NixonInChina"
-                },
-                {
-                    "indices": [
-                        14,
-                        18
-                    ],
-                    "text": "OTD"
-                }
-            ],
-            "media": [
-                {
-                    "display_url": "pic.twitter.com/mnIplZsewJ",
-                    "expanded_url": "https://twitter.com/NixonLibrary/status/1230935927637319680/photo/1",
-                    "id": 1230935918636359680,
-                    "id_str": "1230935918636359686",
-                    "indices": [
-                        278,
-                        301
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/ERUpsjuW4AYV7EU.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/ERUpsjuW4AYV7EU.jpg",
-                    "sizes": {
-                        "large": {
-                            "h": 916,
-                            "resize": "fit",
-                            "w": 1200
-                        },
-                        "medium": {
-                            "h": 916,
-                            "resize": "fit",
-                            "w": 1200
-                        },
-                        "small": {
-                            "h": 519,
-                            "resize": "fit",
-                            "w": 680
-                        },
-                        "thumb": {
-                            "h": 150,
-                            "resize": "crop",
-                            "w": 150
-                        }
-                    },
-                    "type": "photo",
-                    "url": "https://t.co/mnIplZsewJ"
-                }
-            ],
-            "symbols": [],
-            "urls": [
-                {
-                    "display_url": "history.state.gov/historicaldocu…",
-                    "expanded_url": "https://history.state.gov/historicaldocuments/frus1969-76v17/d194",
-                    "indices": [
-                        254,
-                        277
-                    ],
-                    "url": "https://t.co/s1AYeIbHxs"
-                }
-            ],
-            "user_mentions": []
-        },
-        "extended_entities": {
-            "media": [
-                {
-                    "display_url": "pic.twitter.com/mnIplZsewJ",
-                    "expanded_url": "https://twitter.com/NixonLibrary/status/1230935927637319680/photo/1",
-                    "ext_alt_text": null,
-                    "id": 1230935918636359680,
-                    "id_str": "1230935918636359686",
-                    "indices": [
-                        278,
-                        301
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/ERUpsjuW4AYV7EU.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/ERUpsjuW4AYV7EU.jpg",
-                    "sizes": {
-                        "large": {
-                            "h": 916,
-                            "resize": "fit",
-                            "w": 1200
-                        },
-                        "medium": {
-                            "h": 916,
-                            "resize": "fit",
-                            "w": 1200
-                        },
-                        "small": {
-                            "h": 519,
-                            "resize": "fit",
-                            "w": 680
-                        },
-                        "thumb": {
-                            "h": 150,
-                            "resize": "crop",
-                            "w": 150
-                        }
-                    },
-                    "type": "photo",
-                    "url": "https://t.co/mnIplZsewJ"
-                }
-            ]
-        },
-        "favorite_count": 32,
-        "favorited": false,
-        "full_text": "#NixonInChina #OTD 2/21/1972 Later that afternoon, President Nixon and Premier Chou motored to the residence of Chairman Mao Zedong in the Zhongnanhai compound of the former Imperial City in Beijing. Read the transcript of their historic meeting online: https://t.co/s1AYeIbHxs https://t.co/mnIplZsewJ",
-        "geo": null,
-        "id": 1230935927637319680,
-        "id_str": "1230935927637319680",
-        "in_reply_to_screen_name": null,
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "is_quote_status": false,
-        "lang": "en",
-        "place": null,
-        "possibly_sensitive": false,
-        "retweet_count": 18,
-        "retweeted": true,
-        "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
-        "truncated": false,
-        "user": {
-            "id": 4276158575,
-            "id_str": "4276158575"
-        }
-    },
+    "retweet_count": "0",
+    "retweeted": false,
     "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

@@ -1,24 +1,22 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Mon Dec 22 19:00:15 +0000 2014",
     "display_text_range": [
-        0,
-        119
+        "0",
+        "119"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    97,
-                    102
+                    "97",
+                    "102"
                 ],
                 "text": "FRUS"
             },
             {
                 "indices": [
-                    103,
-                    119
+                    "103",
+                    "119"
                 ],
                 "text": "twitterstorians"
             }
@@ -29,35 +27,23 @@
                 "display_url": "go.usa.gov/FT6z",
                 "expanded_url": "http://go.usa.gov/FT6z",
                 "indices": [
-                    74,
-                    96
+                    "74",
+                    "96"
                 ],
                 "url": "http://t.co/PCkfqE76dn"
             }
         ],
         "user_mentions": []
     },
-    "favorite_count": 1,
+    "favorite_count": "1",
     "favorited": false,
     "full_text": "Read about the US diplomatic response to the conflict in Lebanon 1978–80. http://t.co/PCkfqE76dn #FRUS #twitterstorians",
-    "geo": null,
-    "id": 547104348006653950,
+    "id": "547104348006653952",
     "id_str": "547104348006653952",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 2,
+    "retweet_count": "1",
     "retweeted": false,
     "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

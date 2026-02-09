@@ -1,17 +1,15 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Wed Dec 18 21:22:54 +0000 2013",
     "display_text_range": [
-        0,
-        99
+        "0",
+        "99"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    18,
-                    23
+                    "18",
+                    "23"
                 ],
                 "text": "FRUS"
             }
@@ -22,35 +20,23 @@
                 "display_url": "go.usa.gov/WSfQ",
                 "expanded_url": "http://go.usa.gov/WSfQ",
                 "indices": [
-                    77,
-                    99
+                    "77",
+                    "99"
                 ],
                 "url": "http://t.co/NfgAv8j9Qy"
             }
         ],
         "user_mentions": []
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "Did you know that #FRUS was published contemporaneously in the 19th century? http://t.co/NfgAv8j9Qy",
-    "geo": null,
-    "id": 413419122941112320,
+    "id": "413419122941112320",
     "id_str": "413419122941112320",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 2,
+    "retweet_count": "1",
     "retweeted": false,
     "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

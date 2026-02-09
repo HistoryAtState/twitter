@@ -1,24 +1,22 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Wed May 01 17:35:48 +0000 2013",
     "display_text_range": [
-        0,
-        130
+        "0",
+        "130"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    108,
-                    113
+                    "108",
+                    "113"
                 ],
                 "text": "FRUS"
             },
             {
                 "indices": [
-                    114,
-                    130
+                    "114",
+                    "130"
                 ],
                 "text": "twitterstorians"
             }
@@ -29,35 +27,23 @@
                 "display_url": "go.usa.gov/TXGk",
                 "expanded_url": "http://go.usa.gov/TXGk",
                 "indices": [
-                    85,
-                    107
+                    "85",
+                    "107"
                 ],
                 "url": "http://t.co/zBlOQUjWoh"
             }
         ],
         "user_mentions": []
     },
-    "favorite_count": 1,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "How did the U.S. react to evidence of Taiwan’s nuclear program during the 1970s? See http://t.co/zBlOQUjWoh #FRUS #twitterstorians",
-    "geo": null,
-    "id": 329650373373620220,
+    "id": "329650373373620225",
     "id_str": "329650373373620225",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 2,
+    "retweet_count": "1",
     "retweeted": false,
     "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

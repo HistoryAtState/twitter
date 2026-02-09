@@ -1,17 +1,15 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Tue Feb 24 16:16:27 +0000 2015",
     "display_text_range": [
-        0,
-        140
+        "0",
+        "140"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    21,
-                    36
+                    "21",
+                    "36"
                 ],
                 "text": "todayinhistory"
             }
@@ -20,93 +18,25 @@
         "urls": [],
         "user_mentions": [
             {
-                "id": 1180122509204701180,
+                "id": "1180122509204701186",
                 "id_str": "1180122509204701186",
                 "indices": [
-                    3,
-                    19
+                    "3",
+                    "19"
                 ],
                 "name": "NMAD Museum",
                 "screen_name": "diplomacycenter"
             }
         ]
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "RT @DiplomacyCenter: #todayinhistory 1917: Zimmerman Note passed to U.S. which proposes German alliance with Mexico against U.S. in WWI: ht…",
-    "geo": null,
-    "id": 570255949375471620,
+    "id": "570255949375471616",
     "id_str": "570255949375471616",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
-    "retweet_count": 8,
-    "retweeted": true,
-    "retweeted_status": {
-        "contributors": null,
-        "coordinates": null,
-        "created_at": "Tue Feb 24 16:12:12 +0000 2015",
-        "display_text_range": [
-            0,
-            138
-        ],
-        "entities": {
-            "hashtags": [
-                {
-                    "indices": [
-                        0,
-                        15
-                    ],
-                    "text": "todayinhistory"
-                }
-            ],
-            "symbols": [],
-            "urls": [
-                {
-                    "display_url": "go.usa.gov/Ssre",
-                    "expanded_url": "http://go.usa.gov/Ssre",
-                    "indices": [
-                        116,
-                        138
-                    ],
-                    "url": "http://t.co/U9fhrTK8av"
-                }
-            ],
-            "user_mentions": []
-        },
-        "favorite_count": 3,
-        "favorited": false,
-        "full_text": "#todayinhistory 1917: Zimmerman Note passed to U.S. which proposes German alliance with Mexico against U.S. in WWI: http://t.co/U9fhrTK8av",
-        "geo": null,
-        "id": 570254879190605820,
-        "id_str": "570254879190605824",
-        "in_reply_to_screen_name": null,
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "is_quote_status": false,
-        "lang": "en",
-        "place": null,
-        "possibly_sensitive": false,
-        "retweet_count": 8,
-        "retweeted": true,
-        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-        "truncated": false,
-        "user": {
-            "id": 2648849144,
-            "id_str": "2648849144"
-        }
-    },
+    "retweet_count": "0",
+    "retweeted": false,
     "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

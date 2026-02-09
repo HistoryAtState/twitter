@@ -1,24 +1,22 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Mon Dec 22 14:00:16 +0000 2014",
     "display_text_range": [
-        0,
-        135
+        "0",
+        "135"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    113,
-                    118
+                    "113",
+                    "118"
                 ],
                 "text": "FRUS"
             },
             {
                 "indices": [
-                    119,
-                    135
+                    "119",
+                    "135"
                 ],
                 "text": "twitterstorians"
             }
@@ -29,35 +27,23 @@
                 "display_url": "go.usa.gov/FT6z",
                 "expanded_url": "http://go.usa.gov/FT6z",
                 "indices": [
-                    90,
-                    112
+                    "90",
+                    "112"
                 ],
                 "url": "http://t.co/PCkfqE76dn"
             }
         ],
         "user_mentions": []
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "See the role the US played in negotiating the 1979 peace treaty between Egypt and Israel. http://t.co/PCkfqE76dn #FRUS #twitterstorians",
-    "geo": null,
-    "id": 547028854376652800,
+    "id": "547028854376652800",
     "id_str": "547028854376652800",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 3,
+    "retweet_count": "1",
     "retweeted": false,
     "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

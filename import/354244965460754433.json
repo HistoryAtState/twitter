@@ -1,31 +1,29 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Mon Jul 08 14:25:55 +0000 2013",
     "display_text_range": [
-        0,
-        140
+        "0",
+        "140"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    19,
-                    23
+                    "19",
+                    "23"
                 ],
                 "text": "OTD"
             },
             {
                 "indices": [
-                    91,
-                    94
+                    "91",
+                    "94"
                 ],
                 "text": "FL"
             },
             {
                 "indices": [
-                    99,
-                    102
+                    "99",
+                    "102"
                 ],
                 "text": "LA"
             }
@@ -34,107 +32,25 @@
         "urls": [],
         "user_mentions": [
             {
-                "id": 1428441589,
+                "id": "1428441589",
                 "id_str": "1428441589",
                 "indices": [
-                    3,
-                    17
+                    "3",
+                    "17"
                 ],
                 "name": "U.S. Senate History",
                 "screen_name": "SenateHistory"
             }
         ]
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "RT @SenateHistory: #OTD in 1797 Senate expels William Blount for plotting to seize Spanish #FL and #LA and transfer to British control http…",
-    "geo": null,
-    "id": 354244965460754430,
+    "id": "354244965460754433",
     "id_str": "354244965460754433",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
-    "retweet_count": 6,
-    "retweeted": true,
-    "retweeted_status": {
-        "contributors": null,
-        "coordinates": null,
-        "created_at": "Mon Jul 08 13:27:54 +0000 2013",
-        "display_text_range": [
-            0,
-            138
-        ],
-        "entities": {
-            "hashtags": [
-                {
-                    "indices": [
-                        0,
-                        4
-                    ],
-                    "text": "OTD"
-                },
-                {
-                    "indices": [
-                        72,
-                        75
-                    ],
-                    "text": "FL"
-                },
-                {
-                    "indices": [
-                        80,
-                        83
-                    ],
-                    "text": "LA"
-                }
-            ],
-            "symbols": [],
-            "urls": [
-                {
-                    "display_url": "ow.ly/mCBJD",
-                    "expanded_url": "http://ow.ly/mCBJD",
-                    "indices": [
-                        116,
-                        138
-                    ],
-                    "url": "http://t.co/hjSMz5RKEh"
-                }
-            ],
-            "user_mentions": []
-        },
-        "favorite_count": 0,
-        "favorited": false,
-        "full_text": "#OTD in 1797 Senate expels William Blount for plotting to seize Spanish #FL and #LA and transfer to British control http://t.co/hjSMz5RKEh",
-        "geo": null,
-        "id": 354230362672607230,
-        "id_str": "354230362672607233",
-        "in_reply_to_screen_name": null,
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "is_quote_status": false,
-        "lang": "en",
-        "place": null,
-        "possibly_sensitive": false,
-        "retweet_count": 6,
-        "retweeted": true,
-        "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-        "truncated": false,
-        "user": {
-            "id": 1428441589,
-            "id_str": "1428441589"
-        }
-    },
+    "retweet_count": "0",
+    "retweeted": false,
     "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

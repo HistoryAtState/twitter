@@ -1,17 +1,15 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Fri Aug 02 18:01:53 +0000 2013",
     "display_text_range": [
-        0,
-        140
+        "0",
+        "140"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    21,
-                    27
+                    "21",
+                    "27"
                 ],
                 "text": "Video"
             }
@@ -20,104 +18,25 @@
         "urls": [],
         "user_mentions": [
             {
-                "id": 72814599,
+                "id": "72814599",
                 "id_str": "72814599",
                 "indices": [
-                    3,
-                    19
+                    "3",
+                    "19"
                 ],
                 "name": "U.S. Embassy France",
                 "screen_name": "USEmbassyFrance"
             }
         ]
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "RT @USEmbassyFrance: #Video On June 1st, 1961, President John F. Kennedy talked to the staff of the U.S. Embassy in Paris http://t.co/FaOxI…",
-    "geo": null,
-    "id": 363359007874220030,
+    "id": "363359007874220032",
     "id_str": "363359007874220032",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
-    "retweet_count": 3,
-    "retweeted": true,
-    "retweeted_status": {
-        "contributors": null,
-        "coordinates": null,
-        "created_at": "Fri Aug 02 18:00:53 +0000 2013",
-        "display_text_range": [
-            0,
-            139
-        ],
-        "entities": {
-            "hashtags": [
-                {
-                    "indices": [
-                        0,
-                        6
-                    ],
-                    "text": "Video"
-                }
-            ],
-            "symbols": [],
-            "urls": [
-                {
-                    "display_url": "goo.gl/qqUlq9",
-                    "expanded_url": "http://goo.gl/qqUlq9",
-                    "indices": [
-                        101,
-                        123
-                    ],
-                    "url": "http://t.co/FaOxIU2G2H"
-                }
-            ],
-            "user_mentions": [
-                {
-                    "id": 586570880,
-                    "id_str": "586570880",
-                    "indices": [
-                        124,
-                        139
-                    ],
-                    "name": "HistoryAtState",
-                    "screen_name": "HistoryAtState"
-                }
-            ]
-        },
-        "favorite_count": 1,
-        "favorited": false,
-        "full_text": "#Video On June 1st, 1961, President John F. Kennedy talked to the staff of the U.S. Embassy in Paris http://t.co/FaOxIU2G2H @HistoryAtState",
-        "geo": null,
-        "id": 363358759080308740,
-        "id_str": "363358759080308737",
-        "in_reply_to_screen_name": null,
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "is_quote_status": false,
-        "lang": "en",
-        "place": null,
-        "possibly_sensitive": false,
-        "retweet_count": 3,
-        "retweeted": true,
-        "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
-        "truncated": false,
-        "user": {
-            "id": 72814599,
-            "id_str": "72814599"
-        }
-    },
+    "retweet_count": "0",
+    "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

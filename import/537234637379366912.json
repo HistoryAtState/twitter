@@ -1,31 +1,29 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Tue Nov 25 13:21:33 +0000 2014",
     "display_text_range": [
-        0,
-        132
+        "0",
+        "132"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    47,
-                    52
+                    "47",
+                    "52"
                 ],
                 "text": "FRUS"
             },
             {
                 "indices": [
-                    87,
-                    91
+                    "87",
+                    "91"
                 ],
                 "text": "WWI"
             },
             {
                 "indices": [
-                    116,
-                    132
+                    "116",
+                    "132"
                 ],
                 "text": "twitterstorians"
             }
@@ -36,35 +34,23 @@
                 "display_url": "go.usa.gov/dDpA",
                 "expanded_url": "http://go.usa.gov/dDpA",
                 "indices": [
-                    93,
-                    115
+                    "93",
+                    "115"
                 ],
                 "url": "http://t.co/VF9hFMxT1J"
             }
         ],
         "user_mentions": []
     },
-    "favorite_count": 5,
+    "favorite_count": "4",
     "favorited": false,
     "full_text": "The Office of the Historian released today new #FRUS volume on public diplomacy during #WWI. http://t.co/VF9hFMxT1J #twitterstorians",
-    "geo": null,
-    "id": 537234637379366910,
+    "id": "537234637379366912",
     "id_str": "537234637379366912",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 12,
+    "retweet_count": "8",
     "retweeted": false,
     "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

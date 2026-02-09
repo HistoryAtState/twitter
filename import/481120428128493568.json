@@ -1,24 +1,22 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Mon Jun 23 17:03:43 +0000 2014",
     "display_text_range": [
-        0,
-        131
+        "0",
+        "131"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    74,
-                    78
+                    "74",
+                    "78"
                 ],
                 "text": "WW1"
             },
             {
                 "indices": [
-                    92,
-                    108
+                    "92",
+                    "108"
                 ],
                 "text": "twitterstorians"
             }
@@ -29,46 +27,34 @@
                 "display_url": "ow.ly/ylVi9",
                 "expanded_url": "http://ow.ly/ylVi9",
                 "indices": [
-                    109,
-                    131
+                    "109",
+                    "131"
                 ],
                 "url": "http://t.co/Ae4alB9y8Y"
             }
         ],
         "user_mentions": [
             {
-                "id": 86029229,
+                "id": "86029229",
                 "id_str": "86029229",
                 "indices": [
-                    79,
-                    91
+                    "79",
+                    "91"
                 ],
                 "name": "U.S. Embassy Vienna",
                 "screen_name": "usembvienna"
             }
         ]
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "US Amb. to Austria acted decisively to alleviate suffering at outbreak of #WW1 @usembvienna #twitterstorians http://t.co/Ae4alB9y8Y",
-    "geo": null,
-    "id": 481120428128493570,
+    "id": "481120428128493568",
     "id_str": "481120428128493568",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 1,
+    "retweet_count": "1",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

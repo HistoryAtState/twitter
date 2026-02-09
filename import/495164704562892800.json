@@ -1,24 +1,22 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Fri Aug 01 11:10:39 +0000 2014",
     "display_text_range": [
-        0,
-        114
+        "0",
+        "114"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    95,
-                    104
+                    "95",
+                    "104"
                 ],
                 "text": "YoursWHP"
             },
             {
                 "indices": [
-                    105,
-                    114
+                    "105",
+                    "114"
                 ],
                 "text": "WW1Tweet"
             }
@@ -29,46 +27,34 @@
                 "display_url": "ow.ly/zPxnq",
                 "expanded_url": "http://ow.ly/zPxnq",
                 "indices": [
-                    72,
-                    94
+                    "72",
+                    "94"
                 ],
                 "url": "http://t.co/EgE2dGuLBh"
             }
         ],
         "user_mentions": [
             {
-                "id": 14856951,
+                "id": "14856951",
                 "id_str": "14856951",
                 "indices": [
-                    4,
-                    12
+                    "4",
+                    "12"
                 ],
                 "name": "U.S. Embassy London",
                 "screen_name": "USAinUK"
             }
         ]
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "Per @USAinUK Amb Page August 1914, “The Grand Smash is come.” Read more http://t.co/EgE2dGuLBh #YoursWHP #WW1Tweet",
-    "geo": null,
-    "id": 495164704562892800,
+    "id": "495164704562892800",
     "id_str": "495164704562892800",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 4,
+    "retweet_count": "4",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

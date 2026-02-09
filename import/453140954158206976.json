@@ -1,17 +1,15 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Mon Apr 07 12:03:17 +0000 2014",
     "display_text_range": [
-        0,
-        139
+        "0",
+        "139"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    5,
-                    21
+                    "5",
+                    "21"
                 ],
                 "text": "twitterstorians"
             }
@@ -22,56 +20,44 @@
                 "display_url": "ow.ly/uZXVK",
                 "expanded_url": "http://ow.ly/uZXVK",
                 "indices": [
-                    103,
-                    125
+                    "103",
+                    "125"
                 ],
                 "url": "http://t.co/F4UdngZinc"
             }
         ],
         "user_mentions": [
             {
-                "id": 89479750,
+                "id": "89479750",
                 "id_str": "89479750",
                 "indices": [
-                    89,
-                    97
+                    "89",
+                    "97"
                 ],
                 "name": "The Graduate Center",
                 "screen_name": "GC_CUNY"
             },
             {
-                "id": 563898271,
+                "id": "563898271",
                 "id_str": "563898271",
                 "indices": [
-                    126,
-                    139
+                    "126",
+                    "139"
                 ],
                 "name": "Career Plan GC",
                 "screen_name": "CareerPlanGC"
             }
         ]
     },
-    "favorite_count": 2,
+    "favorite_count": "2",
     "favorited": false,
     "full_text": "CUNY #twitterstorians: curious about USG history careers? Check out our April 9th 4:15pm @GC_CUNY talk http://t.co/F4UdngZinc @CareerPlanGC",
-    "geo": null,
-    "id": 453140954158206980,
+    "id": "453140954158206976",
     "id_str": "453140954158206976",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 7,
+    "retweet_count": "7",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

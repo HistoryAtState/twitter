@@ -1,24 +1,22 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Thu Nov 15 17:01:01 +0000 2012",
     "display_text_range": [
-        0,
-        126
+        "0",
+        "126"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    104,
-                    109
+                    "104",
+                    "109"
                 ],
                 "text": "FRUS"
             },
             {
                 "indices": [
-                    110,
-                    126
+                    "110",
+                    "126"
                 ],
                 "text": "twitterstorians"
             }
@@ -29,35 +27,23 @@
                 "display_url": "go.usa.gov/YJpm",
                 "expanded_url": "http://go.usa.gov/YJpm",
                 "indices": [
-                    83,
-                    103
+                    "83",
+                    "103"
                 ],
                 "url": "http://t.co/ySBnu9y5"
             }
         ],
         "user_mentions": []
     },
-    "favorite_count": 2,
+    "favorite_count": "2",
     "favorited": false,
     "full_text": "The Office of the Historian releases Foreign Relations, Western Europe, 1969-1972. http://t.co/ySBnu9y5 #FRUS #twitterstorians",
-    "geo": null,
-    "id": 269122846368858112,
+    "id": "269122846368858112",
     "id_str": "269122846368858112",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 9,
+    "retweet_count": "7",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

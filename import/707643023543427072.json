@@ -1,60 +1,58 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Wed Mar 09 19:03:38 +0000 2016",
     "display_text_range": [
-        0,
-        132
+        "0",
+        "132"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    86,
-                    91
+                    "86",
+                    "91"
                 ],
                 "text": "FRUS"
             },
             {
                 "indices": [
-                    92,
-                    108
+                    "92",
+                    "108"
                 ],
                 "text": "twitterstorians"
             }
         ],
         "media": [
             {
-                "display_url": "pic.twitter.com/bWq5kjnNDd",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/707643023543427072/photo/1",
-                "id": 707643022960238590,
+                "display_url": "pic.x.com/bWq5kjnNDd",
+                "expanded_url": "https://x.com/HistoryAtState/status/707643023543427072/photo/1",
+                "id": "707643022960238593",
                 "id_str": "707643022960238593",
                 "indices": [
-                    109,
-                    132
+                    "109",
+                    "132"
                 ],
                 "media_url": "http://pbs.twimg.com/media/CdINlINUIAEv_Za.png",
                 "media_url_https": "https://pbs.twimg.com/media/CdINlINUIAEv_Za.png",
                 "sizes": {
                     "large": {
-                        "h": 450,
+                        "h": "450",
                         "resize": "fit",
-                        "w": 1491
+                        "w": "1491"
                     },
                     "medium": {
-                        "h": 362,
+                        "h": "362",
                         "resize": "fit",
-                        "w": 1200
+                        "w": "1200"
                     },
                     "small": {
-                        "h": 205,
+                        "h": "205",
                         "resize": "fit",
-                        "w": 680
+                        "w": "680"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -67,8 +65,8 @@
                 "display_url": "history.state.gov/historicaldocu…",
                 "expanded_url": "https://history.state.gov/historicaldocuments/frus1944Quebec",
                 "indices": [
-                    62,
-                    85
+                    "62",
+                    "85"
                 ],
                 "url": "https://t.co/lsVldkP6Xu"
             }
@@ -78,37 +76,36 @@
     "extended_entities": {
         "media": [
             {
-                "display_url": "pic.twitter.com/bWq5kjnNDd",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/707643023543427072/photo/1",
-                "ext_alt_text": null,
-                "id": 707643022960238590,
+                "display_url": "pic.x.com/bWq5kjnNDd",
+                "expanded_url": "https://x.com/HistoryAtState/status/707643023543427072/photo/1",
+                "id": "707643022960238593",
                 "id_str": "707643022960238593",
                 "indices": [
-                    109,
-                    132
+                    "109",
+                    "132"
                 ],
                 "media_url": "http://pbs.twimg.com/media/CdINlINUIAEv_Za.png",
                 "media_url_https": "https://pbs.twimg.com/media/CdINlINUIAEv_Za.png",
                 "sizes": {
                     "large": {
-                        "h": 450,
+                        "h": "450",
                         "resize": "fit",
-                        "w": 1491
+                        "w": "1491"
                     },
                     "medium": {
-                        "h": 362,
+                        "h": "362",
                         "resize": "fit",
-                        "w": 1200
+                        "w": "1200"
                     },
                     "small": {
-                        "h": 205,
+                        "h": "205",
                         "resize": "fit",
-                        "w": 680
+                        "w": "680"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -116,27 +113,15 @@
             }
         ]
     },
-    "favorite_count": 1,
+    "favorite_count": "1",
     "favorited": false,
     "full_text": "Now available: Foreign Relations, Conference at Quebec, 1944: https://t.co/lsVldkP6Xu #FRUS #twitterstorians https://t.co/bWq5kjnNDd",
-    "geo": null,
-    "id": 707643023543427070,
+    "id": "707643023543427072",
     "id_str": "707643023543427072",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 2,
+    "retweet_count": "2",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

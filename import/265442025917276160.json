@@ -1,17 +1,15 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Mon Nov 05 13:14:45 +0000 2012",
     "display_text_range": [
-        0,
-        133
+        "0",
+        "133"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    66,
-                    71
+                    "66",
+                    "71"
                 ],
                 "text": "FRUS"
             }
@@ -22,46 +20,34 @@
                 "display_url": "on.nypl.org/OZPi9t",
                 "expanded_url": "http://on.nypl.org/OZPi9t",
                 "indices": [
-                    113,
-                    133
+                    "113",
+                    "133"
                 ],
                 "url": "http://t.co/oB9Y15XD"
             }
         ],
         "user_mentions": [
             {
-                "id": 17544803,
+                "id": "17544803",
                 "id_str": "17544803",
                 "indices": [
-                    107,
-                    112
+                    "107",
+                    "112"
                 ],
                 "name": "NY Public Library",
                 "screen_name": "nypl"
             }
         ]
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "What are non-traditional historical topics you can research using #FRUS?  Come find out Wednesday 11/7 4pm @NYPL http://t.co/oB9Y15XD",
-    "geo": null,
-    "id": 265442025917276160,
+    "id": "265442025917276160",
     "id_str": "265442025917276160",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 3,
+    "retweet_count": "3",
     "retweeted": false,
     "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

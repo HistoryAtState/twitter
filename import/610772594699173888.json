@@ -1,31 +1,29 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Tue Jun 16 11:35:08 +0000 2015",
     "display_text_range": [
-        0,
-        137
+        "0",
+        "137"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    5,
-                    15
+                    "5",
+                    "15"
                 ],
                 "text": "WorldExpo"
             },
             {
                 "indices": [
-                    21,
-                    27
+                    "21",
+                    "27"
                 ],
                 "text": "POTUS"
             },
             {
                 "indices": [
-                    59,
-                    63
+                    "59",
+                    "63"
                 ],
                 "text": "WW1"
             }
@@ -36,46 +34,34 @@
                 "display_url": "ow.ly/OmgGT",
                 "expanded_url": "http://ow.ly/OmgGT",
                 "indices": [
-                    115,
-                    137
+                    "115",
+                    "137"
                 ],
                 "url": "http://t.co/TUnlTXUwO3"
             }
         ],
         "user_mentions": [
             {
-                "id": 19981036,
-                "id_str": "19981036",
+                "id": "1931316663569244162",
+                "id_str": "1931316663569244162",
                 "indices": [
-                    44,
-                    58
+                    "44",
+                    "58"
                 ],
-                "name": "US Embassy Brussels",
+                "name": "POC hackerone",
                 "screen_name": "usembbrussels"
             }
         ]
     },
-    "favorite_count": 2,
+    "favorite_count": "2",
     "favorited": false,
     "full_text": "1958 #WorldExpo: fmr #POTUS Hoover recalled @USEmbBrussels #WW1 aid “pioneered methods of relief of great famines” http://t.co/TUnlTXUwO3",
-    "geo": null,
-    "id": 610772594699173890,
+    "id": "610772594699173888",
     "id_str": "610772594699173888",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 2,
+    "retweet_count": "2",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

@@ -1,17 +1,15 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Thu Jul 19 14:51:57 +0000 2012",
     "display_text_range": [
-        0,
-        109
+        "0",
+        "109"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    93,
-                    109
+                    "93",
+                    "109"
                 ],
                 "text": "twitterstorians"
             }
@@ -22,35 +20,23 @@
                 "display_url": "go.usa.gov/vzp",
                 "expanded_url": "http://go.usa.gov/vzp",
                 "indices": [
-                    72,
-                    92
+                    "72",
+                    "92"
                 ],
                 "url": "http://t.co/wzTwn0ZQ"
             }
         ],
         "user_mentions": []
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "Last chance to apply for the VSFS program! Applications close July 20.  http://t.co/wzTwn0ZQ #twitterstorians",
-    "geo": null,
-    "id": 225966211073204224,
+    "id": "225966211073204224",
     "id_str": "225966211073204224",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 1,
+    "retweet_count": "1",
     "retweeted": false,
     "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

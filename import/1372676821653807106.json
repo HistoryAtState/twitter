@@ -1,10 +1,8 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Thu Mar 18 22:30:32 +0000 2021",
     "display_text_range": [
-        0,
-        139
+        "0",
+        "139"
     ],
     "entities": {
         "hashtags": [],
@@ -12,74 +10,25 @@
         "urls": [],
         "user_mentions": [
             {
-                "id": 76945884,
+                "id": "76945884",
                 "id_str": "76945884",
                 "indices": [
-                    3,
-                    18
+                    "3",
+                    "18"
                 ],
                 "name": "U.S. Embassy Cairo",
                 "screen_name": "USEmbassyCairo"
             }
         ]
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "RT @USEmbassyCairo: Lafrance entered the U.S. Diplomatic Service as an Office Management Specialist in 1946, at a time when there were few…",
-    "geo": null,
-    "id": 1372676821653807100,
+    "id": "1372676821653807106",
     "id_str": "1372676821653807106",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
-    "retweet_count": 2,
-    "retweeted": true,
-    "retweeted_status": {
-        "contributors": null,
-        "coordinates": null,
-        "created_at": "Thu Mar 18 21:58:26 +0000 2021",
-        "display_text_range": [
-            0,
-            267
-        ],
-        "entities": {
-            "hashtags": [],
-            "symbols": [],
-            "urls": [],
-            "user_mentions": []
-        },
-        "favorite_count": 7,
-        "favorited": false,
-        "full_text": "Lafrance entered the U.S. Diplomatic Service as an Office Management Specialist in 1946, at a time when there were few women in the U.S. Department of State. Jeannette tragically died in Cairo 67 years ago today and we pause to remember and honor her life and legacy.",
-        "geo": null,
-        "id": 1372668746616168450,
-        "id_str": "1372668746616168462",
-        "in_reply_to_screen_name": "USEmbassyCairo",
-        "in_reply_to_status_id": 1372668744036679680,
-        "in_reply_to_status_id_str": "1372668744036679680",
-        "in_reply_to_user_id": 76945884,
-        "in_reply_to_user_id_str": "76945884",
-        "is_quote_status": false,
-        "lang": "en",
-        "place": null,
-        "retweet_count": 2,
-        "retweeted": true,
-        "source": "&lt;a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"&gt;Twitter for iPhone&lt;/a&gt;",
-        "truncated": false,
-        "user": {
-            "id": 76945884,
-            "id_str": "76945884"
-        }
-    },
+    "retweet_count": "0",
+    "retweeted": false,
     "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

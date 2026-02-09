@@ -1,17 +1,15 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Wed Dec 07 15:57:43 +0000 2016",
     "display_text_range": [
-        0,
-        119
+        "0",
+        "119"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    114,
-                    119
+                    "114",
+                    "119"
                 ],
                 "text": "FRUS"
             }
@@ -22,56 +20,44 @@
                 "display_url": "youtube.com/watch?v=CnmgcT…",
                 "expanded_url": "https://www.youtube.com/watch?v=CnmgcTUGtvg",
                 "indices": [
-                    90,
-                    113
+                    "90",
+                    "113"
                 ],
                 "url": "https://t.co/e7D6LSpiby"
             }
         ],
         "user_mentions": [
             {
-                "id": 9624742,
+                "id": "9624742",
                 "id_str": "9624742",
                 "indices": [
-                    1,
-                    11
+                    "1",
+                    "11"
                 ],
                 "name": "Department of State",
                 "screen_name": "StateDept"
             },
             {
-                "id": 1112380602,
+                "id": "1112380602",
                 "id_str": "1112380602",
                 "indices": [
-                    49,
-                    64
+                    "49",
+                    "64"
                 ],
                 "name": "Clements Center",
                 "screen_name": "ClementsCenter"
             }
         ]
     },
-    "favorite_count": 3,
+    "favorite_count": "3",
     "favorited": false,
     "full_text": ".@StateDept Historian Stephen P. Randolph speaks @ClementsCenter, Rise + Fall of Détente: https://t.co/e7D6LSpiby #FRUS",
-    "geo": null,
-    "id": 806528122430648320,
+    "id": "806528122430648321",
     "id_str": "806528122430648321",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "da",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 5,
+    "retweet_count": "5",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

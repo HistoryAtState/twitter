@@ -1,10 +1,8 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Fri Apr 12 18:38:58 +0000 2019",
     "display_text_range": [
-        0,
-        93
+        "0",
+        "93"
     ],
     "entities": {
         "hashtags": [],
@@ -14,94 +12,34 @@
                 "display_url": "intel.gov/argentina-decl…",
                 "expanded_url": "https://www.intel.gov/argentina-declassification-project",
                 "indices": [
-                    70,
-                    93
+                    "70",
+                    "93"
                 ],
                 "url": "https://t.co/DbLjmEi1XD"
             }
         ],
         "user_mentions": [
             {
-                "id": 118704347,
+                "id": "118704347",
                 "id_str": "118704347",
                 "indices": [
-                    3,
-                    19
+                    "3",
+                    "19"
                 ],
-                "name": "Embajadaeeuuarg",
+                "name": "Embajada de EEUU en Argentina",
                 "screen_name": "EmbajadaEEUUarg"
             }
         ]
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "RT @EmbajadaEEUUarg: Link de Acceso a los documentos desclasificados: https://t.co/DbLjmEi1XD",
-    "geo": null,
-    "id": 1116772714713419780,
+    "id": "1116772714713419777",
     "id_str": "1116772714713419777",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "es",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 18,
-    "retweeted": true,
-    "retweeted_status": {
-        "contributors": null,
-        "coordinates": null,
-        "created_at": "Fri Apr 12 14:50:50 +0000 2019",
-        "display_text_range": [
-            0,
-            72
-        ],
-        "entities": {
-            "hashtags": [],
-            "symbols": [],
-            "urls": [
-                {
-                    "display_url": "intel.gov/argentina-decl…",
-                    "expanded_url": "https://www.intel.gov/argentina-declassification-project",
-                    "indices": [
-                        49,
-                        72
-                    ],
-                    "url": "https://t.co/DbLjmEi1XD"
-                }
-            ],
-            "user_mentions": []
-        },
-        "favorite_count": 31,
-        "favorited": false,
-        "full_text": "Link de Acceso a los documentos desclasificados: https://t.co/DbLjmEi1XD",
-        "geo": null,
-        "id": 1116715303315169280,
-        "id_str": "1116715303315169280",
-        "in_reply_to_screen_name": "EmbajadaEEUUarg",
-        "in_reply_to_status_id": 1116715301469663230,
-        "in_reply_to_status_id_str": "1116715301469663232",
-        "in_reply_to_user_id": 118704347,
-        "in_reply_to_user_id_str": "118704347",
-        "is_quote_status": false,
-        "lang": "es",
-        "place": null,
-        "possibly_sensitive": false,
-        "retweet_count": 18,
-        "retweeted": true,
-        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-        "truncated": false,
-        "user": {
-            "id": 118704347,
-            "id_str": "118704347"
-        }
-    },
+    "retweet_count": "0",
+    "retweeted": false,
     "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

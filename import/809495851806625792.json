@@ -1,53 +1,51 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Thu Dec 15 20:30:25 +0000 2016",
     "display_text_range": [
-        0,
-        104
+        "0",
+        "128"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    50,
-                    57
+                    "50",
+                    "57"
                 ],
                 "text": "France"
             }
         ],
         "media": [
             {
-                "display_url": "pic.twitter.com/OfMoVPk2LB",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/809495851806625792/photo/1",
-                "id": 809495849357152260,
+                "display_url": "pic.x.com/OfMoVPk2LB",
+                "expanded_url": "https://x.com/HistoryAtState/status/809495851806625792/photo/1",
+                "id": "809495849357152256",
                 "id_str": "809495849357152256",
                 "indices": [
-                    105,
-                    128
+                    "105",
+                    "128"
                 ],
                 "media_url": "http://pbs.twimg.com/media/CzvoL6QWEAAHyOd.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/CzvoL6QWEAAHyOd.jpg",
                 "sizes": {
                     "large": {
-                        "h": 596,
+                        "h": "596",
                         "resize": "fit",
-                        "w": 438
+                        "w": "438"
                     },
                     "medium": {
-                        "h": 596,
+                        "h": "596",
                         "resize": "fit",
-                        "w": 438
+                        "w": "438"
                     },
                     "small": {
-                        "h": 596,
+                        "h": "596",
                         "resize": "fit",
-                        "w": 438
+                        "w": "438"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -60,8 +58,8 @@
                 "display_url": "go.usa.gov/x8WGT",
                 "expanded_url": "http://go.usa.gov/x8WGT",
                 "indices": [
-                    81,
-                    104
+                    "81",
+                    "104"
                 ],
                 "url": "https://t.co/LjIVHc5wzV"
             }
@@ -71,37 +69,36 @@
     "extended_entities": {
         "media": [
             {
-                "display_url": "pic.twitter.com/OfMoVPk2LB",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/809495851806625792/photo/1",
-                "ext_alt_text": null,
-                "id": 809495849357152260,
+                "display_url": "pic.x.com/OfMoVPk2LB",
+                "expanded_url": "https://x.com/HistoryAtState/status/809495851806625792/photo/1",
+                "id": "809495849357152256",
                 "id_str": "809495849357152256",
                 "indices": [
-                    105,
-                    128
+                    "105",
+                    "128"
                 ],
                 "media_url": "http://pbs.twimg.com/media/CzvoL6QWEAAHyOd.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/CzvoL6QWEAAHyOd.jpg",
                 "sizes": {
                     "large": {
-                        "h": 596,
+                        "h": "596",
                         "resize": "fit",
-                        "w": 438
+                        "w": "438"
                     },
                     "medium": {
-                        "h": 596,
+                        "h": "596",
                         "resize": "fit",
-                        "w": 438
+                        "w": "438"
                     },
                     "small": {
-                        "h": 596,
+                        "h": "596",
                         "resize": "fit",
-                        "w": 438
+                        "w": "438"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -109,27 +106,15 @@
             }
         ]
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "SecState John Marshall's failed negotiations with #France led to the XYZ Affair: https://t.co/LjIVHc5wzV https://t.co/OfMoVPk2LB",
-    "geo": null,
-    "id": 809495851806625790,
+    "id": "809495851806625792",
     "id_str": "809495851806625792",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 0,
+    "retweet_count": "0",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

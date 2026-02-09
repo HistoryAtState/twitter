@@ -1,60 +1,58 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Tue Mar 14 13:10:18 +0000 2017",
     "display_text_range": [
-        0,
-        138
+        "0",
+        "162"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    103,
-                    109
+                    "103",
+                    "109"
                 ],
                 "text": "PiDay"
             },
             {
                 "indices": [
-                    110,
-                    114
+                    "110",
+                    "114"
                 ],
                 "text": "Pie"
             }
         ],
         "media": [
             {
-                "display_url": "pic.twitter.com/xvSC9soJLT",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/841637613551390721/photo/1",
-                "id": 841637608488804350,
+                "display_url": "pic.x.com/xvSC9soJLT",
+                "expanded_url": "https://x.com/HistoryAtState/status/841637613551390721/photo/1",
+                "id": "841637608488804353",
                 "id_str": "841637608488804353",
                 "indices": [
-                    139,
-                    162
+                    "139",
+                    "162"
                 ],
                 "media_url": "http://pbs.twimg.com/media/C64Y8huVoAE5eXw.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/C64Y8huVoAE5eXw.jpg",
                 "sizes": {
                     "large": {
-                        "h": 1363,
+                        "h": "1363",
                         "resize": "fit",
-                        "w": 2048
+                        "w": "2048"
                     },
                     "medium": {
-                        "h": 799,
+                        "h": "799",
                         "resize": "fit",
-                        "w": 1200
+                        "w": "1200"
                     },
                     "small": {
-                        "h": 453,
+                        "h": "453",
                         "resize": "fit",
-                        "w": 680
+                        "w": "680"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -67,8 +65,8 @@
                 "display_url": "go.usa.gov/xXrQJ",
                 "expanded_url": "https://go.usa.gov/xXrQJ",
                 "indices": [
-                    115,
-                    138
+                    "115",
+                    "138"
                 ],
                 "url": "https://t.co/8zmgf4yUEO"
             }
@@ -78,37 +76,36 @@
     "extended_entities": {
         "media": [
             {
-                "display_url": "pic.twitter.com/xvSC9soJLT",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/841637613551390721/photo/1",
-                "ext_alt_text": null,
-                "id": 841637608488804350,
+                "display_url": "pic.x.com/xvSC9soJLT",
+                "expanded_url": "https://x.com/HistoryAtState/status/841637613551390721/photo/1",
+                "id": "841637608488804353",
                 "id_str": "841637608488804353",
                 "indices": [
-                    139,
-                    162
+                    "139",
+                    "162"
                 ],
                 "media_url": "http://pbs.twimg.com/media/C64Y8huVoAE5eXw.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/C64Y8huVoAE5eXw.jpg",
                 "sizes": {
                     "large": {
-                        "h": 1363,
+                        "h": "1363",
                         "resize": "fit",
-                        "w": 2048
+                        "w": "2048"
                     },
                     "medium": {
-                        "h": 799,
+                        "h": "799",
                         "resize": "fit",
-                        "w": 1200
+                        "w": "1200"
                     },
                     "small": {
-                        "h": 453,
+                        "h": "453",
                         "resize": "fit",
-                        "w": 680
+                        "w": "680"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -116,27 +113,15 @@
             }
         ]
     },
-    "favorite_count": 1,
+    "favorite_count": "1",
     "favorited": false,
     "full_text": "This July 1979 memo from Kreisberg to Lake re: limited resources discussed the PL-480 slice of the pie #PiDay #Pie https://t.co/8zmgf4yUEO https://t.co/xvSC9soJLT",
-    "geo": null,
-    "id": 841637613551390720,
+    "id": "841637613551390721",
     "id_str": "841637613551390721",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 2,
+    "retweet_count": "2",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

@@ -1,60 +1,58 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Tue Dec 17 13:45:04 +0000 2019",
     "display_text_range": [
-        0,
-        221
+        "0",
+        "245"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    49,
-                    65
+                    "49",
+                    "65"
                 ],
                 "text": "7PhotosOfMyLife"
             },
             {
                 "indices": [
-                    205,
-                    221
+                    "205",
+                    "221"
                 ],
                 "text": "Twitterstorians"
             }
         ],
         "media": [
             {
-                "display_url": "pic.twitter.com/Y3gb6dqK3A",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1206933332732321792/photo/1",
-                "id": 1206933330702348290,
+                "display_url": "pic.x.com/Y3gb6dqK3A",
+                "expanded_url": "https://x.com/HistoryAtState/status/1206933332732321792/photo/1",
+                "id": "1206933330702348289",
                 "id_str": "1206933330702348289",
                 "indices": [
-                    222,
-                    245
+                    "222",
+                    "245"
                 ],
                 "media_url": "http://pbs.twimg.com/media/EL_jeDwXsAEsnXM.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/EL_jeDwXsAEsnXM.jpg",
                 "sizes": {
                     "large": {
-                        "h": 480,
+                        "h": "480",
                         "resize": "fit",
-                        "w": 640
+                        "w": "640"
                     },
                     "medium": {
-                        "h": 480,
+                        "h": "480",
                         "resize": "fit",
-                        "w": 640
+                        "w": "640"
                     },
                     "small": {
-                        "h": 480,
+                        "h": "480",
                         "resize": "fit",
-                        "w": 640
+                        "w": "640"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -65,61 +63,50 @@
         "urls": [],
         "user_mentions": [
             {
-                "id": 486867266,
+                "id": "486867266",
                 "id_str": "486867266",
                 "indices": [
-                    90,
-                    105
+                    "90",
+                    "105"
                 ],
                 "name": "SHFGHistorians",
                 "screen_name": "SHFGHistorians"
-            },
-            {
-                "id": 958044239576948740,
-                "id_str": "958044239576948736",
-                "indices": [
-                    193,
-                    204
-                ],
-                "name": "Foreign Service Institute",
-                "screen_name": "FSIatState"
             }
         ]
     },
     "extended_entities": {
         "media": [
             {
-                "display_url": "pic.twitter.com/Y3gb6dqK3A",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1206933332732321792/photo/1",
-                "ext_alt_text": "Three white shelves containing various FRUS volumes",
-                "id": 1206933330702348290,
+                "display_url": "pic.x.com/Y3gb6dqK3A",
+                "expanded_url": "https://x.com/HistoryAtState/status/1206933332732321792/photo/1",
+                "id": "1206933330702348289",
                 "id_str": "1206933330702348289",
                 "indices": [
-                    222,
-                    245
+                    "222",
+                    "245"
                 ],
                 "media_url": "http://pbs.twimg.com/media/EL_jeDwXsAEsnXM.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/EL_jeDwXsAEsnXM.jpg",
                 "sizes": {
                     "large": {
-                        "h": 480,
+                        "h": "480",
                         "resize": "fit",
-                        "w": 640
+                        "w": "640"
                     },
                     "medium": {
-                        "h": 480,
+                        "h": "480",
                         "resize": "fit",
-                        "w": 640
+                        "w": "640"
                     },
                     "small": {
-                        "h": 480,
+                        "h": "480",
                         "resize": "fit",
-                        "w": 640
+                        "w": "640"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -127,27 +114,15 @@
             }
         ]
     },
-    "favorite_count": 12,
+    "favorite_count": "6",
     "favorited": false,
     "full_text": "The Office of the Historian is joining in on the #7PhotosOfMyLife Challenge. Thank you to @SHFGHistorians for the nod! Today is Day 1 of 7. Rules: No people or explanations. Today we challenge @FSIatState #Twitterstorians https://t.co/Y3gb6dqK3A",
-    "geo": null,
-    "id": 1206933332732321790,
+    "id": "1206933332732321792",
     "id_str": "1206933332732321792",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 1,
+    "retweet_count": "1",
     "retweeted": false,
     "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

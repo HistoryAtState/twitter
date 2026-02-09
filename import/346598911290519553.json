@@ -1,10 +1,8 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Mon Jun 17 12:03:14 +0000 2013",
     "display_text_range": [
-        0,
-        129
+        "0",
+        "129"
     ],
     "entities": {
         "hashtags": [],
@@ -14,46 +12,34 @@
                 "display_url": "go.usa.gov/bc8T",
                 "expanded_url": "http://go.usa.gov/bc8T",
                 "indices": [
-                    107,
-                    129
+                    "107",
+                    "129"
                 ],
                 "url": "http://t.co/lmWNq7Slvu"
             }
         ],
         "user_mentions": [
             {
-                "id": 9624742,
+                "id": "9624742",
                 "id_str": "9624742",
                 "indices": [
-                    48,
-                    58
+                    "48",
+                    "58"
                 ],
                 "name": "Department of State",
                 "screen_name": "StateDept"
             }
         ]
     },
-    "favorite_count": 1,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "The experience of World War I demonstrated that @StateDept needed to undergo major changes &amp;amp; modernize http://t.co/lmWNq7Slvu",
-    "geo": null,
-    "id": 346598911290519550,
+    "id": "346598911290519553",
     "id_str": "346598911290519553",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 3,
+    "retweet_count": "2",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

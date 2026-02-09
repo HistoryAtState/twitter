@@ -1,10 +1,8 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Wed Jul 05 22:33:16 +0000 2017",
     "display_text_range": [
-        0,
-        140
+        "0",
+        "140"
     ],
     "entities": {
         "hashtags": [],
@@ -12,188 +10,35 @@
         "urls": [],
         "user_mentions": [
             {
-                "id": 1112380602,
+                "id": "1112380602",
                 "id_str": "1112380602",
                 "indices": [
-                    3,
-                    18
+                    "3",
+                    "18"
                 ],
                 "name": "Clements Center",
                 "screen_name": "ClementsCenter"
             },
             {
-                "id": 169927909,
+                "id": "169927909",
                 "id_str": "169927909",
                 "indices": [
-                    101,
-                    113
+                    "101",
+                    "113"
                 ],
                 "name": "Virtual Student Federal Service",
                 "screen_name": "VSFSatState"
             }
         ]
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "RT @ClementsCenter: UT Students: interested in interning next semester while still in ATX? Check out @VSFSatState virtual internship. https…",
-    "geo": null,
-    "id": 882729118076481540,
+    "id": "882729118076481536",
     "id_str": "882729118076481536",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": true,
     "lang": "en",
-    "place": null,
-    "quoted_status_id": 881920784398262270,
-    "quoted_status_id_str": "881920784398262274",
-    "quoted_status_permalink": {
-        "display": "twitter.com/HistoryAtState…",
-        "expanded": "https://twitter.com/HistoryAtState/status/881920784398262274",
-        "url": "https://t.co/HsxGOlmf20"
-    },
-    "retweet_count": 1,
-    "retweeted": true,
-    "retweeted_status": {
-        "contributors": null,
-        "coordinates": null,
-        "created_at": "Wed Jul 05 15:41:27 +0000 2017",
-        "display_text_range": [
-            0,
-            137
-        ],
-        "entities": {
-            "hashtags": [],
-            "symbols": [],
-            "urls": [
-                {
-                    "display_url": "vsfs.state.gov",
-                    "expanded_url": "https://vsfs.state.gov",
-                    "indices": [
-                        114,
-                        137
-                    ],
-                    "url": "https://t.co/TMnbYKjfxj"
-                },
-                {
-                    "display_url": "twitter.com/HistoryAtState…",
-                    "expanded_url": "https://twitter.com/HistoryAtState/status/881920784398262274",
-                    "indices": [
-                        138,
-                        161
-                    ],
-                    "url": "https://t.co/HsxGOlmf20"
-                }
-            ],
-            "user_mentions": [
-                {
-                    "id": 169927909,
-                    "id_str": "169927909",
-                    "indices": [
-                        81,
-                        93
-                    ],
-                    "name": "Virtual Student Federal Service",
-                    "screen_name": "VSFSatState"
-                }
-            ]
-        },
-        "favorite_count": 3,
-        "favorited": false,
-        "full_text": "UT Students: interested in interning next semester while still in ATX? Check out @VSFSatState virtual internship. https://t.co/TMnbYKjfxj https://t.co/HsxGOlmf20",
-        "geo": null,
-        "id": 882625480750497790,
-        "id_str": "882625480750497793",
-        "in_reply_to_screen_name": null,
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "is_quote_status": true,
-        "lang": "en",
-        "place": null,
-        "possibly_sensitive": false,
-        "quoted_status": {
-            "contributors": null,
-            "coordinates": null,
-            "created_at": "Mon Jul 03 17:01:14 +0000 2017",
-            "display_text_range": [
-                0,
-                119
-            ],
-            "entities": {
-                "hashtags": [],
-                "symbols": [],
-                "urls": [
-                    {
-                        "display_url": "vsfs.state.gov/projects/view/…",
-                        "expanded_url": "https://vsfs.state.gov/projects/view/734",
-                        "indices": [
-                            83,
-                            106
-                        ],
-                        "url": "https://t.co/jkXrakeUf6"
-                    }
-                ],
-                "user_mentions": [
-                    {
-                        "id": 169927909,
-                        "id_str": "169927909",
-                        "indices": [
-                            107,
-                            119
-                        ],
-                        "name": "Virtual Student Federal Service",
-                        "screen_name": "VSFSatState"
-                    }
-                ]
-            },
-            "favorite_count": 14,
-            "favorited": false,
-            "full_text": "We need history students skilled at research for a timeline of State Dept history: https://t.co/jkXrakeUf6 @VSFSAtState",
-            "geo": null,
-            "id": 881920784398262270,
-            "id_str": "881920784398262274",
-            "in_reply_to_screen_name": null,
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "is_quote_status": false,
-            "lang": "en",
-            "place": null,
-            "possibly_sensitive": false,
-            "retweet_count": 23,
-            "retweeted": false,
-            "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-            "truncated": false,
-            "user": {
-                "id": 586570880,
-                "id_str": "586570880"
-            }
-        },
-        "quoted_status_id": 881920784398262270,
-        "quoted_status_id_str": "881920784398262274",
-        "quoted_status_permalink": {
-            "display": "twitter.com/HistoryAtState…",
-            "expanded": "https://twitter.com/HistoryAtState/status/881920784398262274",
-            "url": "https://t.co/HsxGOlmf20"
-        },
-        "retweet_count": 1,
-        "retweeted": true,
-        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-        "truncated": false,
-        "user": {
-            "id": 1112380602,
-            "id_str": "1112380602"
-        }
-    },
+    "retweet_count": "0",
+    "retweeted": false,
     "source": "&lt;a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"&gt;Twitter for iPad&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

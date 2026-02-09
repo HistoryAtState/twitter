@@ -1,24 +1,22 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Thu Apr 28 13:00:51 +0000 2016",
     "display_text_range": [
-        0,
-        110
+        "0",
+        "110"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    88,
-                    104
+                    "88",
+                    "104"
                 ],
                 "text": "twitterstorians"
             },
             {
                 "indices": [
-                    105,
-                    110
+                    "105",
+                    "110"
                 ],
                 "text": "FRUS"
             }
@@ -29,35 +27,23 @@
                 "display_url": "history.state.gov/about-the-beta",
                 "expanded_url": "https://history.state.gov/about-the-beta",
                 "indices": [
-                    64,
-                    87
+                    "64",
+                    "87"
                 ],
                 "url": "https://t.co/xLWitImR8G"
             }
         ],
         "user_mentions": []
     },
-    "favorite_count": 4,
+    "favorite_count": "4",
     "favorited": false,
     "full_text": "We are pleased to announce the beta release of our new website! https://t.co/xLWitImR8G #twitterstorians #FRUS",
-    "geo": null,
-    "id": 725671119982858240,
+    "id": "725671119982858240",
     "id_str": "725671119982858240",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 9,
+    "retweet_count": "6",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

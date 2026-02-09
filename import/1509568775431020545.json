@@ -1,45 +1,43 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Thu Mar 31 16:30:17 +0000 2022",
     "display_text_range": [
-        0,
-        265
+        "0",
+        "289"
     ],
     "entities": {
         "hashtags": [],
         "media": [
             {
-                "display_url": "pic.twitter.com/UuyJrjOElG",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1509568775431020545/photo/1",
-                "id": 1509568773346500610,
+                "display_url": "pic.x.com/UuyJrjOElG",
+                "expanded_url": "https://x.com/HistoryAtState/status/1509568775431020545/photo/1",
+                "id": "1509568773346500608",
                 "id_str": "1509568773346500608",
                 "indices": [
-                    266,
-                    289
+                    "266",
+                    "289"
                 ],
                 "media_url": "http://pbs.twimg.com/media/FPMQzSNXIAAPHS2.png",
                 "media_url_https": "https://pbs.twimg.com/media/FPMQzSNXIAAPHS2.png",
                 "sizes": {
                     "large": {
-                        "h": 1186,
+                        "h": "1186",
                         "resize": "fit",
-                        "w": 806
+                        "w": "806"
                     },
                     "medium": {
-                        "h": 1186,
+                        "h": "1186",
                         "resize": "fit",
-                        "w": 806
+                        "w": "806"
                     },
                     "small": {
-                        "h": 680,
+                        "h": "680",
                         "resize": "fit",
-                        "w": 462
+                        "w": "462"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -52,8 +50,8 @@
                 "display_url": "ow.ly/2lPK50IwEH8",
                 "expanded_url": "http://ow.ly/2lPK50IwEH8",
                 "indices": [
-                    242,
-                    265
+                    "242",
+                    "265"
                 ],
                 "url": "https://t.co/qAC9LpREyO"
             }
@@ -63,37 +61,36 @@
     "extended_entities": {
         "media": [
             {
-                "display_url": "pic.twitter.com/UuyJrjOElG",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1509568775431020545/photo/1",
-                "ext_alt_text": "Screenshot of “14. Memorandum From Madeleine Albright of the National Security Council Staff to the President’s Assistant for National Security Affairs (Brzezinski),” dated April 12, 1978.",
-                "id": 1509568773346500610,
+                "display_url": "pic.x.com/UuyJrjOElG",
+                "expanded_url": "https://x.com/HistoryAtState/status/1509568775431020545/photo/1",
+                "id": "1509568773346500608",
                 "id_str": "1509568773346500608",
                 "indices": [
-                    266,
-                    289
+                    "266",
+                    "289"
                 ],
                 "media_url": "http://pbs.twimg.com/media/FPMQzSNXIAAPHS2.png",
                 "media_url_https": "https://pbs.twimg.com/media/FPMQzSNXIAAPHS2.png",
                 "sizes": {
                     "large": {
-                        "h": 1186,
+                        "h": "1186",
                         "resize": "fit",
-                        "w": 806
+                        "w": "806"
                     },
                     "medium": {
-                        "h": 1186,
+                        "h": "1186",
                         "resize": "fit",
-                        "w": 806
+                        "w": "806"
                     },
                     "small": {
-                        "h": 680,
+                        "h": "680",
                         "resize": "fit",
-                        "w": 462
+                        "w": "462"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -101,27 +98,15 @@
             }
         ]
     },
-    "favorite_count": 1,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "In 1978, Albright joined President Carter’s National Security Council staff. Soon after, she sent this memo on establishing relationships with members of Congress to National Security Adviser Zbigniew Brzezinski, her former Columbia advisor:\nhttps://t.co/qAC9LpREyO https://t.co/UuyJrjOElG",
-    "geo": null,
-    "id": 1509568775431020540,
+    "id": "1509568775431020545",
     "id_str": "1509568775431020545",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 1,
+    "retweet_count": "0",
     "retweeted": false,
     "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

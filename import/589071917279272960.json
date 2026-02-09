@@ -1,184 +1,34 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Fri Apr 17 14:24:24 +0000 2015",
     "display_text_range": [
-        0,
-        144
+        "0",
+        "144"
     ],
     "entities": {
-        "hashtags": [
-            {
-                "indices": [
-                    134,
-                    144
-                ],
-                "text": "icedd2015"
-            }
-        ],
+        "hashtags": [],
         "symbols": [],
-        "urls": [
-            {
-                "display_url": "prezi.com/e7x-uejzyijy/v…",
-                "expanded_url": "https://prezi.com/e7x-uejzyijy/visual-representations/",
-                "indices": [
-                    110,
-                    133
-                ],
-                "url": "https://t.co/uO48flugkf"
-            }
-        ],
+        "urls": [],
         "user_mentions": [
             {
-                "id": 3131310616,
+                "id": "3131310616",
                 "id_str": "3131310616",
                 "indices": [
-                    3,
-                    13
+                    "3",
+                    "13"
                 ],
                 "name": "ICEDD",
                 "screen_name": "icedd_org"
-            },
-            {
-                "id": 1563657673,
-                "id_str": "1563657673",
-                "indices": [
-                    60,
-                    74
-                ],
-                "name": "Thomas Faith",
-                "screen_name": "faithtomfaith"
-            },
-            {
-                "id": 3550661,
-                "id_str": "3550661",
-                "indices": [
-                    81,
-                    88
-                ],
-                "name": "Joe Wicentowski 魏思達",
-                "screen_name": "joewiz"
-            },
-            {
-                "id": 586570880,
-                "id_str": "586570880",
-                "indices": [
-                    94,
-                    109
-                ],
-                "name": "HistoryAtState",
-                "screen_name": "HistoryAtState"
             }
         ]
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "RT @icedd_org: Slides on data visualization workshop let by @faithtomfaith &amp;amp; @joewiz from @HistoryAtState https://t.co/uO48flugkf #icedd2015",
-    "geo": null,
-    "id": 589071917279272960,
+    "id": "589071917279272960",
     "id_str": "589071917279272960",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
-    "possibly_sensitive": false,
-    "retweet_count": 2,
-    "retweeted": true,
-    "retweeted_status": {
-        "contributors": null,
-        "coordinates": null,
-        "created_at": "Fri Apr 17 13:51:20 +0000 2015",
-        "display_text_range": [
-            0,
-            129
-        ],
-        "entities": {
-            "hashtags": [
-                {
-                    "indices": [
-                        119,
-                        129
-                    ],
-                    "text": "icedd2015"
-                }
-            ],
-            "symbols": [],
-            "urls": [
-                {
-                    "display_url": "prezi.com/e7x-uejzyijy/v…",
-                    "expanded_url": "https://prezi.com/e7x-uejzyijy/visual-representations/",
-                    "indices": [
-                        95,
-                        118
-                    ],
-                    "url": "https://t.co/uO48flugkf"
-                }
-            ],
-            "user_mentions": [
-                {
-                    "id": 1563657673,
-                    "id_str": "1563657673",
-                    "indices": [
-                        45,
-                        59
-                    ],
-                    "name": "Thomas Faith",
-                    "screen_name": "faithtomfaith"
-                },
-                {
-                    "id": 3550661,
-                    "id_str": "3550661",
-                    "indices": [
-                        66,
-                        73
-                    ],
-                    "name": "Joe Wicentowski 魏思達",
-                    "screen_name": "joewiz"
-                },
-                {
-                    "id": 586570880,
-                    "id_str": "586570880",
-                    "indices": [
-                        79,
-                        94
-                    ],
-                    "name": "HistoryAtState",
-                    "screen_name": "HistoryAtState"
-                }
-            ]
-        },
-        "favorite_count": 1,
-        "favorited": false,
-        "full_text": "Slides on data visualization workshop let by @faithtomfaith &amp;amp; @joewiz from @HistoryAtState https://t.co/uO48flugkf #icedd2015",
-        "geo": null,
-        "id": 589063596660936700,
-        "id_str": "589063596660936706",
-        "in_reply_to_screen_name": null,
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "is_quote_status": false,
-        "lang": "en",
-        "place": null,
-        "possibly_sensitive": false,
-        "retweet_count": 2,
-        "retweeted": true,
-        "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
-        "truncated": false,
-        "user": {
-            "id": 3131310616,
-            "id_str": "3131310616"
-        }
-    },
+    "retweet_count": "0",
+    "retweeted": false,
     "source": "&lt;a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"&gt;Twitter for iPad&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

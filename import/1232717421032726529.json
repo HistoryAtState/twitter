@@ -1,24 +1,22 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Wed Feb 26 17:21:50 +0000 2020",
     "display_text_range": [
-        0,
-        140
+        "0",
+        "140"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    16,
-                    25
+                    "16",
+                    "25"
                 ],
                 "text": "NavyHill"
             },
             {
                 "indices": [
-                    67,
-                    71
+                    "67",
+                    "71"
                 ],
                 "text": "FSI"
             }
@@ -27,224 +25,25 @@
         "urls": [],
         "user_mentions": [
             {
-                "id": 958044239576948740,
-                "id_str": "958044239576948736",
+                "id": "-1",
+                "id_str": "-1",
                 "indices": [
-                    3,
-                    14
+                    "3",
+                    "14"
                 ],
-                "name": "Foreign Service Institute",
+                "name": "",
                 "screen_name": "FSIatState"
             }
         ]
     },
-    "favorite_count": 0,
-    "favorited": true,
+    "favorite_count": "0",
+    "favorited": false,
     "full_text": "RT @FSIatState: #NavyHill, located in Washington, D.C. and home to #FSI’s Office of the Historian, has historic origins as a former observa…",
-    "geo": null,
-    "id": 1232717421032726530,
+    "id": "1232717421032726529",
     "id_str": "1232717421032726529",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
-    "retweet_count": 6,
-    "retweeted": true,
-    "retweeted_status": {
-        "contributors": null,
-        "coordinates": null,
-        "created_at": "Wed Feb 26 14:37:47 +0000 2020",
-        "display_text_range": [
-            0,
-            287
-        ],
-        "entities": {
-            "hashtags": [
-                {
-                    "indices": [
-                        0,
-                        9
-                    ],
-                    "text": "NavyHill"
-                },
-                {
-                    "indices": [
-                        51,
-                        55
-                    ],
-                    "text": "FSI"
-                },
-                {
-                    "indices": [
-                        252,
-                        256
-                    ],
-                    "text": "FSI"
-                }
-            ],
-            "media": [
-                {
-                    "display_url": "pic.twitter.com/gp27J90j3r",
-                    "expanded_url": "https://twitter.com/FSIatState/status/1232676135080808450/photo/1",
-                    "id": 1232676118483865600,
-                    "id_str": "1232676118483865607",
-                    "indices": [
-                        288,
-                        311
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/ERtYZhVWkAcIdRZ.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/ERtYZhVWkAcIdRZ.jpg",
-                    "sizes": {
-                        "large": {
-                            "h": 1581,
-                            "resize": "fit",
-                            "w": 2048
-                        },
-                        "medium": {
-                            "h": 926,
-                            "resize": "fit",
-                            "w": 1200
-                        },
-                        "small": {
-                            "h": 525,
-                            "resize": "fit",
-                            "w": 680
-                        },
-                        "thumb": {
-                            "h": 150,
-                            "resize": "crop",
-                            "w": 150
-                        }
-                    },
-                    "type": "photo",
-                    "url": "https://t.co/gp27J90j3r"
-                }
-            ],
-            "symbols": [],
-            "urls": [],
-            "user_mentions": [
-                {
-                    "id": 586570880,
-                    "id_str": "586570880",
-                    "indices": [
-                        272,
-                        287
-                    ],
-                    "name": "HistoryAtState",
-                    "screen_name": "HistoryAtState"
-                }
-            ]
-        },
-        "extended_entities": {
-            "media": [
-                {
-                    "display_url": "pic.twitter.com/gp27J90j3r",
-                    "expanded_url": "https://twitter.com/FSIatState/status/1232676135080808450/photo/1",
-                    "ext_alt_text": null,
-                    "id": 1232676118483865600,
-                    "id_str": "1232676118483865607",
-                    "indices": [
-                        288,
-                        311
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/ERtYZhVWkAcIdRZ.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/ERtYZhVWkAcIdRZ.jpg",
-                    "sizes": {
-                        "large": {
-                            "h": 1581,
-                            "resize": "fit",
-                            "w": 2048
-                        },
-                        "medium": {
-                            "h": 926,
-                            "resize": "fit",
-                            "w": 1200
-                        },
-                        "small": {
-                            "h": 525,
-                            "resize": "fit",
-                            "w": 680
-                        },
-                        "thumb": {
-                            "h": 150,
-                            "resize": "crop",
-                            "w": 150
-                        }
-                    },
-                    "type": "photo",
-                    "url": "https://t.co/gp27J90j3r"
-                },
-                {
-                    "display_url": "pic.twitter.com/gp27J90j3r",
-                    "expanded_url": "https://twitter.com/FSIatState/status/1232676135080808450/photo/1",
-                    "ext_alt_text": null,
-                    "id": 1232676118500642820,
-                    "id_str": "1232676118500642818",
-                    "indices": [
-                        288,
-                        311
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/ERtYZhZWkAIbqiG.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/ERtYZhZWkAIbqiG.jpg",
-                    "sizes": {
-                        "large": {
-                            "h": 1341,
-                            "resize": "fit",
-                            "w": 2048
-                        },
-                        "medium": {
-                            "h": 786,
-                            "resize": "fit",
-                            "w": 1200
-                        },
-                        "small": {
-                            "h": 445,
-                            "resize": "fit",
-                            "w": 680
-                        },
-                        "thumb": {
-                            "h": 150,
-                            "resize": "crop",
-                            "w": 150
-                        }
-                    },
-                    "type": "photo",
-                    "url": "https://t.co/gp27J90j3r"
-                }
-            ]
-        },
-        "favorite_count": 11,
-        "favorited": true,
-        "full_text": "#NavyHill, located in Washington, D.C. and home to #FSI’s Office of the Historian, has historic origins as a former observatory in the 1800s &amp;amp; a Navy hospital in the 1900s. Here, Chief Historian Adam shares this unique history to U/S Bulatao &amp;amp; #FSI Dep Dir Noyes. @HistoryAtState https://t.co/gp27J90j3r",
-        "geo": null,
-        "id": 1232676135080808450,
-        "id_str": "1232676135080808450",
-        "in_reply_to_screen_name": null,
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "is_quote_status": false,
-        "lang": "en",
-        "place": null,
-        "possibly_sensitive": false,
-        "retweet_count": 6,
-        "retweeted": true,
-        "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
-        "truncated": false,
-        "user": {
-            "id": 958044239576948740,
-            "id_str": "958044239576948736"
-        }
-    },
+    "retweet_count": "0",
+    "retweeted": false,
     "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

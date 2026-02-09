@@ -1,81 +1,79 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Fri Mar 17 19:38:54 +0000 2017",
     "display_text_range": [
-        0,
-        137
+        "0",
+        "161"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    0,
-                    10
+                    "0",
+                    "10"
                 ],
                 "text": "Kissinger"
             },
             {
                 "indices": [
-                    19,
-                    25
+                    "19",
+                    "25"
                 ],
                 "text": "Nixon"
             },
             {
                 "indices": [
-                    29,
-                    38
+                    "29",
+                    "38"
                 ],
                 "text": "shamrock"
             },
             {
                 "indices": [
-                    74,
-                    79
+                    "74",
+                    "79"
                 ],
                 "text": "FRUS"
             },
             {
                 "indices": [
-                    109,
-                    123
+                    "109",
+                    "123"
                 ],
                 "text": "StPatricksDay"
             }
         ],
         "media": [
             {
-                "display_url": "pic.twitter.com/VY4kduifQl",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/842822570198126592/photo/1",
-                "id": 842822566532304900,
+                "display_url": "pic.x.com/VY4kduifQl",
+                "expanded_url": "https://x.com/HistoryAtState/status/842822570198126592/photo/1",
+                "id": "842822566532304897",
                 "id_str": "842822566532304897",
                 "indices": [
-                    138,
-                    161
+                    "138",
+                    "161"
                 ],
                 "media_url": "http://pbs.twimg.com/media/C7JOqKbXUAEKNK_.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/C7JOqKbXUAEKNK_.jpg",
                 "sizes": {
                     "large": {
-                        "h": 600,
+                        "h": "600",
                         "resize": "fit",
-                        "w": 400
+                        "w": "400"
                     },
                     "medium": {
-                        "h": 600,
+                        "h": "600",
                         "resize": "fit",
-                        "w": 400
+                        "w": "400"
                     },
                     "small": {
-                        "h": 600,
+                        "h": "600",
                         "resize": "fit",
-                        "w": 400
+                        "w": "400"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -88,39 +86,39 @@
                 "display_url": "go.usa.gov/xXBDV",
                 "expanded_url": "https://go.usa.gov/xXBDV",
                 "indices": [
-                    50,
-                    73
+                    "50",
+                    "73"
                 ],
                 "url": "https://t.co/djWHC9MOVG"
             }
         ],
         "user_mentions": [
             {
-                "id": 88956373,
+                "id": "88956373",
                 "id_str": "88956373",
                 "indices": [
-                    80,
-                    96
+                    "80",
+                    "96"
                 ],
                 "name": "U.S. Embassy Dublin",
                 "screen_name": "USEmbassyDublin"
             },
             {
-                "id": 9624742,
+                "id": "9624742",
                 "id_str": "9624742",
                 "indices": [
-                    97,
-                    107
+                    "97",
+                    "107"
                 ],
                 "name": "Department of State",
                 "screen_name": "StateDept"
             },
             {
-                "id": 4276158575,
+                "id": "4276158575",
                 "id_str": "4276158575",
                 "indices": [
-                    124,
-                    137
+                    "124",
+                    "137"
                 ],
                 "name": "RichardNixonLibrary",
                 "screen_name": "NixonLibrary"
@@ -130,37 +128,36 @@
     "extended_entities": {
         "media": [
             {
-                "display_url": "pic.twitter.com/VY4kduifQl",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/842822570198126592/photo/1",
-                "ext_alt_text": null,
-                "id": 842822566532304900,
+                "display_url": "pic.x.com/VY4kduifQl",
+                "expanded_url": "https://x.com/HistoryAtState/status/842822570198126592/photo/1",
+                "id": "842822566532304897",
                 "id_str": "842822566532304897",
                 "indices": [
-                    138,
-                    161
+                    "138",
+                    "161"
                 ],
                 "media_url": "http://pbs.twimg.com/media/C7JOqKbXUAEKNK_.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/C7JOqKbXUAEKNK_.jpg",
                 "sizes": {
                     "large": {
-                        "h": 600,
+                        "h": "600",
                         "resize": "fit",
-                        "w": 400
+                        "w": "400"
                     },
                     "medium": {
-                        "h": 600,
+                        "h": "600",
                         "resize": "fit",
-                        "w": 400
+                        "w": "400"
                     },
                     "small": {
-                        "h": 600,
+                        "h": "600",
                         "resize": "fit",
-                        "w": 400
+                        "w": "400"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -168,27 +165,15 @@
             }
         ]
     },
-    "favorite_count": 3,
+    "favorite_count": "3",
     "favorited": false,
     "full_text": "#Kissinger advises #Nixon on #shamrock reception: https://t.co/djWHC9MOVG #FRUS @USEmbassyDublin @StateDept  #StPatricksDay @NixonLibrary https://t.co/VY4kduifQl",
-    "geo": null,
-    "id": 842822570198126590,
+    "id": "842822570198126592",
     "id_str": "842822570198126592",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 4,
+    "retweet_count": "4",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

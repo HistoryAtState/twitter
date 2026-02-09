@@ -1,17 +1,15 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Tue Feb 09 23:30:37 +0000 2021",
     "display_text_range": [
-        0,
-        140
+        "0",
+        "140"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    16,
-                    20
+                    "16",
+                    "20"
                 ],
                 "text": "FSI"
             }
@@ -20,197 +18,25 @@
         "urls": [],
         "user_mentions": [
             {
-                "id": 958044239576948740,
-                "id_str": "958044239576948736",
+                "id": "-1",
+                "id_str": "-1",
                 "indices": [
-                    3,
-                    14
+                    "3",
+                    "14"
                 ],
-                "name": "Foreign Service Institute",
+                "name": "",
                 "screen_name": "FSIatState"
             }
         ]
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "RT @FSIatState: #FSI recognizes the career and service of former Secretary of State George P. Shultz. As Secretary of State, Shultz utilize…",
-    "geo": null,
-    "id": 1359283594829692930,
+    "id": "1359283594829692934",
     "id_str": "1359283594829692934",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
-    "retweet_count": 2,
-    "retweeted": true,
-    "retweeted_status": {
-        "contributors": null,
-        "coordinates": null,
-        "created_at": "Tue Feb 09 22:00:58 +0000 2021",
-        "display_text_range": [
-            0,
-            276
-        ],
-        "entities": {
-            "hashtags": [
-                {
-                    "indices": [
-                        0,
-                        4
-                    ],
-                    "text": "FSI"
-                },
-                {
-                    "indices": [
-                        232,
-                        237
-                    ],
-                    "text": "FRUS"
-                },
-                {
-                    "indices": [
-                        263,
-                        276
-                    ],
-                    "text": "FSIremembers"
-                }
-            ],
-            "media": [
-                {
-                    "display_url": "pic.twitter.com/hNmJGZCDnw",
-                    "expanded_url": "https://twitter.com/FSIatState/status/1359261031139311618/photo/1",
-                    "id": 1359261027578376190,
-                    "id_str": "1359261027578376192",
-                    "indices": [
-                        277,
-                        300
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/Et0Qs_HXcAAQZs1.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/Et0Qs_HXcAAQZs1.jpg",
-                    "sizes": {
-                        "large": {
-                            "h": 900,
-                            "resize": "fit",
-                            "w": 1600
-                        },
-                        "medium": {
-                            "h": 675,
-                            "resize": "fit",
-                            "w": 1200
-                        },
-                        "small": {
-                            "h": 383,
-                            "resize": "fit",
-                            "w": 680
-                        },
-                        "thumb": {
-                            "h": 150,
-                            "resize": "crop",
-                            "w": 150
-                        }
-                    },
-                    "type": "photo",
-                    "url": "https://t.co/hNmJGZCDnw"
-                }
-            ],
-            "symbols": [],
-            "urls": [
-                {
-                    "display_url": "bit.ly/3jtGGJZ",
-                    "expanded_url": "http://bit.ly/3jtGGJZ",
-                    "indices": [
-                        239,
-                        262
-                    ],
-                    "url": "https://t.co/XvGFXuRTD8"
-                }
-            ],
-            "user_mentions": [
-                {
-                    "id": 586570880,
-                    "id_str": "586570880",
-                    "indices": [
-                        216,
-                        231
-                    ],
-                    "name": "HistoryAtState",
-                    "screen_name": "HistoryAtState"
-                }
-            ]
-        },
-        "extended_entities": {
-            "media": [
-                {
-                    "display_url": "pic.twitter.com/hNmJGZCDnw",
-                    "expanded_url": "https://twitter.com/FSIatState/status/1359261031139311618/photo/1",
-                    "ext_alt_text": null,
-                    "id": 1359261027578376190,
-                    "id_str": "1359261027578376192",
-                    "indices": [
-                        277,
-                        300
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/Et0Qs_HXcAAQZs1.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/Et0Qs_HXcAAQZs1.jpg",
-                    "sizes": {
-                        "large": {
-                            "h": 900,
-                            "resize": "fit",
-                            "w": 1600
-                        },
-                        "medium": {
-                            "h": 675,
-                            "resize": "fit",
-                            "w": 1200
-                        },
-                        "small": {
-                            "h": 383,
-                            "resize": "fit",
-                            "w": 680
-                        },
-                        "thumb": {
-                            "h": 150,
-                            "resize": "crop",
-                            "w": 150
-                        }
-                    },
-                    "type": "photo",
-                    "url": "https://t.co/hNmJGZCDnw"
-                }
-            ]
-        },
-        "favorite_count": 11,
-        "favorited": false,
-        "full_text": "#FSI recognizes the career and service of former Secretary of State George P. Shultz. As Secretary of State, Shultz utilized the tools of diplomacy to improve our relations with the Soviet Union. To learn more visit @HistoryAtState #FRUS: https://t.co/XvGFXuRTD8 #FSIremembers https://t.co/hNmJGZCDnw",
-        "geo": null,
-        "id": 1359261031139311620,
-        "id_str": "1359261031139311618",
-        "in_reply_to_screen_name": null,
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "is_quote_status": false,
-        "lang": "en",
-        "place": null,
-        "possibly_sensitive": false,
-        "retweet_count": 2,
-        "retweeted": true,
-        "source": "&lt;a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"&gt;Twitter for iPhone&lt;/a&gt;",
-        "truncated": false,
-        "user": {
-            "id": 958044239576948740,
-            "id_str": "958044239576948736"
-        }
-    },
+    "retweet_count": "0",
+    "retweeted": false,
     "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

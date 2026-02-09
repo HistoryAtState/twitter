@@ -1,17 +1,15 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Fri Jun 17 22:59:02 +0000 2016",
     "display_text_range": [
-        0,
-        139
+        "0",
+        "139"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    110,
-                    114
+                    "110",
+                    "114"
                 ],
                 "text": "FSJ"
             }
@@ -22,113 +20,34 @@
                 "display_url": "bit.ly/24x1xw3",
                 "expanded_url": "http://bit.ly/24x1xw3",
                 "indices": [
-                    115,
-                    138
+                    "115",
+                    "138"
                 ],
                 "url": "https://t.co/IDRbnirikk"
             }
         ],
         "user_mentions": [
             {
-                "id": 134905400,
+                "id": "134905400",
                 "id_str": "134905400",
                 "indices": [
-                    3,
-                    14
+                    "3",
+                    "14"
                 ],
                 "name": "AFSA",
                 "screen_name": "afsatweets"
             }
         ]
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "RT @afsatweets: The State Dept Office of the Historian provides a thorough record of American foreign policy. #FSJ https://t.co/IDRbnirikk…",
-    "geo": null,
-    "id": 743941048712503300,
+    "id": "743941048712503296",
     "id_str": "743941048712503296",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 2,
-    "retweeted": true,
-    "retweeted_status": {
-        "contributors": null,
-        "coordinates": null,
-        "created_at": "Thu Jun 16 17:10:38 +0000 2016",
-        "display_text_range": [
-            0,
-            138
-        ],
-        "entities": {
-            "hashtags": [
-                {
-                    "indices": [
-                        94,
-                        98
-                    ],
-                    "text": "FSJ"
-                }
-            ],
-            "symbols": [],
-            "urls": [
-                {
-                    "display_url": "bit.ly/24x1xw3",
-                    "expanded_url": "http://bit.ly/24x1xw3",
-                    "indices": [
-                        99,
-                        122
-                    ],
-                    "url": "https://t.co/IDRbnirikk"
-                }
-            ],
-            "user_mentions": [
-                {
-                    "id": 586570880,
-                    "id_str": "586570880",
-                    "indices": [
-                        123,
-                        138
-                    ],
-                    "name": "HistoryAtState",
-                    "screen_name": "HistoryAtState"
-                }
-            ]
-        },
-        "favorite_count": 3,
-        "favorited": false,
-        "full_text": "The State Dept Office of the Historian provides a thorough record of American foreign policy. #FSJ https://t.co/IDRbnirikk @HistoryAtState",
-        "geo": null,
-        "id": 743490981639618560,
-        "id_str": "743490981639618560",
-        "in_reply_to_screen_name": null,
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "is_quote_status": false,
-        "lang": "en",
-        "place": null,
-        "possibly_sensitive": false,
-        "retweet_count": 2,
-        "retweeted": true,
-        "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-        "truncated": false,
-        "user": {
-            "id": 134905400,
-            "id_str": "134905400"
-        }
-    },
+    "retweet_count": "0",
+    "retweeted": false,
     "source": "&lt;a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"&gt;Twitter for iPad&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

@@ -1,31 +1,29 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Fri Apr 04 14:00:26 +0000 2014",
     "display_text_range": [
-        0,
-        123
+        "0",
+        "123"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    36,
-                    41
+                    "36",
+                    "41"
                 ],
                 "text": "FRUS"
             },
             {
                 "indices": [
-                    73,
-                    82
+                    "73",
+                    "82"
                 ],
                 "text": "SHFG2014"
             },
             {
                 "indices": [
-                    107,
-                    123
+                    "107",
+                    "123"
                 ],
                 "text": "twitterstorians"
             }
@@ -36,35 +34,23 @@
                 "display_url": "bit.ly/1khbSpX",
                 "expanded_url": "http://bit.ly/1khbSpX",
                 "indices": [
-                    84,
-                    106
+                    "84",
+                    "106"
                 ],
                 "url": "http://t.co/77hxJw1x04"
             }
         ],
         "user_mentions": []
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "Interested in the production of the #FRUS series? Check out our panel at #SHFG2014. http://t.co/77hxJw1x04 #twitterstorians",
-    "geo": null,
-    "id": 452083275033358340,
+    "id": "452083275033358337",
     "id_str": "452083275033358337",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 1,
+    "retweet_count": "1",
     "retweeted": false,
     "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

@@ -1,60 +1,58 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Sun Mar 04 16:00:37 +0000 2018",
     "display_text_range": [
-        0,
-        178
+        "0",
+        "202"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    138,
-                    157
+                    "138",
+                    "157"
                 ],
                 "text": "NationalGrammarDay"
             },
             {
                 "indices": [
-                    158,
-                    163
+                    "158",
+                    "163"
                 ],
                 "text": "FRUS"
             }
         ],
         "media": [
             {
-                "display_url": "pic.twitter.com/gzaBFhtxFf",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/970328167088099330/photo/1",
-                "id": 970328164294684670,
+                "display_url": "pic.x.com/gzaBFhtxFf",
+                "expanded_url": "https://x.com/HistoryAtState/status/970328167088099330/photo/1",
+                "id": "970328164294684673",
                 "id_str": "970328164294684673",
                 "indices": [
-                    179,
-                    202
+                    "179",
+                    "202"
                 ],
                 "media_url": "http://pbs.twimg.com/media/DXdMUwxXcAEn5Mp.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DXdMUwxXcAEn5Mp.jpg",
                 "sizes": {
                     "large": {
-                        "h": 499,
+                        "h": "499",
                         "resize": "fit",
-                        "w": 378
+                        "w": "378"
                     },
                     "medium": {
-                        "h": 499,
+                        "h": "499",
                         "resize": "fit",
-                        "w": 378
+                        "w": "378"
                     },
                     "small": {
-                        "h": 499,
+                        "h": "499",
                         "resize": "fit",
-                        "w": 378
+                        "w": "378"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -67,19 +65,19 @@
                 "display_url": "go.usa.gov/xn68s",
                 "expanded_url": "https://go.usa.gov/xn68s",
                 "indices": [
-                    114,
-                    137
+                    "114",
+                    "137"
                 ],
                 "url": "https://t.co/SXuh55ARXt"
             }
         ],
         "user_mentions": [
             {
-                "id": 128960879,
+                "id": "128960879",
                 "id_str": "128960879",
                 "indices": [
-                    164,
-                    178
+                    "164",
+                    "178"
                 ],
                 "name": "The Chicago Manual of Style",
                 "screen_name": "ChicagoManual"
@@ -89,37 +87,36 @@
     "extended_entities": {
         "media": [
             {
-                "display_url": "pic.twitter.com/gzaBFhtxFf",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/970328167088099330/photo/1",
-                "ext_alt_text": null,
-                "id": 970328164294684670,
+                "display_url": "pic.x.com/gzaBFhtxFf",
+                "expanded_url": "https://x.com/HistoryAtState/status/970328167088099330/photo/1",
+                "id": "970328164294684673",
                 "id_str": "970328164294684673",
                 "indices": [
-                    179,
-                    202
+                    "179",
+                    "202"
                 ],
                 "media_url": "http://pbs.twimg.com/media/DXdMUwxXcAEn5Mp.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DXdMUwxXcAEn5Mp.jpg",
                 "sizes": {
                     "large": {
-                        "h": 499,
+                        "h": "499",
                         "resize": "fit",
-                        "w": 378
+                        "w": "378"
                     },
                     "medium": {
-                        "h": 499,
+                        "h": "499",
                         "resize": "fit",
-                        "w": 378
+                        "w": "378"
                     },
                     "small": {
-                        "h": 499,
+                        "h": "499",
                         "resize": "fit",
-                        "w": 378
+                        "w": "378"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -127,27 +124,15 @@
             }
         ]
     },
-    "favorite_count": 5,
+    "favorite_count": "4",
     "favorited": false,
     "full_text": "Under Secretary Eagleburger muses on grammar and syntax in unedited versions of 1981 and 1982 Haig-Gromyko talks. https://t.co/SXuh55ARXt #NationalGrammarDay #FRUS @ChicagoManual https://t.co/gzaBFhtxFf",
-    "geo": null,
-    "id": 970328167088099330,
+    "id": "970328167088099330",
     "id_str": "970328167088099330",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 3,
+    "retweet_count": "2",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

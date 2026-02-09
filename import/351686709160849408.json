@@ -1,45 +1,43 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Mon Jul 01 13:00:20 +0000 2013",
     "display_text_range": [
-        0,
-        122
+        "0",
+        "122"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    40,
-                    49
+                    "40",
+                    "49"
                 ],
                 "text": "CivilWar"
             },
             {
                 "indices": [
-                    75,
-                    80
+                    "75",
+                    "80"
                 ],
                 "text": "FRUS"
             },
             {
                 "indices": [
-                    81,
-                    92
+                    "81",
+                    "92"
                 ],
                 "text": "Gettysburg"
             },
             {
                 "indices": [
-                    93,
-                    103
+                    "93",
+                    "103"
                 ],
                 "text": "Vicksburg"
             },
             {
                 "indices": [
-                    104,
-                    122
+                    "104",
+                    "122"
                 ],
                 "text": "NewBirthOfFreedom"
             }
@@ -48,37 +46,25 @@
         "urls": [],
         "user_mentions": [
             {
-                "id": 586570880,
+                "id": "586570880",
                 "id_str": "586570880",
                 "indices": [
-                    14,
-                    29
+                    "14",
+                    "29"
                 ],
                 "name": "HistoryAtState",
                 "screen_name": "HistoryAtState"
             }
         ]
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "Stay tuned to @HistoryAtState for a big #CivilWar diplomacy anniversary... #FRUS #Gettysburg #Vicksburg #NewBirthOfFreedom",
-    "geo": null,
-    "id": 351686709160849410,
+    "id": "351686709160849408",
     "id_str": "351686709160849408",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
-    "retweet_count": 0,
+    "retweet_count": "0",
     "retweeted": false,
     "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

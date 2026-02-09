@@ -1,17 +1,15 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Fri Jun 11 17:04:55 +0000 2021",
     "display_text_range": [
-        0,
-        140
+        "0",
+        "140"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    11,
-                    24
+                    "11",
+                    "24"
                 ],
                 "text": "GenevaSummit"
             }
@@ -20,285 +18,25 @@
         "urls": [],
         "user_mentions": [
             {
-                "id": 299186512,
+                "id": "299186512",
                 "id_str": "299186512",
                 "indices": [
-                    3,
-                    9
+                    "3",
+                    "9"
                 ],
                 "name": "Dodis",
                 "screen_name": "Dodis"
             }
         ]
     },
-    "favorite_count": 0,
-    "favorited": true,
+    "favorite_count": "0",
+    "favorited": false,
     "full_text": "RT @Dodis: #GenevaSummit is getting started: Welcome address delivered by the President of the Swiss Confederation Kurt Furgler upon the ar…",
-    "geo": null,
-    "id": 1403397849304416260,
+    "id": "1403397849304416259",
     "id_str": "1403397849304416259",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
-    "retweet_count": 2,
-    "retweeted": true,
-    "retweeted_status": {
-        "contributors": null,
-        "coordinates": null,
-        "created_at": "Fri Jun 11 07:23:20 +0000 2021",
-        "display_text_range": [
-            0,
-            278
-        ],
-        "entities": {
-            "hashtags": [
-                {
-                    "indices": [
-                        0,
-                        13
-                    ],
-                    "text": "GenevaSummit"
-                },
-                {
-                    "indices": [
-                        151,
-                        158
-                    ],
-                    "text": "Reagan"
-                },
-                {
-                    "indices": [
-                        220,
-                        227
-                    ],
-                    "text": "histCH"
-                },
-                {
-                    "indices": [
-                        228,
-                        238
-                    ],
-                    "text": "Gorbachev"
-                },
-                {
-                    "indices": [
-                        239,
-                        245
-                    ],
-                    "text": "Putin"
-                },
-                {
-                    "indices": [
-                        246,
-                        252
-                    ],
-                    "text": "Biden"
-                }
-            ],
-            "media": [
-                {
-                    "display_url": "pic.twitter.com/PVBlhXVOAO",
-                    "expanded_url": "https://twitter.com/Dodis/status/1403251487917105152/photo/1",
-                    "id": 1403251444929736700,
-                    "id_str": "1403251444929736705",
-                    "indices": [
-                        279,
-                        302
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/E3lZwSGXMAEAB9W.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/E3lZwSGXMAEAB9W.jpg",
-                    "sizes": {
-                        "large": {
-                            "h": 1022,
-                            "resize": "fit",
-                            "w": 1174
-                        },
-                        "medium": {
-                            "h": 1022,
-                            "resize": "fit",
-                            "w": 1174
-                        },
-                        "small": {
-                            "h": 592,
-                            "resize": "fit",
-                            "w": 680
-                        },
-                        "thumb": {
-                            "h": 150,
-                            "resize": "crop",
-                            "w": 150
-                        }
-                    },
-                    "type": "photo",
-                    "url": "https://t.co/PVBlhXVOAO"
-                }
-            ],
-            "symbols": [],
-            "urls": [
-                {
-                    "display_url": "dodis.ch/59834",
-                    "expanded_url": "http://dodis.ch/59834",
-                    "indices": [
-                        196,
-                        219
-                    ],
-                    "url": "https://t.co/WDiiS0IiXZ"
-                }
-            ],
-            "user_mentions": [
-                {
-                    "id": 1349149096909668350,
-                    "id_str": "1349149096909668363",
-                    "indices": [
-                        137,
-                        143
-                    ],
-                    "name": "President Biden",
-                    "screen_name": "POTUS"
-                },
-                {
-                    "id": 250561866,
-                    "id_str": "250561866",
-                    "indices": [
-                        162,
-                        173
-                    ],
-                    "name": "International Geneva",
-                    "screen_name": "Geneve_int"
-                },
-                {
-                    "id": 814031694353338370,
-                    "id_str": "814031694353338368",
-                    "indices": [
-                        253,
-                        262
-                    ],
-                    "name": "Swiss MFA",
-                    "screen_name": "SwissMFA"
-                },
-                {
-                    "id": 586570880,
-                    "id_str": "586570880",
-                    "indices": [
-                        263,
-                        278
-                    ],
-                    "name": "HistoryAtState",
-                    "screen_name": "HistoryAtState"
-                }
-            ]
-        },
-        "extended_entities": {
-            "media": [
-                {
-                    "display_url": "pic.twitter.com/PVBlhXVOAO",
-                    "expanded_url": "https://twitter.com/Dodis/status/1403251487917105152/photo/1",
-                    "ext_alt_text": "https://commons.wikimedia.org/wiki/File:President_Ronald_Reagan_and_President_Kurt_Furgler.jpg",
-                    "id": 1403251444929736700,
-                    "id_str": "1403251444929736705",
-                    "indices": [
-                        279,
-                        302
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/E3lZwSGXMAEAB9W.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/E3lZwSGXMAEAB9W.jpg",
-                    "sizes": {
-                        "large": {
-                            "h": 1022,
-                            "resize": "fit",
-                            "w": 1174
-                        },
-                        "medium": {
-                            "h": 1022,
-                            "resize": "fit",
-                            "w": 1174
-                        },
-                        "small": {
-                            "h": 592,
-                            "resize": "fit",
-                            "w": 680
-                        },
-                        "thumb": {
-                            "h": 150,
-                            "resize": "crop",
-                            "w": 150
-                        }
-                    },
-                    "type": "photo",
-                    "url": "https://t.co/PVBlhXVOAO"
-                },
-                {
-                    "display_url": "pic.twitter.com/PVBlhXVOAO",
-                    "expanded_url": "https://twitter.com/Dodis/status/1403251487917105152/photo/1",
-                    "ext_alt_text": null,
-                    "id": 1403251205749587970,
-                    "id_str": "1403251205749587972",
-                    "indices": [
-                        279,
-                        302
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/E3lZiXFXwAQQYRE.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/E3lZiXFXwAQQYRE.jpg",
-                    "sizes": {
-                        "large": {
-                            "h": 1254,
-                            "resize": "fit",
-                            "w": 1260
-                        },
-                        "medium": {
-                            "h": 1194,
-                            "resize": "fit",
-                            "w": 1200
-                        },
-                        "small": {
-                            "h": 677,
-                            "resize": "fit",
-                            "w": 680
-                        },
-                        "thumb": {
-                            "h": 150,
-                            "resize": "crop",
-                            "w": 150
-                        }
-                    },
-                    "type": "photo",
-                    "url": "https://t.co/PVBlhXVOAO"
-                }
-            ]
-        },
-        "favorite_count": 8,
-        "favorited": true,
-        "full_text": "#GenevaSummit is getting started: Welcome address delivered by the President of the Swiss Confederation Kurt Furgler upon the arrival of @POTUS Ronald #Reagan in @Geneve_int on November 16, 1985: https://t.co/WDiiS0IiXZ #histCH #Gorbachev #Putin #Biden @SwissMFA @HistoryAtState https://t.co/PVBlhXVOAO",
-        "geo": null,
-        "id": 1403251487917105150,
-        "id_str": "1403251487917105152",
-        "in_reply_to_screen_name": null,
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "is_quote_status": false,
-        "lang": "en",
-        "place": null,
-        "possibly_sensitive": false,
-        "retweet_count": 2,
-        "retweeted": true,
-        "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
-        "truncated": false,
-        "user": {
-            "id": 299186512,
-            "id_str": "299186512"
-        }
-    },
+    "retweet_count": "0",
+    "retweeted": false,
     "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

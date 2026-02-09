@@ -1,67 +1,65 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Tue Apr 11 16:45:10 +0000 2017",
     "display_text_range": [
-        0,
-        137
+        "0",
+        "161"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    32,
-                    42
+                    "32",
+                    "42"
                 ],
                 "text": "Carpathia"
             },
             {
                 "indices": [
-                    76,
-                    84
+                    "76",
+                    "84"
                 ],
                 "text": "Titanic"
             },
             {
                 "indices": [
-                    108,
-                    113
+                    "108",
+                    "113"
                 ],
                 "text": "FRUS"
             }
         ],
         "media": [
             {
-                "display_url": "pic.twitter.com/BRElH6Tfnr",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/851838545757163523/photo/1",
-                "id": 851838541625778180,
+                "display_url": "pic.x.com/BRElH6Tfnr",
+                "expanded_url": "https://x.com/HistoryAtState/status/851838545757163523/photo/1",
+                "id": "851838541625778177",
                 "id_str": "851838541625778177",
                 "indices": [
-                    138,
-                    161
+                    "138",
+                    "161"
                 ],
                 "media_url": "http://pbs.twimg.com/media/C9JWo--XYAEotAI.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/C9JWo--XYAEotAI.jpg",
                 "sizes": {
                     "large": {
-                        "h": 1050,
+                        "h": "1050",
                         "resize": "fit",
-                        "w": 1393
+                        "w": "1393"
                     },
                     "medium": {
-                        "h": 905,
+                        "h": "905",
                         "resize": "fit",
-                        "w": 1200
+                        "w": "1200"
                     },
                     "small": {
-                        "h": 513,
+                        "h": "513",
                         "resize": "fit",
-                        "w": 680
+                        "w": "680"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -74,8 +72,8 @@
                 "display_url": "go.usa.gov/xX7WG",
                 "expanded_url": "https://go.usa.gov/xX7WG",
                 "indices": [
-                    114,
-                    137
+                    "114",
+                    "137"
                 ],
                 "url": "https://t.co/JSVya56GT2"
             }
@@ -85,37 +83,36 @@
     "extended_entities": {
         "media": [
             {
-                "display_url": "pic.twitter.com/BRElH6Tfnr",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/851838545757163523/photo/1",
-                "ext_alt_text": null,
-                "id": 851838541625778180,
+                "display_url": "pic.x.com/BRElH6Tfnr",
+                "expanded_url": "https://x.com/HistoryAtState/status/851838545757163523/photo/1",
+                "id": "851838541625778177",
                 "id_str": "851838541625778177",
                 "indices": [
-                    138,
-                    161
+                    "138",
+                    "161"
                 ],
                 "media_url": "http://pbs.twimg.com/media/C9JWo--XYAEotAI.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/C9JWo--XYAEotAI.jpg",
                 "sizes": {
                     "large": {
-                        "h": 1050,
+                        "h": "1050",
                         "resize": "fit",
-                        "w": 1393
+                        "w": "1393"
                     },
                     "medium": {
-                        "h": 905,
+                        "h": "905",
                         "resize": "fit",
-                        "w": 1200
+                        "w": "1200"
                     },
                     "small": {
-                        "h": 513,
+                        "h": "513",
                         "resize": "fit",
-                        "w": 680
+                        "w": "680"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -123,27 +120,15 @@
             }
         ]
     },
-    "favorite_count": 7,
+    "favorite_count": "6",
     "favorited": false,
     "full_text": "#1912 Capt. Arthur Rostron, RMS #Carpathia, rescued 706 passengers from the #Titanic. See the U.S response. #FRUS https://t.co/JSVya56GT2 https://t.co/BRElH6Tfnr",
-    "geo": null,
-    "id": 851838545757163520,
+    "id": "851838545757163523",
     "id_str": "851838545757163523",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 6,
+    "retweet_count": "6",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

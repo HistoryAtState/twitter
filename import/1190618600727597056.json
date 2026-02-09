@@ -1,17 +1,15 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Sat Nov 02 13:16:09 +0000 2019",
     "display_text_range": [
-        0,
-        16
+        "0",
+        "40"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    0,
-                    16
+                    "0",
+                    "16"
                 ],
                 "text": "twitterstorians"
             }
@@ -19,218 +17,26 @@
         "symbols": [],
         "urls": [
             {
-                "display_url": "twitter.com/FSIatState/sta…",
-                "expanded_url": "https://twitter.com/FSIatState/status/1190353313654595585",
+                "display_url": "x.com/NFATCatState/s…",
+                "expanded_url": "https://x.com/NFATCatState/status/1190353313654595585",
                 "indices": [
-                    17,
-                    40
+                    "17",
+                    "40"
                 ],
                 "url": "https://t.co/oA5RXU3Awj"
             }
         ],
         "user_mentions": []
     },
-    "favorite_count": 4,
+    "favorite_count": "2",
     "favorited": false,
     "full_text": "#twitterstorians https://t.co/oA5RXU3Awj",
-    "geo": null,
-    "id": 1190618600727597060,
+    "id": "1190618600727597056",
     "id_str": "1190618600727597056",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": true,
     "lang": "qht",
-    "place": null,
     "possibly_sensitive": false,
-    "quoted_status": {
-        "contributors": null,
-        "coordinates": null,
-        "created_at": "Fri Nov 01 19:42:00 +0000 2019",
-        "display_text_range": [
-            0,
-            282
-        ],
-        "entities": {
-            "hashtags": [
-                {
-                    "indices": [
-                        17,
-                        21
-                    ],
-                    "text": "WWI"
-                },
-                {
-                    "indices": [
-                        188,
-                        208
-                    ],
-                    "text": "HeroesofUSDiplomacy"
-                }
-            ],
-            "media": [
-                {
-                    "display_url": "pic.twitter.com/iSFeoxIcZh",
-                    "expanded_url": "https://twitter.com/FSIatState/status/1190353313654595585/video/1",
-                    "id": 1190353190048452610,
-                    "id_str": "1190353190048452608",
-                    "indices": [
-                        283,
-                        306
-                    ],
-                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1190353190048452608/pu/img/SqbUcIL6MD-AEO1p.jpg",
-                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1190353190048452608/pu/img/SqbUcIL6MD-AEO1p.jpg",
-                    "sizes": {
-                        "large": {
-                            "h": 540,
-                            "resize": "fit",
-                            "w": 960
-                        },
-                        "medium": {
-                            "h": 540,
-                            "resize": "fit",
-                            "w": 960
-                        },
-                        "small": {
-                            "h": 383,
-                            "resize": "fit",
-                            "w": 680
-                        },
-                        "thumb": {
-                            "h": 150,
-                            "resize": "crop",
-                            "w": 150
-                        }
-                    },
-                    "type": "photo",
-                    "url": "https://t.co/iSFeoxIcZh"
-                }
-            ],
-            "symbols": [],
-            "urls": [
-                {
-                    "display_url": "go.usa.gov/xp3FN",
-                    "expanded_url": "http://go.usa.gov/xp3FN",
-                    "indices": [
-                        259,
-                        282
-                    ],
-                    "url": "https://t.co/4D5leJ3WJC"
-                }
-            ],
-            "user_mentions": []
-        },
-        "extended_entities": {
-            "media": [
-                {
-                    "additional_media_info": {
-                        "monetizable": false
-                    },
-                    "display_url": "pic.twitter.com/iSFeoxIcZh",
-                    "expanded_url": "https://twitter.com/FSIatState/status/1190353313654595585/video/1",
-                    "ext_alt_text": null,
-                    "id": 1190353190048452610,
-                    "id_str": "1190353190048452608",
-                    "indices": [
-                        283,
-                        306
-                    ],
-                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1190353190048452608/pu/img/SqbUcIL6MD-AEO1p.jpg",
-                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1190353190048452608/pu/img/SqbUcIL6MD-AEO1p.jpg",
-                    "sizes": {
-                        "large": {
-                            "h": 540,
-                            "resize": "fit",
-                            "w": 960
-                        },
-                        "medium": {
-                            "h": 540,
-                            "resize": "fit",
-                            "w": 960
-                        },
-                        "small": {
-                            "h": 383,
-                            "resize": "fit",
-                            "w": 680
-                        },
-                        "thumb": {
-                            "h": 150,
-                            "resize": "crop",
-                            "w": 150
-                        }
-                    },
-                    "type": "video",
-                    "url": "https://t.co/iSFeoxIcZh",
-                    "video_info": {
-                        "aspect_ratio": [
-                            16,
-                            9
-                        ],
-                        "duration_millis": 39239,
-                        "variants": [
-                            {
-                                "bitrate": 256000,
-                                "content_type": "video/mp4",
-                                "url": "https://video.twimg.com/ext_tw_video/1190353190048452608/pu/vid/480x270/YQVGLefJT8Oe5KcO.mp4?tag=10"
-                            },
-                            {
-                                "bitrate": 832000,
-                                "content_type": "video/mp4",
-                                "url": "https://video.twimg.com/ext_tw_video/1190353190048452608/pu/vid/640x360/5AMQNym71s0yFbZ-.mp4?tag=10"
-                            },
-                            {
-                                "content_type": "application/x-mpegURL",
-                                "url": "https://video.twimg.com/ext_tw_video/1190353190048452608/pu/pl/Kc6o-Kw5x0iGGKRM.m3u8?tag=10"
-                            },
-                            {
-                                "bitrate": 2176000,
-                                "content_type": "video/mp4",
-                                "url": "https://video.twimg.com/ext_tw_video/1190353190048452608/pu/vid/960x540/63hOos7MifBegUyy.mp4?tag=10"
-                            }
-                        ]
-                    }
-                }
-            ]
-        },
-        "favorite_count": 2,
-        "favorited": false,
-        "full_text": "At the onset of  #WWI, after banking systems, communications, and stock markets collapsed, Amb. Gerard &amp;amp; his staff at the U.S. Embassy in Germany had to improvise quickly. Learn about #HeroesofUSDiplomacy repatriation efforts &amp;amp; the first \"Gold Ship.\" https://t.co/4D5leJ3WJC https://t.co/iSFeoxIcZh",
-        "geo": null,
-        "id": 1190353313654595580,
-        "id_str": "1190353313654595585",
-        "in_reply_to_screen_name": null,
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "is_quote_status": false,
-        "lang": "en",
-        "place": null,
-        "possibly_sensitive": false,
-        "retweet_count": 0,
-        "retweeted": false,
-        "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
-        "truncated": false,
-        "user": {
-            "id": 958044239576948740,
-            "id_str": "958044239576948736"
-        }
-    },
-    "quoted_status_id": 1190353313654595580,
-    "quoted_status_id_str": "1190353313654595585",
-    "quoted_status_permalink": {
-        "display": "twitter.com/FSIatState/sta…",
-        "expanded": "https://twitter.com/FSIatState/status/1190353313654595585",
-        "url": "https://t.co/oA5RXU3Awj"
-    },
-    "retweet_count": 3,
+    "retweet_count": "0",
     "retweeted": false,
     "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

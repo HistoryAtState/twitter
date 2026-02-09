@@ -1,24 +1,22 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Fri Apr 01 18:05:32 +0000 2016",
     "display_text_range": [
-        0,
-        127
+        "0",
+        "127"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    113,
-                    118
+                    "113",
+                    "118"
                 ],
                 "text": "FRUS"
             },
             {
                 "indices": [
-                    119,
-                    127
+                    "119",
+                    "127"
                 ],
                 "text": "NSS2016"
             }
@@ -29,46 +27,34 @@
                 "display_url": "history.state.gov/historicaldocu…",
                 "expanded_url": "https://history.state.gov/historicaldocuments/frus1977-80v26/ch7",
                 "indices": [
-                    89,
-                    112
+                    "89",
+                    "112"
                 ],
                 "url": "https://t.co/1E8mOPFMTS"
             }
         ],
         "user_mentions": [
             {
-                "id": 14159148,
+                "id": "14159148",
                 "id_str": "14159148",
                 "indices": [
-                    53,
-                    56
+                    "53",
+                    "56"
                 ],
                 "name": "United Nations",
                 "screen_name": "UN"
             }
         ]
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "Nuclear security measures were discussed at the 1978 @UN Special Session on Disarmament: https://t.co/1E8mOPFMTS #FRUS #NSS2016",
-    "geo": null,
-    "id": 715963323251032060,
+    "id": "715963323251032065",
     "id_str": "715963323251032065",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 2,
+    "retweet_count": "1",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

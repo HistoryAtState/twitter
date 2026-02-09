@@ -1,60 +1,58 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Fri Dec 10 15:02:31 +0000 2021",
     "display_text_range": [
-        0,
-        245
+        "0",
+        "269"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    12,
-                    30
+                    "12",
+                    "30"
                 ],
                 "text": "ArchivesGIFgiving"
             },
             {
                 "indices": [
-                    215,
-                    220
+                    "215",
+                    "220"
                 ],
                 "text": "FRUS"
             }
         ],
         "media": [
             {
-                "display_url": "pic.twitter.com/IGvGxDlOD0",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1469321638567153669/photo/1",
-                "id": 1469321635958251520,
+                "display_url": "pic.x.com/IGvGxDlOD0",
+                "expanded_url": "https://x.com/HistoryAtState/status/1469321638567153669/photo/1",
+                "id": "1469321635958251522",
                 "id_str": "1469321635958251522",
                 "indices": [
-                    246,
-                    269
+                    "246",
+                    "269"
                 ],
                 "media_url": "http://pbs.twimg.com/tweet_video_thumb/FGQUPjwWYAIb9xA.jpg",
                 "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FGQUPjwWYAIb9xA.jpg",
                 "sizes": {
                     "large": {
-                        "h": 360,
+                        "h": "360",
                         "resize": "fit",
-                        "w": 480
+                        "w": "480"
                     },
                     "medium": {
-                        "h": 360,
+                        "h": "360",
                         "resize": "fit",
-                        "w": 480
+                        "w": "480"
                     },
                     "small": {
-                        "h": 360,
+                        "h": "360",
                         "resize": "fit",
-                        "w": 480
+                        "w": "480"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -67,19 +65,19 @@
                 "display_url": "ow.ly/Ix5j50H1pGJ",
                 "expanded_url": "http://ow.ly/Ix5j50H1pGJ",
                 "indices": [
-                    222,
-                    245
+                    "222",
+                    "245"
                 ],
                 "url": "https://t.co/9Cceuefswu"
             }
         ],
         "user_mentions": [
             {
-                "id": 299186512,
+                "id": "299186512",
                 "id_str": "299186512",
                 "indices": [
-                    58,
-                    64
+                    "58",
+                    "64"
                 ],
                 "name": "Dodis",
                 "screen_name": "Dodis"
@@ -89,49 +87,48 @@
     "extended_entities": {
         "media": [
             {
-                "display_url": "pic.twitter.com/IGvGxDlOD0",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1469321638567153669/photo/1",
-                "ext_alt_text": "Animated GIF of blonde-haired Pat Nixon (taken from behind) observing a panda at the zoo and then turning to her right to smile",
-                "id": 1469321635958251520,
+                "display_url": "pic.x.com/IGvGxDlOD0",
+                "expanded_url": "https://x.com/HistoryAtState/status/1469321638567153669/photo/1",
+                "id": "1469321635958251522",
                 "id_str": "1469321635958251522",
                 "indices": [
-                    246,
-                    269
+                    "246",
+                    "269"
                 ],
                 "media_url": "http://pbs.twimg.com/tweet_video_thumb/FGQUPjwWYAIb9xA.jpg",
                 "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FGQUPjwWYAIb9xA.jpg",
                 "sizes": {
                     "large": {
-                        "h": 360,
+                        "h": "360",
                         "resize": "fit",
-                        "w": 480
+                        "w": "480"
                     },
                     "medium": {
-                        "h": 360,
+                        "h": "360",
                         "resize": "fit",
-                        "w": 480
+                        "w": "480"
                     },
                     "small": {
-                        "h": 360,
+                        "h": "360",
                         "resize": "fit",
-                        "w": 480
+                        "w": "480"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "animated_gif",
                 "url": "https://t.co/IGvGxDlOD0",
                 "video_info": {
                     "aspect_ratio": [
-                        4,
-                        3
+                        "4",
+                        "3"
                     ],
                     "variants": [
                         {
-                            "bitrate": 0,
+                            "bitrate": "0",
                             "content_type": "video/mp4",
                             "url": "https://video.twimg.com/tweet_video/FGQUPjwWYAIb9xA.mp4"
                         }
@@ -140,27 +137,15 @@
             }
         ]
     },
-    "favorite_count": 16,
+    "favorite_count": "12",
     "favorited": false,
     "full_text": "In honor of #ArchivesGIFgiving, we present our friends at @Dodis this GIF of First Lady Pat Nixon admiring the panda given to the US by the PRC. Diplomacy takes all forms!\n\nFor more panda-related content, search in #FRUS:\nhttps://t.co/9Cceuefswu https://t.co/IGvGxDlOD0",
-    "geo": null,
-    "id": 1469321638567153660,
+    "id": "1469321638567153669",
     "id_str": "1469321638567153669",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 2,
+    "retweet_count": "1",
     "retweeted": false,
     "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

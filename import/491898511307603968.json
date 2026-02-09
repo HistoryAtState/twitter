@@ -1,17 +1,15 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Wed Jul 23 10:51:58 +0000 2014",
     "display_text_range": [
-        0,
-        122
+        "0",
+        "122"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    90,
-                    99
+                    "90",
+                    "99"
                 ],
                 "text": "WW1Tweet"
             }
@@ -22,46 +20,34 @@
                 "display_url": "ow.ly/zu7ct",
                 "expanded_url": "http://ow.ly/zu7ct",
                 "indices": [
-                    100,
-                    122
+                    "100",
+                    "122"
                 ],
                 "url": "http://t.co/oxUq0f9ebZ"
             }
         ],
         "user_mentions": [
             {
-                "id": 50965086,
+                "id": "50965086",
                 "id_str": "50965086",
                 "indices": [
-                    77,
-                    89
+                    "77",
+                    "89"
                 ],
                 "name": "US-Botschaft Berlin",
                 "screen_name": "usbotschaft"
             }
         ]
     },
-    "favorite_count": 2,
+    "favorite_count": "2",
     "favorited": false,
     "full_text": "Where to live in Berlin 1913-14? For Amb. Gerard, it was on the Wilhelmplatz @usbotschaft #WW1Tweet http://t.co/oxUq0f9ebZ",
-    "geo": null,
-    "id": 491898511307603970,
+    "id": "491898511307603968",
     "id_str": "491898511307603968",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 0,
+    "retweet_count": "0",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

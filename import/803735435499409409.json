@@ -1,67 +1,65 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Tue Nov 29 23:00:35 +0000 2016",
     "display_text_range": [
-        0,
-        126
+        "0",
+        "150"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    0,
-                    4
+                    "0",
+                    "4"
                 ],
                 "text": "JFK"
             },
             {
                 "indices": [
-                    81,
-                    86
+                    "81",
+                    "86"
                 ],
                 "text": "FRUS"
             },
             {
                 "indices": [
-                    87,
-                    101
+                    "87",
+                    "101"
                 ],
                 "text": "GivingTuesday"
             }
         ],
         "media": [
             {
-                "display_url": "pic.twitter.com/57NAOva2Gh",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/803735435499409409/photo/1",
-                "id": 803735433200988160,
+                "display_url": "pic.x.com/57NAOva2Gh",
+                "expanded_url": "https://x.com/HistoryAtState/status/803735435499409409/photo/1",
+                "id": "803735433200988160",
                 "id_str": "803735433200988160",
                 "indices": [
-                    127,
-                    150
+                    "127",
+                    "150"
                 ],
                 "media_url": "http://pbs.twimg.com/media/CydxHj1W8AAL8vc.png",
                 "media_url_https": "https://pbs.twimg.com/media/CydxHj1W8AAL8vc.png",
                 "sizes": {
                     "large": {
-                        "h": 129,
+                        "h": "129",
                         "resize": "fit",
-                        "w": 250
+                        "w": "250"
                     },
                     "medium": {
-                        "h": 129,
+                        "h": "129",
                         "resize": "fit",
-                        "w": 250
+                        "w": "250"
                     },
                     "small": {
-                        "h": 129,
+                        "h": "129",
                         "resize": "fit",
-                        "w": 250
+                        "w": "250"
                     },
                     "thumb": {
-                        "h": 129,
+                        "h": "129",
                         "resize": "crop",
-                        "w": 129
+                        "w": "129"
                     }
                 },
                 "type": "photo",
@@ -74,29 +72,29 @@
                 "display_url": "go.usa.gov/x8Rgk",
                 "expanded_url": "http://go.usa.gov/x8Rgk",
                 "indices": [
-                    57,
-                    80
+                    "57",
+                    "80"
                 ],
                 "url": "https://t.co/TK3x6SrKzJ"
             }
         ],
         "user_mentions": [
             {
-                "id": 32520240,
-                "id_str": "32520240",
+                "id": "1850960131946921984",
+                "id_str": "1850960131946921984",
                 "indices": [
-                    102,
-                    113
+                    "102",
+                    "113"
                 ],
-                "name": "JFK Library",
-                "screen_name": "JFKLibrary"
+                "name": "JFK Library Foundation",
+                "screen_name": "jfklibrary"
             },
             {
-                "id": 9109712,
+                "id": "9109712",
                 "id_str": "9109712",
                 "indices": [
-                    115,
-                    126
+                    "115",
+                    "126"
                 ],
                 "name": "Peace Corps",
                 "screen_name": "PeaceCorps"
@@ -106,37 +104,36 @@
     "extended_entities": {
         "media": [
             {
-                "display_url": "pic.twitter.com/57NAOva2Gh",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/803735435499409409/photo/1",
-                "ext_alt_text": null,
-                "id": 803735433200988160,
+                "display_url": "pic.x.com/57NAOva2Gh",
+                "expanded_url": "https://x.com/HistoryAtState/status/803735435499409409/photo/1",
+                "id": "803735433200988160",
                 "id_str": "803735433200988160",
                 "indices": [
-                    127,
-                    150
+                    "127",
+                    "150"
                 ],
                 "media_url": "http://pbs.twimg.com/media/CydxHj1W8AAL8vc.png",
                 "media_url_https": "https://pbs.twimg.com/media/CydxHj1W8AAL8vc.png",
                 "sizes": {
                     "large": {
-                        "h": 129,
+                        "h": "129",
                         "resize": "fit",
-                        "w": 250
+                        "w": "250"
                     },
                     "medium": {
-                        "h": 129,
+                        "h": "129",
                         "resize": "fit",
-                        "w": 250
+                        "w": "250"
                     },
                     "small": {
-                        "h": 129,
+                        "h": "129",
                         "resize": "fit",
-                        "w": 250
+                        "w": "250"
                     },
                     "thumb": {
-                        "h": 129,
+                        "h": "129",
                         "resize": "crop",
-                        "w": 129
+                        "w": "129"
                     }
                 },
                 "type": "photo",
@@ -144,27 +141,15 @@
             }
         ]
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "#JFK admin prepares for “decade of development” in 1961: https://t.co/TK3x6SrKzJ #FRUS #GivingTuesday @JFKLibrary  @PeaceCorps https://t.co/57NAOva2Gh",
-    "geo": null,
-    "id": 803735435499409410,
+    "id": "803735435499409409",
     "id_str": "803735435499409409",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 1,
+    "retweet_count": "1",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

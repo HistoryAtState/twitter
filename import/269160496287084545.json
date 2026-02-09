@@ -1,24 +1,22 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Thu Nov 15 19:30:37 +0000 2012",
     "display_text_range": [
-        0,
-        127
+        "0",
+        "127"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    105,
-                    110
+                    "105",
+                    "110"
                 ],
                 "text": "FRUS"
             },
             {
                 "indices": [
-                    111,
-                    127
+                    "111",
+                    "127"
                 ],
                 "text": "twitterstorians"
             }
@@ -29,35 +27,23 @@
                 "display_url": "go.usa.gov/YJpm",
                 "expanded_url": "http://go.usa.gov/YJpm",
                 "indices": [
-                    84,
-                    104
+                    "84",
+                    "104"
                 ],
                 "url": "http://t.co/ySBnu9y5"
             }
         ],
         "user_mentions": []
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "Nixon and de Gaulle discuss ending the Vietnam War. Read Western Europe, 1969-1972. http://t.co/ySBnu9y5 #FRUS #twitterstorians",
-    "geo": null,
-    "id": 269160496287084544,
+    "id": "269160496287084545",
     "id_str": "269160496287084545",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 2,
+    "retweet_count": "2",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

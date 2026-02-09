@@ -1,24 +1,22 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Thu Dec 17 22:22:43 +0000 2015",
     "display_text_range": [
-        0,
-        140
+        "0",
+        "140"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    21,
-                    28
+                    "21",
+                    "28"
                 ],
                 "text": "Sports"
             },
             {
                 "indices": [
-                    96,
-                    104
+                    "96",
+                    "104"
                 ],
                 "text": "DipNote"
             }
@@ -29,160 +27,44 @@
                 "display_url": "goo.gl/K4ctaq",
                 "expanded_url": "http://goo.gl/K4ctaq",
                 "indices": [
-                    106,
-                    129
+                    "106",
+                    "129"
                 ],
                 "url": "https://t.co/sToocBriq1"
             }
         ],
         "user_mentions": [
             {
-                "id": 263724360,
+                "id": "263724360",
                 "id_str": "263724360",
                 "indices": [
-                    3,
-                    19
+                    "3",
+                    "19"
                 ],
                 "name": "SportsDiplomacy",
                 "screen_name": "SportsDiplomacy"
             },
             {
-                "id": 9624742,
+                "id": "9624742",
                 "id_str": "9624742",
                 "indices": [
-                    85,
-                    95
+                    "85",
+                    "95"
                 ],
                 "name": "Department of State",
                 "screen_name": "StateDept"
             }
         ]
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "RT @SportsDiplomacy: #Sports spotlite on Mal Whitfield, our 1st Sports Envoy, with a @StateDept #DipNote: https://t.co/sToocBriq1! @ECAatSt…",
-    "geo": null,
-    "id": 677614931194290180,
+    "id": "677614931194290176",
     "id_str": "677614931194290176",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 3,
-    "retweeted": true,
-    "retweeted_status": {
-        "contributors": null,
-        "coordinates": null,
-        "created_at": "Thu Dec 17 22:19:54 +0000 2015",
-        "display_text_range": [
-            0,
-            137
-        ],
-        "entities": {
-            "hashtags": [
-                {
-                    "indices": [
-                        0,
-                        7
-                    ],
-                    "text": "Sports"
-                },
-                {
-                    "indices": [
-                        75,
-                        83
-                    ],
-                    "text": "DipNote"
-                }
-            ],
-            "symbols": [],
-            "urls": [
-                {
-                    "display_url": "goo.gl/K4ctaq",
-                    "expanded_url": "http://goo.gl/K4ctaq",
-                    "indices": [
-                        85,
-                        108
-                    ],
-                    "url": "https://t.co/sToocBriq1"
-                }
-            ],
-            "user_mentions": [
-                {
-                    "id": 9624742,
-                    "id_str": "9624742",
-                    "indices": [
-                        64,
-                        74
-                    ],
-                    "name": "Department of State",
-                    "screen_name": "StateDept"
-                },
-                {
-                    "id": 19006707,
-                    "id_str": "19006707",
-                    "indices": [
-                        110,
-                        121
-                    ],
-                    "name": "Educational &amp; Cultural Affairs—U.S. Dept. of State",
-                    "screen_name": "ECAatState"
-                },
-                {
-                    "id": 19302184,
-                    "id_str": "19302184",
-                    "indices": [
-                        122,
-                        128
-                    ],
-                    "name": "USATF",
-                    "screen_name": "usatf"
-                },
-                {
-                    "id": 21870081,
-                    "id_str": "21870081",
-                    "indices": [
-                        129,
-                        137
-                    ],
-                    "name": "Team USA",
-                    "screen_name": "TeamUSA"
-                }
-            ]
-        },
-        "favorite_count": 0,
-        "favorited": false,
-        "full_text": "#Sports spotlite on Mal Whitfield, our 1st Sports Envoy, with a @StateDept #DipNote: https://t.co/sToocBriq1! @ECAatState @USATF @TeamUSA",
-        "geo": null,
-        "id": 677614223174868990,
-        "id_str": "677614223174868993",
-        "in_reply_to_screen_name": null,
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "is_quote_status": false,
-        "lang": "en",
-        "place": null,
-        "possibly_sensitive": false,
-        "retweet_count": 3,
-        "retweeted": true,
-        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-        "truncated": false,
-        "user": {
-            "id": 263724360,
-            "id_str": "263724360"
-        }
-    },
+    "retweet_count": "0",
+    "retweeted": false,
     "source": "&lt;a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"&gt;Twitter for iPad&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

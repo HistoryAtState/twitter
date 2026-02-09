@@ -1,24 +1,22 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Thu Dec 24 15:25:20 +0000 2015",
     "display_text_range": [
-        0,
-        123
+        "0",
+        "123"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    101,
-                    106
+                    "101",
+                    "106"
                 ],
                 "text": "FRUS"
             },
             {
                 "indices": [
-                    107,
-                    123
+                    "107",
+                    "123"
                 ],
                 "text": "twitterstorians"
             }
@@ -29,35 +27,23 @@
                 "display_url": "go.usa.gov/cbJm9",
                 "expanded_url": "http://go.usa.gov/cbJm9",
                 "indices": [
-                    77,
-                    100
+                    "77",
+                    "100"
                 ],
                 "url": "https://t.co/cRWjRgLwva"
             }
         ],
         "user_mentions": []
     },
-    "favorite_count": 2,
+    "favorite_count": "2",
     "favorited": false,
     "full_text": "Why were US officials worried about British ‘memories of Suez’? Read more in https://t.co/cRWjRgLwva #FRUS #twitterstorians",
-    "geo": null,
-    "id": 680046608969510910,
+    "id": "680046608969510913",
     "id_str": "680046608969510913",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 4,
+    "retweet_count": "4",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

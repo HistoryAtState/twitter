@@ -1,53 +1,51 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Tue Jun 06 19:19:49 +0000 2017",
     "display_text_range": [
-        0,
-        88
+        "0",
+        "112"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    57,
-                    62
+                    "57",
+                    "62"
                 ],
                 "text": "DDay"
             }
         ],
         "media": [
             {
-                "display_url": "pic.twitter.com/DKCHCXkaoC",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/872171186410708992/photo/1",
-                "id": 872169801921200130,
+                "display_url": "pic.x.com/DKCHCXkaoC",
+                "expanded_url": "https://x.com/HistoryAtState/status/872171186410708992/photo/1",
+                "id": "872169801921200129",
                 "id_str": "872169801921200129",
                 "indices": [
-                    89,
-                    112
+                    "89",
+                    "112"
                 ],
                 "media_url": "http://pbs.twimg.com/media/DBqR0FtWAAEJX_z.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DBqR0FtWAAEJX_z.jpg",
                 "sizes": {
                     "large": {
-                        "h": 215,
+                        "h": "215",
                         "resize": "fit",
-                        "w": 320
+                        "w": "320"
                     },
                     "medium": {
-                        "h": 215,
+                        "h": "215",
                         "resize": "fit",
-                        "w": 320
+                        "w": "320"
                     },
                     "small": {
-                        "h": 215,
+                        "h": "215",
                         "resize": "fit",
-                        "w": 320
+                        "w": "320"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -60,8 +58,8 @@
                 "display_url": "history.state.gov/historicaldocu…",
                 "expanded_url": "https://history.state.gov/historicaldocuments/frus1944v01",
                 "indices": [
-                    65,
-                    88
+                    "65",
+                    "88"
                 ],
                 "url": "https://t.co/R57papbUSv"
             }
@@ -71,37 +69,36 @@
     "extended_entities": {
         "media": [
             {
-                "display_url": "pic.twitter.com/DKCHCXkaoC",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/872171186410708992/photo/1",
-                "ext_alt_text": null,
-                "id": 872169801921200130,
+                "display_url": "pic.x.com/DKCHCXkaoC",
+                "expanded_url": "https://x.com/HistoryAtState/status/872171186410708992/photo/1",
+                "id": "872169801921200129",
                 "id_str": "872169801921200129",
                 "indices": [
-                    89,
-                    112
+                    "89",
+                    "112"
                 ],
                 "media_url": "http://pbs.twimg.com/media/DBqR0FtWAAEJX_z.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DBqR0FtWAAEJX_z.jpg",
                 "sizes": {
                     "large": {
-                        "h": 215,
+                        "h": "215",
                         "resize": "fit",
-                        "w": 320
+                        "w": "320"
                     },
                     "medium": {
-                        "h": 215,
+                        "h": "215",
                         "resize": "fit",
-                        "w": 320
+                        "w": "320"
                     },
                     "small": {
-                        "h": 215,
+                        "h": "215",
                         "resize": "fit",
-                        "w": 320
+                        "w": "320"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -109,27 +106,15 @@
             }
         ]
     },
-    "favorite_count": 2,
+    "favorite_count": "2",
     "favorited": false,
     "full_text": "Read more about the diplomatic circumstances surrounding #DDay : https://t.co/R57papbUSv https://t.co/DKCHCXkaoC",
-    "geo": null,
-    "id": 872171186410708990,
+    "id": "872171186410708992",
     "id_str": "872171186410708992",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 2,
+    "retweet_count": "2",
     "retweeted": false,
     "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

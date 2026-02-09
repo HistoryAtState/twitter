@@ -1,53 +1,51 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Fri Aug 05 15:02:10 +0000 2022",
     "display_text_range": [
-        0,
-        227
+        "0",
+        "251"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    204,
-                    221
+                    "204",
+                    "221"
                 ],
                 "text": "ArchivesPostcard"
             }
         ],
         "media": [
             {
-                "display_url": "pic.twitter.com/PJwY5opKmx",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1555569860033351680/photo/1",
-                "id": 1555569857961365500,
+                "display_url": "pic.x.com/PJwY5opKmx",
+                "expanded_url": "https://x.com/HistoryAtState/status/1555569860033351680/photo/1",
+                "id": "1555569857961365506",
                 "id_str": "1555569857961365506",
                 "indices": [
-                    228,
-                    251
+                    "228",
+                    "251"
                 ],
                 "media_url": "http://pbs.twimg.com/media/FZZ-i0cXkAISOPJ.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/FZZ-i0cXkAISOPJ.jpg",
                 "sizes": {
                     "large": {
-                        "h": 512,
+                        "h": "512",
                         "resize": "fit",
-                        "w": 1024
+                        "w": "1024"
                     },
                     "medium": {
-                        "h": 512,
+                        "h": "512",
                         "resize": "fit",
-                        "w": 1024
+                        "w": "1024"
                     },
                     "small": {
-                        "h": 340,
+                        "h": "340",
                         "resize": "fit",
-                        "w": 680
+                        "w": "680"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -60,8 +58,8 @@
                 "display_url": "ow.ly/POvp50KbTaC",
                 "expanded_url": "http://ow.ly/POvp50KbTaC",
                 "indices": [
-                    179,
-                    202
+                    "179",
+                    "202"
                 ],
                 "url": "https://t.co/EWS1CQNCVt"
             }
@@ -71,37 +69,36 @@
     "extended_entities": {
         "media": [
             {
-                "display_url": "pic.twitter.com/PJwY5opKmx",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1555569860033351680/photo/1",
-                "ext_alt_text": "Text overlays a color photograph of East German demonstrators holding a German flag and a giant banner calling for reunification: “Greetings from East Germany, 1989–1990; #ArchivesPostcard @HistoryAtState”",
-                "id": 1555569857961365500,
+                "display_url": "pic.x.com/PJwY5opKmx",
+                "expanded_url": "https://x.com/HistoryAtState/status/1555569860033351680/photo/1",
+                "id": "1555569857961365506",
                 "id_str": "1555569857961365506",
                 "indices": [
-                    228,
-                    251
+                    "228",
+                    "251"
                 ],
                 "media_url": "http://pbs.twimg.com/media/FZZ-i0cXkAISOPJ.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/FZZ-i0cXkAISOPJ.jpg",
                 "sizes": {
                     "large": {
-                        "h": 512,
+                        "h": "512",
                         "resize": "fit",
-                        "w": 1024
+                        "w": "1024"
                     },
                     "medium": {
-                        "h": 512,
+                        "h": "512",
                         "resize": "fit",
-                        "w": 1024
+                        "w": "1024"
                     },
                     "small": {
-                        "h": 340,
+                        "h": "340",
                         "resize": "fit",
-                        "w": 680
+                        "w": "680"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -109,27 +106,15 @@
             }
         ]
     },
-    "favorite_count": 8,
+    "favorite_count": "5",
     "favorited": false,
     "full_text": "Sec. James Baker’s visits to Potsdam (1989) and East Berlin (1990) made him the first and only U.S. Secretary of State to visit the German Democratic Republic on official travel:\nhttps://t.co/EWS1CQNCVt\n\n#ArchivesPostcard\n(1/2) https://t.co/PJwY5opKmx",
-    "geo": null,
-    "id": 1555569860033351680,
+    "id": "1555569860033351680",
     "id_str": "1555569860033351680",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 1,
+    "retweet_count": "0",
     "retweeted": false,
     "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

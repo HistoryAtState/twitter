@@ -1,10 +1,8 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Fri Apr 17 14:52:42 +0000 2015",
     "display_text_range": [
-        0,
-        140
+        "0",
+        "140"
     ],
     "entities": {
         "hashtags": [],
@@ -12,103 +10,35 @@
         "urls": [],
         "user_mentions": [
             {
-                "id": 3131310616,
+                "id": "3131310616",
                 "id_str": "3131310616",
                 "indices": [
-                    3,
-                    13
+                    "3",
+                    "13"
                 ],
                 "name": "ICEDD",
                 "screen_name": "icedd_org"
             },
             {
-                "id": 586570880,
+                "id": "586570880",
                 "id_str": "586570880",
                 "indices": [
-                    62,
-                    77
+                    "62",
+                    "77"
                 ],
                 "name": "HistoryAtState",
                 "screen_name": "HistoryAtState"
             }
         ]
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "RT @icedd_org: Declassification workshop: Dr Carl Ashley from @historyatstate discusses complexity of process, sensitivity, diversity of do…",
-    "geo": null,
-    "id": 589079042307055620,
+    "id": "589079042307055618",
     "id_str": "589079042307055618",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
-    "retweet_count": 2,
-    "retweeted": true,
-    "retweeted_status": {
-        "contributors": null,
-        "coordinates": null,
-        "created_at": "Fri Apr 17 14:22:54 +0000 2015",
-        "display_text_range": [
-            0,
-            137
-        ],
-        "entities": {
-            "hashtags": [
-                {
-                    "indices": [
-                        127,
-                        137
-                    ],
-                    "text": "icedd2015"
-                }
-            ],
-            "symbols": [],
-            "urls": [],
-            "user_mentions": [
-                {
-                    "id": 586570880,
-                    "id_str": "586570880",
-                    "indices": [
-                        47,
-                        62
-                    ],
-                    "name": "HistoryAtState",
-                    "screen_name": "HistoryAtState"
-                }
-            ]
-        },
-        "favorite_count": 0,
-        "favorited": false,
-        "full_text": "Declassification workshop: Dr Carl Ashley from @historyatstate discusses complexity of process, sensitivity, diversity of docs #icedd2015",
-        "geo": null,
-        "id": 589071540349632510,
-        "id_str": "589071540349632512",
-        "in_reply_to_screen_name": null,
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "is_quote_status": false,
-        "lang": "en",
-        "place": null,
-        "retweet_count": 2,
-        "retweeted": true,
-        "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
-        "truncated": false,
-        "user": {
-            "id": 3131310616,
-            "id_str": "3131310616"
-        }
-    },
+    "retweet_count": "0",
+    "retweeted": false,
     "source": "&lt;a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"&gt;Twitter for iPad&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

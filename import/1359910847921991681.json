@@ -1,45 +1,43 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Thu Feb 11 17:03:06 +0000 2021",
     "display_text_range": [
-        0,
-        273
+        "0",
+        "297"
     ],
     "entities": {
         "hashtags": [],
         "media": [
             {
-                "display_url": "pic.twitter.com/Ol0UOQqOOA",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1359910847921991681/photo/1",
-                "id": 1359910846403600380,
+                "display_url": "pic.x.com/Ol0UOQqOOA",
+                "expanded_url": "https://x.com/HistoryAtState/status/1359910847921991681/photo/1",
+                "id": "1359910846403600390",
                 "id_str": "1359910846403600390",
                 "indices": [
-                    274,
-                    297
+                    "274",
+                    "297"
                 ],
                 "media_url": "http://pbs.twimg.com/media/Et9fta4WYAY_aUv.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/Et9fta4WYAY_aUv.jpg",
                 "sizes": {
                     "large": {
-                        "h": 496,
+                        "h": "496",
                         "resize": "fit",
-                        "w": 750
+                        "w": "750"
                     },
                     "medium": {
-                        "h": 496,
+                        "h": "496",
                         "resize": "fit",
-                        "w": 750
+                        "w": "750"
                     },
                     "small": {
-                        "h": 450,
+                        "h": "450",
                         "resize": "fit",
-                        "w": 680
+                        "w": "680"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -52,19 +50,19 @@
                 "display_url": "history.state.gov/historicaldocu…",
                 "expanded_url": "https://history.state.gov/historicaldocuments/frus1981-88v05/d143",
                 "indices": [
-                    231,
-                    254
+                    "231",
+                    "254"
                 ],
                 "url": "https://t.co/ieCri8N6py"
             }
         ],
         "user_mentions": [
             {
-                "id": 394351710,
+                "id": "394351710",
                 "id_str": "394351710",
                 "indices": [
-                    258,
-                    273
+                    "258",
+                    "273"
                 ],
                 "name": "RonaldReaganLibrary",
                 "screen_name": "Reagan_Library"
@@ -74,37 +72,36 @@
     "extended_entities": {
         "media": [
             {
-                "display_url": "pic.twitter.com/Ol0UOQqOOA",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1359910847921991681/photo/1",
-                "ext_alt_text": "Event photograph of Secretary of State Shultz, Soviet General Secretary Mikhail Gorbachev, and President Reagan seated (left to right) and conversing, while aides and officials stand onlooking, at Maison du Saussure on November 20, 1985 during the Geneva Summit.",
-                "id": 1359910846403600380,
+                "display_url": "pic.x.com/Ol0UOQqOOA",
+                "expanded_url": "https://x.com/HistoryAtState/status/1359910847921991681/photo/1",
+                "id": "1359910846403600390",
                 "id_str": "1359910846403600390",
                 "indices": [
-                    274,
-                    297
+                    "274",
+                    "297"
                 ],
                 "media_url": "http://pbs.twimg.com/media/Et9fta4WYAY_aUv.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/Et9fta4WYAY_aUv.jpg",
                 "sizes": {
                     "large": {
-                        "h": 496,
+                        "h": "496",
                         "resize": "fit",
-                        "w": 750
+                        "w": "750"
                     },
                     "medium": {
-                        "h": 496,
+                        "h": "496",
                         "resize": "fit",
-                        "w": 750
+                        "w": "750"
                     },
                     "small": {
-                        "h": 450,
+                        "h": "450",
                         "resize": "fit",
-                        "w": 680
+                        "w": "680"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -112,27 +109,15 @@
             }
         ]
     },
-    "favorite_count": 8,
+    "favorite_count": "6",
     "favorited": false,
     "full_text": "Secretary Shultz played a crucial role in developing policy for the summit meetings between President Reagan and Soviet General Secretary Gorbachev. In Nov. 1985, Shultz briefed Reagan on “What to Expect from Gorbachev in Geneva”:\nhttps://t.co/ieCri8N6py\n\n📷 @Reagan_Library https://t.co/Ol0UOQqOOA",
-    "geo": null,
-    "id": 1359910847921991680,
+    "id": "1359910847921991681",
     "id_str": "1359910847921991681",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 1,
+    "retweet_count": "1",
     "retweeted": false,
     "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

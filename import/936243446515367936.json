@@ -1,74 +1,72 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Thu Nov 30 14:40:06 +0000 2017",
     "display_text_range": [
-        0,
-        164
+        "0",
+        "188"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    136,
-                    141
+                    "136",
+                    "141"
                 ],
                 "text": "FRUS"
             },
             {
                 "indices": [
-                    142,
-                    147
+                    "142",
+                    "147"
                 ],
                 "text": "AIDS"
             },
             {
                 "indices": [
-                    148,
-                    155
+                    "148",
+                    "155"
                 ],
                 "text": "Famine"
             },
             {
                 "indices": [
-                    156,
-                    164
+                    "156",
+                    "164"
                 ],
                 "text": "Whaling"
             }
         ],
         "media": [
             {
-                "display_url": "pic.twitter.com/ji8HwhL8LB",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/936243446515367936/photo/1",
-                "id": 936243443973742590,
+                "display_url": "pic.x.com/ji8HwhL8LB",
+                "expanded_url": "https://x.com/HistoryAtState/status/936243446515367936/photo/1",
+                "id": "936243443973742592",
                 "id_str": "936243443973742592",
                 "indices": [
-                    165,
-                    188
+                    "165",
+                    "188"
                 ],
                 "media_url": "http://pbs.twimg.com/media/DP40c61X4AAWN2A.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DP40c61X4AAWN2A.jpg",
                 "sizes": {
                     "large": {
-                        "h": 447,
+                        "h": "447",
                         "resize": "fit",
-                        "w": 298
+                        "w": "298"
                     },
                     "medium": {
-                        "h": 447,
+                        "h": "447",
                         "resize": "fit",
-                        "w": 298
+                        "w": "298"
                     },
                     "small": {
-                        "h": 447,
+                        "h": "447",
                         "resize": "fit",
-                        "w": 298
+                        "w": "298"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -81,8 +79,8 @@
                 "display_url": "go.usa.gov/xnWzr",
                 "expanded_url": "https://go.usa.gov/xnWzr",
                 "indices": [
-                    111,
-                    134
+                    "111",
+                    "134"
                 ],
                 "url": "https://t.co/M8w0Wc3Wm9"
             }
@@ -92,37 +90,36 @@
     "extended_entities": {
         "media": [
             {
-                "display_url": "pic.twitter.com/ji8HwhL8LB",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/936243446515367936/photo/1",
-                "ext_alt_text": null,
-                "id": 936243443973742590,
+                "display_url": "pic.x.com/ji8HwhL8LB",
+                "expanded_url": "https://x.com/HistoryAtState/status/936243446515367936/photo/1",
+                "id": "936243443973742592",
                 "id_str": "936243443973742592",
                 "indices": [
-                    165,
-                    188
+                    "165",
+                    "188"
                 ],
                 "media_url": "http://pbs.twimg.com/media/DP40c61X4AAWN2A.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DP40c61X4AAWN2A.jpg",
                 "sizes": {
                     "large": {
-                        "h": 447,
+                        "h": "447",
                         "resize": "fit",
-                        "w": 298
+                        "w": "298"
                     },
                     "medium": {
-                        "h": 447,
+                        "h": "447",
                         "resize": "fit",
-                        "w": 298
+                        "w": "298"
                     },
                     "small": {
-                        "h": 447,
+                        "h": "447",
                         "resize": "fit",
-                        "w": 298
+                        "w": "298"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -130,27 +127,15 @@
             }
         ]
     },
-    "favorite_count": 23,
+    "favorite_count": "20",
     "favorited": false,
     "full_text": "The Office of the Historian releases Foreign Relations of the United States, 81–88, Vol. XLI, Global Issues II https://t.co/M8w0Wc3Wm9  #FRUS #AIDS #Famine #Whaling https://t.co/ji8HwhL8LB",
-    "geo": null,
-    "id": 936243446515367940,
+    "id": "936243446515367936",
     "id_str": "936243446515367936",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 40,
+    "retweet_count": "33",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

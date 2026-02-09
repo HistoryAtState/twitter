@@ -1,24 +1,22 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Thu Jan 03 19:45:52 +0000 2013",
     "display_text_range": [
-        0,
-        128
+        "0",
+        "128"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    81,
-                    89
+                    "81",
+                    "89"
                 ],
                 "text": "AHA2013"
             },
             {
                 "indices": [
-                    112,
-                    128
+                    "112",
+                    "128"
                 ],
                 "text": "twitterstorians"
             }
@@ -29,35 +27,23 @@
                 "display_url": "bit.ly/URLiqy",
                 "expanded_url": "http://bit.ly/URLiqy",
                 "indices": [
-                    91,
-                    111
+                    "91",
+                    "111"
                 ],
                 "url": "http://t.co/OCSuvQjU"
             }
         ],
         "user_mentions": []
     },
-    "favorite_count": 1,
+    "favorite_count": "1",
     "favorited": false,
     "full_text": "Join our historians as they discuss public history and the federal government at #AHA2013. http://t.co/OCSuvQjU #twitterstorians",
-    "geo": null,
-    "id": 286921339019870208,
+    "id": "286921339019870208",
     "id_str": "286921339019870208",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 4,
+    "retweet_count": "3",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

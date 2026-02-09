@@ -1,10 +1,8 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Thu Mar 22 13:32:50 +0000 2018",
     "display_text_range": [
-        0,
-        140
+        "0",
+        "140"
     ],
     "entities": {
         "hashtags": [],
@@ -12,283 +10,25 @@
         "urls": [],
         "user_mentions": [
             {
-                "id": 486867266,
+                "id": "486867266",
                 "id_str": "486867266",
                 "indices": [
-                    3,
-                    18
+                    "3",
+                    "18"
                 ],
                 "name": "SHFGHistorians",
                 "screen_name": "SHFGHistorians"
             }
         ]
     },
-    "favorite_count": 0,
-    "favorited": true,
+    "favorite_count": "0",
+    "favorited": false,
     "full_text": "RT @SHFGHistorians: We will be pleased to honor Dr Randolph with the Trask Award tomorrow, March 23, at our awards ceremony. 5pm @ByrdCente…",
-    "geo": null,
-    "id": 976813955837546500,
+    "id": "976813955837546499",
     "id_str": "976813955837546499",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": true,
     "lang": "en",
-    "place": null,
-    "quoted_status_id": 976120518800797700,
-    "quoted_status_id_str": "976120518800797697",
-    "quoted_status_permalink": {
-        "display": "twitter.com/faithtomfaith/…",
-        "expanded": "https://twitter.com/faithtomfaith/status/976120518800797697",
-        "url": "https://t.co/xhDo7btqdn"
-    },
-    "retweet_count": 4,
-    "retweeted": true,
-    "retweeted_status": {
-        "contributors": null,
-        "coordinates": null,
-        "created_at": "Thu Mar 22 12:01:16 +0000 2018",
-        "display_text_range": [
-            0,
-            172
-        ],
-        "entities": {
-            "hashtags": [
-                {
-                    "indices": [
-                        121,
-                        130
-                    ],
-                    "text": "shfg2018"
-                },
-                {
-                    "indices": [
-                        131,
-                        147
-                    ],
-                    "text": "twitterstorians"
-                }
-            ],
-            "symbols": [],
-            "urls": [
-                {
-                    "display_url": "twitter.com/faithtomfaith/…",
-                    "expanded_url": "https://twitter.com/faithtomfaith/status/976120518800797697",
-                    "indices": [
-                        173,
-                        196
-                    ],
-                    "url": "https://t.co/xhDo7btqdn"
-                }
-            ],
-            "user_mentions": [
-                {
-                    "id": 506066908,
-                    "id_str": "506066908",
-                    "indices": [
-                        109,
-                        120
-                    ],
-                    "name": "The Byrd Center for Congressional History &amp; Ed",
-                    "screen_name": "ByrdCenter"
-                },
-                {
-                    "id": 586570880,
-                    "id_str": "586570880",
-                    "indices": [
-                        148,
-                        163
-                    ],
-                    "name": "HistoryAtState",
-                    "screen_name": "HistoryAtState"
-                },
-                {
-                    "id": 473254411,
-                    "id_str": "473254411",
-                    "indices": [
-                        164,
-                        172
-                    ],
-                    "name": "National Defense University",
-                    "screen_name": "NDU_EDU"
-                }
-            ]
-        },
-        "favorite_count": 9,
-        "favorited": true,
-        "full_text": "We will be pleased to honor Dr Randolph with the Trask Award tomorrow, March 23, at our awards ceremony. 5pm @ByrdCenter #shfg2018 #twitterstorians @HistoryAtState @NDU_EDU https://t.co/xhDo7btqdn",
-        "geo": null,
-        "id": 976790913539330050,
-        "id_str": "976790913539330048",
-        "in_reply_to_screen_name": null,
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "is_quote_status": true,
-        "lang": "en",
-        "place": null,
-        "possibly_sensitive": false,
-        "quoted_status": {
-            "contributors": null,
-            "coordinates": null,
-            "created_at": "Tue Mar 20 15:37:21 +0000 2018",
-            "display_text_range": [
-                0,
-                213
-            ],
-            "entities": {
-                "hashtags": [],
-                "media": [
-                    {
-                        "display_url": "pic.twitter.com/8mmhbxMuvv",
-                        "expanded_url": "https://twitter.com/faithtomfaith/status/976120518800797697/photo/1",
-                        "id": 976119927428886530,
-                        "id_str": "976119927428886528",
-                        "indices": [
-                            214,
-                            237
-                        ],
-                        "media_url": "http://pbs.twimg.com/media/DYvf5vyUMAA9i7g.jpg",
-                        "media_url_https": "https://pbs.twimg.com/media/DYvf5vyUMAA9i7g.jpg",
-                        "sizes": {
-                            "large": {
-                                "h": 2048,
-                                "resize": "fit",
-                                "w": 1536
-                            },
-                            "medium": {
-                                "h": 1200,
-                                "resize": "fit",
-                                "w": 900
-                            },
-                            "small": {
-                                "h": 680,
-                                "resize": "fit",
-                                "w": 510
-                            },
-                            "thumb": {
-                                "h": 150,
-                                "resize": "crop",
-                                "w": 150
-                            }
-                        },
-                        "type": "photo",
-                        "url": "https://t.co/8mmhbxMuvv"
-                    }
-                ],
-                "symbols": [],
-                "urls": [
-                    {
-                        "display_url": "shfg.wildapricot.org/Federalist-New…",
-                        "expanded_url": "http://shfg.wildapricot.org/Federalist-Newsletter",
-                        "indices": [
-                            190,
-                            213
-                        ],
-                        "url": "https://t.co/XBhDlowod2"
-                    }
-                ],
-                "user_mentions": [
-                    {
-                        "id": 586570880,
-                        "id_str": "586570880",
-                        "indices": [
-                            130,
-                            145
-                        ],
-                        "name": "HistoryAtState",
-                        "screen_name": "HistoryAtState"
-                    }
-                ]
-            },
-            "extended_entities": {
-                "media": [
-                    {
-                        "display_url": "pic.twitter.com/8mmhbxMuvv",
-                        "expanded_url": "https://twitter.com/faithtomfaith/status/976120518800797697/photo/1",
-                        "ext_alt_text": null,
-                        "id": 976119927428886530,
-                        "id_str": "976119927428886528",
-                        "indices": [
-                            214,
-                            237
-                        ],
-                        "media_url": "http://pbs.twimg.com/media/DYvf5vyUMAA9i7g.jpg",
-                        "media_url_https": "https://pbs.twimg.com/media/DYvf5vyUMAA9i7g.jpg",
-                        "sizes": {
-                            "large": {
-                                "h": 2048,
-                                "resize": "fit",
-                                "w": 1536
-                            },
-                            "medium": {
-                                "h": 1200,
-                                "resize": "fit",
-                                "w": 900
-                            },
-                            "small": {
-                                "h": 680,
-                                "resize": "fit",
-                                "w": 510
-                            },
-                            "thumb": {
-                                "h": 150,
-                                "resize": "crop",
-                                "w": 150
-                            }
-                        },
-                        "type": "photo",
-                        "url": "https://t.co/8mmhbxMuvv"
-                    }
-                ]
-            },
-            "favorite_count": 5,
-            "favorited": false,
-            "full_text": "The new issue of The Federalist features a History Professional interview with Stephen Randolph, recently retired director of the @HistoryAtState Office and recent Roger Trask Award winner. https://t.co/XBhDlowod2 https://t.co/8mmhbxMuvv",
-            "geo": null,
-            "id": 976120518800797700,
-            "id_str": "976120518800797697",
-            "in_reply_to_screen_name": null,
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "is_quote_status": false,
-            "lang": "en",
-            "place": null,
-            "possibly_sensitive": false,
-            "retweet_count": 5,
-            "retweeted": false,
-            "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-            "truncated": false,
-            "user": {
-                "id": 1563657673,
-                "id_str": "1563657673"
-            }
-        },
-        "quoted_status_id": 976120518800797700,
-        "quoted_status_id_str": "976120518800797697",
-        "quoted_status_permalink": {
-            "display": "twitter.com/faithtomfaith/…",
-            "expanded": "https://twitter.com/faithtomfaith/status/976120518800797697",
-            "url": "https://t.co/xhDo7btqdn"
-        },
-        "retweet_count": 4,
-        "retweeted": true,
-        "source": "&lt;a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"&gt;Twitter for iPhone&lt;/a&gt;",
-        "truncated": false,
-        "user": {
-            "id": 486867266,
-            "id_str": "486867266"
-        }
-    },
+    "retweet_count": "0",
+    "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

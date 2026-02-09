@@ -1,74 +1,72 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Tue Apr 24 13:38:58 +0000 2018",
     "display_text_range": [
-        0,
-        184
+        "0",
+        "208"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    78,
-                    84
+                    "78",
+                    "84"
                 ],
                 "text": "Japan"
             },
             {
                 "indices": [
-                    141,
-                    146
+                    "141",
+                    "146"
                 ],
                 "text": "FRUS"
             },
             {
                 "indices": [
-                    147,
-                    163
+                    "147",
+                    "163"
                 ],
                 "text": "twitterstorians"
             },
             {
                 "indices": [
-                    164,
-                    184
+                    "164",
+                    "184"
                 ],
                 "text": "nationalpoetrymonth"
             }
         ],
         "media": [
             {
-                "display_url": "pic.twitter.com/llKfOXZoHB",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/988774300390916103/photo/1",
-                "id": 988773952729370620,
+                "display_url": "pic.x.com/llKfOXZoHB",
+                "expanded_url": "https://x.com/HistoryAtState/status/988774300390916103/photo/1",
+                "id": "988773952729370629",
                 "id_str": "988773952729370629",
                 "indices": [
-                    185,
-                    208
+                    "185",
+                    "208"
                 ],
                 "media_url": "http://pbs.twimg.com/media/DbjUq9eX0AU8DD5.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DbjUq9eX0AU8DD5.jpg",
                 "sizes": {
                     "large": {
-                        "h": 514,
+                        "h": "514",
                         "resize": "fit",
-                        "w": 347
+                        "w": "347"
                     },
                     "medium": {
-                        "h": 514,
+                        "h": "514",
                         "resize": "fit",
-                        "w": 347
+                        "w": "347"
                     },
                     "small": {
-                        "h": 514,
+                        "h": "514",
                         "resize": "fit",
-                        "w": 347
+                        "w": "347"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -81,8 +79,8 @@
                 "display_url": "go.usa.gov/xQC6A",
                 "expanded_url": "https://go.usa.gov/xQC6A",
                 "indices": [
-                    117,
-                    140
+                    "117",
+                    "140"
                 ],
                 "url": "https://t.co/lOvhpBw0SF"
             }
@@ -92,37 +90,36 @@
     "extended_entities": {
         "media": [
             {
-                "display_url": "pic.twitter.com/llKfOXZoHB",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/988774300390916103/photo/1",
-                "ext_alt_text": "Portrait of Langston Hughes",
-                "id": 988773952729370620,
+                "display_url": "pic.x.com/llKfOXZoHB",
+                "expanded_url": "https://x.com/HistoryAtState/status/988774300390916103/photo/1",
+                "id": "988773952729370629",
                 "id_str": "988773952729370629",
                 "indices": [
-                    185,
-                    208
+                    "185",
+                    "208"
                 ],
                 "media_url": "http://pbs.twimg.com/media/DbjUq9eX0AU8DD5.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DbjUq9eX0AU8DD5.jpg",
                 "sizes": {
                     "large": {
-                        "h": 514,
+                        "h": "514",
                         "resize": "fit",
-                        "w": 347
+                        "w": "347"
                     },
                     "medium": {
-                        "h": 514,
+                        "h": "514",
                         "resize": "fit",
-                        "w": 347
+                        "w": "347"
                     },
                     "small": {
-                        "h": 514,
+                        "h": "514",
                         "resize": "fit",
-                        "w": 347
+                        "w": "347"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -130,27 +127,15 @@
             }
         ]
     },
-    "favorite_count": 5,
+    "favorite_count": "3",
     "favorited": false,
     "full_text": "Ambassador Grew condemns the expulsion of U.S. poet Langston Hughes from 1933 #Japan on suspicion of Communist ties: https://t.co/lOvhpBw0SF #FRUS #twitterstorians #nationalpoetrymonth https://t.co/llKfOXZoHB",
-    "geo": null,
-    "id": 988774300390916100,
+    "id": "988774300390916103",
     "id_str": "988774300390916103",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 3,
+    "retweet_count": "2",
     "retweeted": false,
     "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

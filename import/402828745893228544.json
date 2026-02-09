@@ -1,24 +1,22 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Tue Nov 19 16:00:31 +0000 2013",
     "display_text_range": [
-        0,
-        137
+        "0",
+        "137"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    66,
-                    71
+                    "66",
+                    "71"
                 ],
                 "text": "FRUS"
             },
             {
                 "indices": [
-                    121,
-                    137
+                    "121",
+                    "137"
                 ],
                 "text": "twitterstorians"
             }
@@ -29,46 +27,34 @@
                 "display_url": "ow.ly/qWUae",
                 "expanded_url": "http://ow.ly/qWUae",
                 "indices": [
-                    89,
-                    111
+                    "89",
+                    "111"
                 ],
                 "url": "http://t.co/QpHpEoNru5"
             }
         ],
         "user_mentions": [
             {
-                "id": 62807483,
+                "id": "62807483",
                 "id_str": "62807483",
                 "indices": [
-                    112,
-                    120
+                    "112",
+                    "120"
                 ],
                 "name": "C-SPAN Video Library",
                 "screen_name": "cspanvl"
             }
         ]
     },
-    "favorite_count": 2,
+    "favorite_count": "2",
     "favorited": false,
     "full_text": "Meet The Historian Stephen Randolph as he discusses importance of #FRUS for policymakers http://t.co/QpHpEoNru5 @cspanvl #twitterstorians",
-    "geo": null,
-    "id": 402828745893228540,
+    "id": "402828745893228544",
     "id_str": "402828745893228544",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 4,
+    "retweet_count": "2",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

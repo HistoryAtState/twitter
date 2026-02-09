@@ -1,17 +1,15 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Thu Jul 27 16:23:38 +0000 2017",
     "display_text_range": [
-        0,
-        140
+        "0",
+        "140"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    133,
-                    137
+                    "133",
+                    "137"
                 ],
                 "text": "TBT"
             }
@@ -22,109 +20,34 @@
                 "display_url": "ow.ly/TJI330dTNd4",
                 "expanded_url": "http://ow.ly/TJI330dTNd4",
                 "indices": [
-                    109,
-                    132
+                    "109",
+                    "132"
                 ],
                 "url": "https://t.co/stxWJz7YCD"
             }
         ],
         "user_mentions": [
             {
-                "id": 834799740546056190,
+                "id": "834799740546056194",
                 "id_str": "834799740546056194",
                 "indices": [
-                    3,
-                    16
+                    "3",
+                    "16"
                 ],
-                "name": "statedeptdss",
+                "name": "Diplomatic Security Service",
                 "screen_name": "StateDeptDSS"
             }
         ]
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "RT @StateDeptDSS: DSS protects our SecStates and visiting dignitaries. Meet an agent who took down a gunman: https://t.co/stxWJz7YCD #TBT #…",
-    "geo": null,
-    "id": 890608629786624000,
+    "id": "890608629786624000",
     "id_str": "890608629786624000",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 2,
-    "retweeted": true,
-    "retweeted_status": {
-        "contributors": null,
-        "coordinates": null,
-        "created_at": "Thu Jul 27 13:01:14 +0000 2017",
-        "display_text_range": [
-            0,
-            135
-        ],
-        "entities": {
-            "hashtags": [
-                {
-                    "indices": [
-                        115,
-                        119
-                    ],
-                    "text": "TBT"
-                },
-                {
-                    "indices": [
-                        120,
-                        135
-                    ],
-                    "text": "AmericanHeroes"
-                }
-            ],
-            "symbols": [],
-            "urls": [
-                {
-                    "display_url": "ow.ly/TJI330dTNd4",
-                    "expanded_url": "http://ow.ly/TJI330dTNd4",
-                    "indices": [
-                        91,
-                        114
-                    ],
-                    "url": "https://t.co/stxWJz7YCD"
-                }
-            ],
-            "user_mentions": []
-        },
-        "favorite_count": 8,
-        "favorited": false,
-        "full_text": "DSS protects our SecStates and visiting dignitaries. Meet an agent who took down a gunman: https://t.co/stxWJz7YCD #TBT #AmericanHeroes",
-        "geo": null,
-        "id": 890557692896587780,
-        "id_str": "890557692896587777",
-        "in_reply_to_screen_name": null,
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "is_quote_status": false,
-        "lang": "en",
-        "place": null,
-        "possibly_sensitive": false,
-        "retweet_count": 2,
-        "retweeted": true,
-        "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-        "truncated": false,
-        "user": {
-            "id": 834799740546056190,
-            "id_str": "834799740546056194"
-        }
-    },
+    "retweet_count": "0",
+    "retweeted": false,
     "source": "&lt;a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"&gt;Twitter for iPad&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

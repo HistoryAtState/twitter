@@ -1,17 +1,15 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Fri Jul 17 16:11:30 +0000 2020",
     "display_text_range": [
-        0,
-        140
+        "0",
+        "140"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    49,
-                    53
+                    "49",
+                    "53"
                 ],
                 "text": "FSI"
             }
@@ -20,210 +18,35 @@
         "urls": [],
         "user_mentions": [
             {
-                "id": 958044239576948740,
-                "id_str": "958044239576948736",
+                "id": "-1",
+                "id_str": "-1",
                 "indices": [
-                    3,
-                    14
+                    "3",
+                    "14"
                 ],
-                "name": "Foreign Service Institute",
+                "name": "",
                 "screen_name": "FSIatState"
             },
             {
-                "id": 169927909,
+                "id": "169927909",
                 "id_str": "169927909",
                 "indices": [
-                    91,
-                    103
+                    "91",
+                    "103"
                 ],
                 "name": "Virtual Student Federal Service",
                 "screen_name": "VSFSatState"
             }
         ]
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "RT @FSIatState: Do you love historical research? #FSI’s Office of the Historian is seeking @VSFSatState eInterns to conduct research on U.S…",
-    "geo": null,
-    "id": 1284158796072452100,
+    "id": "1284158796072452097",
     "id_str": "1284158796072452097",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
-    "retweet_count": 7,
-    "retweeted": true,
-    "retweeted_status": {
-        "contributors": null,
-        "coordinates": null,
-        "created_at": "Thu Jul 16 12:39:47 +0000 2020",
-        "display_text_range": [
-            0,
-            230
-        ],
-        "entities": {
-            "hashtags": [
-                {
-                    "indices": [
-                        33,
-                        37
-                    ],
-                    "text": "FSI"
-                },
-                {
-                    "indices": [
-                        218,
-                        230
-                    ],
-                    "text": "ApplyinJuly"
-                }
-            ],
-            "media": [
-                {
-                    "display_url": "pic.twitter.com/EYTv25tHJX",
-                    "expanded_url": "https://twitter.com/FSIatState/status/1283743128722317313/photo/1",
-                    "id": 1283743074628374530,
-                    "id_str": "1283743074628374528",
-                    "indices": [
-                        231,
-                        254
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/EdDFhloXkAAYDyO.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/EdDFhloXkAAYDyO.jpg",
-                    "sizes": {
-                        "large": {
-                            "h": 512,
-                            "resize": "fit",
-                            "w": 1024
-                        },
-                        "medium": {
-                            "h": 512,
-                            "resize": "fit",
-                            "w": 1024
-                        },
-                        "small": {
-                            "h": 340,
-                            "resize": "fit",
-                            "w": 680
-                        },
-                        "thumb": {
-                            "h": 150,
-                            "resize": "crop",
-                            "w": 150
-                        }
-                    },
-                    "type": "photo",
-                    "url": "https://t.co/EYTv25tHJX"
-                }
-            ],
-            "symbols": [],
-            "urls": [
-                {
-                    "display_url": "go.usa.gov/xfrHj",
-                    "expanded_url": "http://go.usa.gov/xfrHj",
-                    "indices": [
-                        177,
-                        200
-                    ],
-                    "url": "https://t.co/4l6X51wCAH"
-                }
-            ],
-            "user_mentions": [
-                {
-                    "id": 169927909,
-                    "id_str": "169927909",
-                    "indices": [
-                        75,
-                        87
-                    ],
-                    "name": "Virtual Student Federal Service",
-                    "screen_name": "VSFSatState"
-                },
-                {
-                    "id": 586570880,
-                    "id_str": "586570880",
-                    "indices": [
-                        202,
-                        217
-                    ],
-                    "name": "HistoryAtState",
-                    "screen_name": "HistoryAtState"
-                }
-            ]
-        },
-        "extended_entities": {
-            "media": [
-                {
-                    "display_url": "pic.twitter.com/EYTv25tHJX",
-                    "expanded_url": "https://twitter.com/FSIatState/status/1283743128722317313/photo/1",
-                    "ext_alt_text": null,
-                    "id": 1283743074628374530,
-                    "id_str": "1283743074628374528",
-                    "indices": [
-                        231,
-                        254
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/EdDFhloXkAAYDyO.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/EdDFhloXkAAYDyO.jpg",
-                    "sizes": {
-                        "large": {
-                            "h": 512,
-                            "resize": "fit",
-                            "w": 1024
-                        },
-                        "medium": {
-                            "h": 512,
-                            "resize": "fit",
-                            "w": 1024
-                        },
-                        "small": {
-                            "h": 340,
-                            "resize": "fit",
-                            "w": 680
-                        },
-                        "thumb": {
-                            "h": 150,
-                            "resize": "crop",
-                            "w": 150
-                        }
-                    },
-                    "type": "photo",
-                    "url": "https://t.co/EYTv25tHJX"
-                }
-            ]
-        },
-        "favorite_count": 13,
-        "favorited": false,
-        "full_text": "Do you love historical research? #FSI’s Office of the Historian is seeking @VSFSatState eInterns to conduct research on U.S. relations with Sub-Saharan Africa. Learn more here: https://t.co/4l6X51wCAH. @HistoryAtState #ApplyinJuly https://t.co/EYTv25tHJX",
-        "geo": null,
-        "id": 1283743128722317310,
-        "id_str": "1283743128722317313",
-        "in_reply_to_screen_name": null,
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "is_quote_status": false,
-        "lang": "en",
-        "place": null,
-        "possibly_sensitive": false,
-        "retweet_count": 7,
-        "retweeted": true,
-        "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
-        "truncated": false,
-        "user": {
-            "id": 958044239576948740,
-            "id_str": "958044239576948736"
-        }
-    },
+    "retweet_count": "0",
+    "retweeted": false,
     "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

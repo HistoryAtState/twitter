@@ -1,31 +1,29 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Tue Jan 08 18:51:01 +0000 2013",
     "display_text_range": [
-        0,
-        132
+        "0",
+        "132"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    42,
-                    47
+                    "42",
+                    "47"
                 ],
                 "text": "FRUS"
             },
             {
                 "indices": [
-                    86,
-                    93
+                    "86",
+                    "93"
                 ],
                 "text": "ebooks"
             },
             {
                 "indices": [
-                    116,
-                    132
+                    "116",
+                    "132"
                 ],
                 "text": "twitterstorians"
             }
@@ -36,35 +34,23 @@
                 "display_url": "go.usa.gov/gG5H",
                 "expanded_url": "http://go.usa.gov/gG5H",
                 "indices": [
-                    95,
-                    115
+                    "95",
+                    "115"
                 ],
                 "url": "http://t.co/VhN4oq2j"
             }
         ],
         "user_mentions": []
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "Interested in the Johnson administration? #FRUS volumes from 1964-68 now available as #ebooks. http://t.co/VhN4oq2j #twitterstorians",
-    "geo": null,
-    "id": 288719472892719100,
+    "id": "288719472892719104",
     "id_str": "288719472892719104",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 3,
+    "retweet_count": "1",
     "retweeted": false,
     "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

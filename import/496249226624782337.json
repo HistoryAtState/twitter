@@ -1,17 +1,15 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Mon Aug 04 11:00:10 +0000 2014",
     "display_text_range": [
-        0,
-        132
+        "0",
+        "132"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    123,
-                    132
+                    "123",
+                    "132"
                 ],
                 "text": "WW1Tweet"
             }
@@ -22,46 +20,34 @@
                 "display_url": "ow.ly/zUHws",
                 "expanded_url": "http://ow.ly/zUHws",
                 "indices": [
-                    100,
-                    122
+                    "100",
+                    "122"
                 ],
                 "url": "http://t.co/mOl5Ja4C9w"
             }
         ],
         "user_mentions": [
             {
-                "id": 14856951,
+                "id": "14856951",
                 "id_str": "14856951",
                 "indices": [
-                    44,
-                    52
+                    "44",
+                    "52"
                 ],
                 "name": "U.S. Embassy London",
                 "screen_name": "USAinUK"
             }
         ]
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "Aug. 4 1914 Britain descends into war. Read @USAinUK Amb. Page’s reports on the situation in London http://t.co/mOl5Ja4C9w #WW1Tweet",
-    "geo": null,
-    "id": 496249226624782340,
+    "id": "496249226624782337",
     "id_str": "496249226624782337",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 5,
+    "retweet_count": "5",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

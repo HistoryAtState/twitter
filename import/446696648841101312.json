@@ -1,63 +1,38 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Thu Mar 20 17:15:54 +0000 2014",
     "display_text_range": [
-        0,
-        134
+        "0",
+        "134"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    103,
-                    109
+                    "103",
+                    "109"
                 ],
                 "text": "water"
             },
             {
                 "indices": [
-                    120,
-                    134
+                    "120",
+                    "134"
                 ],
                 "text": "WorldWaterDay"
             }
         ],
         "symbols": [],
         "urls": [],
-        "user_mentions": [
-            {
-                "id": 758841228687388670,
-                "id_str": "758841228687388675",
-                "indices": [
-                    25,
-                    33
-                ],
-                "name": "Jerome Edwards",
-                "screen_name": "UNW_WWD"
-            }
-        ]
+        "user_mentions": []
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "Join us as we celebrate .@UNW_WWD &amp;amp; the history of US role in promoting sustainable use of world’s #water resources #WorldWaterDay",
-    "geo": null,
-    "id": 446696648841101310,
+    "id": "446696648841101312",
     "id_str": "446696648841101312",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
-    "retweet_count": 0,
+    "retweet_count": "0",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

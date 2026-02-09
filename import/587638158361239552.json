@@ -1,17 +1,15 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Mon Apr 13 15:27:09 +0000 2015",
     "display_text_range": [
-        0,
-        140
+        "0",
+        "140"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    130,
-                    140
+                    "130",
+                    "140"
                 ],
                 "text": "icedd2015"
             }
@@ -22,56 +20,44 @@
                 "display_url": "diplomatic-documents.org/washington-2015",
                 "expanded_url": "http://diplomatic-documents.org/washington-2015",
                 "indices": [
-                    107,
-                    129
+                    "107",
+                    "129"
                 ],
                 "url": "http://t.co/UlSDu3gW1I"
             }
         ],
         "user_mentions": [
             {
-                "id": 3131310616,
+                "id": "3131310616",
                 "id_str": "3131310616",
                 "indices": [
-                    4,
-                    14
+                    "4",
+                    "14"
                 ],
                 "name": "ICEDD",
                 "screen_name": "icedd_org"
             },
             {
-                "id": 9624742,
+                "id": "9624742",
                 "id_str": "9624742",
                 "indices": [
-                    96,
-                    106
+                    "96",
+                    "106"
                 ],
                 "name": "Department of State",
                 "screen_name": "StateDept"
             }
         ]
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "The @icedd_org meeting is a international gathering of diplomatic document editors happening at @StateDept http://t.co/UlSDu3gW1I #icedd2015",
-    "geo": null,
-    "id": 587638158361239550,
+    "id": "587638158361239552",
     "id_str": "587638158361239552",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 3,
+    "retweet_count": "1",
     "retweeted": false,
     "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

@@ -1,215 +1,55 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Mon Jan 08 14:14:38 +0000 2018",
     "display_text_range": [
-        0,
-        106
+        "0",
+        "106"
     ],
     "entities": {
         "hashtags": [],
         "symbols": [],
         "urls": [
             {
-                "display_url": "twitter.com/NathanADaniels…",
-                "expanded_url": "https://twitter.com/NathanADaniels/status/949672203737542656",
+                "display_url": "x.com/NathanADaniels…",
+                "expanded_url": "https://x.com/NathanADaniels/status/949672203737542656",
                 "indices": [
-                    83,
-                    106
+                    "83",
+                    "106"
                 ],
                 "url": "https://t.co/mrq3880uJ1"
             }
         ],
         "user_mentions": [
             {
-                "id": 16359468,
+                "id": "16359468",
                 "id_str": "16359468",
                 "indices": [
-                    3,
-                    15
+                    "3",
+                    "15"
                 ],
                 "name": "Susan Stevenson",
                 "screen_name": "stevensonsn"
             },
             {
-                "id": 586570880,
+                "id": "586570880",
                 "id_str": "586570880",
                 "indices": [
-                    36,
-                    51
+                    "36",
+                    "51"
                 ],
                 "name": "HistoryAtState",
                 "screen_name": "HistoryAtState"
             }
         ]
     },
-    "favorite_count": 0,
-    "favorited": true,
+    "favorite_count": "0",
+    "favorited": false,
     "full_text": "RT @stevensonsn: Pleased to see the @HistoryAtState recognized for its great work! https://t.co/mrq3880uJ1",
-    "geo": null,
-    "id": 950370162053664770,
+    "id": "950370162053664769",
     "id_str": "950370162053664769",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": true,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "quoted_status_id": 949672203737542660,
-    "quoted_status_id_str": "949672203737542656",
-    "quoted_status_permalink": {
-        "display": "twitter.com/NathanADaniels…",
-        "expanded": "https://twitter.com/NathanADaniels/status/949672203737542656",
-        "url": "https://t.co/mrq3880uJ1"
-    },
-    "retweet_count": 4,
-    "retweeted": true,
-    "retweeted_status": {
-        "contributors": null,
-        "coordinates": null,
-        "created_at": "Mon Jan 08 13:24:03 +0000 2018",
-        "display_text_range": [
-            0,
-            65
-        ],
-        "entities": {
-            "hashtags": [],
-            "symbols": [],
-            "urls": [
-                {
-                    "display_url": "twitter.com/NathanADaniels…",
-                    "expanded_url": "https://twitter.com/NathanADaniels/status/949672203737542656",
-                    "indices": [
-                        66,
-                        89
-                    ],
-                    "url": "https://t.co/mrq3880uJ1"
-                }
-            ],
-            "user_mentions": [
-                {
-                    "id": 586570880,
-                    "id_str": "586570880",
-                    "indices": [
-                        19,
-                        34
-                    ],
-                    "name": "HistoryAtState",
-                    "screen_name": "HistoryAtState"
-                }
-            ]
-        },
-        "favorite_count": 15,
-        "favorited": true,
-        "full_text": "Pleased to see the @HistoryAtState recognized for its great work! https://t.co/mrq3880uJ1",
-        "geo": null,
-        "id": 950357431195926530,
-        "id_str": "950357431195926528",
-        "in_reply_to_screen_name": null,
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "is_quote_status": true,
-        "lang": "en",
-        "place": null,
-        "possibly_sensitive": false,
-        "quoted_status": {
-            "contributors": null,
-            "coordinates": null,
-            "created_at": "Sat Jan 06 16:01:12 +0000 2018",
-            "display_text_range": [
-                0,
-                151
-            ],
-            "entities": {
-                "hashtags": [
-                    {
-                        "indices": [
-                            139,
-                            145
-                        ],
-                        "text": "aha18"
-                    },
-                    {
-                        "indices": [
-                            146,
-                            151
-                        ],
-                        "text": "s186"
-                    }
-                ],
-                "symbols": [],
-                "urls": [],
-                "user_mentions": [
-                    {
-                        "id": 9624742,
-                        "id_str": "9624742",
-                        "indices": [
-                            5,
-                            15
-                        ],
-                        "name": "Department of State",
-                        "screen_name": "StateDept"
-                    },
-                    {
-                        "id": 3550661,
-                        "id_str": "3550661",
-                        "indices": [
-                            45,
-                            52
-                        ],
-                        "name": "Joe Wicentowski 魏思達",
-                        "screen_name": "joewiz"
-                    }
-                ]
-            },
-            "favorite_count": 7,
-            "favorited": false,
-            "full_text": "U.S. @StateDept Office of the Historian (via @joewiz) made decision to use TEI and open standards to digitize docs, and to do it in-house. #aha18 #s186",
-            "geo": null,
-            "id": 949672203737542660,
-            "id_str": "949672203737542656",
-            "in_reply_to_screen_name": null,
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "is_quote_status": false,
-            "lang": "en",
-            "place": null,
-            "retweet_count": 4,
-            "retweeted": false,
-            "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
-            "truncated": false,
-            "user": {
-                "id": 80347882,
-                "id_str": "80347882"
-            }
-        },
-        "quoted_status_id": 949672203737542660,
-        "quoted_status_id_str": "949672203737542656",
-        "quoted_status_permalink": {
-            "display": "twitter.com/NathanADaniels…",
-            "expanded": "https://twitter.com/NathanADaniels/status/949672203737542656",
-            "url": "https://t.co/mrq3880uJ1"
-        },
-        "retweet_count": 4,
-        "retweeted": true,
-        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-        "truncated": false,
-        "user": {
-            "id": 16359468,
-            "id_str": "16359468"
-        }
-    },
+    "retweet_count": "0",
+    "retweeted": false,
     "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

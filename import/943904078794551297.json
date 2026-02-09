@@ -1,31 +1,29 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Thu Dec 21 18:00:43 +0000 2017",
     "display_text_range": [
-        0,
-        220
+        "0",
+        "220"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    154,
-                    165
+                    "154",
+                    "165"
                 ],
                 "text": "VietnamWar"
             },
             {
                 "indices": [
-                    190,
-                    195
+                    "190",
+                    "195"
                 ],
                 "text": "FRUS"
             },
             {
                 "indices": [
-                    196,
-                    210
+                    "196",
+                    "210"
                 ],
                 "text": "VietnamWarPBS"
             }
@@ -36,56 +34,44 @@
                 "display_url": "history.state.gov/historicaldocu…",
                 "expanded_url": "https://history.state.gov/historicaldocuments/frus1969-76v42",
                 "indices": [
-                    166,
-                    189
+                    "166",
+                    "189"
                 ],
                 "url": "https://t.co/2p5GVhWO6R"
             }
         ],
         "user_mentions": [
             {
-                "id": 12133382,
+                "id": "12133382",
                 "id_str": "12133382",
                 "indices": [
-                    23,
-                    27
+                    "23",
+                    "27"
                 ],
                 "name": "PBS",
                 "screen_name": "PBS"
             },
             {
-                "id": 397507908,
+                "id": "397507908",
                 "id_str": "397507908",
                 "indices": [
-                    211,
-                    220
+                    "211",
+                    "220"
                 ],
                 "name": "Ken Burns",
                 "screen_name": "KenBurns"
             }
         ]
     },
-    "favorite_count": 2,
+    "favorite_count": "2",
     "favorited": false,
     "full_text": "You've seen the recent @PBS documentary, now you can read the actual conversations of Henry Kissinger and Le Duc Tho during their negotiations to end the #VietnamWar https://t.co/2p5GVhWO6R #FRUS #VietnamWarPBS @KenBurns",
-    "geo": null,
-    "id": 943904078794551300,
+    "id": "943904078794551297",
     "id_str": "943904078794551297",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 2,
+    "retweet_count": "2",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

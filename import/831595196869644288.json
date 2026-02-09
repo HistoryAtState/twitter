@@ -1,60 +1,58 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Tue Feb 14 20:05:19 +0000 2017",
     "display_text_range": [
-        0,
-        139
+        "0",
+        "163"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    11,
-                    22
+                    "11",
+                    "22"
                 ],
                 "text": "Valentines"
             },
             {
                 "indices": [
-                    110,
-                    115
+                    "110",
+                    "115"
                 ],
                 "text": "FRUS"
             }
         ],
         "media": [
             {
-                "display_url": "pic.twitter.com/m9oLGTAcLl",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/831595196869644288/photo/1",
-                "id": 831595194319507460,
+                "display_url": "pic.x.com/m9oLGTAcLl",
+                "expanded_url": "https://x.com/HistoryAtState/status/831595196869644288/photo/1",
+                "id": "831595194319507456",
                 "id_str": "831595194319507456",
                 "indices": [
-                    140,
-                    163
+                    "140",
+                    "163"
                 ],
                 "media_url": "http://pbs.twimg.com/media/C4prbFpWEAA5n7N.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/C4prbFpWEAA5n7N.jpg",
                 "sizes": {
                     "large": {
-                        "h": 569,
+                        "h": "569",
                         "resize": "fit",
-                        "w": 800
+                        "w": "800"
                     },
                     "medium": {
-                        "h": 569,
+                        "h": "569",
                         "resize": "fit",
-                        "w": 800
+                        "w": "800"
                     },
                     "small": {
-                        "h": 484,
+                        "h": "484",
                         "resize": "fit",
-                        "w": 680
+                        "w": "680"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -67,8 +65,8 @@
                 "display_url": "go.usa.gov/x9MGV",
                 "expanded_url": "http://go.usa.gov/x9MGV",
                 "indices": [
-                    116,
-                    139
+                    "116",
+                    "139"
                 ],
                 "url": "https://t.co/h0rAn1wHSa"
             }
@@ -78,37 +76,36 @@
     "extended_entities": {
         "media": [
             {
-                "display_url": "pic.twitter.com/m9oLGTAcLl",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/831595196869644288/photo/1",
-                "ext_alt_text": null,
-                "id": 831595194319507460,
+                "display_url": "pic.x.com/m9oLGTAcLl",
+                "expanded_url": "https://x.com/HistoryAtState/status/831595196869644288/photo/1",
+                "id": "831595194319507456",
                 "id_str": "831595194319507456",
                 "indices": [
-                    140,
-                    163
+                    "140",
+                    "163"
                 ],
                 "media_url": "http://pbs.twimg.com/media/C4prbFpWEAA5n7N.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/C4prbFpWEAA5n7N.jpg",
                 "sizes": {
                     "large": {
-                        "h": 569,
+                        "h": "569",
                         "resize": "fit",
-                        "w": 800
+                        "w": "800"
                     },
                     "medium": {
-                        "h": 569,
+                        "h": "569",
                         "resize": "fit",
-                        "w": 800
+                        "w": "800"
                     },
                     "small": {
-                        "h": 484,
+                        "h": "484",
                         "resize": "fit",
-                        "w": 680
+                        "w": "680"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -116,27 +113,15 @@
             }
         ]
     },
-    "favorite_count": 1,
+    "favorite_count": "1",
     "favorited": false,
     "full_text": "What other #Valentines are there? Valentine tanks, discussed in 1943 by Gen Marshall at Casablanca Conference #FRUS https://t.co/h0rAn1wHSa https://t.co/m9oLGTAcLl",
-    "geo": null,
-    "id": 831595196869644290,
+    "id": "831595196869644288",
     "id_str": "831595196869644288",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 1,
+    "retweet_count": "1",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

@@ -1,81 +1,79 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Sat Dec 31 21:30:29 +0000 2016",
     "display_text_range": [
-        0,
-        137
+        "0",
+        "161"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    15,
-                    21
+                    "15",
+                    "21"
                 ],
                 "text": "Nixon"
             },
             {
                 "indices": [
-                    33,
-                    41
+                    "33",
+                    "41"
                 ],
                 "text": "Romania"
             },
             {
                 "indices": [
-                    44,
-                    52
+                    "44",
+                    "52"
                 ],
                 "text": "Vietnam"
             },
             {
                 "indices": [
-                    70,
-                    74
+                    "70",
+                    "74"
                 ],
                 "text": "NYE"
             },
             {
                 "indices": [
-                    105,
-                    110
+                    "105",
+                    "110"
                 ],
                 "text": "FRUS"
             }
         ],
         "media": [
             {
-                "display_url": "pic.twitter.com/2zlf9LNFsx",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/815309174175318020/photo/1",
-                "id": 815309171843301380,
+                "display_url": "pic.x.com/2zlf9LNFsx",
+                "expanded_url": "https://x.com/HistoryAtState/status/815309174175318020/photo/1",
+                "id": "815309171843301376",
                 "id_str": "815309171843301376",
                 "indices": [
-                    138,
-                    161
+                    "138",
+                    "161"
                 ],
                 "media_url": "http://pbs.twimg.com/media/C1CPX0HWgAA7gOk.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/C1CPX0HWgAA7gOk.jpg",
                 "sizes": {
                     "large": {
-                        "h": 411,
+                        "h": "411",
                         "resize": "fit",
-                        "w": 600
+                        "w": "600"
                     },
                     "medium": {
-                        "h": 411,
+                        "h": "411",
                         "resize": "fit",
-                        "w": 600
+                        "w": "600"
                     },
                     "small": {
-                        "h": 411,
+                        "h": "411",
                         "resize": "fit",
-                        "w": 600
+                        "w": "600"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -88,31 +86,31 @@
                 "display_url": "go.usa.gov/x9YMG",
                 "expanded_url": "http://go.usa.gov/x9YMG",
                 "indices": [
-                    81,
-                    104
+                    "81",
+                    "104"
                 ],
                 "url": "https://t.co/XblbEJ4pyg"
             }
         ],
         "user_mentions": [
             {
-                "id": 4276158575,
+                "id": "4276158575",
                 "id_str": "4276158575",
                 "indices": [
-                    111,
-                    124
+                    "111",
+                    "124"
                 ],
                 "name": "RichardNixonLibrary",
                 "screen_name": "NixonLibrary"
             },
             {
-                "id": 1241168023,
+                "id": "1241168023",
                 "id_str": "1241168023",
                 "indices": [
-                    125,
-                    137
+                    "125",
+                    "137"
                 ],
-                "name": "US Embassy Bucharest",
+                "name": "U.S. Embassy Bucharest",
                 "screen_name": "AmbasadaSUA"
             }
         ]
@@ -120,37 +118,36 @@
     "extended_entities": {
         "media": [
             {
-                "display_url": "pic.twitter.com/2zlf9LNFsx",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/815309174175318020/photo/1",
-                "ext_alt_text": null,
-                "id": 815309171843301380,
+                "display_url": "pic.x.com/2zlf9LNFsx",
+                "expanded_url": "https://x.com/HistoryAtState/status/815309174175318020/photo/1",
+                "id": "815309171843301376",
                 "id_str": "815309171843301376",
                 "indices": [
-                    138,
-                    161
+                    "138",
+                    "161"
                 ],
                 "media_url": "http://pbs.twimg.com/media/C1CPX0HWgAA7gOk.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/C1CPX0HWgAA7gOk.jpg",
                 "sizes": {
                     "large": {
-                        "h": 411,
+                        "h": "411",
                         "resize": "fit",
-                        "w": 600
+                        "w": "600"
                     },
                     "medium": {
-                        "h": 411,
+                        "h": "411",
                         "resize": "fit",
-                        "w": 600
+                        "w": "600"
                     },
                     "small": {
-                        "h": 411,
+                        "h": "411",
                         "resize": "fit",
-                        "w": 600
+                        "w": "600"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -158,27 +155,15 @@
             }
         ]
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "Ceausescu asks #Nixon via Amb. 2 #Romania 4 #Vietnam ceasefire @ 1971 #NYE fête: https://t.co/XblbEJ4pyg #FRUS @NixonLibrary @AmbasadaSUA https://t.co/2zlf9LNFsx",
-    "geo": null,
-    "id": 815309174175318020,
+    "id": "815309174175318020",
     "id_str": "815309174175318020",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "ro",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 1,
+    "retweet_count": "1",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

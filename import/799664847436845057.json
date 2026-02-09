@@ -1,17 +1,15 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Fri Nov 18 17:25:31 +0000 2016",
     "display_text_range": [
-        0,
-        143
+        "0",
+        "143"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    20,
-                    25
+                    "20",
+                    "25"
                 ],
                 "text": "FRUS"
             }
@@ -20,199 +18,25 @@
         "urls": [],
         "user_mentions": [
             {
-                "id": 1112380602,
+                "id": "1112380602",
                 "id_str": "1112380602",
                 "indices": [
-                    3,
-                    18
+                    "3",
+                    "18"
                 ],
                 "name": "Clements Center",
                 "screen_name": "ClementsCenter"
             }
         ]
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "RT @ClementsCenter: #FRUS General Editor Adam Howard encourages historians to use the series to read btwn the lines of US Foreign Policy &amp;amp;…",
-    "geo": null,
-    "id": 799664847436845060,
+    "id": "799664847436845057",
     "id_str": "799664847436845057",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
-    "retweet_count": 6,
-    "retweeted": true,
-    "retweeted_status": {
-        "contributors": null,
-        "coordinates": null,
-        "created_at": "Fri Nov 18 16:40:18 +0000 2016",
-        "display_text_range": [
-            0,
-            144
-        ],
-        "entities": {
-            "hashtags": [
-                {
-                    "indices": [
-                        0,
-                        5
-                    ],
-                    "text": "FRUS"
-                }
-            ],
-            "media": [
-                {
-                    "display_url": "pic.twitter.com/6tXggX5kQK",
-                    "expanded_url": "https://twitter.com/ClementsCenter/status/799653467623014400/photo/1",
-                    "id": 799652613318840320,
-                    "id_str": "799652613318840320",
-                    "indices": [
-                        145,
-                        168
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/Cxjv0KiVEAAU7YS.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/Cxjv0KiVEAAU7YS.jpg",
-                    "sizes": {
-                        "large": {
-                            "h": 711,
-                            "resize": "fit",
-                            "w": 1024
-                        },
-                        "medium": {
-                            "h": 711,
-                            "resize": "fit",
-                            "w": 1024
-                        },
-                        "small": {
-                            "h": 472,
-                            "resize": "fit",
-                            "w": 680
-                        },
-                        "thumb": {
-                            "h": 150,
-                            "resize": "crop",
-                            "w": 150
-                        }
-                    },
-                    "type": "photo",
-                    "url": "https://t.co/6tXggX5kQK"
-                }
-            ],
-            "symbols": [],
-            "urls": [],
-            "user_mentions": []
-        },
-        "extended_entities": {
-            "media": [
-                {
-                    "display_url": "pic.twitter.com/6tXggX5kQK",
-                    "expanded_url": "https://twitter.com/ClementsCenter/status/799653467623014400/photo/1",
-                    "ext_alt_text": null,
-                    "id": 799652613318840320,
-                    "id_str": "799652613318840320",
-                    "indices": [
-                        145,
-                        168
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/Cxjv0KiVEAAU7YS.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/Cxjv0KiVEAAU7YS.jpg",
-                    "sizes": {
-                        "large": {
-                            "h": 711,
-                            "resize": "fit",
-                            "w": 1024
-                        },
-                        "medium": {
-                            "h": 711,
-                            "resize": "fit",
-                            "w": 1024
-                        },
-                        "small": {
-                            "h": 472,
-                            "resize": "fit",
-                            "w": 680
-                        },
-                        "thumb": {
-                            "h": 150,
-                            "resize": "crop",
-                            "w": 150
-                        }
-                    },
-                    "type": "photo",
-                    "url": "https://t.co/6tXggX5kQK"
-                },
-                {
-                    "display_url": "pic.twitter.com/6tXggX5kQK",
-                    "expanded_url": "https://twitter.com/ClementsCenter/status/799653467623014400/photo/1",
-                    "ext_alt_text": null,
-                    "id": 799652637729648640,
-                    "id_str": "799652637729648640",
-                    "indices": [
-                        145,
-                        168
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/Cxjv1leUcAA6riV.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/Cxjv1leUcAA6riV.jpg",
-                    "sizes": {
-                        "large": {
-                            "h": 638,
-                            "resize": "fit",
-                            "w": 424
-                        },
-                        "medium": {
-                            "h": 638,
-                            "resize": "fit",
-                            "w": 424
-                        },
-                        "small": {
-                            "h": 638,
-                            "resize": "fit",
-                            "w": 424
-                        },
-                        "thumb": {
-                            "h": 150,
-                            "resize": "crop",
-                            "w": 150
-                        }
-                    },
-                    "type": "photo",
-                    "url": "https://t.co/6tXggX5kQK"
-                }
-            ]
-        },
-        "favorite_count": 7,
-        "favorited": false,
-        "full_text": "#FRUS General Editor Adam Howard encourages historians to use the series to read btwn the lines of US Foreign Policy &amp;amp; Kissinger's diplomacy https://t.co/6tXggX5kQK",
-        "geo": null,
-        "id": 799653467623014400,
-        "id_str": "799653467623014400",
-        "in_reply_to_screen_name": null,
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "is_quote_status": false,
-        "lang": "en",
-        "place": null,
-        "possibly_sensitive": false,
-        "retweet_count": 6,
-        "retweeted": true,
-        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-        "truncated": false,
-        "user": {
-            "id": 1112380602,
-            "id_str": "1112380602"
-        }
-    },
+    "retweet_count": "0",
+    "retweeted": false,
     "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

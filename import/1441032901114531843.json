@@ -1,17 +1,15 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Thu Sep 23 13:33:11 +0000 2021",
     "display_text_range": [
-        0,
-        140
+        "0",
+        "140"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    22,
-                    38
+                    "22",
+                    "38"
                 ],
                 "text": "AHAPerspectives"
             }
@@ -20,124 +18,25 @@
         "urls": [],
         "user_mentions": [
             {
-                "id": 76944176,
+                "id": "76944176",
                 "id_str": "76944176",
                 "indices": [
-                    3,
-                    17
+                    "3",
+                    "17"
                 ],
                 "name": "American Historical Association",
                 "screen_name": "AHAhistorians"
-            },
-            {
-                "id": 574073746,
-                "id_str": "574073746",
-                "indices": [
-                    40,
-                    54
-                ],
-                "name": "Alexandra Levy",
-                "screen_name": "AlexandraFL21"
             }
         ]
     },
-    "favorite_count": 0,
-    "favorited": true,
+    "favorite_count": "0",
+    "favorited": false,
     "full_text": "RT @AHAhistorians: In #AHAPerspectives, @AlexandraFL21 summarizes the Advisory Committee on Historical Diplomatic Documentation's 2020 repo…",
-    "geo": null,
-    "id": 1441032901114531840,
+    "id": "1441032901114531843",
     "id_str": "1441032901114531843",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
-    "retweet_count": 2,
-    "retweeted": true,
-    "retweeted_status": {
-        "contributors": null,
-        "coordinates": null,
-        "created_at": "Wed Sep 22 13:02:01 +0000 2021",
-        "display_text_range": [
-            0,
-            274
-        ],
-        "entities": {
-            "hashtags": [
-                {
-                    "indices": [
-                        3,
-                        19
-                    ],
-                    "text": "AHAPerspectives"
-                }
-            ],
-            "symbols": [],
-            "urls": [
-                {
-                    "display_url": "historians.org/publications-a…",
-                    "expanded_url": "https://www.historians.org/publications-and-directories/perspectives-on-history/september-2021/a-year-characterized-by-pivoting-and-adapting-the-2020-state-department-hac-report",
-                    "indices": [
-                        251,
-                        274
-                    ],
-                    "url": "https://t.co/PJ8vOMYnyd"
-                }
-            ],
-            "user_mentions": [
-                {
-                    "id": 574073746,
-                    "id_str": "574073746",
-                    "indices": [
-                        21,
-                        35
-                    ],
-                    "name": "Alexandra Levy",
-                    "screen_name": "AlexandraFL21"
-                },
-                {
-                    "id": 586570880,
-                    "id_str": "586570880",
-                    "indices": [
-                        160,
-                        175
-                    ],
-                    "name": "HistoryAtState",
-                    "screen_name": "HistoryAtState"
-                }
-            ]
-        },
-        "favorite_count": 4,
-        "favorited": true,
-        "full_text": "In #AHAPerspectives, @AlexandraFL21 summarizes the Advisory Committee on Historical Diplomatic Documentation's 2020 report, which commends the progress made by @HistoryAtState, archivists, and other employees under challenging pandemic circumstances. https://t.co/PJ8vOMYnyd",
-        "geo": null,
-        "id": 1440662669363539970,
-        "id_str": "1440662669363539976",
-        "in_reply_to_screen_name": null,
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "is_quote_status": false,
-        "lang": "en",
-        "place": null,
-        "possibly_sensitive": false,
-        "retweet_count": 2,
-        "retweeted": true,
-        "source": "&lt;a href=\"https://sproutsocial.com\" rel=\"nofollow\"&gt;Sprout Social&lt;/a&gt;",
-        "truncated": false,
-        "user": {
-            "id": 76944176,
-            "id_str": "76944176"
-        }
-    },
+    "retweet_count": "0",
+    "retweeted": false,
     "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

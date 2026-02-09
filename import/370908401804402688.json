@@ -1,24 +1,22 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Fri Aug 23 14:00:28 +0000 2013",
     "display_text_range": [
-        0,
-        140
+        "0",
+        "140"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    118,
-                    123
+                    "118",
+                    "123"
                 ],
                 "text": "FRUS"
             },
             {
                 "indices": [
-                    124,
-                    140
+                    "124",
+                    "140"
                 ],
                 "text": "twitterstorians"
             }
@@ -29,35 +27,23 @@
                 "display_url": "go.usa.gov/juXT",
                 "expanded_url": "http://go.usa.gov/juXT",
                 "indices": [
-                    95,
-                    117
+                    "95",
+                    "117"
                 ],
                 "url": "http://t.co/cw4aMHNKAP"
             }
         ],
         "user_mentions": []
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "Learn more about the annual country reports on human rights practices during the Carter admin. http://t.co/cw4aMHNKAP #FRUS #twitterstorians",
-    "geo": null,
-    "id": 370908401804402690,
+    "id": "370908401804402688",
     "id_str": "370908401804402688",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 3,
+    "retweet_count": "3",
     "retweeted": false,
     "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

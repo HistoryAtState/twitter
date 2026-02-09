@@ -1,17 +1,15 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Wed Jun 27 18:01:26 +0000 2018",
     "display_text_range": [
-        0,
-        140
+        "0",
+        "140"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    103,
-                    116
+                    "103",
+                    "116"
                 ],
                 "text": "opioidcrisis"
             }
@@ -20,135 +18,35 @@
         "urls": [],
         "user_mentions": [
             {
-                "id": 123635567,
+                "id": "123635567",
                 "id_str": "123635567",
                 "indices": [
-                    3,
-                    12
+                    "3",
+                    "12"
                 ],
                 "name": "US Dept of State INL",
                 "screen_name": "StateINL"
             },
             {
-                "id": 9624742,
+                "id": "9624742",
                 "id_str": "9624742",
                 "indices": [
-                    72,
-                    82
+                    "72",
+                    "82"
                 ],
                 "name": "Department of State",
                 "screen_name": "StateDept"
             }
         ]
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "RT @StateINL: INL has a new leader! Watch Kirsten Madison talk ab't the @StateDept effort to fight the #opioidcrisis, among other INL effor…",
-    "geo": null,
-    "id": 1012033176062119940,
+    "id": "1012033176062119936",
     "id_str": "1012033176062119936",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
-    "retweet_count": 36,
-    "retweeted": true,
-    "retweeted_status": {
-        "contributors": null,
-        "coordinates": null,
-        "created_at": "Wed Jun 27 14:33:12 +0000 2018",
-        "display_text_range": [
-            0,
-            270
-        ],
-        "entities": {
-            "hashtags": [
-                {
-                    "indices": [
-                        89,
-                        102
-                    ],
-                    "text": "opioidcrisis"
-                },
-                {
-                    "indices": [
-                        191,
-                        206
-                    ],
-                    "text": "LawEnforcement"
-                },
-                {
-                    "indices": [
-                        213,
-                        223
-                    ],
-                    "text": "RuleOfLaw"
-                },
-                {
-                    "indices": [
-                        259,
-                        270
-                    ],
-                    "text": "TheReadout"
-                }
-            ],
-            "symbols": [],
-            "urls": [
-                {
-                    "display_url": "youtu.be/BE8lu_2Lmrg",
-                    "expanded_url": "https://youtu.be/BE8lu_2Lmrg",
-                    "indices": [
-                        234,
-                        257
-                    ],
-                    "url": "https://t.co/s8PvCVpLss"
-                }
-            ],
-            "user_mentions": [
-                {
-                    "id": 9624742,
-                    "id_str": "9624742",
-                    "indices": [
-                        58,
-                        68
-                    ],
-                    "name": "Department of State",
-                    "screen_name": "StateDept"
-                }
-            ]
-        },
-        "favorite_count": 41,
-        "favorited": false,
-        "full_text": "INL has a new leader! Watch Kirsten Madison talk ab't the @StateDept effort to fight the #opioidcrisis, among other INL efforts to safeguard the American ppl thru combating crime, bolstering #LawEnforcement &amp;amp; #RuleOfLaw globally: https://t.co/s8PvCVpLss. #TheReadout",
-        "geo": null,
-        "id": 1011980771068989440,
-        "id_str": "1011980771068989441",
-        "in_reply_to_screen_name": null,
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "is_quote_status": false,
-        "lang": "en",
-        "place": null,
-        "possibly_sensitive": false,
-        "retweet_count": 36,
-        "retweeted": true,
-        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-        "truncated": false,
-        "user": {
-            "id": 123635567,
-            "id_str": "123635567"
-        }
-    },
+    "retweet_count": "0",
+    "retweeted": false,
     "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

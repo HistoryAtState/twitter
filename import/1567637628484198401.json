@@ -1,45 +1,43 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Wed Sep 07 22:15:10 +0000 2022",
     "display_text_range": [
-        0,
-        241
+        "0",
+        "265"
     ],
     "entities": {
         "hashtags": [],
         "media": [
             {
-                "display_url": "pic.twitter.com/x7pVt2qu0D",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1567637628484198401/photo/1",
-                "id": 1567637627108528130,
+                "display_url": "pic.x.com/x7pVt2qu0D",
+                "expanded_url": "https://x.com/HistoryAtState/status/1567637628484198401/photo/1",
+                "id": "1567637627108528132",
                 "id_str": "1567637627108528132",
                 "indices": [
-                    242,
-                    265
+                    "242",
+                    "265"
                 ],
                 "media_url": "http://pbs.twimg.com/media/FcFeHbxXEAQYvlA.png",
                 "media_url_https": "https://pbs.twimg.com/media/FcFeHbxXEAQYvlA.png",
                 "sizes": {
                     "large": {
-                        "h": 344,
+                        "h": "344",
                         "resize": "fit",
-                        "w": 719
+                        "w": "719"
                     },
                     "medium": {
-                        "h": 344,
+                        "h": "344",
                         "resize": "fit",
-                        "w": 719
+                        "w": "719"
                     },
                     "small": {
-                        "h": 325,
+                        "h": "325",
                         "resize": "fit",
-                        "w": 680
+                        "w": "680"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -52,8 +50,8 @@
                 "display_url": "ow.ly/N4gK50KBEQt",
                 "expanded_url": "http://ow.ly/N4gK50KBEQt",
                 "indices": [
-                    211,
-                    234
+                    "211",
+                    "234"
                 ],
                 "url": "https://t.co/iXiRJ9cCjL"
             }
@@ -63,37 +61,36 @@
     "extended_entities": {
         "media": [
             {
-                "display_url": "pic.twitter.com/x7pVt2qu0D",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1567637628484198401/photo/1",
-                "ext_alt_text": "\"Today, all of us feel we are at an historic watershed. We have to address completely new problems, ones we did not anticipate or expect to become so acute. Now the question is whether we should approach these problems as in the past. In that case, we are bound to fail. If we look back, not everything in the past was totally negative. We have avoided a big war for 45 years.”",
-                "id": 1567637627108528130,
+                "display_url": "pic.x.com/x7pVt2qu0D",
+                "expanded_url": "https://x.com/HistoryAtState/status/1567637628484198401/photo/1",
+                "id": "1567637627108528132",
                 "id_str": "1567637627108528132",
                 "indices": [
-                    242,
-                    265
+                    "242",
+                    "265"
                 ],
                 "media_url": "http://pbs.twimg.com/media/FcFeHbxXEAQYvlA.png",
                 "media_url_https": "https://pbs.twimg.com/media/FcFeHbxXEAQYvlA.png",
                 "sizes": {
                     "large": {
-                        "h": 344,
+                        "h": "344",
                         "resize": "fit",
-                        "w": 719
+                        "w": "719"
                     },
                     "medium": {
-                        "h": 344,
+                        "h": "344",
                         "resize": "fit",
-                        "w": 719
+                        "w": "719"
                     },
                     "small": {
-                        "h": 325,
+                        "h": "325",
                         "resize": "fit",
-                        "w": 680
+                        "w": "680"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -101,27 +98,15 @@
             }
         ]
     },
-    "favorite_count": 6,
+    "favorite_count": "5",
     "favorited": false,
     "full_text": "At the Malta Summit, Pres. Bush and Gorbachev discussed the evolution of the U.S.-Soviet relationship, continuing the process of relaxation that followed the Reykjavik Summit, and new approaches for the future:\nhttps://t.co/iXiRJ9cCjL\n\n(2/4) https://t.co/x7pVt2qu0D",
-    "geo": null,
-    "id": 1567637628484198400,
+    "id": "1567637628484198401",
     "id_str": "1567637628484198401",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 1,
+    "retweet_count": "0",
     "retweeted": false,
     "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

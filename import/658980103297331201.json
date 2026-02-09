@@ -1,17 +1,15 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Tue Oct 27 12:14:34 +0000 2015",
     "display_text_range": [
-        0,
-        140
+        "0",
+        "140"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    121,
-                    136
+                    "121",
+                    "136"
                 ],
                 "text": "USDCBerlinWall"
             }
@@ -20,183 +18,35 @@
         "urls": [],
         "user_mentions": [
             {
-                "id": 1180122509204701180,
+                "id": "1180122509204701186",
                 "id_str": "1180122509204701186",
                 "indices": [
-                    3,
-                    19
+                    "3",
+                    "19"
                 ],
                 "name": "NMAD Museum",
                 "screen_name": "diplomacycenter"
             },
             {
-                "id": 586570880,
+                "id": "586570880",
                 "id_str": "586570880",
                 "indices": [
-                    69,
-                    84
+                    "69",
+                    "84"
                 ],
                 "name": "HistoryAtState",
                 "screen_name": "HistoryAtState"
             }
         ]
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "RT @DiplomacyCenter: Join our Google Hangout on the Berlin Wall with @HistoryatState Wed. at 1PM ET. Tweet your Qs using #USDCBerlinWall ht…",
-    "geo": null,
-    "id": 658980103297331200,
+    "id": "658980103297331201",
     "id_str": "658980103297331201",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
-    "retweet_count": 3,
-    "retweeted": true,
-    "retweeted_status": {
-        "contributors": null,
-        "coordinates": null,
-        "created_at": "Mon Oct 26 20:52:46 +0000 2015",
-        "display_text_range": [
-            0,
-            139
-        ],
-        "entities": {
-            "hashtags": [
-                {
-                    "indices": [
-                        100,
-                        115
-                    ],
-                    "text": "USDCBerlinWall"
-                }
-            ],
-            "media": [
-                {
-                    "display_url": "pic.twitter.com/Oy9LwxqI62",
-                    "expanded_url": "https://twitter.com/DiplomacyCenter/status/658748124958191616/photo/1",
-                    "id": 658748124421300220,
-                    "id_str": "658748124421300225",
-                    "indices": [
-                        116,
-                        139
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/CSRX7dCWIAEcxPx.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/CSRX7dCWIAEcxPx.jpg",
-                    "sizes": {
-                        "large": {
-                            "h": 627,
-                            "resize": "fit",
-                            "w": 1200
-                        },
-                        "medium": {
-                            "h": 627,
-                            "resize": "fit",
-                            "w": 1200
-                        },
-                        "small": {
-                            "h": 355,
-                            "resize": "fit",
-                            "w": 680
-                        },
-                        "thumb": {
-                            "h": 150,
-                            "resize": "crop",
-                            "w": 150
-                        }
-                    },
-                    "type": "photo",
-                    "url": "https://t.co/Oy9LwxqI62"
-                }
-            ],
-            "symbols": [],
-            "urls": [],
-            "user_mentions": [
-                {
-                    "id": 586570880,
-                    "id_str": "586570880",
-                    "indices": [
-                        48,
-                        63
-                    ],
-                    "name": "HistoryAtState",
-                    "screen_name": "HistoryAtState"
-                }
-            ]
-        },
-        "extended_entities": {
-            "media": [
-                {
-                    "display_url": "pic.twitter.com/Oy9LwxqI62",
-                    "expanded_url": "https://twitter.com/DiplomacyCenter/status/658748124958191616/photo/1",
-                    "ext_alt_text": null,
-                    "id": 658748124421300220,
-                    "id_str": "658748124421300225",
-                    "indices": [
-                        116,
-                        139
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/CSRX7dCWIAEcxPx.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/CSRX7dCWIAEcxPx.jpg",
-                    "sizes": {
-                        "large": {
-                            "h": 627,
-                            "resize": "fit",
-                            "w": 1200
-                        },
-                        "medium": {
-                            "h": 627,
-                            "resize": "fit",
-                            "w": 1200
-                        },
-                        "small": {
-                            "h": 355,
-                            "resize": "fit",
-                            "w": 680
-                        },
-                        "thumb": {
-                            "h": 150,
-                            "resize": "crop",
-                            "w": 150
-                        }
-                    },
-                    "type": "photo",
-                    "url": "https://t.co/Oy9LwxqI62"
-                }
-            ]
-        },
-        "favorite_count": 6,
-        "favorited": false,
-        "full_text": "Join our Google Hangout on the Berlin Wall with @HistoryatState Wed. at 1PM ET. Tweet your Qs using #USDCBerlinWall https://t.co/Oy9LwxqI62",
-        "geo": null,
-        "id": 658748124958191620,
-        "id_str": "658748124958191616",
-        "in_reply_to_screen_name": null,
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "is_quote_status": false,
-        "lang": "en",
-        "place": null,
-        "possibly_sensitive": false,
-        "retweet_count": 3,
-        "retweeted": true,
-        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-        "truncated": false,
-        "user": {
-            "id": 2648849144,
-            "id_str": "2648849144"
-        }
-    },
+    "retweet_count": "0",
+    "retweeted": false,
     "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

@@ -1,17 +1,15 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Wed Jul 02 11:33:04 +0000 2014",
     "display_text_range": [
-        0,
-        137
+        "0",
+        "137"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    54,
-                    66
+                    "54",
+                    "66"
                 ],
                 "text": "eInternship"
             }
@@ -22,46 +20,34 @@
                 "display_url": "go.usa.gov/Xcxk",
                 "expanded_url": "http://go.usa.gov/Xcxk",
                 "indices": [
-                    115,
-                    137
+                    "115",
+                    "137"
                 ],
                 "url": "http://t.co/a3SJ7sazXI"
             }
         ],
         "user_mentions": [
             {
-                "id": 586570880,
+                "id": "586570880",
                 "id_str": "586570880",
                 "indices": [
-                    70,
-                    85
+                    "70",
+                    "85"
                 ],
                 "name": "HistoryAtState",
                 "screen_name": "HistoryAtState"
             }
         ]
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "VSFS applications are open! Students interested in an #eInternship at @HistoryAtState can apply now thru July 22nd http://t.co/a3SJ7sazXI",
-    "geo": null,
-    "id": 484298706414739460,
+    "id": "484298706414739456",
     "id_str": "484298706414739456",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 6,
+    "retweet_count": "5",
     "retweeted": false,
     "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

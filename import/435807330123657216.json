@@ -1,24 +1,22 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Tue Feb 18 16:05:39 +0000 2014",
     "display_text_range": [
-        0,
-        128
+        "0",
+        "128"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    31,
-                    37
+                    "31",
+                    "37"
                 ],
                 "text": "Haiti"
             },
             {
                 "indices": [
-                    55,
-                    71
+                    "55",
+                    "71"
                 ],
                 "text": "AfricanAmerican"
             }
@@ -29,46 +27,34 @@
                 "display_url": "go.usa.gov/BNX3",
                 "expanded_url": "http://go.usa.gov/BNX3",
                 "indices": [
-                    90,
-                    112
+                    "90",
+                    "112"
                 ],
                 "url": "http://t.co/diwTJy5F15"
             }
         ],
         "user_mentions": [
             {
-                "id": 133379712,
+                "id": "133379712",
                 "id_str": "133379712",
                 "indices": [
-                    113,
-                    128
+                    "113",
+                    "128"
                 ],
                 "name": "U.S. Embassy Haiti",
                 "screen_name": "USEmbassyHaiti"
             }
         ]
     },
-    "favorite_count": 3,
+    "favorite_count": "3",
     "favorited": false,
     "full_text": "Ebenezer Bassett, appointed to #Haiti in 1869, was 1st #AfricanAmerican Chief-Of-Mission. http://t.co/diwTJy5F15 @USEmbassyHaiti",
-    "geo": null,
-    "id": 435807330123657220,
+    "id": "435807330123657216",
     "id_str": "435807330123657216",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 3,
+    "retweet_count": "2",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

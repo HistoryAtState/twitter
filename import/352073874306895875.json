@@ -1,17 +1,15 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Tue Jul 02 14:38:47 +0000 2013",
     "display_text_range": [
-        0,
-        111
+        "0",
+        "111"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    39,
-                    51
+                    "39",
+                    "51"
                 ],
                 "text": "eInternship"
             }
@@ -22,102 +20,34 @@
                 "display_url": "state.gov/vsfs/209292.htm",
                 "expanded_url": "http://www.state.gov/vsfs/209292.htm",
                 "indices": [
-                    89,
-                    111
+                    "89",
+                    "111"
                 ],
                 "url": "http://t.co/5gBG6TKyJd"
             }
         ],
         "user_mentions": [
             {
-                "id": 169927909,
+                "id": "169927909",
                 "id_str": "169927909",
                 "indices": [
-                    3,
-                    15
+                    "3",
+                    "15"
                 ],
                 "name": "Virtual Student Federal Service",
                 "screen_name": "VSFSatState"
             }
         ]
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "RT @vsfsAtState: The list is up! Which #eInternship will you apply for? Apply July 2-20! http://t.co/5gBG6TKyJd",
-    "geo": null,
-    "id": 352073874306895870,
+    "id": "352073874306895875",
     "id_str": "352073874306895875",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 15,
-    "retweeted": true,
-    "retweeted_status": {
-        "contributors": null,
-        "coordinates": null,
-        "created_at": "Tue Jul 02 14:30:02 +0000 2013",
-        "display_text_range": [
-            0,
-            94
-        ],
-        "entities": {
-            "hashtags": [
-                {
-                    "indices": [
-                        22,
-                        34
-                    ],
-                    "text": "eInternship"
-                }
-            ],
-            "symbols": [],
-            "urls": [
-                {
-                    "display_url": "state.gov/vsfs/209292.htm",
-                    "expanded_url": "http://www.state.gov/vsfs/209292.htm",
-                    "indices": [
-                        72,
-                        94
-                    ],
-                    "url": "http://t.co/5gBG6TKyJd"
-                }
-            ],
-            "user_mentions": []
-        },
-        "favorite_count": 17,
-        "favorited": false,
-        "full_text": "The list is up! Which #eInternship will you apply for? Apply July 2-20! http://t.co/5gBG6TKyJd",
-        "geo": null,
-        "id": 352071673484288000,
-        "id_str": "352071673484288000",
-        "in_reply_to_screen_name": null,
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "is_quote_status": false,
-        "lang": "en",
-        "place": null,
-        "possibly_sensitive": false,
-        "retweet_count": 15,
-        "retweeted": true,
-        "source": "&lt;a href=\"http://measuredvoice.com/\" rel=\"nofollow\"&gt;Measured Voice&lt;/a&gt;",
-        "truncated": false,
-        "user": {
-            "id": 169927909,
-            "id_str": "169927909"
-        }
-    },
+    "retweet_count": "0",
+    "retweeted": false,
     "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

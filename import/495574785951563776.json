@@ -1,24 +1,22 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Sat Aug 02 14:20:10 +0000 2014",
     "display_text_range": [
-        0,
-        131
+        "0",
+        "131"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    0,
-                    5
+                    "0",
+                    "5"
                 ],
                 "text": "TDiH"
             },
             {
                 "indices": [
-                    99,
-                    108
+                    "99",
+                    "108"
                 ],
                 "text": "WW1Tweet"
             }
@@ -29,46 +27,34 @@
                 "display_url": "go.usa.gov/5FST",
                 "expanded_url": "http://go.usa.gov/5FST",
                 "indices": [
-                    109,
-                    131
+                    "109",
+                    "131"
                 ],
                 "url": "http://t.co/wTzLI0R6b2"
             }
         ],
         "user_mentions": [
             {
-                "id": 64403845,
+                "id": "64403845",
                 "id_str": "64403845",
                 "indices": [
-                    11,
-                    25
+                    "11",
+                    "25"
                 ],
                 "name": "U.S. Embassy The Hague",
                 "screen_name": "usembthehague"
             }
         ]
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "#TDiH 1914 @USEmbTheHague Min Van Dyke: Germans advanced via Luxembourg, en rte to France via Metz #WW1Tweet http://t.co/wTzLI0R6b2",
-    "geo": null,
-    "id": 495574785951563780,
+    "id": "495574785951563776",
     "id_str": "495574785951563776",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "nl",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 1,
+    "retweet_count": "1",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

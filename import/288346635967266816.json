@@ -1,38 +1,36 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Mon Jan 07 18:09:29 +0000 2013",
     "display_text_range": [
-        0,
-        106
+        "0",
+        "106"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    30,
-                    35
+                    "30",
+                    "35"
                 ],
                 "text": "FRUS"
             },
             {
                 "indices": [
-                    47,
-                    53
+                    "47",
+                    "53"
                 ],
                 "text": "ebook"
             },
             {
                 "indices": [
-                    62,
-                    78
+                    "62",
+                    "78"
                 ],
                 "text": "twitterstorians"
             },
             {
                 "indices": [
-                    79,
-                    85
+                    "79",
+                    "85"
                 ],
                 "text": "gov20"
             }
@@ -43,35 +41,23 @@
                 "display_url": "go.usa.gov/gG5H",
                 "expanded_url": "http://go.usa.gov/gG5H",
                 "indices": [
-                    86,
-                    106
+                    "86",
+                    "106"
                 ],
                 "url": "http://t.co/VhN4oq2j"
             }
         ],
         "user_mentions": []
     },
-    "favorite_count": 3,
+    "favorite_count": "3",
     "favorited": false,
     "full_text": "Released today: over 100 free #FRUS volumes in #ebook format. #twitterstorians #gov20 http://t.co/VhN4oq2j",
-    "geo": null,
-    "id": 288346635967266820,
+    "id": "288346635967266816",
     "id_str": "288346635967266816",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 7,
+    "retweet_count": "6",
     "retweeted": false,
     "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

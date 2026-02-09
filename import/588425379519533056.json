@@ -1,144 +1,34 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Wed Apr 15 19:35:17 +0000 2015",
     "display_text_range": [
-        0,
-        128
+        "0",
+        "128"
     ],
     "entities": {
-        "hashtags": [
-            {
-                "indices": [
-                    94,
-                    104
-                ],
-                "text": "icedd2015"
-            }
-        ],
+        "hashtags": [],
         "symbols": [],
-        "urls": [
-            {
-                "display_url": "books.google.com/books?id=BMFRX…",
-                "expanded_url": "https://books.google.com/books?id=BMFRXvaa6lAC&amp;lpg=PR30",
-                "indices": [
-                    105,
-                    128
-                ],
-                "url": "https://t.co/rW0vTYPZga"
-            }
-        ],
+        "urls": [],
         "user_mentions": [
             {
-                "id": 3131310616,
+                "id": "3131310616",
                 "id_str": "3131310616",
                 "indices": [
-                    3,
-                    13
+                    "3",
+                    "13"
                 ],
                 "name": "ICEDD",
                 "screen_name": "icedd_org"
-            },
-            {
-                "id": 556518810,
-                "id_str": "556518810",
-                "indices": [
-                    16,
-                    24
-                ],
-                "name": "David C Geyer",
-                "screen_name": "DCGeyer"
             }
         ]
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "RT @icedd_org: .@DCGeyer discussed Soviet-American Relations: The Detente Years, 1969-1972 at #icedd2015 https://t.co/rW0vTYPZga",
-    "geo": null,
-    "id": 588425379519533060,
+    "id": "588425379519533056",
     "id_str": "588425379519533056",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
-    "possibly_sensitive": false,
-    "retweet_count": 2,
-    "retweeted": true,
-    "retweeted_status": {
-        "contributors": null,
-        "coordinates": null,
-        "created_at": "Wed Apr 15 18:10:22 +0000 2015",
-        "display_text_range": [
-            0,
-            113
-        ],
-        "entities": {
-            "hashtags": [
-                {
-                    "indices": [
-                        79,
-                        89
-                    ],
-                    "text": "icedd2015"
-                }
-            ],
-            "symbols": [],
-            "urls": [
-                {
-                    "display_url": "books.google.com/books?id=BMFRX…",
-                    "expanded_url": "https://books.google.com/books?id=BMFRXvaa6lAC&amp;lpg=PR30",
-                    "indices": [
-                        90,
-                        113
-                    ],
-                    "url": "https://t.co/rW0vTYPZga"
-                }
-            ],
-            "user_mentions": [
-                {
-                    "id": 556518810,
-                    "id_str": "556518810",
-                    "indices": [
-                        1,
-                        9
-                    ],
-                    "name": "David C Geyer",
-                    "screen_name": "DCGeyer"
-                }
-            ]
-        },
-        "favorite_count": 0,
-        "favorited": false,
-        "full_text": ".@DCGeyer discussed Soviet-American Relations: The Detente Years, 1969-1972 at #icedd2015 https://t.co/rW0vTYPZga",
-        "geo": null,
-        "id": 588404010102603780,
-        "id_str": "588404010102603776",
-        "in_reply_to_screen_name": null,
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "is_quote_status": false,
-        "lang": "en",
-        "place": null,
-        "possibly_sensitive": false,
-        "retweet_count": 2,
-        "retweeted": true,
-        "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
-        "truncated": false,
-        "user": {
-            "id": 3131310616,
-            "id_str": "3131310616"
-        }
-    },
+    "retweet_count": "0",
+    "retweeted": false,
     "source": "&lt;a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"&gt;Twitter for iPad&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

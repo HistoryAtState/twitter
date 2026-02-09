@@ -1,10 +1,8 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Thu Apr 05 16:51:48 +0000 2018",
     "display_text_range": [
-        0,
-        140
+        "0",
+        "140"
     ],
     "entities": {
         "hashtags": [],
@@ -12,203 +10,45 @@
         "urls": [],
         "user_mentions": [
             {
-                "id": 486867266,
+                "id": "486867266",
                 "id_str": "486867266",
                 "indices": [
-                    3,
-                    18
+                    "3",
+                    "18"
                 ],
                 "name": "SHFGHistorians",
                 "screen_name": "SHFGHistorians"
             },
             {
-                "id": 586570880,
+                "id": "586570880",
                 "id_str": "586570880",
                 "indices": [
-                    36,
-                    51
+                    "36",
+                    "51"
                 ],
                 "name": "HistoryAtState",
                 "screen_name": "HistoryAtState"
             },
             {
-                "id": 624186987,
+                "id": "624186987",
                 "id_str": "624186987",
                 "indices": [
-                    123,
-                    133
+                    "123",
+                    "133"
                 ],
                 "name": "LAHSP at GW",
                 "screen_name": "LAHSPatGW"
             }
         ]
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "RT @SHFGHistorians: Shfg member and @HistoryAtState Historian Sara Berndt discusses the Argentina Declassification Project @LAHSPatGW #Twit…",
-    "geo": null,
-    "id": 981937458299498500,
+    "id": "981937458299498498",
     "id_str": "981937458299498498",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
-    "retweet_count": 7,
-    "retweeted": true,
-    "retweeted_status": {
-        "contributors": null,
-        "coordinates": null,
-        "created_at": "Thu Apr 05 16:51:31 +0000 2018",
-        "display_text_range": [
-            0,
-            130
-        ],
-        "entities": {
-            "hashtags": [
-                {
-                    "indices": [
-                        114,
-                        130
-                    ],
-                    "text": "Twitterstorians"
-                }
-            ],
-            "media": [
-                {
-                    "display_url": "pic.twitter.com/bdxOHqxr72",
-                    "expanded_url": "https://twitter.com/SHFGHistorians/status/981937389521330177/photo/1",
-                    "id": 981937300526510080,
-                    "id_str": "981937300526510080",
-                    "indices": [
-                        131,
-                        154
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/DaCKxbWWsAAHucH.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/DaCKxbWWsAAHucH.jpg",
-                    "sizes": {
-                        "large": {
-                            "h": 1896,
-                            "resize": "fit",
-                            "w": 2048
-                        },
-                        "medium": {
-                            "h": 1111,
-                            "resize": "fit",
-                            "w": 1200
-                        },
-                        "small": {
-                            "h": 630,
-                            "resize": "fit",
-                            "w": 680
-                        },
-                        "thumb": {
-                            "h": 150,
-                            "resize": "crop",
-                            "w": 150
-                        }
-                    },
-                    "type": "photo",
-                    "url": "https://t.co/bdxOHqxr72"
-                }
-            ],
-            "symbols": [],
-            "urls": [],
-            "user_mentions": [
-                {
-                    "id": 586570880,
-                    "id_str": "586570880",
-                    "indices": [
-                        16,
-                        31
-                    ],
-                    "name": "HistoryAtState",
-                    "screen_name": "HistoryAtState"
-                },
-                {
-                    "id": 624186987,
-                    "id_str": "624186987",
-                    "indices": [
-                        103,
-                        113
-                    ],
-                    "name": "LAHSP at GW",
-                    "screen_name": "LAHSPatGW"
-                }
-            ]
-        },
-        "extended_entities": {
-            "media": [
-                {
-                    "display_url": "pic.twitter.com/bdxOHqxr72",
-                    "expanded_url": "https://twitter.com/SHFGHistorians/status/981937389521330177/photo/1",
-                    "ext_alt_text": null,
-                    "id": 981937300526510080,
-                    "id_str": "981937300526510080",
-                    "indices": [
-                        131,
-                        154
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/DaCKxbWWsAAHucH.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/DaCKxbWWsAAHucH.jpg",
-                    "sizes": {
-                        "large": {
-                            "h": 1896,
-                            "resize": "fit",
-                            "w": 2048
-                        },
-                        "medium": {
-                            "h": 1111,
-                            "resize": "fit",
-                            "w": 1200
-                        },
-                        "small": {
-                            "h": 630,
-                            "resize": "fit",
-                            "w": 680
-                        },
-                        "thumb": {
-                            "h": 150,
-                            "resize": "crop",
-                            "w": 150
-                        }
-                    },
-                    "type": "photo",
-                    "url": "https://t.co/bdxOHqxr72"
-                }
-            ]
-        },
-        "favorite_count": 4,
-        "favorited": false,
-        "full_text": "Shfg member and @HistoryAtState Historian Sara Berndt discusses the Argentina Declassification Project @LAHSPatGW #Twitterstorians https://t.co/bdxOHqxr72",
-        "geo": null,
-        "id": 981937389521330180,
-        "id_str": "981937389521330177",
-        "in_reply_to_screen_name": null,
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "is_quote_status": false,
-        "lang": "en",
-        "place": null,
-        "possibly_sensitive": false,
-        "retweet_count": 7,
-        "retweeted": true,
-        "source": "&lt;a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"&gt;Twitter for iPhone&lt;/a&gt;",
-        "truncated": false,
-        "user": {
-            "id": 486867266,
-            "id_str": "486867266"
-        }
-    },
+    "retweet_count": "0",
+    "retweeted": false,
     "source": "&lt;a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\"&gt;Tweetbot for iΟS&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

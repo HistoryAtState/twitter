@@ -1,17 +1,15 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Mon Oct 20 14:35:27 +0000 2014",
     "display_text_range": [
-        0,
-        140
+        "0",
+        "140"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    105,
-                    117
+                    "105",
+                    "117"
                 ],
                 "text": "TEIConf2014"
             }
@@ -22,46 +20,34 @@
                 "display_url": "tei.northwestern.edu/papers/",
                 "expanded_url": "http://tei.northwestern.edu/papers/",
                 "indices": [
-                    118,
-                    140
+                    "118",
+                    "140"
                 ],
                 "url": "http://t.co/7amYRPh1aZ"
             }
         ],
         "user_mentions": [
             {
-                "id": 167142337,
+                "id": "167142337",
                 "id_str": "167142337",
                 "indices": [
-                    14,
-                    28
+                    "14",
+                    "28"
                 ],
                 "name": "TEI Consortium",
                 "screen_name": "TEIconsortium"
             }
         ]
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "Attending the @TEIconsortium conference? Come see our presentation on “The State of TEI at Foggy Bottom” #TEIConf2014 http://t.co/7amYRPh1aZ",
-    "geo": null,
-    "id": 524207270981541890,
+    "id": "524207270981541888",
     "id_str": "524207270981541888",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 1,
+    "retweet_count": "1",
     "retweeted": false,
     "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

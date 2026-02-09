@@ -1,31 +1,29 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Thu Apr 13 15:25:14 +0000 2017",
     "display_text_range": [
-        0,
-        140
+        "0",
+        "140"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    0,
-                    7
+                    "0",
+                    "7"
                 ],
                 "text": "Ottawa"
             },
             {
                 "indices": [
-                    67,
-                    86
+                    "67",
+                    "86"
                 ],
                 "text": "RememberingLincoln"
             },
             {
                 "indices": [
-                    104,
-                    109
+                    "104",
+                    "109"
                 ],
                 "text": "FRUS"
             }
@@ -34,57 +32,35 @@
         "urls": [],
         "user_mentions": [
             {
-                "id": 495149176,
+                "id": "495149176",
                 "id_str": "495149176",
                 "indices": [
-                    87,
-                    103
+                    "87",
+                    "103"
                 ],
                 "name": "National Mall NPS",
                 "screen_name": "NationalMallNPS"
             },
             {
-                "id": 18907428,
-                "id_str": "18907428",
-                "indices": [
-                    110,
-                    123
-                ],
-                "name": "Ford's Theatre",
-                "screen_name": "fordstheatre"
-            },
-            {
-                "id": 17001435,
+                "id": "17001435",
                 "id_str": "17001435",
                 "indices": [
-                    124,
-                    140
+                    "124",
+                    "140"
                 ],
                 "name": "U.S. Embassy Ottawa",
                 "screen_name": "usembassyottawa"
             }
         ]
     },
-    "favorite_count": 4,
+    "favorite_count": "2",
     "favorited": false,
     "full_text": "#Ottawa ordered the U.S. flag to be raised around the city in 1865 #RememberingLincoln @NationalMallNPS #FRUS @fordstheatre @usembassyottawa",
-    "geo": null,
-    "id": 852543204826247170,
+    "id": "852543204826247169",
     "id_str": "852543204826247169",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
-    "retweet_count": 5,
+    "retweet_count": "4",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

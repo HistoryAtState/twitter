@@ -1,17 +1,15 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Mon Oct 01 15:24:51 +0000 2018",
     "display_text_range": [
-        0,
-        159
+        "0",
+        "159"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    111,
-                    116
+                    "111",
+                    "116"
                 ],
                 "text": "FRUS"
             }
@@ -22,56 +20,44 @@
                 "display_url": "history.state.gov/historicaldocu…",
                 "expanded_url": "https://www.history.state.gov/historicaldocuments/frus1917-72PubDipv08/d29",
                 "indices": [
-                    117,
-                    140
+                    "117",
+                    "140"
                 ],
                 "url": "https://t.co/ZHm9bInkqn"
             }
         ],
         "user_mentions": [
             {
-                "id": 11348282,
+                "id": "11348282",
                 "id_str": "11348282",
                 "indices": [
-                    141,
-                    146
+                    "141",
+                    "146"
                 ],
                 "name": "NASA",
                 "screen_name": "NASA"
             },
             {
-                "id": 153784150,
+                "id": "153784150",
                 "id_str": "153784150",
                 "indices": [
-                    147,
-                    159
+                    "147",
+                    "159"
                 ],
                 "name": "NASA History Office",
                 "screen_name": "NASAhistory"
             }
         ]
     },
-    "favorite_count": 4,
+    "favorite_count": "2",
     "favorited": false,
     "full_text": "Interested in how USIA covered the Apollo 11 moon landing? Read Frank Shakespeare’s memo to President Nixon in #FRUS https://t.co/ZHm9bInkqn @NASA @NASAhistory",
-    "geo": null,
-    "id": 1046783004696346620,
+    "id": "1046783004696346624",
     "id_str": "1046783004696346624",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 6,
+    "retweet_count": "4",
     "retweeted": false,
     "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

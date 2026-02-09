@@ -1,38 +1,36 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Thu Sep 07 14:49:59 +0000 2017",
     "display_text_range": [
-        0,
-        144
+        "0",
+        "144"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    38,
-                    47
+                    "38",
+                    "47"
                 ],
                 "text": "interwar"
             },
             {
                 "indices": [
-                    91,
-                    94
+                    "91",
+                    "94"
                 ],
                 "text": "US"
             },
             {
                 "indices": [
-                    101,
-                    105
+                    "101",
+                    "105"
                 ],
                 "text": "LTU"
             },
             {
                 "indices": [
-                    127,
-                    134
+                    "127",
+                    "134"
                 ],
                 "text": "USinLT"
             }
@@ -41,247 +39,35 @@
         "urls": [],
         "user_mentions": [
             {
-                "id": 2498901252,
+                "id": "2498901252",
                 "id_str": "2498901252",
                 "indices": [
-                    3,
-                    16
+                    "3",
+                    "16"
                 ],
                 "name": "U.S. Embassy Vilnius",
                 "screen_name": "USEmbVilnius"
             },
             {
-                "id": 9624742,
+                "id": "9624742",
                 "id_str": "9624742",
                 "indices": [
-                    18,
-                    28
+                    "18",
+                    "28"
                 ],
                 "name": "Department of State",
                 "screen_name": "StateDept"
             }
         ]
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "RT @USEmbVilnius: @StateDept released #interwar period archives. You can learn a lot about #US &amp;amp; #LTU relations from them! #USinLT  https:/…",
-    "geo": null,
-    "id": 905805350242275330,
+    "id": "905805350242275328",
     "id_str": "905805350242275328",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
-    "retweet_count": 12,
-    "retweeted": true,
-    "retweeted_status": {
-        "contributors": null,
-        "coordinates": null,
-        "created_at": "Thu Sep 07 12:25:35 +0000 2017",
-        "display_text_range": [
-            0,
-            141
-        ],
-        "entities": {
-            "hashtags": [
-                {
-                    "indices": [
-                        20,
-                        29
-                    ],
-                    "text": "interwar"
-                },
-                {
-                    "indices": [
-                        73,
-                        76
-                    ],
-                    "text": "US"
-                },
-                {
-                    "indices": [
-                        83,
-                        87
-                    ],
-                    "text": "LTU"
-                },
-                {
-                    "indices": [
-                        109,
-                        116
-                    ],
-                    "text": "USinLT"
-                }
-            ],
-            "media": [
-                {
-                    "display_url": "pic.twitter.com/YAFoeVsuFx",
-                    "expanded_url": "https://twitter.com/USEmbVilnius/status/905769011388002304/photo/1",
-                    "id": 905768990533931010,
-                    "id_str": "905768990533931009",
-                    "indices": [
-                        142,
-                        165
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/DJHwGRFW0AEaP3O.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/DJHwGRFW0AEaP3O.jpg",
-                    "sizes": {
-                        "large": {
-                            "h": 720,
-                            "resize": "fit",
-                            "w": 1612
-                        },
-                        "medium": {
-                            "h": 536,
-                            "resize": "fit",
-                            "w": 1200
-                        },
-                        "small": {
-                            "h": 304,
-                            "resize": "fit",
-                            "w": 680
-                        },
-                        "thumb": {
-                            "h": 150,
-                            "resize": "crop",
-                            "w": 150
-                        }
-                    },
-                    "type": "photo",
-                    "url": "https://t.co/YAFoeVsuFx"
-                }
-            ],
-            "symbols": [],
-            "urls": [
-                {
-                    "display_url": "goo.gl/JzqJFp",
-                    "expanded_url": "https://goo.gl/JzqJFp",
-                    "indices": [
-                        118,
-                        141
-                    ],
-                    "url": "https://t.co/HBJPWbIddk"
-                }
-            ],
-            "user_mentions": [
-                {
-                    "id": 9624742,
-                    "id_str": "9624742",
-                    "indices": [
-                        0,
-                        10
-                    ],
-                    "name": "Department of State",
-                    "screen_name": "StateDept"
-                }
-            ]
-        },
-        "extended_entities": {
-            "media": [
-                {
-                    "display_url": "pic.twitter.com/YAFoeVsuFx",
-                    "expanded_url": "https://twitter.com/USEmbVilnius/status/905769011388002304/photo/1",
-                    "ext_alt_text": null,
-                    "id": 905768990533931010,
-                    "id_str": "905768990533931009",
-                    "indices": [
-                        142,
-                        165
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/DJHwGRFW0AEaP3O.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/DJHwGRFW0AEaP3O.jpg",
-                    "sizes": {
-                        "large": {
-                            "h": 720,
-                            "resize": "fit",
-                            "w": 1612
-                        },
-                        "medium": {
-                            "h": 536,
-                            "resize": "fit",
-                            "w": 1200
-                        },
-                        "small": {
-                            "h": 304,
-                            "resize": "fit",
-                            "w": 680
-                        },
-                        "thumb": {
-                            "h": 150,
-                            "resize": "crop",
-                            "w": 150
-                        }
-                    },
-                    "type": "photo",
-                    "url": "https://t.co/YAFoeVsuFx"
-                }
-            ]
-        },
-        "favorite_count": 19,
-        "favorited": false,
-        "full_text": "@StateDept released #interwar period archives. You can learn a lot about #US &amp;amp; #LTU relations from them! #USinLT  https://t.co/HBJPWbIddk https://t.co/YAFoeVsuFx",
-        "geo": null,
-        "id": 905769011388002300,
-        "id_str": "905769011388002304",
-        "in_reply_to_screen_name": "StateDept",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": 9624742,
-        "in_reply_to_user_id_str": "9624742",
-        "is_quote_status": false,
-        "lang": "en",
-        "place": {
-            "attributes": {},
-            "bounding_box": {
-                "coordinates": [
-                    [
-                        [
-                            25.0245985,
-                            54.5689032
-                        ],
-                        [
-                            25.48146,
-                            54.5689032
-                        ],
-                        [
-                            25.48146,
-                            54.8322118
-                        ],
-                        [
-                            25.0245985,
-                            54.8322118
-                        ]
-                    ]
-                ],
-                "type": "Polygon"
-            },
-            "contained_within": [],
-            "country": "Lithuania",
-            "country_code": "LT",
-            "full_name": "Vilnius, Lithuania",
-            "id": "01cce83d8638e5f7",
-            "name": "Vilnius",
-            "place_type": "city",
-            "url": "https://api.twitter.com/1.1/geo/id/01cce83d8638e5f7.json"
-        },
-        "possibly_sensitive": false,
-        "retweet_count": 12,
-        "retweeted": true,
-        "source": "&lt;a href=\"http://twitter.com/download/android\" rel=\"nofollow\"&gt;Twitter for Android&lt;/a&gt;",
-        "truncated": false,
-        "user": {
-            "id": 2498901252,
-            "id_str": "2498901252"
-        }
-    },
+    "retweet_count": "0",
+    "retweeted": false,
     "source": "&lt;a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"&gt;Twitter for iPad&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

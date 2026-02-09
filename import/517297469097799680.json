@@ -1,24 +1,22 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Wed Oct 01 12:58:22 +0000 2014",
     "display_text_range": [
-        0,
-        136
+        "0",
+        "136"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    94,
-                    103
+                    "94",
+                    "103"
                 ],
                 "text": "YoursWHP"
             },
             {
                 "indices": [
-                    104,
-                    113
+                    "104",
+                    "113"
                 ],
                 "text": "WW1Tweet"
             }
@@ -29,46 +27,34 @@
                 "display_url": "ow.ly/C9y2M",
                 "expanded_url": "http://ow.ly/C9y2M",
                 "indices": [
-                    114,
-                    136
+                    "114",
+                    "136"
                 ],
                 "url": "http://t.co/hgn9sj8zkA"
             }
         ],
         "user_mentions": [
             {
-                "id": 14856951,
+                "id": "14856951",
                 "id_str": "14856951",
                 "indices": [
-                    31,
-                    39
+                    "31",
+                    "39"
                 ],
                 "name": "U.S. Embassy London",
                 "screen_name": "USAinUK"
             }
         ]
     },
-    "favorite_count": 1,
+    "favorite_count": "1",
     "favorited": false,
     "full_text": "After UK 1914 war declaration, @USAinUK Amb Page wrote “All London has been awake for a week” #YoursWHP #WW1Tweet http://t.co/hgn9sj8zkA",
-    "geo": null,
-    "id": 517297469097799680,
+    "id": "517297469097799680",
     "id_str": "517297469097799680",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 2,
+    "retweet_count": "2",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

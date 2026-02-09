@@ -1,45 +1,43 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Tue Sep 13 14:30:33 +0000 2022",
     "display_text_range": [
-        0,
-        226
+        "0",
+        "250"
     ],
     "entities": {
         "hashtags": [],
         "media": [
             {
-                "display_url": "pic.twitter.com/xtgqF2RjGr",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1569695029483954176/photo/1",
-                "id": 1569695027219005440,
+                "display_url": "pic.x.com/xtgqF2RjGr",
+                "expanded_url": "https://x.com/HistoryAtState/status/1569695029483954176/photo/1",
+                "id": "1569695027219005443",
                 "id_str": "1569695027219005443",
                 "indices": [
-                    227,
-                    250
+                    "227",
+                    "250"
                 ],
                 "media_url": "http://pbs.twimg.com/media/FcitT4cWAAMaye9.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/FcitT4cWAAMaye9.jpg",
                 "sizes": {
                     "large": {
-                        "h": 1384,
+                        "h": "1384",
                         "resize": "fit",
-                        "w": 1800
+                        "w": "1800"
                     },
                     "medium": {
-                        "h": 923,
+                        "h": "923",
                         "resize": "fit",
-                        "w": 1200
+                        "w": "1200"
                     },
                     "small": {
-                        "h": 523,
+                        "h": "523",
                         "resize": "fit",
-                        "w": 680
+                        "w": "680"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -52,19 +50,19 @@
                 "display_url": "ow.ly/AKnm50KHvxB",
                 "expanded_url": "http://ow.ly/AKnm50KHvxB",
                 "indices": [
-                    168,
-                    191
+                    "168",
+                    "191"
                 ],
                 "url": "https://t.co/SWITSlAWM8"
             }
         ],
         "user_mentions": [
             {
-                "id": 126086206,
+                "id": "126086206",
                 "id_str": "126086206",
                 "indices": [
-                    195,
-                    206
+                    "195",
+                    "206"
                 ],
                 "name": "Eisenhower Library",
                 "screen_name": "IkeLibrary"
@@ -74,37 +72,36 @@
     "extended_entities": {
         "media": [
             {
-                "display_url": "pic.twitter.com/xtgqF2RjGr",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1569695029483954176/photo/1",
-                "ext_alt_text": "Press Release, May 20, 1959:  “The White House | President Eisenhower and Her Majesty Queen Elizabeth II will formally open the St. Lawrence Seaway at the St. Lambert lock, Montreal in ceremonies beginning at 11:00 E.D.T. in the morning of June 26, 1959, it was announced by the White House today in Washington.” (Eisenhower Presidential Library, NARA ID: 12009432)",
-                "id": 1569695027219005440,
+                "display_url": "pic.x.com/xtgqF2RjGr",
+                "expanded_url": "https://x.com/HistoryAtState/status/1569695029483954176/photo/1",
+                "id": "1569695027219005443",
                 "id_str": "1569695027219005443",
                 "indices": [
-                    227,
-                    250
+                    "227",
+                    "250"
                 ],
                 "media_url": "http://pbs.twimg.com/media/FcitT4cWAAMaye9.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/FcitT4cWAAMaye9.jpg",
                 "sizes": {
                     "large": {
-                        "h": 1384,
+                        "h": "1384",
                         "resize": "fit",
-                        "w": 1800
+                        "w": "1800"
                     },
                     "medium": {
-                        "h": 923,
+                        "h": "923",
                         "resize": "fit",
-                        "w": 1200
+                        "w": "1200"
                     },
                     "small": {
-                        "h": 523,
+                        "h": "523",
                         "resize": "fit",
-                        "w": 680
+                        "w": "680"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -112,27 +109,15 @@
             }
         ]
     },
-    "favorite_count": 3,
+    "favorite_count": "3",
     "favorited": false,
     "full_text": "In June 1959, Queen Elizabeth and President Eisenhower met in Montreal to open the St. Lawrence Seaway, creating easier ocean-going shipping access to the Great Lakes:\nhttps://t.co/SWITSlAWM8\n\n📷 @IkeLibrary (NARA ID: 12009432) https://t.co/xtgqF2RjGr",
-    "geo": null,
-    "id": 1569695029483954180,
+    "id": "1569695029483954176",
     "id_str": "1569695029483954176",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 1,
+    "retweet_count": "2",
     "retweeted": false,
     "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

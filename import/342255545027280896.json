@@ -1,10 +1,8 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Wed Jun 05 12:24:15 +0000 2013",
     "display_text_range": [
-        0,
-        140
+        "0",
+        "140"
     ],
     "entities": {
         "hashtags": [],
@@ -12,85 +10,25 @@
         "urls": [],
         "user_mentions": [
             {
-                "id": 7152572,
+                "id": "7152572",
                 "id_str": "7152572",
                 "indices": [
-                    3,
-                    19
+                    "3",
+                    "19"
                 ],
                 "name": "Library of Congress",
                 "screen_name": "librarycongress"
             }
         ]
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "RT @librarycongress: On June 5, 1947, Secretary of State George Marshall outlined his plan to help Europe after World War II. http://t.co/B…",
-    "geo": null,
-    "id": 342255545027280900,
+    "id": "342255545027280896",
     "id_str": "342255545027280896",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
-    "retweet_count": 35,
-    "retweeted": true,
-    "retweeted_status": {
-        "contributors": null,
-        "coordinates": null,
-        "created_at": "Wed Jun 05 12:16:36 +0000 2013",
-        "display_text_range": [
-            0,
-            127
-        ],
-        "entities": {
-            "hashtags": [],
-            "symbols": [],
-            "urls": [
-                {
-                    "display_url": "loc.gov/exhibits/marsh…",
-                    "expanded_url": "http://www.loc.gov/exhibits/marshall/mars1.html",
-                    "indices": [
-                        105,
-                        127
-                    ],
-                    "url": "http://t.co/BSOF3ssCKk"
-                }
-            ],
-            "user_mentions": []
-        },
-        "favorite_count": 9,
-        "favorited": false,
-        "full_text": "On June 5, 1947, Secretary of State George Marshall outlined his plan to help Europe after World War II. http://t.co/BSOF3ssCKk",
-        "geo": null,
-        "id": 342253620642856960,
-        "id_str": "342253620642856960",
-        "in_reply_to_screen_name": null,
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "is_quote_status": false,
-        "lang": "en",
-        "place": null,
-        "possibly_sensitive": false,
-        "retweet_count": 35,
-        "retweeted": true,
-        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-        "truncated": false,
-        "user": {
-            "id": 7152572,
-            "id_str": "7152572"
-        }
-    },
+    "retweet_count": "0",
+    "retweeted": false,
     "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

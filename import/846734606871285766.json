@@ -1,81 +1,79 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Tue Mar 28 14:43:56 +0000 2017",
     "display_text_range": [
-        0,
-        129
+        "0",
+        "153"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    0,
-                    5
+                    "0",
+                    "5"
                 ],
                 "text": "FRUS"
             },
             {
                 "indices": [
-                    38,
-                    50
+                    "38",
+                    "50"
                 ],
                 "text": "airforceone"
             },
             {
                 "indices": [
-                    72,
-                    81
+                    "72",
+                    "81"
                 ],
                 "text": "FindFRUS"
             },
             {
                 "indices": [
-                    90,
-                    106
+                    "90",
+                    "106"
                 ],
                 "text": "twitterstorians"
             },
             {
                 "indices": [
-                    107,
-                    129
+                    "107",
+                    "129"
                 ],
                 "text": "everythinghasahistory"
             }
         ],
         "media": [
             {
-                "display_url": "pic.twitter.com/YhwwAQLge3",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/846734606871285766/photo/1",
-                "id": 846734604396511230,
+                "display_url": "pic.x.com/YhwwAQLge3",
+                "expanded_url": "https://x.com/HistoryAtState/status/846734606871285766/photo/1",
+                "id": "846734604396511232",
                 "id_str": "846734604396511232",
                 "indices": [
-                    130,
-                    153
+                    "130",
+                    "153"
                 ],
                 "media_url": "http://pbs.twimg.com/media/C8A0ovIVwAAM5Bc.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/C8A0ovIVwAAM5Bc.jpg",
                 "sizes": {
                     "large": {
-                        "h": 583,
+                        "h": "583",
                         "resize": "fit",
-                        "w": 1000
+                        "w": "1000"
                     },
                     "medium": {
-                        "h": 583,
+                        "h": "583",
                         "resize": "fit",
-                        "w": 1000
+                        "w": "1000"
                     },
                     "small": {
-                        "h": 396,
+                        "h": "396",
                         "resize": "fit",
-                        "w": 680
+                        "w": "680"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -86,13 +84,13 @@
         "urls": [],
         "user_mentions": [
             {
-                "id": 1349149096909668350,
-                "id_str": "1349149096909668363",
+                "id": "1879650942410481666",
+                "id_str": "1879650942410481666",
                 "indices": [
-                    83,
-                    89
+                    "83",
+                    "89"
                 ],
-                "name": "President Biden",
+                "name": "President Donald J. Trump",
                 "screen_name": "POTUS"
             }
         ]
@@ -100,37 +98,36 @@
     "extended_entities": {
         "media": [
             {
-                "display_url": "pic.twitter.com/YhwwAQLge3",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/846734606871285766/photo/1",
-                "ext_alt_text": null,
-                "id": 846734604396511230,
+                "display_url": "pic.x.com/YhwwAQLge3",
+                "expanded_url": "https://x.com/HistoryAtState/status/846734606871285766/photo/1",
+                "id": "846734604396511232",
                 "id_str": "846734604396511232",
                 "indices": [
-                    130,
-                    153
+                    "130",
+                    "153"
                 ],
                 "media_url": "http://pbs.twimg.com/media/C8A0ovIVwAAM5Bc.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/C8A0ovIVwAAM5Bc.jpg",
                 "sizes": {
                     "large": {
-                        "h": 583,
+                        "h": "583",
                         "resize": "fit",
-                        "w": 1000
+                        "w": "1000"
                     },
                     "medium": {
-                        "h": 583,
+                        "h": "583",
                         "resize": "fit",
-                        "w": 1000
+                        "w": "1000"
                     },
                     "small": {
-                        "h": 396,
+                        "h": "396",
                         "resize": "fit",
-                        "w": 680
+                        "w": "680"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -138,27 +135,15 @@
             }
         ]
     },
-    "favorite_count": 6,
+    "favorite_count": "5",
     "favorited": false,
     "full_text": "#FRUS gets up close and personal with #airforceone ! Where else can you #FindFRUS? @POTUS #twitterstorians #everythinghasahistory https://t.co/YhwwAQLge3",
-    "geo": null,
-    "id": 846734606871285760,
+    "id": "846734606871285766",
     "id_str": "846734606871285766",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 2,
+    "retweet_count": "2",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

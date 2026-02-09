@@ -1,81 +1,79 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Mon Apr 09 13:45:52 +0000 2018",
     "display_text_range": [
-        0,
-        129
+        "0",
+        "153"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    10,
-                    30
+                    "10",
+                    "30"
                 ],
                 "text": "NationalLibraryWeek"
             },
             {
                 "indices": [
-                    77,
-                    82
+                    "77",
+                    "82"
                 ],
                 "text": "FRUS"
             },
             {
                 "indices": [
-                    84,
-                    89
+                    "84",
+                    "89"
                 ],
                 "text": "fdlp"
             },
             {
                 "indices": [
-                    90,
-                    106
+                    "90",
+                    "106"
                 ],
                 "text": "twitterstorians"
             },
             {
                 "indices": [
-                    107,
-                    129
+                    "107",
+                    "129"
                 ],
                 "text": "everythinghasahistory"
             }
         ],
         "media": [
             {
-                "display_url": "pic.twitter.com/0QE01Eyhjg",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/983340220912427008/photo/1",
-                "id": 983338966941421570,
+                "display_url": "pic.x.com/0QE01Eyhjg",
+                "expanded_url": "https://x.com/HistoryAtState/status/983340220912427008/photo/1",
+                "id": "983338966941421568",
                 "id_str": "983338966941421568",
                 "indices": [
-                    130,
-                    153
+                    "130",
+                    "153"
                 ],
                 "media_url": "http://pbs.twimg.com/media/DaWFlJpX0AAPSB-.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DaWFlJpX0AAPSB-.jpg",
                 "sizes": {
                     "large": {
-                        "h": 480,
+                        "h": "480",
                         "resize": "fit",
-                        "w": 640
+                        "w": "640"
                     },
                     "medium": {
-                        "h": 480,
+                        "h": "480",
                         "resize": "fit",
-                        "w": 640
+                        "w": "640"
                     },
                     "small": {
-                        "h": 480,
+                        "h": "480",
                         "resize": "fit",
-                        "w": 640
+                        "w": "640"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -89,37 +87,36 @@
     "extended_entities": {
         "media": [
             {
-                "display_url": "pic.twitter.com/0QE01Eyhjg",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/983340220912427008/photo/1",
-                "ext_alt_text": "White bookshelves containing three shelves of Foreign Relations of the United States volumes.",
-                "id": 983338966941421570,
+                "display_url": "pic.x.com/0QE01Eyhjg",
+                "expanded_url": "https://x.com/HistoryAtState/status/983340220912427008/photo/1",
+                "id": "983338966941421568",
                 "id_str": "983338966941421568",
                 "indices": [
-                    130,
-                    153
+                    "130",
+                    "153"
                 ],
                 "media_url": "http://pbs.twimg.com/media/DaWFlJpX0AAPSB-.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DaWFlJpX0AAPSB-.jpg",
                 "sizes": {
                     "large": {
-                        "h": 480,
+                        "h": "480",
                         "resize": "fit",
-                        "w": 640
+                        "w": "640"
                     },
                     "medium": {
-                        "h": 480,
+                        "h": "480",
                         "resize": "fit",
-                        "w": 640
+                        "w": "640"
                     },
                     "small": {
-                        "h": 480,
+                        "h": "480",
                         "resize": "fit",
-                        "w": 640
+                        "w": "640"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -127,27 +124,15 @@
             }
         ]
     },
-    "favorite_count": 13,
+    "favorite_count": "9",
     "favorited": false,
     "full_text": "Celebrate #NationalLibraryWeek April 8-14 by hitting the stacks to read more #FRUS! #fdlp #twitterstorians #everythinghasahistory https://t.co/0QE01Eyhjg",
-    "geo": null,
-    "id": 983340220912427010,
+    "id": "983340220912427008",
     "id_str": "983340220912427008",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 5,
+    "retweet_count": "4",
     "retweeted": false,
     "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

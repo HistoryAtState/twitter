@@ -1,60 +1,58 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Mon May 21 13:03:10 +0000 2018",
     "display_text_range": [
-        0,
-        89
+        "0",
+        "113"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    60,
-                    72
+                    "60",
+                    "72"
                 ],
                 "text": "RedCross137"
             },
             {
                 "indices": [
-                    73,
-                    89
+                    "73",
+                    "89"
                 ],
                 "text": "twitterstorians"
             }
         ],
         "media": [
             {
-                "display_url": "pic.twitter.com/XBcsUCeEsb",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/998549764902879232/photo/1",
-                "id": 998549624209133570,
+                "display_url": "pic.x.com/XBcsUCeEsb",
+                "expanded_url": "https://x.com/HistoryAtState/status/998549764902879232/photo/1",
+                "id": "998549624209133568",
                 "id_str": "998549624209133568",
                 "indices": [
-                    90,
-                    113
+                    "90",
+                    "113"
                 ],
                 "media_url": "http://pbs.twimg.com/media/DduPl7mV0AAPeDH.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DduPl7mV0AAPeDH.jpg",
                 "sizes": {
                     "large": {
-                        "h": 206,
+                        "h": "206",
                         "resize": "fit",
-                        "w": 163
+                        "w": "163"
                     },
                     "medium": {
-                        "h": 206,
+                        "h": "206",
                         "resize": "fit",
-                        "w": 163
+                        "w": "163"
                     },
                     "small": {
-                        "h": 206,
+                        "h": "206",
                         "resize": "fit",
-                        "w": 163
+                        "w": "163"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -65,11 +63,11 @@
         "urls": [],
         "user_mentions": [
             {
-                "id": 6519522,
+                "id": "6519522",
                 "id_str": "6519522",
                 "indices": [
-                    15,
-                    24
+                    "15",
+                    "24"
                 ],
                 "name": "American Red Cross",
                 "screen_name": "RedCross"
@@ -79,37 +77,36 @@
     "extended_entities": {
         "media": [
             {
-                "display_url": "pic.twitter.com/XBcsUCeEsb",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/998549764902879232/photo/1",
-                "ext_alt_text": "Portrait of Clara Barton",
-                "id": 998549624209133570,
+                "display_url": "pic.x.com/XBcsUCeEsb",
+                "expanded_url": "https://x.com/HistoryAtState/status/998549764902879232/photo/1",
+                "id": "998549624209133568",
                 "id_str": "998549624209133568",
                 "indices": [
-                    90,
-                    113
+                    "90",
+                    "113"
                 ],
                 "media_url": "http://pbs.twimg.com/media/DduPl7mV0AAPeDH.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DduPl7mV0AAPeDH.jpg",
                 "sizes": {
                     "large": {
-                        "h": 206,
+                        "h": "206",
                         "resize": "fit",
-                        "w": 163
+                        "w": "163"
                     },
                     "medium": {
-                        "h": 206,
+                        "h": "206",
                         "resize": "fit",
-                        "w": 163
+                        "w": "163"
                     },
                     "small": {
-                        "h": 206,
+                        "h": "206",
                         "resize": "fit",
-                        "w": 163
+                        "w": "163"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -117,27 +114,15 @@
             }
         ]
     },
-    "favorite_count": 2,
+    "favorite_count": "2",
     "favorited": false,
     "full_text": "Happy 137th to @RedCross! Pictured is founder Clara Barton. #RedCross137 #twitterstorians https://t.co/XBcsUCeEsb",
-    "geo": null,
-    "id": 998549764902879230,
+    "id": "998549764902879232",
     "id_str": "998549764902879232",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 0,
+    "retweet_count": "0",
     "retweeted": false,
     "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

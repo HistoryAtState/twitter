@@ -1,17 +1,15 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Thu Jul 03 14:42:45 +0000 2014",
     "display_text_range": [
-        0,
-        140
+        "0",
+        "140"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    15,
-                    26
+                    "15",
+                    "26"
                 ],
                 "text": "Didyouknow"
             }
@@ -20,134 +18,45 @@
         "urls": [],
         "user_mentions": [
             {
-                "id": 9624742,
+                "id": "9624742",
                 "id_str": "9624742",
                 "indices": [
-                    3,
-                    13
+                    "3",
+                    "13"
                 ],
                 "name": "Department of State",
                 "screen_name": "StateDept"
             },
             {
-                "id": 9624742,
+                "id": "9624742",
                 "id_str": "9624742",
                 "indices": [
-                    51,
-                    61
+                    "51",
+                    "61"
                 ],
                 "name": "Department of State",
                 "screen_name": "StateDept"
             },
             {
-                "id": 169927909,
+                "id": "169927909",
                 "id_str": "169927909",
                 "indices": [
-                    110,
-                    122
+                    "110",
+                    "122"
                 ],
                 "name": "Virtual Student Federal Service",
                 "screen_name": "VSFSatState"
             }
         ]
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "RT @StateDept: #Didyouknow that you can intern for @StateDept from anywhere in the world? Learn about being a @vsfsAtState eIntern: http://…",
-    "geo": null,
-    "id": 484708831491284990,
+    "id": "484708831491284993",
     "id_str": "484708831491284993",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
-    "retweet_count": 52,
-    "retweeted": true,
-    "retweeted_status": {
-        "contributors": null,
-        "coordinates": null,
-        "created_at": "Wed Jul 02 18:04:26 +0000 2014",
-        "display_text_range": [
-            0,
-            139
-        ],
-        "entities": {
-            "hashtags": [
-                {
-                    "indices": [
-                        0,
-                        11
-                    ],
-                    "text": "Didyouknow"
-                }
-            ],
-            "symbols": [],
-            "urls": [
-                {
-                    "display_url": "go.usa.gov/XxeQ",
-                    "expanded_url": "http://go.usa.gov/XxeQ",
-                    "indices": [
-                        117,
-                        139
-                    ],
-                    "url": "http://t.co/VKDvhGqm4P"
-                }
-            ],
-            "user_mentions": [
-                {
-                    "id": 9624742,
-                    "id_str": "9624742",
-                    "indices": [
-                        36,
-                        46
-                    ],
-                    "name": "Department of State",
-                    "screen_name": "StateDept"
-                },
-                {
-                    "id": 169927909,
-                    "id_str": "169927909",
-                    "indices": [
-                        95,
-                        107
-                    ],
-                    "name": "Virtual Student Federal Service",
-                    "screen_name": "VSFSatState"
-                }
-            ]
-        },
-        "favorite_count": 36,
-        "favorited": false,
-        "full_text": "#Didyouknow that you can intern for @StateDept from anywhere in the world? Learn about being a @vsfsAtState eIntern: http://t.co/VKDvhGqm4P",
-        "geo": null,
-        "id": 484397199896608770,
-        "id_str": "484397199896608768",
-        "in_reply_to_screen_name": null,
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "is_quote_status": false,
-        "lang": "en",
-        "place": null,
-        "possibly_sensitive": false,
-        "retweet_count": 52,
-        "retweeted": true,
-        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-        "truncated": false,
-        "user": {
-            "id": 9624742,
-            "id_str": "9624742"
-        }
-    },
+    "retweet_count": "0",
+    "retweeted": false,
     "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

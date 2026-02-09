@@ -1,24 +1,22 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Mon May 12 15:23:23 +0000 2014",
     "display_text_range": [
-        0,
-        131
+        "0",
+        "131"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    109,
-                    114
+                    "109",
+                    "114"
                 ],
                 "text": "FRUS"
             },
             {
                 "indices": [
-                    115,
-                    131
+                    "115",
+                    "131"
                 ],
                 "text": "twitterstorians"
             }
@@ -29,35 +27,23 @@
                 "display_url": "go.usa.gov/KmE5",
                 "expanded_url": "http://go.usa.gov/KmE5",
                 "indices": [
-                    86,
-                    108
+                    "86",
+                    "108"
                 ],
                 "url": "http://t.co/33VO2Dz7am"
             }
         ],
         "user_mentions": []
     },
-    "favorite_count": 1,
+    "favorite_count": "1",
     "favorited": false,
     "full_text": "Interested in the US response to the crisis in Northern Ireland after 1973? Check out http://t.co/33VO2Dz7am #FRUS #twitterstorians",
-    "geo": null,
-    "id": 465874889077841920,
+    "id": "465874889077841920",
     "id_str": "465874889077841920",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 2,
+    "retweet_count": "1",
     "retweeted": false,
     "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

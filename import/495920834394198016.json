@@ -1,24 +1,22 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Sun Aug 03 13:15:15 +0000 2014",
     "display_text_range": [
-        0,
-        106
+        "0",
+        "106"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    0,
-                    5
+                    "0",
+                    "5"
                 ],
                 "text": "TDiH"
             },
             {
                 "indices": [
-                    74,
-                    83
+                    "74",
+                    "83"
                 ],
                 "text": "WW1Tweet"
             }
@@ -29,46 +27,34 @@
                 "display_url": "go.usa.gov/5Mjm",
                 "expanded_url": "http://go.usa.gov/5Mjm",
                 "indices": [
-                    84,
-                    106
+                    "84",
+                    "106"
                 ],
                 "url": "http://t.co/1tgYxURiJS"
             }
         ],
         "user_mentions": [
             {
-                "id": 39764029,
+                "id": "39764029",
                 "id_str": "39764029",
                 "indices": [
-                    58,
-                    72
+                    "58",
+                    "72"
                 ],
                 "name": "U.S. Embassy Oslo",
                 "screen_name": "usembassyoslo"
             }
         ]
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "#TDiH 1914 US Min Christiania: Norway declares neutrality @USEmbassyOslo \n#WW1Tweet http://t.co/1tgYxURiJS",
-    "geo": null,
-    "id": 495920834394198020,
+    "id": "495920834394198016",
     "id_str": "495920834394198016",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 0,
+    "retweet_count": "0",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

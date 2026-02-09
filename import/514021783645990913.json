@@ -1,17 +1,15 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Mon Sep 22 12:01:57 +0000 2014",
     "display_text_range": [
-        0,
-        127
+        "0",
+        "127"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    31,
-                    35
+                    "31",
+                    "35"
                 ],
                 "text": "WW1"
             }
@@ -22,46 +20,34 @@
                 "display_url": "go.usa.gov/pKZx",
                 "expanded_url": "http://go.usa.gov/pKZx",
                 "indices": [
-                    59,
-                    81
+                    "59",
+                    "81"
                 ],
                 "url": "http://t.co/Oiy4MIffNs"
             }
         ],
         "user_mentions": [
             {
-                "id": 72814599,
+                "id": "72814599",
                 "id_str": "72814599",
                 "indices": [
-                    14,
-                    30
+                    "14",
+                    "30"
                 ],
                 "name": "U.S. Embassy France",
                 "screen_name": "USEmbassyFrance"
             }
         ]
     },
-    "favorite_count": 1,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "We’ve revived @USEmbassyFrance #WW1 stories long-forgotten http://t.co/Oiy4MIffNs Here’s an introduction to our main characters",
-    "geo": null,
-    "id": 514021783645990910,
+    "id": "514021783645990913",
     "id_str": "514021783645990913",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 1,
+    "retweet_count": "1",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

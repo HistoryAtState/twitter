@@ -1,24 +1,22 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Tue Oct 07 11:55:13 +0000 2014",
     "display_text_range": [
-        0,
-        127
+        "0",
+        "127"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    108,
-                    117
+                    "108",
+                    "117"
                 ],
                 "text": "YoursWHP"
             },
             {
                 "indices": [
-                    118,
-                    127
+                    "118",
+                    "127"
                 ],
                 "text": "WW1Tweet"
             }
@@ -27,37 +25,25 @@
         "urls": [],
         "user_mentions": [
             {
-                "id": 14856951,
+                "id": "14856951",
                 "id_str": "14856951",
                 "indices": [
-                    1,
-                    9
+                    "1",
+                    "9"
                 ],
                 "name": "U.S. Embassy London",
                 "screen_name": "USAinUK"
             }
         ]
     },
-    "favorite_count": 1,
+    "favorite_count": "1",
     "favorited": false,
     "full_text": ".@USAinUK Amb WH Page wrote of Aug 1914 dark days, “The Continent is every day becoming a slaughter house.” #YoursWHP #WW1Tweet",
-    "geo": null,
-    "id": 519455906212630530,
+    "id": "519455906212630528",
     "id_str": "519455906212630528",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
-    "retweet_count": 0,
+    "retweet_count": "0",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

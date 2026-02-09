@@ -1,17 +1,15 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Fri Nov 20 18:37:40 +0000 2020",
     "display_text_range": [
-        0,
-        140
+        "0",
+        "140"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    69,
-                    74
+                    "69",
+                    "74"
                 ],
                 "text": "FRUS"
             }
@@ -22,229 +20,34 @@
                 "display_url": "go.usa.gov/x7pN3",
                 "expanded_url": "https://go.usa.gov/x7pN3",
                 "indices": [
-                    83,
-                    106
+                    "83",
+                    "106"
                 ],
                 "url": "https://t.co/1DWXADllWy"
             }
         ],
         "user_mentions": [
             {
-                "id": 19660388,
+                "id": "19660388",
                 "id_str": "19660388",
                 "indices": [
-                    3,
-                    17
+                    "3",
+                    "17"
                 ],
                 "name": "Jimmy Carter Presidential Library",
                 "screen_name": "CarterLibrary"
             }
         ]
     },
-    "favorite_count": 0,
-    "favorited": true,
+    "favorite_count": "0",
+    "favorited": false,
     "full_text": "RT @CarterLibrary: Learn about the Iran Hostage Crisis in the latest #FRUS volume, https://t.co/1DWXADllWy. The series is a great resource,…",
-    "geo": null,
-    "id": 1329856450546577410,
+    "id": "1329856450546577408",
     "id_str": "1329856450546577408",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 17,
-    "retweeted": true,
-    "retweeted_status": {
-        "contributors": null,
-        "coordinates": null,
-        "created_at": "Fri Nov 20 11:00:39 +0000 2020",
-        "display_text_range": [
-            0,
-            271
-        ],
-        "entities": {
-            "hashtags": [
-                {
-                    "indices": [
-                        50,
-                        55
-                    ],
-                    "text": "FRUS"
-                }
-            ],
-            "media": [
-                {
-                    "display_url": "pic.twitter.com/0Wfc6crllL",
-                    "expanded_url": "https://twitter.com/CarterLibrary/status/1329741439253827585/photo/1",
-                    "id": 1329741437416730620,
-                    "id_str": "1329741437416730624",
-                    "indices": [
-                        272,
-                        295
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/EnQwysRXcAAeMxm.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/EnQwysRXcAAeMxm.jpg",
-                    "sizes": {
-                        "large": {
-                            "h": 438,
-                            "resize": "fit",
-                            "w": 700
-                        },
-                        "medium": {
-                            "h": 438,
-                            "resize": "fit",
-                            "w": 700
-                        },
-                        "small": {
-                            "h": 425,
-                            "resize": "fit",
-                            "w": 680
-                        },
-                        "thumb": {
-                            "h": 150,
-                            "resize": "crop",
-                            "w": 150
-                        }
-                    },
-                    "type": "photo",
-                    "url": "https://t.co/0Wfc6crllL"
-                }
-            ],
-            "symbols": [],
-            "urls": [
-                {
-                    "display_url": "go.usa.gov/x7pN3",
-                    "expanded_url": "https://go.usa.gov/x7pN3",
-                    "indices": [
-                        64,
-                        87
-                    ],
-                    "url": "https://t.co/1DWXADllWy"
-                }
-            ],
-            "user_mentions": [
-                {
-                    "id": 586570880,
-                    "id_str": "586570880",
-                    "indices": [
-                        256,
-                        271
-                    ],
-                    "name": "HistoryAtState",
-                    "screen_name": "HistoryAtState"
-                }
-            ]
-        },
-        "extended_entities": {
-            "media": [
-                {
-                    "display_url": "pic.twitter.com/0Wfc6crllL",
-                    "expanded_url": "https://twitter.com/CarterLibrary/status/1329741439253827585/photo/1",
-                    "ext_alt_text": "Jimmy Carter, Jack Watson and Ed Muskie meet in the Cabinet Room, Walter Mondale looks at documents in back.",
-                    "id": 1329741437416730620,
-                    "id_str": "1329741437416730624",
-                    "indices": [
-                        272,
-                        295
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/EnQwysRXcAAeMxm.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/EnQwysRXcAAeMxm.jpg",
-                    "sizes": {
-                        "large": {
-                            "h": 438,
-                            "resize": "fit",
-                            "w": 700
-                        },
-                        "medium": {
-                            "h": 438,
-                            "resize": "fit",
-                            "w": 700
-                        },
-                        "small": {
-                            "h": 425,
-                            "resize": "fit",
-                            "w": 680
-                        },
-                        "thumb": {
-                            "h": 150,
-                            "resize": "crop",
-                            "w": 150
-                        }
-                    },
-                    "type": "photo",
-                    "url": "https://t.co/0Wfc6crllL"
-                },
-                {
-                    "display_url": "pic.twitter.com/0Wfc6crllL",
-                    "expanded_url": "https://twitter.com/CarterLibrary/status/1329741439253827585/photo/1",
-                    "ext_alt_text": "Cover of FRUS report says Foreign Relations of the United States, 1977-1980 Volume XI, Part 1: Iran: Hostage Crisis, November 1979-September 1980",
-                    "id": 1329741438033211390,
-                    "id_str": "1329741438033211392",
-                    "indices": [
-                        272,
-                        295
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/EnQwyukWMAAa7yS.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/EnQwyukWMAAa7yS.jpg",
-                    "sizes": {
-                        "large": {
-                            "h": 394,
-                            "resize": "fit",
-                            "w": 396
-                        },
-                        "medium": {
-                            "h": 394,
-                            "resize": "fit",
-                            "w": 396
-                        },
-                        "small": {
-                            "h": 394,
-                            "resize": "fit",
-                            "w": 396
-                        },
-                        "thumb": {
-                            "h": 150,
-                            "resize": "crop",
-                            "w": 150
-                        }
-                    },
-                    "type": "photo",
-                    "url": "https://t.co/0Wfc6crllL"
-                }
-            ]
-        },
-        "favorite_count": 55,
-        "favorited": true,
-        "full_text": "Learn about the Iran Hostage Crisis in the latest #FRUS volume, https://t.co/1DWXADllWy. The series is a great resource, especially given current travel &amp;amp; access restrictions. These reports were used in many intense meetings. Pic, 11/2/80, NAID 848291 @HistoryAtState https://t.co/0Wfc6crllL",
-        "geo": null,
-        "id": 1329741439253827580,
-        "id_str": "1329741439253827585",
-        "in_reply_to_screen_name": null,
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "is_quote_status": false,
-        "lang": "en",
-        "place": null,
-        "possibly_sensitive": false,
-        "retweet_count": 17,
-        "retweeted": true,
-        "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
-        "truncated": false,
-        "user": {
-            "id": 19660388,
-            "id_str": "19660388"
-        }
-    },
+    "retweet_count": "0",
+    "retweeted": false,
     "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

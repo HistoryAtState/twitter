@@ -1,45 +1,43 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Tue Nov 22 17:01:30 +0000 2016",
     "display_text_range": [
-        0,
-        136
+        "0",
+        "136"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    0,
-                    5
+                    "0",
+                    "5"
                 ],
                 "text": "Cuba"
             },
             {
                 "indices": [
-                    13,
-                    16
+                    "13",
+                    "16"
                 ],
                 "text": "UN"
             },
             {
                 "indices": [
-                    54,
-                    58
+                    "54",
+                    "58"
                 ],
                 "text": "JFK"
             },
             {
                 "indices": [
-                    90,
-                    95
+                    "90",
+                    "95"
                 ],
                 "text": "FRUS"
             },
             {
                 "indices": [
-                    96,
-                    112
+                    "96",
+                    "112"
                 ],
                 "text": "twitterstorians"
             }
@@ -50,56 +48,44 @@
                 "display_url": "go.usa.gov/x89Hp",
                 "expanded_url": "http://go.usa.gov/x89Hp",
                 "indices": [
-                    66,
-                    89
+                    "66",
+                    "89"
                 ],
                 "url": "https://t.co/8YOW3Vfr0K"
             }
         ],
         "user_mentions": [
             {
-                "id": 32520240,
-                "id_str": "32520240",
+                "id": "1850960131946921984",
+                "id_str": "1850960131946921984",
                 "indices": [
-                    113,
-                    124
+                    "113",
+                    "124"
                 ],
-                "name": "JFK Library",
-                "screen_name": "JFKLibrary"
+                "name": "JFK Library Foundation",
+                "screen_name": "jfklibrary"
             },
             {
-                "id": 113729414,
+                "id": "113729414",
                 "id_str": "113729414",
                 "indices": [
-                    125,
-                    136
+                    "125",
+                    "136"
                 ],
                 "name": "LBJ Library",
                 "screen_name": "LBJLibrary"
             }
         ]
     },
-    "favorite_count": 1,
+    "favorite_count": "1",
     "favorited": false,
     "full_text": "#Cuba Amb to #UN tracks letter on US-Cuban talks post #JFK death: https://t.co/8YOW3Vfr0K #FRUS #twitterstorians @JFKLibrary @LBJLibrary",
-    "geo": null,
-    "id": 801108354403745790,
+    "id": "801108354403745793",
     "id_str": "801108354403745793",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 0,
+    "retweet_count": "0",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

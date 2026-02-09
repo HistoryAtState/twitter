@@ -1,31 +1,29 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Tue Nov 08 14:10:21 +0000 2016",
     "display_text_range": [
-        0,
-        96
+        "0",
+        "96"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    60,
-                    65
+                    "60",
+                    "65"
                 ],
                 "text": "FRUS"
             },
             {
                 "indices": [
-                    66,
-                    82
+                    "66",
+                    "82"
                 ],
                 "text": "twitterstorians"
             },
             {
                 "indices": [
-                    83,
-                    96
+                    "83",
+                    "96"
                 ],
                 "text": "election2016"
             }
@@ -36,35 +34,23 @@
                 "display_url": "go.usa.gov/xksEr",
                 "expanded_url": "http://go.usa.gov/xksEr",
                 "indices": [
-                    36,
-                    59
+                    "36",
+                    "59"
                 ],
                 "url": "https://t.co/ZS5kCFRT59"
             }
         ],
         "user_mentions": []
     },
-    "favorite_count": 2,
+    "favorite_count": "2",
     "favorited": false,
     "full_text": "Soviets react to Reagan’s 1980 win: https://t.co/ZS5kCFRT59 #FRUS #twitterstorians #election2016",
-    "geo": null,
-    "id": 795991854592524290,
+    "id": "795991854592524288",
     "id_str": "795991854592524288",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 2,
+    "retweet_count": "1",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

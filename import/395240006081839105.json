@@ -1,10 +1,8 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Tue Oct 29 17:25:35 +0000 2013",
     "display_text_range": [
-        0,
-        140
+        "0",
+        "140"
     ],
     "entities": {
         "hashtags": [],
@@ -12,105 +10,35 @@
         "urls": [],
         "user_mentions": [
             {
-                "id": 234906483,
+                "id": "234906483",
                 "id_str": "234906483",
                 "indices": [
-                    3,
-                    17
+                    "3",
+                    "17"
                 ],
                 "name": "Columbia-LSE MA/MSc",
                 "screen_name": "intlworldhist"
             },
             {
-                "id": 586570880,
+                "id": "586570880",
                 "id_str": "586570880",
                 "indices": [
-                    103,
-                    118
+                    "103",
+                    "118"
                 ],
                 "name": "HistoryAtState",
                 "screen_name": "HistoryAtState"
             }
         ]
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "RT @intlworldhist: Join us this Wed. 10/30 for a discussion on \"Metatransparency\" with historians from @HistoryAtState. Room 406 IAB, 3-4:3…",
-    "geo": null,
-    "id": 395240006081839100,
+    "id": "395240006081839105",
     "id_str": "395240006081839105",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
-    "retweet_count": 1,
-    "retweeted": true,
-    "retweeted_status": {
-        "contributors": null,
-        "coordinates": null,
-        "created_at": "Mon Oct 28 17:53:06 +0000 2013",
-        "display_text_range": [
-            0,
-            137
-        ],
-        "entities": {
-            "hashtags": [],
-            "symbols": [],
-            "urls": [],
-            "user_mentions": [
-                {
-                    "id": 586570880,
-                    "id_str": "586570880",
-                    "indices": [
-                        84,
-                        99
-                    ],
-                    "name": "HistoryAtState",
-                    "screen_name": "HistoryAtState"
-                },
-                {
-                    "id": 248795646,
-                    "id_str": "248795646",
-                    "indices": [
-                        127,
-                        136
-                    ],
-                    "name": "Columbia University",
-                    "screen_name": "Columbia"
-                }
-            ]
-        },
-        "favorite_count": 0,
-        "favorited": false,
-        "full_text": "Join us this Wed. 10/30 for a discussion on \"Metatransparency\" with historians from @HistoryAtState. Room 406 IAB, 3-4:30 p.m. @Columbia.",
-        "geo": null,
-        "id": 394884542793646080,
-        "id_str": "394884542793646081",
-        "in_reply_to_screen_name": null,
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "is_quote_status": false,
-        "lang": "en",
-        "place": null,
-        "retweet_count": 1,
-        "retweeted": true,
-        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-        "truncated": false,
-        "user": {
-            "id": 234906483,
-            "id_str": "234906483"
-        }
-    },
+    "retweet_count": "0",
+    "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

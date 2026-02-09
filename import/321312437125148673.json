@@ -1,17 +1,15 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Mon Apr 08 17:23:49 +0000 2013",
     "display_text_range": [
-        0,
-        140
+        "0",
+        "140"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    15,
-                    24
+                    "15",
+                    "24"
                 ],
                 "text": "SecKerry"
             }
@@ -20,93 +18,25 @@
         "urls": [],
         "user_mentions": [
             {
-                "id": 9624742,
+                "id": "9624742",
                 "id_str": "9624742",
                 "indices": [
-                    3,
-                    13
+                    "3",
+                    "13"
                 ],
                 "name": "Department of State",
                 "screen_name": "StateDept"
             }
         ]
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "RT @StateDept: #SecKerry on death of Margaret Thatcher: the US has lost a dear friend, world has lost a transformative leader. http://t. ...",
-    "geo": null,
-    "id": 321312437125148670,
+    "id": "321312437125148673",
     "id_str": "321312437125148673",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
-    "retweet_count": 84,
-    "retweeted": true,
-    "retweeted_status": {
-        "contributors": null,
-        "coordinates": null,
-        "created_at": "Mon Apr 08 16:47:54 +0000 2013",
-        "display_text_range": [
-            0,
-            134
-        ],
-        "entities": {
-            "hashtags": [
-                {
-                    "indices": [
-                        0,
-                        9
-                    ],
-                    "text": "SecKerry"
-                }
-            ],
-            "symbols": [],
-            "urls": [
-                {
-                    "display_url": "go.usa.gov/T39e",
-                    "expanded_url": "http://go.usa.gov/T39e",
-                    "indices": [
-                        112,
-                        134
-                    ],
-                    "url": "http://t.co/N83dgbafWJ"
-                }
-            ],
-            "user_mentions": []
-        },
-        "favorite_count": 9,
-        "favorited": false,
-        "full_text": "#SecKerry on death of Margaret Thatcher: the US has lost a dear friend, world has lost a transformative leader. http://t.co/N83dgbafWJ",
-        "geo": null,
-        "id": 321303397674414080,
-        "id_str": "321303397674414080",
-        "in_reply_to_screen_name": null,
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "is_quote_status": false,
-        "lang": "en",
-        "place": null,
-        "possibly_sensitive": false,
-        "retweet_count": 84,
-        "retweeted": true,
-        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-        "truncated": false,
-        "user": {
-            "id": 9624742,
-            "id_str": "9624742"
-        }
-    },
+    "retweet_count": "0",
+    "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

@@ -1,24 +1,22 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Tue Jun 20 16:15:13 +0000 2017",
     "display_text_range": [
-        0,
-        95
+        "0",
+        "95"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    14,
-                    24
+                    "14",
+                    "24"
                 ],
                 "text": "SHAFR2017"
             },
             {
                 "indices": [
-                    79,
-                    95
+                    "79",
+                    "95"
                 ],
                 "text": "twitterstorians"
             }
@@ -29,46 +27,34 @@
                 "display_url": "shafr.org/conferences/an…",
                 "expanded_url": "https://shafr.org/conferences/annual/2017-annual-meeting",
                 "indices": [
-                    38,
-                    61
+                    "38",
+                    "61"
                 ],
                 "url": "https://t.co/bYAjsfPfs6"
             }
         ],
         "user_mentions": [
             {
-                "id": 2169482554,
+                "id": "2169482554",
                 "id_str": "2169482554",
                 "indices": [
-                    62,
-                    78
+                    "62",
+                    "78"
                 ],
                 "name": "SHAFR Historians",
                 "screen_name": "SHAFRhistorians"
             }
         ]
     },
-    "favorite_count": 5,
+    "favorite_count": "3",
     "favorited": false,
     "full_text": "We will be at #SHAFR2017, June 22–24!\nhttps://t.co/bYAjsfPfs6 @SHAFRhistorians #twitterstorians",
-    "geo": null,
-    "id": 877198159897931780,
+    "id": "877198159897931777",
     "id_str": "877198159897931777",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 2,
+    "retweet_count": "1",
     "retweeted": false,
     "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

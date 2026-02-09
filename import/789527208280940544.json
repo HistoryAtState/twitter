@@ -1,17 +1,15 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Fri Oct 21 18:02:09 +0000 2016",
     "display_text_range": [
-        0,
-        101
+        "0",
+        "101"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    35,
-                    44
+                    "35",
+                    "44"
                 ],
                 "text": "einterns"
             }
@@ -22,66 +20,54 @@
                 "display_url": "flathatnews.com/2016/10/18/vsf…",
                 "expanded_url": "http://flathatnews.com/2016/10/18/vsfs-einterns-partner-up-on-foreign-service-projects/",
                 "indices": [
-                    49,
-                    72
+                    "49",
+                    "72"
                 ],
                 "url": "https://t.co/o0vvEO6njH"
             }
         ],
         "user_mentions": [
             {
-                "id": 586570880,
+                "id": "586570880",
                 "id_str": "586570880",
                 "indices": [
-                    19,
-                    34
+                    "19",
+                    "34"
                 ],
                 "name": "HistoryAtState",
                 "screen_name": "HistoryAtState"
             },
             {
-                "id": 169927909,
+                "id": "169927909",
                 "id_str": "169927909",
                 "indices": [
-                    73,
-                    85
+                    "73",
+                    "85"
                 ],
                 "name": "Virtual Student Federal Service",
                 "screen_name": "VSFSatState"
             },
             {
-                "id": 15768704,
+                "id": "15768704",
                 "id_str": "15768704",
                 "indices": [
-                    86,
-                    101
+                    "86",
+                    "101"
                 ],
                 "name": "William &amp; Mary",
                 "screen_name": "williamandmary"
             }
         ]
     },
-    "favorite_count": 3,
+    "favorite_count": "1",
     "favorited": false,
     "full_text": "Curious about what @HistoryAtState #einterns do? https://t.co/o0vvEO6njH @vsfsAtState @williamandmary",
-    "geo": null,
-    "id": 789527208280940540,
+    "id": "789527208280940544",
     "id_str": "789527208280940544",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 3,
+    "retweet_count": "2",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

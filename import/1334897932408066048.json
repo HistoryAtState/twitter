@@ -1,53 +1,51 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Fri Dec 04 16:30:42 +0000 2020",
     "display_text_range": [
-        0,
-        153
+        "0",
+        "177"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    9,
-                    14
+                    "9",
+                    "14"
                 ],
                 "text": "FRUS"
             }
         ],
         "media": [
             {
-                "display_url": "pic.twitter.com/uAA4TTQXl8",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1334897932408066048/photo/1",
-                "id": 1334897929618923520,
+                "display_url": "pic.x.com/uAA4TTQXl8",
+                "expanded_url": "https://x.com/HistoryAtState/status/1334897932408066048/photo/1",
+                "id": "1334897929618923522",
                 "id_str": "1334897929618923522",
                 "indices": [
-                    154,
-                    177
+                    "154",
+                    "177"
                 ],
                 "media_url": "http://pbs.twimg.com/media/EoaCmCpXIAIlaUz.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/EoaCmCpXIAIlaUz.jpg",
                 "sizes": {
                     "large": {
-                        "h": 1424,
+                        "h": "1424",
                         "resize": "fit",
-                        "w": 2048
+                        "w": "2048"
                     },
                     "medium": {
-                        "h": 834,
+                        "h": "834",
                         "resize": "fit",
-                        "w": 1200
+                        "w": "1200"
                     },
                     "small": {
-                        "h": 473,
+                        "h": "473",
                         "resize": "fit",
-                        "w": 680
+                        "w": "680"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -60,8 +58,8 @@
                 "display_url": "history.state.gov/historicaldocu…",
                 "expanded_url": "https://history.state.gov/historicaldocuments/frus1981-88v41/ch1",
                 "indices": [
-                    123,
-                    146
+                    "123",
+                    "146"
                 ],
                 "url": "https://t.co/kCPUCBppdu"
             }
@@ -71,37 +69,36 @@
     "extended_entities": {
         "media": [
             {
-                "display_url": "pic.twitter.com/uAA4TTQXl8",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1334897932408066048/photo/1",
-                "ext_alt_text": "Screenshot of the landing page for the AIDS Policy chapter of Foreign Relations of the United States, 1981–1988, Volume XLI, Global Issues II The documents shown include 1) Editorial Note; 2) Telegram from the Department of State to the Embassy in Haiti; 3) Telegram from the Department of State to All Diplomatic and Consular Posts",
-                "id": 1334897929618923520,
+                "display_url": "pic.x.com/uAA4TTQXl8",
+                "expanded_url": "https://x.com/HistoryAtState/status/1334897932408066048/photo/1",
+                "id": "1334897929618923522",
                 "id_str": "1334897929618923522",
                 "indices": [
-                    154,
-                    177
+                    "154",
+                    "177"
                 ],
                 "media_url": "http://pbs.twimg.com/media/EoaCmCpXIAIlaUz.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/EoaCmCpXIAIlaUz.jpg",
                 "sizes": {
                     "large": {
-                        "h": 1424,
+                        "h": "1424",
                         "resize": "fit",
-                        "w": 2048
+                        "w": "2048"
                     },
                     "medium": {
-                        "h": 834,
+                        "h": "834",
                         "resize": "fit",
-                        "w": 1200
+                        "w": "1200"
                     },
                     "small": {
-                        "h": 473,
+                        "h": "473",
                         "resize": "fit",
-                        "w": 680
+                        "w": "680"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -109,27 +106,15 @@
             }
         ]
     },
-    "favorite_count": 2,
+    "favorite_count": "1",
     "favorited": false,
     "full_text": "Read the #FRUS chapter on AIDS Policy in Foreign Relations of the United States, 1981–1988, Volume XLI, Global Issues II:\n\nhttps://t.co/kCPUCBppdu\n\n(3/3) https://t.co/uAA4TTQXl8",
-    "geo": null,
-    "id": 1334897932408066050,
+    "id": "1334897932408066048",
     "id_str": "1334897932408066048",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 2,
+    "retweet_count": "0",
     "retweeted": false,
     "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

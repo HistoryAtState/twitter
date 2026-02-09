@@ -1,53 +1,51 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Wed Mar 16 12:58:29 +0000 2016",
     "display_text_range": [
-        0,
-        132
+        "0",
+        "132"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    37,
-                    42
+                    "37",
+                    "42"
                 ],
                 "text": "FRUS"
             }
         ],
         "media": [
             {
-                "display_url": "pic.twitter.com/BhxHcB9eSW",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/710087844182794240/photo/1",
-                "id": 710087842978856960,
+                "display_url": "pic.x.com/BhxHcB9eSW",
+                "expanded_url": "https://x.com/HistoryAtState/status/710087844182794240/photo/1",
+                "id": "710087842978856960",
                 "id_str": "710087842978856960",
                 "indices": [
-                    109,
-                    132
+                    "109",
+                    "132"
                 ],
                 "media_url": "http://pbs.twimg.com/media/Cdq9IYgUAAANu_n.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/Cdq9IYgUAAANu_n.jpg",
                 "sizes": {
                     "large": {
-                        "h": 600,
+                        "h": "600",
                         "resize": "fit",
-                        "w": 400
+                        "w": "400"
                     },
                     "medium": {
-                        "h": 600,
+                        "h": "600",
                         "resize": "fit",
-                        "w": 400
+                        "w": "400"
                     },
                     "small": {
-                        "h": 600,
+                        "h": "600",
                         "resize": "fit",
-                        "w": 400
+                        "w": "400"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -60,8 +58,8 @@
                 "display_url": "go.usa.gov/cGQCJ",
                 "expanded_url": "http://go.usa.gov/cGQCJ",
                 "indices": [
-                    85,
-                    108
+                    "85",
+                    "108"
                 ],
                 "url": "https://t.co/nNWTxUxzuO"
             }
@@ -71,37 +69,36 @@
     "extended_entities": {
         "media": [
             {
-                "display_url": "pic.twitter.com/BhxHcB9eSW",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/710087844182794240/photo/1",
-                "ext_alt_text": null,
-                "id": 710087842978856960,
+                "display_url": "pic.x.com/BhxHcB9eSW",
+                "expanded_url": "https://x.com/HistoryAtState/status/710087844182794240/photo/1",
+                "id": "710087842978856960",
                 "id_str": "710087842978856960",
                 "indices": [
-                    109,
-                    132
+                    "109",
+                    "132"
                 ],
                 "media_url": "http://pbs.twimg.com/media/Cdq9IYgUAAANu_n.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/Cdq9IYgUAAANu_n.jpg",
                 "sizes": {
                     "large": {
-                        "h": 600,
+                        "h": "600",
                         "resize": "fit",
-                        "w": 400
+                        "w": "400"
                     },
                     "medium": {
-                        "h": 600,
+                        "h": "600",
                         "resize": "fit",
-                        "w": 400
+                        "w": "400"
                     },
                     "small": {
-                        "h": 600,
+                        "h": "600",
                         "resize": "fit",
-                        "w": 400
+                        "w": "400"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -109,27 +106,15 @@
             }
         ]
     },
-    "favorite_count": 10,
+    "favorite_count": "6",
     "favorited": false,
     "full_text": "The Office of the Historian releases #FRUS, Soviet Union, January 1981–January 1983: https://t.co/nNWTxUxzuO https://t.co/BhxHcB9eSW",
-    "geo": null,
-    "id": 710087844182794240,
+    "id": "710087844182794240",
     "id_str": "710087844182794240",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 21,
+    "retweet_count": "15",
     "retweeted": false,
     "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

@@ -1,60 +1,58 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Tue Nov 07 14:00:30 +0000 2017",
     "display_text_range": [
-        0,
-        122
+        "0",
+        "146"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    95,
-                    103
+                    "95",
+                    "103"
                 ],
                 "text": "Russian"
             },
             {
                 "indices": [
-                    115,
-                    122
+                    "115",
+                    "122"
                 ],
                 "text": "Russia"
             }
         ],
         "media": [
             {
-                "display_url": "pic.twitter.com/ivtBKnYOlw",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/927898556320702464/photo/1",
-                "id": 927898554064097280,
+                "display_url": "pic.x.com/ivtBKnYOlw",
+                "expanded_url": "https://x.com/HistoryAtState/status/927898556320702464/photo/1",
+                "id": "927898554064097281",
                 "id_str": "927898554064097281",
                 "indices": [
-                    123,
-                    146
+                    "123",
+                    "146"
                 ],
                 "media_url": "http://pbs.twimg.com/media/DOCO0ZaW0AEQZ5B.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DOCO0ZaW0AEQZ5B.jpg",
                 "sizes": {
                     "large": {
-                        "h": 379,
+                        "h": "379",
                         "resize": "fit",
-                        "w": 644
+                        "w": "644"
                     },
                     "medium": {
-                        "h": 379,
+                        "h": "379",
                         "resize": "fit",
-                        "w": 644
+                        "w": "644"
                     },
                     "small": {
-                        "h": 379,
+                        "h": "379",
                         "resize": "fit",
-                        "w": 644
+                        "w": "644"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -67,8 +65,8 @@
                 "display_url": "go.usa.gov/xn2rA#FRUS",
                 "expanded_url": "https://go.usa.gov/xn2rA#FRUS",
                 "indices": [
-                    71,
-                    94
+                    "71",
+                    "94"
                 ],
                 "url": "https://t.co/d5CRfvlLJY"
             }
@@ -78,37 +76,36 @@
     "extended_entities": {
         "media": [
             {
-                "display_url": "pic.twitter.com/ivtBKnYOlw",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/927898556320702464/photo/1",
-                "ext_alt_text": null,
-                "id": 927898554064097280,
+                "display_url": "pic.x.com/ivtBKnYOlw",
+                "expanded_url": "https://x.com/HistoryAtState/status/927898556320702464/photo/1",
+                "id": "927898554064097281",
                 "id_str": "927898554064097281",
                 "indices": [
-                    123,
-                    146
+                    "123",
+                    "146"
                 ],
                 "media_url": "http://pbs.twimg.com/media/DOCO0ZaW0AEQZ5B.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DOCO0ZaW0AEQZ5B.jpg",
                 "sizes": {
                     "large": {
-                        "h": 379,
+                        "h": "379",
                         "resize": "fit",
-                        "w": 644
+                        "w": "644"
                     },
                     "medium": {
-                        "h": 379,
+                        "h": "379",
                         "resize": "fit",
-                        "w": 644
+                        "w": "644"
                     },
                     "small": {
-                        "h": 379,
+                        "h": "379",
                         "resize": "fit",
-                        "w": 644
+                        "w": "644"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -116,27 +113,15 @@
             }
         ]
     },
-    "favorite_count": 3,
+    "favorite_count": "3",
     "favorited": false,
     "full_text": "5 p.m. on Nov 7—Kerenksy aide to Whitehouse: “Bolsheviki control city” https://t.co/d5CRfvlLJY #Russian Revolution #Russia https://t.co/ivtBKnYOlw",
-    "geo": null,
-    "id": 927898556320702460,
+    "id": "927898556320702464",
     "id_str": "927898556320702464",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 1,
+    "retweet_count": "1",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

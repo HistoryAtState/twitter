@@ -1,45 +1,43 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Fri Jun 01 13:56:04 +0000 2018",
     "display_text_range": [
-        0,
-        190
+        "0",
+        "214"
     ],
     "entities": {
         "hashtags": [],
         "media": [
             {
-                "display_url": "pic.twitter.com/MhNb2E2W8x",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1002549343289823232/photo/1",
-                "id": 1002549018092802050,
+                "display_url": "pic.x.com/MhNb2E2W8x",
+                "expanded_url": "https://x.com/HistoryAtState/status/1002549343289823232/photo/1",
+                "id": "1002549018092802048",
                 "id_str": "1002549018092802048",
                 "indices": [
-                    191,
-                    214
+                    "191",
+                    "214"
                 ],
                 "media_url": "http://pbs.twimg.com/media/DenFBS1WkAAuRQN.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DenFBS1WkAAuRQN.jpg",
                 "sizes": {
                     "large": {
-                        "h": 516,
+                        "h": "516",
                         "resize": "fit",
-                        "w": 858
+                        "w": "858"
                     },
                     "medium": {
-                        "h": 516,
+                        "h": "516",
                         "resize": "fit",
-                        "w": 858
+                        "w": "858"
                     },
                     "small": {
-                        "h": 409,
+                        "h": "409",
                         "resize": "fit",
-                        "w": 680
+                        "w": "680"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -52,19 +50,19 @@
                 "display_url": "go.usa.gov/xQBPF",
                 "expanded_url": "https://go.usa.gov/xQBPF",
                 "indices": [
-                    151,
-                    174
+                    "151",
+                    "174"
                 ],
                 "url": "https://t.co/ZzHdRaPqPe"
             }
         ],
         "user_mentions": [
             {
-                "id": 394351710,
+                "id": "394351710",
                 "id_str": "394351710",
                 "indices": [
-                    175,
-                    190
+                    "175",
+                    "190"
                 ],
                 "name": "RonaldReaganLibrary",
                 "screen_name": "Reagan_Library"
@@ -74,37 +72,36 @@
     "extended_entities": {
         "media": [
             {
-                "display_url": "pic.twitter.com/MhNb2E2W8x",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1002549343289823232/photo/1",
-                "ext_alt_text": "Screenshot of linked document available online at the Reagan Library",
-                "id": 1002549018092802050,
+                "display_url": "pic.x.com/MhNb2E2W8x",
+                "expanded_url": "https://x.com/HistoryAtState/status/1002549343289823232/photo/1",
+                "id": "1002549018092802048",
                 "id_str": "1002549018092802048",
                 "indices": [
-                    191,
-                    214
+                    "191",
+                    "214"
                 ],
                 "media_url": "http://pbs.twimg.com/media/DenFBS1WkAAuRQN.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DenFBS1WkAAuRQN.jpg",
                 "sizes": {
                     "large": {
-                        "h": 516,
+                        "h": "516",
                         "resize": "fit",
-                        "w": 858
+                        "w": "858"
                     },
                     "medium": {
-                        "h": 516,
+                        "h": "516",
                         "resize": "fit",
-                        "w": 858
+                        "w": "858"
                     },
                     "small": {
-                        "h": 409,
+                        "h": "409",
                         "resize": "fit",
-                        "w": 680
+                        "w": "680"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -112,27 +109,15 @@
             }
         ]
     },
-    "favorite_count": 3,
+    "favorite_count": "3",
     "favorited": false,
     "full_text": "June 1, 1988: Check out also the remarks by President Reagan upon ratification of the INF Treaty at the Grand Kremlin palace during the Moscow Summit: https://t.co/ZzHdRaPqPe @Reagan_Library https://t.co/MhNb2E2W8x",
-    "geo": null,
-    "id": 1002549343289823230,
+    "id": "1002549343289823232",
     "id_str": "1002549343289823232",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 0,
+    "retweet_count": "0",
     "retweeted": false,
     "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

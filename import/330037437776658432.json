@@ -1,10 +1,8 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Thu May 02 19:13:51 +0000 2013",
     "display_text_range": [
-        0,
-        133
+        "0",
+        "133"
     ],
     "entities": {
         "hashtags": [],
@@ -14,94 +12,34 @@
                 "display_url": "goo.gl/QfPzX",
                 "expanded_url": "http://goo.gl/QfPzX",
                 "indices": [
-                    51,
-                    73
+                    "51",
+                    "73"
                 ],
                 "url": "http://t.co/iYIDQF7j6Y"
             }
         ],
         "user_mentions": [
             {
-                "id": 72814599,
+                "id": "72814599",
                 "id_str": "72814599",
                 "indices": [
-                    3,
-                    19
+                    "3",
+                    "19"
                 ],
                 "name": "U.S. Embassy France",
                 "screen_name": "USEmbassyFrance"
             }
         ]
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "RT @USEmbassyFrance: Vidéo: Au cœur de l’Ambassade http://t.co/iYIDQF7j6Y L’histoire de la présence diplomatique américaine en France",
-    "geo": null,
-    "id": 330037437776658430,
+    "id": "330037437776658432",
     "id_str": "330037437776658432",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "fr",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 7,
-    "retweeted": true,
-    "retweeted_status": {
-        "contributors": null,
-        "coordinates": null,
-        "created_at": "Thu May 02 16:00:49 +0000 2013",
-        "display_text_range": [
-            0,
-            112
-        ],
-        "entities": {
-            "hashtags": [],
-            "symbols": [],
-            "urls": [
-                {
-                    "display_url": "goo.gl/QfPzX",
-                    "expanded_url": "http://goo.gl/QfPzX",
-                    "indices": [
-                        30,
-                        52
-                    ],
-                    "url": "http://t.co/iYIDQF7j6Y"
-                }
-            ],
-            "user_mentions": []
-        },
-        "favorite_count": 0,
-        "favorited": false,
-        "full_text": "Vidéo: Au cœur de l’Ambassade http://t.co/iYIDQF7j6Y L’histoire de la présence diplomatique américaine en France",
-        "geo": null,
-        "id": 329988857238024190,
-        "id_str": "329988857238024193",
-        "in_reply_to_screen_name": null,
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "is_quote_status": false,
-        "lang": "fr",
-        "place": null,
-        "possibly_sensitive": false,
-        "retweet_count": 7,
-        "retweeted": true,
-        "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
-        "truncated": false,
-        "user": {
-            "id": 72814599,
-            "id_str": "72814599"
-        }
-    },
+    "retweet_count": "0",
+    "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

@@ -1,24 +1,22 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Fri Aug 02 12:02:40 +0000 2013",
     "display_text_range": [
-        0,
-        144
+        "0",
+        "144"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    0,
-                    4
+                    "0",
+                    "4"
                 ],
                 "text": "OTD"
             },
             {
                 "indices": [
-                    10,
-                    19
+                    "10",
+                    "19"
                 ],
                 "text": "SecState"
             }
@@ -29,46 +27,34 @@
                 "display_url": "go.usa.gov/jNER",
                 "expanded_url": "http://go.usa.gov/jNER",
                 "indices": [
-                    107,
-                    129
+                    "107",
+                    "129"
                 ],
                 "url": "http://t.co/sMjKeVq1k9"
             }
         ],
         "user_mentions": [
             {
-                "id": 19981036,
-                "id_str": "19981036",
+                "id": "1931316663569244162",
+                "id_str": "1931316663569244162",
                 "indices": [
-                    130,
-                    144
+                    "130",
+                    "144"
                 ],
-                "name": "US Embassy Brussels",
+                "name": "POC hackerone",
                 "screen_name": "usembbrussels"
             }
         ]
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "#OTD 1924 #SecState Charles Hughes in Belgium; rec’d honorary degrees from Univs of Brussels &amp;amp; Louvain http://t.co/sMjKeVq1k9 @USembbrussels",
-    "geo": null,
-    "id": 363268611072606210,
+    "id": "363268611072606208",
     "id_str": "363268611072606208",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 1,
+    "retweet_count": "1",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

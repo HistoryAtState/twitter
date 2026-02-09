@@ -1,53 +1,51 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Tue Jan 24 17:02:01 +0000 2023",
     "display_text_range": [
-        0,
-        277
+        "0",
+        "301"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    192,
-                    203
+                    "192",
+                    "203"
                 ],
                 "text": "microfiche"
             }
         ],
         "media": [
             {
-                "display_url": "pic.twitter.com/lSW7mAdBJH",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1617930735020539920/photo/1",
-                "id": 1617930732839501820,
+                "display_url": "pic.x.com/lSW7mAdBJH",
+                "expanded_url": "https://x.com/HistoryAtState/status/1617930735020539920/photo/1",
+                "id": "1617930732839501841",
                 "id_str": "1617930732839501841",
                 "indices": [
-                    278,
-                    301
+                    "278",
+                    "301"
                 ],
                 "media_url": "http://pbs.twimg.com/media/FnQLbeoWABEE2yd.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/FnQLbeoWABEE2yd.jpg",
                 "sizes": {
                     "large": {
-                        "h": 600,
+                        "h": "600",
                         "resize": "fit",
-                        "w": 400
+                        "w": "400"
                     },
                     "medium": {
-                        "h": 600,
+                        "h": "600",
                         "resize": "fit",
-                        "w": 400
+                        "w": "400"
                     },
                     "small": {
-                        "h": 600,
+                        "h": "600",
                         "resize": "fit",
-                        "w": 400
+                        "w": "400"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -60,8 +58,8 @@
                 "display_url": "ow.ly/i6Hy50MwlbT",
                 "expanded_url": "http://ow.ly/i6Hy50MwlbT",
                 "indices": [
-                    246,
-                    269
+                    "246",
+                    "269"
                 ],
                 "url": "https://t.co/MsQDOhZ18z"
             }
@@ -71,37 +69,36 @@
     "extended_entities": {
         "media": [
             {
-                "display_url": "pic.twitter.com/lSW7mAdBJH",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1617930735020539920/photo/1",
-                "ext_alt_text": "Ruby-red cover of Foreign Relations of the United States, 1958–1960, Volume III, National Security Policy, Arms Control and Disarmament, Microfiche Supplement, [Department of State Seal], Department of State, Washington",
-                "id": 1617930732839501820,
+                "display_url": "pic.x.com/lSW7mAdBJH",
+                "expanded_url": "https://x.com/HistoryAtState/status/1617930735020539920/photo/1",
+                "id": "1617930732839501841",
                 "id_str": "1617930732839501841",
                 "indices": [
-                    278,
-                    301
+                    "278",
+                    "301"
                 ],
                 "media_url": "http://pbs.twimg.com/media/FnQLbeoWABEE2yd.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/FnQLbeoWABEE2yd.jpg",
                 "sizes": {
                     "large": {
-                        "h": 600,
+                        "h": "600",
                         "resize": "fit",
-                        "w": 400
+                        "w": "400"
                     },
                     "medium": {
-                        "h": 600,
+                        "h": "600",
                         "resize": "fit",
-                        "w": 400
+                        "w": "400"
                     },
                     "small": {
-                        "h": 600,
+                        "h": "600",
                         "resize": "fit",
-                        "w": 400
+                        "w": "400"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -109,27 +106,15 @@
             }
         ]
     },
-    "favorite_count": 8,
+    "favorite_count": "8",
     "favorited": false,
     "full_text": "The Office of the Historian releases Foreign Relations, 1958–1960, Volume III, National Security Policy; Arms Control and Disarmament, Microfiche Supplement. \n\nOriginally published in 1998 as #microfiche, this supplement is now available online: https://t.co/MsQDOhZ18z \n\n(1/2) https://t.co/lSW7mAdBJH",
-    "geo": null,
-    "id": 1617930735020539900,
+    "id": "1617930735020539920",
     "id_str": "1617930735020539920",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 8,
+    "retweet_count": "7",
     "retweeted": false,
     "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

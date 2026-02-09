@@ -1,17 +1,15 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Mon Jul 26 13:27:35 +0000 2021",
     "display_text_range": [
-        0,
-        140
+        "0",
+        "140"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    20,
-                    34
+                    "20",
+                    "34"
                 ],
                 "text": "SummerSeminar"
             }
@@ -20,230 +18,55 @@
         "urls": [],
         "user_mentions": [
             {
-                "id": 1112380602,
+                "id": "1112380602",
                 "id_str": "1112380602",
                 "indices": [
-                    3,
-                    18
+                    "3",
+                    "18"
                 ],
                 "name": "Clements Center",
                 "screen_name": "ClementsCenter"
             },
             {
-                "id": 151106990,
+                "id": "151106990",
                 "id_str": "151106990",
                 "indices": [
-                    53,
-                    67
+                    "53",
+                    "67"
                 ],
                 "name": "The Brookings Institution",
                 "screen_name": "BrookingsInst"
             },
             {
-                "id": 741520723,
+                "id": "741520723",
                 "id_str": "741520723",
                 "indices": [
-                    69,
-                    81
+                    "69",
+                    "81"
                 ],
                 "name": "Tanvi Madan",
                 "screen_name": "tanvi_madan"
             },
             {
-                "id": 9624742,
+                "id": "9624742",
                 "id_str": "9624742",
                 "indices": [
-                    129,
-                    139
+                    "129",
+                    "139"
                 ],
                 "name": "Department of State",
                 "screen_name": "StateDept"
             }
         ]
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "RT @ClementsCenter: #SummerSeminar: Senior Fellow at @BrookingsInst, @tanvi_madan, and historian for the Office of the Historian @StateDept…",
-    "geo": null,
-    "id": 1419650608328585220,
+    "id": "1419650608328585221",
     "id_str": "1419650608328585221",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
-    "retweet_count": 3,
-    "retweeted": true,
-    "retweeted_status": {
-        "contributors": null,
-        "coordinates": null,
-        "created_at": "Wed Jul 21 18:31:46 +0000 2021",
-        "display_text_range": [
-            0,
-            194
-        ],
-        "entities": {
-            "hashtags": [
-                {
-                    "indices": [
-                        0,
-                        14
-                    ],
-                    "text": "SummerSeminar"
-                },
-                {
-                    "indices": [
-                        152,
-                        170
-                    ],
-                    "text": "OutsideofAcademia"
-                }
-            ],
-            "media": [
-                {
-                    "display_url": "pic.twitter.com/IrMif68kcT",
-                    "expanded_url": "https://twitter.com/ClementsCenter/status/1417915218353561601/photo/1",
-                    "id": 1417914304636932100,
-                    "id_str": "1417914304636932096",
-                    "indices": [
-                        195,
-                        218
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/E61xjDHUUAA30kZ.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/E61xjDHUUAA30kZ.jpg",
-                    "sizes": {
-                        "large": {
-                            "h": 512,
-                            "resize": "fit",
-                            "w": 1024
-                        },
-                        "medium": {
-                            "h": 512,
-                            "resize": "fit",
-                            "w": 1024
-                        },
-                        "small": {
-                            "h": 340,
-                            "resize": "fit",
-                            "w": 680
-                        },
-                        "thumb": {
-                            "h": 150,
-                            "resize": "crop",
-                            "w": 150
-                        }
-                    },
-                    "type": "photo",
-                    "url": "https://t.co/IrMif68kcT"
-                }
-            ],
-            "symbols": [],
-            "urls": [],
-            "user_mentions": [
-                {
-                    "id": 151106990,
-                    "id_str": "151106990",
-                    "indices": [
-                        33,
-                        47
-                    ],
-                    "name": "The Brookings Institution",
-                    "screen_name": "BrookingsInst"
-                },
-                {
-                    "id": 741520723,
-                    "id_str": "741520723",
-                    "indices": [
-                        49,
-                        61
-                    ],
-                    "name": "Tanvi Madan",
-                    "screen_name": "tanvi_madan"
-                },
-                {
-                    "id": 9624742,
-                    "id_str": "9624742",
-                    "indices": [
-                        109,
-                        119
-                    ],
-                    "name": "Department of State",
-                    "screen_name": "StateDept"
-                }
-            ]
-        },
-        "extended_entities": {
-            "media": [
-                {
-                    "display_url": "pic.twitter.com/IrMif68kcT",
-                    "expanded_url": "https://twitter.com/ClementsCenter/status/1417915218353561601/photo/1",
-                    "ext_alt_text": null,
-                    "id": 1417914304636932100,
-                    "id_str": "1417914304636932096",
-                    "indices": [
-                        195,
-                        218
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/E61xjDHUUAA30kZ.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/E61xjDHUUAA30kZ.jpg",
-                    "sizes": {
-                        "large": {
-                            "h": 512,
-                            "resize": "fit",
-                            "w": 1024
-                        },
-                        "medium": {
-                            "h": 512,
-                            "resize": "fit",
-                            "w": 1024
-                        },
-                        "small": {
-                            "h": 340,
-                            "resize": "fit",
-                            "w": 680
-                        },
-                        "thumb": {
-                            "h": 150,
-                            "resize": "crop",
-                            "w": 150
-                        }
-                    },
-                    "type": "photo",
-                    "url": "https://t.co/IrMif68kcT"
-                }
-            ]
-        },
-        "favorite_count": 10,
-        "favorited": false,
-        "full_text": "#SummerSeminar: Senior Fellow at @BrookingsInst, @tanvi_madan, and historian for the Office of the Historian @StateDept, Elizabeth Charles, share their #OutsideofAcademia career tips over lunch. https://t.co/IrMif68kcT",
-        "geo": null,
-        "id": 1417915218353561600,
-        "id_str": "1417915218353561601",
-        "in_reply_to_screen_name": null,
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "is_quote_status": false,
-        "lang": "en",
-        "place": null,
-        "possibly_sensitive": false,
-        "retweet_count": 3,
-        "retweeted": true,
-        "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
-        "truncated": false,
-        "user": {
-            "id": 1112380602,
-            "id_str": "1112380602"
-        }
-    },
+    "retweet_count": "0",
+    "retweeted": false,
     "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

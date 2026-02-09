@@ -1,45 +1,43 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Thu Mar 31 16:02:06 +0000 2022",
     "display_text_range": [
-        0,
-        227
+        "0",
+        "251"
     ],
     "entities": {
         "hashtags": [],
         "media": [
             {
-                "display_url": "pic.twitter.com/MHfFxyEPL5",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1509561682372222993/photo/1",
-                "id": 1509561680413573120,
+                "display_url": "pic.x.com/MHfFxyEPL5",
+                "expanded_url": "https://x.com/HistoryAtState/status/1509561682372222993/photo/1",
+                "id": "1509561680413573131",
                 "id_str": "1509561680413573131",
                 "indices": [
-                    228,
-                    251
+                    "228",
+                    "251"
                 ],
                 "media_url": "http://pbs.twimg.com/media/FPMKWa-XwAseUXx.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/FPMKWa-XwAseUXx.jpg",
                 "sizes": {
                     "large": {
-                        "h": 570,
+                        "h": "570",
                         "resize": "fit",
-                        "w": 1030
+                        "w": "1030"
                     },
                     "medium": {
-                        "h": 570,
+                        "h": "570",
                         "resize": "fit",
-                        "w": 1030
+                        "w": "1030"
                     },
                     "small": {
-                        "h": 376,
+                        "h": "376",
                         "resize": "fit",
-                        "w": 680
+                        "w": "680"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -52,19 +50,19 @@
                 "display_url": "ow.ly/qttX50IwEFg",
                 "expanded_url": "http://ow.ly/qttX50IwEFg",
                 "indices": [
-                    204,
-                    227
+                    "204",
+                    "227"
                 ],
                 "url": "https://t.co/AgliOWIJAr"
             }
         ],
         "user_mentions": [
             {
-                "id": 80048596,
+                "id": "80048596",
                 "id_str": "80048596",
                 "indices": [
-                    3,
-                    16
+                    "3",
+                    "16"
                 ],
                 "name": "Columbia | SIPA",
                 "screen_name": "ColumbiaSIPA"
@@ -74,37 +72,36 @@
     "extended_entities": {
         "media": [
             {
-                "display_url": "pic.twitter.com/MHfFxyEPL5",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1509561682372222993/photo/1",
-                "ext_alt_text": "Screenshot of WorldCat catalog record for Madeleine Albright’s 1976 PhD dissertation, The Role of the Press in Political Change: Czechoslovakia in 1968.",
-                "id": 1509561680413573120,
+                "display_url": "pic.x.com/MHfFxyEPL5",
+                "expanded_url": "https://x.com/HistoryAtState/status/1509561682372222993/photo/1",
+                "id": "1509561680413573131",
                 "id_str": "1509561680413573131",
                 "indices": [
-                    228,
-                    251
+                    "228",
+                    "251"
                 ],
                 "media_url": "http://pbs.twimg.com/media/FPMKWa-XwAseUXx.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/FPMKWa-XwAseUXx.jpg",
                 "sizes": {
                     "large": {
-                        "h": 570,
+                        "h": "570",
                         "resize": "fit",
-                        "w": 1030
+                        "w": "1030"
                     },
                     "medium": {
-                        "h": 570,
+                        "h": "570",
                         "resize": "fit",
-                        "w": 1030
+                        "w": "1030"
                     },
                     "small": {
-                        "h": 376,
+                        "h": "376",
                         "resize": "fit",
-                        "w": 680
+                        "w": "680"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -112,27 +109,15 @@
             }
         ]
     },
-    "favorite_count": 4,
+    "favorite_count": "2",
     "favorited": false,
     "full_text": "At @ColumbiaSIPA, Albright earned a master’s degree with her thesis on the Soviet diplomatic corps and a PhD with her dissertation on the role of the Czechoslovakian press during the 1968 Prague Spring.\n\nhttps://t.co/AgliOWIJAr https://t.co/MHfFxyEPL5",
-    "geo": null,
-    "id": 1509561682372222980,
+    "id": "1509561682372222993",
     "id_str": "1509561682372222993",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 2,
+    "retweet_count": "1",
     "retweeted": false,
     "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

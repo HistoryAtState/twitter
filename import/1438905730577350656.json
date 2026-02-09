@@ -1,66 +1,64 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Fri Sep 17 16:40:34 +0000 2021",
     "display_text_range": [
-        0,
-        230
+        "0",
+        "254"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    26,
-                    33
+                    "26",
+                    "33"
                 ],
                 "text": "natSec"
             },
             {
                 "indices": [
-                    36,
-                    54
+                    "36",
+                    "54"
                 ],
                 "text": "diplomaticHistory"
             },
             {
                 "indices": [
-                    97,
-                    101
+                    "97",
+                    "101"
                 ],
                 "text": "PMF"
             },
             {
                 "indices": [
-                    162,
-                    173
+                    "162",
+                    "173"
                 ],
                 "text": "historyJob"
             },
             {
                 "indices": [
-                    174,
-                    190
+                    "174",
+                    "190"
                 ],
                 "text": "natSecGirlSquad"
             },
             {
                 "indices": [
-                    191,
-                    202
+                    "191",
+                    "202"
                 ],
                 "text": "nextGenGov"
             },
             {
                 "indices": [
-                    203,
-                    217
+                    "203",
+                    "217"
                 ],
                 "text": "publicService"
             },
             {
                 "indices": [
-                    218,
-                    230
+                    "218",
+                    "230"
                 ],
                 "text": "armsControl"
             }
@@ -68,228 +66,67 @@
         "symbols": [],
         "urls": [
             {
-                "display_url": "twitter.com/HistoryAtState…",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1438578814250979328",
+                "display_url": "x.com/HistoryAtState…",
+                "expanded_url": "https://x.com/HistoryAtState/status/1438578814250979328",
                 "indices": [
-                    231,
-                    254
+                    "231",
+                    "254"
                 ],
                 "url": "https://t.co/8PTkoAtRyp"
             }
         ],
         "user_mentions": [
             {
-                "id": 586570880,
+                "id": "586570880",
                 "id_str": "586570880",
                 "indices": [
-                    69,
-                    84
+                    "69",
+                    "84"
                 ],
                 "name": "HistoryAtState",
                 "screen_name": "HistoryAtState"
             },
             {
-                "id": 1044237625085890560,
+                "id": "1044237625085890560",
                 "id_str": "1044237625085890560",
                 "indices": [
-                    112,
-                    128
+                    "112",
+                    "128"
                 ],
                 "name": "NatSecGirlSquad",
                 "screen_name": "NatSecGirlSquad"
             },
             {
-                "id": 743076435275993090,
+                "id": "743076435275993088",
                 "id_str": "743076435275993088",
                 "indices": [
-                    130,
-                    143
+                    "130",
+                    "143"
                 ],
-                "name": "North American Society for Intelligence History",
+                "name": "Society for Intelligence History",
                 "screen_name": "SocIntelHist"
             },
             {
-                "id": 1112380602,
+                "id": "1112380602",
                 "id_str": "1112380602",
                 "indices": [
-                    145,
-                    160
+                    "145",
+                    "160"
                 ],
                 "name": "Clements Center",
                 "screen_name": "ClementsCenter"
             }
         ]
     },
-    "favorite_count": 4,
+    "favorite_count": "3",
     "favorited": false,
     "full_text": "Please signal boost these #natSec / #diplomaticHistory opportunities @HistoryAtState through the #PMF program!\n\n@NatSecGirlSquad, @SocIntelHist, @ClementsCenter \n#historyJob #natSecGirlSquad #nextGenGov #publicService #armsControl https://t.co/8PTkoAtRyp",
-    "geo": null,
-    "id": 1438905730577350660,
+    "id": "1438905730577350656",
     "id_str": "1438905730577350656",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": true,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "quoted_status": {
-        "contributors": null,
-        "coordinates": null,
-        "created_at": "Thu Sep 16 19:01:31 +0000 2021",
-        "display_text_range": [
-            0,
-            279
-        ],
-        "entities": {
-            "hashtags": [
-                {
-                    "indices": [
-                        189,
-                        194
-                    ],
-                    "text": "FRUS"
-                },
-                {
-                    "indices": [
-                        204,
-                        208
-                    ],
-                    "text": "PMF"
-                }
-            ],
-            "media": [
-                {
-                    "display_url": "pic.twitter.com/1M4oT9s8ny",
-                    "expanded_url": "https://twitter.com/HistoryAtState/status/1438578814250979328/photo/1",
-                    "id": 1438578812174966780,
-                    "id_str": "1438578812174966788",
-                    "indices": [
-                        280,
-                        303
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/E_bbzskXoAQbW2R.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/E_bbzskXoAQbW2R.jpg",
-                    "sizes": {
-                        "large": {
-                            "h": 512,
-                            "resize": "fit",
-                            "w": 1024
-                        },
-                        "medium": {
-                            "h": 512,
-                            "resize": "fit",
-                            "w": 1024
-                        },
-                        "small": {
-                            "h": 340,
-                            "resize": "fit",
-                            "w": 680
-                        },
-                        "thumb": {
-                            "h": 150,
-                            "resize": "crop",
-                            "w": 150
-                        }
-                    },
-                    "type": "photo",
-                    "url": "https://t.co/1M4oT9s8ny"
-                }
-            ],
-            "symbols": [],
-            "urls": [
-                {
-                    "display_url": "bit.ly/OH-PMF",
-                    "expanded_url": "https://bit.ly/OH-PMF",
-                    "indices": [
-                        256,
-                        279
-                    ],
-                    "url": "https://t.co/9MdLibXAXh"
-                }
-            ],
-            "user_mentions": []
-        },
-        "extended_entities": {
-            "media": [
-                {
-                    "display_url": "pic.twitter.com/1M4oT9s8ny",
-                    "expanded_url": "https://twitter.com/HistoryAtState/status/1438578814250979328/photo/1",
-                    "ext_alt_text": "Apply to be a Presidential Management Fellow, Office of the Historian, U.S. Department of State PMF applications accepted Sept. 28 to Oct. 12: https://bit.ly/OH-PMF",
-                    "id": 1438578812174966780,
-                    "id_str": "1438578812174966788",
-                    "indices": [
-                        280,
-                        303
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/E_bbzskXoAQbW2R.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/E_bbzskXoAQbW2R.jpg",
-                    "sizes": {
-                        "large": {
-                            "h": 512,
-                            "resize": "fit",
-                            "w": 1024
-                        },
-                        "medium": {
-                            "h": 512,
-                            "resize": "fit",
-                            "w": 1024
-                        },
-                        "small": {
-                            "h": 340,
-                            "resize": "fit",
-                            "w": 680
-                        },
-                        "thumb": {
-                            "h": 150,
-                            "resize": "crop",
-                            "w": 150
-                        }
-                    },
-                    "type": "photo",
-                    "url": "https://t.co/1M4oT9s8ny"
-                }
-            ]
-        },
-        "favorite_count": 2,
-        "favorited": false,
-        "full_text": "Specializing in the history of U.S. national security issues or arms control? Current/recent grad students, apply to the Presidential Management Fellows Program for a chance to work on the #FRUS series.\n\n#PMF applications accepted from Sept. 28 to Oct. 12\nhttps://t.co/9MdLibXAXh https://t.co/1M4oT9s8ny",
-        "geo": null,
-        "id": 1438578814250979330,
-        "id_str": "1438578814250979328",
-        "in_reply_to_screen_name": null,
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "is_quote_status": false,
-        "lang": "en",
-        "place": null,
-        "possibly_sensitive": false,
-        "retweet_count": 0,
-        "retweeted": false,
-        "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
-        "truncated": false,
-        "user": {
-            "id": 586570880,
-            "id_str": "586570880"
-        }
-    },
-    "quoted_status_id": 1438578814250979330,
-    "quoted_status_id_str": "1438578814250979328",
-    "quoted_status_permalink": {
-        "display": "twitter.com/HistoryAtState…",
-        "expanded": "https://twitter.com/HistoryAtState/status/1438578814250979328",
-        "url": "https://t.co/8PTkoAtRyp"
-    },
-    "retweet_count": 1,
+    "retweet_count": "1",
     "retweeted": false,
     "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

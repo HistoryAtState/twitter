@@ -1,17 +1,15 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Wed Jan 27 12:52:34 +0000 2021",
     "display_text_range": [
-        0,
-        140
+        "0",
+        "140"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    90,
-                    94
+                    "90",
+                    "94"
                 ],
                 "text": "FSI"
             }
@@ -20,162 +18,25 @@
         "urls": [],
         "user_mentions": [
             {
-                "id": 958044239576948740,
-                "id_str": "958044239576948736",
+                "id": "-1",
+                "id_str": "-1",
                 "indices": [
-                    3,
-                    14
+                    "3",
+                    "14"
                 ],
-                "name": "Foreign Service Institute",
+                "name": "",
                 "screen_name": "FSIatState"
             }
         ]
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "RT @FSIatState: Congratulations to the newly confirmed Secretary of State Antony Blinken. #FSI looks forward to working with you to continu…",
-    "geo": null,
-    "id": 1354411979914563580,
+    "id": "1354411979914563586",
     "id_str": "1354411979914563586",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
-    "retweet_count": 4,
-    "retweeted": true,
-    "retweeted_status": {
-        "contributors": null,
-        "coordinates": null,
-        "created_at": "Wed Jan 27 02:36:09 +0000 2021",
-        "display_text_range": [
-            0,
-            269
-        ],
-        "entities": {
-            "hashtags": [
-                {
-                    "indices": [
-                        74,
-                        78
-                    ],
-                    "text": "FSI"
-                }
-            ],
-            "media": [
-                {
-                    "display_url": "pic.twitter.com/aTmolYA5f2",
-                    "expanded_url": "https://twitter.com/FSIatState/status/1354256855107829764/photo/1",
-                    "id": 1354256851718852610,
-                    "id_str": "1354256851718852609",
-                    "indices": [
-                        270,
-                        293
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/EstJbnVXUAEMxlQ.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/EstJbnVXUAEMxlQ.jpg",
-                    "sizes": {
-                        "large": {
-                            "h": 900,
-                            "resize": "fit",
-                            "w": 1600
-                        },
-                        "medium": {
-                            "h": 675,
-                            "resize": "fit",
-                            "w": 1200
-                        },
-                        "small": {
-                            "h": 383,
-                            "resize": "fit",
-                            "w": 680
-                        },
-                        "thumb": {
-                            "h": 150,
-                            "resize": "crop",
-                            "w": 150
-                        }
-                    },
-                    "type": "photo",
-                    "url": "https://t.co/aTmolYA5f2"
-                }
-            ],
-            "symbols": [],
-            "urls": [],
-            "user_mentions": []
-        },
-        "extended_entities": {
-            "media": [
-                {
-                    "display_url": "pic.twitter.com/aTmolYA5f2",
-                    "expanded_url": "https://twitter.com/FSIatState/status/1354256855107829764/photo/1",
-                    "ext_alt_text": null,
-                    "id": 1354256851718852610,
-                    "id_str": "1354256851718852609",
-                    "indices": [
-                        270,
-                        293
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/EstJbnVXUAEMxlQ.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/EstJbnVXUAEMxlQ.jpg",
-                    "sizes": {
-                        "large": {
-                            "h": 900,
-                            "resize": "fit",
-                            "w": 1600
-                        },
-                        "medium": {
-                            "h": 675,
-                            "resize": "fit",
-                            "w": 1200
-                        },
-                        "small": {
-                            "h": 383,
-                            "resize": "fit",
-                            "w": 680
-                        },
-                        "thumb": {
-                            "h": 150,
-                            "resize": "crop",
-                            "w": 150
-                        }
-                    },
-                    "type": "photo",
-                    "url": "https://t.co/aTmolYA5f2"
-                }
-            ]
-        },
-        "favorite_count": 33,
-        "favorited": false,
-        "full_text": "Congratulations to the newly confirmed Secretary of State Antony Blinken. #FSI looks forward to working with you to continue to provide our foreign affairs professionals world-class diplomatic training and the necessary skills to advance U.S. foreign policy priorities! https://t.co/aTmolYA5f2",
-        "geo": null,
-        "id": 1354256855107829760,
-        "id_str": "1354256855107829764",
-        "in_reply_to_screen_name": null,
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "is_quote_status": false,
-        "lang": "en",
-        "place": null,
-        "possibly_sensitive": false,
-        "retweet_count": 4,
-        "retweeted": true,
-        "source": "&lt;a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"&gt;Twitter for iPhone&lt;/a&gt;",
-        "truncated": false,
-        "user": {
-            "id": 958044239576948740,
-            "id_str": "958044239576948736"
-        }
-    },
+    "retweet_count": "0",
+    "retweeted": false,
     "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

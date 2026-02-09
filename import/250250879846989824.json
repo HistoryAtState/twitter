@@ -1,24 +1,22 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Mon Sep 24 15:10:33 +0000 2012",
     "display_text_range": [
-        0,
-        106
+        "0",
+        "106"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    84,
-                    89
+                    "84",
+                    "89"
                 ],
                 "text": "FRUS"
             },
             {
                 "indices": [
-                    90,
-                    106
+                    "90",
+                    "106"
                 ],
                 "text": "twitterstorians"
             }
@@ -29,35 +27,23 @@
                 "display_url": "go.usa.gov/rzsd",
                 "expanded_url": "http://go.usa.gov/rzsd",
                 "indices": [
-                    63,
-                    83
+                    "63",
+                    "83"
                 ],
                 "url": "http://t.co/62yNc5ks"
             }
         ],
         "user_mentions": []
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "Marking the 150th anniversary of the Emancipation Proclamation http://t.co/62yNc5ks #FRUS #twitterstorians",
-    "geo": null,
-    "id": 250250879846989824,
+    "id": "250250879846989824",
     "id_str": "250250879846989824",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 5,
+    "retweet_count": "5",
     "retweeted": false,
     "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

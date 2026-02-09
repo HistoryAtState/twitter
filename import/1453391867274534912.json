@@ -1,53 +1,51 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Wed Oct 27 16:03:18 +0000 2021",
     "display_text_range": [
-        0,
-        279
+        "0",
+        "303"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    84,
-                    97
+                    "84",
+                    "97"
                 ],
                 "text": "FavoriteFRUS"
             }
         ],
         "media": [
             {
-                "display_url": "pic.twitter.com/55NjegVTfu",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1453391867274534912/photo/1",
-                "id": 1453391865592549380,
+                "display_url": "pic.x.com/55NjegVTfu",
+                "expanded_url": "https://x.com/HistoryAtState/status/1453391867274534912/photo/1",
+                "id": "1453391865592549383",
                 "id_str": "1453391865592549383",
                 "indices": [
-                    280,
-                    303
+                    "280",
+                    "303"
                 ],
                 "media_url": "http://pbs.twimg.com/media/FCt8M4wWEAcElqr.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/FCt8M4wWEAcElqr.jpg",
                 "sizes": {
                     "large": {
-                        "h": 1404,
+                        "h": "1404",
                         "resize": "fit",
-                        "w": 1298
+                        "w": "1298"
                     },
                     "medium": {
-                        "h": 1200,
+                        "h": "1200",
                         "resize": "fit",
-                        "w": 1109
+                        "w": "1109"
                     },
                     "small": {
-                        "h": 680,
+                        "h": "680",
                         "resize": "fit",
-                        "w": 629
+                        "w": "629"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -60,8 +58,8 @@
                 "display_url": "ow.ly/vuV450GtS5k",
                 "expanded_url": "http://ow.ly/vuV450GtS5k",
                 "indices": [
-                    256,
-                    279
+                    "256",
+                    "279"
                 ],
                 "url": "https://t.co/GONaaLrQ4r"
             }
@@ -71,37 +69,36 @@
     "extended_entities": {
         "media": [
             {
-                "display_url": "pic.twitter.com/55NjegVTfu",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1453391867274534912/photo/1",
-                "ext_alt_text": null,
-                "id": 1453391865592549380,
+                "display_url": "pic.x.com/55NjegVTfu",
+                "expanded_url": "https://x.com/HistoryAtState/status/1453391867274534912/photo/1",
+                "id": "1453391865592549383",
                 "id_str": "1453391865592549383",
                 "indices": [
-                    280,
-                    303
+                    "280",
+                    "303"
                 ],
                 "media_url": "http://pbs.twimg.com/media/FCt8M4wWEAcElqr.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/FCt8M4wWEAcElqr.jpg",
                 "sizes": {
                     "large": {
-                        "h": 1404,
+                        "h": "1404",
                         "resize": "fit",
-                        "w": 1298
+                        "w": "1298"
                     },
                     "medium": {
-                        "h": 1200,
+                        "h": "1200",
                         "resize": "fit",
-                        "w": 1109
+                        "w": "1109"
                     },
                     "small": {
-                        "h": 680,
+                        "h": "680",
                         "resize": "fit",
-                        "w": 629
+                        "w": "629"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -109,27 +106,15 @@
             }
         ]
     },
-    "favorite_count": 7,
+    "favorite_count": "6",
     "favorited": false,
     "full_text": "Who says bureaucrats don’t have a sense of humor? Likely an April Fool’s memo, this #FavoriteFRUS assesses Gorbachev as having “razor blades on his elbows,” and references Jane Fonda, King Tut, Luca Brazzi, and whale blubber all in one hilarious document!\nhttps://t.co/GONaaLrQ4r https://t.co/55NjegVTfu",
-    "geo": null,
-    "id": 1453391867274534910,
+    "id": "1453391867274534912",
     "id_str": "1453391867274534912",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 2,
+    "retweet_count": "2",
     "retweeted": false,
     "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

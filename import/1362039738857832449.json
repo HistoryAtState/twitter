@@ -1,45 +1,43 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Wed Feb 17 14:02:33 +0000 2021",
     "display_text_range": [
-        0,
-        164
+        "0",
+        "188"
     ],
     "entities": {
         "hashtags": [],
         "media": [
             {
-                "display_url": "pic.twitter.com/MCsV25mfWx",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1362039738857832449/photo/1",
-                "id": 1362039736345452540,
+                "display_url": "pic.x.com/MCsV25mfWx",
+                "expanded_url": "https://x.com/HistoryAtState/status/1362039738857832449/photo/1",
+                "id": "1362039736345452544",
                 "id_str": "1362039736345452544",
                 "indices": [
-                    165,
-                    188
+                    "165",
+                    "188"
                 ],
                 "media_url": "http://pbs.twimg.com/media/Eubv7H7WYAAKsrg.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/Eubv7H7WYAAKsrg.jpg",
                 "sizes": {
                     "large": {
-                        "h": 1312,
+                        "h": "1312",
                         "resize": "fit",
-                        "w": 1182
+                        "w": "1182"
                     },
                     "medium": {
-                        "h": 1200,
+                        "h": "1200",
                         "resize": "fit",
-                        "w": 1081
+                        "w": "1081"
                     },
                     "small": {
-                        "h": 680,
+                        "h": "680",
                         "resize": "fit",
-                        "w": 613
+                        "w": "613"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -52,8 +50,8 @@
                 "display_url": "history.state.gov/historicaldocu…",
                 "expanded_url": "https://history.state.gov/historicaldocuments/frus1981-88v04/d142",
                 "indices": [
-                    141,
-                    164
+                    "141",
+                    "164"
                 ],
                 "url": "https://t.co/078ymcPiRm"
             }
@@ -63,37 +61,36 @@
     "extended_entities": {
         "media": [
             {
-                "display_url": "pic.twitter.com/MCsV25mfWx",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1362039738857832449/photo/1",
-                "ext_alt_text": "Screenshot of the first page of the “Telegram from the Embassy in the Soviet Union to the Department of State,” dated December 7, 1983 and with the subject line “Soviet Posture Towards US Likely to Harden”",
-                "id": 1362039736345452540,
+                "display_url": "pic.x.com/MCsV25mfWx",
+                "expanded_url": "https://x.com/HistoryAtState/status/1362039738857832449/photo/1",
+                "id": "1362039736345452544",
                 "id_str": "1362039736345452544",
                 "indices": [
-                    165,
-                    188
+                    "165",
+                    "188"
                 ],
                 "media_url": "http://pbs.twimg.com/media/Eubv7H7WYAAKsrg.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/Eubv7H7WYAAKsrg.jpg",
                 "sizes": {
                     "large": {
-                        "h": 1312,
+                        "h": "1312",
                         "resize": "fit",
-                        "w": 1182
+                        "w": "1182"
                     },
                     "medium": {
-                        "h": 1200,
+                        "h": "1200",
                         "resize": "fit",
-                        "w": 1081
+                        "w": "1081"
                     },
                     "small": {
-                        "h": 680,
+                        "h": "680",
                         "resize": "fit",
-                        "w": 613
+                        "w": "613"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -101,27 +98,15 @@
             }
         ]
     },
-    "favorite_count": 4,
+    "favorite_count": "3",
     "favorited": false,
     "full_text": "Study a U.S. assessment of the November 1983 Soviet walkout of the Geneva INF negotiations, after U.S. INF deployments to NATO allies began:\nhttps://t.co/078ymcPiRm https://t.co/MCsV25mfWx",
-    "geo": null,
-    "id": 1362039738857832450,
+    "id": "1362039738857832449",
     "id_str": "1362039738857832449",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 1,
+    "retweet_count": "0",
     "retweeted": false,
     "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

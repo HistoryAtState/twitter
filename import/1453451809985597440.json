@@ -1,53 +1,51 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Wed Oct 27 20:01:29 +0000 2021",
     "display_text_range": [
-        0,
-        213
+        "0",
+        "237"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    3,
-                    16
+                    "3",
+                    "16"
                 ],
                 "text": "FavoriteFRUS"
             }
         ],
         "media": [
             {
-                "display_url": "pic.twitter.com/chV6y2aSmo",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1453451809985597440/photo/1",
-                "id": 1453451808026861570,
+                "display_url": "pic.x.com/chV6y2aSmo",
+                "expanded_url": "https://x.com/HistoryAtState/status/1453451809985597440/photo/1",
+                "id": "1453451808026861571",
                 "id_str": "1453451808026861571",
                 "indices": [
-                    214,
-                    237
+                    "214",
+                    "237"
                 ],
                 "media_url": "http://pbs.twimg.com/media/FCuyt_uXIAMyPMI.png",
                 "media_url_https": "https://pbs.twimg.com/media/FCuyt_uXIAMyPMI.png",
                 "sizes": {
                     "large": {
-                        "h": 1508,
+                        "h": "1508",
                         "resize": "fit",
-                        "w": 964
+                        "w": "964"
                     },
                     "medium": {
-                        "h": 1200,
+                        "h": "1200",
                         "resize": "fit",
-                        "w": 767
+                        "w": "767"
                     },
                     "small": {
-                        "h": 680,
+                        "h": "680",
                         "resize": "fit",
-                        "w": 435
+                        "w": "435"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -60,8 +58,8 @@
                 "display_url": "ow.ly/4yxe50GtS66",
                 "expanded_url": "http://ow.ly/4yxe50GtS66",
                 "indices": [
-                    183,
-                    206
+                    "183",
+                    "206"
                 ],
                 "url": "https://t.co/G2LB10Fybz"
             }
@@ -71,37 +69,36 @@
     "extended_entities": {
         "media": [
             {
-                "display_url": "pic.twitter.com/chV6y2aSmo",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1453451809985597440/photo/1",
-                "ext_alt_text": "Screenshot of title page of the “Appendix to Diplomatic Correspondence of 1865: The Assassination of Abraham Lincoln, Late President of the United States of America…,” dated 1866.",
-                "id": 1453451808026861570,
+                "display_url": "pic.x.com/chV6y2aSmo",
+                "expanded_url": "https://x.com/HistoryAtState/status/1453451809985597440/photo/1",
+                "id": "1453451808026861571",
                 "id_str": "1453451808026861571",
                 "indices": [
-                    214,
-                    237
+                    "214",
+                    "237"
                 ],
                 "media_url": "http://pbs.twimg.com/media/FCuyt_uXIAMyPMI.png",
                 "media_url_https": "https://pbs.twimg.com/media/FCuyt_uXIAMyPMI.png",
                 "sizes": {
                     "large": {
-                        "h": 1508,
+                        "h": "1508",
                         "resize": "fit",
-                        "w": 964
+                        "w": "964"
                     },
                     "medium": {
-                        "h": 1200,
+                        "h": "1200",
                         "resize": "fit",
-                        "w": 767
+                        "w": "767"
                     },
                     "small": {
-                        "h": 680,
+                        "h": "680",
                         "resize": "fit",
-                        "w": 435
+                        "w": "435"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -109,27 +106,15 @@
             }
         ]
     },
-    "favorite_count": 8,
+    "favorite_count": "7",
     "favorited": false,
     "full_text": "No #FavoriteFRUS list would be complete without one of our earliest volumes: the compilation of worldwide condolences sent to the United States on the assassination of Pres. Lincoln:\nhttps://t.co/G2LB10Fybz\n\n(1/2) https://t.co/chV6y2aSmo",
-    "geo": null,
-    "id": 1453451809985597440,
+    "id": "1453451809985597440",
     "id_str": "1453451809985597440",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 4,
+    "retweet_count": "2",
     "retweeted": false,
     "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

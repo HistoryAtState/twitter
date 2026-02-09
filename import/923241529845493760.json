@@ -1,60 +1,58 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Wed Oct 25 17:35:08 +0000 2017",
     "display_text_range": [
-        0,
-        130
+        "0",
+        "154"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    15,
-                    25
+                    "15",
+                    "25"
                 ],
                 "text": "Argentina"
             },
             {
                 "indices": [
-                    57,
-                    62
+                    "57",
+                    "62"
                 ],
                 "text": "FRUS"
             }
         ],
         "media": [
             {
-                "display_url": "pic.twitter.com/B3eWB6Ul5h",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/923241529845493760/photo/1",
-                "id": 923241527194812420,
+                "display_url": "pic.x.com/B3eWB6Ul5h",
+                "expanded_url": "https://x.com/HistoryAtState/status/923241529845493760/photo/1",
+                "id": "923241527194812416",
                 "id_str": "923241527194812416",
                 "indices": [
-                    131,
-                    154
+                    "131",
+                    "154"
                 ],
                 "media_url": "http://pbs.twimg.com/media/DNADRwZWAAAAI9o.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DNADRwZWAAAAI9o.jpg",
                 "sizes": {
                     "large": {
-                        "h": 600,
+                        "h": "600",
                         "resize": "fit",
-                        "w": 400
+                        "w": "400"
                     },
                     "medium": {
-                        "h": 600,
+                        "h": "600",
                         "resize": "fit",
-                        "w": 400
+                        "w": "400"
                     },
                     "small": {
-                        "h": 600,
+                        "h": "600",
                         "resize": "fit",
-                        "w": 400
+                        "w": "400"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -67,8 +65,8 @@
                 "display_url": "go.usa.gov/xngDt",
                 "expanded_url": "https://go.usa.gov/xngDt",
                 "indices": [
-                    107,
-                    130
+                    "107",
+                    "130"
                 ],
                 "url": "https://t.co/8WtbBgoB1O"
             }
@@ -78,37 +76,36 @@
     "extended_entities": {
         "media": [
             {
-                "display_url": "pic.twitter.com/B3eWB6Ul5h",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/923241529845493760/photo/1",
-                "ext_alt_text": null,
-                "id": 923241527194812420,
+                "display_url": "pic.x.com/B3eWB6Ul5h",
+                "expanded_url": "https://x.com/HistoryAtState/status/923241529845493760/photo/1",
+                "id": "923241527194812416",
                 "id_str": "923241527194812416",
                 "indices": [
-                    131,
-                    154
+                    "131",
+                    "154"
                 ],
                 "media_url": "http://pbs.twimg.com/media/DNADRwZWAAAAI9o.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DNADRwZWAAAAI9o.jpg",
                 "sizes": {
                     "large": {
-                        "h": 600,
+                        "h": "600",
                         "resize": "fit",
-                        "w": 400
+                        "w": "400"
                     },
                     "medium": {
-                        "h": 600,
+                        "h": "600",
                         "resize": "fit",
-                        "w": 400
+                        "w": "400"
                     },
                     "small": {
-                        "h": 600,
+                        "h": "600",
                         "resize": "fit",
-                        "w": 400
+                        "w": "400"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -116,27 +113,15 @@
             }
         ]
     },
-    "favorite_count": 47,
+    "favorite_count": "42",
     "favorited": false,
     "full_text": "Now available: #Argentina &amp;amp; Regional Compilations of #FRUS, 77–80, South America; Latin America Region https://t.co/8WtbBgoB1O https://t.co/B3eWB6Ul5h",
-    "geo": null,
-    "id": 923241529845493760,
+    "id": "923241529845493760",
     "id_str": "923241529845493760",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 51,
+    "retweet_count": "42",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

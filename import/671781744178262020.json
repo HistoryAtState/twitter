@@ -1,24 +1,22 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Tue Dec 01 20:03:43 +0000 2015",
     "display_text_range": [
-        0,
-        134
+        "0",
+        "134"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    112,
-                    117
+                    "112",
+                    "117"
                 ],
                 "text": "FRUS"
             },
             {
                 "indices": [
-                    118,
-                    134
+                    "118",
+                    "134"
                 ],
                 "text": "twitterstorians"
             }
@@ -29,46 +27,34 @@
                 "display_url": "go.usa.gov/cgEAV",
                 "expanded_url": "http://go.usa.gov/cgEAV",
                 "indices": [
-                    88,
-                    111
+                    "88",
+                    "111"
                 ],
                 "url": "https://t.co/1YlbzaUDfG"
             }
         ],
         "user_mentions": [
             {
-                "id": 2359926157,
+                "id": "2359926157",
                 "id_str": "2359926157",
                 "indices": [
-                    1,
-                    5
+                    "1",
+                    "5"
                 ],
                 "name": "CIA",
                 "screen_name": "CIA"
             }
         ]
     },
-    "favorite_count": 1,
+    "favorite_count": "1",
     "favorited": false,
     "full_text": ".@CIA sponsored a book publication and distro program. Some were sent to a future Pope: https://t.co/1YlbzaUDfG #FRUS #twitterstorians",
-    "geo": null,
-    "id": 671781744178262020,
+    "id": "671781744178262020",
     "id_str": "671781744178262020",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 2,
+    "retweet_count": "2",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

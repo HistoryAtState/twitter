@@ -1,45 +1,43 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Wed Jun 01 12:01:23 +0000 2022",
     "display_text_range": [
-        0,
-        180
+        "0",
+        "204"
     ],
     "entities": {
         "hashtags": [],
         "media": [
             {
-                "display_url": "pic.twitter.com/tF0NuoaDmr",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1531969154005213185/photo/1",
-                "id": 1531969152507944960,
+                "display_url": "pic.x.com/tF0NuoaDmr",
+                "expanded_url": "https://x.com/HistoryAtState/status/1531969154005213185/photo/1",
+                "id": "1531969152507944960",
                 "id_str": "1531969152507944960",
                 "indices": [
-                    181,
-                    204
+                    "181",
+                    "204"
                 ],
                 "media_url": "http://pbs.twimg.com/media/FUKl09YXoAA1xyc.png",
                 "media_url_https": "https://pbs.twimg.com/media/FUKl09YXoAA1xyc.png",
                 "sizes": {
                     "large": {
-                        "h": 512,
+                        "h": "512",
                         "resize": "fit",
-                        "w": 1024
+                        "w": "1024"
                     },
                     "medium": {
-                        "h": 512,
+                        "h": "512",
                         "resize": "fit",
-                        "w": 1024
+                        "w": "1024"
                     },
                     "small": {
-                        "h": 340,
+                        "h": "340",
                         "resize": "fit",
-                        "w": 680
+                        "w": "680"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -52,19 +50,19 @@
                 "display_url": "ow.ly/hToN50JfPsy",
                 "expanded_url": "http://ow.ly/hToN50JfPsy",
                 "indices": [
-                    157,
-                    180
+                    "157",
+                    "180"
                 ],
                 "url": "https://t.co/cJs2Y2xmJv"
             }
         ],
         "user_mentions": [
             {
-                "id": 586570880,
+                "id": "586570880",
                 "id_str": "586570880",
                 "indices": [
-                    76,
-                    91
+                    "76",
+                    "91"
                 ],
                 "name": "HistoryAtState",
                 "screen_name": "HistoryAtState"
@@ -74,37 +72,36 @@
     "extended_entities": {
         "media": [
             {
-                "display_url": "pic.twitter.com/tF0NuoaDmr",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1531969154005213185/photo/1",
-                "ext_alt_text": "Apply to be Historian, Special Projects Division, Office of the Historian, U.S. Department of State. DUE TODAY. https://www.usajobs.gov/job/654889000",
-                "id": 1531969152507944960,
+                "display_url": "pic.x.com/tF0NuoaDmr",
+                "expanded_url": "https://x.com/HistoryAtState/status/1531969154005213185/photo/1",
+                "id": "1531969152507944960",
                 "id_str": "1531969152507944960",
                 "indices": [
-                    181,
-                    204
+                    "181",
+                    "204"
                 ],
                 "media_url": "http://pbs.twimg.com/media/FUKl09YXoAA1xyc.png",
                 "media_url_https": "https://pbs.twimg.com/media/FUKl09YXoAA1xyc.png",
                 "sizes": {
                     "large": {
-                        "h": 512,
+                        "h": "512",
                         "resize": "fit",
-                        "w": 1024
+                        "w": "1024"
                     },
                     "medium": {
-                        "h": 512,
+                        "h": "512",
                         "resize": "fit",
-                        "w": 1024
+                        "w": "1024"
                     },
                     "small": {
-                        "h": 340,
+                        "h": "340",
                         "resize": "fit",
-                        "w": 680
+                        "w": "680"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -112,27 +109,15 @@
             }
         ]
     },
-    "favorite_count": 6,
+    "favorite_count": "4",
     "favorited": false,
     "full_text": "⚠️ DUE TODAY ⚠️\nApply to be a HISTORIAN in the SPECIAL PROJECTS Division of @HistoryAtState. Research how U.S. diplomats worked to implement foreign policy!\nhttps://t.co/cJs2Y2xmJv https://t.co/tF0NuoaDmr",
-    "geo": null,
-    "id": 1531969154005213180,
+    "id": "1531969154005213185",
     "id_str": "1531969154005213185",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 5,
+    "retweet_count": "2",
     "retweeted": false,
     "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

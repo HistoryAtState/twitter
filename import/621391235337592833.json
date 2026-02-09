@@ -1,17 +1,15 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Wed Jul 15 18:49:50 +0000 2015",
     "display_text_range": [
-        0,
-        71
+        "0",
+        "71"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    5,
-                    9
+                    "5",
+                    "9"
                 ],
                 "text": "WW1"
             }
@@ -19,206 +17,47 @@
         "symbols": [],
         "urls": [
             {
-                "display_url": "twitter.com/WW1CC/status/6…",
-                "expanded_url": "https://twitter.com/WW1CC/status/621048480585379840",
+                "display_url": "x.com/WW1CC/status/6…",
+                "expanded_url": "https://x.com/WW1CC/status/621048480585379840",
                 "indices": [
-                    49,
-                    71
+                    "49",
+                    "71"
                 ],
                 "url": "http://t.co/o2PsVuvrXN"
             }
         ],
         "user_mentions": [
             {
-                "id": 72814599,
+                "id": "72814599",
                 "id_str": "72814599",
                 "indices": [
-                    19,
-                    35
+                    "19",
+                    "35"
                 ],
                 "name": "U.S. Embassy France",
                 "screen_name": "USEmbassyFrance"
             },
             {
-                "id": 2160597090,
+                "id": "2160597090",
                 "id_str": "2160597090",
                 "indices": [
-                    36,
-                    48
+                    "36",
+                    "48"
                 ],
                 "name": "American Hospital of Paris",
                 "screen_name": "AHParis_org"
             }
         ]
     },
-    "favorite_count": 1,
+    "favorite_count": "1",
     "favorited": false,
     "full_text": "Good #WW1 read! cc @USEmbassyFrance @AHParis_org http://t.co/o2PsVuvrXN",
-    "geo": null,
-    "id": 621391235337592830,
+    "id": "621391235337592833",
     "id_str": "621391235337592833",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": true,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "quoted_status": {
-        "contributors": null,
-        "coordinates": null,
-        "created_at": "Tue Jul 14 20:07:50 +0000 2015",
-        "display_text_range": [
-            0,
-            138
-        ],
-        "entities": {
-            "hashtags": [
-                {
-                    "indices": [
-                        30,
-                        37
-                    ],
-                    "text": "USArmy"
-                },
-                {
-                    "indices": [
-                        38,
-                        46
-                    ],
-                    "text": "HISTORY"
-                },
-                {
-                    "indices": [
-                        47,
-                        51
-                    ],
-                    "text": "WW1"
-                },
-                {
-                    "indices": [
-                        52,
-                        67
-                    ],
-                    "text": "centenaire1418"
-                },
-                {
-                    "indices": [
-                        68,
-                        74
-                    ],
-                    "text": "WW1CC"
-                },
-                {
-                    "indices": [
-                        75,
-                        79
-                    ],
-                    "text": "FWW"
-                },
-                {
-                    "indices": [
-                        80,
-                        90
-                    ],
-                    "text": "ambulance"
-                },
-                {
-                    "indices": [
-                        91,
-                        102
-                    ],
-                    "text": "ModelTFord"
-                },
-                {
-                    "indices": [
-                        103,
-                        113
-                    ],
-                    "text": "centenary"
-                }
-            ],
-            "symbols": [],
-            "urls": [
-                {
-                    "display_url": "twitter.com/jeffreysreznic…",
-                    "expanded_url": "https://twitter.com/jeffreysreznick/status/621044078818537472",
-                    "indices": [
-                        115,
-                        138
-                    ],
-                    "url": "https://t.co/uGnfCLtvFj"
-                }
-            ],
-            "user_mentions": [
-                {
-                    "id": 586570880,
-                    "id_str": "586570880",
-                    "indices": [
-                        0,
-                        15
-                    ],
-                    "name": "HistoryAtState",
-                    "screen_name": "HistoryAtState"
-                },
-                {
-                    "id": 206162681,
-                    "id_str": "206162681",
-                    "indices": [
-                        16,
-                        29
-                    ],
-                    "name": "NIH History Office",
-                    "screen_name": "historyatnih"
-                }
-            ]
-        },
-        "favorite_count": 1,
-        "favorited": false,
-        "full_text": "@HistoryAtState @historyatnih #USArmy #HISTORY #WW1 #centenaire1418 #WW1CC #FWW #ambulance #ModelTFord #centenary  https://t.co/uGnfCLtvFj",
-        "geo": null,
-        "id": 621048480585379840,
-        "id_str": "621048480585379840",
-        "in_reply_to_screen_name": "HistoryAtState",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": 586570880,
-        "in_reply_to_user_id_str": "586570880",
-        "is_quote_status": true,
-        "lang": "qme",
-        "place": null,
-        "possibly_sensitive": false,
-        "quoted_status_id": 621044078818537470,
-        "quoted_status_id_str": "621044078818537472",
-        "quoted_status_permalink": {
-            "display": "twitter.com/jeffreysreznic…",
-            "expanded": "https://twitter.com/jeffreysreznick/status/621044078818537472",
-            "url": "https://t.co/uGnfCLtvFj"
-        },
-        "retweet_count": 0,
-        "retweeted": false,
-        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-        "truncated": false,
-        "user": {
-            "id": 1732881642,
-            "id_str": "1732881642"
-        }
-    },
-    "quoted_status_id": 621048480585379840,
-    "quoted_status_id_str": "621048480585379840",
-    "quoted_status_permalink": {
-        "display": "twitter.com/WW1CC/status/6…",
-        "expanded": "https://twitter.com/WW1CC/status/621048480585379840",
-        "url": "http://t.co/o2PsVuvrXN"
-    },
-    "retweet_count": 5,
+    "retweet_count": "5",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

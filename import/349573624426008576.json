@@ -1,17 +1,15 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Tue Jun 25 17:03:41 +0000 2013",
     "display_text_range": [
-        0,
-        136
+        "0",
+        "136"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    120,
-                    136
+                    "120",
+                    "136"
                 ],
                 "text": "Twitterstorians"
             }
@@ -20,37 +18,25 @@
         "urls": [],
         "user_mentions": [
             {
-                "id": 586570880,
+                "id": "586570880",
                 "id_str": "586570880",
                 "indices": [
-                    1,
-                    16
+                    "1",
+                    "16"
                 ],
                 "name": "HistoryAtState",
                 "screen_name": "HistoryAtState"
             }
         ]
     },
-    "favorite_count": 2,
+    "favorite_count": "1",
     "favorited": false,
     "full_text": ".@HistoryAtState seeks grad/undergrad eInterns for the 2013-14 academic year. Descriptions tomorrow, Thurs &amp;amp; Friday #Twitterstorians",
-    "geo": null,
-    "id": 349573624426008580,
+    "id": "349573624426008576",
     "id_str": "349573624426008576",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
-    "retweet_count": 1,
+    "retweet_count": "1",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

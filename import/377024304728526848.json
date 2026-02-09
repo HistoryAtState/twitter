@@ -1,17 +1,15 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Mon Sep 09 11:02:53 +0000 2013",
     "display_text_range": [
-        0,
-        136
+        "0",
+        "136"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    13,
-                    22
+                    "13",
+                    "22"
                 ],
                 "text": "SecState"
             }
@@ -22,46 +20,34 @@
                 "display_url": "go.usa.gov/DbJP",
                 "expanded_url": "http://go.usa.gov/DbJP",
                 "indices": [
-                    114,
-                    136
+                    "114",
+                    "136"
                 ],
                 "url": "http://t.co/vUfdhsDwyg"
             }
         ],
         "user_mentions": [
             {
-                "id": 240302316,
+                "id": "240302316",
                 "id_str": "240302316",
                 "indices": [
-                    32,
-                    48
+                    "32",
+                    "48"
                 ],
                 "name": "US Embassy London",
                 "screen_name": "usembassylondon"
             }
         ]
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "C.Hughes 1st #SecState to visit @USEmbassyLondon while in office; H.Stimson 1st for official USG business in 1930 http://t.co/vUfdhsDwyg",
-    "geo": null,
-    "id": 377024304728526850,
+    "id": "377024304728526848",
     "id_str": "377024304728526848",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 0,
+    "retweet_count": "0",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

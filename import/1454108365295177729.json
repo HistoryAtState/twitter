@@ -1,45 +1,43 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Fri Oct 29 15:30:24 +0000 2021",
     "display_text_range": [
-        0,
-        247
+        "0",
+        "271"
     ],
     "entities": {
         "hashtags": [],
         "media": [
             {
-                "display_url": "pic.twitter.com/1evcPf6G50",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1454108365295177729/photo/1",
-                "id": 1454108363743182850,
+                "display_url": "pic.x.com/1evcPf6G50",
+                "expanded_url": "https://x.com/HistoryAtState/status/1454108365295177729/photo/1",
+                "id": "1454108363743182859",
                 "id_str": "1454108363743182859",
                 "indices": [
-                    248,
-                    271
+                    "248",
+                    "271"
                 ],
                 "media_url": "http://pbs.twimg.com/media/FC4H2kXWQAsAgrk.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/FC4H2kXWQAsAgrk.jpg",
                 "sizes": {
                     "large": {
-                        "h": 493,
+                        "h": "493",
                         "resize": "fit",
-                        "w": 750
+                        "w": "750"
                     },
                     "medium": {
-                        "h": 493,
+                        "h": "493",
                         "resize": "fit",
-                        "w": 750
+                        "w": "750"
                     },
                     "small": {
-                        "h": 447,
+                        "h": "447",
                         "resize": "fit",
-                        "w": 680
+                        "w": "680"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -50,13 +48,13 @@
         "urls": [],
         "user_mentions": [
             {
-                "id": 101802390,
+                "id": "101802390",
                 "id_str": "101802390",
                 "indices": [
-                    233,
-                    247
+                    "233",
+                    "247"
                 ],
-                "name": "US National Archives",
+                "name": "U.S. National Archives",
                 "screen_name": "USNatArchives"
             }
         ]
@@ -64,37 +62,36 @@
     "extended_entities": {
         "media": [
             {
-                "display_url": "pic.twitter.com/1evcPf6G50",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1454108365295177729/photo/1",
-                "ext_alt_text": "Color photograph. From left: Rozanne Ridgway, Colin Powell, President Ronald Reagan, and George Shultz at the First Plenary session with General Secretary Mikhail Gorbachev of Union of Soviet Socialist Republics in the Cabinet Room, Dec. 8, 1987. Powell and Pres. Reagan are wearing simultaneous interpretation devices.",
-                "id": 1454108363743182850,
+                "display_url": "pic.x.com/1evcPf6G50",
+                "expanded_url": "https://x.com/HistoryAtState/status/1454108365295177729/photo/1",
+                "id": "1454108363743182859",
                 "id_str": "1454108363743182859",
                 "indices": [
-                    248,
-                    271
+                    "248",
+                    "271"
                 ],
                 "media_url": "http://pbs.twimg.com/media/FC4H2kXWQAsAgrk.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/FC4H2kXWQAsAgrk.jpg",
                 "sizes": {
                     "large": {
-                        "h": 493,
+                        "h": "493",
                         "resize": "fit",
-                        "w": 750
+                        "w": "750"
                     },
                     "medium": {
-                        "h": 493,
+                        "h": "493",
                         "resize": "fit",
-                        "w": 750
+                        "w": "750"
                     },
                     "small": {
-                        "h": 447,
+                        "h": "447",
                         "resize": "fit",
-                        "w": 680
+                        "w": "680"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -102,27 +99,15 @@
             }
         ]
     },
-    "favorite_count": 15,
+    "favorite_count": "13",
     "favorited": false,
     "full_text": "In December 1986, Powell became President Reagan’s Deputy National Security Advisor. He transitioned to National Security Advisor in November 1987. In these two roles, Powell attended many key meetings with Soviet leaders.\n\n(1/4)\n\n📷 @USNatArchives https://t.co/1evcPf6G50",
-    "geo": null,
-    "id": 1454108365295177730,
+    "id": "1454108365295177729",
     "id_str": "1454108365295177729",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 2,
+    "retweet_count": "2",
     "retweeted": false,
     "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

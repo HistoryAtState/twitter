@@ -1,74 +1,72 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Wed Dec 07 12:01:01 +0000 2016",
     "display_text_range": [
-        0,
-        130
+        "0",
+        "154"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    56,
-                    68
+                    "56",
+                    "68"
                 ],
                 "text": "PearlHarbor"
             },
             {
                 "indices": [
-                    102,
-                    107
+                    "102",
+                    "107"
                 ],
                 "text": "FRUS"
             },
             {
                 "indices": [
-                    108,
-                    112
+                    "108",
+                    "112"
                 ],
                 "text": "OTD"
             },
             {
                 "indices": [
-                    113,
-                    118
+                    "113",
+                    "118"
                 ],
                 "text": "WWII"
             }
         ],
         "media": [
             {
-                "display_url": "pic.twitter.com/4694HT33ji",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/806468554820354050/photo/1",
-                "id": 806468552626728960,
+                "display_url": "pic.x.com/4694HT33ji",
+                "expanded_url": "https://x.com/HistoryAtState/status/806468554820354050/photo/1",
+                "id": "806468552626728961",
                 "id_str": "806468552626728961",
                 "indices": [
-                    131,
-                    154
+                    "131",
+                    "154"
                 ],
                 "media_url": "http://pbs.twimg.com/media/CzEm4DHW8AENF4u.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/CzEm4DHW8AENF4u.jpg",
                 "sizes": {
                     "large": {
-                        "h": 512,
+                        "h": "512",
                         "resize": "fit",
-                        "w": 769
+                        "w": "769"
                     },
                     "medium": {
-                        "h": 512,
+                        "h": "512",
                         "resize": "fit",
-                        "w": 769
+                        "w": "769"
                     },
                     "small": {
-                        "h": 453,
+                        "h": "453",
                         "resize": "fit",
-                        "w": 680
+                        "w": "680"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -81,69 +79,68 @@
                 "display_url": "go.usa.gov/x8m4P",
                 "expanded_url": "http://go.usa.gov/x8m4P",
                 "indices": [
-                    78,
-                    101
+                    "78",
+                    "101"
                 ],
                 "url": "https://t.co/iMgSP5JgYU"
             }
         ],
         "user_mentions": [
             {
-                "id": 9624742,
+                "id": "9624742",
                 "id_str": "9624742",
                 "indices": [
-                    1,
-                    11
+                    "1",
+                    "11"
                 ],
                 "name": "Department of State",
                 "screen_name": "StateDept"
             },
             {
-                "id": 37940492,
-                "id_str": "37940492",
+                "id": "1915414628659523584",
+                "id_str": "1915414628659523584",
                 "indices": [
-                    119,
-                    130
+                    "119",
+                    "130"
                 ],
-                "name": "U.S. Naval History",
-                "screen_name": "USNHistory"
+                "name": "Mohammed Amer",
+                "screen_name": "usnhistory"
             }
         ]
     },
     "extended_entities": {
         "media": [
             {
-                "display_url": "pic.twitter.com/4694HT33ji",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/806468554820354050/photo/1",
-                "ext_alt_text": null,
-                "id": 806468552626728960,
+                "display_url": "pic.x.com/4694HT33ji",
+                "expanded_url": "https://x.com/HistoryAtState/status/806468554820354050/photo/1",
+                "id": "806468552626728961",
                 "id_str": "806468552626728961",
                 "indices": [
-                    131,
-                    154
+                    "131",
+                    "154"
                 ],
                 "media_url": "http://pbs.twimg.com/media/CzEm4DHW8AENF4u.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/CzEm4DHW8AENF4u.jpg",
                 "sizes": {
                     "large": {
-                        "h": 512,
+                        "h": "512",
                         "resize": "fit",
-                        "w": 769
+                        "w": "769"
                     },
                     "medium": {
-                        "h": 512,
+                        "h": "512",
                         "resize": "fit",
-                        "w": 769
+                        "w": "769"
                     },
                     "small": {
-                        "h": 453,
+                        "h": "453",
                         "resize": "fit",
-                        "w": 680
+                        "w": "680"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -151,27 +148,15 @@
             }
         ]
     },
-    "favorite_count": 4,
+    "favorite_count": "4",
     "favorited": false,
     "full_text": ".@StateDept reconstructs plans and timeline in 1946 for #PearlHarbor attacks: https://t.co/iMgSP5JgYU #FRUS #OTD #WWII @USNHistory https://t.co/4694HT33ji",
-    "geo": null,
-    "id": 806468554820354050,
+    "id": "806468554820354050",
     "id_str": "806468554820354050",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 6,
+    "retweet_count": "6",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

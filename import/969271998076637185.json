@@ -1,10 +1,8 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Thu Mar 01 18:03:47 +0000 2018",
     "display_text_range": [
-        0,
-        140
+        "0",
+        "140"
     ],
     "entities": {
         "hashtags": [],
@@ -12,106 +10,35 @@
         "urls": [],
         "user_mentions": [
             {
-                "id": 493242776,
+                "id": "493242776",
                 "id_str": "493242776",
                 "indices": [
-                    3,
-                    12
+                    "3",
+                    "12"
                 ],
                 "name": "ADST",
                 "screen_name": "ADSTnews"
             },
             {
-                "id": 586570880,
+                "id": "586570880",
                 "id_str": "586570880",
                 "indices": [
-                    14,
-                    29
+                    "14",
+                    "29"
                 ],
                 "name": "HistoryAtState",
                 "screen_name": "HistoryAtState"
             }
         ]
     },
-    "favorite_count": 0,
-    "favorited": true,
+    "favorite_count": "0",
+    "favorited": false,
     "full_text": "RT @ADSTnews: @HistoryAtState We have collected about thirty oral histories from African-American U.S. ambassadors here:  https://t.co/yBL5…",
-    "geo": null,
-    "id": 969271998076637180,
+    "id": "969271998076637185",
     "id_str": "969271998076637185",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
-    "retweet_count": 2,
-    "retweeted": true,
-    "retweeted_status": {
-        "contributors": null,
-        "coordinates": null,
-        "created_at": "Thu Mar 01 16:30:13 +0000 2018",
-        "display_text_range": [
-            16,
-            131
-        ],
-        "entities": {
-            "hashtags": [],
-            "symbols": [],
-            "urls": [
-                {
-                    "display_url": "goo.gl/U8Eb9r",
-                    "expanded_url": "https://goo.gl/U8Eb9r",
-                    "indices": [
-                        108,
-                        131
-                    ],
-                    "url": "https://t.co/yBL52eoIav"
-                }
-            ],
-            "user_mentions": [
-                {
-                    "id": 586570880,
-                    "id_str": "586570880",
-                    "indices": [
-                        0,
-                        15
-                    ],
-                    "name": "HistoryAtState",
-                    "screen_name": "HistoryAtState"
-                }
-            ]
-        },
-        "favorite_count": 2,
-        "favorited": true,
-        "full_text": "@HistoryAtState We have collected about thirty oral histories from African-American U.S. ambassadors here:  https://t.co/yBL52eoIav",
-        "geo": null,
-        "id": 969248453179015170,
-        "id_str": "969248453179015169",
-        "in_reply_to_screen_name": "HistoryAtState",
-        "in_reply_to_status_id": 968835814745571330,
-        "in_reply_to_status_id_str": "968835814745571328",
-        "in_reply_to_user_id": 586570880,
-        "in_reply_to_user_id_str": "586570880",
-        "is_quote_status": false,
-        "lang": "en",
-        "place": null,
-        "possibly_sensitive": false,
-        "retweet_count": 2,
-        "retweeted": true,
-        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-        "truncated": false,
-        "user": {
-            "id": 493242776,
-            "id_str": "493242776"
-        }
-    },
+    "retweet_count": "0",
+    "retweeted": false,
     "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

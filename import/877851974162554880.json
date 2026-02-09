@@ -1,60 +1,58 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Thu Jun 22 11:33:14 +0000 2017",
     "display_text_range": [
-        0,
-        110
+        "0",
+        "134"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    83,
-                    93
+                    "83",
+                    "93"
                 ],
                 "text": "shafr2017"
             },
             {
                 "indices": [
-                    94,
-                    110
+                    "94",
+                    "110"
                 ],
                 "text": "twitterstorians"
             }
         ],
         "media": [
             {
-                "display_url": "pic.twitter.com/Kz9hcJQGus",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/877851974162554880/photo/1",
-                "id": 877851797221765120,
+                "display_url": "pic.x.com/Kz9hcJQGus",
+                "expanded_url": "https://x.com/HistoryAtState/status/877851974162554880/photo/1",
+                "id": "877851797221765120",
                 "id_str": "877851797221765120",
                 "indices": [
-                    111,
-                    134
+                    "111",
+                    "134"
                 ],
                 "media_url": "http://pbs.twimg.com/media/DC7BjvrXcAAODpI.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DC7BjvrXcAAODpI.jpg",
                 "sizes": {
                     "large": {
-                        "h": 1318,
+                        "h": "1318",
                         "resize": "fit",
-                        "w": 2048
+                        "w": "2048"
                     },
                     "medium": {
-                        "h": 772,
+                        "h": "772",
                         "resize": "fit",
-                        "w": 1200
+                        "w": "1200"
                     },
                     "small": {
-                        "h": 437,
+                        "h": "437",
                         "resize": "fit",
-                        "w": 680
+                        "w": "680"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -68,37 +66,36 @@
     "extended_entities": {
         "media": [
             {
-                "display_url": "pic.twitter.com/Kz9hcJQGus",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/877851974162554880/photo/1",
-                "ext_alt_text": null,
-                "id": 877851797221765120,
+                "display_url": "pic.x.com/Kz9hcJQGus",
+                "expanded_url": "https://x.com/HistoryAtState/status/877851974162554880/photo/1",
+                "id": "877851797221765120",
                 "id_str": "877851797221765120",
                 "indices": [
-                    111,
-                    134
+                    "111",
+                    "134"
                 ],
                 "media_url": "http://pbs.twimg.com/media/DC7BjvrXcAAODpI.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DC7BjvrXcAAODpI.jpg",
                 "sizes": {
                     "large": {
-                        "h": 1318,
+                        "h": "1318",
                         "resize": "fit",
-                        "w": 2048
+                        "w": "2048"
                     },
                     "medium": {
-                        "h": 772,
+                        "h": "772",
                         "resize": "fit",
-                        "w": 1200
+                        "w": "1200"
                     },
                     "small": {
-                        "h": 437,
+                        "h": "437",
                         "resize": "fit",
-                        "w": 680
+                        "w": "680"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -106,27 +103,15 @@
             }
         ]
     },
-    "favorite_count": 11,
+    "favorite_count": "9",
     "favorited": false,
     "full_text": "We'll be presenting on \"The Poison Gas Taboo in U.S. Foreign Policy\" on June 23 at #shafr2017 #twitterstorians https://t.co/Kz9hcJQGus",
-    "geo": null,
-    "id": 877851974162554880,
+    "id": "877851974162554880",
     "id_str": "877851974162554880",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 3,
+    "retweet_count": "2",
     "retweeted": false,
     "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

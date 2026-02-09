@@ -1,31 +1,29 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Wed Nov 23 13:45:26 +0000 2016",
     "display_text_range": [
-        0,
-        134
+        "0",
+        "134"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    0,
-                    13
+                    "0",
+                    "13"
                 ],
                 "text": "Thanksgiving"
             },
             {
                 "indices": [
-                    112,
-                    117
+                    "112",
+                    "117"
                 ],
                 "text": "FRUS"
             },
             {
                 "indices": [
-                    118,
-                    134
+                    "118",
+                    "134"
                 ],
                 "text": "twitterstorians"
             }
@@ -36,46 +34,34 @@
                 "display_url": "go.usa.gov/xkJba",
                 "expanded_url": "http://go.usa.gov/xkJba",
                 "indices": [
-                    88,
-                    111
+                    "88",
+                    "111"
                 ],
                 "url": "https://t.co/JynSJxJMsJ"
             }
         ],
         "user_mentions": [
             {
-                "id": 14159148,
+                "id": "14159148",
                 "id_str": "14159148",
                 "indices": [
-                    41,
-                    44
+                    "41",
+                    "44"
                 ],
                 "name": "United Nations",
                 "screen_name": "UN"
             }
         ]
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "#Thanksgiving, 1967. Amb. Goldberg hopes @UN Security Council makes it home for dinner. https://t.co/JynSJxJMsJ #FRUS #twitterstorians",
-    "geo": null,
-    "id": 801421402154930180,
+    "id": "801421402154930176",
     "id_str": "801421402154930176",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 1,
+    "retweet_count": "1",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

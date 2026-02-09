@@ -1,17 +1,15 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Fri Sep 09 14:03:27 +0000 2016",
     "display_text_range": [
-        0,
-        140
+        "0",
+        "140"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    130,
-                    135
+                    "130",
+                    "135"
                 ],
                 "text": "FRUS"
             }
@@ -22,202 +20,44 @@
                 "display_url": "go.usa.gov/xW53m",
                 "expanded_url": "http://go.usa.gov/xW53m",
                 "indices": [
-                    106,
-                    129
+                    "106",
+                    "129"
                 ],
                 "url": "https://t.co/dpio2Jl482"
             }
         ],
         "user_mentions": [
             {
-                "id": 19981036,
-                "id_str": "19981036",
+                "id": "1931316663569244162",
+                "id_str": "1931316663569244162",
                 "indices": [
-                    3,
-                    17
+                    "3",
+                    "17"
                 ],
-                "name": "US Embassy Brussels",
+                "name": "POC hackerone",
                 "screen_name": "usembbrussels"
             },
             {
-                "id": 586570880,
+                "id": "586570880",
                 "id_str": "586570880",
                 "indices": [
-                    20,
-                    35
+                    "20",
+                    "35"
                 ],
                 "name": "HistoryAtState",
                 "screen_name": "HistoryAtState"
             }
         ]
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "RT @usembbrussels: .@HistoryAtState office released Foreign Relations of the US,1977–80, Southern Africa: https://t.co/dpio2Jl482 #FRUS htt…",
-    "geo": null,
-    "id": 774246845988167680,
+    "id": "774246845988167680",
     "id_str": "774246845988167680",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 1,
-    "retweeted": true,
-    "retweeted_status": {
-        "contributors": null,
-        "coordinates": null,
-        "created_at": "Fri Sep 09 06:31:09 +0000 2016",
-        "display_text_range": [
-            0,
-            116
-        ],
-        "entities": {
-            "hashtags": [
-                {
-                    "indices": [
-                        111,
-                        116
-                    ],
-                    "text": "FRUS"
-                }
-            ],
-            "media": [
-                {
-                    "display_url": "pic.twitter.com/zSPKOtqN4r",
-                    "expanded_url": "https://twitter.com/usembbrussels/status/774133019472867329/photo/1",
-                    "id": 774132952645062660,
-                    "id_str": "774132952645062658",
-                    "indices": [
-                        117,
-                        140
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/Cr5F0aNVUAIbFY9.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/Cr5F0aNVUAIbFY9.jpg",
-                    "sizes": {
-                        "large": {
-                            "h": 1050,
-                            "resize": "fit",
-                            "w": 736
-                        },
-                        "medium": {
-                            "h": 1050,
-                            "resize": "fit",
-                            "w": 736
-                        },
-                        "small": {
-                            "h": 680,
-                            "resize": "fit",
-                            "w": 477
-                        },
-                        "thumb": {
-                            "h": 150,
-                            "resize": "crop",
-                            "w": 150
-                        }
-                    },
-                    "type": "photo",
-                    "url": "https://t.co/zSPKOtqN4r"
-                }
-            ],
-            "symbols": [],
-            "urls": [
-                {
-                    "display_url": "go.usa.gov/xW53m",
-                    "expanded_url": "http://go.usa.gov/xW53m",
-                    "indices": [
-                        87,
-                        110
-                    ],
-                    "url": "https://t.co/dpio2Jl482"
-                }
-            ],
-            "user_mentions": [
-                {
-                    "id": 586570880,
-                    "id_str": "586570880",
-                    "indices": [
-                        1,
-                        16
-                    ],
-                    "name": "HistoryAtState",
-                    "screen_name": "HistoryAtState"
-                }
-            ]
-        },
-        "extended_entities": {
-            "media": [
-                {
-                    "display_url": "pic.twitter.com/zSPKOtqN4r",
-                    "expanded_url": "https://twitter.com/usembbrussels/status/774133019472867329/photo/1",
-                    "ext_alt_text": null,
-                    "id": 774132952645062660,
-                    "id_str": "774132952645062658",
-                    "indices": [
-                        117,
-                        140
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/Cr5F0aNVUAIbFY9.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/Cr5F0aNVUAIbFY9.jpg",
-                    "sizes": {
-                        "large": {
-                            "h": 1050,
-                            "resize": "fit",
-                            "w": 736
-                        },
-                        "medium": {
-                            "h": 1050,
-                            "resize": "fit",
-                            "w": 736
-                        },
-                        "small": {
-                            "h": 680,
-                            "resize": "fit",
-                            "w": 477
-                        },
-                        "thumb": {
-                            "h": 150,
-                            "resize": "crop",
-                            "w": 150
-                        }
-                    },
-                    "type": "photo",
-                    "url": "https://t.co/zSPKOtqN4r"
-                }
-            ]
-        },
-        "favorite_count": 1,
-        "favorited": false,
-        "full_text": ".@HistoryAtState office released Foreign Relations of the US,1977–80, Southern Africa: https://t.co/dpio2Jl482 #FRUS https://t.co/zSPKOtqN4r",
-        "geo": null,
-        "id": 774133019472867330,
-        "id_str": "774133019472867329",
-        "in_reply_to_screen_name": null,
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "is_quote_status": false,
-        "lang": "en",
-        "place": null,
-        "possibly_sensitive": false,
-        "retweet_count": 1,
-        "retweeted": true,
-        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-        "truncated": false,
-        "user": {
-            "id": 19981036,
-            "id_str": "19981036"
-        }
-    },
+    "retweet_count": "0",
+    "retweeted": false,
     "source": "&lt;a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"&gt;Twitter for iPad&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

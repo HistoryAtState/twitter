@@ -1,53 +1,51 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Sun Dec 22 14:01:11 +0000 2019",
     "display_text_range": [
-        0,
-        125
+        "0",
+        "149"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    22,
-                    38
+                    "22",
+                    "38"
                 ],
                 "text": "7PhotosOfMyLife"
             }
         ],
         "media": [
             {
-                "display_url": "pic.twitter.com/qnLWWcV09H",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1208749327780319237/photo/1",
-                "id": 1208749325221806080,
+                "display_url": "pic.x.com/qnLWWcV09H",
+                "expanded_url": "https://x.com/HistoryAtState/status/1208749327780319237/photo/1",
+                "id": "1208749325221806080",
                 "id_str": "1208749325221806080",
                 "indices": [
-                    126,
-                    149
+                    "126",
+                    "149"
                 ],
                 "media_url": "http://pbs.twimg.com/media/EMZXG2hWwAAyh4S.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/EMZXG2hWwAAyh4S.jpg",
                 "sizes": {
                     "large": {
-                        "h": 402,
+                        "h": "402",
                         "resize": "fit",
-                        "w": 624
+                        "w": "624"
                     },
                     "medium": {
-                        "h": 402,
+                        "h": "402",
                         "resize": "fit",
-                        "w": 624
+                        "w": "624"
                     },
                     "small": {
-                        "h": 402,
+                        "h": "402",
                         "resize": "fit",
-                        "w": 624
+                        "w": "624"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -56,53 +54,41 @@
         ],
         "symbols": [],
         "urls": [],
-        "user_mentions": [
-            {
-                "id": 166655653,
-                "id_str": "166655653",
-                "indices": [
-                    114,
-                    125
-                ],
-                "name": "Clinton Library",
-                "screen_name": "WJCLibrary"
-            }
-        ]
+        "user_mentions": []
     },
     "extended_entities": {
         "media": [
             {
-                "display_url": "pic.twitter.com/qnLWWcV09H",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1208749327780319237/photo/1",
-                "ext_alt_text": "Screenshot of the Office of the Historian web page for the Administrative Timeline of the Department of State",
-                "id": 1208749325221806080,
+                "display_url": "pic.x.com/qnLWWcV09H",
+                "expanded_url": "https://x.com/HistoryAtState/status/1208749327780319237/photo/1",
+                "id": "1208749325221806080",
                 "id_str": "1208749325221806080",
                 "indices": [
-                    126,
-                    149
+                    "126",
+                    "149"
                 ],
                 "media_url": "http://pbs.twimg.com/media/EMZXG2hWwAAyh4S.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/EMZXG2hWwAAyh4S.jpg",
                 "sizes": {
                     "large": {
-                        "h": 402,
+                        "h": "402",
                         "resize": "fit",
-                        "w": 624
+                        "w": "624"
                     },
                     "medium": {
-                        "h": 402,
+                        "h": "402",
                         "resize": "fit",
-                        "w": 624
+                        "w": "624"
                     },
                     "small": {
-                        "h": 402,
+                        "h": "402",
                         "resize": "fit",
-                        "w": 624
+                        "w": "624"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -110,27 +96,15 @@
             }
         ]
     },
-    "favorite_count": 3,
+    "favorite_count": "2",
     "favorited": false,
     "full_text": "Today is Day 6 of the #7PhotosOfMyLife Challenge. Rules: No people or explanations. Today’s challenge goes out to @WJCLibrary https://t.co/qnLWWcV09H",
-    "geo": null,
-    "id": 1208749327780319230,
+    "id": "1208749327780319237",
     "id_str": "1208749327780319237",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 0,
+    "retweet_count": "0",
     "retweeted": false,
     "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

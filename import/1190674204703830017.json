@@ -1,17 +1,15 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Sat Nov 02 16:57:06 +0000 2019",
     "display_text_range": [
-        0,
-        16
+        "0",
+        "40"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    0,
-                    16
+                    "0",
+                    "16"
                 ],
                 "text": "twitterstorians"
             }
@@ -19,208 +17,26 @@
         "symbols": [],
         "urls": [
             {
-                "display_url": "twitter.com/FSIatState/sta…",
-                "expanded_url": "https://twitter.com/FSIatState/status/1190376786804256768",
+                "display_url": "x.com/NFATCatState/s…",
+                "expanded_url": "https://x.com/NFATCatState/status/1190376786804256768",
                 "indices": [
-                    17,
-                    40
+                    "17",
+                    "40"
                 ],
                 "url": "https://t.co/WMtzH0MKAe"
             }
         ],
         "user_mentions": []
     },
-    "favorite_count": 1,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "#twitterstorians https://t.co/WMtzH0MKAe",
-    "geo": null,
-    "id": 1190674204703830020,
+    "id": "1190674204703830017",
     "id_str": "1190674204703830017",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": true,
     "lang": "qht",
-    "place": null,
     "possibly_sensitive": false,
-    "quoted_status": {
-        "contributors": null,
-        "coordinates": null,
-        "created_at": "Fri Nov 01 21:15:16 +0000 2019",
-        "display_text_range": [
-            0,
-            276
-        ],
-        "entities": {
-            "hashtags": [
-                {
-                    "indices": [
-                        205,
-                        215
-                    ],
-                    "text": "Lusitania"
-                },
-                {
-                    "indices": [
-                        256,
-                        276
-                    ],
-                    "text": "HeroesofUSDiplomacy"
-                }
-            ],
-            "media": [
-                {
-                    "display_url": "pic.twitter.com/33cZAC5N5o",
-                    "expanded_url": "https://twitter.com/FSIatState/status/1190376786804256768/video/1",
-                    "id": 1190375623941918720,
-                    "id_str": "1190375623941918721",
-                    "indices": [
-                        277,
-                        300
-                    ],
-                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1190375623941918721/pu/img/SJyIPJ1vXPS_VY8F.jpg",
-                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1190375623941918721/pu/img/SJyIPJ1vXPS_VY8F.jpg",
-                    "sizes": {
-                        "large": {
-                            "h": 540,
-                            "resize": "fit",
-                            "w": 960
-                        },
-                        "medium": {
-                            "h": 540,
-                            "resize": "fit",
-                            "w": 960
-                        },
-                        "small": {
-                            "h": 383,
-                            "resize": "fit",
-                            "w": 680
-                        },
-                        "thumb": {
-                            "h": 150,
-                            "resize": "crop",
-                            "w": 150
-                        }
-                    },
-                    "type": "photo",
-                    "url": "https://t.co/33cZAC5N5o"
-                }
-            ],
-            "symbols": [],
-            "urls": [],
-            "user_mentions": []
-        },
-        "extended_entities": {
-            "media": [
-                {
-                    "additional_media_info": {
-                        "monetizable": false
-                    },
-                    "display_url": "pic.twitter.com/33cZAC5N5o",
-                    "expanded_url": "https://twitter.com/FSIatState/status/1190376786804256768/video/1",
-                    "ext_alt_text": null,
-                    "id": 1190375623941918720,
-                    "id_str": "1190375623941918721",
-                    "indices": [
-                        277,
-                        300
-                    ],
-                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1190375623941918721/pu/img/SJyIPJ1vXPS_VY8F.jpg",
-                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1190375623941918721/pu/img/SJyIPJ1vXPS_VY8F.jpg",
-                    "sizes": {
-                        "large": {
-                            "h": 540,
-                            "resize": "fit",
-                            "w": 960
-                        },
-                        "medium": {
-                            "h": 540,
-                            "resize": "fit",
-                            "w": 960
-                        },
-                        "small": {
-                            "h": 383,
-                            "resize": "fit",
-                            "w": 680
-                        },
-                        "thumb": {
-                            "h": 150,
-                            "resize": "crop",
-                            "w": 150
-                        }
-                    },
-                    "type": "video",
-                    "url": "https://t.co/33cZAC5N5o",
-                    "video_info": {
-                        "aspect_ratio": [
-                            16,
-                            9
-                        ],
-                        "duration_millis": 52419,
-                        "variants": [
-                            {
-                                "bitrate": 2176000,
-                                "content_type": "video/mp4",
-                                "url": "https://video.twimg.com/ext_tw_video/1190375623941918721/pu/vid/960x540/Lcbnv32tA4KdrOeJ.mp4?tag=10"
-                            },
-                            {
-                                "bitrate": 832000,
-                                "content_type": "video/mp4",
-                                "url": "https://video.twimg.com/ext_tw_video/1190375623941918721/pu/vid/640x360/__8JcyaSJ9ujEvou.mp4?tag=10"
-                            },
-                            {
-                                "bitrate": 256000,
-                                "content_type": "video/mp4",
-                                "url": "https://video.twimg.com/ext_tw_video/1190375623941918721/pu/vid/480x270/NBiQF775mpJxQ8uj.mp4?tag=10"
-                            },
-                            {
-                                "content_type": "application/x-mpegURL",
-                                "url": "https://video.twimg.com/ext_tw_video/1190375623941918721/pu/pl/T9Rxp8vlvkxSvH02.m3u8?tag=10"
-                            }
-                        ]
-                    }
-                }
-            ]
-        },
-        "favorite_count": 8,
-        "favorited": false,
-        "full_text": "On his second posting, with no “guidebook” for how to manage a crisis, U.S. consul Wesley Frost dealt w/ one of the first mass-casualty incidents overseas that the U.S. had ever faced – the sinking of the #Lusitania. Learn about his work in its aftermath. #HeroesofUSDiplomacy https://t.co/33cZAC5N5o",
-        "geo": null,
-        "id": 1190376786804256770,
-        "id_str": "1190376786804256768",
-        "in_reply_to_screen_name": null,
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "is_quote_status": false,
-        "lang": "en",
-        "place": null,
-        "possibly_sensitive": false,
-        "retweet_count": 5,
-        "retweeted": false,
-        "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
-        "truncated": false,
-        "user": {
-            "id": 958044239576948740,
-            "id_str": "958044239576948736"
-        }
-    },
-    "quoted_status_id": 1190376786804256770,
-    "quoted_status_id_str": "1190376786804256768",
-    "quoted_status_permalink": {
-        "display": "twitter.com/FSIatState/sta…",
-        "expanded": "https://twitter.com/FSIatState/status/1190376786804256768",
-        "url": "https://t.co/WMtzH0MKAe"
-    },
-    "retweet_count": 1,
+    "retweet_count": "1",
     "retweeted": false,
     "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

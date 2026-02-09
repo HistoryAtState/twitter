@@ -1,31 +1,29 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Thu Apr 23 13:20:15 +0000 2015",
     "display_text_range": [
-        0,
-        138
+        "0",
+        "138"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    29,
-                    34
+                    "29",
+                    "34"
                 ],
                 "text": "FRUS"
             },
             {
                 "indices": [
-                    125,
-                    134
+                    "125",
+                    "134"
                 ],
                 "text": "SHFG2015"
             },
             {
                 "indices": [
-                    135,
-                    138
+                    "135",
+                    "138"
                 ],
                 "text": "dh"
             }
@@ -36,46 +34,34 @@
                 "display_url": "shfg.org/shfg/feature-a…",
                 "expanded_url": "http://shfg.org/shfg/feature-archive/federalist-feature/",
                 "indices": [
-                    102,
-                    124
+                    "102",
+                    "124"
                 ],
                 "url": "http://t.co/606kYs1L3v"
             }
         ],
         "user_mentions": [
             {
-                "id": 486867266,
+                "id": "486867266",
                 "id_str": "486867266",
                 "indices": [
-                    50,
-                    65
+                    "50",
+                    "65"
                 ],
                 "name": "SHFGHistorians",
                 "screen_name": "SHFGHistorians"
             }
         ]
     },
-    "favorite_count": 1,
+    "favorite_count": "1",
     "favorited": false,
     "full_text": "We will present “Mapping the #FRUS Series” at the @SHFGHistorians Digital History Workshop, April 24! http://t.co/606kYs1L3v #SHFG2015 #dh",
-    "geo": null,
-    "id": 591230100458319870,
+    "id": "591230100458319872",
     "id_str": "591230100458319872",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 2,
+    "retweet_count": "1",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

@@ -1,31 +1,29 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Wed Sep 13 13:52:41 +0000 2017",
     "display_text_range": [
-        0,
-        140
+        "0",
+        "140"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    26,
-                    37
+                    "26",
+                    "37"
                 ],
                 "text": "Dodis_goes"
             },
             {
                 "indices": [
-                    38,
-                    47
+                    "38",
+                    "47"
                 ],
                 "text": "FindFRUS"
             },
             {
                 "indices": [
-                    102,
-                    118
+                    "102",
+                    "118"
                 ],
                 "text": "twitterstorians"
             }
@@ -36,8 +34,8 @@
                 "display_url": "dodis.ch/G43",
                 "expanded_url": "http://dodis.ch/G43",
                 "indices": [
-                    51,
-                    74
+                    "51",
+                    "74"
                 ],
                 "url": "https://t.co/RsjH6u16oz"
             },
@@ -45,235 +43,44 @@
                 "display_url": "history.state.gov/tags/switzerla…",
                 "expanded_url": "https://history.state.gov/tags/switzerland",
                 "indices": [
-                    76,
-                    99
+                    "76",
+                    "99"
                 ],
                 "url": "https://t.co/EtqX77Zjwe"
             }
         ],
         "user_mentions": [
             {
-                "id": 299186512,
+                "id": "299186512",
                 "id_str": "299186512",
                 "indices": [
-                    3,
-                    9
+                    "3",
+                    "9"
                 ],
                 "name": "Dodis",
                 "screen_name": "Dodis"
             },
             {
-                "id": 586570880,
+                "id": "586570880",
                 "id_str": "586570880",
                 "indices": [
-                    119,
-                    134
+                    "119",
+                    "134"
                 ],
                 "name": "HistoryAtState",
                 "screen_name": "HistoryAtState"
             }
         ]
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "RT @Dodis: Why not merge? #Dodis_goes #FindFRUS in https://t.co/RsjH6u16oz, https://t.co/EtqX77Zjwe 😀 #twitterstorians @HistoryAtState @Sac…",
-    "geo": null,
-    "id": 907965256948994050,
+    "id": "907965256948994061",
     "id_str": "907965256948994061",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 5,
-    "retweeted": true,
-    "retweeted_status": {
-        "contributors": null,
-        "coordinates": null,
-        "created_at": "Wed Sep 13 12:03:00 +0000 2017",
-        "display_text_range": [
-            0,
-            134
-        ],
-        "entities": {
-            "hashtags": [
-                {
-                    "indices": [
-                        15,
-                        26
-                    ],
-                    "text": "Dodis_goes"
-                },
-                {
-                    "indices": [
-                        27,
-                        36
-                    ],
-                    "text": "FindFRUS"
-                },
-                {
-                    "indices": [
-                        91,
-                        107
-                    ],
-                    "text": "twitterstorians"
-                }
-            ],
-            "media": [
-                {
-                    "display_url": "pic.twitter.com/MTW8pZIrTX",
-                    "expanded_url": "https://twitter.com/Dodis/status/907937656310562816/photo/1",
-                    "id": 907935855884619780,
-                    "id_str": "907935855884619777",
-                    "indices": [
-                        135,
-                        158
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/DJmi2bjX0AE1P8u.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/DJmi2bjX0AE1P8u.jpg",
-                    "sizes": {
-                        "large": {
-                            "h": 872,
-                            "resize": "fit",
-                            "w": 795
-                        },
-                        "medium": {
-                            "h": 872,
-                            "resize": "fit",
-                            "w": 795
-                        },
-                        "small": {
-                            "h": 680,
-                            "resize": "fit",
-                            "w": 620
-                        },
-                        "thumb": {
-                            "h": 150,
-                            "resize": "crop",
-                            "w": 150
-                        }
-                    },
-                    "type": "photo",
-                    "url": "https://t.co/MTW8pZIrTX"
-                }
-            ],
-            "symbols": [],
-            "urls": [
-                {
-                    "display_url": "dodis.ch/G43",
-                    "expanded_url": "http://dodis.ch/G43",
-                    "indices": [
-                        40,
-                        63
-                    ],
-                    "url": "https://t.co/RsjH6u16oz"
-                },
-                {
-                    "display_url": "history.state.gov/tags/switzerla…",
-                    "expanded_url": "https://history.state.gov/tags/switzerland",
-                    "indices": [
-                        65,
-                        88
-                    ],
-                    "url": "https://t.co/EtqX77Zjwe"
-                }
-            ],
-            "user_mentions": [
-                {
-                    "id": 586570880,
-                    "id_str": "586570880",
-                    "indices": [
-                        108,
-                        123
-                    ],
-                    "name": "HistoryAtState",
-                    "screen_name": "HistoryAtState"
-                },
-                {
-                    "id": 307545133,
-                    "id_str": "307545133",
-                    "indices": [
-                        124,
-                        134
-                    ],
-                    "name": "Sacha Zala",
-                    "screen_name": "SachaZala"
-                }
-            ]
-        },
-        "extended_entities": {
-            "media": [
-                {
-                    "display_url": "pic.twitter.com/MTW8pZIrTX",
-                    "expanded_url": "https://twitter.com/Dodis/status/907937656310562816/photo/1",
-                    "ext_alt_text": null,
-                    "id": 907935855884619780,
-                    "id_str": "907935855884619777",
-                    "indices": [
-                        135,
-                        158
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/DJmi2bjX0AE1P8u.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/DJmi2bjX0AE1P8u.jpg",
-                    "sizes": {
-                        "large": {
-                            "h": 872,
-                            "resize": "fit",
-                            "w": 795
-                        },
-                        "medium": {
-                            "h": 872,
-                            "resize": "fit",
-                            "w": 795
-                        },
-                        "small": {
-                            "h": 680,
-                            "resize": "fit",
-                            "w": 620
-                        },
-                        "thumb": {
-                            "h": 150,
-                            "resize": "crop",
-                            "w": 150
-                        }
-                    },
-                    "type": "photo",
-                    "url": "https://t.co/MTW8pZIrTX"
-                }
-            ]
-        },
-        "favorite_count": 7,
-        "favorited": false,
-        "full_text": "Why not merge? #Dodis_goes #FindFRUS in https://t.co/RsjH6u16oz, https://t.co/EtqX77Zjwe 😀 #twitterstorians @HistoryAtState @SachaZala https://t.co/MTW8pZIrTX",
-        "geo": null,
-        "id": 907937656310562820,
-        "id_str": "907937656310562816",
-        "in_reply_to_screen_name": null,
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "is_quote_status": false,
-        "lang": "en",
-        "place": null,
-        "possibly_sensitive": false,
-        "retweet_count": 5,
-        "retweeted": true,
-        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-        "truncated": false,
-        "user": {
-            "id": 299186512,
-            "id_str": "299186512"
-        }
-    },
+    "retweet_count": "0",
+    "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

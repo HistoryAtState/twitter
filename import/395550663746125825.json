@@ -1,24 +1,22 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Wed Oct 30 14:00:01 +0000 2013",
     "display_text_range": [
-        0,
-        127
+        "0",
+        "127"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    105,
-                    110
+                    "105",
+                    "110"
                 ],
                 "text": "FRUS"
             },
             {
                 "indices": [
-                    111,
-                    127
+                    "111",
+                    "127"
                 ],
                 "text": "twitterstorians"
             }
@@ -29,35 +27,23 @@
                 "display_url": "go.usa.gov/DFuW",
                 "expanded_url": "http://go.usa.gov/DFuW",
                 "indices": [
-                    82,
-                    104
+                    "82",
+                    "104"
                 ],
                 "url": "http://t.co/ErEycC3kTx"
             }
         ],
         "user_mentions": []
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "Read about Egyptian President Anwar Sadat's momentous visit to Jerusalem in 1977. http://t.co/ErEycC3kTx #FRUS #twitterstorians",
-    "geo": null,
-    "id": 395550663746125820,
+    "id": "395550663746125825",
     "id_str": "395550663746125825",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 1,
+    "retweet_count": "1",
     "retweeted": false,
     "source": "&lt;a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"&gt;TweetDeck&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

@@ -1,38 +1,36 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Wed Nov 22 15:05:16 +0000 2017",
     "display_text_range": [
-        0,
-        128
+        "0",
+        "128"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    0,
-                    4
+                    "0",
+                    "4"
                 ],
                 "text": "FDR"
             },
             {
                 "indices": [
-                    16,
-                    29
+                    "16",
+                    "29"
                 ],
                 "text": "Thanksgiving"
             },
             {
                 "indices": [
-                    40,
-                    46
+                    "40",
+                    "46"
                 ],
                 "text": "Cairo"
             },
             {
                 "indices": [
-                    94,
-                    99
+                    "94",
+                    "99"
                 ],
                 "text": "FRUS"
             }
@@ -43,56 +41,44 @@
                 "display_url": "go.usa.gov/xnWnD",
                 "expanded_url": "https://go.usa.gov/xnWnD",
                 "indices": [
-                    70,
-                    93
+                    "70",
+                    "93"
                 ],
                 "url": "https://t.co/4kcKuW0UM9"
             }
         ],
         "user_mentions": [
             {
-                "id": 293650530,
+                "id": "293650530",
                 "id_str": "293650530",
                 "indices": [
-                    100,
-                    111
+                    "100",
+                    "111"
                 ],
                 "name": "FDR Library",
                 "screen_name": "FDRLibrary"
             },
             {
-                "id": 106448460,
+                "id": "106448460",
                 "id_str": "106448460",
                 "indices": [
-                    112,
-                    128
+                    "112",
+                    "128"
                 ],
                 "name": "White House History",
                 "screen_name": "WhiteHouseHstry"
             }
         ]
     },
-    "favorite_count": 1,
+    "favorite_count": "1",
     "favorited": false,
     "full_text": "#FDR hosts 1943 #Thanksgiving dinner in #Cairo with his own turkeys: \nhttps://t.co/4kcKuW0UM9 #FRUS @FDRLibrary @WhitehouseHstry",
-    "geo": null,
-    "id": 933350674384990210,
+    "id": "933350674384990208",
     "id_str": "933350674384990208",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 0,
+    "retweet_count": "0",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

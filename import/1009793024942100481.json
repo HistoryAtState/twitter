@@ -1,60 +1,58 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Thu Jun 21 13:39:52 +0000 2018",
     "display_text_range": [
-        0,
-        200
+        "0",
+        "224"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    152,
-                    158
+                    "152",
+                    "158"
                 ],
                 "text": "China"
             },
             {
                 "indices": [
-                    195,
-                    200
+                    "195",
+                    "200"
                 ],
                 "text": "FRUS"
             }
         ],
         "media": [
             {
-                "display_url": "pic.twitter.com/8fAe27t6S8",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1009793024942100481/photo/1",
-                "id": 1009792655423832060,
+                "display_url": "pic.x.com/8fAe27t6S8",
+                "expanded_url": "https://x.com/HistoryAtState/status/1009793024942100481/photo/1",
+                "id": "1009792655423832064",
                 "id_str": "1009792655423832064",
                 "indices": [
-                    201,
-                    224
+                    "201",
+                    "224"
                 ],
                 "media_url": "http://pbs.twimg.com/media/DgOBEetWAAAZvCu.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DgOBEetWAAAZvCu.jpg",
                 "sizes": {
                     "large": {
-                        "h": 735,
+                        "h": "735",
                         "resize": "fit",
-                        "w": 668
+                        "w": "668"
                     },
                     "medium": {
-                        "h": 735,
+                        "h": "735",
                         "resize": "fit",
-                        "w": 668
+                        "w": "668"
                     },
                     "small": {
-                        "h": 680,
+                        "h": "680",
                         "resize": "fit",
-                        "w": 618
+                        "w": "618"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -67,8 +65,8 @@
                 "display_url": "history.state.gov/historicaldocu…",
                 "expanded_url": "https://history.state.gov/historicaldocuments/frus1969-76v19p2/d83",
                 "indices": [
-                    171,
-                    194
+                    "171",
+                    "194"
                 ],
                 "url": "https://t.co/EbtOf7MU70"
             }
@@ -78,37 +76,36 @@
     "extended_entities": {
         "media": [
             {
-                "display_url": "pic.twitter.com/8fAe27t6S8",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1009793024942100481/photo/1",
-                "ext_alt_text": "Screenshot of Document 83",
-                "id": 1009792655423832060,
+                "display_url": "pic.x.com/8fAe27t6S8",
+                "expanded_url": "https://x.com/HistoryAtState/status/1009793024942100481/photo/1",
+                "id": "1009792655423832064",
                 "id_str": "1009792655423832064",
                 "indices": [
-                    201,
-                    224
+                    "201",
+                    "224"
                 ],
                 "media_url": "http://pbs.twimg.com/media/DgOBEetWAAAZvCu.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/DgOBEetWAAAZvCu.jpg",
                 "sizes": {
                     "large": {
-                        "h": 735,
+                        "h": "735",
                         "resize": "fit",
-                        "w": 668
+                        "w": "668"
                     },
                     "medium": {
-                        "h": 735,
+                        "h": "735",
                         "resize": "fit",
-                        "w": 668
+                        "w": "668"
                     },
                     "small": {
-                        "h": 680,
+                        "h": "680",
                         "resize": "fit",
-                        "w": 618
+                        "w": "618"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -116,27 +113,15 @@
             }
         ]
     },
-    "favorite_count": 1,
+    "favorite_count": "1",
     "favorited": false,
     "full_text": "On July 23, 1971, Henry Kissinger and Japanese Ambassador Ushiba discussed the state of U.S.-Japanese relations a week after Kissinger’s secret trip to #China. Read more: https://t.co/EbtOf7MU70 #FRUS https://t.co/8fAe27t6S8",
-    "geo": null,
-    "id": 1009793024942100480,
+    "id": "1009793024942100481",
     "id_str": "1009793024942100481",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 2,
+    "retweet_count": "2",
     "retweeted": false,
     "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

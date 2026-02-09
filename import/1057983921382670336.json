@@ -1,31 +1,29 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Thu Nov 01 13:13:17 +0000 2018",
     "display_text_range": [
-        0,
-        139
+        "0",
+        "139"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    24,
-                    33
+                    "24",
+                    "33"
                 ],
                 "text": "security"
             },
             {
                 "indices": [
-                    42,
-                    50
+                    "42",
+                    "50"
                 ],
                 "text": "justice"
             },
             {
                 "indices": [
-                    122,
-                    138
+                    "122",
+                    "138"
                 ],
                 "text": "40thAnniversary"
             }
@@ -34,107 +32,25 @@
         "urls": [],
         "user_mentions": [
             {
-                "id": 123635567,
+                "id": "123635567",
                 "id_str": "123635567",
                 "indices": [
-                    3,
-                    12
+                    "3",
+                    "12"
                 ],
                 "name": "US Dept of State INL",
                 "screen_name": "StateINL"
             }
         ]
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "RT @StateINL: Promoting #security through #justice, to advance Americans' safety, for 4 decades!  We’re celebrating INL’s #40thAnniversary…",
-    "geo": null,
-    "id": 1057983921382670340,
+    "id": "1057983921382670336",
     "id_str": "1057983921382670336",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
-    "retweet_count": 30,
-    "retweeted": true,
-    "retweeted_status": {
-        "contributors": null,
-        "coordinates": null,
-        "created_at": "Tue Oct 30 12:56:33 +0000 2018",
-        "display_text_range": [
-            0,
-            177
-        ],
-        "entities": {
-            "hashtags": [
-                {
-                    "indices": [
-                        10,
-                        19
-                    ],
-                    "text": "security"
-                },
-                {
-                    "indices": [
-                        28,
-                        36
-                    ],
-                    "text": "justice"
-                },
-                {
-                    "indices": [
-                        108,
-                        124
-                    ],
-                    "text": "40thAnniversary"
-                }
-            ],
-            "symbols": [],
-            "urls": [
-                {
-                    "display_url": "youtu.be/trF73poIog0",
-                    "expanded_url": "https://youtu.be/trF73poIog0",
-                    "indices": [
-                        154,
-                        177
-                    ],
-                    "url": "https://t.co/NJyl1DYR7w"
-                }
-            ],
-            "user_mentions": []
-        },
-        "favorite_count": 64,
-        "favorited": false,
-        "full_text": "Promoting #security through #justice, to advance Americans' safety, for 4 decades!  We’re celebrating INL’s #40thAnniversary this month - enjoy the show: https://t.co/NJyl1DYR7w",
-        "geo": null,
-        "id": 1057254933651746820,
-        "id_str": "1057254933651746817",
-        "in_reply_to_screen_name": null,
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "is_quote_status": false,
-        "lang": "en",
-        "place": null,
-        "possibly_sensitive": false,
-        "retweet_count": 30,
-        "retweeted": true,
-        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-        "truncated": false,
-        "user": {
-            "id": 123635567,
-            "id_str": "123635567"
-        }
-    },
+    "retweet_count": "0",
+    "retweeted": false,
     "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

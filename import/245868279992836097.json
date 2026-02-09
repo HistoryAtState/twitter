@@ -1,24 +1,22 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Wed Sep 12 12:55:40 +0000 2012",
     "display_text_range": [
-        0,
-        140
+        "0",
+        "140"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    15,
-                    26
+                    "15",
+                    "26"
                 ],
                 "text": "SecClinton"
             },
             {
                 "indices": [
-                    90,
-                    96
+                    "90",
+                    "96"
                 ],
                 "text": "Libya"
             }
@@ -27,100 +25,25 @@
         "urls": [],
         "user_mentions": [
             {
-                "id": 9624742,
+                "id": "9624742",
                 "id_str": "9624742",
                 "indices": [
-                    3,
-                    13
+                    "3",
+                    "13"
                 ],
                 "name": "Department of State",
                 "screen_name": "StateDept"
             }
         ]
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "RT @StateDept: #SecClinton: With sadness I share news of the death of 4 U.S. personnel in #Libya, including Ambassador Chris Stevens. ht ...",
-    "geo": null,
-    "id": 245868279992836096,
+    "id": "245868279992836097",
     "id_str": "245868279992836097",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
-    "retweet_count": 276,
-    "retweeted": true,
-    "retweeted_status": {
-        "contributors": null,
-        "coordinates": null,
-        "created_at": "Wed Sep 12 12:23:22 +0000 2012",
-        "display_text_range": [
-            0,
-            139
-        ],
-        "entities": {
-            "hashtags": [
-                {
-                    "indices": [
-                        0,
-                        11
-                    ],
-                    "text": "SecClinton"
-                },
-                {
-                    "indices": [
-                        75,
-                        81
-                    ],
-                    "text": "Libya"
-                }
-            ],
-            "symbols": [],
-            "urls": [
-                {
-                    "display_url": "go.usa.gov/rGbR",
-                    "expanded_url": "http://go.usa.gov/rGbR",
-                    "indices": [
-                        119,
-                        139
-                    ],
-                    "url": "http://t.co/uW0Iyt4v"
-                }
-            ],
-            "user_mentions": []
-        },
-        "favorite_count": 16,
-        "favorited": false,
-        "full_text": "#SecClinton: With sadness I share news of the death of 4 U.S. personnel in #Libya, including Ambassador Chris Stevens. http://t.co/uW0Iyt4v",
-        "geo": null,
-        "id": 245860151620423680,
-        "id_str": "245860151620423680",
-        "in_reply_to_screen_name": null,
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "is_quote_status": false,
-        "lang": "en",
-        "place": null,
-        "possibly_sensitive": false,
-        "retweet_count": 276,
-        "retweeted": true,
-        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-        "truncated": false,
-        "user": {
-            "id": 9624742,
-            "id_str": "9624742"
-        }
-    },
+    "retweet_count": "0",
+    "retweeted": false,
     "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

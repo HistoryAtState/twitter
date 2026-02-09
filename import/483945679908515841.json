@@ -1,24 +1,22 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Tue Jul 01 12:10:16 +0000 2014",
     "display_text_range": [
-        0,
-        123
+        "0",
+        "123"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    39,
-                    44
+                    "39",
+                    "44"
                 ],
                 "text": "FRUS"
             },
             {
                 "indices": [
-                    91,
-                    100
+                    "91",
+                    "100"
                 ],
                 "text": "WW1Tweet"
             }
@@ -29,35 +27,23 @@
                 "display_url": "ow.ly/i/62zLh",
                 "expanded_url": "http://ow.ly/i/62zLh",
                 "indices": [
-                    101,
-                    123
+                    "101",
+                    "123"
                 ],
                 "url": "http://t.co/nky19zmzKm"
             }
         ],
         "user_mentions": []
     },
-    "favorite_count": 2,
+    "favorite_count": "2",
     "favorited": false,
     "full_text": "Snail mail took a very long time! Read #FRUS Woodrow Wilson letter to Emperor Franz Joseph #WW1Tweet http://t.co/nky19zmzKm",
-    "geo": null,
-    "id": 483945679908515840,
+    "id": "483945679908515841",
     "id_str": "483945679908515841",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 3,
+    "retweet_count": "2",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

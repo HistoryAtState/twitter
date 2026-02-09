@@ -1,53 +1,51 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Fri Aug 05 18:02:38 +0000 2022",
     "display_text_range": [
-        0,
-        164
+        "0",
+        "188"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    141,
-                    158
+                    "141",
+                    "158"
                 ],
                 "text": "ArchivesPostcard"
             }
         ],
         "media": [
             {
-                "display_url": "pic.twitter.com/PzyvK4ghJ4",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1555615278200922118/photo/1",
-                "id": 1555615275927625730,
+                "display_url": "pic.x.com/PzyvK4ghJ4",
+                "expanded_url": "https://x.com/HistoryAtState/status/1555615278200922118/photo/1",
+                "id": "1555615275927625735",
                 "id_str": "1555615275927625735",
                 "indices": [
-                    165,
-                    188
+                    "165",
+                    "188"
                 ],
                 "media_url": "http://pbs.twimg.com/media/FZan2fjWYAcahxA.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/FZan2fjWYAcahxA.jpg",
                 "sizes": {
                     "large": {
-                        "h": 512,
+                        "h": "512",
                         "resize": "fit",
-                        "w": 1024
+                        "w": "1024"
                     },
                     "medium": {
-                        "h": 512,
+                        "h": "512",
                         "resize": "fit",
-                        "w": 1024
+                        "w": "1024"
                     },
                     "small": {
-                        "h": 340,
+                        "h": "340",
                         "resize": "fit",
-                        "w": 680
+                        "w": "680"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -60,8 +58,8 @@
                 "display_url": "ow.ly/ImLY50KbTsE",
                 "expanded_url": "http://ow.ly/ImLY50KbTsE",
                 "indices": [
-                    116,
-                    139
+                    "116",
+                    "139"
                 ],
                 "url": "https://t.co/1fucQjqWpl"
             }
@@ -71,37 +69,36 @@
     "extended_entities": {
         "media": [
             {
-                "display_url": "pic.twitter.com/PzyvK4ghJ4",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1555615278200922118/photo/1",
-                "ext_alt_text": "Text overlays a 1927 map of Department of State foreign service posts: “Travels Abroad of the Secretary of State; #ArchivesPostcard @HistoryAtState”",
-                "id": 1555615275927625730,
+                "display_url": "pic.x.com/PzyvK4ghJ4",
+                "expanded_url": "https://x.com/HistoryAtState/status/1555615278200922118/photo/1",
+                "id": "1555615275927625735",
                 "id_str": "1555615275927625735",
                 "indices": [
-                    165,
-                    188
+                    "165",
+                    "188"
                 ],
                 "media_url": "http://pbs.twimg.com/media/FZan2fjWYAcahxA.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/FZan2fjWYAcahxA.jpg",
                 "sizes": {
                     "large": {
-                        "h": 512,
+                        "h": "512",
                         "resize": "fit",
-                        "w": 1024
+                        "w": "1024"
                     },
                     "medium": {
-                        "h": 512,
+                        "h": "512",
                         "resize": "fit",
-                        "w": 1024
+                        "w": "1024"
                     },
                     "small": {
-                        "h": 340,
+                        "h": "340",
                         "resize": "fit",
-                        "w": 680
+                        "w": "680"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -109,27 +106,15 @@
             }
         ]
     },
-    "favorite_count": 5,
+    "favorite_count": "3",
     "favorited": false,
     "full_text": "We invite you to explore more “Travels Abroad of the Secretary of State” by secretarial tenure or country visited: \nhttps://t.co/1fucQjqWpl\n\n#ArchivesPostcard\n(1/2) https://t.co/PzyvK4ghJ4",
-    "geo": null,
-    "id": 1555615278200922110,
+    "id": "1555615278200922118",
     "id_str": "1555615278200922118",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 1,
+    "retweet_count": "0",
     "retweeted": false,
     "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

@@ -1,17 +1,15 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Mon Aug 19 12:11:09 +0000 2013",
     "display_text_range": [
-        0,
-        138
+        "0",
+        "138"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    18,
-                    27
+                    "18",
+                    "27"
                 ],
                 "text": "SecState"
             }
@@ -22,46 +20,34 @@
                 "display_url": "go.usa.gov/jNyQ",
                 "expanded_url": "http://go.usa.gov/jNyQ",
                 "indices": [
-                    116,
-                    138
+                    "116",
+                    "138"
                 ],
                 "url": "http://t.co/q7jY8OU9aZ"
             }
         ],
         "user_mentions": [
             {
-                "id": 472830024,
+                "id": "472830024",
                 "id_str": "472830024",
                 "indices": [
-                    106,
-                    113
+                    "106",
+                    "113"
                 ],
-                "name": "US Mission to NATO",
+                "name": "U.S. Mission to NATO",
                 "screen_name": "USNATO"
             }
         ]
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "Edmund Muskie was #SecState for less than a year, so he only traveled to 9 countries (but made 3 stops to @USNATO!) http://t.co/q7jY8OU9aZ",
-    "geo": null,
-    "id": 369431337108652030,
+    "id": "369431337108652032",
     "id_str": "369431337108652032",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 2,
+    "retweet_count": "2",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

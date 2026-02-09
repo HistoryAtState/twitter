@@ -1,24 +1,22 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Mon Mar 21 13:05:52 +0000 2016",
     "display_text_range": [
-        0,
-        132
+        "0",
+        "132"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    85,
-                    90
+                    "85",
+                    "90"
                 ],
                 "text": "Cuba"
             },
             {
                 "indices": [
-                    116,
-                    132
+                    "116",
+                    "132"
                 ],
                 "text": "twitterstorians"
             }
@@ -29,46 +27,34 @@
                 "display_url": "history.state.gov/countries/cuba",
                 "expanded_url": "https://history.state.gov/countries/cuba",
                 "indices": [
-                    92,
-                    115
+                    "92",
+                    "115"
                 ],
                 "url": "https://t.co/TgoMUI65Or"
             }
         ],
         "user_mentions": [
             {
-                "id": 586570880,
+                "id": "586570880",
                 "id_str": "586570880",
                 "indices": [
-                    12,
-                    27
+                    "12",
+                    "27"
                 ],
                 "name": "HistoryAtState",
                 "screen_name": "HistoryAtState"
             }
         ]
     },
-    "favorite_count": 4,
+    "favorite_count": "4",
     "favorited": false,
     "full_text": "Here is the @HistoryAtState guide to U.S. history of recognitions and relations with #Cuba: https://t.co/TgoMUI65Or #twitterstorians",
-    "geo": null,
-    "id": 711901642577285120,
+    "id": "711901642577285120",
     "id_str": "711901642577285120",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 6,
+    "retweet_count": "4",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

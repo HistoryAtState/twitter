@@ -1,17 +1,15 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Fri Apr 04 12:02:53 +0000 2014",
     "display_text_range": [
-        0,
-        120
+        "0",
+        "120"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    93,
-                    97
+                    "93",
+                    "97"
                 ],
                 "text": "WWI"
             }
@@ -22,46 +20,34 @@
                 "display_url": "ow.ly/uZYih",
                 "expanded_url": "http://ow.ly/uZYih",
                 "indices": [
-                    98,
-                    120
+                    "98",
+                    "120"
                 ],
                 "url": "http://t.co/r3D8ic9Bfq"
             }
         ],
         "user_mentions": [
             {
-                "id": 961631816,
+                "id": "961631816",
                 "id_str": "961631816",
                 "indices": [
-                    53,
-                    68
+                    "53",
+                    "68"
                 ],
                 "name": "SMH Historians",
                 "screen_name": "SMH_Historians"
             }
         ]
     },
-    "favorite_count": 1,
+    "favorite_count": "1",
     "favorited": false,
     "full_text": "Bags are packed! Heading to Kansas City for the 2014 @SMH_Historians Conference highlighting #WWI http://t.co/r3D8ic9Bfq",
-    "geo": null,
-    "id": 452053691227725820,
+    "id": "452053691227725824",
     "id_str": "452053691227725824",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 0,
+    "retweet_count": "0",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

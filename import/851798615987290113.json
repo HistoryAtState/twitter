@@ -1,60 +1,58 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Tue Apr 11 14:06:30 +0000 2017",
     "display_text_range": [
-        0,
-        140
+        "0",
+        "164"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    20,
-                    28
+                    "20",
+                    "28"
                 ],
                 "text": "Titanic"
             },
             {
                 "indices": [
-                    111,
-                    116
+                    "111",
+                    "116"
                 ],
                 "text": "FRUS"
             }
         ],
         "media": [
             {
-                "display_url": "pic.twitter.com/zgrNWjelVI",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/851798615987290113/photo/1",
-                "id": 851798613240029180,
+                "display_url": "pic.x.com/zgrNWjelVI",
+                "expanded_url": "https://x.com/HistoryAtState/status/851798615987290113/photo/1",
+                "id": "851798613240029184",
                 "id_str": "851798613240029184",
                 "indices": [
-                    141,
-                    164
+                    "141",
+                    "164"
                 ],
                 "media_url": "http://pbs.twimg.com/media/C9IyU2JXoAA8eoQ.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/C9IyU2JXoAA8eoQ.jpg",
                 "sizes": {
                     "large": {
-                        "h": 545,
+                        "h": "545",
                         "resize": "fit",
-                        "w": 800
+                        "w": "800"
                     },
                     "medium": {
-                        "h": 545,
+                        "h": "545",
                         "resize": "fit",
-                        "w": 800
+                        "w": "800"
                     },
                     "small": {
-                        "h": 463,
+                        "h": "463",
                         "resize": "fit",
-                        "w": 680
+                        "w": "680"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -67,8 +65,8 @@
                 "display_url": "go.usa.gov/xX7gJ",
                 "expanded_url": "https://go.usa.gov/xX7gJ",
                 "indices": [
-                    117,
-                    140
+                    "117",
+                    "140"
                 ],
                 "url": "https://t.co/jwngGjPxFq"
             }
@@ -78,37 +76,36 @@
     "extended_entities": {
         "media": [
             {
-                "display_url": "pic.twitter.com/zgrNWjelVI",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/851798615987290113/photo/1",
-                "ext_alt_text": null,
-                "id": 851798613240029180,
+                "display_url": "pic.x.com/zgrNWjelVI",
+                "expanded_url": "https://x.com/HistoryAtState/status/851798615987290113/photo/1",
+                "id": "851798613240029184",
                 "id_str": "851798613240029184",
                 "indices": [
-                    141,
-                    164
+                    "141",
+                    "164"
                 ],
                 "media_url": "http://pbs.twimg.com/media/C9IyU2JXoAA8eoQ.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/C9IyU2JXoAA8eoQ.jpg",
                 "sizes": {
                     "large": {
-                        "h": 545,
+                        "h": "545",
                         "resize": "fit",
-                        "w": 800
+                        "w": "800"
                     },
                     "medium": {
-                        "h": 545,
+                        "h": "545",
                         "resize": "fit",
-                        "w": 800
+                        "w": "800"
                     },
                     "small": {
-                        "h": 463,
+                        "h": "463",
                         "resize": "fit",
-                        "w": 680
+                        "w": "680"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -116,27 +113,15 @@
             }
         ]
     },
-    "favorite_count": 9,
+    "favorite_count": "9",
     "favorited": false,
     "full_text": "105 yrs ago the RMS #Titanic sank after colliding w/ iceberg. Read international correspondence post-disaster: #FRUS https://t.co/jwngGjPxFq https://t.co/zgrNWjelVI",
-    "geo": null,
-    "id": 851798615987290110,
+    "id": "851798615987290113",
     "id_str": "851798615987290113",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 8,
+    "retweet_count": "8",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

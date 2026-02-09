@@ -1,53 +1,51 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Tue Dec 01 21:01:34 +0000 2020",
     "display_text_range": [
-        0,
-        201
+        "0",
+        "225"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    171,
-                    176
+                    "171",
+                    "176"
                 ],
                 "text": "FRUS"
             }
         ],
         "media": [
             {
-                "display_url": "pic.twitter.com/UvkdSoJSGH",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1333878931150278661/photo/1",
-                "id": 1333878929128611840,
+                "display_url": "pic.x.com/UvkdSoJSGH",
+                "expanded_url": "https://x.com/HistoryAtState/status/1333878931150278661/photo/1",
+                "id": "1333878929128611843",
                 "id_str": "1333878929128611843",
                 "indices": [
-                    202,
-                    225
+                    "202",
+                    "225"
                 ],
                 "media_url": "http://pbs.twimg.com/media/EoLj0aAW4AMq6Yj.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/EoLj0aAW4AMq6Yj.jpg",
                 "sizes": {
                     "large": {
-                        "h": 1238,
+                        "h": "1238",
                         "resize": "fit",
-                        "w": 1008
+                        "w": "1008"
                     },
                     "medium": {
-                        "h": 1200,
+                        "h": "1200",
                         "resize": "fit",
-                        "w": 977
+                        "w": "977"
                     },
                     "small": {
-                        "h": 680,
+                        "h": "680",
                         "resize": "fit",
-                        "w": 554
+                        "w": "554"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -60,8 +58,8 @@
                 "display_url": "history.state.gov/historicaldocu…",
                 "expanded_url": "https://history.state.gov/historicaldocuments/frus1981-88v05/d99",
                 "indices": [
-                    178,
-                    201
+                    "178",
+                    "201"
                 ],
                 "url": "https://t.co/vSsZyIDoKQ"
             }
@@ -71,37 +69,36 @@
     "extended_entities": {
         "media": [
             {
-                "display_url": "pic.twitter.com/UvkdSoJSGH",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1333878931150278661/photo/1",
-                "ext_alt_text": "Screenshot of the first page of the Memorandum of Conversation, dated September 25, 1985, 2 to 6 pm:  “Shevardnadze opened the meeting by stating that he hoped it would be productive and continue the dialogue which he had started with the Secretary in Helsinki… all of his interlocutors have brought up the summit meeting between Gorbachev and Reagan in November and had expressed their keen interest.”",
-                "id": 1333878929128611840,
+                "display_url": "pic.x.com/UvkdSoJSGH",
+                "expanded_url": "https://x.com/HistoryAtState/status/1333878931150278661/photo/1",
+                "id": "1333878929128611843",
                 "id_str": "1333878929128611843",
                 "indices": [
-                    202,
-                    225
+                    "202",
+                    "225"
                 ],
                 "media_url": "http://pbs.twimg.com/media/EoLj0aAW4AMq6Yj.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/EoLj0aAW4AMq6Yj.jpg",
                 "sizes": {
                     "large": {
-                        "h": 1238,
+                        "h": "1238",
                         "resize": "fit",
-                        "w": 1008
+                        "w": "1008"
                     },
                     "medium": {
-                        "h": 1200,
+                        "h": "1200",
                         "resize": "fit",
-                        "w": 977
+                        "w": "977"
                     },
                     "small": {
-                        "h": 680,
+                        "h": "680",
                         "resize": "fit",
-                        "w": 554
+                        "w": "554"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -109,27 +106,15 @@
             }
         ]
     },
-    "favorite_count": 8,
+    "favorite_count": "6",
     "favorited": false,
     "full_text": "How did Secretary of State George Shultz use his golf game to talk with Soviet Foreign Minister Eduard Shevardnadze about “deep cuts” in nuclear weapons? Hit the green in #FRUS:\nhttps://t.co/vSsZyIDoKQ https://t.co/UvkdSoJSGH",
-    "geo": null,
-    "id": 1333878931150278660,
+    "id": "1333878931150278661",
     "id_str": "1333878931150278661",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 3,
+    "retweet_count": "2",
     "retweeted": false,
     "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

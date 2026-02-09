@@ -1,24 +1,22 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Tue Jun 18 13:16:49 +0000 2013",
     "display_text_range": [
-        0,
-        126
+        "0",
+        "126"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    90,
-                    97
+                    "90",
+                    "97"
                 ],
                 "text": "Senate"
             },
             {
                 "indices": [
-                    110,
-                    126
+                    "110",
+                    "126"
                 ],
                 "text": "Twitterstorians"
             }
@@ -27,37 +25,25 @@
         "urls": [],
         "user_mentions": [
             {
-                "id": 1428441589,
+                "id": "1428441589",
                 "id_str": "1428441589",
                 "indices": [
-                    33,
-                    47
+                    "33",
+                    "47"
                 ],
                 "name": "U.S. Senate History",
                 "screen_name": "SenateHistory"
             }
         ]
     },
-    "favorite_count": 3,
+    "favorite_count": "1",
     "favorited": false,
     "full_text": "We'd like to welcome our friends @SenateHistory to Twitter! Looking forward to updates on #Senate history for #Twitterstorians",
-    "geo": null,
-    "id": 346979814806269950,
+    "id": "346979814806269952",
     "id_str": "346979814806269952",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
-    "retweet_count": 7,
+    "retweet_count": "5",
     "retweeted": false,
     "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

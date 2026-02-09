@@ -1,67 +1,65 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Tue Nov 29 21:00:55 +0000 2016",
     "display_text_range": [
-        0,
-        137
+        "0",
+        "161"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    92,
-                    97
+                    "92",
+                    "97"
                 ],
                 "text": "FRUS"
             },
             {
                 "indices": [
-                    98,
-                    114
+                    "98",
+                    "114"
                 ],
                 "text": "twitterstorians"
             },
             {
                 "indices": [
-                    115,
-                    137
+                    "115",
+                    "137"
                 ],
                 "text": "everythinghasahistory"
             }
         ],
         "media": [
             {
-                "display_url": "pic.twitter.com/HwPl2QyDWl",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/803705322032533504/photo/1",
-                "id": 803705319629225980,
+                "display_url": "pic.x.com/HwPl2QyDWl",
+                "expanded_url": "https://x.com/HistoryAtState/status/803705322032533504/photo/1",
+                "id": "803705319629225988",
                 "id_str": "803705319629225988",
                 "indices": [
-                    138,
-                    161
+                    "138",
+                    "161"
                 ],
                 "media_url": "http://pbs.twimg.com/media/CydVuuCXgAQqAOy.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/CydVuuCXgAQqAOy.jpg",
                 "sizes": {
                     "large": {
-                        "h": 113,
+                        "h": "113",
                         "resize": "fit",
-                        "w": 213
+                        "w": "213"
                     },
                     "medium": {
-                        "h": 113,
+                        "h": "113",
                         "resize": "fit",
-                        "w": 213
+                        "w": "213"
                     },
                     "small": {
-                        "h": 113,
+                        "h": "113",
                         "resize": "fit",
-                        "w": 213
+                        "w": "213"
                     },
                     "thumb": {
-                        "h": 113,
+                        "h": "113",
                         "resize": "crop",
-                        "w": 113
+                        "w": "113"
                     }
                 },
                 "type": "photo",
@@ -74,19 +72,19 @@
                 "display_url": "go.usa.gov/x8NDJ",
                 "expanded_url": "http://go.usa.gov/x8NDJ",
                 "indices": [
-                    68,
-                    91
+                    "68",
+                    "91"
                 ],
                 "url": "https://t.co/YZJQCn06Fo"
             }
         ],
         "user_mentions": [
             {
-                "id": 133769083,
+                "id": "133769083",
                 "id_str": "133769083",
                 "indices": [
-                    9,
-                    19
+                    "9",
+                    "19"
                 ],
                 "name": "Embajada de los Estados Unidos en Cuba",
                 "screen_name": "USEmbCuba"
@@ -96,37 +94,36 @@
     "extended_entities": {
         "media": [
             {
-                "display_url": "pic.twitter.com/HwPl2QyDWl",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/803705322032533504/photo/1",
-                "ext_alt_text": null,
-                "id": 803705319629225980,
+                "display_url": "pic.x.com/HwPl2QyDWl",
+                "expanded_url": "https://x.com/HistoryAtState/status/803705322032533504/photo/1",
+                "id": "803705319629225988",
                 "id_str": "803705319629225988",
                 "indices": [
-                    138,
-                    161
+                    "138",
+                    "161"
                 ],
                 "media_url": "http://pbs.twimg.com/media/CydVuuCXgAQqAOy.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/CydVuuCXgAQqAOy.jpg",
                 "sizes": {
                     "large": {
-                        "h": 113,
+                        "h": "113",
                         "resize": "fit",
-                        "w": 213
+                        "w": "213"
                     },
                     "medium": {
-                        "h": 113,
+                        "h": "113",
                         "resize": "fit",
-                        "w": 213
+                        "w": "213"
                     },
                     "small": {
-                        "h": 113,
+                        "h": "113",
                         "resize": "fit",
-                        "w": 213
+                        "w": "213"
                     },
                     "thumb": {
-                        "h": 113,
+                        "h": "113",
                         "resize": "crop",
-                        "w": 113
+                        "w": "113"
                     }
                 },
                 "type": "photo",
@@ -134,27 +131,15 @@
             }
         ]
     },
-    "favorite_count": 1,
+    "favorite_count": "1",
     "favorited": false,
     "full_text": "In 1959, @USEmbCuba  predicts reconciliation of US-Cuban relations: https://t.co/YZJQCn06Fo #FRUS #twitterstorians #everythinghasahistory https://t.co/HwPl2QyDWl",
-    "geo": null,
-    "id": 803705322032533500,
+    "id": "803705322032533504",
     "id_str": "803705322032533504",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 0,
+    "retweet_count": "0",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

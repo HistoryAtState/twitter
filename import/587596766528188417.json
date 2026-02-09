@@ -1,24 +1,22 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Mon Apr 13 12:42:40 +0000 2015",
     "display_text_range": [
-        0,
-        134
+        "0",
+        "134"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    17,
-                    27
+                    "17",
+                    "27"
                 ],
                 "text": "icedd2015"
             },
             {
                 "indices": [
-                    118,
-                    134
+                    "118",
+                    "134"
                 ],
                 "text": "twitterstorians"
             }
@@ -29,56 +27,44 @@
                 "display_url": "diplomatic-documents.org/washington-2015",
                 "expanded_url": "http://diplomatic-documents.org/washington-2015",
                 "indices": [
-                    84,
-                    106
+                    "84",
+                    "106"
                 ],
                 "url": "http://t.co/UlSDu3ywTg"
             }
         ],
         "user_mentions": [
             {
-                "id": 3149266733,
+                "id": "3149266733",
                 "id_str": "3149266733",
                 "indices": [
-                    59,
-                    72
+                    "59",
+                    "72"
                 ],
                 "name": "Canada Trade",
                 "screen_name": "Canada_Trade"
             },
             {
-                "id": 3131310616,
+                "id": "3131310616",
                 "id_str": "3131310616",
                 "indices": [
-                    107,
-                    117
+                    "107",
+                    "117"
                 ],
                 "name": "ICEDD",
                 "screen_name": "icedd_org"
             }
         ]
     },
-    "favorite_count": 4,
+    "favorite_count": "3",
     "favorited": false,
     "full_text": "Proud to co-host #icedd2015 with the Historical Section of @Canada_Trade this week: http://t.co/UlSDu3ywTg @icedd_org #twitterstorians",
-    "geo": null,
-    "id": 587596766528188420,
+    "id": "587596766528188417",
     "id_str": "587596766528188417",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 4,
+    "retweet_count": "3",
     "retweeted": false,
     "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

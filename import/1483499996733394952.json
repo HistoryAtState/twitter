@@ -1,60 +1,58 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Tue Jan 18 18:02:15 +0000 2022",
     "display_text_range": [
-        0,
-        261
+        "0",
+        "285"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    205,
-                    210
+                    "205",
+                    "210"
                 ],
                 "text": "FRUS"
             },
             {
                 "indices": [
-                    223,
-                    227
+                    "223",
+                    "227"
                 ],
                 "text": "HAC"
             }
         ],
         "media": [
             {
-                "display_url": "pic.twitter.com/K7JqtLCmpR",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1483499996733394952/photo/1",
-                "id": 1483499995558989820,
+                "display_url": "pic.x.com/K7JqtLCmpR",
+                "expanded_url": "https://x.com/HistoryAtState/status/1483499996733394952/photo/1",
+                "id": "1483499995558989826",
                 "id_str": "1483499995558989826",
                 "indices": [
-                    262,
-                    285
+                    "262",
+                    "285"
                 ],
                 "media_url": "http://pbs.twimg.com/media/FJZzYtOWUAI4tVe.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/FJZzYtOWUAI4tVe.jpg",
                 "sizes": {
                     "large": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "fit",
-                        "w": 150
+                        "w": "150"
                     },
                     "medium": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "fit",
-                        "w": 150
+                        "w": "150"
                     },
                     "small": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "fit",
-                        "w": 150
+                        "w": "150"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -67,39 +65,39 @@
                 "display_url": "ow.ly/RuAc50HwZtM",
                 "expanded_url": "http://ow.ly/RuAc50HwZtM",
                 "indices": [
-                    238,
-                    261
+                    "238",
+                    "261"
                 ],
                 "url": "https://t.co/Z64f2pQrmi"
             }
         ],
         "user_mentions": [
             {
-                "id": 101802390,
+                "id": "101802390",
                 "id_str": "101802390",
                 "indices": [
-                    94,
-                    108
+                    "94",
+                    "108"
                 ],
-                "name": "US National Archives",
+                "name": "U.S. National Archives",
                 "screen_name": "USNatArchives"
             },
             {
-                "id": 113729414,
+                "id": "113729414",
                 "id_str": "113729414",
                 "indices": [
-                    124,
-                    135
+                    "124",
+                    "135"
                 ],
                 "name": "LBJ Library",
                 "screen_name": "LBJLibrary"
             },
             {
-                "id": 586570880,
+                "id": "586570880",
                 "id_str": "586570880",
                 "indices": [
-                    153,
-                    168
+                    "153",
+                    "168"
                 ],
                 "name": "HistoryAtState",
                 "screen_name": "HistoryAtState"
@@ -109,37 +107,36 @@
     "extended_entities": {
         "media": [
             {
-                "display_url": "pic.twitter.com/K7JqtLCmpR",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1483499996733394952/photo/1",
-                "ext_alt_text": "Black-and-white headshot of David C. Humphrey, with white beard and glasses and in a suit and tie. Source: Legacy.com obituary",
-                "id": 1483499995558989820,
+                "display_url": "pic.x.com/K7JqtLCmpR",
+                "expanded_url": "https://x.com/HistoryAtState/status/1483499996733394952/photo/1",
+                "id": "1483499995558989826",
                 "id_str": "1483499995558989826",
                 "indices": [
-                    262,
-                    285
+                    "262",
+                    "285"
                 ],
                 "media_url": "http://pbs.twimg.com/media/FJZzYtOWUAI4tVe.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/FJZzYtOWUAI4tVe.jpg",
                 "sizes": {
                     "large": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "fit",
-                        "w": 150
+                        "w": "150"
                     },
                     "medium": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "fit",
-                        "w": 150
+                        "w": "150"
                     },
                     "small": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "fit",
-                        "w": 150
+                        "w": "150"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -147,27 +144,15 @@
             }
         ]
     },
-    "favorite_count": 6,
+    "favorite_count": "5",
     "favorited": false,
     "full_text": "We mourn the passing of David C. Humphrey, who contributed to the Foreign Relations series as @USNatArchives archivist with @LBJLibrary and historian at @HistoryAtState.\n\nHumphrey has been acknowledged in #FRUS volumes and #HAC meetings:\nhttps://t.co/Z64f2pQrmi https://t.co/K7JqtLCmpR",
-    "geo": null,
-    "id": 1483499996733394940,
+    "id": "1483499996733394952",
     "id_str": "1483499996733394952",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 3,
+    "retweet_count": "2",
     "retweeted": false,
     "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

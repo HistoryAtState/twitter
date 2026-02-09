@@ -1,60 +1,58 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Mon Apr 17 17:55:04 +0000 2017",
     "display_text_range": [
-        0,
-        134
+        "0",
+        "158"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    78,
-                    104
+                    "78",
+                    "104"
                 ],
                 "text": "arabamericanheritagemonth"
             },
             {
                 "indices": [
-                    129,
-                    134
+                    "129",
+                    "134"
                 ],
                 "text": "FRUS"
             }
         ],
         "media": [
             {
-                "display_url": "pic.twitter.com/AFfybNVRvN",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/854030465359122437/photo/1",
-                "id": 854030463433932800,
+                "display_url": "pic.x.com/AFfybNVRvN",
+                "expanded_url": "https://x.com/HistoryAtState/status/854030465359122437/photo/1",
+                "id": "854030463433932801",
                 "id_str": "854030463433932801",
                 "indices": [
-                    135,
-                    158
+                    "135",
+                    "158"
                 ],
                 "media_url": "http://pbs.twimg.com/media/C9ogLoBXgAE-RRB.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/C9ogLoBXgAE-RRB.jpg",
                 "sizes": {
                     "large": {
-                        "h": 597,
+                        "h": "597",
                         "resize": "fit",
-                        "w": 478
+                        "w": "478"
                     },
                     "medium": {
-                        "h": 597,
+                        "h": "597",
                         "resize": "fit",
-                        "w": 478
+                        "w": "478"
                     },
                     "small": {
-                        "h": 597,
+                        "h": "597",
                         "resize": "fit",
-                        "w": 478
+                        "w": "478"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -67,8 +65,8 @@
                 "display_url": "go.usa.gov/xXnv6",
                 "expanded_url": "https://go.usa.gov/xXnv6",
                 "indices": [
-                    105,
-                    128
+                    "105",
+                    "128"
                 ],
                 "url": "https://t.co/pujxU2WefV"
             }
@@ -78,37 +76,36 @@
     "extended_entities": {
         "media": [
             {
-                "display_url": "pic.twitter.com/AFfybNVRvN",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/854030465359122437/photo/1",
-                "ext_alt_text": null,
-                "id": 854030463433932800,
+                "display_url": "pic.x.com/AFfybNVRvN",
+                "expanded_url": "https://x.com/HistoryAtState/status/854030465359122437/photo/1",
+                "id": "854030463433932801",
                 "id_str": "854030463433932801",
                 "indices": [
-                    135,
-                    158
+                    "135",
+                    "158"
                 ],
                 "media_url": "http://pbs.twimg.com/media/C9ogLoBXgAE-RRB.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/C9ogLoBXgAE-RRB.jpg",
                 "sizes": {
                     "large": {
-                        "h": 597,
+                        "h": "597",
                         "resize": "fit",
-                        "w": 478
+                        "w": "478"
                     },
                     "medium": {
-                        "h": 597,
+                        "h": "597",
                         "resize": "fit",
-                        "w": 478
+                        "w": "478"
                     },
                     "small": {
-                        "h": 597,
+                        "h": "597",
                         "resize": "fit",
-                        "w": 478
+                        "w": "478"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -116,27 +113,15 @@
             }
         ]
     },
-    "favorite_count": 6,
+    "favorite_count": "4",
     "favorited": false,
     "full_text": "Philip Habib: US diplomat known for ME peace efforts, won Pres Med of Freedom #arabamericanheritagemonth https://t.co/pujxU2WefV #FRUS https://t.co/AFfybNVRvN",
-    "geo": null,
-    "id": 854030465359122430,
+    "id": "854030465359122437",
     "id_str": "854030465359122437",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 3,
+    "retweet_count": "3",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

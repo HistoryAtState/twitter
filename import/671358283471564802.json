@@ -1,24 +1,22 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Mon Nov 30 16:01:02 +0000 2015",
     "display_text_range": [
-        0,
-        122
+        "0",
+        "122"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    100,
-                    105
+                    "100",
+                    "105"
                 ],
                 "text": "FRUS"
             },
             {
                 "indices": [
-                    106,
-                    122
+                    "106",
+                    "122"
                 ],
                 "text": "twitterstorians"
             }
@@ -29,35 +27,23 @@
                 "display_url": "go.usa.gov/cgEAV",
                 "expanded_url": "http://go.usa.gov/cgEAV",
                 "indices": [
-                    76,
-                    99
+                    "76",
+                    "99"
                 ],
                 "url": "https://t.co/1YlbzaUDfG"
             }
         ],
         "user_mentions": []
     },
-    "favorite_count": 1,
+    "favorite_count": "1",
     "favorited": false,
     "full_text": "Read about the Carter admin’s return of the Crown of St Stephen to Hungary. https://t.co/1YlbzaUDfG #FRUS #twitterstorians",
-    "geo": null,
-    "id": 671358283471564800,
+    "id": "671358283471564802",
     "id_str": "671358283471564802",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 1,
+    "retweet_count": "1",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

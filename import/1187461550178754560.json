@@ -1,10 +1,8 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Thu Oct 24 20:11:10 +0000 2019",
     "display_text_range": [
-        0,
-        140
+        "0",
+        "140"
     ],
     "entities": {
         "hashtags": [],
@@ -12,179 +10,25 @@
         "urls": [],
         "user_mentions": [
             {
-                "id": 958044239576948740,
-                "id_str": "958044239576948736",
+                "id": "-1",
+                "id_str": "-1",
                 "indices": [
-                    3,
-                    14
+                    "3",
+                    "14"
                 ],
-                "name": "Foreign Service Institute",
+                "name": "",
                 "screen_name": "FSIatState"
             }
         ]
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "RT @FSIatState: Proud to recognize the contributions of U.S. diplomats during World War I. Amb Gerard and his staff facilitated American Re…",
-    "geo": null,
-    "id": 1187461550178754560,
+    "id": "1187461550178754560",
     "id_str": "1187461550178754560",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
-    "retweet_count": 2,
-    "retweeted": true,
-    "retweeted_status": {
-        "contributors": null,
-        "coordinates": null,
-        "created_at": "Thu Oct 24 14:05:10 +0000 2019",
-        "display_text_range": [
-            0,
-            273
-        ],
-        "entities": {
-            "hashtags": [
-                {
-                    "indices": [
-                        217,
-                        221
-                    ],
-                    "text": "WWI"
-                },
-                {
-                    "indices": [
-                        222,
-                        242
-                    ],
-                    "text": "HeroesofUSDiplomacy"
-                }
-            ],
-            "media": [
-                {
-                    "display_url": "pic.twitter.com/zg3sYLjqMV",
-                    "expanded_url": "https://twitter.com/FSIatState/status/1187369445196476416/photo/1",
-                    "id": 1187369443317432320,
-                    "id_str": "1187369443317432321",
-                    "indices": [
-                        274,
-                        297
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/EHpiN74WwAEo7Hj.png",
-                    "media_url_https": "https://pbs.twimg.com/media/EHpiN74WwAEo7Hj.png",
-                    "sizes": {
-                        "large": {
-                            "h": 503,
-                            "resize": "fit",
-                            "w": 843
-                        },
-                        "medium": {
-                            "h": 503,
-                            "resize": "fit",
-                            "w": 843
-                        },
-                        "small": {
-                            "h": 406,
-                            "resize": "fit",
-                            "w": 680
-                        },
-                        "thumb": {
-                            "h": 150,
-                            "resize": "crop",
-                            "w": 150
-                        }
-                    },
-                    "type": "photo",
-                    "url": "https://t.co/zg3sYLjqMV"
-                }
-            ],
-            "symbols": [],
-            "urls": [
-                {
-                    "display_url": "go.usa.gov/xp3FN",
-                    "expanded_url": "http://go.usa.gov/xp3FN",
-                    "indices": [
-                        249,
-                        272
-                    ],
-                    "url": "https://t.co/4D5leJ3WJC"
-                }
-            ],
-            "user_mentions": []
-        },
-        "extended_entities": {
-            "media": [
-                {
-                    "display_url": "pic.twitter.com/zg3sYLjqMV",
-                    "expanded_url": "https://twitter.com/FSIatState/status/1187369445196476416/photo/1",
-                    "ext_alt_text": null,
-                    "id": 1187369443317432320,
-                    "id_str": "1187369443317432321",
-                    "indices": [
-                        274,
-                        297
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/EHpiN74WwAEo7Hj.png",
-                    "media_url_https": "https://pbs.twimg.com/media/EHpiN74WwAEo7Hj.png",
-                    "sizes": {
-                        "large": {
-                            "h": 503,
-                            "resize": "fit",
-                            "w": 843
-                        },
-                        "medium": {
-                            "h": 503,
-                            "resize": "fit",
-                            "w": 843
-                        },
-                        "small": {
-                            "h": 406,
-                            "resize": "fit",
-                            "w": 680
-                        },
-                        "thumb": {
-                            "h": 150,
-                            "resize": "crop",
-                            "w": 150
-                        }
-                    },
-                    "type": "photo",
-                    "url": "https://t.co/zg3sYLjqMV"
-                }
-            ]
-        },
-        "favorite_count": 2,
-        "favorited": false,
-        "full_text": "Proud to recognize the contributions of U.S. diplomats during World War I. Amb Gerard and his staff facilitated American Red Cross hospital units’ arrival to treat soldiers behind German lines. Learn more about these #WWI #HeroesofUSDiplomacy here: https://t.co/4D5leJ3WJC. https://t.co/zg3sYLjqMV",
-        "geo": null,
-        "id": 1187369445196476420,
-        "id_str": "1187369445196476416",
-        "in_reply_to_screen_name": null,
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "is_quote_status": false,
-        "lang": "en",
-        "place": null,
-        "possibly_sensitive": false,
-        "retweet_count": 2,
-        "retweeted": true,
-        "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
-        "truncated": false,
-        "user": {
-            "id": 958044239576948740,
-            "id_str": "958044239576948736"
-        }
-    },
+    "retweet_count": "0",
+    "retweeted": false,
     "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

@@ -1,24 +1,22 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Thu Sep 20 14:07:13 +0000 2012",
     "display_text_range": [
-        0,
-        140
+        "0",
+        "140"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    55,
-                    63
+                    "55",
+                    "63"
                 ],
                 "text": "Twitter"
             },
             {
                 "indices": [
-                    96,
-                    102
+                    "96",
+                    "102"
                 ],
                 "text": "Syria"
             }
@@ -27,137 +25,45 @@
         "urls": [],
         "user_mentions": [
             {
-                "id": 9624742,
+                "id": "9624742",
                 "id_str": "9624742",
                 "indices": [
-                    3,
-                    13
+                    "3",
+                    "13"
                 ],
                 "name": "Department of State",
                 "screen_name": "StateDept"
             },
             {
-                "id": 561447826,
+                "id": "561447826",
                 "id_str": "561447826",
                 "indices": [
-                    20,
-                    29
+                    "20",
+                    "29"
                 ],
-                "name": "Population, Refugees, and Migration Bureau",
+                "name": "Bureau of Population, Refugees, and Migration",
                 "screen_name": "StatePRM"
             },
             {
-                "id": 410492166,
+                "id": "410492166",
                 "id_str": "410492166",
                 "indices": [
-                    34,
-                    48
+                    "34",
+                    "48"
                 ],
                 "name": "Nancy Lindborg",
                 "screen_name": "nancylindborg"
             }
         ]
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "RT @StateDept: Join @StatePRM and @NancyLindborg for a #Twitter Q&amp;amp;A on humanitarian aid and #Syria 11:30 AM EDT 9/20. Send ?'s using ...",
-    "geo": null,
-    "id": 248785390029385728,
+    "id": "248785390029385728",
     "id_str": "248785390029385728",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
-    "retweet_count": 10,
-    "retweeted": true,
-    "retweeted_status": {
-        "contributors": null,
-        "coordinates": null,
-        "created_at": "Thu Sep 20 13:58:16 +0000 2012",
-        "display_text_range": [
-            0,
-            132
-        ],
-        "entities": {
-            "hashtags": [
-                {
-                    "indices": [
-                        40,
-                        48
-                    ],
-                    "text": "Twitter"
-                },
-                {
-                    "indices": [
-                        81,
-                        87
-                    ],
-                    "text": "Syria"
-                },
-                {
-                    "indices": [
-                        122,
-                        131
-                    ],
-                    "text": "AskState"
-                }
-            ],
-            "symbols": [],
-            "urls": [],
-            "user_mentions": [
-                {
-                    "id": 561447826,
-                    "id_str": "561447826",
-                    "indices": [
-                        5,
-                        14
-                    ],
-                    "name": "Population, Refugees, and Migration Bureau",
-                    "screen_name": "StatePRM"
-                },
-                {
-                    "id": 410492166,
-                    "id_str": "410492166",
-                    "indices": [
-                        19,
-                        33
-                    ],
-                    "name": "Nancy Lindborg",
-                    "screen_name": "nancylindborg"
-                }
-            ]
-        },
-        "favorite_count": 0,
-        "favorited": false,
-        "full_text": "Join @StatePRM and @NancyLindborg for a #Twitter Q&amp;amp;A on humanitarian aid and #Syria 11:30 AM EDT 9/20. Send ?'s using #AskState.",
-        "geo": null,
-        "id": 248783137247739904,
-        "id_str": "248783137247739904",
-        "in_reply_to_screen_name": null,
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "is_quote_status": false,
-        "lang": "en",
-        "place": null,
-        "retweet_count": 10,
-        "retweeted": true,
-        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-        "truncated": false,
-        "user": {
-            "id": 9624742,
-            "id_str": "9624742"
-        }
-    },
+    "retweet_count": "0",
+    "retweeted": false,
     "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

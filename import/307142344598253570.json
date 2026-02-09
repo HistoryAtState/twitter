@@ -1,10 +1,8 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Thu Feb 28 14:56:56 +0000 2013",
     "display_text_range": [
-        0,
-        121
+        "0",
+        "121"
     ],
     "entities": {
         "hashtags": [],
@@ -14,94 +12,34 @@
                 "display_url": "history.state.gov/historicaldocu…",
                 "expanded_url": "http://history.state.gov/historicaldocuments/frus1958-60v10p2/d29",
                 "indices": [
-                    99,
-                    121
+                    "99",
+                    "121"
                 ],
                 "url": "http://t.co/LJ46HVdrlX"
             }
         ],
         "user_mentions": [
             {
-                "id": 293121508,
+                "id": "293121508",
                 "id_str": "293121508",
                 "indices": [
-                    3,
-                    16
+                    "3",
+                    "16"
                 ],
                 "name": "Rose Gottemoeller",
                 "screen_name": "Gottemoeller"
             }
         ]
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "RT @Gottemoeller: In memory of Van Cliburn, this historic cable out of Moscow tells a great story.\nhttp://t.co/LJ46HVdrlX",
-    "geo": null,
-    "id": 307142344598253570,
+    "id": "307142344598253570",
     "id_str": "307142344598253570",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 10,
-    "retweeted": true,
-    "retweeted_status": {
-        "contributors": null,
-        "coordinates": null,
-        "created_at": "Thu Feb 28 14:53:19 +0000 2013",
-        "display_text_range": [
-            0,
-            103
-        ],
-        "entities": {
-            "hashtags": [],
-            "symbols": [],
-            "urls": [
-                {
-                    "display_url": "history.state.gov/historicaldocu…",
-                    "expanded_url": "http://history.state.gov/historicaldocuments/frus1958-60v10p2/d29",
-                    "indices": [
-                        81,
-                        103
-                    ],
-                    "url": "http://t.co/LJ46HVdrlX"
-                }
-            ],
-            "user_mentions": []
-        },
-        "favorite_count": 2,
-        "favorited": false,
-        "full_text": "In memory of Van Cliburn, this historic cable out of Moscow tells a great story.\nhttp://t.co/LJ46HVdrlX",
-        "geo": null,
-        "id": 307141435495415810,
-        "id_str": "307141435495415809",
-        "in_reply_to_screen_name": null,
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "is_quote_status": false,
-        "lang": "en",
-        "place": null,
-        "possibly_sensitive": false,
-        "retweet_count": 10,
-        "retweeted": true,
-        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-        "truncated": false,
-        "user": {
-            "id": 293121508,
-            "id_str": "293121508"
-        }
-    },
+    "retweet_count": "0",
+    "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

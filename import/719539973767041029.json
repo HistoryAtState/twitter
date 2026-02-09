@@ -1,53 +1,51 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Mon Apr 11 14:57:52 +0000 2016",
     "display_text_range": [
-        0,
-        140
+        "0",
+        "140"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    105,
-                    116
+                    "105",
+                    "116"
                 ],
                 "text": "DCArchWeek"
             }
         ],
         "media": [
             {
-                "display_url": "pic.twitter.com/UCXag9Dez7",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/719539973767041029/photo/1",
-                "id": 719539973033209860,
+                "display_url": "pic.x.com/UCXag9Dez7",
+                "expanded_url": "https://x.com/HistoryAtState/status/719539973767041029/photo/1",
+                "id": "719539973033209856",
                 "id_str": "719539973033209856",
                 "indices": [
-                    117,
-                    140
+                    "117",
+                    "140"
                 ],
                 "media_url": "http://pbs.twimg.com/media/CfxRyw5WsAAEeJY.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/CfxRyw5WsAAEeJY.jpg",
                 "sizes": {
                     "large": {
-                        "h": 600,
+                        "h": "600",
                         "resize": "fit",
-                        "w": 792
+                        "w": "792"
                     },
                     "medium": {
-                        "h": 600,
+                        "h": "600",
                         "resize": "fit",
-                        "w": 792
+                        "w": "792"
                     },
                     "small": {
-                        "h": 515,
+                        "h": "515",
                         "resize": "fit",
-                        "w": 680
+                        "w": "680"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -60,8 +58,8 @@
                 "display_url": "history.state.gov/departmenthist…",
                 "expanded_url": "https://history.state.gov/departmenthistory/buildings/section20",
                 "indices": [
-                    81,
-                    104
+                    "81",
+                    "104"
                 ],
                 "url": "https://t.co/kaWtph3pEr"
             }
@@ -71,37 +69,36 @@
     "extended_entities": {
         "media": [
             {
-                "display_url": "pic.twitter.com/UCXag9Dez7",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/719539973767041029/photo/1",
-                "ext_alt_text": null,
-                "id": 719539973033209860,
+                "display_url": "pic.x.com/UCXag9Dez7",
+                "expanded_url": "https://x.com/HistoryAtState/status/719539973767041029/photo/1",
+                "id": "719539973033209856",
                 "id_str": "719539973033209856",
                 "indices": [
-                    117,
-                    140
+                    "117",
+                    "140"
                 ],
                 "media_url": "http://pbs.twimg.com/media/CfxRyw5WsAAEeJY.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/CfxRyw5WsAAEeJY.jpg",
                 "sizes": {
                     "large": {
-                        "h": 600,
+                        "h": "600",
                         "resize": "fit",
-                        "w": 792
+                        "w": "792"
                     },
                     "medium": {
-                        "h": 600,
+                        "h": "600",
                         "resize": "fit",
-                        "w": 792
+                        "w": "792"
                     },
                     "small": {
-                        "h": 515,
+                        "h": "515",
                         "resize": "fit",
-                        "w": 680
+                        "w": "680"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -109,27 +106,15 @@
             }
         ]
     },
-    "favorite_count": 4,
+    "favorite_count": "4",
     "favorited": false,
     "full_text": "The 1st home of the State Dept in Washington, DC was the Treasury Dept Building: https://t.co/kaWtph3pEr #DCArchWeek https://t.co/UCXag9Dez7",
-    "geo": null,
-    "id": 719539973767041020,
+    "id": "719539973767041029",
     "id_str": "719539973767041029",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 4,
+    "retweet_count": "3",
     "retweeted": false,
     "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

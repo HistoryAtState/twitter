@@ -1,17 +1,15 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Mon May 14 14:15:10 +0000 2018",
     "display_text_range": [
-        0,
-        242
+        "0",
+        "242"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    226,
-                    242
+                    "226",
+                    "242"
                 ],
                 "text": "twitterstorians"
             }
@@ -22,46 +20,34 @@
                 "display_url": "go.usa.gov/xQN6F",
                 "expanded_url": "https://go.usa.gov/xQN6F",
                 "indices": [
-                    202,
-                    225
+                    "202",
+                    "225"
                 ],
                 "url": "https://t.co/FpLbQtmjJx"
             }
         ],
         "user_mentions": [
             {
-                "id": 9624742,
+                "id": "9624742",
                 "id_str": "9624742",
                 "indices": [
-                    37,
-                    47
+                    "37",
+                    "47"
                 ],
                 "name": "Department of State",
                 "screen_name": "StateDept"
             }
         ]
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "Between October 12 and 22, 2001, the @StateDept’s main mail processing center in Sterling, VA, was closed after an anthrax-contaminated letter was routed there after the September 11 terrorist attacks. https://t.co/FpLbQtmjJx #twitterstorians",
-    "geo": null,
-    "id": 996031168092037120,
+    "id": "996031168092037121",
     "id_str": "996031168092037121",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 0,
+    "retweet_count": "0",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

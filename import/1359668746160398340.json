@@ -1,45 +1,43 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Thu Feb 11 01:01:05 +0000 2021",
     "display_text_range": [
-        0,
-        202
+        "0",
+        "226"
     ],
     "entities": {
         "hashtags": [],
         "media": [
             {
-                "display_url": "pic.twitter.com/WBjFeu0FoE",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1359668746160398340/photo/1",
-                "id": 1359668743983554560,
+                "display_url": "pic.x.com/WBjFeu0FoE",
+                "expanded_url": "https://x.com/HistoryAtState/status/1359668746160398340/photo/1",
+                "id": "1359668743983554560",
                 "id_str": "1359668743983554560",
                 "indices": [
-                    203,
-                    226
+                    "203",
+                    "226"
                 ],
                 "media_url": "http://pbs.twimg.com/media/Et6DhNFXYAArUbD.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/Et6DhNFXYAArUbD.jpg",
                 "sizes": {
                     "large": {
-                        "h": 502,
+                        "h": "502",
                         "resize": "fit",
-                        "w": 750
+                        "w": "750"
                     },
                     "medium": {
-                        "h": 502,
+                        "h": "502",
                         "resize": "fit",
-                        "w": 750
+                        "w": "750"
                     },
                     "small": {
-                        "h": 455,
+                        "h": "455",
                         "resize": "fit",
-                        "w": 680
+                        "w": "680"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -50,11 +48,11 @@
         "urls": [],
         "user_mentions": [
             {
-                "id": 394351710,
+                "id": "394351710",
                 "id_str": "394351710",
                 "indices": [
-                    187,
-                    202
+                    "187",
+                    "202"
                 ],
                 "name": "RonaldReaganLibrary",
                 "screen_name": "Reagan_Library"
@@ -64,37 +62,36 @@
     "extended_entities": {
         "media": [
             {
-                "display_url": "pic.twitter.com/WBjFeu0FoE",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1359668746160398340/photo/1",
-                "ext_alt_text": "Photograph of President Reagan (right) with George Shultz (left) at the G-7 Economic Summit final Plenary Session at the Metro Toronto Convention Center, Canada on June 21, 1988. Both men are looking at a rectangular piece of paper and smiling.",
-                "id": 1359668743983554560,
+                "display_url": "pic.x.com/WBjFeu0FoE",
+                "expanded_url": "https://x.com/HistoryAtState/status/1359668746160398340/photo/1",
+                "id": "1359668743983554560",
                 "id_str": "1359668743983554560",
                 "indices": [
-                    203,
-                    226
+                    "203",
+                    "226"
                 ],
                 "media_url": "http://pbs.twimg.com/media/Et6DhNFXYAArUbD.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/Et6DhNFXYAArUbD.jpg",
                 "sizes": {
                     "large": {
-                        "h": 502,
+                        "h": "502",
                         "resize": "fit",
-                        "w": 750
+                        "w": "750"
                     },
                     "medium": {
-                        "h": 502,
+                        "h": "502",
                         "resize": "fit",
-                        "w": 750
+                        "w": "750"
                     },
                     "small": {
-                        "h": 455,
+                        "h": "455",
                         "resize": "fit",
-                        "w": 680
+                        "w": "680"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -102,27 +99,15 @@
             }
         ]
     },
-    "favorite_count": 6,
+    "favorite_count": "4",
     "favorited": false,
     "full_text": "In 1988, Secretary of State Shultz attended the G-7 economic summit. He’s photographed here with President Reagan during the final plenary session on June 21, 1988 in Toronto, Canada.\n\n📷 @Reagan_Library https://t.co/WBjFeu0FoE",
-    "geo": null,
-    "id": 1359668746160398340,
+    "id": "1359668746160398340",
     "id_str": "1359668746160398340",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 0,
+    "retweet_count": "0",
     "retweeted": false,
     "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

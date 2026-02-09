@@ -1,24 +1,22 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Thu Jul 03 14:40:40 +0000 2014",
     "display_text_range": [
-        0,
-        136
+        "0",
+        "136"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    10,
-                    18
+                    "10",
+                    "18"
                 ],
                 "text": "eIntern"
             },
             {
                 "indices": [
-                    95,
-                    98
+                    "95",
+                    "98"
                 ],
                 "text": "dh"
             }
@@ -29,46 +27,34 @@
                 "display_url": "go.usa.gov/Xcxk",
                 "expanded_url": "http://go.usa.gov/Xcxk",
                 "indices": [
-                    100,
-                    122
+                    "100",
+                    "122"
                 ],
                 "url": "http://t.co/a3SJ7sazXI"
             }
         ],
         "user_mentions": [
             {
-                "id": 586570880,
+                "id": "586570880",
                 "id_str": "586570880",
                 "indices": [
-                    45,
-                    60
+                    "45",
+                    "60"
                 ],
                 "name": "HistoryAtState",
                 "screen_name": "HistoryAtState"
             }
         ]
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "XML-savvy #eIntern historians needed to code @HistoryAtState online database of US Ambassadors #dh: http://t.co/a3SJ7sazXI STATE-US-PA-2",
-    "geo": null,
-    "id": 484708306809008130,
+    "id": "484708306809008128",
     "id_str": "484708306809008128",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 0,
+    "retweet_count": "0",
     "retweeted": false,
     "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

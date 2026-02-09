@@ -1,74 +1,72 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Fri Apr 21 19:30:21 +0000 2017",
     "display_text_range": [
-        0,
-        131
+        "0",
+        "155"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    0,
-                    5
+                    "0",
+                    "5"
                 ],
                 "text": "FRUS"
             },
             {
                 "indices": [
-                    60,
-                    69
+                    "60",
+                    "69"
                 ],
                 "text": "NCPH2017"
             },
             {
                 "indices": [
-                    108,
-                    121
+                    "108",
+                    "121"
                 ],
                 "text": "HistoryIsFun"
             },
             {
                 "indices": [
-                    122,
-                    131
+                    "122",
+                    "131"
                 ],
                 "text": "FindFRUS"
             }
         ],
         "media": [
             {
-                "display_url": "pic.twitter.com/8TpTZLIndi",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/855503993094778880/photo/1",
-                "id": 855503989323870210,
+                "display_url": "pic.x.com/8TpTZLIndi",
+                "expanded_url": "https://x.com/HistoryAtState/status/855503993094778880/photo/1",
+                "id": "855503989323870208",
                 "id_str": "855503989323870208",
                 "indices": [
-                    132,
-                    155
+                    "132",
+                    "155"
                 ],
                 "media_url": "http://pbs.twimg.com/media/C99cWHuUMAAN90G.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/C99cWHuUMAAN90G.jpg",
                 "sizes": {
                     "large": {
-                        "h": 1426,
+                        "h": "1426",
                         "resize": "fit",
-                        "w": 2048
+                        "w": "2048"
                     },
                     "medium": {
-                        "h": 835,
+                        "h": "835",
                         "resize": "fit",
-                        "w": 1200
+                        "w": "1200"
                     },
                     "small": {
-                        "h": 473,
+                        "h": "473",
                         "resize": "fit",
-                        "w": 680
+                        "w": "680"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -79,11 +77,11 @@
         "urls": [],
         "user_mentions": [
             {
-                "id": 9624742,
+                "id": "9624742",
                 "id_str": "9624742",
                 "indices": [
-                    10,
-                    20
+                    "10",
+                    "20"
                 ],
                 "name": "Department of State",
                 "screen_name": "StateDept"
@@ -93,37 +91,36 @@
     "extended_entities": {
         "media": [
             {
-                "display_url": "pic.twitter.com/8TpTZLIndi",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/855503993094778880/photo/1",
-                "ext_alt_text": null,
-                "id": 855503989323870210,
+                "display_url": "pic.x.com/8TpTZLIndi",
+                "expanded_url": "https://x.com/HistoryAtState/status/855503993094778880/photo/1",
+                "id": "855503989323870208",
                 "id_str": "855503989323870208",
                 "indices": [
-                    132,
-                    155
+                    "132",
+                    "155"
                 ],
                 "media_url": "http://pbs.twimg.com/media/C99cWHuUMAAN90G.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/C99cWHuUMAAN90G.jpg",
                 "sizes": {
                     "large": {
-                        "h": 1426,
+                        "h": "1426",
                         "resize": "fit",
-                        "w": 2048
+                        "w": "2048"
                     },
                     "medium": {
-                        "h": 835,
+                        "h": "835",
                         "resize": "fit",
-                        "w": 1200
+                        "w": "1200"
                     },
                     "small": {
-                        "h": 473,
+                        "h": "473",
                         "resize": "fit",
-                        "w": 680
+                        "w": "680"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -131,27 +128,15 @@
             }
         ]
     },
-    "favorite_count": 2,
+    "favorite_count": "2",
     "favorited": false,
     "full_text": "#FRUS and @StateDept historians took a little field trip at #NCPH2017 and visited the Indiana State Capitol #HistoryIsFun #FindFRUS https://t.co/8TpTZLIndi",
-    "geo": null,
-    "id": 855503993094778880,
+    "id": "855503993094778880",
     "id_str": "855503993094778880",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 0,
+    "retweet_count": "0",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

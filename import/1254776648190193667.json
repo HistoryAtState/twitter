@@ -1,10 +1,8 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Mon Apr 27 14:17:20 +0000 2020",
     "display_text_range": [
-        0,
-        139
+        "0",
+        "139"
     ],
     "entities": {
         "hashtags": [],
@@ -12,169 +10,25 @@
         "urls": [],
         "user_mentions": [
             {
-                "id": 958044239576948740,
-                "id_str": "958044239576948736",
+                "id": "-1",
+                "id_str": "-1",
                 "indices": [
-                    3,
-                    14
+                    "3",
+                    "14"
                 ],
-                "name": "Foreign Service Institute",
+                "name": "",
                 "screen_name": "FSIatState"
             }
         ]
     },
-    "favorite_count": 0,
-    "favorited": true,
+    "favorite_count": "0",
+    "favorited": false,
     "full_text": "RT @FSIatState: Our Office of the Historian documents the conduct of diplomacy over time. They've gone back through the \"Foreign Relations…",
-    "geo": null,
-    "id": 1254776648190193660,
+    "id": "1254776648190193667",
     "id_str": "1254776648190193667",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
-    "retweet_count": 5,
-    "retweeted": true,
-    "retweeted_status": {
-        "contributors": null,
-        "coordinates": null,
-        "created_at": "Sat Apr 25 13:16:52 +0000 2020",
-        "display_text_range": [
-            0,
-            276
-        ],
-        "entities": {
-            "hashtags": [
-                {
-                    "indices": [
-                        238,
-                        243
-                    ],
-                    "text": "FRUS"
-                },
-                {
-                    "indices": [
-                        265,
-                        275
-                    ],
-                    "text": "FSIatHome"
-                }
-            ],
-            "media": [
-                {
-                    "display_url": "pic.twitter.com/NEWPs1fZiD",
-                    "expanded_url": "https://twitter.com/FSIatState/status/1254036656786718720/photo/1",
-                    "id": 1254033949371895810,
-                    "id_str": "1254033949371895809",
-                    "indices": [
-                        277,
-                        300
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/EWc5O5iXkAE-3iw.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/EWc5O5iXkAE-3iw.jpg",
-                    "sizes": {
-                        "large": {
-                            "h": 1536,
-                            "resize": "fit",
-                            "w": 2048
-                        },
-                        "medium": {
-                            "h": 900,
-                            "resize": "fit",
-                            "w": 1200
-                        },
-                        "small": {
-                            "h": 510,
-                            "resize": "fit",
-                            "w": 680
-                        },
-                        "thumb": {
-                            "h": 150,
-                            "resize": "crop",
-                            "w": 150
-                        }
-                    },
-                    "type": "photo",
-                    "url": "https://t.co/NEWPs1fZiD"
-                }
-            ],
-            "symbols": [],
-            "urls": [],
-            "user_mentions": []
-        },
-        "extended_entities": {
-            "media": [
-                {
-                    "display_url": "pic.twitter.com/NEWPs1fZiD",
-                    "expanded_url": "https://twitter.com/FSIatState/status/1254036656786718720/photo/1",
-                    "ext_alt_text": null,
-                    "id": 1254033949371895810,
-                    "id_str": "1254033949371895809",
-                    "indices": [
-                        277,
-                        300
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/EWc5O5iXkAE-3iw.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/EWc5O5iXkAE-3iw.jpg",
-                    "sizes": {
-                        "large": {
-                            "h": 1536,
-                            "resize": "fit",
-                            "w": 2048
-                        },
-                        "medium": {
-                            "h": 900,
-                            "resize": "fit",
-                            "w": 1200
-                        },
-                        "small": {
-                            "h": 510,
-                            "resize": "fit",
-                            "w": 680
-                        },
-                        "thumb": {
-                            "h": 150,
-                            "resize": "crop",
-                            "w": 150
-                        }
-                    },
-                    "type": "photo",
-                    "url": "https://t.co/NEWPs1fZiD"
-                }
-            ]
-        },
-        "favorite_count": 13,
-        "favorited": true,
-        "full_text": "Our Office of the Historian documents the conduct of diplomacy over time. They've gone back through the \"Foreign Relations of the United States” (published since 1861) to share anecdotes on past outbreaks of disease. Check back for these #FRUS learning snacks from #FSIatHome! https://t.co/NEWPs1fZiD",
-        "geo": null,
-        "id": 1254036656786718720,
-        "id_str": "1254036656786718720",
-        "in_reply_to_screen_name": null,
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "is_quote_status": false,
-        "lang": "en",
-        "place": null,
-        "possibly_sensitive": false,
-        "retweet_count": 5,
-        "retweeted": true,
-        "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
-        "truncated": false,
-        "user": {
-            "id": 958044239576948740,
-            "id_str": "958044239576948736"
-        }
-    },
+    "retweet_count": "0",
+    "retweeted": false,
     "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

@@ -1,45 +1,43 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Wed Feb 17 18:02:12 +0000 2021",
     "display_text_range": [
-        0,
-        210
+        "0",
+        "234"
     ],
     "entities": {
         "hashtags": [],
         "media": [
             {
-                "display_url": "pic.twitter.com/CFgMMk1p0V",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1362100047375175681/photo/1",
-                "id": 1362100045479346180,
+                "display_url": "pic.x.com/CFgMMk1p0V",
+                "expanded_url": "https://x.com/HistoryAtState/status/1362100047375175681/photo/1",
+                "id": "1362100045479346176",
                 "id_str": "1362100045479346176",
                 "indices": [
-                    211,
-                    234
+                    "211",
+                    "234"
                 ],
                 "media_url": "http://pbs.twimg.com/media/Eucmxk9XAAAH6lR.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/Eucmxk9XAAAH6lR.jpg",
                 "sizes": {
                     "large": {
-                        "h": 1176,
+                        "h": "1176",
                         "resize": "fit",
-                        "w": 1176
+                        "w": "1176"
                     },
                     "medium": {
-                        "h": 1176,
+                        "h": "1176",
                         "resize": "fit",
-                        "w": 1176
+                        "w": "1176"
                     },
                     "small": {
-                        "h": 680,
+                        "h": "680",
                         "resize": "fit",
-                        "w": 680
+                        "w": "680"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -52,8 +50,8 @@
                 "display_url": "history.state.gov/historicaldocu…",
                 "expanded_url": "https://history.state.gov/historicaldocuments/frus1981-88v04/d191",
                 "indices": [
-                    187,
-                    210
+                    "187",
+                    "210"
                 ],
                 "url": "https://t.co/PFreSCMpI0"
             }
@@ -63,37 +61,36 @@
     "extended_entities": {
         "media": [
             {
-                "display_url": "pic.twitter.com/CFgMMk1p0V",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1362100047375175681/photo/1",
-                "ext_alt_text": "Screenshot of first page of “Information Memorandum from the Assistant Secretary of State for European and Canadian Affairs (Burt) to Secretary of State Shultz, dated March 7, 1984 with the subject line “Chernenko’s Agenda”: “We have reviewed Chernenko’s most significant statements since he was elected General Secretary February 14… to identify the issues in U.S.-Soviet relations he is presently concentrating on.”",
-                "id": 1362100045479346180,
+                "display_url": "pic.x.com/CFgMMk1p0V",
+                "expanded_url": "https://x.com/HistoryAtState/status/1362100047375175681/photo/1",
+                "id": "1362100045479346176",
                 "id_str": "1362100045479346176",
                 "indices": [
-                    211,
-                    234
+                    "211",
+                    "234"
                 ],
                 "media_url": "http://pbs.twimg.com/media/Eucmxk9XAAAH6lR.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/Eucmxk9XAAAH6lR.jpg",
                 "sizes": {
                     "large": {
-                        "h": 1176,
+                        "h": "1176",
                         "resize": "fit",
-                        "w": 1176
+                        "w": "1176"
                     },
                     "medium": {
-                        "h": 1176,
+                        "h": "1176",
                         "resize": "fit",
-                        "w": 1176
+                        "w": "1176"
                     },
                     "small": {
-                        "h": 680,
+                        "h": "680",
                         "resize": "fit",
-                        "w": 680
+                        "w": "680"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -101,27 +98,15 @@
             }
         ]
     },
-    "favorite_count": 3,
+    "favorite_count": "2",
     "favorited": false,
     "full_text": "What to make of Soviet leader Konstantin Chernenko, newly elected in February 1984, and his possible agenda? Review this March 1984 Department of State memo assessing possible positions:\nhttps://t.co/PFreSCMpI0 https://t.co/CFgMMk1p0V",
-    "geo": null,
-    "id": 1362100047375175680,
+    "id": "1362100047375175681",
     "id_str": "1362100047375175681",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 1,
+    "retweet_count": "0",
     "retweeted": false,
     "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

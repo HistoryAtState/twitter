@@ -1,10 +1,8 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Fri May 01 15:06:57 +0000 2020",
     "display_text_range": [
-        0,
-        140
+        "0",
+        "140"
     ],
     "entities": {
         "hashtags": [],
@@ -12,179 +10,25 @@
         "urls": [],
         "user_mentions": [
             {
-                "id": 958044239576948740,
-                "id_str": "958044239576948736",
+                "id": "-1",
+                "id_str": "-1",
                 "indices": [
-                    3,
-                    14
+                    "3",
+                    "14"
                 ],
-                "name": "Foreign Service Institute",
+                "name": "",
                 "screen_name": "FSIatState"
             }
         ]
     },
-    "favorite_count": 0,
-    "favorited": true,
+    "favorite_count": "0",
+    "favorited": false,
     "full_text": "RT @FSIatState: (1/2) What did social distancing look like in the 19th century? After witnessing the cholera outbreak across the Ottoman Em…",
-    "geo": null,
-    "id": 1256238685839908860,
+    "id": "1256238685839908867",
     "id_str": "1256238685839908867",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
-    "retweet_count": 2,
-    "retweeted": true,
-    "retweeted_status": {
-        "contributors": null,
-        "coordinates": null,
-        "created_at": "Thu Apr 30 13:19:57 +0000 2020",
-        "display_text_range": [
-            0,
-            274
-        ],
-        "entities": {
-            "hashtags": [
-                {
-                    "indices": [
-                        258,
-                        263
-                    ],
-                    "text": "FRUS"
-                },
-                {
-                    "indices": [
-                        264,
-                        274
-                    ],
-                    "text": "FSIatHome"
-                }
-            ],
-            "media": [
-                {
-                    "display_url": "pic.twitter.com/YiKroEuB2Q",
-                    "expanded_url": "https://twitter.com/FSIatState/status/1255849372811776000/photo/1",
-                    "id": 1255848896166797310,
-                    "id_str": "1255848896166797312",
-                    "indices": [
-                        275,
-                        298
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/EW2r6tOWoAAjdEJ.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/EW2r6tOWoAAjdEJ.jpg",
-                    "sizes": {
-                        "large": {
-                            "h": 512,
-                            "resize": "fit",
-                            "w": 1024
-                        },
-                        "medium": {
-                            "h": 512,
-                            "resize": "fit",
-                            "w": 1024
-                        },
-                        "small": {
-                            "h": 340,
-                            "resize": "fit",
-                            "w": 680
-                        },
-                        "thumb": {
-                            "h": 150,
-                            "resize": "crop",
-                            "w": 150
-                        }
-                    },
-                    "type": "photo",
-                    "url": "https://t.co/YiKroEuB2Q"
-                }
-            ],
-            "symbols": [],
-            "urls": [
-                {
-                    "display_url": "go.usa.gov/xvKHM",
-                    "expanded_url": "http://go.usa.gov/xvKHM",
-                    "indices": [
-                        234,
-                        257
-                    ],
-                    "url": "https://t.co/FlQvbXDpFi"
-                }
-            ],
-            "user_mentions": []
-        },
-        "extended_entities": {
-            "media": [
-                {
-                    "display_url": "pic.twitter.com/YiKroEuB2Q",
-                    "expanded_url": "https://twitter.com/FSIatState/status/1255849372811776000/photo/1",
-                    "ext_alt_text": "Graphic with text reading: \"Alexandria, Egypt, June 19, 1856. If it shall be deemed necessary to take precautionary measures against the cholera in the United States, it will be advisable to establish the cholera quarantine quarters on islands at a distance from the mainland.\"",
-                    "id": 1255848896166797310,
-                    "id_str": "1255848896166797312",
-                    "indices": [
-                        275,
-                        298
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/EW2r6tOWoAAjdEJ.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/EW2r6tOWoAAjdEJ.jpg",
-                    "sizes": {
-                        "large": {
-                            "h": 512,
-                            "resize": "fit",
-                            "w": 1024
-                        },
-                        "medium": {
-                            "h": 512,
-                            "resize": "fit",
-                            "w": 1024
-                        },
-                        "small": {
-                            "h": 340,
-                            "resize": "fit",
-                            "w": 680
-                        },
-                        "thumb": {
-                            "h": 150,
-                            "resize": "crop",
-                            "w": 150
-                        }
-                    },
-                    "type": "photo",
-                    "url": "https://t.co/YiKroEuB2Q"
-                }
-            ]
-        },
-        "favorite_count": 7,
-        "favorited": true,
-        "full_text": "(1/2) What did social distancing look like in the 19th century? After witnessing the cholera outbreak across the Ottoman Empire, this official writes to Washington suggesting quarantine measures on arriving ships from affected areas: https://t.co/FlQvbXDpFi #FRUS #FSIatHome https://t.co/YiKroEuB2Q",
-        "geo": null,
-        "id": 1255849372811776000,
-        "id_str": "1255849372811776000",
-        "in_reply_to_screen_name": null,
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "is_quote_status": false,
-        "lang": "en",
-        "place": null,
-        "possibly_sensitive": false,
-        "retweet_count": 2,
-        "retweeted": true,
-        "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
-        "truncated": false,
-        "user": {
-            "id": 958044239576948740,
-            "id_str": "958044239576948736"
-        }
-    },
+    "retweet_count": "0",
+    "retweeted": false,
     "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

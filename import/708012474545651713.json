@@ -1,17 +1,15 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Thu Mar 10 19:31:42 +0000 2016",
     "display_text_range": [
-        0,
-        138
+        "0",
+        "138"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    104,
-                    113
+                    "104",
+                    "113"
                 ],
                 "text": "ncph2016"
             }
@@ -22,66 +20,54 @@
                 "display_url": "ncph.org/conference/201…",
                 "expanded_url": "http://ncph.org/conference/2016-annual-meeting/",
                 "indices": [
-                    115,
-                    138
+                    "115",
+                    "138"
                 ],
                 "url": "https://t.co/gTZbYET7e5"
             }
         ],
         "user_mentions": [
             {
-                "id": 586570880,
+                "id": "586570880",
                 "id_str": "586570880",
                 "indices": [
-                    4,
-                    19
+                    "4",
+                    "19"
                 ],
                 "name": "HistoryAtState",
                 "screen_name": "HistoryAtState"
             },
             {
-                "id": 101802390,
+                "id": "101802390",
                 "id_str": "101802390",
                 "indices": [
-                    21,
-                    35
+                    "21",
+                    "35"
                 ],
-                "name": "US National Archives",
+                "name": "U.S. National Archives",
                 "screen_name": "USNatArchives"
             },
             {
-                "id": 2359926157,
+                "id": "2359926157",
                 "id_str": "2359926157",
                 "indices": [
-                    41,
-                    45
+                    "41",
+                    "45"
                 ],
                 "name": "CIA",
                 "screen_name": "CIA"
             }
         ]
     },
-    "favorite_count": 1,
+    "favorite_count": "1",
     "favorited": false,
     "full_text": "See @HistoryAtState, @USNatArchives, and @CIA discuss the Challenge of Declassifying Federal Records at #ncph2016: https://t.co/gTZbYET7e5",
-    "geo": null,
-    "id": 708012474545651710,
+    "id": "708012474545651713",
     "id_str": "708012474545651713",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 0,
+    "retweet_count": "0",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

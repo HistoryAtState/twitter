@@ -1,17 +1,15 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Tue Jan 24 19:30:28 +0000 2017",
     "display_text_range": [
-        0,
-        129
+        "0",
+        "129"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    47,
-                    52
+                    "47",
+                    "52"
                 ],
                 "text": "FRUS"
             }
@@ -22,46 +20,34 @@
                 "display_url": "history.state.gov/historicaldocu…",
                 "expanded_url": "https://history.state.gov/historicaldocuments/status-of-the-series",
                 "indices": [
-                    95,
-                    118
+                    "95",
+                    "118"
                 ],
                 "url": "https://t.co/77bsxJdYSj"
             }
         ],
         "user_mentions": [
             {
-                "id": 9624742,
+                "id": "9624742",
                 "id_str": "9624742",
                 "indices": [
-                    119,
-                    129
+                    "119",
+                    "129"
                 ],
                 "name": "Department of State",
                 "screen_name": "StateDept"
             }
         ]
     },
-    "favorite_count": 1,
+    "favorite_count": "1",
     "favorited": false,
     "full_text": "See our updated list of recent and forthcoming #FRUS volumes on the Status of the Series page: https://t.co/77bsxJdYSj @StateDept",
-    "geo": null,
-    "id": 823976281809227780,
+    "id": "823976281809227776",
     "id_str": "823976281809227776",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 2,
+    "retweet_count": "1",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

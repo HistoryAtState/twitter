@@ -1,24 +1,22 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Wed May 01 12:14:01 +0000 2013",
     "display_text_range": [
-        0,
-        133
+        "0",
+        "133"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    111,
-                    116
+                    "111",
+                    "116"
                 ],
                 "text": "FRUS"
             },
             {
                 "indices": [
-                    117,
-                    133
+                    "117",
+                    "133"
                 ],
                 "text": "twitterstorians"
             }
@@ -29,35 +27,23 @@
                 "display_url": "go.usa.gov/TXGk",
                 "expanded_url": "http://go.usa.gov/TXGk",
                 "indices": [
-                    88,
-                    110
+                    "88",
+                    "110"
                 ],
                 "url": "http://t.co/zBlOQUjWoh"
             }
         ],
         "user_mentions": []
     },
-    "favorite_count": 1,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "Why did the US Government switch from Wade-Giles to Pinyin when romanizing Chinese? See http://t.co/zBlOQUjWoh #FRUS #twitterstorians",
-    "geo": null,
-    "id": 329569395015815170,
+    "id": "329569395015815169",
     "id_str": "329569395015815169",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 3,
+    "retweet_count": "2",
     "retweeted": false,
     "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

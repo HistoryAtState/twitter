@@ -1,60 +1,58 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Thu Sep 30 19:01:33 +0000 2021",
     "display_text_range": [
-        0,
-        256
+        "0",
+        "280"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    177,
-                    182
+                    "177",
+                    "182"
                 ],
                 "text": "FRUS"
             },
             {
                 "indices": [
-                    192,
-                    196
+                    "192",
+                    "196"
                 ],
                 "text": "PMF"
             }
         ],
         "media": [
             {
-                "display_url": "pic.twitter.com/qQflK3EI98",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1443652253731131394/photo/1",
-                "id": 1443652252263141380,
+                "display_url": "pic.x.com/qQflK3EI98",
+                "expanded_url": "https://x.com/HistoryAtState/status/1443652253731131394/photo/1",
+                "id": "1443652252263141377",
                 "id_str": "1443652252263141377",
                 "indices": [
-                    257,
-                    280
+                    "257",
+                    "280"
                 ],
                 "media_url": "http://pbs.twimg.com/media/FAjiExtWUAE3DC-.png",
                 "media_url_https": "https://pbs.twimg.com/media/FAjiExtWUAE3DC-.png",
                 "sizes": {
                     "large": {
-                        "h": 512,
+                        "h": "512",
                         "resize": "fit",
-                        "w": 1024
+                        "w": "1024"
                     },
                     "medium": {
-                        "h": 512,
+                        "h": "512",
                         "resize": "fit",
-                        "w": 1024
+                        "w": "1024"
                     },
                     "small": {
-                        "h": 340,
+                        "h": "340",
                         "resize": "fit",
-                        "w": 680
+                        "w": "680"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -67,8 +65,8 @@
                 "display_url": "bit.ly/OH-PMF",
                 "expanded_url": "https://bit.ly/OH-PMF",
                 "indices": [
-                    233,
-                    256
+                    "233",
+                    "256"
                 ],
                 "url": "https://t.co/9MdLicfclR"
             }
@@ -78,37 +76,36 @@
     "extended_entities": {
         "media": [
             {
-                "display_url": "pic.twitter.com/qQflK3EI98",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1443652253731131394/photo/1",
-                "ext_alt_text": "Do you study the history of U.S. relations with the Americas? Apply to be a Presidential Management Fellow, Office of the Historian, U.S. Department of State PMF applications accepted Sept. 28 to Oct. 12: https://bit.ly/OH-PMF",
-                "id": 1443652252263141380,
+                "display_url": "pic.x.com/qQflK3EI98",
+                "expanded_url": "https://x.com/HistoryAtState/status/1443652253731131394/photo/1",
+                "id": "1443652252263141377",
                 "id_str": "1443652252263141377",
                 "indices": [
-                    257,
-                    280
+                    "257",
+                    "280"
                 ],
                 "media_url": "http://pbs.twimg.com/media/FAjiExtWUAE3DC-.png",
                 "media_url_https": "https://pbs.twimg.com/media/FAjiExtWUAE3DC-.png",
                 "sizes": {
                     "large": {
-                        "h": 512,
+                        "h": "512",
                         "resize": "fit",
-                        "w": 1024
+                        "w": "1024"
                     },
                     "medium": {
-                        "h": 512,
+                        "h": "512",
                         "resize": "fit",
-                        "w": 1024
+                        "w": "1024"
                     },
                     "small": {
-                        "h": 340,
+                        "h": "340",
                         "resize": "fit",
-                        "w": 680
+                        "w": "680"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -116,27 +113,15 @@
             }
         ]
     },
-    "favorite_count": 7,
+    "favorite_count": "5",
     "favorited": false,
     "full_text": "Studying the history of U.S. foreign relations with the Americas? Current/recent grad students, apply to the Presidential Management Fellows Program for a chance to work on the #FRUS series.\n\n#PMF applications accepted until Oct. 12\nhttps://t.co/9MdLicfclR https://t.co/qQflK3EI98",
-    "geo": null,
-    "id": 1443652253731131390,
+    "id": "1443652253731131394",
     "id_str": "1443652253731131394",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 1,
+    "retweet_count": "0",
     "retweeted": false,
     "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

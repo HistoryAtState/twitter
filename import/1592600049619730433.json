@@ -1,10 +1,8 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Tue Nov 15 19:26:55 +0000 2022",
     "display_text_range": [
-        0,
-        140
+        "0",
+        "140"
     ],
     "entities": {
         "hashtags": [],
@@ -12,126 +10,35 @@
         "urls": [],
         "user_mentions": [
             {
-                "id": 929939588,
+                "id": "929939588",
                 "id_str": "929939588",
                 "indices": [
-                    3,
-                    17
+                    "3",
+                    "17"
                 ],
                 "name": "Rasmus Søndergaard",
                 "screen_name": "RSSondergaard"
             },
             {
-                "id": 9624742,
+                "id": "9624742",
                 "id_str": "9624742",
                 "indices": [
-                    80,
-                    90
+                    "80",
+                    "90"
                 ],
                 "name": "Department of State",
                 "screen_name": "StateDept"
             }
         ]
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "RT @RSSondergaard: I'm honored and excited to give a (virtual) book talk at the @StateDept's Ralph J. Bunche tomorrow. Co-hosted with @Hist…",
-    "geo": null,
-    "id": 1592600049619730430,
+    "id": "1592600049619730433",
     "id_str": "1592600049619730433",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
-    "retweet_count": 5,
-    "retweeted": true,
-    "retweeted_status": {
-        "contributors": null,
-        "coordinates": null,
-        "created_at": "Tue Nov 15 15:03:11 +0000 2022",
-        "display_text_range": [
-            0,
-            162
-        ],
-        "entities": {
-            "hashtags": [],
-            "symbols": [],
-            "urls": [
-                {
-                    "display_url": "state.libcal.com/event/9723142",
-                    "expanded_url": "https://state.libcal.com/event/9723142",
-                    "indices": [
-                        139,
-                        162
-                    ],
-                    "url": "https://t.co/aDkPJriKkA"
-                }
-            ],
-            "user_mentions": [
-                {
-                    "id": 9624742,
-                    "id_str": "9624742",
-                    "indices": [
-                        61,
-                        71
-                    ],
-                    "name": "Department of State",
-                    "screen_name": "StateDept"
-                },
-                {
-                    "id": 586570880,
-                    "id_str": "586570880",
-                    "indices": [
-                        115,
-                        130
-                    ],
-                    "name": "HistoryAtState",
-                    "screen_name": "HistoryAtState"
-                },
-                {
-                    "id": 121425208,
-                    "id_str": "121425208",
-                    "indices": [
-                        131,
-                        138
-                    ],
-                    "name": "DIIS Denmark",
-                    "screen_name": "diisdk"
-                }
-            ]
-        },
-        "favorite_count": 6,
-        "favorited": false,
-        "full_text": "I'm honored and excited to give a (virtual) book talk at the @StateDept's Ralph J. Bunche tomorrow. Co-hosted with @HistoryAtState @diisdk https://t.co/aDkPJriKkA",
-        "geo": null,
-        "id": 1592533678722527230,
-        "id_str": "1592533678722527233",
-        "in_reply_to_screen_name": null,
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "is_quote_status": false,
-        "lang": "en",
-        "place": null,
-        "possibly_sensitive": false,
-        "retweet_count": 5,
-        "retweeted": true,
-        "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
-        "truncated": false,
-        "user": {
-            "id": 929939588,
-            "id_str": "929939588"
-        }
-    },
+    "retweet_count": "0",
+    "retweeted": false,
     "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

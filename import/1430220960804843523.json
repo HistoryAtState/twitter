@@ -1,60 +1,58 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Tue Aug 24 17:30:23 +0000 2021",
     "display_text_range": [
-        0,
-        166
+        "0",
+        "190"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    18,
-                    23
+                    "18",
+                    "23"
                 ],
                 "text": "FRUS"
             },
             {
                 "indices": [
-                    145,
-                    160
+                    "145",
+                    "160"
                 ],
                 "text": "digitalHistory"
             }
         ],
         "media": [
             {
-                "display_url": "pic.twitter.com/N1jSKHgKV7",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1430220960804843523/photo/1",
-                "id": 1430220959185784830,
+                "display_url": "pic.x.com/N1jSKHgKV7",
+                "expanded_url": "https://x.com/HistoryAtState/status/1430220960804843523/photo/1",
+                "id": "1430220959185784832",
                 "id_str": "1430220959185784832",
                 "indices": [
-                    167,
-                    190
+                    "167",
+                    "190"
                 ],
                 "media_url": "http://pbs.twimg.com/media/E9kqYn6WUAAf6mg.png",
                 "media_url_https": "https://pbs.twimg.com/media/E9kqYn6WUAAf6mg.png",
                 "sizes": {
                     "large": {
-                        "h": 558,
+                        "h": "558",
                         "resize": "fit",
-                        "w": 525
+                        "w": "525"
                     },
                     "medium": {
-                        "h": 558,
+                        "h": "558",
                         "resize": "fit",
-                        "w": 525
+                        "w": "525"
                     },
                     "small": {
-                        "h": 558,
+                        "h": "558",
                         "resize": "fit",
-                        "w": 525
+                        "w": "525"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -67,8 +65,8 @@
                 "display_url": "history.state.gov/search",
                 "expanded_url": "https://history.state.gov/search",
                 "indices": [
-                    120,
-                    143
+                    "120",
+                    "143"
                 ],
                 "url": "https://t.co/1ECc9ulUnu"
             }
@@ -78,37 +76,36 @@
     "extended_entities": {
         "media": [
             {
-                "display_url": "pic.twitter.com/N1jSKHgKV7",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1430220960804843523/photo/1",
-                "ext_alt_text": "Screenshot of a search of historical documents with the term “Olympic*” dated between June 1, 1936 and December 31, 1936, sorted by dates (oldest first): https://history.state.gov/search?q=olympic*&amp;within=documents&amp;start-date=1936-06-01&amp;end-date=1936-12-31&amp;sort-by=date-asc",
-                "id": 1430220959185784830,
+                "display_url": "pic.x.com/N1jSKHgKV7",
+                "expanded_url": "https://x.com/HistoryAtState/status/1430220960804843523/photo/1",
+                "id": "1430220959185784832",
                 "id_str": "1430220959185784832",
                 "indices": [
-                    167,
-                    190
+                    "167",
+                    "190"
                 ],
                 "media_url": "http://pbs.twimg.com/media/E9kqYn6WUAAf6mg.png",
                 "media_url_https": "https://pbs.twimg.com/media/E9kqYn6WUAAf6mg.png",
                 "sizes": {
                     "large": {
-                        "h": 558,
+                        "h": "558",
                         "resize": "fit",
-                        "w": 525
+                        "w": "525"
                     },
                     "medium": {
-                        "h": 558,
+                        "h": "558",
                         "resize": "fit",
-                        "w": 525
+                        "w": "525"
                     },
                     "small": {
-                        "h": 558,
+                        "h": "558",
                         "resize": "fit",
-                        "w": 525
+                        "w": "525"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -116,27 +113,15 @@
             }
         ]
     },
-    "favorite_count": 4,
+    "favorite_count": "2",
     "favorited": false,
     "full_text": "Search and filter #FRUS documents, institutional datasets, and other sections of the Office of the Historian’s website:\nhttps://t.co/1ECc9ulUnu\n\n#digitalHistory\n(3/4) https://t.co/N1jSKHgKV7",
-    "geo": null,
-    "id": 1430220960804843520,
+    "id": "1430220960804843523",
     "id_str": "1430220960804843523",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 2,
+    "retweet_count": "1",
     "retweeted": false,
     "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

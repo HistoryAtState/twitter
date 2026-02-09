@@ -1,17 +1,15 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Mon Jul 28 12:56:39 +0000 2014",
     "display_text_range": [
-        0,
-        127
+        "0",
+        "127"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    11,
-                    20
+                    "11",
+                    "20"
                 ],
                 "text": "WW1Tweet"
             }
@@ -20,37 +18,25 @@
         "urls": [],
         "user_mentions": [
             {
-                "id": 9624742,
+                "id": "9624742",
                 "id_str": "9624742",
                 "indices": [
-                    54,
-                    64
+                    "54",
+                    "64"
                 ],
                 "name": "Department of State",
                 "screen_name": "StateDept"
             }
         ]
     },
-    "favorite_count": 2,
+    "favorite_count": "1",
     "favorited": false,
     "full_text": "Follow our #WW1Tweet to see how US diplomats informed @StateDept of the outbreak of hostilities &amp;amp; failure of mediation 1914",
-    "geo": null,
-    "id": 493741828337070080,
+    "id": "493741828337070080",
     "id_str": "493741828337070080",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
-    "retweet_count": 10,
+    "retweet_count": "10",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

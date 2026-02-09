@@ -1,24 +1,22 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Mon Jul 01 13:23:55 +0000 2013",
     "display_text_range": [
-        0,
-        130
+        "0",
+        "130"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    19,
-                    23
+                    "19",
+                    "23"
                 ],
                 "text": "OTD"
             },
             {
                 "indices": [
-                    36,
-                    43
+                    "36",
+                    "43"
                 ],
                 "text": "Senate"
             }
@@ -29,8 +27,8 @@
                 "display_url": "ow.ly/mkVhm",
                 "expanded_url": "http://ow.ly/mkVhm",
                 "indices": [
-                    85,
-                    107
+                    "85",
+                    "107"
                 ],
                 "url": "http://t.co/cchwf3HY3c"
             },
@@ -38,118 +36,34 @@
                 "display_url": "ow.ly/i/2sTaC",
                 "expanded_url": "http://ow.ly/i/2sTaC",
                 "indices": [
-                    108,
-                    130
+                    "108",
+                    "130"
                 ],
                 "url": "http://t.co/oFQ1wlrNuN"
             }
         ],
         "user_mentions": [
             {
-                "id": 1428441589,
+                "id": "1428441589",
                 "id_str": "1428441589",
                 "indices": [
-                    3,
-                    17
+                    "3",
+                    "17"
                 ],
                 "name": "U.S. Senate History",
                 "screen_name": "SenateHistory"
             }
         ]
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "RT @SenateHistory: #OTD in 1935 the #Senate named its first official parliamentarian http://t.co/cchwf3HY3c http://t.co/oFQ1wlrNuN",
-    "geo": null,
-    "id": 351692645116018690,
+    "id": "351692645116018688",
     "id_str": "351692645116018688",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 3,
-    "retweeted": true,
-    "retweeted_status": {
-        "contributors": null,
-        "coordinates": null,
-        "created_at": "Mon Jul 01 13:21:20 +0000 2013",
-        "display_text_range": [
-            0,
-            111
-        ],
-        "entities": {
-            "hashtags": [
-                {
-                    "indices": [
-                        0,
-                        4
-                    ],
-                    "text": "OTD"
-                },
-                {
-                    "indices": [
-                        17,
-                        24
-                    ],
-                    "text": "Senate"
-                }
-            ],
-            "symbols": [],
-            "urls": [
-                {
-                    "display_url": "ow.ly/mkVhm",
-                    "expanded_url": "http://ow.ly/mkVhm",
-                    "indices": [
-                        66,
-                        88
-                    ],
-                    "url": "http://t.co/cchwf3HY3c"
-                },
-                {
-                    "display_url": "ow.ly/i/2sTaC",
-                    "expanded_url": "http://ow.ly/i/2sTaC",
-                    "indices": [
-                        89,
-                        111
-                    ],
-                    "url": "http://t.co/oFQ1wlrNuN"
-                }
-            ],
-            "user_mentions": []
-        },
-        "favorite_count": 1,
-        "favorited": false,
-        "full_text": "#OTD in 1935 the #Senate named its first official parliamentarian http://t.co/cchwf3HY3c http://t.co/oFQ1wlrNuN",
-        "geo": null,
-        "id": 351691993790943230,
-        "id_str": "351691993790943233",
-        "in_reply_to_screen_name": null,
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "is_quote_status": false,
-        "lang": "en",
-        "place": null,
-        "possibly_sensitive": false,
-        "retweet_count": 3,
-        "retweeted": true,
-        "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-        "truncated": false,
-        "user": {
-            "id": 1428441589,
-            "id_str": "1428441589"
-        }
-    },
+    "retweet_count": "0",
+    "retweeted": false,
     "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

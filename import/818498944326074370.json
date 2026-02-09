@@ -1,74 +1,72 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Mon Jan 09 16:45:29 +0000 2017",
     "display_text_range": [
-        0,
-        133
+        "0",
+        "157"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    45,
-                    49
+                    "45",
+                    "49"
                 ],
                 "text": "OTD"
             },
             {
                 "indices": [
-                    50,
-                    61
+                    "50",
+                    "61"
                 ],
                 "text": "martyrsday"
             },
             {
                 "indices": [
-                    62,
-                    69
+                    "62",
+                    "69"
                 ],
                 "text": "Panama"
             },
             {
                 "indices": [
-                    70,
-                    75
+                    "70",
+                    "75"
                 ],
                 "text": "FRUS"
             }
         ],
         "media": [
             {
-                "display_url": "pic.twitter.com/9L7v4w7xUZ",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/818498944326074370/photo/1",
-                "id": 818498941935357950,
+                "display_url": "pic.x.com/9L7v4w7xUZ",
+                "expanded_url": "https://x.com/HistoryAtState/status/818498944326074370/photo/1",
+                "id": "818498941935357952",
                 "id_str": "818498941935357952",
                 "indices": [
-                    134,
-                    157
+                    "134",
+                    "157"
                 ],
                 "media_url": "http://pbs.twimg.com/media/C1vkc3sXEAAI8nV.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/C1vkc3sXEAAI8nV.jpg",
                 "sizes": {
                     "large": {
-                        "h": 600,
+                        "h": "600",
                         "resize": "fit",
-                        "w": 744
+                        "w": "744"
                     },
                     "medium": {
-                        "h": 600,
+                        "h": "600",
                         "resize": "fit",
-                        "w": 744
+                        "w": "744"
                     },
                     "small": {
-                        "h": 548,
+                        "h": "548",
                         "resize": "fit",
-                        "w": 680
+                        "w": "680"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -81,8 +79,8 @@
                 "display_url": "go.usa.gov/x92ZJ",
                 "expanded_url": "http://go.usa.gov/x92ZJ",
                 "indices": [
-                    86,
-                    109
+                    "86",
+                    "109"
                 ],
                 "url": "https://t.co/R8KE9x1qzd"
             },
@@ -90,19 +88,19 @@
                 "display_url": "go.usa.gov/x92ZS",
                 "expanded_url": "http://go.usa.gov/x92ZS",
                 "indices": [
-                    110,
-                    133
+                    "110",
+                    "133"
                 ],
                 "url": "https://t.co/65CCyfs1oh"
             }
         ],
         "user_mentions": [
             {
-                "id": 177553367,
+                "id": "177553367",
                 "id_str": "177553367",
                 "indices": [
-                    76,
-                    85
+                    "76",
+                    "85"
                 ],
                 "name": "U.S. Embassy Panama",
                 "screen_name": "USEmbPAN"
@@ -112,37 +110,36 @@
     "extended_entities": {
         "media": [
             {
-                "display_url": "pic.twitter.com/9L7v4w7xUZ",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/818498944326074370/photo/1",
-                "ext_alt_text": null,
-                "id": 818498941935357950,
+                "display_url": "pic.x.com/9L7v4w7xUZ",
+                "expanded_url": "https://x.com/HistoryAtState/status/818498944326074370/photo/1",
+                "id": "818498941935357952",
                 "id_str": "818498941935357952",
                 "indices": [
-                    134,
-                    157
+                    "134",
+                    "157"
                 ],
                 "media_url": "http://pbs.twimg.com/media/C1vkc3sXEAAI8nV.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/C1vkc3sXEAAI8nV.jpg",
                 "sizes": {
                     "large": {
-                        "h": 600,
+                        "h": "600",
                         "resize": "fit",
-                        "w": 744
+                        "w": "744"
                     },
                     "medium": {
-                        "h": 600,
+                        "h": "600",
                         "resize": "fit",
-                        "w": 744
+                        "w": "744"
                     },
                     "small": {
-                        "h": 548,
+                        "h": "548",
                         "resize": "fit",
-                        "w": 680
+                        "w": "680"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -150,27 +147,15 @@
             }
         ]
     },
-    "favorite_count": 1,
+    "favorite_count": "1",
     "favorited": false,
     "full_text": "Capture the flag or lose a Cen. Am. partner? #OTD #martyrsday #Panama #FRUS @USEmbPAN https://t.co/R8KE9x1qzd https://t.co/65CCyfs1oh https://t.co/9L7v4w7xUZ",
-    "geo": null,
-    "id": 818498944326074370,
+    "id": "818498944326074370",
     "id_str": "818498944326074370",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 1,
+    "retweet_count": "1",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

@@ -1,17 +1,15 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Wed Oct 03 20:15:56 +0000 2012",
     "display_text_range": [
-        0,
-        101
+        "0",
+        "101"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    14,
-                    17
+                    "14",
+                    "17"
                 ],
                 "text": "UN"
             }
@@ -22,56 +20,44 @@
                 "display_url": "ow.ly/ecc62",
                 "expanded_url": "http://ow.ly/ecc62",
                 "indices": [
-                    63,
-                    83
+                    "63",
+                    "83"
                 ],
                 "url": "http://t.co/4c40HDYk"
             }
         ],
         "user_mentions": [
             {
-                "id": 475210759,
+                "id": "475210759",
                 "id_str": "475210759",
                 "indices": [
-                    3,
-                    12
+                    "3",
+                    "12"
                 ],
-                "name": "Ambassador Michele Sison",
+                "name": "Bureau of International Organization Affairs",
                 "screen_name": "State_IO"
             },
             {
-                "id": 8886812,
+                "id": "8886812",
                 "id_str": "8886812",
                 "indices": [
-                    89,
-                    100
+                    "89",
+                    "100"
                 ],
                 "name": "UN Dispatch",
                 "screen_name": "undispatch"
             }
         ]
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "RT @state_io: #UN History Project Opens at Harvard University: http://t.co/4c40HDYk (via @undispatch)",
-    "geo": null,
-    "id": 253589220353007616,
+    "id": "253589220353007616",
     "id_str": "253589220353007616",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 2,
+    "retweet_count": "1",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

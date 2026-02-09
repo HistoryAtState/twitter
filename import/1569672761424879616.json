@@ -1,45 +1,43 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Tue Sep 13 13:02:04 +0000 2022",
     "display_text_range": [
-        0,
-        201
+        "0",
+        "225"
     ],
     "entities": {
         "hashtags": [],
         "media": [
             {
-                "display_url": "pic.twitter.com/EUBA3LEWNc",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1569672761424879616/photo/1",
-                "id": 1569672759189323780,
+                "display_url": "pic.x.com/EUBA3LEWNc",
+                "expanded_url": "https://x.com/HistoryAtState/status/1569672761424879616/photo/1",
+                "id": "1569672759189323776",
                 "id_str": "1569672759189323776",
                 "indices": [
-                    202,
-                    225
+                    "202",
+                    "225"
                 ],
                 "media_url": "http://pbs.twimg.com/media/FciZDtkWQAAgYLh.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/FciZDtkWQAAgYLh.jpg",
                 "sizes": {
                     "large": {
-                        "h": 783,
+                        "h": "783",
                         "resize": "fit",
-                        "w": 1000
+                        "w": "1000"
                     },
                     "medium": {
-                        "h": 783,
+                        "h": "783",
                         "resize": "fit",
-                        "w": 1000
+                        "w": "1000"
                     },
                     "small": {
-                        "h": 532,
+                        "h": "532",
                         "resize": "fit",
-                        "w": 680
+                        "w": "680"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -52,59 +50,58 @@
                 "display_url": "ow.ly/84pV50KHvAl",
                 "expanded_url": "http://ow.ly/84pV50KHvAl",
                 "indices": [
-                    178,
-                    201
+                    "178",
+                    "201"
                 ],
                 "url": "https://t.co/uUK1Je6tgn"
             }
         ],
         "user_mentions": [
             {
-                "id": 32520240,
-                "id_str": "32520240",
+                "id": "1850960131946921984",
+                "id_str": "1850960131946921984",
                 "indices": [
-                    148,
-                    159
+                    "148",
+                    "159"
                 ],
-                "name": "JFK Library",
-                "screen_name": "JFKLibrary"
+                "name": "JFK Library Foundation",
+                "screen_name": "jfklibrary"
             }
         ]
     },
     "extended_entities": {
         "media": [
             {
-                "display_url": "pic.twitter.com/EUBA3LEWNc",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/1569672761424879616/photo/1",
-                "ext_alt_text": "“(L-R): Prince Phillip, Jacqueline Kennedy, Queen Elizabeth II, and President John F. Kennedy at Buckingham Palace in London, UK.” June 5, 1961 (John F. Kennedy Presidential Library ID: PX96-33:17)",
-                "id": 1569672759189323780,
+                "display_url": "pic.x.com/EUBA3LEWNc",
+                "expanded_url": "https://x.com/HistoryAtState/status/1569672761424879616/photo/1",
+                "id": "1569672759189323776",
                 "id_str": "1569672759189323776",
                 "indices": [
-                    202,
-                    225
+                    "202",
+                    "225"
                 ],
                 "media_url": "http://pbs.twimg.com/media/FciZDtkWQAAgYLh.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/FciZDtkWQAAgYLh.jpg",
                 "sizes": {
                     "large": {
-                        "h": 783,
+                        "h": "783",
                         "resize": "fit",
-                        "w": 1000
+                        "w": "1000"
                     },
                     "medium": {
-                        "h": 783,
+                        "h": "783",
                         "resize": "fit",
-                        "w": 1000
+                        "w": "1000"
                     },
                     "small": {
-                        "h": 532,
+                        "h": "532",
                         "resize": "fit",
-                        "w": 680
+                        "w": "680"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -112,27 +109,15 @@
             }
         ]
     },
-    "favorite_count": 5,
+    "favorite_count": "7",
     "favorited": false,
     "full_text": "The long reign of the United Kingdom’s Queen Elizabeth coincided with the administrations of 14 U.S. Presidents, from Harry Truman to Joe Biden.\n\n📷 @JFKLibrary (ID: PX96-33:17):\nhttps://t.co/uUK1Je6tgn https://t.co/EUBA3LEWNc",
-    "geo": null,
-    "id": 1569672761424879620,
+    "id": "1569672761424879616",
     "id_str": "1569672761424879616",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 3,
+    "retweet_count": "2",
     "retweeted": false,
     "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

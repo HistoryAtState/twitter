@@ -1,24 +1,22 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Thu Aug 13 13:36:25 +0000 2015",
     "display_text_range": [
-        0,
-        140
+        "0",
+        "140"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    45,
-                    56
+                    "45",
+                    "56"
                 ],
                 "text": "BerlinWall"
             },
             {
                 "indices": [
-                    119,
-                    136
+                    "119",
+                    "136"
                 ],
                 "text": "beyondBerlinWall"
             }
@@ -27,221 +25,35 @@
         "urls": [],
         "user_mentions": [
             {
-                "id": 18267548,
+                "id": "18267548",
                 "id_str": "18267548",
                 "indices": [
-                    3,
-                    19
+                    "3",
+                    "19"
                 ],
                 "name": "Atlantic Council",
                 "screen_name": "AtlanticCouncil"
             },
             {
-                "id": 9624742,
+                "id": "9624742",
                 "id_str": "9624742",
                 "indices": [
-                    85,
-                    95
+                    "85",
+                    "95"
                 ],
                 "name": "Department of State",
                 "screen_name": "StateDept"
             }
         ]
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "RT @AtlanticCouncil: Historic segment of the #BerlinWall is on its way through DC to @StateDept. Follow the journey at #beyondBerlinWall ht…",
-    "geo": null,
-    "id": 631821613261058050,
+    "id": "631821613261058048",
     "id_str": "631821613261058048",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
-    "retweet_count": 31,
-    "retweeted": true,
-    "retweeted_status": {
-        "contributors": null,
-        "coordinates": null,
-        "created_at": "Thu Aug 13 13:23:29 +0000 2015",
-        "display_text_range": [
-            0,
-            138
-        ],
-        "entities": {
-            "hashtags": [
-                {
-                    "indices": [
-                        24,
-                        35
-                    ],
-                    "text": "BerlinWall"
-                },
-                {
-                    "indices": [
-                        98,
-                        115
-                    ],
-                    "text": "beyondBerlinWall"
-                }
-            ],
-            "media": [
-                {
-                    "display_url": "pic.twitter.com/zev0lMcAyE",
-                    "expanded_url": "https://twitter.com/AtlanticCouncil/status/631818354580451328/video/1",
-                    "id": 631818058282237950,
-                    "id_str": "631818058282237953",
-                    "indices": [
-                        116,
-                        138
-                    ],
-                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/631818058282237953/pu/img/6E0ZTsNuQFfFFQ2d.jpg",
-                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/631818058282237953/pu/img/6E0ZTsNuQFfFFQ2d.jpg",
-                    "sizes": {
-                        "large": {
-                            "h": 720,
-                            "resize": "fit",
-                            "w": 1280
-                        },
-                        "medium": {
-                            "h": 675,
-                            "resize": "fit",
-                            "w": 1200
-                        },
-                        "small": {
-                            "h": 383,
-                            "resize": "fit",
-                            "w": 680
-                        },
-                        "thumb": {
-                            "h": 150,
-                            "resize": "crop",
-                            "w": 150
-                        }
-                    },
-                    "type": "photo",
-                    "url": "http://t.co/zev0lMcAyE"
-                }
-            ],
-            "symbols": [],
-            "urls": [],
-            "user_mentions": [
-                {
-                    "id": 9624742,
-                    "id_str": "9624742",
-                    "indices": [
-                        64,
-                        74
-                    ],
-                    "name": "Department of State",
-                    "screen_name": "StateDept"
-                }
-            ]
-        },
-        "extended_entities": {
-            "media": [
-                {
-                    "additional_media_info": {
-                        "monetizable": false
-                    },
-                    "display_url": "pic.twitter.com/zev0lMcAyE",
-                    "expanded_url": "https://twitter.com/AtlanticCouncil/status/631818354580451328/video/1",
-                    "ext_alt_text": null,
-                    "id": 631818058282237950,
-                    "id_str": "631818058282237953",
-                    "indices": [
-                        116,
-                        138
-                    ],
-                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/631818058282237953/pu/img/6E0ZTsNuQFfFFQ2d.jpg",
-                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/631818058282237953/pu/img/6E0ZTsNuQFfFFQ2d.jpg",
-                    "sizes": {
-                        "large": {
-                            "h": 720,
-                            "resize": "fit",
-                            "w": 1280
-                        },
-                        "medium": {
-                            "h": 675,
-                            "resize": "fit",
-                            "w": 1200
-                        },
-                        "small": {
-                            "h": 383,
-                            "resize": "fit",
-                            "w": 680
-                        },
-                        "thumb": {
-                            "h": 150,
-                            "resize": "crop",
-                            "w": 150
-                        }
-                    },
-                    "type": "video",
-                    "url": "http://t.co/zev0lMcAyE",
-                    "video_info": {
-                        "aspect_ratio": [
-                            16,
-                            9
-                        ],
-                        "duration_millis": 4933,
-                        "variants": [
-                            {
-                                "content_type": "application/x-mpegURL",
-                                "url": "https://video.twimg.com/ext_tw_video/631818058282237953/pu/pl/7bgumKugNKq921bH.m3u8"
-                            },
-                            {
-                                "bitrate": 2176000,
-                                "content_type": "video/mp4",
-                                "url": "https://video.twimg.com/ext_tw_video/631818058282237953/pu/vid/1280x720/r8S0s0XBUV_RHyiV.mp4"
-                            },
-                            {
-                                "bitrate": 320000,
-                                "content_type": "video/mp4",
-                                "url": "https://video.twimg.com/ext_tw_video/631818058282237953/pu/vid/320x180/6q2DyuZibzCLcVCS.mp4"
-                            },
-                            {
-                                "bitrate": 832000,
-                                "content_type": "video/mp4",
-                                "url": "https://video.twimg.com/ext_tw_video/631818058282237953/pu/vid/640x360/agAe-6XRFYi6DlPo.mp4"
-                            }
-                        ]
-                    }
-                }
-            ]
-        },
-        "favorite_count": 12,
-        "favorited": false,
-        "full_text": "Historic segment of the #BerlinWall is on its way through DC to @StateDept. Follow the journey at #beyondBerlinWall http://t.co/zev0lMcAyE",
-        "geo": null,
-        "id": 631818354580451330,
-        "id_str": "631818354580451328",
-        "in_reply_to_screen_name": null,
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "is_quote_status": false,
-        "lang": "en",
-        "place": null,
-        "possibly_sensitive": false,
-        "retweet_count": 31,
-        "retweeted": true,
-        "source": "&lt;a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"&gt;Twitter for iPhone&lt;/a&gt;",
-        "truncated": false,
-        "user": {
-            "id": 18267548,
-            "id_str": "18267548"
-        }
-    },
+    "retweet_count": "0",
+    "retweeted": false,
     "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

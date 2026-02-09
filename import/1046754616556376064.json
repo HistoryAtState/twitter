@@ -1,10 +1,8 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Mon Oct 01 13:32:03 +0000 2018",
     "display_text_range": [
-        0,
-        140
+        "0",
+        "140"
     ],
     "entities": {
         "hashtags": [],
@@ -12,284 +10,35 @@
         "urls": [],
         "user_mentions": [
             {
-                "id": 4276158575,
+                "id": "4276158575",
                 "id_str": "4276158575",
                 "indices": [
-                    3,
-                    16
+                    "3",
+                    "16"
                 ],
                 "name": "RichardNixonLibrary",
                 "screen_name": "NixonLibrary"
             },
             {
-                "id": 9624742,
+                "id": "9624742",
                 "id_str": "9624742",
                 "indices": [
-                    117,
-                    127
+                    "117",
+                    "127"
                 ],
                 "name": "Department of State",
                 "screen_name": "StateDept"
             }
         ]
     },
-    "favorite_count": 0,
-    "favorited": true,
+    "favorite_count": "0",
+    "favorited": false,
     "full_text": "RT @NixonLibrary: How was President Nixon and his new Administration viewed overseas in 1969?\nFind out in the newest @StateDept Foreign Rel…",
-    "geo": null,
-    "id": 1046754616556376060,
+    "id": "1046754616556376064",
     "id_str": "1046754616556376064",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": true,
     "lang": "en",
-    "place": null,
-    "quoted_status_id": 1045790273350115330,
-    "quoted_status_id_str": "1045790273350115328",
-    "quoted_status_permalink": {
-        "display": "twitter.com/HistoryAtState…",
-        "expanded": "https://twitter.com/HistoryAtState/status/1045790273350115328",
-        "url": "https://t.co/481lzbh0uw"
-    },
-    "retweet_count": 1,
-    "retweeted": true,
-    "retweeted_status": {
-        "contributors": null,
-        "coordinates": null,
-        "created_at": "Fri Sep 28 23:26:37 +0000 2018",
-        "display_text_range": [
-            0,
-            157
-        ],
-        "entities": {
-            "hashtags": [
-                {
-                    "indices": [
-                        128,
-                        133
-                    ],
-                    "text": "FRUS"
-                }
-            ],
-            "symbols": [],
-            "urls": [
-                {
-                    "display_url": "twitter.com/HistoryAtState…",
-                    "expanded_url": "https://twitter.com/HistoryAtState/status/1045790273350115328",
-                    "indices": [
-                        158,
-                        181
-                    ],
-                    "url": "https://t.co/481lzbh0uw"
-                }
-            ],
-            "user_mentions": [
-                {
-                    "id": 9624742,
-                    "id_str": "9624742",
-                    "indices": [
-                        99,
-                        109
-                    ],
-                    "name": "Department of State",
-                    "screen_name": "StateDept"
-                },
-                {
-                    "id": 586570880,
-                    "id_str": "586570880",
-                    "indices": [
-                        141,
-                        156
-                    ],
-                    "name": "HistoryAtState",
-                    "screen_name": "HistoryAtState"
-                }
-            ]
-        },
-        "favorite_count": 8,
-        "favorited": true,
-        "full_text": "How was President Nixon and his new Administration viewed overseas in 1969?\nFind out in the newest @StateDept Foreign Relations #FRUS volume @HistoryAtState! https://t.co/481lzbh0uw",
-        "geo": null,
-        "id": 1045817081118240770,
-        "id_str": "1045817081118240768",
-        "in_reply_to_screen_name": null,
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "is_quote_status": true,
-        "lang": "en",
-        "place": null,
-        "possibly_sensitive": false,
-        "quoted_status": {
-            "contributors": null,
-            "coordinates": null,
-            "created_at": "Fri Sep 28 21:40:05 +0000 2018",
-            "display_text_range": [
-                0,
-                145
-            ],
-            "entities": {
-                "hashtags": [
-                    {
-                        "indices": [
-                            94,
-                            99
-                        ],
-                        "text": "FRUS"
-                    }
-                ],
-                "media": [
-                    {
-                        "display_url": "pic.twitter.com/rutT6Sp2hR",
-                        "expanded_url": "https://twitter.com/HistoryAtState/status/1045790273350115328/photo/1",
-                        "id": 1045790271492026370,
-                        "id_str": "1045790271492026369",
-                        "indices": [
-                            146,
-                            169
-                        ],
-                        "media_url": "http://pbs.twimg.com/media/DoNktgnXcAEkp6R.jpg",
-                        "media_url_https": "https://pbs.twimg.com/media/DoNktgnXcAEkp6R.jpg",
-                        "sizes": {
-                            "large": {
-                                "h": 242,
-                                "resize": "fit",
-                                "w": 161
-                            },
-                            "medium": {
-                                "h": 242,
-                                "resize": "fit",
-                                "w": 161
-                            },
-                            "small": {
-                                "h": 242,
-                                "resize": "fit",
-                                "w": 161
-                            },
-                            "thumb": {
-                                "h": 150,
-                                "resize": "crop",
-                                "w": 150
-                            }
-                        },
-                        "type": "photo",
-                        "url": "https://t.co/rutT6Sp2hR"
-                    }
-                ],
-                "symbols": [],
-                "urls": [
-                    {
-                        "display_url": "history.state.gov/historicaldocu…",
-                        "expanded_url": "https://history.state.gov/historicaldocuments/frus1917-72PubDipv08/d5",
-                        "indices": [
-                            108,
-                            131
-                        ],
-                        "url": "https://t.co/7LP0fhKe28"
-                    }
-                ],
-                "user_mentions": [
-                    {
-                        "id": 4276158575,
-                        "id_str": "4276158575",
-                        "indices": [
-                            132,
-                            145
-                        ],
-                        "name": "RichardNixonLibrary",
-                        "screen_name": "NixonLibrary"
-                    }
-                ]
-            },
-            "extended_entities": {
-                "media": [
-                    {
-                        "display_url": "pic.twitter.com/rutT6Sp2hR",
-                        "expanded_url": "https://twitter.com/HistoryAtState/status/1045790273350115328/photo/1",
-                        "ext_alt_text": null,
-                        "id": 1045790271492026370,
-                        "id_str": "1045790271492026369",
-                        "indices": [
-                            146,
-                            169
-                        ],
-                        "media_url": "http://pbs.twimg.com/media/DoNktgnXcAEkp6R.jpg",
-                        "media_url_https": "https://pbs.twimg.com/media/DoNktgnXcAEkp6R.jpg",
-                        "sizes": {
-                            "large": {
-                                "h": 242,
-                                "resize": "fit",
-                                "w": 161
-                            },
-                            "medium": {
-                                "h": 242,
-                                "resize": "fit",
-                                "w": 161
-                            },
-                            "small": {
-                                "h": 242,
-                                "resize": "fit",
-                                "w": 161
-                            },
-                            "thumb": {
-                                "h": 150,
-                                "resize": "crop",
-                                "w": 150
-                            }
-                        },
-                        "type": "photo",
-                        "url": "https://t.co/rutT6Sp2hR"
-                    }
-                ]
-            },
-            "favorite_count": 10,
-            "favorited": false,
-            "full_text": "Wondering how President Nixon and his new administration were viewed overseas? See our latest #FRUS volume. https://t.co/7LP0fhKe28\n@NixonLibrary https://t.co/rutT6Sp2hR",
-            "geo": null,
-            "id": 1045790273350115330,
-            "id_str": "1045790273350115328",
-            "in_reply_to_screen_name": null,
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "is_quote_status": false,
-            "lang": "en",
-            "place": null,
-            "possibly_sensitive": false,
-            "retweet_count": 3,
-            "retweeted": false,
-            "source": "&lt;a href=\"https://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite Inc.&lt;/a&gt;",
-            "truncated": false,
-            "user": {
-                "id": 586570880,
-                "id_str": "586570880"
-            }
-        },
-        "quoted_status_id": 1045790273350115330,
-        "quoted_status_id_str": "1045790273350115328",
-        "quoted_status_permalink": {
-            "display": "twitter.com/HistoryAtState…",
-            "expanded": "https://twitter.com/HistoryAtState/status/1045790273350115328",
-            "url": "https://t.co/481lzbh0uw"
-        },
-        "retweet_count": 1,
-        "retweeted": true,
-        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-        "truncated": false,
-        "user": {
-            "id": 4276158575,
-            "id_str": "4276158575"
-        }
-    },
+    "retweet_count": "0",
+    "retweeted": false,
     "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

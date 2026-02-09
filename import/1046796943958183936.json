@@ -1,10 +1,8 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Mon Oct 01 16:20:14 +0000 2018",
     "display_text_range": [
-        0,
-        140
+        "0",
+        "140"
     ],
     "entities": {
         "hashtags": [],
@@ -12,191 +10,25 @@
         "urls": [],
         "user_mentions": [
             {
-                "id": 153784150,
+                "id": "153784150",
                 "id_str": "153784150",
                 "indices": [
-                    3,
-                    15
+                    "3",
+                    "15"
                 ],
                 "name": "NASA History Office",
                 "screen_name": "NASAhistory"
             }
         ]
     },
-    "favorite_count": 0,
-    "favorited": true,
+    "favorite_count": "0",
+    "favorited": false,
     "full_text": "RT @NASAhistory: \"School children in Bavaria and students in Mexico were excused from classes that day. Many world capitals were deserted a…",
-    "geo": null,
-    "id": 1046796943958183940,
+    "id": "1046796943958183936",
     "id_str": "1046796943958183936",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": true,
     "lang": "en",
-    "place": null,
-    "quoted_status_id": 1046783004696346620,
-    "quoted_status_id_str": "1046783004696346624",
-    "quoted_status_permalink": {
-        "display": "twitter.com/HistoryAtState…",
-        "expanded": "https://twitter.com/HistoryAtState/status/1046783004696346624",
-        "url": "https://t.co/DNZnlrm2wq"
-    },
-    "retweet_count": 19,
-    "retweeted": true,
-    "retweeted_status": {
-        "contributors": null,
-        "coordinates": null,
-        "created_at": "Mon Oct 01 15:30:10 +0000 2018",
-        "display_text_range": [
-            0,
-            251
-        ],
-        "entities": {
-            "hashtags": [
-                {
-                    "indices": [
-                        225,
-                        241
-                    ],
-                    "text": "ArchivesInSpace"
-                },
-                {
-                    "indices": [
-                        242,
-                        251
-                    ],
-                    "text": "NASA60th"
-                }
-            ],
-            "symbols": [],
-            "urls": [
-                {
-                    "display_url": "twitter.com/HistoryAtState…",
-                    "expanded_url": "https://twitter.com/HistoryAtState/status/1046783004696346624",
-                    "indices": [
-                        252,
-                        275
-                    ],
-                    "url": "https://t.co/DNZnlrm2wq"
-                }
-            ],
-            "user_mentions": []
-        },
-        "favorite_count": 46,
-        "favorited": true,
-        "full_text": "\"School children in Bavaria and students in Mexico were excused from classes that day. Many world capitals were deserted at the time of the launch or during other daytime events, as people stayed near their television sets.\" #ArchivesInSpace #NASA60th https://t.co/DNZnlrm2wq",
-        "geo": null,
-        "id": 1046784345355227140,
-        "id_str": "1046784345355227136",
-        "in_reply_to_screen_name": null,
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "is_quote_status": true,
-        "lang": "en",
-        "place": null,
-        "possibly_sensitive": false,
-        "quoted_status": {
-            "contributors": null,
-            "coordinates": null,
-            "created_at": "Mon Oct 01 15:24:51 +0000 2018",
-            "display_text_range": [
-                0,
-                159
-            ],
-            "entities": {
-                "hashtags": [
-                    {
-                        "indices": [
-                            111,
-                            116
-                        ],
-                        "text": "FRUS"
-                    }
-                ],
-                "symbols": [],
-                "urls": [
-                    {
-                        "display_url": "history.state.gov/historicaldocu…",
-                        "expanded_url": "https://www.history.state.gov/historicaldocuments/frus1917-72PubDipv08/d29",
-                        "indices": [
-                            117,
-                            140
-                        ],
-                        "url": "https://t.co/ZHm9bInkqn"
-                    }
-                ],
-                "user_mentions": [
-                    {
-                        "id": 11348282,
-                        "id_str": "11348282",
-                        "indices": [
-                            141,
-                            146
-                        ],
-                        "name": "NASA",
-                        "screen_name": "NASA"
-                    },
-                    {
-                        "id": 153784150,
-                        "id_str": "153784150",
-                        "indices": [
-                            147,
-                            159
-                        ],
-                        "name": "NASA History Office",
-                        "screen_name": "NASAhistory"
-                    }
-                ]
-            },
-            "favorite_count": 4,
-            "favorited": false,
-            "full_text": "Interested in how USIA covered the Apollo 11 moon landing? Read Frank Shakespeare’s memo to President Nixon in #FRUS https://t.co/ZHm9bInkqn @NASA @NASAhistory",
-            "geo": null,
-            "id": 1046783004696346620,
-            "id_str": "1046783004696346624",
-            "in_reply_to_screen_name": null,
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "is_quote_status": false,
-            "lang": "en",
-            "place": null,
-            "possibly_sensitive": false,
-            "retweet_count": 6,
-            "retweeted": false,
-            "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-            "truncated": false,
-            "user": {
-                "id": 586570880,
-                "id_str": "586570880"
-            }
-        },
-        "quoted_status_id": 1046783004696346620,
-        "quoted_status_id_str": "1046783004696346624",
-        "quoted_status_permalink": {
-            "display": "twitter.com/HistoryAtState…",
-            "expanded": "https://twitter.com/HistoryAtState/status/1046783004696346624",
-            "url": "https://t.co/DNZnlrm2wq"
-        },
-        "retweet_count": 19,
-        "retweeted": true,
-        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-        "truncated": false,
-        "user": {
-            "id": 153784150,
-            "id_str": "153784150"
-        }
-    },
+    "retweet_count": "0",
+    "retweeted": false,
     "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

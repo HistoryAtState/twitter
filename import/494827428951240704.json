@@ -1,24 +1,22 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Thu Jul 31 12:50:27 +0000 2014",
     "display_text_range": [
-        0,
-        135
+        "0",
+        "135"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    0,
-                    5
+                    "0",
+                    "5"
                 ],
                 "text": "TDiH"
             },
             {
                 "indices": [
-                    103,
-                    112
+                    "103",
+                    "112"
                 ],
                 "text": "WW1Tweet"
             }
@@ -29,46 +27,34 @@
                 "display_url": "go.usa.gov/5wQ4",
                 "expanded_url": "http://go.usa.gov/5wQ4",
                 "indices": [
-                    113,
-                    135
+                    "113",
+                    "135"
                 ],
                 "url": "http://t.co/5ryoVxkU4I"
             }
         ],
         "user_mentions": [
             {
-                "id": 72814599,
+                "id": "72814599",
                 "id_str": "72814599",
                 "indices": [
-                    11,
-                    27
+                    "11",
+                    "27"
                 ],
                 "name": "U.S. Embassy France",
                 "screen_name": "USEmbassyFrance"
             }
         ]
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "#TDiH 1914 @USEmbassyFrance Amb Herrick reports on financial difficulties &amp;amp; rumors of mobilization #WW1Tweet http://t.co/5ryoVxkU4I",
-    "geo": null,
-    "id": 494827428951240700,
+    "id": "494827428951240704",
     "id_str": "494827428951240704",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 1,
+    "retweet_count": "1",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

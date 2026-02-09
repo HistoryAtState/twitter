@@ -1,24 +1,22 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Mon Nov 28 18:41:47 +0000 2016",
     "display_text_range": [
-        0,
-        140
+        "0",
+        "140"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    35,
-                    40
+                    "35",
+                    "40"
                 ],
                 "text": "FRUS"
             },
             {
                 "indices": [
-                    84,
-                    100
+                    "84",
+                    "100"
                 ],
                 "text": "AHAPerspectives"
             }
@@ -29,120 +27,34 @@
                 "display_url": "bit.ly/2fGaosO",
                 "expanded_url": "http://bit.ly/2fGaosO",
                 "indices": [
-                    103,
-                    126
+                    "103",
+                    "126"
                 ],
                 "url": "https://t.co/JJGtCz6zLP"
             }
         ],
         "user_mentions": [
             {
-                "id": 76944176,
+                "id": "76944176",
                 "id_str": "76944176",
                 "indices": [
-                    3,
-                    17
+                    "3",
+                    "17"
                 ],
                 "name": "American Historical Association",
                 "screen_name": "AHAhistorians"
             }
         ]
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "RT @AHAhistorians: Ever wonder how #FRUS is produced? Rachel Van Bokkem explains in #AHAPerspectives - https://t.co/JJGtCz6zLP @historyatst…",
-    "geo": null,
-    "id": 803307918015791100,
+    "id": "803307918015791108",
     "id_str": "803307918015791108",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "nl",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 2,
-    "retweeted": true,
-    "retweeted_status": {
-        "contributors": null,
-        "coordinates": null,
-        "created_at": "Mon Nov 28 14:45:01 +0000 2016",
-        "display_text_range": [
-            0,
-            123
-        ],
-        "entities": {
-            "hashtags": [
-                {
-                    "indices": [
-                        16,
-                        21
-                    ],
-                    "text": "FRUS"
-                },
-                {
-                    "indices": [
-                        65,
-                        81
-                    ],
-                    "text": "AHAPerspectives"
-                }
-            ],
-            "symbols": [],
-            "urls": [
-                {
-                    "display_url": "bit.ly/2fGaosO",
-                    "expanded_url": "http://bit.ly/2fGaosO",
-                    "indices": [
-                        84,
-                        107
-                    ],
-                    "url": "https://t.co/JJGtCz6zLP"
-                }
-            ],
-            "user_mentions": [
-                {
-                    "id": 586570880,
-                    "id_str": "586570880",
-                    "indices": [
-                        108,
-                        123
-                    ],
-                    "name": "HistoryAtState",
-                    "screen_name": "HistoryAtState"
-                }
-            ]
-        },
-        "favorite_count": 3,
-        "favorited": false,
-        "full_text": "Ever wonder how #FRUS is produced? Rachel Van Bokkem explains in #AHAPerspectives - https://t.co/JJGtCz6zLP @historyatstate",
-        "geo": null,
-        "id": 803248335930982400,
-        "id_str": "803248335930982401",
-        "in_reply_to_screen_name": null,
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "is_quote_status": false,
-        "lang": "nl",
-        "place": null,
-        "possibly_sensitive": false,
-        "retweet_count": 2,
-        "retweeted": true,
-        "source": "&lt;a href=\"https://sproutsocial.com\" rel=\"nofollow\"&gt;Sprout Social&lt;/a&gt;",
-        "truncated": false,
-        "user": {
-            "id": 76944176,
-            "id_str": "76944176"
-        }
-    },
+    "retweet_count": "0",
+    "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

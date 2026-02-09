@@ -1,10 +1,8 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Mon Feb 08 16:16:20 +0000 2021",
     "display_text_range": [
-        0,
-        140
+        "0",
+        "140"
     ],
     "entities": {
         "hashtags": [],
@@ -12,154 +10,25 @@
         "urls": [],
         "user_mentions": [
             {
-                "id": 9624742,
+                "id": "9624742",
                 "id_str": "9624742",
                 "indices": [
-                    3,
-                    13
+                    "3",
+                    "13"
                 ],
                 "name": "Department of State",
                 "screen_name": "StateDept"
             }
         ]
     },
-    "favorite_count": 0,
-    "favorited": true,
+    "favorite_count": "0",
+    "favorited": false,
     "full_text": "RT @StateDept: We mourn the loss of George P. Shultz, the 60th Secretary of State whose life and legacy has inspired a generation of diplom…",
-    "geo": null,
-    "id": 1358811915947016190,
+    "id": "1358811915947016195",
     "id_str": "1358811915947016195",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
-    "retweet_count": 251,
-    "retweeted": true,
-    "retweeted_status": {
-        "contributors": null,
-        "coordinates": null,
-        "created_at": "Sun Feb 07 23:28:52 +0000 2021",
-        "display_text_range": [
-            0,
-            279
-        ],
-        "entities": {
-            "hashtags": [],
-            "media": [
-                {
-                    "display_url": "pic.twitter.com/crDfx0u3Tt",
-                    "expanded_url": "https://twitter.com/StateDept/status/1358558377224384513/photo/1",
-                    "id": 1358558290842681340,
-                    "id_str": "1358558290842681344",
-                    "indices": [
-                        280,
-                        303
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/EtqRkUxXAAA7KNR.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/EtqRkUxXAAA7KNR.jpg",
-                    "sizes": {
-                        "large": {
-                            "h": 2048,
-                            "resize": "fit",
-                            "w": 1843
-                        },
-                        "medium": {
-                            "h": 1200,
-                            "resize": "fit",
-                            "w": 1080
-                        },
-                        "small": {
-                            "h": 680,
-                            "resize": "fit",
-                            "w": 612
-                        },
-                        "thumb": {
-                            "h": 150,
-                            "resize": "crop",
-                            "w": 150
-                        }
-                    },
-                    "type": "photo",
-                    "url": "https://t.co/crDfx0u3Tt"
-                }
-            ],
-            "symbols": [],
-            "urls": [],
-            "user_mentions": []
-        },
-        "extended_entities": {
-            "media": [
-                {
-                    "display_url": "pic.twitter.com/crDfx0u3Tt",
-                    "expanded_url": "https://twitter.com/StateDept/status/1358558377224384513/photo/1",
-                    "ext_alt_text": null,
-                    "id": 1358558290842681340,
-                    "id_str": "1358558290842681344",
-                    "indices": [
-                        280,
-                        303
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/EtqRkUxXAAA7KNR.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/EtqRkUxXAAA7KNR.jpg",
-                    "sizes": {
-                        "large": {
-                            "h": 2048,
-                            "resize": "fit",
-                            "w": 1843
-                        },
-                        "medium": {
-                            "h": 1200,
-                            "resize": "fit",
-                            "w": 1080
-                        },
-                        "small": {
-                            "h": 680,
-                            "resize": "fit",
-                            "w": 612
-                        },
-                        "thumb": {
-                            "h": 150,
-                            "resize": "crop",
-                            "w": 150
-                        }
-                    },
-                    "type": "photo",
-                    "url": "https://t.co/crDfx0u3Tt"
-                }
-            ]
-        },
-        "favorite_count": 956,
-        "favorited": true,
-        "full_text": "We mourn the loss of George P. Shultz, the 60th Secretary of State whose life and legacy has inspired a generation of diplomats. Under his leadership, U.S. diplomacy helped to pave the way for the ending of the Cold War. We offer deepest condolences to his family and loved ones. https://t.co/crDfx0u3Tt",
-        "geo": null,
-        "id": 1358558377224384510,
-        "id_str": "1358558377224384513",
-        "in_reply_to_screen_name": null,
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "is_quote_status": false,
-        "lang": "en",
-        "place": null,
-        "possibly_sensitive": false,
-        "retweet_count": 251,
-        "retweeted": true,
-        "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
-        "truncated": false,
-        "user": {
-            "id": 9624742,
-            "id_str": "9624742"
-        }
-    },
+    "retweet_count": "0",
+    "retweeted": false,
     "source": "&lt;a href=\"https://mobile.twitter.com\" rel=\"nofollow\"&gt;Twitter Web App&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

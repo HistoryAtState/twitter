@@ -1,17 +1,15 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Fri Aug 22 10:24:35 +0000 2014",
     "display_text_range": [
-        0,
-        137
+        "0",
+        "137"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    88,
-                    97
+                    "88",
+                    "97"
                 ],
                 "text": "WW1Tweet"
             }
@@ -22,46 +20,34 @@
                 "display_url": "ow.ly/ABrXl",
                 "expanded_url": "http://ow.ly/ABrXl",
                 "indices": [
-                    115,
-                    137
+                    "115",
+                    "137"
                 ],
                 "url": "http://t.co/xWhAdCP5T2"
             }
         ],
         "user_mentions": [
             {
-                "id": 72814599,
+                "id": "72814599",
                 "id_str": "72814599",
                 "indices": [
-                    98,
-                    114
+                    "98",
+                    "114"
                 ],
                 "name": "U.S. Embassy France",
                 "screen_name": "USEmbassyFrance"
             }
         ]
     },
-    "favorite_count": 1,
+    "favorite_count": "1",
     "favorited": false,
     "full_text": "Aug 1914: French Amb to the US JJ Jusserand had an incredible 3 week Paris-&amp;gt;WDC trip #WW1Tweet @USEmbassyFrance http://t.co/xWhAdCP5T2",
-    "geo": null,
-    "id": 502763254037614590,
+    "id": "502763254037614592",
     "id_str": "502763254037614592",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 0,
+    "retweet_count": "0",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

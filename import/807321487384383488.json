@@ -1,60 +1,58 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Fri Dec 09 20:30:16 +0000 2016",
     "display_text_range": [
-        0,
-        142
+        "0",
+        "166"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    99,
-                    112
+                    "99",
+                    "112"
                 ],
                 "text": "RIPJohnGlenn"
             },
             {
                 "indices": [
-                    113,
-                    118
+                    "113",
+                    "118"
                 ],
                 "text": "FRUS"
             }
         ],
         "media": [
             {
-                "display_url": "pic.twitter.com/vcznbNmMLR",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/807321487384383488/photo/1",
-                "id": 807321485056610300,
+                "display_url": "pic.x.com/vcznbNmMLR",
+                "expanded_url": "https://x.com/HistoryAtState/status/807321487384383488/photo/1",
+                "id": "807321485056610308",
                 "id_str": "807321485056610308",
                 "indices": [
-                    143,
-                    166
+                    "143",
+                    "166"
                 ],
                 "media_url": "http://pbs.twimg.com/media/CzQunQBXEAQAnxf.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/CzQunQBXEAQAnxf.jpg",
                 "sizes": {
                     "large": {
-                        "h": 412,
+                        "h": "412",
                         "resize": "fit",
-                        "w": 600
+                        "w": "600"
                     },
                     "medium": {
-                        "h": 412,
+                        "h": "412",
                         "resize": "fit",
-                        "w": 600
+                        "w": "600"
                     },
                     "small": {
-                        "h": 412,
+                        "h": "412",
                         "resize": "fit",
-                        "w": 600
+                        "w": "600"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -67,8 +65,8 @@
                 "display_url": "go.usa.gov/x8pK3",
                 "expanded_url": "http://go.usa.gov/x8pK3",
                 "indices": [
-                    119,
-                    142
+                    "119",
+                    "142"
                 ],
                 "url": "https://t.co/5TuwNWzA4m"
             }
@@ -78,37 +76,36 @@
     "extended_entities": {
         "media": [
             {
-                "display_url": "pic.twitter.com/vcznbNmMLR",
-                "expanded_url": "https://twitter.com/HistoryAtState/status/807321487384383488/photo/1",
-                "ext_alt_text": null,
-                "id": 807321485056610300,
+                "display_url": "pic.x.com/vcznbNmMLR",
+                "expanded_url": "https://x.com/HistoryAtState/status/807321487384383488/photo/1",
+                "id": "807321485056610308",
                 "id_str": "807321485056610308",
                 "indices": [
-                    143,
-                    166
+                    "143",
+                    "166"
                 ],
                 "media_url": "http://pbs.twimg.com/media/CzQunQBXEAQAnxf.jpg",
                 "media_url_https": "https://pbs.twimg.com/media/CzQunQBXEAQAnxf.jpg",
                 "sizes": {
                     "large": {
-                        "h": 412,
+                        "h": "412",
                         "resize": "fit",
-                        "w": 600
+                        "w": "600"
                     },
                     "medium": {
-                        "h": 412,
+                        "h": "412",
                         "resize": "fit",
-                        "w": 600
+                        "w": "600"
                     },
                     "small": {
-                        "h": 412,
+                        "h": "412",
                         "resize": "fit",
-                        "w": 600
+                        "w": "600"
                     },
                     "thumb": {
-                        "h": 150,
+                        "h": "150",
                         "resize": "crop",
-                        "w": 150
+                        "w": "150"
                     }
                 },
                 "type": "photo",
@@ -116,27 +113,15 @@
             }
         ]
     },
-    "favorite_count": 7,
+    "favorite_count": "7",
     "favorited": false,
     "full_text": "Glenn’s 1962 flight &amp;amp; Khrushchev ltr prompted Kennedy to send Khrushchev 2 ltrs abt space coop #RIPJohnGlenn #FRUS https://t.co/5TuwNWzA4m https://t.co/vcznbNmMLR",
-    "geo": null,
-    "id": 807321487384383490,
+    "id": "807321487384383488",
     "id_str": "807321487384383488",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 0,
+    "retweet_count": "0",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

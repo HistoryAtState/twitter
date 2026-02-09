@@ -1,24 +1,22 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Tue Jul 29 13:03:19 +0000 2014",
     "display_text_range": [
-        0,
-        125
+        "0",
+        "125"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    0,
-                    5
+                    "0",
+                    "5"
                 ],
                 "text": "TDiH"
             },
             {
                 "indices": [
-                    93,
-                    102
+                    "93",
+                    "102"
                 ],
                 "text": "WW1Tweet"
             }
@@ -29,46 +27,34 @@
                 "display_url": "go.usa.gov/5wBk",
                 "expanded_url": "http://go.usa.gov/5wBk",
                 "indices": [
-                    103,
-                    125
+                    "103",
+                    "125"
                 ],
                 "url": "http://t.co/uShATJzXOp"
             }
         ],
         "user_mentions": [
             {
-                "id": 72814599,
+                "id": "72814599",
                 "id_str": "72814599",
                 "indices": [
-                    11,
-                    27
+                    "11",
+                    "27"
                 ],
                 "name": "U.S. Embassy France",
                 "screen_name": "USEmbassyFrance"
             }
         ]
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "#TDiH 1914 @USEmbassyFrance Amb Herrick reports on public opinion, stock exchange &amp;amp; more #WW1Tweet http://t.co/uShATJzXOp",
-    "geo": null,
-    "id": 494105891684503550,
+    "id": "494105891684503553",
     "id_str": "494105891684503553",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 2,
+    "retweet_count": "2",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

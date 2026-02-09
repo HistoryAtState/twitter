@@ -1,24 +1,22 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Wed Aug 15 13:02:03 +0000 2012",
     "display_text_range": [
-        0,
-        132
+        "0",
+        "132"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    110,
-                    126
+                    "110",
+                    "126"
                 ],
                 "text": "twitterstorians"
             },
             {
                 "indices": [
-                    127,
-                    132
+                    "127",
+                    "132"
                 ],
                 "text": "FRUS"
             }
@@ -29,35 +27,23 @@
                 "display_url": "go.usa.gov/73p",
                 "expanded_url": "http://go.usa.gov/73p",
                 "indices": [
-                    89,
-                    109
+                    "89",
+                    "109"
                 ],
                 "url": "http://t.co/kkHlg7ow"
             }
         ],
         "user_mentions": []
     },
-    "favorite_count": 3,
+    "favorite_count": "3",
     "favorited": false,
     "full_text": "The Office of the Historian releases Foreign Relations, Arab-Israeli Dispute, 1974–1976. http://t.co/kkHlg7ow #twitterstorians #FRUS",
-    "geo": null,
-    "id": 235723023821451264,
+    "id": "235723023821451264",
     "id_str": "235723023821451264",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 12,
+    "retweet_count": "9",
     "retweeted": false,
     "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

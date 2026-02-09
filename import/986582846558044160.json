@@ -1,10 +1,8 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Wed Apr 18 12:30:55 +0000 2018",
     "display_text_range": [
-        0,
-        140
+        "0",
+        "140"
     ],
     "entities": {
         "hashtags": [],
@@ -12,185 +10,35 @@
         "urls": [],
         "user_mentions": [
             {
-                "id": 9624742,
+                "id": "9624742",
                 "id_str": "9624742",
                 "indices": [
-                    3,
-                    13
+                    "3",
+                    "13"
                 ],
                 "name": "Department of State",
                 "screen_name": "StateDept"
             },
             {
-                "id": 1323730225067339780,
-                "id_str": "1323730225067339784",
+                "id": "1879644163769335808",
+                "id_str": "1879644163769335808",
                 "indices": [
-                    108,
-                    119
+                    "108",
+                    "119"
                 ],
                 "name": "The White House",
                 "screen_name": "WhiteHouse"
             }
         ]
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "RT @StateDept: \"Barbara Bush represented the best of our country to the world, from our embassy in China to @WhiteHouse as First Lady. We'r…",
-    "geo": null,
-    "id": 986582846558044160,
+    "id": "986582846558044160",
     "id_str": "986582846558044160",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
-    "retweet_count": 288,
-    "retweeted": true,
-    "retweeted_status": {
-        "contributors": null,
-        "coordinates": null,
-        "created_at": "Wed Apr 18 02:43:45 +0000 2018",
-        "display_text_range": [
-            0,
-            291
-        ],
-        "entities": {
-            "hashtags": [],
-            "media": [
-                {
-                    "display_url": "pic.twitter.com/VcgJ2oVwhb",
-                    "expanded_url": "https://twitter.com/StateDept/status/986435084025819136/photo/1",
-                    "id": 986434805821620220,
-                    "id_str": "986434805821620224",
-                    "indices": [
-                        292,
-                        315
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/DbCFOsMUQAA4nbk.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/DbCFOsMUQAA4nbk.jpg",
-                    "sizes": {
-                        "large": {
-                            "h": 675,
-                            "resize": "fit",
-                            "w": 1200
-                        },
-                        "medium": {
-                            "h": 675,
-                            "resize": "fit",
-                            "w": 1200
-                        },
-                        "small": {
-                            "h": 383,
-                            "resize": "fit",
-                            "w": 680
-                        },
-                        "thumb": {
-                            "h": 150,
-                            "resize": "crop",
-                            "w": 150
-                        }
-                    },
-                    "type": "photo",
-                    "url": "https://t.co/VcgJ2oVwhb"
-                }
-            ],
-            "symbols": [],
-            "urls": [],
-            "user_mentions": [
-                {
-                    "id": 1323730225067339780,
-                    "id_str": "1323730225067339784",
-                    "indices": [
-                        93,
-                        104
-                    ],
-                    "name": "The White House",
-                    "screen_name": "WhiteHouse"
-                },
-                {
-                    "id": 1967216306,
-                    "id_str": "1967216306",
-                    "indices": [
-                        277,
-                        291
-                    ],
-                    "name": "Ned Price",
-                    "screen_name": "StateDeptSpox"
-                }
-            ]
-        },
-        "extended_entities": {
-            "media": [
-                {
-                    "display_url": "pic.twitter.com/VcgJ2oVwhb",
-                    "expanded_url": "https://twitter.com/StateDept/status/986435084025819136/photo/1",
-                    "ext_alt_text": null,
-                    "id": 986434805821620220,
-                    "id_str": "986434805821620224",
-                    "indices": [
-                        292,
-                        315
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/DbCFOsMUQAA4nbk.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/DbCFOsMUQAA4nbk.jpg",
-                    "sizes": {
-                        "large": {
-                            "h": 675,
-                            "resize": "fit",
-                            "w": 1200
-                        },
-                        "medium": {
-                            "h": 675,
-                            "resize": "fit",
-                            "w": 1200
-                        },
-                        "small": {
-                            "h": 383,
-                            "resize": "fit",
-                            "w": 680
-                        },
-                        "thumb": {
-                            "h": 150,
-                            "resize": "crop",
-                            "w": 150
-                        }
-                    },
-                    "type": "photo",
-                    "url": "https://t.co/VcgJ2oVwhb"
-                }
-            ]
-        },
-        "favorite_count": 797,
-        "favorited": false,
-        "full_text": "\"Barbara Bush represented the best of our country to the world, from our embassy in China to @WhiteHouse as First Lady. We're grateful for her legacy of public service, volunteerism &amp;amp; family. We offer deepest condolences &amp;amp; thoughts &amp;amp; prayers to her loved ones.\" -- @StateDeptSpox https://t.co/VcgJ2oVwhb",
-        "geo": null,
-        "id": 986435084025819140,
-        "id_str": "986435084025819136",
-        "in_reply_to_screen_name": null,
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "is_quote_status": false,
-        "lang": "en",
-        "place": null,
-        "possibly_sensitive": false,
-        "retweet_count": 288,
-        "retweeted": true,
-        "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-        "truncated": false,
-        "user": {
-            "id": 9624742,
-            "id_str": "9624742"
-        }
-    },
+    "retweet_count": "0",
+    "retweeted": false,
     "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

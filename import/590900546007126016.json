@@ -1,24 +1,22 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Wed Apr 22 15:30:43 +0000 2015",
     "display_text_range": [
-        0,
-        126
+        "0",
+        "126"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    47,
-                    52
+                    "47",
+                    "52"
                 ],
                 "text": "FRUS"
             },
             {
                 "indices": [
-                    117,
-                    126
+                    "117",
+                    "126"
                 ],
                 "text": "SHFG2015"
             }
@@ -29,46 +27,34 @@
                 "display_url": "shfg.org/shfg/feature-a…",
                 "expanded_url": "http://shfg.org/shfg/feature-archive/federalist-feature/",
                 "indices": [
-                    94,
-                    116
+                    "94",
+                    "116"
                 ],
                 "url": "http://t.co/606kYs1L3v"
             }
         ],
         "user_mentions": [
             {
-                "id": 486867266,
+                "id": "486867266",
                 "id_str": "486867266",
                 "indices": [
-                    68,
-                    83
+                    "68",
+                    "83"
                 ],
                 "name": "SHFGHistorians",
                 "screen_name": "SHFGHistorians"
             }
         ]
     },
-    "favorite_count": 0,
+    "favorite_count": "0",
     "favorited": false,
     "full_text": "Come see our presentation on the life cycle of #FRUS volumes at the @SHFGHistorians meeting | http://t.co/606kYs1L3v #SHFG2015",
-    "geo": null,
-    "id": 590900546007126020,
+    "id": "590900546007126016",
     "id_str": "590900546007126016",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 0,
+    "retweet_count": "0",
     "retweeted": false,
     "source": "&lt;a href=\"http://www.hootsuite.com\" rel=\"nofollow\"&gt;Hootsuite&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }

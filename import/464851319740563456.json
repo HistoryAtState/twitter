@@ -1,24 +1,22 @@
 {
-    "contributors": null,
-    "coordinates": null,
     "created_at": "Fri May 09 19:36:05 +0000 2014",
     "display_text_range": [
-        0,
-        117
+        "0",
+        "117"
     ],
     "entities": {
         "hashtags": [
             {
                 "indices": [
-                    95,
-                    100
+                    "95",
+                    "100"
                 ],
                 "text": "FRUS"
             },
             {
                 "indices": [
-                    101,
-                    117
+                    "101",
+                    "117"
                 ],
                 "text": "twitterstorians"
             }
@@ -29,35 +27,23 @@
                 "display_url": "go.usa.gov/KmE5",
                 "expanded_url": "http://go.usa.gov/KmE5",
                 "indices": [
-                    72,
-                    94
+                    "72",
+                    "94"
                 ],
                 "url": "http://t.co/33VO2Dz7am"
             }
         ],
         "user_mentions": []
     },
-    "favorite_count": 1,
+    "favorite_count": "1",
     "favorited": false,
     "full_text": "A special relationship? Read about US-UK relations from 1973 to 1976 at http://t.co/33VO2Dz7am #FRUS #twitterstorians",
-    "geo": null,
-    "id": 464851319740563460,
+    "id": "464851319740563456",
     "id_str": "464851319740563456",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
     "lang": "en",
-    "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 0,
+    "retweet_count": "0",
     "retweeted": false,
     "source": "&lt;a href=\"http://twitter.com\" rel=\"nofollow\"&gt;Twitter Web Client&lt;/a&gt;",
-    "truncated": false,
-    "user": {
-        "id": 586570880,
-        "id_str": "586570880"
-    }
+    "truncated": false
 }
